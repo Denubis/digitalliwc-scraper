@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-766c3a1cfcecb-5
+
+
+
+Monument
+	ID:	53704
+	Entdeckungsort:	Aphrodisias, Geyre, Lelegonopolis, Megalopolis, Ninoe, Stavropolis, Caria
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	sacrificial assistant thymiaterion, turibulum, incense-burner camillus kalator (sacrificial assistant) hammer, mallet, sphyra, malleus incense box, libanotis, acerra
+	Beschreibung:	Opfernder mit nicht erhaltenem Objekt in rechter Hand, ein Opferdiener schwingt beidhändig ein Schlagwerkzeug über einem Buckelrind. Linke Nebenseite: Eine Frau opfert an einem Weihrauchständer. Links steht Opferdiener mit langen Haaren in kurzem Chiton und hält beidhändig eine Acerra.
+	Bibliographie:	Erim, K. T., TürkArkDerg 20 (1973) 67-68 Abb. 31-35.
+	Kommentar:	Im Museumsgarten.
+Datierung
+	Periode:	200 - 250 
+Epoche
+	Name:	1. Hälfte 3. Jh. n. Chr.
+	Periode:	200 - 250 
+	Sequenznummer:	3320
+Szene
+	ID:	59097
+	Beschreibung:	Opfernder mit nicht erhaltenem Objekt in rechter Hand, ein Opferdiener schwingt beidhändig ein Schlagwerkzeug über einem Buckelrind. Linke Nebenseite: Eine Frau opfert an einem Weihrauchständer. Links steht Opferdiener mit langen Haaren in kurzem Chiton und hält beidhändig eine Acerra.
+Catalog Thes CRA
+	Indexnummer:	42
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	TR
+	Stadt:	Aphrodisias
+	Name:	Musée
+	Direktor:	Prof. R. R. R. Smith
+	Adresse:	Beaumont Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	Ashmolean Museum of Art and Archaeology
+	Stadt des Kontaktzenters:	Oxford OX1 2PH
+	Rechteinhaber der Fotos:	© Phot. New York University, Aphrodisias Excavations
+	Hat die Fotorechte:	1

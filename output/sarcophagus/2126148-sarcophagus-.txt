@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-76bc9a2b88319-4
+
+
+
+Monument
+	ID:	203123
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Beschreibung:	Deceased girl surrounded by family members.
+	Bibliographie:	Amedick, R., Vita Privata. die Sarkophage mit Darstellungen aus dem Menschenleben, SarkRel I, 4 (1991) 131 no. 60 pl. 70, 2. 4.
+	Museums-URL:	http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=459882&partId=1&searchText=1805,0703.144&from=bc&fromDate=800&to=ad&toDate=400&page=1
+Datierung
+	Periode:	100 - 200 
+Epoche
+	Name:	2. Jh. n. Chr.
+	Periode:	100 - 200 
+	Sequenznummer:	3140
+Szene
+	ID:	100161
+	Beschreibung:	Deceased girl surrounded by family members.
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	5
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VI. 1.e. Tod, röm.
+	Bandnummer:	6
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1805.7-3.144
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	British Museum
+	Direktor:	Dr. Charles Arnold
+	Adresse:	Great Russell Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	British Museum - Greek and Roman Antiquities
+	Stadt des Kontaktzenters:	London WC 1B 3DG
+	Rechteinhaber der Fotos:	© British Museum, London
+	Hat die Fotorechte:	1

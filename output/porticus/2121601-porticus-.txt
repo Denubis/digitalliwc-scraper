@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-767b98865090a-9
+
+
+
+Monument
+	ID:	54808
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	Triangular Forum
+	Objekt:	porticus
+	Land:	CH
+	Kategorie:	architecture
+	Beschreibung:	Portici; place of shelter for the worshipper and for the placement of votive offerings
+Szene
+	ID:	60248
+	Beschreibung:	Portici; place of shelter for the worshipper and for the placement of votive offerings
+Catalog Thes CRA
+	Indexnummer:	16
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Porticus, Rom.
+	Lemata:	Porticus, Rom.
+	Sequenznummer:	3934
+	Bandnummer:	4
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Portici
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Foro Triangolare
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

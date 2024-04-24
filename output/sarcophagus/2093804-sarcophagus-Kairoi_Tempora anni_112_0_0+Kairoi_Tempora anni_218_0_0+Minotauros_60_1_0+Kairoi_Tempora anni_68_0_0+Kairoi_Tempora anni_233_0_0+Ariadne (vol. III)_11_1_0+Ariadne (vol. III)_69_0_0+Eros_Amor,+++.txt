@@ -1,0 +1,108 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ee31cb79161-1
+Kairoi/Tempora anni_112_0_0
+Kairoi/Tempora anni_218_0_0
+Minotauros_60_1_0
+Kairoi/Tempora anni_68_0_0
+Kairoi/Tempora anni_233_0_0
+Ariadne (vol. III)_11_1_0
+Ariadne (vol. III)_69_0_0
+Eros/Amor, Cupido_389_1_0
+Eros/Amor, Cupido_ad 190_0_0
+
+
+
+Monument
+	ID:	23323
+	Entdeckungsort:	Capranica
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido Kairoi/Tempora anni Minotauros Ariadne
+	Beschreibung:	Front side: Four nude Erotes depicted by their wreaths as Seasons holding a garland. Over the central garland Minotauros, fallen on one knee, facing Theseus.
+	Museums-URL:	http://www.metmuseum.org/art/collection/search/245585
+Datierung
+	Periode:	120 - 130 
+Datierung
+	Periode:	100 - 300 
+Szene
+	ID:	24467
+	Szenerieangabe:	couvercle
+	Beschreibung:	Front side: Four nude Erotes depicted by their wreaths as Seasons holding a garland.
+	Sequenznummer:	20
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	112
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	218
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	48473
+	Beschreibung:	Over the central garland Minotauros, fallen on one knee, facing Theseus.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/new_york/metropolitan_museum_of_art/48473X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/new_york/metropolitan_museum_of_art/48473X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/new_york/metropolitan_museum_of_art/48473X003.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Minotauros
+	Katalognummer:	60
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	68
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	233
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ariadne (vol. III)
+	Katalognummer:	11
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ariadne (vol. III)
+	Katalognummer:	69
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	389
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 190
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	90.12a-b
+Museum
+	Land:	US
+	Stadt:	New York
+	Name:	Metropolitan Museum of Art
+	Direktor:	Eileen Sullivan, Assistant Museum Librarian
+	Anrede:	Dear Ms Sullivan,
+	Adresse:	1000 Fifth Avenue at 82nd Street
+	Postleitzahl:	USA-
+	Kontaktzenter:	The Metropolitan Museum of Art                          The Photograph Library
+	Stadt des Kontaktzenters:	New York, NY 10028-0198
+	Rechteinhaber der Fotos:	© Metropolitan Museum of Art
+	Hat die Fotorechte:	1

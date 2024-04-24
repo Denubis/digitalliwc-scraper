@@ -1,0 +1,70 @@
+http://ark.dasch.swiss/ark:/72163/080e-74eddd9de0cae-9
+Hypnos/Somnus_79_0_0
+Endymion_78_1_0
+
+
+
+Monument
+	ID:	23300
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Endymion Hypnos/Somnus
+Szene
+	ID:	24442
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/cliveden_buckinghamshire/24442X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/cliveden_buckinghamshire/24442X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/cliveden_buckinghamshire/24442X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/cliveden_buckinghamshire/24442X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/cliveden_buckinghamshire/24442X005.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/cliveden_buckinghamshire/24442X006.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/cliveden_buckinghamshire/24442X007.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/cliveden_buckinghamshire/24442X008.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/cliveden_buckinghamshire/24442X009.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	79
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	78
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 1, 80
+Museum
+	Land:	GB
+	Stadt:	Cliveden (Buckinghamshire)
+	Rechteinhaber der Fotos:	© Cliveden
+	Hat die Fotorechte:	0

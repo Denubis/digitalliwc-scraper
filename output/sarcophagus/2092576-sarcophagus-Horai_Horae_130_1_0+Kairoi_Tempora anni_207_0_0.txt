@@ -1,0 +1,55 @@
+http://ark.dasch.swiss/ark:/72163/080e-74dca36a7e465-f
+Horai/Horae_130_1_0
+Kairoi/Tempora anni_207_0_0
+
+
+
+Monument
+	ID:	22090
+	Entdeckungsort:	Modena
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Horai/Horae Kairoi/Tempora anni
+	Beschreibung:	Sarcophagus of P. Vettius Sabinus. Sarcophagus of the tabernacle type. In the acroteria there is a complete cycle of birds and seasonal plants. In those at the back are the busts of two Horae, namely Spring and Summer.
+Datierung
+	Periode:	193 - 235 
+Epoche
+	Name:	severisch
+	Periode:	193 - 235 
+	Sequenznummer:	1230
+Szene
+	ID:	23106
+	Beschreibung:	Sarcophagus of the tabernacle type. In the acroteria there is a complete cycle of birds and seasonal plants. In those at the back are the busts of two Horae, namely Spring and Summer.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/modena/galleria_e_museo_estense/23106X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/modena/galleria_e_museo_estense/23106X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/modena/galleria_e_museo_estense/23106X102.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	130
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	207
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Modena
+	Name:	Galleria e Museo Estense
+	Rechteinhaber der Fotos:	© Galleria e Museo Estense, Modena
+	Hat die Fotorechte:	1

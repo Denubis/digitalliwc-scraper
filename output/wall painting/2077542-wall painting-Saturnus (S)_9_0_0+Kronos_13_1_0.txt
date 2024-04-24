@@ -1,0 +1,48 @@
+http://ark.dasch.swiss/ark:/72163/080e-7405b436f1143-0
+Saturnus (S)_9_0_0
+Kronos_13_1_0
+
+
+
+Monument
+	ID:	6923
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 9,6 (House of the Dioskouroi)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Kronos Saturnus
+	Beschreibung:	Frontal view of Kronos, dressed in a mantle, covering body from waist downward and back of the head. Holding harpe in his raised right hand.
+Szene
+	ID:	7070
+	Beschreibung:	Frontal view of Kronos, dressed in a mantle, covering body from waist downward and back of the head. Holding harpe in his raised right hand.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/7070X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Saturnus (S)
+	Katalognummer:	9
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kronos
+	Katalognummer:	13
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8837
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

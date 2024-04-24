@@ -1,0 +1,54 @@
+http://ark.dasch.swiss/ark:/72163/080e-741da2eaacb75-2
+Artemis/Diana_315b_0_0
+Okeanides_8_0_0
+Hades/Pluto_33_1_0
+
+
+
+Monument
+	ID:	8613
+	Objekt:	sarcophagus lid
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hades/Pluto Okeanides Artemis/Diana
+	Beschreibung:	Behind the chariot, between Venus and Minerva an Okeanid looking back at the rape of Persephone.
+Szene
+	ID:	49278
+	Beschreibung:	Behind the chariot, between Venus and Minerva an Okeanid looking back at the rape of Persephone.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/russian_federation/st_petersburg/the_state_hermitage_museum/49278X202.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	315b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Okeanides
+	Katalognummer:	8
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	33
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	а 184
+Museum
+	Land:	RU
+	Stadt:	St. Petersburg
+	Name:	The State Hermitage Museum
+	Direktor:	Ms. Anastasia Mikliaeva, Head Rights & Reproductions
+	Adresse:	Dvortsovaya Nabereznaja 34
+	Postleitzahl:	190 000
+	Kontaktzenter:	The State Hermitage Museum
+	Stadt des Kontaktzenters:	St. Petersburg / Russia
+	Rechteinhaber der Fotos:	© The State Hermitage Museum, St. Petersburg
+	Kommentar:	Pour la céramique, les chiffres avec la lettre B se rapportent au catalogue d'O. Waldhauer (1914).
+	Hat die Fotorechte:	1

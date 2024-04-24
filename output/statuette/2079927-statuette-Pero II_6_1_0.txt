@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-7427cd1e3d198-8
+Pero II_6_1_0
+
+
+
+Monument
+	ID:	9331
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 13,19 (Domus Sexti Pompei Axiochi)
+	Objekt:	statuette
+	Material:	terracotta
+	Land:	CH
+	Kategorie:	sculpture in the round of terracotta
+	Name:	Pero II
+	Beschreibung:	Pero (II) breastfeeding Micon.
+Szene
+	ID:	9533
+	Beschreibung:	Pero (II) breastfeeding Micon.
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/9533X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/9533X202.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Pero II
+	Katalognummer:	6
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	22580
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-74deb61aa28fa-a
+Iuno_226_0_0
+Artemis/Diana_38_0_0
+
+
+
+Monument
+	ID:	22239
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Haus of Augustus, Domus Augusti
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Iuno Artemis/Diana
+	Beschreibung:	In the "Studiolo" in the centre of the ceiling a female figure, held in the air by a winged genius; in her hand a peacock feather, therefore probably Iuno.
+Szene
+	ID:	23298
+	Beschreibung:	In the "Studiolo" in the centre of the ceiling a female figure, held in the air by a winged genius; in her hand a peacock feather, therefore probably Iuno.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Iuno
+	Katalognummer:	226
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	38
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palatino, Casa di Augusto
+	Rechteinhaber der Fotos:	© Roma
+	Hat die Fotorechte:	1

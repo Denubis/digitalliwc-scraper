@@ -1,0 +1,75 @@
+http://ark.dasch.swiss/ark:/72163/080e-74b609a370aa9-a
+Narkissos_37_1_0
+Eros/Amor, Cupido_58_0_0
+
+
+
+Monument
+	ID:	19374
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Via Appia
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido Narkissos
+	Beschreibung:	Narkissos and Eros.
+Szene
+	ID:	20269
+	Beschreibung:	Narkissos and Eros.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/20269X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/20269X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/20269X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/20269X303.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/20269X304.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/20269X305.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/20269X306.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/20269X307.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Narkissos
+	Katalognummer:	37
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	58
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9253
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

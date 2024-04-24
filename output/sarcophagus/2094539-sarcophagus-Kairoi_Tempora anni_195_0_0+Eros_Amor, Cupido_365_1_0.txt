@@ -1,0 +1,54 @@
+http://ark.dasch.swiss/ark:/72163/080e-74f8b3d5921fc-8
+Kairoi/Tempora anni_195_0_0
+Eros/Amor, Cupido_365_1_0
+
+
+
+Monument
+	ID:	24069
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido Kairoi/Tempora anni
+	Beschreibung:	Depiction of the Season Autumn: A chariot drawn by oxen, laden with two large baskets full with grapes. The oxen are giuded by a nude Eros, supported by another Eros.
+	Museums-URL:	https://collections.geneve.ch/mah/oeuvre/sarcophage-denfant-fragment/mf-1362
+	Monument-URL:	arachne.dainst.org/entity/1067108
+Datierung
+	Periode:	1 - 200 
+Szene
+	ID:	25252
+	Beschreibung:	Depiction of the Season Autumn: A chariot drawn by oxen, laden with two large baskets full with grapes. The oxen are giuded by a nude Eros, supported by another Eros.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/switzerland/geneve/musee_d_art_et_d_histoire/25252X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/switzerland/geneve/musee_d_art_et_d_histoire/25252X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	195
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	365
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MF 1362
+Museum
+	Land:	CH
+	Stadt:	Genève
+	Name:	Musée d'Art et d'Histoire
+	Direktor:	M. le Conservateur Marc-André Haldimann
+	Anrede:	Cher Monsieur,
+	Adresse:	Rue Charles-Galland 2
+	Postfach:	Case Postale 3432
+	Postleitzahl:	CH-1211
+	Kontaktzenter:	Département des Antiquités grecques et romaines     Musée d'Art et d'Histoire
+	Stadt des Kontaktzenters:	Genève 3
+	Rechteinhaber der Fotos:	© Musée d'Art et d'Histoire Genève
+	Hat die Fotorechte:	0

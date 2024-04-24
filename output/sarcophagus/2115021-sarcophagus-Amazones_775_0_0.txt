@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-761d86444bd86-2
+Amazones_775_0_0
+
+
+
+Monument
+	ID:	44724
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	Amazon
+	Name:	Amazones
+	Bibliographie:	Kαλλιπολίτης, B. G., Χρονολογικη κατα ταξις...(1958) 29 no. 173; Giuliano, A., Il commercio dei sarcofagi attici (1962) 44 no. 218; Giuliano, A./Palma, B., StudMisc 24, 1978 39 pl. XLIII 103-4.
+Datierung
+	Periode:	225 
+	Kommentar:	about
+Epoche
+	Name:	1. Viertel 3. Jh. n. Chr.
+	Periode:	200 - 225 
+	Sequenznummer:	3340
+Szene
+	ID:	47056
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	775
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	GR
+	Stadt:	Thessalonique
+	Name:	Musée Archéologique
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Archaeological Museum of Thessaloniki
+	Hat die Fotorechte:	0

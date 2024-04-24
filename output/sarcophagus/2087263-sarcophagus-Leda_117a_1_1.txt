@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-7490ae46126e0-6
+Leda_117a_1_1
+
+
+
+Monument
+	ID:	16734
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Leda
+Szene
+	ID:	17395
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_corsetti/17395X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_corsetti/17395X102.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Leda
+	Katalognummer:	117a
+	Asterix:	1
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel II 6
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Corsetti
+	Rechteinhaber der Fotos:	© Palazzo Corsetti, Roma
+	Hat die Fotorechte:	1

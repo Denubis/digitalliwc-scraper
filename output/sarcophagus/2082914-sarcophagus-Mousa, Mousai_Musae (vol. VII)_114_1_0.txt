@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-7452814ac232f-6
+Mousa, Mousai/Musae (vol. VII)_114_1_0
+
+
+
+Monument
+	ID:	12346
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Mousa, Mousai
+Szene
+	ID:	12646
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_medici/12646X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	114
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	57
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Medici
+	Direktor:	Responsable Chargé de Mission Olivier Bonfait
+	Adresse:	Viale Trinità dei Monti 1
+	Postleitzahl:	I-00187
+	Kontaktzenter:	Dipartimento di Storia dell'Arte Accademia di Francia a Roma / Villa Medici
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	Académie de France à Rome
+	Kommentar:	Numéros d'après Cagiano de Azevedo, M., Le antichità di Villa Medici (1951).
+	Hat die Fotorechte:	1

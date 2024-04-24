@@ -1,0 +1,54 @@
+http://ark.dasch.swiss/ark:/72163/080e-760f20bad0b9b-0
+Achilleus_53c_0_0
+Endymion_2_0_0
+
+
+
+Monument
+	ID:	43700
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	lyre club spear rock, cliff child youth
+	Name:	Achilleus Cheiron Endymion
+	Bibliographie:	Helbig, Wandgemälde no. 962; Schefold, WP 234.
+	Kommentar:	Destroyed
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	45944
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	53c
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VIII 7,28 (già VIII 8,28)
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Tempio di Iside

@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-73fe032dcf141-8
+Nike (in per. or.) (S)_13_1_0
+
+
+
+Monument
+	ID:	6382
+	Entdeckungsort:	Doura-Europos
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Nike
+	Monument-URL:	http://www.limc-france.fr/objet/10503
+Szene
+	ID:	6514
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Nike (in per. or.) (S)
+	Katalognummer:	13
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	4955
+Museum
+	Land:	SY
+	Stadt:	Damas
+	Name:	Musée National
+	Kontaktzenter:	Musée National
+	Stadt des Kontaktzenters:	Damas
+	Rechteinhaber der Fotos:	© Musée National Damas
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	10949

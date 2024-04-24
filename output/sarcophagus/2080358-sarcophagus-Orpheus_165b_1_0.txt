@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-742df68ae8843-7
+Orpheus_165b_1_0
+
+
+
+Monument
+	ID:	9769
+	Entdeckungsort:	Ostia
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Orpheus
+Szene
+	ID:	10018
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/museo_ostiense/10018X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Orpheus
+	Katalognummer:	165b
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Ostia
+	Name:	Museo Ostiense
+	Direktor:	Dott.ssa Elvira Angeloni
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Viale dei Romagnoli 717
+	Postleitzahl:	I-00119
+	Kontaktzenter:	Soprintendenza archeologica di Ostia
+	Stadt des Kontaktzenters:	Ostia Antica - Roma
+	Rechteinhaber der Fotos:	Archivio Fotografico della Soprintendenza Archeologica per i beni archeologici di Ostia
+	Hat die Fotorechte:	1

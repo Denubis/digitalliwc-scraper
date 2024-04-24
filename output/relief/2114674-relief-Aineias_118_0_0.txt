@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-761890467eb7f-2
+Aineias_118_0_0
+
+
+
+Monument
+	ID:	44374
+	Entdeckungsort:	Pompei
+	Objekt:	relief
+	Material:	terracotta
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	cista, kiste youth old man
+	Name:	Aineias Anchises Askanios
+	Beschreibung:	Terracotta relief showing an older male figure holding a cist, the old man is carried by a young male figure, latter holds the hand of a child; scene interpreted as Aineias carrying his father Anchises and guiding his son Askanios
+	Bibliographie:	Levi, A., Le terrecotte figurate del Museo Nazionale di Napoli (1926) 193 fig. 143; Winter, Typen II 388, 1; Galinsky, G. K., Aeneas, Sicily and Rome (1969) fig. 6; Fuchs, W., ANRW I 4 (1973) fig. 24.
+Szene
+	ID:	46665
+	Beschreibung:	Terracotta relief showing an older male figure holding a cist, the old man is carried by a young male figure, latter holds the hand of a child; scene interpreted as Aineias carrying his father Anchises and guiding his son Askanios
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Aineias
+	Katalognummer:	118
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	20597
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

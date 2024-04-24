@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-765243b3ee153-d
+
+
+
+Monument
+	ID:	51744
+	Objekt:	sarcophagus
+	Material:	pietra fetida
+	Land:	CH
+	Kategorie:	relief
+	Beschreibung:	Two fragments. One showing a bearded male figure with chiton, himation and skeparnon stepping to the right, looking back; to the left a male figure with chiton and tebenna; the other fragment shows three female figures with long garments walking towards a male figure with chiton, himation and staff (?); behind him an aulete and a female figure (?) (pompa funebris?)
+	Bibliographie:	Nelson Gallery of Art Atkins Museum. Handbook I (1973) 41.
+Szene
+	ID:	56961
+	Beschreibung:	Two fragments. One showing a bearded male figure with chiton, himation and skeparnon stepping to the right, looking back; to the left a male figure with chiton and tebenna; the other fragment shows three female figures with long garments walking towards a male figure with chiton, himation and staff (?); behind him an aulete and a female figure (?) (pompa funebris?)
+Catalog Thes CRA
+	Indexnummer:	22
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 1. Prozessionen, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	90
+	Bandnummer:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	US
+	Stadt:	Kansas City
+	Name:	Nelson-Atkins Museum of Art
+	Direktor:	To the Director
+	Adresse:	4525 Oak St.
+	Postleitzahl:	USA-
+	Kontaktzenter:	Nelson-Atkins Museum of Art
+	Stadt des Kontaktzenters:	Kansas City MO 6411-1873
+	Rechteinhaber der Fotos:	© Nelson-Atkins Museum of Art, Kansas City
+	Hat die Fotorechte:	1

@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-755bd5b3f67ea-2
+Dionysos/Bacchus (in per. occ.) (vol. IV)_112_0_0
+
+
+
+Monument
+	ID:	31055
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dionysos/Bacchus
+Szene
+	ID:	32572
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus (in per. occ.) (vol. IV)
+	Katalognummer:	112
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	FR
+	Stadt:	Aix-en-Provence
+	Name:	Musée Granet
+	Direktor:	M. le Directeur
+	Adresse:	Pl. Saint-Jean-de-Malte
+	Postleitzahl:	F-13100
+	Kontaktzenter:	Musée Granet
+	Stadt des Kontaktzenters:	Aix-en-Provence
+	Rechteinhaber der Fotos:	© Musée Granet, Aix-en-Provence
+	Hat die Fotorechte:	0

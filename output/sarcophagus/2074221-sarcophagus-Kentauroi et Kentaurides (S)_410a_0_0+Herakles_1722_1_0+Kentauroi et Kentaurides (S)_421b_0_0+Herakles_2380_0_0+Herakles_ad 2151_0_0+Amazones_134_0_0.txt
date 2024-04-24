@@ -1,0 +1,105 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d639a0d38a6-f
+Kentauroi et Kentaurides (S)_410a_0_0
+Herakles_1722_1_0
+Kentauroi et Kentaurides (S)_421b_0_0
+Herakles_2380_0_0
+Herakles_ad 2151_0_0
+Amazones_134_0_0
+
+
+
+Monument
+	ID:	3579
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	centaur fight, battle
+	Name:	Herakles Amazones Kentauroi and Kentaurides
+	Beschreibung:	Labours of Herakles: Lion, Hydra, Boar, Deer, Birds, Amazon, Augeias, Bull, Horses of Diomedes, Geryoneus. Kerberos and Hesperides missing (originally on the lid?). On the sides Centaurs.
+	Bibliographie:	SarkRel III no. 112 pl. 31; Brommer, Denkmälerlisten I 6 no. 13.
+Datierung
+	Periode:	190 - 200 
+Epoche
+	Name:	Ende 2. Jh. n. Chr.
+	Periode:	190 - 200 
+	Sequenznummer:	3170
+Szene
+	ID:	3616
+	Beschreibung:	Labours of Herakles: Lion, Hydra, Boar, Deer, Birds, Amazon, Augeias, Bull, Horses of Diomedes, Geryoneus. Kerberos and Hesperides missing (originally on the lid?). On the sides Centaurs.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/new_york/3616X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/new_york/3616X002.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	410a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	1722
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	421b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2380
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	ad 2151
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	134
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	29.11.1989, 134
+Museum
+	Land:	US
+	Stadt:	New York
+	Name:	Sotheby's
+	Adresse:	1334 York Avenue at 72nd St.
+	Postleitzahl:	USA-
+	Kontaktzenter:	Sotheby's
+	Stadt des Kontaktzenters:	New York NY 10021
+	Rechteinhaber der Fotos:	© Sotheby's, New York
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	Ehem. A.O.
+	Nummer:	11./12.7.1983, 363
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	Sotheby's
+	Direktor:	Mr. Adam Levine
+	Adresse:	34-35 New Bond Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	Sotheby's
+	Stadt des Kontaktzenters:	London, W1A 2AA
+	Rechteinhaber der Fotos:	© Sotheby's, London
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	Ehem. A.O.
+	Nummer:	Astor 72
+Museum
+	Land:	GB
+	Stadt:	Hever Castle (Kent)
+	Rechteinhaber der Fotos:	© Hever Castle
+	Hat die Fotorechte:	1

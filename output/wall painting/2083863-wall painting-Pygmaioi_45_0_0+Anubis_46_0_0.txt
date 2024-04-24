@@ -1,0 +1,48 @@
+http://ark.dasch.swiss/ark:/72163/080e-7460128dc8678-5
+Pygmaioi_45_0_0
+Anubis_46_0_0
+
+
+
+Monument
+	ID:	13300
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 41 (Villa of Iulia Felix)
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	throne palm tree sandal
+	Name:	Anubis Isis Sarapis Pygmaioi
+	Bibliographie:	Tran Tam Tinh, V., Essai sur le culte d'Isis à Pompéi (1964) 125 no. 6.
+Szene
+	ID:	13639
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Pygmaioi
+	Katalognummer:	45
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Anubis
+	Katalognummer:	46
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	II 4,3
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Praedia Iuliae Felicis

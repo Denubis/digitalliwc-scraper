@@ -1,0 +1,48 @@
+http://ark.dasch.swiss/ark:/72163/080e-742bd8dff325f-2
+Orpheus_86_0_0
+Adonis_36_1_0
+
+
+
+Monument
+	ID:	9618
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	boar
+	Name:	Adonis Aphrodite/Venus Orpheus
+	Bibliographie:	Devambez, P., Un fragment de fresque antique au Louvre, MonPiot 45, 1951, 67-76 pl. IX, 2.
+	Monument-URL:	http://www.limc-france.fr/objet/14741
+Datierung
+	Periode:	-10 - -1 
+Epoche
+	Name:	Ende 1. Jh. v. Chr.
+	Periode:	-10 - -1 
+	Sequenznummer:	2880
+Szene
+	ID:	9823
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Orpheus
+	Katalognummer:	86
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Adonis
+	Katalognummer:	36
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MND 1999
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

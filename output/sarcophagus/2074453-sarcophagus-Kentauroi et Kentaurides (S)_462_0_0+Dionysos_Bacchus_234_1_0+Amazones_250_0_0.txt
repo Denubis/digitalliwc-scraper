@@ -1,0 +1,58 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d98abaa732e-8
+Kentauroi et Kentaurides (S)_462_0_0
+Dionysos/Bacchus_234_1_0
+Amazones_250_0_0
+
+
+
+Monument
+	ID:	3813
+	Entdeckungsort:	Cortona
+	Entdeckungsort Details:	cathedral
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	sword horse warrior, soldier centaur fight, battle biga rider
+	Name:	Dionysos/Bacchus Satyros Amazones Pan Nike Kentauroi and Kentaurides
+	Beschreibung:	From the right Bacchus on a chariot drawn by centaurs and guided by Nike, attacking an Indian, in the centre Pan, on the right two groups of mounted Indians fighting satyrs.
+	Bibliographie:	Turcan, R., Les sarcophages romains à représentations dionysiaques (1966) 141-148 no. 1. 637 pl. 7a.
+Datierung
+	Periode:	140 
+	Kommentar:	about
+Epoche
+	Name:	2. Viertel 2. Jh. n. Chr.
+	Periode:	125 - 150 
+	Sequenznummer:	3210
+Szene
+	ID:	3854
+	Beschreibung:	From the right Bacchus on a chariot drawn by centaurs and guided by Nike, attacking an Indian, in the centre Pan, on the right two groups of mounted Indians fighting satyrs.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/cortona/museo_diocesano/3854X002.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	462
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	234
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	250
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Cortona
+	Name:	Museo Diocesano
+	Rechteinhaber der Fotos:	© Museo Diocesano, Cortona
+	Hat die Fotorechte:	0

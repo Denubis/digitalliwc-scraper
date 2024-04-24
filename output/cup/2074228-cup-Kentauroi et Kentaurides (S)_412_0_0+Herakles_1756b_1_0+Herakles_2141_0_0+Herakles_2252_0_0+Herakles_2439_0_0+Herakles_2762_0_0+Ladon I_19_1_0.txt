@@ -1,0 +1,112 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d6533f66109-f
+Kentauroi et Kentaurides (S)_412_0_0
+Herakles_1756b_1_0
+Herakles_2141_0_0
+Herakles_2252_0_0
+Herakles_2439_0_0
+Herakles_2762_0_0
+Ladon I_19_1_0
+
+
+
+Monument
+	ID:	3586
+	Entdeckungsort:	Pompei
+	Objekt:	cup
+	Material:	silver
+	Land:	CH
+	Kategorie:	relief vase
+	Name:	Herakles Kentauroi and Kentaurides Ladon I
+	Beschreibung:	Labours of Herakles: Boar, Pholos, Birds, Hesperides, Horses of Diomedes, Kerberos.
+Szene
+	ID:	3622
+	Beschreibung:	Labours of Herakles: Boar, Pholos, Birds, Hesperides, Horses of Diomedes, Kerberos.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/3622X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/3622X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/3622X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/3622X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/3622X005.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/3622X207.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/3622X208.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/3622X209.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/3622X210.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/3622X211.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/3622X212.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	412
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	1756b
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2141
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2252
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2439
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2762
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ladon I
+	Katalognummer:	19
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	145506
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

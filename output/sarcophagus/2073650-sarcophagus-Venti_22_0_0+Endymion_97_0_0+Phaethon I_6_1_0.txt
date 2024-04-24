@@ -1,0 +1,54 @@
+http://ark.dasch.swiss/ark:/72163/080e-73ce0fd0b5a3f-5
+Venti_22_0_0
+Endymion_97_0_0
+Phaethon I_6_1_0
+
+
+
+Monument
+	ID:	3007
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Endymion Phaethon I Venti
+	Beschreibung:	Phaethon (I) in front oh Helios who turns back to Selene. Before them stands Aurora. At their feet Okeanos and Tellus. On the minor sides the Dioskouroi. The four nude figures leading the horses have wings on their temples, they are Venti (Winds).
+Datierung
+	Periode:	190 - 200 
+Szene
+	ID:	3030
+	Beschreibung:	Phaethon (I) in front oh Helios who turns back to Selene. Before them stands Aurora. At their feet Okeanos and Tellus. On the minor sides the Dioskouroi. The four nude figures leading the horses have wings on their temples, they are Venti (Winds).
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/japan/kyoto/the_kyoto_greek_roman_akira_ninagawa_museum/3030X302.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Venti
+	Katalognummer:	22
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	97
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Phaethon I
+	Katalognummer:	6
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	176
+Museum
+	Land:	JP
+	Stadt:	Kyoto
+	Name:	The Kyoto Greek Roman Akira Ninagawa Museum 
+	Direktor:	Fam. Akira Ninagawa
+	Adresse:	72 Kitasono-cho  Shimogamo   Sakyo-ku
+	Postleitzahl:	JP-
+	Stadt des Kontaktzenters:	Kyoto, Japan
+	Rechteinhaber der Fotos:	© The Kyoto Greek Roman Akira Ninagawa Museum
+	Kommentar:	Numéros d'après Simon, E., The Kurashiki Ninagawa Museum (1982).
+	Hat die Fotorechte:	1

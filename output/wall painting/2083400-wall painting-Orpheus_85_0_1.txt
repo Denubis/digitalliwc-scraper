@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-745974031172d-2
+Orpheus_85_0_1
+
+
+
+Monument
+	ID:	12832
+	Entdeckungsort:	Tivoli
+	Entdeckungsort Details:	Villa Adriana
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Orpheus
+Szene
+	ID:	13142
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Orpheus
+	Katalognummer:	85
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Tivoli
+	Name:	Villa Hadriana
+	Rechteinhaber der Fotos:	© Villa Hadriana, Tivoli
+	Hat die Fotorechte:	1

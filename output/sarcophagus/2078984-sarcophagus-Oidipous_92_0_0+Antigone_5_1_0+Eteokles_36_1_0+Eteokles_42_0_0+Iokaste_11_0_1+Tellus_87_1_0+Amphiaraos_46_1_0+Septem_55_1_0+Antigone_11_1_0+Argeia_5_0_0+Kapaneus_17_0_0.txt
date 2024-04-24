@@ -1,0 +1,114 @@
+http://ark.dasch.swiss/ark:/72163/080e-741a51d0d90ed-9
+Oidipous_92_0_0
+Antigone_5_1_0
+Eteokles_36_1_0
+Eteokles_42_0_0
+Iokaste_11_0_1
+Tellus_87_1_0
+Amphiaraos_46_1_0
+Septem_55_1_0
+Antigone_11_1_0
+Argeia_5_0_0
+Kapaneus_17_0_0
+
+
+
+Monument
+	ID:	8379
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	helmet chariot corselet horse demon warrior, soldier old man old woman corpse fight, battle
+	Name:	Amphiaraos Antigone Argeia Eteokles Kapaneus Oidipous Polyneikes Septem Iokaste Tellus
+	Beschreibung:	On the left Jokaste and Antigone between two warriors. Antigone touches one of the warriors (Polyneikes?) on his shoulder. Oidipous watching the scene. Far to the left another warrior, Eteokles? On the right scenes from the combat about Thebes. On the far right Antigone interring Polyneikes.
+	Bibliographie:	SarkRelII 193-195 no. 184 Taf. 60; Sichtermann/Koch, MythSark 67-68 no. 73 Taf. 172,I; Krauskopf, I., ThebSag, Taf. 23, 3.
+	Monument-URL:	http://www.limc-france.fr/objet/14505
+Datierung
+	Periode:	190 - 200 
+Epoche
+	Name:	Ende 2. Jh. n. Chr.
+	Periode:	190 - 200 
+	Sequenznummer:	3170
+Szene
+	ID:	8570
+	Beschreibung:	On the left Jokaste and Antigone between two warriors. Antigone touches one of the warriors (Polyneikes?) on his shoulder. Oidipous watching the scene. Far to the left another warrior, Eteokles? On the right scenes from the combat about Thebes. On the far right Antigone interring Polyneikes.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_doria_pamphilj/8570X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_doria_pamphilj/8570X005.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_doria_pamphilj/8570X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_doria_pamphilj/8570X304.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Oidipous
+	Katalognummer:	92
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Antigone
+	Katalognummer:	5
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eteokles
+	Katalognummer:	36
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eteokles
+	Katalognummer:	42
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iokaste
+	Katalognummer:	11
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Tellus
+	Katalognummer:	87
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amphiaraos
+	Katalognummer:	46
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Septem
+	Katalognummer:	55
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Antigone
+	Katalognummer:	11
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Argeia
+	Katalognummer:	5
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kapaneus
+	Katalognummer:	17
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Calza 197
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Doria Pamphilj
+	Rechteinhaber der Fotos:	© Villa Doria Pamphilj, Roma
+	Kommentar:	Numéros d'après Calza, R. (éd.), Antichità di Villa Doria Pamphilj (1977).
+	Hat die Fotorechte:	1

@@ -1,0 +1,48 @@
+http://ark.dasch.swiss/ark:/72163/080e-73c5c16734226-2
+Zeus/Iuppiter_462_1_0
+
+
+
+Monument
+	ID:	2420
+	Objekt:	sarcophagus lid
+	Material:	stone
+	Land:	CH
+	Kategorie:	relief
+	Name:	Zeus/Iuppiter
+	Beschreibung:	tensa pulled by four horses, accompanied by togati
+	Bibliographie:	Himmelmann, N., Typologische Untersuchungen an römischen Sarkophagreliefs des 3. und 4. Jahrhunderts n. Chr. (1973) 40. 43; Ronke, J., Magistratische Repräsentation in römischen Relief (1987) 125. 730 n. 187 fig. 198.
+Szene
+	ID:	2437
+	Beschreibung:	tensa pulled by four horses, accompanied by togati
+	Sequenznummer:	10
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	42
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 1. Prozessionen, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	100
+	Bandnummer:	1
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	462
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2464
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Musei Capitolini
+	Direktor:	Dirigente Dott. Claudio Parisi Presicce
+	Adresse:	Via delle Tre Pile, 1
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Sovraintendenza ai Beni Culturali                     del Comune di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Archivio fotografico Musei Capitolini
+	Hat die Fotorechte:	1

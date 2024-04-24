@@ -1,0 +1,53 @@
+http://ark.dasch.swiss/ark:/72163/080e-747549df1f874-9
+Kerberos_74_0_0
+Alkestis_24_1_0
+
+
+
+Monument
+	ID:	14794
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Via Latina
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	rock, cliff palace
+	Name:	Admetos II Alkestis Herakles Kerberos
+	Beschreibung:	Kerberos seated behind Herakles. All three heads of Kerberos looking ahead.
+	Bibliographie:	Ferrua, A., Le pitture della nuova catacomba di via latina (1960) 77 Taf. 75. 76. 111 Fink, J, Bildfrömmigkeit und Bekennttnis. Das alte Testament, Herakles und die Herrlichkeit Christi an der Via Latina in Rom (1978) 30. 94-98 pl. 6; Weitzmann, Spirituality 242-243 no. 219.
+Datierung
+	Periode:	340 - 360 
+Epoche
+	Name:	Mitte 4. Jh. n. Chr.
+	Periode:	340 - 360 
+	Sequenznummer:	3440
+Szene
+	ID:	15266
+	Beschreibung:	Kerberos seated behind Herakles. All three heads of Kerberos looking ahead.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/via_latina/catacomba_di_via_latina/15266X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/via_latina/catacomba_di_via_latina/15266X003.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kerberos
+	Katalognummer:	74
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	24
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Cub. N, dest.
+Museum
+	Land:	IT
+	Stadt:	Roma, Via Latina
+	Name:	Catacomba di Via Latina
+	Rechteinhaber der Fotos:	© Catacomba di Via Latina, Roma
+	Hat die Fotorechte:	1

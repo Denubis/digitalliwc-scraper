@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-75139823a8679-d
+Gorgones Romanae_7_0_0
+
+
+
+Monument
+	ID:	25964
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Villa under Basilica di S. Sebastiano
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Gorgo, Gorgones
+	Beschreibung:	On the ceiling: in a field of stars gorgoneion in three-quarter view.
+Szene
+	ID:	27263
+	Beschreibung:	On the ceiling: in a field of stars gorgoneion in three-quarter view.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Gorgones Romanae
+	Katalognummer:	7
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	San Sebastiano
+	Direktor:	Dott.ssa Barbara Mazzei
+	Adresse:	Via Napoleone III 1
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Pontificia Commissione di Archeologia Sacra
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprindentenza SPSAE e Polo Museale della Città di Roma
+	Hat die Fotorechte:	0

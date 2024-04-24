@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-73ba42d452372-2
+Peirithoos_90_0_0
+
+
+
+Monument
+	ID:	1612
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Peirithoos
+	Beschreibung:	Peirithoos, Persephone and Theseus.
+Szene
+	ID:	12406
+	Beschreibung:	Peirithoos, Persephone and Theseus.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Peirithoos
+	Katalognummer:	90
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	AT
+	Stadt:	Magdalensberg
+	Name:	Archäologischer Park Magdalensberg
+	Rechteinhaber der Fotos:	© Archäologischer Park Magdalensberg
+	Hat die Fotorechte:	1

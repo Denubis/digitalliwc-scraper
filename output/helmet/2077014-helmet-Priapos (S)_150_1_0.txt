@@ -1,0 +1,68 @@
+http://ark.dasch.swiss/ark:/72163/080e-73fe27c732af3-f
+Priapos (S)_150_1_0
+
+
+
+Monument
+	ID:	6393
+	Entdeckungsort:	Pompei
+	Objekt:	helmet
+	Material:	bronze
+	Land:	CH
+	Kategorie:	arms
+	Stichwort:	altar herm tympanon (tambourine) tree table, mensa, trapeza vessel cult image, cult statue rock, cliff basin sacrificial animal sacrificial assistant liknon, vannus, winnowing-fan pine tree parapetasma, velum, curtain initiation initiated papposilenus
+	Name:	Priapos
+	Beschreibung:	Gladiatorenhelm. Auf dem Helmaufsatz: Einweihung eines Mysten in die dionysischen Mysterien: Links unter Baum (Pinie) Priaposherme nach links auf Fels, links davon stehende Figur mit erhobenen Händen (hält etwas), rechts vor Altar kniende Figur. Links anschliessend Opfertisch (Gefässe darauf, Gefäss darunter). In der Mitte Einweihungshandlung (gleicher Typus wie auf zwei Campanareliefs): Silen mit Liknon;  der Myste in vorgebeugter Haltung, von einer Frau am Kopf gehalten, die sich zum Silen mit Liknon umwendet; von rechts hinzuschreitende Figur (Frau), die ein Tympanon hochhält (und offenbar daraufschlägt). Rechts an den Hinterbeinen aufgehängtes Opfertier, das von einem Mann aufgeschnitten wird, darunter eine Becken. Darunter alte Frau nach links gebückt, opfert einen Hahn auf einem Altar, dahinter Herme.
+	Bibliographie:	Richter, G., AJA 62 (1958) 374 Taf. 94, 31; Matz, F., Dionysiaké Teleté (1964) 8 Nr. 6-7 Taf. 14; Sauron, G., La grande fresque de la villa des Mystères à Pompéi (1998) 124 Abb. 33.
+	Kommentar:	Vgl. Campanareliefs Louvre (Sauron a.O. 124 Abb. 31) und Hannover, Kestner-Mus. (Bianchi, Mysteries Abb. 85).
+Datierung
+	Periode:	-27 - 68 
+Epoche
+	Name:	frühkaiserzeitlich
+	Periode:	-27 - 68 
+	Sequenznummer:	1110
+Szene
+	ID:	6526
+	Beschreibung:	Face g., registre inf.: une femme tient une volaille au-dessus d'un petit autel, devant une statue hermaïque. Registre sup.: à g., une femme joue de la double flûte devant un herme, face à un silène assis. Une table chargée d'offrandes les sépare du groupe suivant: un silène soulève un van contenant un phallus dévoilé, face à un initiant courbé dont une femme cache les yeux ; derrière eux, une autre femme joue du tambourin. A dr., un homme vide un porc suspendu par les pattes arrière au-dessus d'un répicient. Face dr., registre inf.: reproduction de cette dernière scène du dépeçage d'un porc. Registre sup.: une femme danse devant un silène drapé portant deux torches. Au centre, un silène mène un enfant portant sur sa tête un van voilé vers une femme assise devant eux. A dr., quatre satyres préparent la cuisson d'un porc dont on distingue la tête, autour d'un chaudron que le premier allume.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/6526X001.jpg
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	78
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 3.c. Initiation
+	Sequenznummer:	1200
+	Bandnummer:	2
+Catalog Thes CRA
+	Indexnummer:	280
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 2.a. Opfer, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	220
+	Bandnummer:	1
+Catalog LIMC
+	Artikel:	Priapos (S)
+	Katalognummer:	150
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	5672
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

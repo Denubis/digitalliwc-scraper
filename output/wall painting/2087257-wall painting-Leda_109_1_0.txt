@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-7490985070442-2
+Leda_109_1_0
+
+
+
+Monument
+	ID:	16728
+	Entdeckungsort:	Ercolano, Herculaneum, Herculanum
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Leda
+	Monument-URL:	http://www.limc-france.fr/objet/5195
+Szene
+	ID:	17388
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Leda
+	Katalognummer:	109
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	P 18
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	MR 74

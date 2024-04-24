@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-764b5f9f60469-b
+
+
+
+Monument
+	ID:	51228
+	Entdeckungsort:	Kertch, Pantikapaion
+	Objekt:	sarcophagus
+	Material:	limestone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	painting
+	Beschreibung:	Banquette scene
+Datierung
+	Periode:	90 - 110 
+Epoche
+	Name:	um 100 n. Chr.
+	Periode:	90 - 110 
+	Sequenznummer:	3130
+Szene
+	ID:	56401
+	Beschreibung:	Banquette scene
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	135
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 4.a. Bankett, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	1430
+	Bandnummer:	2
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	П 1899.81
+Museum
+	Land:	RU
+	Stadt:	St. Petersburg
+	Name:	The State Hermitage Museum
+	Direktor:	Ms. Anastasia Mikliaeva, Head Rights & Reproductions
+	Adresse:	Dvortsovaya Nabereznaja 34
+	Postleitzahl:	190 000
+	Kontaktzenter:	The State Hermitage Museum
+	Stadt des Kontaktzenters:	St. Petersburg / Russia
+	Rechteinhaber der Fotos:	© The State Hermitage Museum, St. Petersburg
+	Kommentar:	Pour la céramique, les chiffres avec la lettre B se rapportent au catalogue d'O. Waldhauer (1914).
+	Hat die Fotorechte:	1

@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-75a2427506ca0-a
+Eros/Amor, Cupido_668_1_0
+
+
+
+Monument
+	ID:	36026
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido
+Szene
+	ID:	37870
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	668
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel V 1, 58
+Museum
+	Land:	IT
+	Stadt:	Salerno
+	Name:	Duomo
+	Rechteinhaber der Fotos:	© Duomo Salerno
+	Hat die Fotorechte:	1

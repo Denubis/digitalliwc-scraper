@@ -1,0 +1,48 @@
+http://ark.dasch.swiss/ark:/72163/080e-74eb5978a153e-7
+Hylas_10_1_0
+
+
+
+Monument
+	ID:	23123
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 4,62
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Hylas
+	Beschreibung:	Hylas with jug attempts to move right, but is restrained by three nymphs. Two youths (Boreadai? or Polyphemus and Herakles?) observe the scene from the rocks above on the upper right.
+Datierung
+	Periode:	60 - 79 
+Szene
+	ID:	24257
+	Beschreibung:	Hylas with jug attempts to move right, but is restrained by three nymphs. Two youths (Boreadai? or Polyphemus and Herakles?) observe the scene from the rocks above on the upper right.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/24257X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/24257X202.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hylas
+	Katalognummer:	10
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8882
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

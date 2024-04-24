@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e1605d2cce2-d
+Meleagros_130_1_0
+Oineus I (S)_47_0_0
+
+
+
+Monument
+	ID:	4362
+	Objekt:	sarcophagus lid
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Meleagros Oineus I
+	Beschreibung:	Servants preparing the meal after the boar hunt. In front of a curtain are four diners: Atalante, Meleagros and the Dioskouroi. Oineus approaches from the right.
+Szene
+	ID:	4417
+	Szenerieangabe:	couvercle
+	Beschreibung:	Servants preparing the meal after the boar hunt. In front of a curtain are four diners: Atalante, Meleagros and the Dioskouroi. Oineus approaches from the right.
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/santa_cecilia_in_trastevere/4417X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	130
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Oineus I (S)
+	Katalognummer:	47
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Santa Cecilia in Trastevere
+	Rechteinhaber der Fotos:	© Soprindentenza SPSAE e Polo Museale della Città di Roma
+	Hat die Fotorechte:	0

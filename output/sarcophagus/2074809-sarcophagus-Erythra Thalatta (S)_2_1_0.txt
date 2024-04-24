@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-73dea1a8e7922-0
+Erythra Thalatta (S)_2_1_0
+
+
+
+Monument
+	ID:	4169
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Erythra Thalatta
+	Beschreibung:	Crossing of the Red Sea (Erythra Thalatta): Below the horses of the biga of pharaoh a reclining river-god, leaning on an urn from where water pours out. To the left of the river-god the approaching Egyptians, to the right drowning Egyptians and on secure land Moses and the Israelites.
+Datierung
+	Periode:	380 - 400 
+Szene
+	ID:	4213
+	Beschreibung:	Crossing of the Red Sea (Erythra Thalatta): Below the horses of the biga of pharaoh a reclining river-god, leaning on an urn from where water pours out. To the left of the river-god the approaching Egyptians, to the right drowning Egyptians and on secure land Moses and the Israelites.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/catacomba_di_s_callisto/4213X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Erythra Thalatta (S)
+	Katalognummer:	2
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Catacomba di S. Callisto
+	Direktor:	Dott.ssa Barbara Mazzei
+	Adresse:	Via Napoleone III 1
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Pontificia Commissione di Archeologia Sacra
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Pontificia Commissione di Archeologia Sacra
+	Hat die Fotorechte:	0

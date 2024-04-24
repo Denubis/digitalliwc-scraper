@@ -1,0 +1,65 @@
+http://ark.dasch.swiss/ark:/72163/080e-73c6b69e1c4b5-1
+Zeus/Iuppiter_474_0_0
+Athena/Minerva_284_0_0
+Iuno_81_1_0
+Ouranos_7_1_0
+
+
+
+Monument
+	ID:	2488
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Athena/Minerva Iuno Ouranos Zeus/Iuppiter
+	Beschreibung:	From the left Charriot of Sol, riding Dioskouros, Minerva, Iuppiter, Iuno and Fortuna. Also present: Thalassa and in the centre Ouranos.
+Szene
+	ID:	2508
+	Szenerieangabe:	couvercle
+	Beschreibung:	From the left Charriot of Sol, riding Dioskouros, Minerva, Iuppiter, Iuno and Fortuna. Also present: Thalassa and in the centre Ouranos.
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/2508X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/2508X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/2508X302.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	474
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	284
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iuno
+	Katalognummer:	81
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ouranos
+	Katalognummer:	7
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	798
+Museum
+	Land:	VA
+	Stadt:	Vaticano
+	Name:	Musei Vaticani
+	Direktor:	Direttore Dott. Antonio Paolucci
+	Anrede:	Chiarissimo Direttore,
+	Postleitzahl:	I-00120
+	Kontaktzenter:	Monumenti, Musei e Gallerie Pontificie
+	Stadt des Kontaktzenters:	Città del Vaticano
+	Rechteinhaber der Fotos:	© Musei Vaticani
+	Kommentar:	Sont réunis sous cette dénomination générique - compte tenu à la fois de leur numérotation unique et de leurs déplacements à l'intérieur des musées - les monuments conservés dans le Museo Chiaramonti, le Museo Gregoriano Etrusco, le Museo Gregoriano Profano, le Museo Pio Clementino et le Museo Pio Cristiano.  En revanche, la localisation spécifique a été conservée dans les cas suivants: Basilica San Pietro, Biblioteca Apostolica Vaticana (et Museo Profano, Museo Sacro, Sala delle Nozze Aldobrandine), Camposanto Teutonico, Giardini, Medagliere Vaticano, Museo Gregoriano Egizio, Necropoli sotto San Pietro.
+	Hat die Fotorechte:	0

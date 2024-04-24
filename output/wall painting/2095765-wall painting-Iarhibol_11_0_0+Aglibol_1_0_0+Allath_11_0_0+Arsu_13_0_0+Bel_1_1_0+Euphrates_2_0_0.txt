@@ -1,0 +1,76 @@
+http://ark.dasch.swiss/ark:/72163/080e-750a3ae4ac36e-2
+Iarhibol_11_0_0
+Aglibol_1_0_0
+Allath_11_0_0
+Arsu_13_0_0
+Bel_1_1_0
+Euphrates_2_0_0
+
+
+
+Monument
+	ID:	25302
+	Entdeckungsort:	Doura-Europos
+	Entdeckungsort Details:	temple of the gods of Palmyra
+	Objekt:	wall painting
+	Herkunft:	Palmyra
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	garland temple spear sacrifice corselet crescent of the moon sacrificial assistant halo, nimbus globe
+	Name:	Aglibol Allath Arsu Bel Euphrates Iarhibol
+	Beschreibung:	Two men accompanied by two acolytes sacrificing to five gods: Allath (?), Yarhibôl, Bel, Aglibôl and Arsu (with helmet and nimbus). The reclining person on the ground is the river-god Euphrates.
+	Bibliographie:	Cumont, F., Fouilles de Doura-Europos (1922-1923) (1926) 122-134 pl. 55; Perkins, A., The Art of Dura-Europos (19732) 36-47 fig. 13; Drijvers, H. J. W.,The Religion of Palmyra (1976) pl. 18.
+Datierung
+	Periode:	75 
+	Kommentar:	about
+Epoche
+	Name:	3. Drittel 1. Jh. n. Chr.
+	Periode:	66 - 100 
+	Sequenznummer:	3120
+Szene
+	ID:	26567
+	Beschreibung:	Two men accompanied by two acolytes sacrificing to five gods: Allath (?), Yarhibôl, Bel, Aglibôl and Arsu (with helmet and nimbus). The reclining person on the ground is the river-god Euphrates.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Iarhibol
+	Katalognummer:	11
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aglibol
+	Katalognummer:	1
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Allath
+	Katalognummer:	11
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Arsu
+	Katalognummer:	13
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Bel
+	Katalognummer:	1
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Euphrates
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Temple de Bêl
+Museum
+	Land:	SY
+	Stadt:	Dura-Europos
+	Direktor:	Mme le Dr. Pascale Linant de Bellefonds
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-92023
+	Kontaktzenter:	Université Paris X - Nanterre Maison de l'Archéologie / Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Dura-Europos
+	Hat die Fotorechte:	1

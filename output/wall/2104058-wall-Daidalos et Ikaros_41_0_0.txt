@@ -1,0 +1,55 @@
+http://ark.dasch.swiss/ark:/72163/080e-7580ca970aa27-a
+Daidalos et Ikaros_41_0_0
+
+
+
+Monument
+	ID:	33662
+	Entdeckungsort:	Pompei
+	Objekt:	wall
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	tree garland round temple
+	Name:	Daidalos and Ikaros Ikaros
+	Beschreibung:	Sturz des Ikaros. Am Ufer Tholos mit Girlanden vor grossem Baum.
+	Bibliographie:	Schefold, WP 348.Dawson, C.M., Romano-Campanian Mythological Landscape Painting (YaleClSt 9, 1944) 107-108 Nr. 55 Taf. 21.
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	35394
+	Beschreibung:	At left centre a garlanded tholos and a large tree behind a it on a rocky cliff. At the base of the cliff a seated local goddess or Aktai with long reed leans toward the corpse of Ikaros that is lying on the shore with detached right wing at his feet. In the middle a boat with two oarsmen, above it Daidalos with wings attached to shoulders, flying to the left.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/35394X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/35394X203.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/35394X204.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/35394X299.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Daidalos et Ikaros
+	Katalognummer:	41
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9506
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

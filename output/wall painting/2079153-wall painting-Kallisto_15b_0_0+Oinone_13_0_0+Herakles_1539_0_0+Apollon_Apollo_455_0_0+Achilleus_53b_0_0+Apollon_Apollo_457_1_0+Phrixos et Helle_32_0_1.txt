@@ -1,0 +1,107 @@
+http://ark.dasch.swiss/ark:/72163/080e-741cbc5785ffa-d
+Kallisto_15b_0_0
+Oinone_13_0_0
+Herakles_1539_0_0
+Apollon/Apollo_455_0_0
+Achilleus_53b_0_0
+Apollon/Apollo_457_1_0
+Phrixos et Helle_32_0_1
+
+
+
+Monument
+	ID:	8550
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	IX 5,6
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	lyre child centaur
+	Name:	Achilleus Cheiron Kallisto Oinone Herakles Helle Phrixos
+	Beschreibung:	Mural painting with various scenes.
+	Bibliographie:	Schefold, WP 253-255.
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	25749
+	Szenerieangabe:	t
+	Beschreibung:	A figure in short tunic and leather boots, holding two spears, stands before a seated woman who has a quiver on the ground beside her and an Eros leaning against her lap. In the background are three women. Curtius suggests the scene represents the discovery of Kallisto's pregnancy by Artemis. Other interpretation: Paris asks Oinone to help him with his injuries.
+	Sequenznummer:	1190
+Catalog LIMC
+	Artikel:	Kallisto
+	Katalognummer:	15b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Oinone
+	Katalognummer:	13
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49596
+	Szenerieangabe:	d
+	Beschreibung:	Herakles and a woman with a palm branch (Hebe?).
+	Sequenznummer:	1030
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	1539
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49597
+	Szenerieangabe:	c
+	Bibliographie:	Schefold, WP 254.
+	Kommentar:	Destroyed
+	Sequenznummer:	1020
+	Name:	Achilleus Cheiron
+	Stichwort:	lyre child centaur
+Datierung
+	Periode:	45 - 79 
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	455
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	53b
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49598
+	Szenerieangabe:	(b)
+	Sequenznummer:	1010
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	457
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	49599
+	Szenerieangabe:	e
+	Sequenznummer:	1040
+Catalog LIMC
+	Artikel:	Phrixos et Helle
+	Katalognummer:	32
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	IX 5,6
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1

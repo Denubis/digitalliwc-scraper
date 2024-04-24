@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-75b20006c3ce1-3
+Dionysos/Bacchus_242_1_0
+
+
+
+Monument
+	ID:	37139
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dionysos/Bacchus
+	Beschreibung:	Bacchus supported by a satyr on a chariot drawn by centaurs; in front of them his court with Indian prisoners and Semele on a chariot drawn by tigers.
+Szene
+	ID:	39037
+	Beschreibung:	Bacchus supported by a satyr on a chariot drawn by centaurs; in front of them his court with Indian prisoners and Semele on a chariot drawn by tigers.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/39037X001.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	242
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1914.152
+Museum
+	Land:	IT
+	Stadt:	Firenze
+	Name:	Galleria degli Uffizi
+	Adresse:	Via della Ninna 5
+	Postleitzahl:	I-50122
+	Kontaktzenter:	Soprintendenza Speciale per il Polo Museale Fiorentino
+	Stadt des Kontaktzenters:	Firenze
+	Rechteinhaber der Fotos:	Su concessione del Ministero dei beni e delle attività culturali e del turismo
+	Hat die Fotorechte:	1

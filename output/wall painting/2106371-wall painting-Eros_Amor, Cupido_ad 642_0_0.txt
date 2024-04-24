@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-75a1dbfabcb14-f
+Eros/Amor, Cupido_ad 642_0_0
+
+
+
+Monument
+	ID:	35998
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	Villa dei Misterii
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Eros/Amor, Cupido
+Szene
+	ID:	37838
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 642
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9763
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

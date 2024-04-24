@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-7656da8951d58-b
+
+
+
+Monument
+	ID:	52100
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	jug sacrificial assistant incense box, libanotis, acerra pollubrum, trulleum
+	Beschreibung:	Zwei langhaarige Opferdiener , l. mit Kanne und Griffschale, r. mit grosser acerra, stehen zu Seiten eines Portals. 
+	Bibliographie:	Wiegartz, H., Kleinasiatische Säulensarkophage, IstanbForsch 26 (1965) 172; Waelkens, M., Dokimeion: Die Werkstatt der räpresentativen kleinasiatischen Sarkophage (1982) 80 Taf. 24, 2.
+Datierung
+	Periode:	180 - 185 
+Epoche
+	Name:	4. Viertel 2. Jh. n. Chr.
+	Periode:	175 - 200 
+	Sequenznummer:	3230
+Szene
+	ID:	57338
+	Beschreibung:	Zwei langhaarige Opferdiener , l. mit Kanne und Griffschale, r. mit grosser acerra, stehen zu Seiten eines Portals.
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	38
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	I 1143
+Museum
+	Land:	AT
+	Stadt:	Wien
+	Name:	Kunsthistorisches Museum
+	Direktor:	Prof. Dr. Kurt Gschwantler
+	Anrede:	Sehr geehrter Herr Professor,
+	Adresse:	Burgring 5
+	Postleitzahl:	A-1010
+	Kontaktzenter:	Kunsthistorisches Museum
+	Stadt des Kontaktzenters:	Wien
+	Rechteinhaber der Fotos:	© Kunsthistorisches Museum Wien
+	Hat die Fotorechte:	1

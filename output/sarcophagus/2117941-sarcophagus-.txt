@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-76474539e8c8e-8
+
+
+
+Monument
+	ID:	50930
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Beschreibung:	Face antérieure: à l’extrémité gauche une matrone lève la main droite devant une statuette de Vénus que lui présente une jeune fille.
+	Bibliographie:	Koch, G. / Sichtermann, H., Römische Sarkophage (1982) 126 nota 6; Veyne, RA 1985 50-51 fig. 3.
+Datierung
+	Periode:	138 - 161 
+Epoche
+	Name:	antoninisch
+	Periode:	138 - 192 
+	Sequenznummer:	1210
+Szene
+	ID:	56091
+	Beschreibung:	Face antérieure: à l’extrémité gauche une matrone lève la main droite devant une statuette de Vénus que lui présente une jeune fille.
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	396
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 5. Kultbilder
+	Sequenznummer:	1800
+	Bandnummer:	2
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	112
+Museum
+	Land:	IT
+	Stadt:	Arezzo
+	Name:	Museo Archeologico Statale "Gaio Cilnio Mecenate"
+	Direktor:	Soprintendente Dott.ssa Fulvia Lo Schiavo
+	Adresse:	Via della Pergola 65
+	Postleitzahl:	I-50121
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici della Toscana
+	Stadt des Kontaktzenters:	Firenze
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici della Toscana
+	Hat die Fotorechte:	1

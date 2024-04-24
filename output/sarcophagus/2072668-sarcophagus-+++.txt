@@ -1,0 +1,163 @@
+http://ark.dasch.swiss/ark:/72163/080e-73c005c6b3891-6
+Zeus/Iuppiter_334_0_0
+Vulcanus_62_0_0
+Prometheus_110_1_0
+Helios/Sol_347_1_0
+Iuno_340_1_0
+Oikoumene_7_0_0
+Dioskouroi/Castores_61_1_0
+Hades/Pluto_5_1_0
+Ouranos_10_0_0
+Moirai_56_1_0
+Psyche_75b_0_0
+Mercurius_335_0_0
+Poseidon/Neptunus_130_0_0
+Eros/Amor, Cupido_ad 163_0_0
+Dioskouroi/Castores_ad 159_0_0
+
+
+
+Monument
+	ID:	2017
+	Entdeckungsort:	Pozzuoli, Puteoli
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Italy
+	Land:	CH
+	Kategorie:	sarcophagus
+	Stichwort:	kerykeion, caduceus cornucopia sceptre rudder, oar torch purse hammer, mallet, sphyra, malleus trident
+	Name:	Hades/Pluto Hekate Hera/Iuno Kerberos Hermes/Mercurius Poseidon/Neptunus Prometheus Psyche Vulcanus Zeus/Iuppiter Psyche/Anima Ouranos Helios/Sol Luna Dioskouroi/Castores Eros/Amor, Cupido Mercurius Moirai
+	Beschreibung:	Auslösung der Menschenseele von Pluto. Am Boden in der Bildmitte liegt der unbekleidete Körper eines Mannes, an dessen Haupt Prometheus sitzt. Zwei Eroten haben den Körper erklommen und fordern die im Hintergrund stehende barbusige Psyche auf, dem Menschenkörper eine Seele einzuhauchen. Im Hintergrund überreicht Juno dem Merkur einen Geldbeutel (Gegenwert der Menschenseele). Links davon ist eine männliche Gestalt im Ärmelchiton und Mantel zu sehen, die den Beutel erhalten soll und bereits danach greift. Sie wird als Pluto/Herr der Unterwelt gedeutet. Außerdem beinhaltet das Relief eine Menge weiterer Figuren, z.B. Oikumene und der bärtige Zeus hinter Juno; die sitzende Hekate mit Cerberus am linken Bildrand, eine Moira mit Spindel hinter dem Haupt des Liegenden; Neptun hinter Merkur; die lagernde Tethys mit Ruder am Boden vor Pluto; Gaia ganz rechts, lagernd mit Füllhorn; oben links mit Rindergespann Selene; oben rechts entsprechend der Sonnengott mit Pferdegespann, oben rechts Ouranos. Der hämmernde Schmied mit dem kurzen Oberkleid ist wohl Hephaistos, auf den eine Knabenfigur mit Fackel zufliegt.
+	Bibliographie:	Die antiken Sarkophagreliefs, hg. von Robert, C., Rodenwaldt, G., Matz, F. et al. (1890 ff.) Bd. III 3 Nr. 357; Sichtermann, H./Koch, G., Griechische Mythen auf römischen Sarkophagen (1975) 62 f. Nr. 67 Taf. 162. 163
+Datierung
+	Periode:	290 - 310 
+Epoche
+	Name:	um 300 n. Chr.
+	Periode:	290 - 310 
+	Sequenznummer:	3410
+Szene
+	ID:	1971
+	Beschreibung:	Auslösung der Menschenseele von Pluto. Am Boden in der Bildmitte liegt der unbekleidete Körper eines Mannes, an dessen Haupt Prometheus sitzt. Zwei Eroten haben den Körper erklommen und fordern die im Hintergrund stehende barbusige Psyche auf, dem Menschenkörper eine Seele einzuhauchen. Im Hintergrund überreicht Juno dem Merkur einen Geldbeutel (Gegenwert der Menschenseele). Links davon ist eine männliche Gestalt im Ärmelchiton und Mantel zu sehen, die den Beutel erhalten soll und bereits danach greift. Sie wird als Pluto/Herr der Unterwelt gedeutet. Außerdem beinhaltet das Relief eine Menge weiterer Figuren, z.B. Oikumene und der bärtige Zeus hinter Juno; die sitzende Hekate mit Cerberus am linken Bildrand, eine Moira mit Spindel hinter dem Haupt des Liegenden; Neptun hinter Merkur; die lagernde Tethys mit Ruder am Boden vor Pluto; Gaia ganz rechts, lagernd mit Füllhorn; oben links mit Rindergespann Selene; oben rechts entsprechend der Sonnengott mit Pferdegespann, oben rechts Ouranos. Der hämmernde Schmied mit dem kurzen Oberkleid ist wohl Hephaistos, auf den eine Knabenfigur mit Fackel zufliegt.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/1971X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/1971X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/1971X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/1971X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/1971X005.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/1971X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/1971X208.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/1971X211.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/1971X212.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/1971X213.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/1971X302.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	334
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Vulcanus
+	Katalognummer:	62
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Prometheus
+	Katalognummer:	110
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	347
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iuno
+	Katalognummer:	340
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Oikoumene
+	Katalognummer:	7
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dioskouroi/Castores
+	Katalognummer:	61
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	5
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ouranos
+	Katalognummer:	10
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Moirai
+	Katalognummer:	56
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	75b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	335
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Poseidon/Neptunus
+	Katalognummer:	130
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 163
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dioskouroi/Castores
+	Katalognummer:	ad 159
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	6705
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

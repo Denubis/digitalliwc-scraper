@@ -1,0 +1,31 @@
+http://ark.dasch.swiss/ark:/72163/080e-76b47eff2bbc6-3
+Dionysos/Bacchus, Add._Supplement_1_0
+
+
+
+Monument
+	ID:	202302
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	young Bacchus with ivy crown, thyrsos staff; two women bringing sacrifices
+	Bibliographie:	Jeunesse de la beauté. La peinture romaine antique (1995) 257-258 fig. 14.
+Szene
+	ID:	99299
+	Beschreibung:	young Bacchus with ivy crown, thyrsos staff; two women bringing sacrifices
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus, Add.
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	JP
+	Stadt:	Tokyo
+	Name:	Bridgestone Museum of Art
+	Rechteinhaber der Fotos:	© Bridgestone Museum of Art
+	Hat die Fotorechte:	0

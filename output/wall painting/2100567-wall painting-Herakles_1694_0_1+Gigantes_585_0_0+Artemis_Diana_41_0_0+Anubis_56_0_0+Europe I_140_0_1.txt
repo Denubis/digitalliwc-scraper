@@ -1,0 +1,82 @@
+http://ark.dasch.swiss/ark:/72163/080e-754ee1d14fcb8-b
+Herakles_1694_0_1
+Gigantes_585_0_0
+Artemis/Diana_41_0_0
+Anubis_56_0_0
+Europe I_140_0_1
+
+
+
+Monument
+	ID:	30141
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VIII 2,38-39
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	altar temple torch sacrifice statue sacral-idyllic landscape lotus
+	Name:	Anubis Harpokrates Isis Sarapis Europe I Gigantes
+	Beschreibung:	Mural painting with various scenes.
+	Bibliographie:	Schefold, WP 218; Tran Tam Tinh, V., Essai sur le culte d' Isis à Pompei (1964) 133-134 no. 25.
+Szene
+	ID:	31600
+	Beschreibung:	Europe (I), naked, right hand back trailing mantle, hanging at bull's side, kissing. Young Herakles, with club and cornucopia. A woman seated before him with a child beyond leaning on her lap.
+	Sequenznummer:	1
+	Name:	Anubis Harpokrates Isis Sarapis
+	Stichwort:	temple
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	1694
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Gigantes
+	Katalognummer:	585
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	41
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Anubis
+	Katalognummer:	56
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Europe I
+	Katalognummer:	140
+	Asterix:	0
+	Dot:	1
+Szene
+	ID:	55052
+	Szenerieangabe:	h
+	Beschreibung:	Rechte Ala: Ägyptische Sakrallandschaft: Kleiner Tempel, davor sitzende Figur mit Lotosblüte auf Kopf (Isis ?), weibliche Figur und Harpokratesstatue auf hohem Sockel; unterhalb des Tempelpodiums nähert sich eine Frau mit Fackel und einem weiteren Gegenstand der Treppe, hinter ihr drei Frauen um Altar, opfernd.
+	Bibliographie:	Schefold, WP 218;PompPittMos VIII (1998) 322-323, 22-23.
+	Kommentar:	Zerstört. Neg. DAI 53.503 (nach Zeichnung). "Feiner früher 4. Stil" (Schefold).
+	Sequenznummer:	1
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Datierung
+	Periode:	45 - 79 
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VIII 2,38-39
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1

@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a9900bad0a2-d
+Thoas II_8b_0_0
+Iphigeneia_84_1_0
+
+
+
+Monument
+	ID:	416
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Iphigeneia Thoas II
+	Beschreibung:	Scene on the right: Thoas (II) seated, with sceptre, looking at Iphigeneia, Orestes and Pylades.
+Szene
+	ID:	201
+	Beschreibung:	Scene on the right: Thoas (II) seated, with sceptre, looking at Iphigeneia, Orestes and Pylades.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Thoas II
+	Katalognummer:	8b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iphigeneia
+	Katalognummer:	84
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	G 1745
+Museum
+	Land:	DE
+	Stadt:	Weimar
+	Name:	Stiftung Weimarer Klassik und Kunstsammlungen, Schlossmuseum
+	Direktor:	Dir. Dr. Thomas Föhl
+	Adresse:	Burgplatz 4
+	Postleitzahl:	D-99423
+	Kontaktzenter:	Stiftung Weimarer Klassik und Kunstsammlungen
+	Stadt des Kontaktzenters:	Weimar
+	Rechteinhaber der Fotos:	© Stiftung Weimarer Klassik und Kunstsammlungen
+	Hat die Fotorechte:	0

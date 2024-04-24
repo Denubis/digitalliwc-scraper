@@ -1,0 +1,89 @@
+http://ark.dasch.swiss/ark:/72163/080e-75ba55c226084-2
+Elektra I_32_0_0
+
+
+
+Monument
+	ID:	37728
+	Objekt:	sarcophagus
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Elektra I Orestes Pylades Aigisthos Klytaimestra
+	Beschreibung:	Right minor side: nude youth (Pylades) standing, holding a staff. Elektra (I) in chiton and himation, seated but looking back and grasping a large vase. Orestes standing to the left, wearing chlamys. Main side: Deaths of Aigisthos and Klytaimestra.
+Szene
+	ID:	39678
+	Beschreibung:	Right minor side: nude youth (Pylades) standing, holding a staff. Elektra (I) in chiton and himation, seated but looking back and grasping a large vase. Orestes standing to the left, wearing chlamys. Main side: Deaths of Aigisthos and Klytaimestra.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/la_gayole/39678X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/la_gayole/39678X203.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/la_gayole/39678X204.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/la_gayole/39678X205.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/la_gayole/39678X206.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/la_gayole/39678X207.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/la_gayole/39678X208.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/la_gayole/39678X209.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/la_gayole/39678X210.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/la_gayole/39678X311.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Elektra I
+	Katalognummer:	32
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	FR
+	Stadt:	La Gayole
+	Rechteinhaber der Fotos:	© La Gayole
+	Hat die Fotorechte:	0

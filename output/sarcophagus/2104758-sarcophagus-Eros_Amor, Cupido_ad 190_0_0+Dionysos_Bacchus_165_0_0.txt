@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-758acc88470d3-c
+Eros/Amor, Cupido_ad 190_0_0
+Dionysos/Bacchus_165_0_0
+
+
+
+Monument
+	ID:	34377
+	Entdeckungsort:	Nepi
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dionysos/Bacchus Eros/Amor, Cupido
+	Beschreibung:	Satyrs and maenads dressing the infant Bacchus.
+Szene
+	ID:	36136
+	Beschreibung:	Satyrs and maenads dressing the infant Bacchus.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 190
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	165
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	260
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Musei Capitolini
+	Direktor:	Dirigente Dott. Claudio Parisi Presicce
+	Adresse:	Via delle Tre Pile, 1
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Sovraintendenza ai Beni Culturali                     del Comune di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Archivio fotografico Musei Capitolini
+	Hat die Fotorechte:	1

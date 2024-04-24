@@ -1,0 +1,55 @@
+http://ark.dasch.swiss/ark:/72163/080e-741a46d607f9e-1
+Oidipous_90_0_0
+Antigone_2_1_0
+
+
+
+Monument
+	ID:	8376
+	Entdeckungsort:	Delos (Cyclades)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	mask staff woman actor old man
+	Name:	Antigone Oidipous
+	Beschreibung:	Antigone leading the blind Oidipous.
+	Bibliographie:	Bezerra de Meneses, U., EADélos 27 (1970) 168-169 I-II Taf. 21,1, 22, 35, 174-176; Webster, MTSP2 119 DP 1; Bruneau, Ph., EAA Suppl. I (1973) 281 Abb. 297.
+Datierung
+	Periode:	-175 - -150 
+Epoche
+	Name:	2. Viertel 2. Jh. v. Chr.
+	Periode:	-175 - -150 
+	Sequenznummer:	2780
+Szene
+	ID:	8567
+	Beschreibung:	Antigone leading the blind Oidipous.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/delos/musee_archeologique/8567X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Oidipous
+	Katalognummer:	90
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Antigone
+	Katalognummer:	2
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Maison des comédiens
+Museum
+	Land:	GR
+	Stadt:	Délos
+	Name:	Musée Archéologique
+	Direktor:	Dir. Prof. Dominique Mulliez
+	Anrede:	Monsieur le Directeur,
+	Adresse:	6, rue Didotou
+	Postleitzahl:	GR-106 80
+	Kontaktzenter:	Ecole Française d'Athènes
+	Stadt des Kontaktzenters:	Athènes
+	Rechteinhaber der Fotos:	© Archaeological Museum of Delos
+	Hat die Fotorechte:	1

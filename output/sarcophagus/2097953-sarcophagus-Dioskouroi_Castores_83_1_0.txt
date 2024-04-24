@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-752982cb0132a-5
+Dioskouroi/Castores_83_1_0
+
+
+
+Monument
+	ID:	27508
+	Entdeckungsort:	Arles, Arelate
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dioskouroi/Castores
+Szene
+	ID:	39596
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/arles/musee_de_l_arles_et_de_la_provence_antiques/39596X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/arles/musee_de_l_arles_et_de_la_provence_antiques/39596X102.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Dioskouroi/Castores
+	Katalognummer:	83
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Espérandieu 169
+Museum
+	Land:	FR
+	Stadt:	Arles
+	Name:	Musée de l'Arles et de la Provence antiques
+	Direktor:	M. le Directeur Claude Sintes
+	Adresse:	Presqu'Ile du Cirque Romain
+	Postfach:	BP 205
+	Postleitzahl:	F-13635
+	Kontaktzenter:	Musée de l'Arles et de la Provence antiques
+	Stadt des Kontaktzenters:	Arles cedex
+	Rechteinhaber der Fotos:	© Musée de l'Arles et de la Provence antiques
+	Hat die Fotorechte:	1

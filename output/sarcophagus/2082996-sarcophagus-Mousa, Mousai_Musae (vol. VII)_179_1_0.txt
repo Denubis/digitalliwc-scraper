@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-7453ad67bfc49-0
+Mousa, Mousai/Musae (vol. VII)_179_1_0
+
+
+
+Monument
+	ID:	12428
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Mousa, Mousai
+Szene
+	ID:	12729
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/portugal/lisbonne/musee_de_l_association_des_archeologues_portugais_anc_museu_do_c/12729X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	179
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	XCI
+Museum
+	Land:	PT
+	Stadt:	Lisbonne
+	Name:	Musée de l'Association des Archéologues Portugais (anc. Museu do Carmo)
+	Rechteinhaber der Fotos:	© Musée de l'Association des Archéologues Portugais
+	Hat die Fotorechte:	0

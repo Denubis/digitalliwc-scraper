@@ -1,0 +1,73 @@
+http://ark.dasch.swiss/ark:/72163/080e-7427545741333-6
+Perimele_5_0_0
+Alkestis_9_1_0
+Alkestis_19d_0_0
+Alkestis_23_1_0
+
+
+
+Monument
+	ID:	9296
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	kline, bed child
+	Name:	Admetos II Alkestis Perimele
+	Beschreibung:	Alkestis on her deathbed. Her son Eumelos on the left, her daughter Perimele on the right.
+	Bibliographie:	Giglioli, G. Q., ArchCl 5 (1953) 222-231 pl. 106, 1-2; Dufour Bozzo, C., Sarcofagi romani a Genova (1965) 48 no. 25 pl. 12-13;  Blome, P., RM 85, 1978, 439-441 pl. 143, 1. 144-146.
+Datierung
+	Periode:	138 - 192 
+Epoche
+	Name:	antoninisch
+	Periode:	138 - 192 
+	Sequenznummer:	1210
+Szene
+	ID:	9499
+	Beschreibung:	Alkestis on her deathbed. Her son Eumelos on the left, her daughter Perimele on the right.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/genova/collegiata_santa_maria_delle_vigne/9499X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/genova/collegiata_santa_maria_delle_vigne/9499X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/genova/collegiata_santa_maria_delle_vigne/9499X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/genova/collegiata_santa_maria_delle_vigne/9499X102.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Perimele
+	Katalognummer:	5
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	9
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	19d
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	23
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Genova
+	Name:	Collegiata Santa Maria delle Vigne
+	Rechteinhaber der Fotos:	© Collegiata Santa Maria delle Vigne, Genova
+	Hat die Fotorechte:	0

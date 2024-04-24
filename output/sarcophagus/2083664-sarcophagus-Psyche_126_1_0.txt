@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-745d3a3af0a55-e
+Psyche_126_1_0
+
+
+
+Monument
+	ID:	13099
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Psyche
+Szene
+	ID:	13427
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/austria/wien/kunsthistorisches_museum/13427X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	126
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	I 1131
+Museum
+	Land:	AT
+	Stadt:	Wien
+	Name:	Kunsthistorisches Museum
+	Direktor:	Prof. Dr. Kurt Gschwantler
+	Anrede:	Sehr geehrter Herr Professor,
+	Adresse:	Burgring 5
+	Postleitzahl:	A-1010
+	Kontaktzenter:	Kunsthistorisches Museum
+	Stadt des Kontaktzenters:	Wien
+	Rechteinhaber der Fotos:	© Kunsthistorisches Museum Wien
+	Hat die Fotorechte:	1

@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-75078ad4286c2-e
+Ariadne (vol. III)_63_0_0
+Io I_50_0_0
+
+
+
+Monument
+	ID:	25114
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Ariadne Io I
+Szene
+	ID:	38062
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Ariadne (vol. III)
+	Katalognummer:	63
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Io I
+	Katalognummer:	50
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VII 14,5
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa del Banchiere
+Inventar
+	Spezifikation:	3. Inv.
+	Nummer:	Casa della Regina d'Inghilterra

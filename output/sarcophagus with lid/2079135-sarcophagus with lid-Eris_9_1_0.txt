@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-741c7a769f820-9
+Eris_9_1_0
+
+
+
+Monument
+	ID:	8532
+	Objekt:	sarcophagus with lid
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eris
+Szene
+	ID:	35587
+	Szenerieangabe:	couvercle
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/palazzo_medici-riccardi/35587X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Eris
+	Katalognummer:	9
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel II pl. 5, 19
+Museum
+	Land:	IT
+	Stadt:	Firenze
+	Name:	Palazzo Medici-Riccardi
+	Rechteinhaber der Fotos:	© Palazzo Medici-Riccardi, Firenze
+	Hat die Fotorechte:	0

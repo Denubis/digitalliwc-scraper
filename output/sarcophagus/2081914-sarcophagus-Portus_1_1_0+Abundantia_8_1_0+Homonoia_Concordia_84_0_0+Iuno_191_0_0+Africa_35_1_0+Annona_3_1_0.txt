@@ -1,0 +1,98 @@
+http://ark.dasch.swiss/ark:/72163/080e-7444355fd99a7-9
+Portus_1_1_0
+Abundantia_8_1_0
+Homonoia/Concordia_84_0_0
+Iuno_191_0_0
+Africa_35_1_0
+Annona_3_1_0
+
+
+
+Monument
+	ID:	11338
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Via Latina
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	wreath, crown, stephane, corona cornucopia rudder, oar ear of corn fire (on altar) diadem basket fruit grain, corn, cereals foculus, folding table gesture: dextrarum iunctio, dexiosis modius goddess rudder proboscis
+	Name:	Africa Annona Homonoia/Concordia Hera/Iuno Portus Senatus Iuno
+	Beschreibung:	Iuno Pronuba (or Concordia) behind the bridal pair, dextrarum iunctio of a high official responsible for the grain from Africa; Standing from left to right: Portus, Annona, Iuno Pronuba, Abundantia, Africa.
+	Bibliographie:	MusNaz I 8 46ss. no II 1; Helbig (4) III no. 2122; Koch / Sichtermann, RömSark 102 fig. 102; EAA I (1958) 107 fig. 157; Paribeni, R., BollArte 3 (1909) 291, 296.
+Datierung
+	Periode:	200 - 300 
+Epoche
+	Name:	3. Jh. n. Chr.
+	Periode:	200 - 300 
+	Sequenznummer:	3280
+Szene
+	ID:	11612
+	Beschreibung:	Iuno Pronuba (or Concordia) behind the bridal pair, dextrarum iunctio of a high official responsible for the grain from Africa; Standing from left to right: Portus, Annona, Iuno Pronuba, Abundantia, Africa.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/11612X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/11612X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/11612X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/11612X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/11612X103.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/11612X399.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Portus
+	Katalognummer:	1
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Abundantia
+	Katalognummer:	8
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Homonoia/Concordia
+	Katalognummer:	84
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iuno
+	Katalognummer:	191
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Africa
+	Katalognummer:	35
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Annona
+	Katalognummer:	3
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	40799
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Romano
+	Direktor:	Soprintendente Dott. Giuseppe Proietti
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali - Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

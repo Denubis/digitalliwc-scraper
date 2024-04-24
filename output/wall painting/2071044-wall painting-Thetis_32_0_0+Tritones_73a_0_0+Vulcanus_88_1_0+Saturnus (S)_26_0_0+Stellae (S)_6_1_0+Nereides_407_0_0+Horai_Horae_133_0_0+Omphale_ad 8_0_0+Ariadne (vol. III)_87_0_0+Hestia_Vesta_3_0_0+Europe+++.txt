@@ -1,0 +1,162 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a8ce11e9ed9-f
+Thetis_32_0_0
+Tritones_73a_0_0
+Vulcanus_88_1_0
+Saturnus (S)_26_0_0
+Stellae (S)_6_1_0
+Nereides_407_0_0
+Horai/Horae_133_0_0
+Omphale_ad 8_0_0
+Ariadne (vol. III)_87_0_0
+Hestia/Vesta_3_0_0
+Europe I_132f_0_0
+Auge_14_1_0
+Hestia/Vesta_19_0_0
+
+
+
+Monument
+	ID:	362
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	IX 5a,2-3
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Auge Herakles Europe I Hestia/Vesta Omphale Stellae Horai/Horae Ariadne Thetis Vulcanus Nereides Tritones Saturnus
+	Beschreibung:	Mural painting containing various scenes.
+Datierung
+	Periode:	50 
+Szene
+	ID:	3408
+	Szenerieangabe:	n
+	Beschreibung:	Hephaistos preparing the weapons for Achilleus and Thetis. In the centre of the shield of Achilleus are stars, non-identifiable constellations and Draco. There are also four small heads that may represent the Horae
+	Sequenznummer:	1130
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/3408X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/3408X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/3408X303.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Thetis
+	Katalognummer:	32
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Tritones
+	Katalognummer:	73a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Vulcanus
+	Katalognummer:	88
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Saturnus (S)
+	Katalognummer:	26
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Stellae (S)
+	Katalognummer:	6
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Nereides
+	Katalognummer:	407
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	133
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	17434
+	Szenerieangabe:	m
+	Beschreibung:	Omphale and Herakles.
+	Sequenznummer:	1120
+Catalog LIMC
+	Artikel:	Omphale
+	Katalognummer:	ad 8
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ariadne (vol. III)
+	Katalognummer:	87
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	21816
+	Szenerieangabe:	r
+	Beschreibung:	Vesta riding or accompanied by ass, holding a patera in her left hand and the reins in her right hand. Flanked by Lares?
+	Sequenznummer:	1170
+Catalog LIMC
+	Artikel:	Hestia/Vesta
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49503
+	Szenerieangabe:	k
+	Beschreibung:	Europe (I), naked, mantle trailing from hand, hanging beside bull.
+	Sequenznummer:	1100
+Catalog LIMC
+	Artikel:	Europe I
+	Katalognummer:	132f
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49504
+	Szenerieangabe:	e
+	Beschreibung:	Auge with female companion washing clothes. Drunken Herakles tries to seize Auge. Winged woman (Parthenos) hinders Auge's companion to help her. Between Herakles and Parthenos a standing woman holding a kantharos.
+	Sequenznummer:	1040
+Catalog Thes CRA
+	Indexnummer:	113
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 5. Kultbilder
+	Sequenznummer:	1800
+	Bandnummer:	2
+Catalog LIMC
+	Artikel:	Auge
+	Katalognummer:	14
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	49505
+	Szenerieangabe:	t
+	Beschreibung:	Vesta standing, holding torch, pouring libation over an altar. Between Vesta and the altar the forepart of an ass wearing a wreath of leaves.
+	Sequenznummer:	1190
+Catalog LIMC
+	Artikel:	Hestia/Vesta
+	Katalognummer:	19
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	IX 5,2
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa di Achille

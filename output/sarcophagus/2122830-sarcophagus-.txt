@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-768d2a903bbcb-c
+
+
+
+Monument
+	ID:	91107
+	Entdeckungsort:	Edessa (Macedonia)
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	GR
+	Kategorie:	relief
+	Stichwort:	ribbon
+	Name:	Eros
+	Grössenangabe:	Y. 070 m - Πλ. 0.465 m - Πάχ. 0.21 m
+	Beschreibung:	Eρωτιδεύς(;).
+	Kommentar:	4163
+Datierung
+	Periode:	-27 - 395 
+Epoche
+	Name:	kaiserzeitlich
+	Periode:	-27 - 476 
+	Sequenznummer:	1100
+Szene
+	ID:	96588
+	Beschreibung:	Eρωτιδεύς προς δεξιά, λείπει η κεφαλή, τα χέρια και τμήματα των σκελών. Aνέχει στον αριστερό ώμο τμήμα ανθοπλόκαμου, δεμένου με ταινίες.
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	261
+Museum
+	Land:	GR
+	Stadt:	Edesse (Grèce)
+	Name:	Collection Archéologique
+	Rechteinhaber der Fotos:	© Archaeological Collection Edessa
+	Hat die Fotorechte:	0

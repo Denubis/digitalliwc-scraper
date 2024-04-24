@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-768a34f5e1180-5
+
+
+
+Monument
+	ID:	90859
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	GR
+	Kategorie:	relief
+	Stichwort:	petasos
+	Name:	Hermes
+	Grössenangabe:	Y. 0.435 m - M. 0.45 m
+	Beschreibung:	Eρμής.
+	Kommentar:	3875
+Datierung
+	Periode:	-27 - 395 
+Epoche
+	Name:	kaiserzeitlich
+	Periode:	-27 - 476 
+	Sequenznummer:	1100
+Szene
+	ID:	96307
+	Beschreibung:	Eρμής, σώζεται η κεφαλή (πέτασος) κατενώπιον. Tο πρόσωπο στέφεται από διπλή σειρά βοστρύχων. Oριζόντια ρυτίδα στο μέτωπο.
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	αγκ 28
+Museum
+	Land:	GR
+	Stadt:	Komotini
+	Name:	Musée Archéologique
+	Direktor:	Dr. Photini Balla
+	Adresse:	Odos Panepistimiou 22
+	Postleitzahl:	GR-10672
+	Kontaktzenter:	Bureau LIMC Société Archéologique d'Athènes
+	Stadt des Kontaktzenters:	Athènes
+	Rechteinhaber der Fotos:	© Archaeological Museum of Komotini
+	Hat die Fotorechte:	0

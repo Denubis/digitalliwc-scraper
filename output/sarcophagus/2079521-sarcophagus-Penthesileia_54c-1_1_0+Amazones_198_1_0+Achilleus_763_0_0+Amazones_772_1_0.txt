@@ -1,0 +1,74 @@
+http://ark.dasch.swiss/ark:/72163/080e-7421ff310ab2a-6
+Penthesileia_54c-1_1_0
+Amazones_198_1_0
+Achilleus_763_0_0
+Amazones_772_1_0
+
+
+
+Monument
+	ID:	8920
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	helmet horse warrior, soldier Amazon fight, battle
+	Name:	Achilleus Penthesileia Amazones
+	Beschreibung:	Penthesileia and Achilleus.
+	Bibliographie:	SarkRel II 110 Nr. 90 Taf 37-38; Redlich, R., Die Amazonensarkophage des 2. und 3. Jh. n. Chr. (1942) 77-79.
+Datierung
+	Periode:	200 - 210 
+Epoche
+	Name:	Anfang 3. Jh. n. Chr.
+	Periode:	200 - 210 
+	Sequenznummer:	3290
+Szene
+	ID:	9122
+	Beschreibung:	Penthesileia and Achilleus.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/9122X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/9122X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/9122X301.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Penthesileia
+	Katalognummer:	54c-1
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	198
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	763
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	772
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 1052
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

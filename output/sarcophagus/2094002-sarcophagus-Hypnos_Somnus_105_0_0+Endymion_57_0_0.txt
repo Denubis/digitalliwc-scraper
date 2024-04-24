@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-74f10675607bf-b
+Hypnos/Somnus_105_0_0
+Endymion_57_0_0
+
+
+
+Monument
+	ID:	23525
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Endymion Hypnos/Somnus
+Szene
+	ID:	24694
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/museo_nazionale_di_tarquinia/24694X301.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	105
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	57
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 1, 51
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Museo Nazionale di Tarquinia
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

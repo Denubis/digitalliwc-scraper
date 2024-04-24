@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-766e716684d12-6
+
+
+
+Monument
+	ID:	53863
+	Entdeckungsort:	Hermoupolis Magna (Egypt)
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	painting
+	Stichwort:	table, mensa, trapeza priest cloth, textile pomegranate coffin hydreion (cult of Isis)
+	Name:	Anubis Osiris
+	Beschreibung:	Bemalter Mumien-Sarg der Didyme. Rechte Seite: Didyme wird von Anubis vor Osiris geführt. Den beiden folgen ein Falkenköpfiger (Horus?) mit zwei Granatäpfeln und ein Priester, der ein hydreion in einem Fransentuch trägt. (Kurth Taf. 7, 1; Knauer Abb. 14). Am Fussende: Didyme steht in Osiris-Gestalt vor ihr ein Tischchen mit hydreion (Kurth Taf. 4, 1; Knauer Abb. 16).
+	Bibliographie:	Kurth, D., Der Sarg der Teüris. Eine Studie zum Totenglauben im römerzeitlichen Aegypten (1990) 33–35 Taf. 4–7; Knauer, E. R., Urnula Faberrime Cavata. Observations on a Vessel Used in the Cult of Isis (1995) 9–12 Abb. Abb. 11–16.
+	Kommentar:	Weitere Darstellungen des hydreion aus Ägypten: Knauer11 Anm. 20; 12–16 Abb. 17. 18
+Datierung
+	Periode:	100 - 110 
+Epoche
+	Name:	Anfang 2. Jh. n. Chr.
+	Periode:	100 - 110 
+	Sequenznummer:	3150
+Szene
+	ID:	59269
+	Beschreibung:	Bemalter Mumien-Sarg der Didyme. Rechte Seite: Didyme wird von Anubis vor Osiris geführt. Den beiden folgen ein Falkenköpfiger (Horus?) mit zwei Granatäpfeln und ein Priester, der ein hydreion in einem Fransentuch trägt. (Kurth Taf. 7, 1; Knauer Abb. 14). Am Fussende: Didyme steht in Osiris-Gestalt vor ihr ein Tischchen mit hydreion (Kurth Taf. 4, 1; Knauer Abb. 16).
+Catalog Thes CRA
+	Indexnummer:	607
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	EG
+	Stadt:	Minia (El-Minia)
+	Name:	Musée
+	Rechteinhaber der Fotos:	© Musée El-Minia
+	Hat die Fotorechte:	0

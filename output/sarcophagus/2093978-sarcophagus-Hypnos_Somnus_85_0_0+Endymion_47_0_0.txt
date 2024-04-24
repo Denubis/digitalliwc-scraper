@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-74f0ae9ed7d47-6
+Hypnos/Somnus_85_0_0
+Endymion_47_0_0
+
+
+
+Monument
+	ID:	23500
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Endymion Hypnos/Somnus
+Szene
+	ID:	24668
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	85
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	47
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 1, 39
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Rospigliosi Pallavicini
+	Rechteinhaber der Fotos:	© Palazzo Rospigliosi Pallavicini, Roma
+	Hat die Fotorechte:	1

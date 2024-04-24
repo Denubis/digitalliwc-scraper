@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-768e0628915f7-a
+
+
+
+Monument
+	ID:	91105
+	Entdeckungsort:	Edessa (Macedonia)
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	GR
+	Kategorie:	relief
+	Stichwort:	snake gorgoneion ribbon wings
+	Name:	Eros
+	Grössenangabe:	Y. 0.83 m - Mήκ. 2.105  m - Πάχ. 0.18 m
+	Beschreibung:	Eρωτιδείς, Γοργόνεια.
+	Bibliographie:	Πρβλ. Altmann, Architektur und Ornamentik der Antiken Sarkophage 59.Toynbee, The Hadrianic School (1934).Cormack, BSA 41 (1940-1945) 115.
+	Kommentar:	4161
+Datierung
+	Periode:	100 - 200 
+	Kommentar:	?
+Epoche
+	Name:	2. Jh. n. Chr.
+	Periode:	100 - 200 
+	Sequenznummer:	3140
+Szene
+	ID:	96586
+	Beschreibung:	Eρωτιδείς, γυμνοί, πτερωτοί, κατά 3/4 προς δεξιά, ένας στο μέσο και δύο στα άκρα της πλάκας, ανέχουν στον αριστερό ώμο ανθοπλόκαμο, δεμένο σε διάφορα σημεία με ταινίες, ενώ τον συγκρατούν με το δεξιό υψωμένο χέρι. Eντός των δύο σχηματιζομένων ημικυκλίων εικονίζονται Γοργόνεια, κατ' ενώπιον, που φέρουν πτερά στην κόμη και όφεις δεμένους γύρω από το λαιμό.
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	52
+Museum
+	Land:	GR
+	Stadt:	Edesse (Grèce)
+	Name:	Collection Archéologique
+	Rechteinhaber der Fotos:	© Archaeological Collection Edessa
+	Hat die Fotorechte:	0

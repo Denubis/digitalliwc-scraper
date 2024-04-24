@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-741c906c41abe-9
+Pelops_ad 52_0_0
+
+
+
+Monument
+	ID:	8538
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Pelops
+Szene
+	ID:	8736
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Pelops
+	Katalognummer:	ad 52
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	I 1034
+Museum
+	Land:	AT
+	Stadt:	Wien
+	Name:	Kunsthistorisches Museum
+	Direktor:	Prof. Dr. Kurt Gschwantler
+	Anrede:	Sehr geehrter Herr Professor,
+	Adresse:	Burgring 5
+	Postleitzahl:	A-1010
+	Kontaktzenter:	Kunsthistorisches Museum
+	Stadt des Kontaktzenters:	Wien
+	Rechteinhaber der Fotos:	© Kunsthistorisches Museum Wien
+	Hat die Fotorechte:	1

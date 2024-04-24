@@ -1,0 +1,76 @@
+http://ark.dasch.swiss/ark:/72163/080e-7416c627ffa15-8
+Sterope I_6_1_0
+Hippodameia I_27_0_0
+Oinomaos_3_0_0
+Pelops_5_1_0
+
+
+
+Monument
+	ID:	8129
+	Entdeckungsort:	Athens
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hippodameia I Oinomaos Sterope I Pelops
+	Beschreibung:	Right minor side: Hippodameia (I) with Sterope (I), three other women and Erotes. One long side shows Pelops before Oinomaos, the other Oinomaos' death with the king lying under his horses and Pelops on foot at the right. On the other minor side Pelops carries Hippodameia (I) in his right arm and drives his chariot over the sea. A servant leads the chariot.
+Datierung
+	Periode:	250 - 260 
+Szene
+	ID:	8315
+	Beschreibung:	Right minor side: Hippodameia (I) with Sterope (I), three other women and Erotes. One long side shows Pelops before Oinomaos, the other Oinomaos' death with the king lying under his horses and Pelops on foot at the right. On the other minor side Pelops carries Hippodameia (I) in his right arm and drives his chariot over the sea. A servant leads the chariot.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/athens/national_archaeological_museum/8315X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/athens/national_archaeological_museum/8315X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/athens/national_archaeological_museum/8315X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/athens/national_archaeological_museum/8315X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/athens/national_archaeological_museum/8315X101.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Sterope I
+	Katalognummer:	6
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippodameia I
+	Katalognummer:	27
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Oinomaos
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Pelops
+	Katalognummer:	5
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1176
+Museum
+	Land:	GR
+	Stadt:	Athens
+	Name:	National Archaeological Museum
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Anrede:	Dear Director,
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© National Archaeological Museum, Athens
+	Kommentar:	Pour les intailles de la collection Karapanos voir Musée Numismatique.  Inv. VS = ancienne collection Vlastos-Serpieri.
+	Hat die Fotorechte:	1

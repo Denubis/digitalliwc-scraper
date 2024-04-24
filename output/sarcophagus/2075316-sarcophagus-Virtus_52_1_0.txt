@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e5e13cee649-9
+Virtus_52_1_0
+
+
+
+Monument
+	ID:	4679
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Virtus
+	Beschreibung:	Boar hunt in the presence of Virtus.
+Szene
+	ID:	4745
+	Beschreibung:	Boar hunt in the presence of Virtus.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/battistero_san_giovanni/4745X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Virtus
+	Katalognummer:	52
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel I 2, 31
+Museum
+	Land:	IT
+	Stadt:	Firenze
+	Name:	Battistero San Giovanni
+	Rechteinhaber der Fotos:	© Firenze
+	Hat die Fotorechte:	0

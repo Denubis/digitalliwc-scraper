@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-76398f5d7ef93-6
+Artemis/Diana_ante 268_0_0
+
+
+
+Monument
+	ID:	46710
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Artemis/Diana
+Szene
+	ID:	50361
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	ante 268
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	P 20
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

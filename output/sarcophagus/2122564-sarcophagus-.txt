@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-76895d067bd19-7
+
+
+
+Monument
+	ID:	90886
+	Entdeckungsort:	Athens
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	GR
+	Kategorie:	relief
+	Stichwort:	thyrsos lion krater kantharos dance pipe, flute, aulos, tibiae grapes
+	Name:	Eros/Amor, Cupido
+	Grössenangabe:	-
+	Beschreibung:	Eρωτιδείς.
+	Bibliographie:	Kekulé 366.
+	Kommentar:	3909
+Szene
+	ID:	96339
+	Szenerieangabe:	A
+	Beschreibung:	Mακρά πλευρά: Έξι (6) Eρωτιδείς. Eρωτιδεύς στο κέντρο, προς δεξιά, κλίνει προς τα πίσω (ιμάτιο), κρατά με το υψωμένο αριστερό χέρι βότρεις. Eρωτιδεύς, πίσω από τον πρώτο, προς δεξιά, κεφαλή κατ' ενώπιον (ιμάτιο που πέφτει πίσω), συγκρατεί τον πρώτο. Δύο Eρωτιδείς, εκατέρωθεν των ανωτέρω, ο ένας (αριστερά) βαίνει προς δεξιά, κεφαλή προς δεξιά κατά κρόταφο (ιμάτιο), κρατά με το υψωμένο αριστερό χέρι βότρεις, ενώ το αριστερό χέρι έρχεται πίσω.  O άλλος (δεξιά) βαίνει προς αριστερά, κατά κρόταφο, παίζοντας αυλό (ιμάτιο που ανεμίζει πίσω). Δύο Eρωτιδείς, εκατέρωθεν αυτών, στα άκρα, γυμνοί, κατ' ενώπιον, αριστερό και δεξιό χέρι αντίστοιχα πάνω από την κεφαλή τους, δεξιό και αριστερό πόδι αντίστοιχα προ του ετέρου, λυγισμένα.Στενή πλευρά: Eρωτιδεύς προς αριστερά, κατά τομή, γυμνός, βαδίζει, φέρνοντας στο δεξιό ώμο θύρσο, τον οποίο κρατά με το δεξιό χέρι, το αριστερό κατεβαίνει κρατώντας κάνθαρο.
+Szene
+	ID:	96340
+	Szenerieangabe:	B
+	Beschreibung:	Mακρά πλευρά: Δύο λέοντες εκατέρωθεν κρατήρα.Στενή πλευρά: Eρωτιδεύς, ορχούμενος, προς αριστερά (ιμάτιο που ανεμίζει), κρατά με το δεξιό υψωμένο χέρι τμήμα του ιματίου.
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1183
+Museum
+	Land:	GR
+	Stadt:	Athens
+	Name:	National Archaeological Museum
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Anrede:	Dear Director,
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© National Archaeological Museum, Athens
+	Kommentar:	Pour les intailles de la collection Karapanos voir Musée Numismatique.  Inv. VS = ancienne collection Vlastos-Serpieri.
+	Hat die Fotorechte:	1

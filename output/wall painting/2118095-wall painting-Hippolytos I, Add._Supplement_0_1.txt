@@ -1,0 +1,55 @@
+http://ark.dasch.swiss/ark:/72163/080e-764978da80510-e
+Hippolytos I, Add._Supplement_0_1
+
+
+
+Monument
+	ID:	51089
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	V 2,10
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	wreath, crown, stephane, corona tree cult image, cult statue dog hunter
+	Name:	Artemis Athena Hippolytos I
+	Beschreibung:	three hunters with their dogs approaching a statue of Artemis; on of them, probably Hippolytos (I), offers a crown to the goddess
+	Bibliographie:	Dawson, C., Romano-Campanian Mythological Landscape-Painting, YaleClSt 9 (1944) 90 no. 23a pl. 8;  Feherentz, V., Der antike Agyieus, JdI 108 (1993) 125 n. 7; 180 fig.; EAA PPM III (1991) 841 no. 21.
+	Kommentar:	Phot. DAI 53.492.
+Datierung
+	Periode:	-15 - 63 
+Epoche
+	Name:	3. pompejanischer Stil
+	Periode:	-15 - 63 
+	Sequenznummer:	1340
+Szene
+	ID:	56251
+	Beschreibung:	three hunters with their dogs approaching a statue of Artemis; on of them, probably Hippolytos (I), offers a crown to the goddess
+Catalog Thes CRA
+	Indexnummer:	343
+	Asterix:	0
+	Dot:	1
+Catalog Thes CRA Kapitel
+	Name:	II. 5. Kultbilder
+	Sequenznummer:	1800
+	Bandnummer:	2
+Catalog LIMC
+	Artikel:	Hippolytos I, Add.
+	Band:	Supplement
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	V 2,10
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1

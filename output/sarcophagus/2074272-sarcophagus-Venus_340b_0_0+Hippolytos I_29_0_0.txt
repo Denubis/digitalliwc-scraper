@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d6f448b5ee5-4
+Venus_340b_0_0
+Hippolytos I_29_0_0
+
+
+
+Monument
+	ID:	3630
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Asia Minor
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hippolytos I Venus
+	Beschreibung:	Venus teaches Amor how to to do archery.
+Szene
+	ID:	3667
+	Beschreibung:	Venus teaches Amor how to to do archery.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Venus
+	Katalognummer:	340b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	29
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	A 702
+Museum
+	Land:	TR
+	Stadt:	Antalya
+	Name:	Musée Archéologique
+	Direktor:	Prof. Kutalmis Görkay
+	Adresse:	Dil ve Tarih, Cografya Fakültesi
+	Postleitzahl:	TR-06100
+	Kontaktzenter:	Ankara Üniversitesi
+	Stadt des Kontaktzenters:	Sihhiye Ankara / Türkei
+	Rechteinhaber der Fotos:	© Archaeological Museum Antalya
+	Hat die Fotorechte:	1

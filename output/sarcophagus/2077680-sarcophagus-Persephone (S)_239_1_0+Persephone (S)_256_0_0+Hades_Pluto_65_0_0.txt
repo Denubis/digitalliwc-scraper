@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-7407ad4882d75-0
+Persephone (S)_239_1_0
+Persephone (S)_256_0_0
+Hades/Pluto_65_0_0
+
+
+
+Monument
+	ID:	7062
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hades/Pluto Persephone
+	Beschreibung:	Rape of Persephone: Persephone in Hades' chariot.
+Szene
+	ID:	7208
+	Beschreibung:	Rape of Persephone: Persephone in Hades' chariot.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_barberini/7208X002.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Persephone (S)
+	Katalognummer:	239
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Persephone (S)
+	Katalognummer:	256
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	65
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 3, 413
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Barberini
+	Rechteinhaber der Fotos:	© Palazzo Barberini, Roma
+	Hat die Fotorechte:	1

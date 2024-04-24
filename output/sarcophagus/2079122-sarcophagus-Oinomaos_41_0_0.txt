@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-741c4ae26ad1f-8
+Oinomaos_41_0_0
+
+
+
+Monument
+	ID:	8519
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Oinomaos
+Szene
+	ID:	8714
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Oinomaos
+	Katalognummer:	41
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Anacapri
+	Name:	Villa San Michele
+	Rechteinhaber der Fotos:	© Villa San Michele, Anacapri
+	Hat die Fotorechte:	0

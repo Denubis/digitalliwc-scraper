@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-749d345c8e4fc-9
+Achilleus_161_0_0
+Agyrtes_30_0_0
+
+
+
+Monument
+	ID:	17618
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	helmet shield corselet trumpet, tuba, salpinx kneeling (not ritually) gesture: both arms extended forward
+	Name:	Achilleus Agyrtes Diomedes I Eros/Amor, Cupido Odysseus Phoinix II Deidameia II
+	Bibliographie:	SarkRel II no. 34; Michaelis, A., Ancient Marbles in Great Britain (1882) 735 no. 117; Vermeule, C. C., The Dal Pozzo-Albani Drwings of Classical Antiquities in the Royal Library at Windsor Castle, TAPhS 56, 2 (1966) no. 8068. 8334; Baratte, F., Un sarcophage d'Achille inédit, MEFRA 86 (1974) 786 fig. 7. 13.
+Datierung
+	Periode:	250 - 260 
+Epoche
+	Name:	Mitte 3. Jh. n. Chr.
+	Periode:	240 - 260 
+	Sequenznummer:	3300
+Szene
+	ID:	40045
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	161
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Agyrtes
+	Katalognummer:	30
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Cat. 66 (Michaelis 117)
+Museum
+	Land:	GB
+	Stadt:	Woburn Abbey (Bedfordshire)
+	Name:	Woburn Abbey Art Gallery
+	Rechteinhaber der Fotos:	© Woburn Abbey Art Gallery
+	Kommentar:	Numéros d'après Angelicoussis, E., The Woburn Abbey Collection of Classical Antiquities (1992); les numéros entre parenthèses sont ceux de Michaelis, A., Ancient Marbles in Great Britain (1882).
+	Hat die Fotorechte:	1

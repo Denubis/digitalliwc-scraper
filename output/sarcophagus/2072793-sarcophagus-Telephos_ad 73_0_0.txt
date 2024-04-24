@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-73c1cf44109c2-6
+Telephos_ad 73_0_0
+
+
+
+Monument
+	ID:	2144
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Telephos
+	Beschreibung:	Orestes sitting on an altar, threatened by Telephos. Agamemnon held back by Odeysseus. Between the two groups a demon.
+Szene
+	ID:	29040
+	Beschreibung:	Orestes sitting on an altar, threatened by Telephos. Agamemnon held back by Odeysseus. Between the two groups a demon.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Telephos
+	Katalognummer:	ad 73
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	654
+Museum
+	Land:	IT
+	Stadt:	Volterra
+	Name:	Museo Etrusco Guarnacci
+	Direktor:	Direttore Dott. Alessandro Furiesi
+	Anrede:	Gentilissimo Direttore,
+	Adresse:	Via Don Minzoni 15
+	Postleitzahl:	I-56048
+	Kontaktzenter:	Museo Etrusco Guarnacci
+	Stadt des Kontaktzenters:	Volterra
+	Rechteinhaber der Fotos:	© Museo Etrusco Guarnacci, Volterra
+	Hat die Fotorechte:	0

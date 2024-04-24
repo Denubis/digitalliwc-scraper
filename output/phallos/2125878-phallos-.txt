@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-76b8bdfe06d53-a
+
+
+
+Monument
+	ID:	202863
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	I 7,1 (House of C. Cuspius Pansa)
+	Objekt:	phallos
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sculpture in the round
+	Beschreibung:	Inscription on the wall of a bakery: HIC HABITAT / FELICITAS in two rows, in between a phallus.
+	Bibliographie:	Gell, W./Gandy, J.-F., Vue des ruines de Pompéi (1827) 75 pl. 47; De Caro, S. (ed.), Il gabinetto segreto del Museo Archeologico Nazionale di Napoli (2000) 72. 81 ill.
+Szene
+	ID:	99889
+	Beschreibung:	Inscription on the wall of a bakery: HIC HABITAT / FELICITAS in two rows, in between a phallus.
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	1
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VI. 1.g. Glück und Unglück, röm.
+	Bandnummer:	6
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Raccolta pornograf. 73
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

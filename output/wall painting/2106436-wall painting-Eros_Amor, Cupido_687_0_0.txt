@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-75a2c9dfc4219-f
+Eros/Amor, Cupido_687_0_0
+
+
+
+Monument
+	ID:	36063
+	Entdeckungsort:	Ercolano, Herculaneum, Herculanum
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Eros/Amor, Cupido
+Szene
+	ID:	37911
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	687
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	77872
+Museum
+	Land:	IT
+	Stadt:	Ercolano
+	Name:	Antiquarium
+	Rechteinhaber der Fotos:	© Antiquarium Ercolano
+	Hat die Fotorechte:	1

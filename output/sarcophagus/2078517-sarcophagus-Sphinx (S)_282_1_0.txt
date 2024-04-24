@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-7413a4a260a8e-d
+Sphinx (S)_282_1_0
+
+
+
+Monument
+	ID:	7905
+	Entdeckungsort:	Tyre
+	Objekt:	sarcophagus
+	Material:	lead
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Sphinx (Thebana)
+	Beschreibung:	Crouching female Sphinxes.
+Szene
+	ID:	8088
+	Beschreibung:	Crouching female Sphinxes.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/washington_dc/dumbarton_oaks_research_library_and_collection/8088X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Sphinx (S)
+	Katalognummer:	282
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	41.2
+Museum
+	Land:	US
+	Stadt:	Washington (DC)
+	Name:	Dumbarton Oaks Research Library and Collection
+	Direktor:	Photographic Services
+	Adresse:	1703 32nd Street, NW
+	Postleitzahl:	USA-
+	Kontaktzenter:	Dumbarton Oaks Research Library and Collection
+	Stadt des Kontaktzenters:	Washington D. C. 20007
+	Rechteinhaber der Fotos:	© Dumbarton Oaks Research Library and Collection
+	Hat die Fotorechte:	1

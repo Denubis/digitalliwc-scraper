@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-751aedad5163e-8
+Gorgones Romanae_158_1_0
+
+
+
+Monument
+	ID:	26483
+	Entdeckungsort:	Perge (Pamphylia)
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Gorgo, Gorgones
+	Beschreibung:	Erotes bearing a shield with gorgoneion.
+Szene
+	ID:	27816
+	Beschreibung:	Erotes bearing a shield with gorgoneion.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/turkey/antalya/musee_regional/27816X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Gorgones Romanae
+	Katalognummer:	158
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	433
+Museum
+	Land:	TR
+	Stadt:	Antalya
+	Name:	Musée Archéologique
+	Direktor:	Prof. Kutalmis Görkay
+	Adresse:	Dil ve Tarih, Cografya Fakültesi
+	Postleitzahl:	TR-06100
+	Kontaktzenter:	Ankara Üniversitesi
+	Stadt des Kontaktzenters:	Sihhiye Ankara / Türkei
+	Rechteinhaber der Fotos:	© Archaeological Museum Antalya
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	A 380

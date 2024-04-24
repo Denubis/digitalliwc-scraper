@@ -1,0 +1,152 @@
+http://ark.dasch.swiss/ark:/72163/080e-73cfbfaf8030d-5
+Venus_35a_1_0
+Eros/Amor, Cupido_589_0_0
+Venus_228_0_0
+Kybele (S)_73_1_0
+Mercurius_194_0_0
+Helios/Sol_271_0_0
+
+
+
+Monument
+	ID:	3126
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	IX 7,1 (Tavern of the Four Divinities)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Dionysos/Bacchus Eros/Amor, Cupido Helios/Sol Kybele Hermes/Mercurius Luna Aphrodite/Venus Zeus/Iuppiter Mercurius Venus
+	Grössenangabe:	H: 1,2 m; B: 1,65 m
+	Beschreibung:	Wandmalerei am Türpfeiler, links Venus mit Eroten, rechts Kybeleprozession. Darüber befinden sich am Architrav Medaillons mit der Darstellung von Sol, Jupiter, Luna und Merkur. 
+	Bibliographie:	Schefold, WP 267; Spinazzola, Pompei I Abb. 250. 251. 264. 265; Vermaseren, M. J., Corpus Cultus Cybelae Attidisque IV 17-19 Nr. 42 Taf. 11-17; Fröhlich, Th., Lararien- und Fassadenbilder in den Vesuvstädten. Untersuchungen zur "volkstümlichen" pompejanischen Malerei (1991) 182-184. 332-333 F 63 Taf. 59, 2; PompPittMos IX (1999) 769-770, 1; 772-773, 6-7.
+Datierung
+	Periode:	74 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	100431
+	Szenerieangabe:	(b)
+	Beschreibung:	Auf der linken Seite Darstellung der Venus Pompejana in Chiton und Mantel, in der linken Hand, die vor der Brust angewinkelt ist, trägt sie einen Zweig, die rechte stützt sich auf einem auf dem Boden abgestellten Steuerruder und sichert ein an die Schulter gelehntes Szepter. Neben ihr steht ein knabenhafter Eros auf einer Basis in kurzer Tunika und hält einen runden Gegenstand (Schild?) in beiden Händen. Die Szene wird flankiert von zwei kleinen fliegenden Eroten, der linke reicht Venus einen Kranz, der rechte trägt einen Palmwedel. Über den Figuren hängt eine Girlande. 
+	Name:	Eros/Amor, Cupido Aphrodite/Venus
+	Stichwort:	wreath, crown, stephane, corona palm branch base sceptre garland statue rudder
+Foto
+	Neues Foto:	1
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1
+Catalog LIMC
+	Artikel:	Venus
+	Katalognummer:	35a
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	589
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	100484
+	Szenerieangabe:	(a)
+	Beschreibung:	Auf der rechte Seite Darstellung einer Kybeleprozession. Die Statue der Göttin in Purpurgewand (mit phiale, Szepter und tympanon in der Hand) sitzt in der Mitte auf einem mit goldenen Sternen verzierten Thron (links und rechts ein kleiner, goldener Löwe), der auf einem ferculum steht. Flankiert wird sie von vier Trägern (ministri), die Prozession wird angeführt von einem Priester mit einer Lampe in der rechten Hand. Es folgen Priesterin mit tympanon (?), Flötenspieler, Frauen mit tympana und kymbala. Am rechten Rand steht der Tragaltar aus Metall (Dreifussbasis, hoher Schaft, darüber ein Scheibchen), rechts und links neben dem Altar ein hoher Kandelaber. An der linken Seite der Szene schließen sich ein Naiskos mit einem Dionysoskopf darin und zwei weitere Musiker an.        On the left hand side one can see a shrine with a bust of Dionysos and on the right hand side an altar flanked by two candelabra. In the middle one can distinguish the magna mater being enthroned on a fercula. The lions at her feet as well as the tympanon and the phiale she is holding in her left hand identify her as Kybele. In the right hand she’s holding, more visibly, a sceptre. Four carriers surround her. Three priests clothed in white gowns are also depicted. They are contrasted to the remaining contributors, who were probably illustrated wearing clothing of colour, and who are holding music instruments in their hands. The ornamentation on the upper side of the painting beautifully illustrates the style of the 4th Pompeian era.
+	Name:	Dionysos Kybele
+	Stichwort:	throne sceptre phiale, phiale mesomphalos, patera lion tympanon (tambourine) naiskos, aedicula priest pipe, flute, aulos, tibiae star candelabrum ferculum, lectica musician (man) kymbalon, kymbala, cymbala, cymbals altar: arula, portable altar
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1
+Catalog Thes CRA
+	Indexnummer:	592
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 5. Kultbilder
+	Sequenznummer:	1800
+	Bandnummer:	2
+Catalog Thes CRA
+	Indexnummer:	31
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 1. Prozessionen, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	100
+	Bandnummer:	1
+Catalog Thes CRA
+	Indexnummer:	39
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	13
+	Name:	II. 4.c. Musik, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	1720
+	Bandnummer:	2
+Catalog Thes CRA
+	Indexnummer:	254
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.a. Kultpersonal, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	4700
+	Bandnummer:	5
+Catalog Thes CRA
+	Indexnummer:	981
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Catalog Thes CRA
+	Indexnummer:	1383
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Venus
+	Katalognummer:	228
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kybele (S)
+	Katalognummer:	73
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	100485
+	Szenerieangabe:	c
+	Beschreibung:	Auf dem Architrav über den Pfeilern sitzen Medaillons mit Götterbüsten: Helios mit Strahlennimbus, Jupiter, Merkur (mit Flügelhut, chlamys und caduceus) und Luna. 
+	Name:	Helios/Sol Hermes/Mercurius Luna Zeus/Iuppiter
+	Stichwort:	kerykeion, caduceus halo, nimbus winged boots Chlamys
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	194
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	271
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	IX 7,1
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Taberna delle Quattro Divinità

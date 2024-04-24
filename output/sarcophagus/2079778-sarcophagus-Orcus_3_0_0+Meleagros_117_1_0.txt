@@ -1,0 +1,66 @@
+http://ark.dasch.swiss/ark:/72163/080e-7425abca575ef-4
+Orcus_3_0_0
+Meleagros_117_1_0
+
+
+
+Monument
+	ID:	9180
+	Entdeckungsort:	Ostia
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Name:	Meleagros Orcus
+	Beschreibung:	Banquette scene of four drinking men; maybe the Dioskoures (in the middle) and Meleager (on the left); in another scene: Orcus between a bearded man and one of the Dioskouroi, holding an axe.
+Szene
+	ID:	9381
+	Beschreibung:	Banquette scene of four drinking men; maybe the Dioskoures (in the middle) and Meleager (on the left); in another scene: Orcus between a bearded man and one of the Dioskouroi, holding an axe.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/frascati/villa_aldobrandini/9381X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/frascati/villa_aldobrandini/9381X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/frascati/villa_aldobrandini/9381X102.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	141
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 4.a. Bankett, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	1430
+	Bandnummer:	2
+Catalog LIMC
+	Artikel:	Orcus
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	117
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Frascati
+	Name:	Villa Aldobrandini
+	Direktor:	Amministrazione Aldobrandini
+	Anrede:	Gentili Signore, Gentili Signori,
+	Adresse:	Via Cardinal Guglielmo Massaia 18
+	Postleitzahl:	I-00044
+	Kontaktzenter:	Villa Aldobrandini
+	Stadt des Kontaktzenters:	Frascati (Roma)
+	Rechteinhaber der Fotos:	© Villa Aldobrandini, Frascati
+	Hat die Fotorechte:	0

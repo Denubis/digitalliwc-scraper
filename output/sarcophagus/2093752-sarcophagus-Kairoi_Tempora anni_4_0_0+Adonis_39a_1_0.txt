@@ -1,0 +1,59 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ed737aa655d-0
+Kairoi/Tempora anni_4_0_0
+Adonis_39a_1_0
+
+
+
+Monument
+	ID:	23271
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	tree spear pillar boar dog hunt centaur canopy, baldachin
+	Name:	Adonis Eros/Amor, Cupido Aphrodite/Venus Kairoi/Tempora anni
+	Beschreibung:	Two different scenes seperated by a pillar. On the pillar four Erotes depicting the Seasons. From bottom to top: Spring, Summer, Fall, Winter.
+	Bibliographie:	SarkRel III 1, 20 no. 20; Sichtermann/ Koch, MythSark no. 6 pl. 10, 1. 11.
+Datierung
+	Periode:	190 - 200 
+Epoche
+	Name:	Ende 2. Jh. n. Chr.
+	Periode:	190 - 200 
+	Sequenznummer:	3170
+Szene
+	ID:	24413
+	Beschreibung:	Two different scenes seperated by a pillar. On the pillar four Erotes depicting the Seasons. From bottom to top: Spring, Summer, Fall, Winter.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/mantova/galleria_e_museo_di_palazzo_ducale/24413X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/mantova/galleria_e_museo_di_palazzo_ducale/24413X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	4
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Adonis
+	Katalognummer:	39a
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Levi 190
+Museum
+	Land:	IT
+	Stadt:	Mantova
+	Name:	Galleria e Museo di Palazzo Ducale
+	Direktor:	Soprintendente Dott.ssa Giuliana Algeri
+	Adresse:	Piazza Paccagnini 3
+	Postleitzahl:	I-46100
+	Kontaktzenter:	(All'attenzione del Dott. G. Rodella) Sopr. Patrimonio Storico ed Artistico Mantova, Cremona e Brescia
+	Stadt des Kontaktzenters:	Mantova
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali
+	Kommentar:	Levi: numeri di catalogo di Levi, A., Sculture greche e romane del Palazzo Ducale di Mantova (1930).
+	Hat die Fotorechte:	0

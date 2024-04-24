@@ -1,0 +1,55 @@
+http://ark.dasch.swiss/ark:/72163/080e-74b626eaf38d1-8
+Narkissos_49_0_0
+Echo_12_0_0
+Eros/Amor, Cupido_164_1_0
+
+
+
+Monument
+	ID:	19382
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Echo Eros/Amor, Cupido Narkissos
+	Beschreibung:	Narkissos watching his mirror image, in front of him Amor. The nymph Echo sits in the background.
+Szene
+	ID:	20278
+	Beschreibung:	Narkissos watching his mirror image, in front of him Amor. The nymph Echo sits in the background.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/20278X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/20278X299.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Narkissos
+	Katalognummer:	49
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Echo
+	Katalognummer:	12
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	164
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9385
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

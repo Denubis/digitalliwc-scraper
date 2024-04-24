@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-742812a813f37-6
+Persephone/Phersipnai_9_0_0
+Hades/Aita, Calu_7_0_0
+
+
+
+Monument
+	ID:	9350
+	Entdeckungsort:	Vulci
+	Entdeckungsort Details:	tomb
+	Objekt:	wall painting
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Hades/Aita, Calu Persephone/Phersipnai
+	Beschreibung:	Phersipnai with crown in front of the enthroned Hades.
+Szene
+	ID:	9553
+	Beschreibung:	Phersipnai with crown in front of the enthroned Hades.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Persephone/Phersipnai
+	Katalognummer:	9
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hades/Aita, Calu
+	Katalognummer:	7
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba Campanari
+Museum
+	Land:	IT
+	Stadt:	Vulci
+	Direktor:	Sopr. Dott.ssa Anna Maria Moretti
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza Archeologica per l'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica per l'Etruria Meridionale
+	Hat die Fotorechte:	1

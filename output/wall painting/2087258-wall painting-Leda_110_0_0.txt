@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-74909bf960a07-0
+Leda_110_0_0
+
+
+
+Monument
+	ID:	16729
+	Entdeckungsort:	Sabratha
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Leda
+Szene
+	ID:	17390
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Leda
+	Katalognummer:	110
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Maison de Léda
+Museum
+	Land:	LY
+	Stadt:	Sabratha
+	Name:	Musée
+	Rechteinhaber der Fotos:	© Musée Sabratha
+	Hat die Fotorechte:	1

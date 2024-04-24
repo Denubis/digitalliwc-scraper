@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-7426333514b68-6
+Orcus_16_1_0
+
+
+
+Monument
+	ID:	9217
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Orcus
+	Beschreibung:	Calydonian hunt, between Artemis and one of the Dioskouroi Orcus with his double axe.
+Szene
+	ID:	9417
+	Beschreibung:	Calydonian hunt, between Artemis and one of the Dioskouroi Orcus with his double axe.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/chiusi/museo_archeologico_nazionale/9417X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/chiusi/museo_archeologico_nazionale/9417X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/chiusi/museo_archeologico_nazionale/9417X102.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Orcus
+	Katalognummer:	16
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1257
+Museum
+	Land:	IT
+	Stadt:	Chiusi
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Soprintendente Dott.ssa Fulvia Lo Schiavo
+	Adresse:	Via della Pergola 65
+	Postleitzahl:	I-50121
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici della Toscana
+	Stadt des Kontaktzenters:	Firenze
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici della Toscana
+	Hat die Fotorechte:	1

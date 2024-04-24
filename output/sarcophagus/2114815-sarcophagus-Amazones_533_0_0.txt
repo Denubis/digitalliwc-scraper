@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-761a9452e1900-6
+Amazones_533_0_0
+
+
+
+Monument
+	ID:	44516
+	Entdeckungsort:	Laconia
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	horse Amazon rider
+	Name:	Amazones
+	Beschreibung:	Fragment.
+	Bibliographie:	SarkRel II pl. 47 no. 120; Kαλλιπολίτης, B. G., Χρονολογικη κατα ταξις...(1958) no.129; Giuliano, A., Il commercio dei sarcofagi attici (1962) 41 no. 189. 
+Datierung
+	Periode:	190 - 210 
+Epoche
+	Name:	um 200 n. Chr.
+	Periode:	190 - 210 
+	Sequenznummer:	3270
+Szene
+	ID:	46814
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	533
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	GR
+	Stadt:	Sparte
+	Name:	Musée Archéologique
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Anrede:	Dear Director,
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athènes
+	Rechteinhaber der Fotos:	© Archaeological Museum of Sparta
+	Hat die Fotorechte:	0

@@ -1,0 +1,48 @@
+http://ark.dasch.swiss/ark:/72163/080e-7558a58a9614f-2
+Demeter/Ceres (vol. IV)_84_1_0
+
+
+
+Monument
+	ID:	30830
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 10,11 (Casa del Naviglio)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Demeter/Ceres
+	Beschreibung:	Seated Ceres with a large torch in her right hand, in her left a sheaf of corn, next to her a basket with ears of corn and a thymiaterion.
+Szene
+	ID:	32342
+	Beschreibung:	Seated Ceres with a large torch in her right hand, in her left a sheaf of corn, next to her a basket with ears of corn and a thymiaterion.
+	Sequenznummer:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	23
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 2.c. Rauchopfer
+	Sequenznummer:	400
+	Bandnummer:	1
+Catalog LIMC
+	Artikel:	Demeter/Ceres (vol. IV)
+	Katalognummer:	84
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9457
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

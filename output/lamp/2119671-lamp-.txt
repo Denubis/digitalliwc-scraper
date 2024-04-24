@@ -1,0 +1,52 @@
+http://ark.dasch.swiss/ark:/72163/080e-766000e2389d8-c
+
+
+
+Monument
+	ID:	52793
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VIII 1,3 (Tempel of Venus)
+	Objekt:	lamp
+	Material:	gold
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	lamp
+	Stichwort:	palmette lamp lotus
+	Grössenangabe:	L: 23,2 cm; B: 15,1 cm
+	Beschreibung:	Offenes, mit reliefierten Lotosblättern verziertes Becken; niedriger Fuß und zwei Schnauzen. Vertikaler, ringförmiger Bandhenkel, der horizontal in zwei Rosetten endet und nach oben in einem Pamettenblatt mit knaufförmigem Ansatz am oberen Ende. 
+	Bibliographie:	De Caro, S., Il Museo Archeologico Nazionale (1994) 113; Le Collezioni del Museo Nazionale di Napoli (1989) 218-219 n. 80 fig.
+	Kommentar:	Das kostbare Material sowie der Fundort in einem Heiligtum weisen auf die Nutzung als Kultgegenstand hin. 
+Datierung
+	Periode:	54 - 68 
+Epoche
+	Name:	neronisch
+	Periode:	54 - 68 
+	Sequenznummer:	1170
+Szene
+	ID:	58108
+	Beschreibung:	Offenes, mit reliefierten Lotosblättern verziertes Becken; niedriger Fuß und zwei Schnauzen. Vertikaler, ringförmiger Bandhenkel, der horizontal in zwei Rosetten endet und nach oben in einem Pamettenblatt mit knaufförmigem Ansatz am oberen Ende. 
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	1356
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	25000
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

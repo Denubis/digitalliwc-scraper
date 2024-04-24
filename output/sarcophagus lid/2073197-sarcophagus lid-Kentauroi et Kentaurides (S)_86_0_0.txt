@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-73c795df624a6-b
+Kentauroi et Kentaurides (S)_86_0_0
+
+
+
+Monument
+	ID:	2550
+	Objekt:	sarcophagus lid
+	Material:	terracotta
+	Herkunft:	Klazomenai
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kentauroi and Kentaurides
+	Beschreibung:	Above, antithetical sphinxes. Below, centaurs accompanied by dogs.
+	Museums-URL:	http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=462567&partId=1&searchText=1896,0615.1&page=1
+Szene
+	ID:	2572
+	Beschreibung:	Above, antithetical sphinxes. Below, centaurs accompanied by dogs.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	86
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1896.6-15.1
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	British Museum
+	Direktor:	Dr. Charles Arnold
+	Adresse:	Great Russell Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	British Museum - Greek and Roman Antiquities
+	Stadt des Kontaktzenters:	London WC 1B 3DG
+	Rechteinhaber der Fotos:	© British Museum, London
+	Hat die Fotorechte:	1

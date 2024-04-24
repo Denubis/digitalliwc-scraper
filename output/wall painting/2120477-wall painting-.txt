@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-766b86c6fb416-a
+
+
+
+Monument
+	ID:	53652
+	Entdeckungsort:	Settefinestre
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Villa, oecus 12, wallpainting in the Second Pompeian Style; representation of three aediculae
+Szene
+	ID:	59042
+	Beschreibung:	Villa, oecus 12, wallpainting in the Second Pompeian Style; representation of three aediculae
+Catalog Thes CRA
+	Indexnummer:	5
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Aedicula, Rom. rep.
+	Lemata:	Aedicula, Rom. rep.
+	Sequenznummer:	3282
+	Bandnummer:	4
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Settefinestre (Orbetello)
+	Name:	Villa
+	Rechteinhaber der Fotos:	© Settefinestre
+	Hat die Fotorechte:	0

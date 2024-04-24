@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ee7afe404c5-2
+Kairoi/Tempora anni_97_0_0
+Charis, Charites/Gratiae_38_1_0
+
+
+
+Monument
+	ID:	23343
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Charis, Charites/Gratiae Kairoi/Tempora anni
+	Beschreibung:	In the central niche the three Charites. In the other niches between the columns are depictions of the Seasons.
+Datierung
+	Periode:	200 - 220 
+Szene
+	ID:	24492
+	Beschreibung:	In the central niche the three Charites. In the other niches between the columns are depictions of the Seasons.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	97
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Charis, Charites/Gratiae
+	Katalognummer:	38
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Tivoli
+	Name:	Casale Marco Simone
+	Rechteinhaber der Fotos:	© Casale Marco Simone, Tivoli
+	Hat die Fotorechte:	1

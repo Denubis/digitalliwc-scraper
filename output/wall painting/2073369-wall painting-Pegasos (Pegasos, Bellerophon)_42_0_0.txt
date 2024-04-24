@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-73ca0b60e0502-4
+Pegasos (Pegasos, Bellerophon)_42_0_0
+
+
+
+Monument
+	ID:	2723
+	Entdeckungsort:	Zliten, Zlitan
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Pegasos
+Szene
+	ID:	49424
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Pegasos (Pegasos, Bellerophon)
+	Katalognummer:	42
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	LY
+	Stadt:	Zliten
+	Name:	Villa romaine
+	Rechteinhaber der Fotos:	© Villa romaine, Zliten
+	Kommentar:	Voir aussi Tripoli (Libye), Musée.
+	Hat die Fotorechte:	1

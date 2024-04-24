@@ -1,0 +1,58 @@
+http://ark.dasch.swiss/ark:/72163/080e-74904079e79ca-e
+Leda_80_0_0
+Achilleus_133_0_0
+Lykomedes I_9_0_0
+
+
+
+Monument
+	ID:	16704
+	Entdeckungsort:	Beth She'arim
+	Entdeckungsort Details:	necropolis
+	Objekt:	sarcophagus
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	tree swan basket fruit fig
+	Name:	Achilleus Dioskouroi/Castores Leda Lykomedes I Odysseus
+	Beschreibung:	Front side: In the centre the discovery of Achilleus. On the right Agamemnon. On the left Lykomedes (I) (only upper part preserved).
+	Bibliographie:	Avi-Jonah, M., Eretz Irael 8 (1967) 143-148 pl. 25, 1. 26, 1; Avi-Jonah, M., Scripta Hierosolymitana 24 (1972) 9-21 fig. 1 pl. 3, 6-7; Koch/Sichtermann, RömSark 383 n. 16. 415; Wiegartz, A., Boreas 6 (1983) 177 pl. 24, 2; SarkRel IX I, 1 (1995) no. 14.
+Datierung
+	Periode:	200 - 225 
+Epoche
+	Name:	1. Viertel 3. Jh. n. Chr.
+	Periode:	200 - 225 
+	Sequenznummer:	3340
+Szene
+	ID:	17358
+	Beschreibung:	Front side: In the centre the discovery of Achilleus. On the right Agamemnon. On the left Lykomedes (I) (only upper part preserved).
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Leda
+	Katalognummer:	80
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	133
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Lykomedes I
+	Katalognummer:	9
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	41.525
+Museum
+	Land:	IL
+	Stadt:	Jerusalem
+	Name:	Rockefeller Museum
+	Direktor:	Prof. Dr. Gideon Foerster
+	Adresse:	Mount Scopus
+	Postleitzahl:	IL-91905
+	Kontaktzenter:	Head, Institute of Archaeology - The Hebrew University of Jerusalem
+	Stadt des Kontaktzenters:	Jerusalem / Israel
+	Rechteinhaber der Fotos:	© Rockefeller Museum, Jerusalem
+	Hat die Fotorechte:	0

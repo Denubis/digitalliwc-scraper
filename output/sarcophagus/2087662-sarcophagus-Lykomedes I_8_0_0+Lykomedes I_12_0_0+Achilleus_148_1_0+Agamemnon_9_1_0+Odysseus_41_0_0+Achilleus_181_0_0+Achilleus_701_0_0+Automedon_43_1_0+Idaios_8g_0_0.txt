@@ -1,0 +1,113 @@
+http://ark.dasch.swiss/ark:/72163/080e-74966294b24eb-4
+Lykomedes I_8_0_0
+Lykomedes I_12_0_0
+Achilleus_148_1_0
+Agamemnon_9_1_0
+Odysseus_41_0_0
+Achilleus_181_0_0
+Achilleus_701_0_0
+Automedon_43_1_0
+Idaios_8g_0_0
+
+
+
+Monument
+	ID:	17133
+	Entdeckungsort:	Monte del Grano
+	Objekt:	sarcophagus
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	sword shield spear chariot weapon seat, chair, sedes, sedile horse charioteer corpse kneeling (not ritually)
+	Name:	Achilleus Agamemnon Automedon Briseis Diomedes I Dioskouroi/Castores Hektor Idaios Lykomedes I Odysseus Phoinix II Priamos Deidameia II
+	Beschreibung:	Three scenes: On the right kneeling Priamos asking Achilleus for the corpse of Hektor. In the centre Achilleus on his chariot dragging Hektor. On the left the chariot of Priamos from which Trojans are unloading goods. Other side: In the centre the discovery of Achilleus. On the right Agamemnon. On the left Lykomedes (I). Left minor side: Lykomedes (I) surrounded by three daughters, looking at Achilleus. Achilleus with horse and companion.
+	Bibliographie:	Helbig(4) II no. 1222; SarkRel II no. 25 pl. 14 fig. 25; Stuart Jones, SculptMusCap 77 no. 1 pl. 16; Giuliano, A., Il commercio dei sarcofagi attici (1962) no. 357; SarkRel II no. 25 pl. 14, fig. 25; Bianchi Bandinelli, RFAA 45 fig. 39; Koch/Sichtermann, RömSark 383 n. 16 fig. 413; Linant de bellefond, P., Sarcophages attiques de la Nécropole de Tyr (1985) 38 no. 9. 81-82 pl. 25, 2.
+Datierung
+	Periode:	240 - 250 
+Epoche
+	Name:	Mitte 3. Jh. n. Chr.
+	Periode:	240 - 260 
+	Sequenznummer:	3300
+Szene
+	ID:	17822
+	Beschreibung:	Three scenes: On the right kneeling Priamos asking Achilleus for the corpse of Hektor. In the centre Achilleus on his chariot dragging Hektor. On the left the chariot of Priamos from which Trojans are unloading goods. Other side: In the centre the discovery of Achilleus. On the right Agamemnon. On the left Lykomedes (I). Left minor side: Lykomedes (I) surrounded by three daughters, looking at Achilleus. Achilleus with horse and companion.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/17822X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/17822X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/17822X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/17822X008.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/17822X009.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/17822X302.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Lykomedes I
+	Katalognummer:	8
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Lykomedes I
+	Katalognummer:	12
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	148
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Agamemnon
+	Katalognummer:	9
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Odysseus
+	Katalognummer:	41
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	181
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	701
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Automedon
+	Katalognummer:	43
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Idaios
+	Katalognummer:	8g
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	218
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Musei Capitolini
+	Direktor:	Dirigente Dott. Claudio Parisi Presicce
+	Adresse:	Via delle Tre Pile, 1
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Sovraintendenza ai Beni Culturali                     del Comune di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Archivio fotografico Musei Capitolini
+	Hat die Fotorechte:	1

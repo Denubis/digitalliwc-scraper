@@ -1,0 +1,77 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a7b4419e298-a
+Genius (S)_37_0_0
+Tyche/Fortuna_142_0_0
+Venus_302_1_0
+Mercurius_218_1_0
+
+
+
+Monument
+	ID:	284
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Mercurius Venus Tyche/Fortuna Genius
+	Beschreibung:	Floating Mercurius with winged petasos and sandals. Venus Pompeiana with sceptre and olive branch in a chariot drawn by elephants. Floating Amores, one with mirror. Next to Venus is Fortuna on a globe, with cornucopia and rudder. Genius wit cornucopia and patera.
+Szene
+	ID:	71
+	Beschreibung:	Floating Mercurius with winged petasos and sandals. Venus Pompeiana with sceptre and olive branch in a chariot drawn by elephants. Floating Amores, one with mirror. Next to Venus is Fortuna on a globe, with cornucopia and rudder. Genius wit cornucopia and patera.
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/71X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/71X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/71X201.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	15
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Taberna
+	Lemata:	Taberna
+	Sequenznummer:	4130
+	Bandnummer:	4
+Catalog LIMC
+	Artikel:	Genius (S)
+	Katalognummer:	37
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Tyche/Fortuna
+	Katalognummer:	142
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Venus
+	Katalognummer:	302
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	218
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	IX 7,5-7
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1

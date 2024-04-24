@@ -1,0 +1,48 @@
+http://ark.dasch.swiss/ark:/72163/080e-762048a18170b-5
+Adonis_38_1_0
+
+
+
+Monument
+	ID:	44916
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	boar dog stick, cane plant cave seat, chair, sedes, sedile hunt canopy, baldachin
+	Name:	Adonis Eros/Amor, Cupido Aphrodite/Venus
+	Bibliographie:	Atallah, W., Adonis dans la littérature et l'art grecs (1966) fig. 14; SarkRel III 1, 9 no. 4.
+Datierung
+	Periode:	100 - 200 
+Epoche
+	Name:	2. Jh. n. Chr.
+	Periode:	100 - 200 
+	Sequenznummer:	3140
+Szene
+	ID:	47263
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/47263X202.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Adonis
+	Katalognummer:	38
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 347
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-7653cb5064aaa-7
+
+
+
+Monument
+	ID:	51861
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Palatine
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	base tree column rock, cliff he-goat goat cauldron, dinos, lebes tablet, pinax sacral-idyllic landscape bird
+	Beschreibung:	Sakrallandschaft: Auf  Felsen stehen ein Baum und eine Votivsäule mit Kessel (Greifenprotomen?) obenauf. Unten lehnt ein großer, mit Bändern umwundener Pinax. Tiere.
+	Bibliographie:	Rizzo, G. A., Le pitture della “Casa di Livia”, MonPitt, Rom II (1936) 58 fig. 42.
+Datierung
+	Periode:	-27 - 14 
+Epoche
+	Name:	augusteisch
+	Periode:	-27 - 14 
+	Sequenznummer:	1130
+Szene
+	ID:	57089
+	Beschreibung:	Auf Felsen Baum und Votivsäule. Unten lehnt ein großer, mit Bändern umwundener Pinax.
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	128
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	IV. 1.b. Kultorte (Darstellungen)
+	Sequenznummer:	4500
+	Bandnummer:	4
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Triclinium
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palatino, Casa di Livia
+	Direktor:	Soprintendente Prof. Adriano La Regina
+	Adresse:	Piazza delle Finanze 1
+	Postleitzahl:	I-0015
+	Kontaktzenter:	Soprintendenza alle Antichità
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza alle Antichità, Roma
+	Hat die Fotorechte:	1

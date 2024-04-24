@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-74d0160221abf-f
+Hippolytos I_56_0_0
+
+
+
+Monument
+	ID:	21204
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hippolytos I
+Szene
+	ID:	22145
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_albani/22145X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	56
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	135
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Albani
+	Adresse:	Via della Conciliazione 30
+	Postleitzahl:	I-00193
+	Kontaktzenter:	Amministrazione Torlonia
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Phot. proprietà Principe Torlonia
+	Hat die Fotorechte:	0

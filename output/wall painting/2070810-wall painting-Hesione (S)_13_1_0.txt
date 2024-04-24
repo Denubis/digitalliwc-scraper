@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a575a6358c7-b
+Hesione (S)_13_1_0
+
+
+
+Monument
+	ID:	115
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Hesione
+	Beschreibung:	In the foreground men, one of them Telamon hurling rocks at Ketos. In the centre Herakles bringing Hesione to a group of Trojans.
+	Museums-URL:	http://www.getty.edu/art/collection/objects/6935/unknown-maker-fresco-fragment-with-herakles-and-hesione-roman-50-79/
+Szene
+	ID:	446
+	Beschreibung:	In the foreground men, one of them Telamon hurling rocks at Ketos. In the centre Herakles bringing Hesione to a group of Trojans.
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/malibu/j_paul_getty_museum/446X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hesione (S)
+	Katalognummer:	13
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	72.AG.83
+Museum
+	Land:	US
+	Stadt:	Malibu
+	Name:	J. Paul Getty Museum
+	Direktor:	Dr. Jackie Burns
+	Adresse:	1200 Getty Center Drive Suite 1000
+	Postleitzahl:	USA-
+	E-Mail:	jburns@getty.edu
+	Kontaktzenter:	Registrars Office, J. Paul Getty Museum
+	Stadt des Kontaktzenters:	Los Angeles, CA 90049
+	Rechteinhaber der Fotos:	© J. Paul Getty Museum
+	Hat die Fotorechte:	1

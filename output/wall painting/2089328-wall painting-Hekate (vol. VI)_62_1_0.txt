@@ -1,0 +1,54 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ae3400eb0f5-a
+Hekate (vol. VI)_62_1_0
+
+
+
+Monument
+	ID:	18822
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	naiskos, aedicula goat statue sacred tree sacral-idyllic landscape herd of cows
+	Name:	Hekate
+	Beschreibung:	Sakrallandschaft: Im Zentrum Aedicula mit Baum (anscheinend in der Aedicula wachsend), weitere tempelähnliche Gebäude; im Hintergrund Berge; im Vordergrund weidende Kühe, Hirt auf einer Brücke, Ziege, Hekatestatue (zwei Fackeln) auf Felsen (oder auf hohem Sockel?).
+	Bibliographie:	Schefold, WP 348;Maiuri, A., La peinture romaine (1953) 121-122 Abb.;Peters, W. J. T., Landscape in Romano-Campanian Mural Painting (1963) 156 Abb. 145;Croisille, T. M., Poésie et art figuré de Néron aux Flaviens (1982) 193 Taf. 78, 2.
+Datierung
+	Periode:	70 
+	Kommentar:	um
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	19697
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/19697X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/19697X202.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hekate (vol. VI)
+	Katalognummer:	62
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9488
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

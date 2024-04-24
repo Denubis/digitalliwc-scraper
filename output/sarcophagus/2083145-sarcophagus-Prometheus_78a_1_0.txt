@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-7455cebba57f2-5
+Prometheus_78a_1_0
+
+
+
+Monument
+	ID:	12577
+	Entdeckungsort:	Italy
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Prometheus
+Szene
+	ID:	12881
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/besancon/musee_des_beaux-arts_et_d_archeologie/12881X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Prometheus
+	Katalognummer:	78a
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	D 863.3.314
+Museum
+	Land:	FR
+	Stadt:	Besançon
+	Name:	Musée des Beaux-Arts et d'Archéologie
+	Rechteinhaber der Fotos:	© Besançon, Musée des Beaux-Arts et d'Archéologie, Jean-Louis Dousson
+	Hat die Fotorechte:	1

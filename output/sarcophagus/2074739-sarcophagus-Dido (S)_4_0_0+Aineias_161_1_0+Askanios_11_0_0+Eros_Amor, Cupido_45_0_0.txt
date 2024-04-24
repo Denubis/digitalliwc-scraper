@@ -1,0 +1,70 @@
+http://ark.dasch.swiss/ark:/72163/080e-73dda1772e544-e
+Dido (S)_4_0_0
+Aineias_161_1_0
+Askanios_11_0_0
+Eros/Amor, Cupido_45_0_0
+
+
+
+Monument
+	ID:	4099
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Via Cassia
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	spear rock, cliff stag dog child horse youth hunt
+	Name:	Aineias Askanios Dido Eros/Amor, Cupido
+	Beschreibung:	Sarcophagus showing various hunting scenes, the central figures are interpreted as Aineias and Dido hunting. Dido is accompanied by Askanios und Aineias.
+	Bibliographie:	Helbig(4) III 66-69 no. 2162; Hoffmann, P., Capitolium 39, 1964, 452-453; Museo Nazionale Romano I 1, Le sculture (1979) 318-324 no. 190.
+Datierung
+	Periode:	138 - 192 
+Epoche
+	Name:	antoninisch
+	Periode:	138 - 192 
+	Sequenznummer:	1210
+Szene
+	ID:	4143
+	Beschreibung:	Sarcophagus showing various hunting scenes, the central figures are interpreted as Aineias and Dido hunting. Dido is accompanied by Askanios und Aineias.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/4143X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Dido (S)
+	Katalognummer:	4
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aineias
+	Katalognummer:	161
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Askanios
+	Katalognummer:	11
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	45
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	168186
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Romano
+	Direktor:	Soprintendente Dott. Giuseppe Proietti
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali - Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

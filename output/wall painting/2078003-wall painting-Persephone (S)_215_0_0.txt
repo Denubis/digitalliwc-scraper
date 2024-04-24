@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-740c4b6fc7504-c
+Persephone (S)_215_0_0
+
+
+
+Monument
+	ID:	7387
+	Entdeckungsort:	Kertch, Pantikapaion
+	Entdeckungsort Details:	tomb
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Persephone
+	Beschreibung:	Persephone and Hades in a chariot.
+Szene
+	ID:	7538
+	Beschreibung:	Persephone and Hades in a chariot.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Persephone (S)
+	Katalognummer:	215
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tombeau de Déméter
+Museum
+	Land:	UA
+	Stadt:	Kerch
+	Name:	Necropolis of Pantikapaion
+	Rechteinhaber der Fotos:	© Kerch
+	Hat die Fotorechte:	1

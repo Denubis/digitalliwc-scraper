@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-76527a9a037de-a
+
+
+
+Monument
+	ID:	51760
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	relief
+	Beschreibung:	Scene showing a procession to the left: male figure with tunic and mantle holding a long stick in the right hand, two lictors with fasces, magistrate on a biga, in the background beyond the horses head of a male figure looking back (demon?), two togates, one carrying a writing tablet, the other a horn (processus magistraturalis)
+	Bibliographie:	Herbig, R., Die jüngeretruskischen Steinsarkophagen (1952) n. 113 tav.  74b.
+Szene
+	ID:	56977
+	Beschreibung:	Scene showing a procession to the left: male figure with tunic and mantle holding a long stick in the right hand, two lictors with fasces, magistrate on a biga, in the background beyond the horses head of a male figure looking back (demon?), two togates, one carrying a writing tablet, the other a horn (processus magistraturalis)
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	74
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 1. Prozessionen, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	90
+	Bandnummer:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1423
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Etrusco di Villa Giulia
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Kommentar:	Alcuni dei numeri riportati qui sotto, senza distinzione particolare, sono tratti da pubblicazioni di materiale di scavo e da considerarsi quindi come provvisori.
+	Hat die Fotorechte:	1

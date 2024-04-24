@@ -1,0 +1,53 @@
+http://ark.dasch.swiss/ark:/72163/080e-741d2dcca12d5-2
+Telemachos_19_0_0
+Mnesteres II_23_1_0
+Philoitios_2_0_0
+
+
+
+Monument
+	ID:	8581
+	Objekt:	sarcophagus
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Mnesteres II Philoitios Telemachos
+	Beschreibung:	Two Mnesteres (II), one on a banquet bed, the other hiding below, attacked by Telemachos (with helmet) and Odysseus. Another warrior could be Philoitios.
+Szene
+	ID:	8779
+	Beschreibung:	Two Mnesteres (II), one on a banquet bed, the other hiding below, attacked by Telemachos (with helmet) and Odysseus. Another warrior could be Philoitios.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/turkey/istanbul/musee_archeologique/8779X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Telemachos
+	Katalognummer:	19
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mnesteres II
+	Katalognummer:	23
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Philoitios
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	10
+Museum
+	Land:	TR
+	Stadt:	Istanbul
+	Name:	Musée Archéologique
+	Direktor:	Mme le Dr  Pascale Linant de Bellefonds
+	Anrede:	Sehr geehrter Herr Dr. Posamentir,
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-92023
+	Kontaktzenter:	Université Paris X - Nanterre Maison de l'Archéologie / Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Archaeological Museum Istanbul
+	Hat die Fotorechte:	1

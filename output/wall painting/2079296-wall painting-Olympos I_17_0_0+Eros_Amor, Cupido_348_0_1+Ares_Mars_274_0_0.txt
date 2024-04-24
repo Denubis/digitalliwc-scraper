@@ -1,0 +1,78 @@
+http://ark.dasch.swiss/ark:/72163/080e-741ec7b5c9905-d
+Olympos I_17_0_0
+Eros/Amor, Cupido_348_0_1
+Ares/Mars_274_0_0
+
+
+
+Monument
+	ID:	8693
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	I 6,4 (Casa del Sacello Isiaco)
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Olympos I Eros/Amor, Cupido
+	Beschreibung:	Mural painting in Pompeji
+	Bibliographie:	Spinazzola, Pompei 560-564 fig. 619-621 tav. 36a; Schefold, K., Die Wände Pompejis (1957) 23-24; Borda, M., La pittura romana (1958) 167. 169 e fig.
+	Kommentar:	DAI Rom 61.1414; 61.1415
+Szene
+	ID:	49527
+	Szenerieangabe:	cubiculum [g]
+	Beschreibung:	Marsyas, half-reclining, gestures towards Olympos (I) who is fluting.
+	Sequenznummer:	907
+Catalog LIMC
+	Artikel:	Olympos I
+	Katalognummer:	17
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49528
+	Szenerieangabe:	Sala degli Elefanti [f]
+	Beschreibung:	Thymiaterion between elephants; Erotes on the elephants
+	Sequenznummer:	906
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	55
+	Asterix:	1
+	Dot:	1
+Catalog Thes CRA Kapitel
+	Name:	I. 2.c. Rauchopfer
+	Sequenznummer:	400
+	Bandnummer:	1
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	348
+	Asterix:	0
+	Dot:	1
+Szene
+	ID:	49529
+	Szenerieangabe:	triclinium [a]
+	Sequenznummer:	901
+Catalog LIMC
+	Artikel:	Ares/Mars
+	Katalognummer:	274
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	I 6,4
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa del Sacello Iliaco

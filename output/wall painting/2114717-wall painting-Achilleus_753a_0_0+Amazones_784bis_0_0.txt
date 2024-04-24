@@ -1,0 +1,51 @@
+http://ark.dasch.swiss/ark:/72163/080e-76192da6de396-b
+Achilleus_753a_0_0
+Amazones_784bis_0_0
+
+
+
+Monument
+	ID:	44414
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	Amazon
+	Name:	Achilleus Penthesileia Phoinix I
+	Bibliographie:	HBr Taf. 74a; Schefold, K., Pompejanische Wandmalerei (1952), 103; Schefold, WP 178.
+Datierung
+	Periode:	-15 - 63 
+Epoche
+	Name:	3. pompejanischer Stil
+	Periode:	-15 - 63 
+	Sequenznummer:	1340
+Szene
+	ID:	46711
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	753a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	784bis
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	111471
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

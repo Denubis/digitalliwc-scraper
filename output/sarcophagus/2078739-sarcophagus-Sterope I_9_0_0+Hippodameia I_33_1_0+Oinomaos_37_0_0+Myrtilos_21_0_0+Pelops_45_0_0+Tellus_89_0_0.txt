@@ -1,0 +1,75 @@
+http://ark.dasch.swiss/ark:/72163/080e-7416d122d0b64-e
+Sterope I_9_0_0
+Hippodameia I_33_1_0
+Oinomaos_37_0_0
+Myrtilos_21_0_0
+Pelops_45_0_0
+Tellus_89_0_0
+
+
+
+Monument
+	ID:	8132
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hippodameia I Oinomaos Sterope I Myrtilos Pelops Tellus
+	Beschreibung:	Race between Pelops and Oinomaos. On the right two female figures: Hippodameia (I) and Sterope (I)?
+Datierung
+	Periode:	225 - 250 
+Szene
+	ID:	8318
+	Beschreibung:	Race between Pelops and Oinomaos. On the right two female figures: Hippodameia (I) and Sterope (I)?
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/8318X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/8318X202.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Sterope I
+	Katalognummer:	9
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippodameia I
+	Katalognummer:	33
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Oinomaos
+	Katalognummer:	37
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Myrtilos
+	Katalognummer:	21
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Pelops
+	Katalognummer:	45
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Tellus
+	Katalognummer:	89
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 974
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

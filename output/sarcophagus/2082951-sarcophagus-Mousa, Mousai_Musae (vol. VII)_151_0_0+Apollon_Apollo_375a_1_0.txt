@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-745308b57f8a8-e
+Mousa, Mousai/Musae (vol. VII)_151_0_0
+Apollon/Apollo_375a_1_0
+
+
+
+Monument
+	ID:	12383
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Apollon/Apollo Mousa, Mousai
+Szene
+	ID:	12683
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/woburn_abbey_bedfordshire/woburn_abbey_art_gallery/12683X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/woburn_abbey_bedfordshire/woburn_abbey_art_gallery/12683X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/woburn_abbey_bedfordshire/woburn_abbey_art_gallery/12683X303.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/woburn_abbey_bedfordshire/woburn_abbey_art_gallery/12683X304.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	151
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	375a
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Cat. 67 (Michaelis 148)
+Museum
+	Land:	GB
+	Stadt:	Woburn Abbey (Bedfordshire)
+	Name:	Woburn Abbey Art Gallery
+	Rechteinhaber der Fotos:	© Woburn Abbey Art Gallery
+	Kommentar:	Numéros d'après Angelicoussis, E., The Woburn Abbey Collection of Classical Antiquities (1992); les numéros entre parenthèses sont ceux de Michaelis, A., Ancient Marbles in Great Britain (1882).
+	Hat die Fotorechte:	1

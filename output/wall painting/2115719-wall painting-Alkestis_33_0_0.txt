@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-762780e3a78a8-2
+Alkestis_33_0_0
+
+
+
+Monument
+	ID:	45433
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	club
+	Name:	Alkestis Herakles
+	Bibliographie:	Hettner, H., Bildwerke zu Dresden (1881) 126 no. 281; Reinach, RépPeint 187, 5; Andreae, B., Studien zur römischen Grabkunst, RM 9. Ergh. (1963) 36 no. 5.
+Szene
+	ID:	47838
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	33
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Hettner 126/281
+Museum
+	Land:	DE
+	Stadt:	Dresden
+	Name:	Staatliche Kunstsammlungen, Skulpturensammlung
+	Direktor:	Dr. Kordelia Knoll
+	Anrede:	Sehr geehrte Frau Dr. Knoll,
+	Adresse:	Güntzstrasse 34
+	Postleitzahl:	D-01307
+	Kontaktzenter:	Staatliche Kunstsammlungen, Skulpturensammlung
+	Stadt des Kontaktzenters:	Dresden
+	Rechteinhaber der Fotos:	© Staatliche Kunstsammlungen, Skulpturensammlung Dresden
+	Hat die Fotorechte:	1

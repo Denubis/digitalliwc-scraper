@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-76b29be33c232-2
+Psyche, Add._Supplement_0_0
+
+
+
+Monument
+	ID:	201735
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Name:	Eros/Amor, Cupido Psyche
+	Beschreibung:	Amor and Psyche embracing each other on a boat: Psyche with butterfly wings and long tunic; accompanied by an Amor playing the double flute; four further Amors
+	Bibliographie:	Turcan, R., CRAI 2001/4 1439-1446 fig. 3-6.
+Datierung
+	Periode:	170 - 180 
+Epoche
+	Name:	3. Drittel 2. Jh. n. Chr.
+	Periode:	166 - 200 
+	Sequenznummer:	3260
+Szene
+	ID:	98713
+	Beschreibung:	Amor and Psyche embracing each other on a boat: Psyche with butterfly wings and long tunic; accompanied by an Amor playing the double flute; four further Amors
+Catalog LIMC
+	Artikel:	Psyche, Add.
+	Band:	Supplement
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	AA
+	Stadt:	Collections privées non spécifiées
+	Direktor:	Herrn Prof. Dr. K. Schauenburg
+	Adresse:	Feldstrasse 75
+	Postleitzahl:	D-24105
+	Kontaktzenter:	 
+	Stadt des Kontaktzenters:	Kiel
+	Rechteinhaber der Fotos:	© Private collection
+	Hat die Fotorechte:	1

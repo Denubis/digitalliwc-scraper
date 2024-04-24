@@ -1,0 +1,59 @@
+http://ark.dasch.swiss/ark:/72163/080e-7452d9214ada7-e
+Mousa, Mousai/Musae (vol. VII)_137_1_0
+Apollon/Apollo_393_0_0
+Apollon_706_0_0
+
+
+
+Monument
+	ID:	12370
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Asia Minor
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Apollon/Apollo Mousa, Mousai
+Szene
+	ID:	12670
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_borghese_museo_e_galleria_borghese/12670X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_borghese_museo_e_galleria_borghese/12670X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_borghese_museo_e_galleria_borghese/12670X303.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_borghese_museo_e_galleria_borghese/12670X304.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	137
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	393
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon
+	Katalognummer:	706
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	LXXV + LXXVa
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Borghese (Museo e Galleria Borghese)
+	Direktor:	Soprintendente Prof. Claudio Strinati
+	Adresse:	Piazza San Marco 49
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza Speciale del Polo Museale Romano
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza Speciale del Polo Museale Romano
+	Hat die Fotorechte:	1

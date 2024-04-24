@@ -1,0 +1,51 @@
+http://ark.dasch.swiss/ark:/72163/080e-757c9a3bf0fae-a
+Cheiron_66_0_0
+Achilleus_51_1_0
+
+
+
+Monument
+	ID:	33366
+	Entdeckungsort:	Ercolano, Herculaneum, Herculanum
+	Entdeckungsort Details:	Basilica
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	wreath, crown, stephane, corona lyre skin child architecture
+	Name:	Achilleus Cheiron
+	Bibliographie:	HBr pl. 82; Rizzo, PER pl. 85; Spinazzola, Le arti decorative in Pompei (1928) pl. 120; Beck, F., Album of Greek Education (1975) 12 no. 27 pl. 4, 20.
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	35048
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Cheiron
+	Katalognummer:	66
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	51
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9109
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

@@ -1,0 +1,52 @@
+http://ark.dasch.swiss/ark:/72163/080e-74260af2c0bf1-2
+Orcus_6_1_0
+Artemis/Diana_345_0_0
+
+
+
+Monument
+	ID:	9206
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Artemis/Diana Orcus
+	Beschreibung:	Orcus with his double axe standing between Artemis/Atalanta and one of the Dioskouroi.
+Szene
+	ID:	9407
+	Beschreibung:	Orcus with his double axe standing between Artemis/Atalanta and one of the Dioskouroi.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/istituto_nazionale_delle_assicurazioni/9407X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/istituto_nazionale_delle_assicurazioni/9407X203.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/istituto_nazionale_delle_assicurazioni/9407X204.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/istituto_nazionale_delle_assicurazioni/9407X205.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Orcus
+	Katalognummer:	6
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	345
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel XII 6, 11
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Istituto Nazionale delle Assicurazioni
+	Rechteinhaber der Fotos:	© Istituto Nazionale delle Assicurazioni, Roma
+	Hat die Fotorechte:	0

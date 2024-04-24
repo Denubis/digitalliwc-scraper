@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-75083e2a2a177-8
+Ino_2_0_0
+Harpyiai_6_0_0
+
+
+
+Monument
+	ID:	25163
+	Entdeckungsort:	Rome
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Harpyiai Ino
+Szene
+	ID:	26407
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Ino
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Harpyiai
+	Katalognummer:	6
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1118 B 4
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Romano
+	Direktor:	Soprintendente Dott. Giuseppe Proietti
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali - Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

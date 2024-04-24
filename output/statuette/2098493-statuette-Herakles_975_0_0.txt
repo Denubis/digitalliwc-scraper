@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-75313b2603eb6-e
+Herakles_975_0_0
+
+
+
+Monument
+	ID:	28054
+	Entdeckungsort:	Pompei
+	Objekt:	statuette
+	Material:	bronze
+	Land:	CH
+	Kategorie:	sculpture in the round of metal
+	Name:	Herakles
+	Beschreibung:	Herakles, left hand resting on club raised on a rock, with ivy wreath.
+	Monument-URL:	arachne.dainst.org/entity/1082857
+Szene
+	ID:	29459
+	Beschreibung:	Herakles, left hand resting on club raised on a rock, with ivy wreath.
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	975
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2828
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

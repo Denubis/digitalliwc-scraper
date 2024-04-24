@@ -1,0 +1,31 @@
+http://ark.dasch.swiss/ark:/72163/080e-755fa6e6a6c61-4
+Endymion_4_0_1
+
+
+
+Monument
+	ID:	31323
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Villa Doria Pamphili
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Endymion
+Szene
+	ID:	32859
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	4
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Columbarium
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Doria Pamphilj
+	Rechteinhaber der Fotos:	© Villa Doria Pamphilj, Roma
+	Kommentar:	Numéros d'après Calza, R. (éd.), Antichità di Villa Doria Pamphilj (1977).
+	Hat die Fotorechte:	1

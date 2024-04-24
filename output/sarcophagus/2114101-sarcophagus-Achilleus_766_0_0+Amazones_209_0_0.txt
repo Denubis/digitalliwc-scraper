@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-76105f248018e-b
+Achilleus_766_0_0
+Amazones_209_0_0
+
+
+
+Monument
+	ID:	43778
+	Entdeckungsort:	Campania
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	helmet shield horse warrior, soldier Amazon fight, battle rider
+	Name:	Achilleus Penthesileia Amazones
+	Bibliographie:	SarkRel II Nr. 104 Taf. 44; Redlich, R., Die Amazonensarkophage des 2. und 3. Jh. n. Chr. (1942) 107-110 Taf. 9; 
+	Museums-URL:	http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=459815&partId=1&searchText=1947,0714.7&from=bc&fromDate=800&to=ad&toDate=400&page=1
+Datierung
+	Periode:	290 - 310 
+Epoche
+	Name:	um 300 n. Chr.
+	Periode:	290 - 310 
+	Sequenznummer:	3410
+Szene
+	ID:	46048
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	766
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	209
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1947.7-14.7
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	British Museum
+	Direktor:	Dr. Charles Arnold
+	Adresse:	Great Russell Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	British Museum - Greek and Roman Antiquities
+	Stadt des Kontaktzenters:	London WC 1B 3DG
+	Rechteinhaber der Fotos:	© British Museum, London
+	Hat die Fotorechte:	1

@@ -1,0 +1,48 @@
+http://ark.dasch.swiss/ark:/72163/080e-7480b9ce40014-f
+Krete_14_0_0
+Minotauros_ad 68_0_0
+
+
+
+Monument
+	ID:	15598
+	Entdeckungsort:	Ercolano, Herculaneum, Herculanum
+	Entdeckungsort Details:	Basilica
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Krete Minotauros
+	Beschreibung:	Theseus triumphant having killed the Minotaur is greeted by Athenian youths and maidens. A woman seated on an elevation above the other figures may be the personification of Krete: she carries a bow, arrows and a quiver, her head is not preserved.
+Szene
+	ID:	16109
+	Beschreibung:	Theseus triumphant having killed the Minotaur is greeted by Athenian youths and maidens. A woman seated on an elevation above the other figures may be the personification of Krete: she carries a bow, arrows and a quiver, her head is not preserved.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/16109X302.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Krete
+	Katalognummer:	14
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Minotauros
+	Katalognummer:	ad 68
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9049
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

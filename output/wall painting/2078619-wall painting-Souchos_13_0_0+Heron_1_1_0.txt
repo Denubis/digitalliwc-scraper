@@ -1,0 +1,56 @@
+http://ark.dasch.swiss/ark:/72163/080e-741519f22570c-5
+Souchos_13_0_0
+Heron_1_1_0
+
+
+
+Monument
+	ID:	8007
+	Entdeckungsort:	Theadelpheia (Batn Harit)
+	Entdeckungsort Details:	temple
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	wreath, crown, stephane, corona altar snake krater fire (on altar) tripod cock cup libation sacrificial assistant basket fruit chest, small box
+	Name:	Souchos Heron
+	Beschreibung:	Homme barbu à la tête radiée, en costume militaire et armé de lance, verse le contenu d’une coupe sur un petit autel enflammé à ses pieds. Auprès de l’autel un petit assistant avec caissette, une corbeille avec offrandes et un coq. A l’arrière-plan un trépied sur lequel est posé un grand cratère. Souchos depicted as mummified crocodile.
+	Bibliographie:	Breccia, E., Monuments de l’Egypte gréco-romaine I 2 (1926) pl. 57-58;Bernand, E., Recueil des inscriptions grecques de Fayoum II (1981) nos. 126.127 pl. 31-32.
+Datierung
+	Periode:	100 - 200 
+Epoche
+	Name:	2. Jh. n. Chr.
+	Periode:	100 - 200 
+	Sequenznummer:	3140
+Szene
+	ID:	8192
+	Beschreibung:	Homme barbu à la tête radiée, en costume militaire et armé de lance, verse le contenu d’une coupe sur un petit autel enflammé à ses pieds. Auprès de l’autel un petit assistant avec caissette, une corbeille avec offrandes et un coq. A l’arrière-plan un trépied sur lequel est posé un grand cratère. Souchos depicted as mummified crocodile.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/egypt/alexandrie/musee_greco-romain/8192X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/egypt/alexandrie/musee_greco-romain/8192X103.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Souchos
+	Katalognummer:	13
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Heron
+	Katalognummer:	1
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	20223
+Museum
+	Land:	EG
+	Stadt:	Alexandrie
+	Name:	Musée Gréco-Romain
+	Kontaktzenter:	Musée Gréco-Romain
+	Stadt des Kontaktzenters:	Alexandrie
+	Rechteinhaber der Fotos:	© Musée Gréco-Romain Alexandria
+	Hat die Fotorechte:	1

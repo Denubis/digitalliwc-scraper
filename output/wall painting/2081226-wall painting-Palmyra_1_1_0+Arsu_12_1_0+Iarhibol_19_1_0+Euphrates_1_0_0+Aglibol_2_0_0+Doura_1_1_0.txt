@@ -1,0 +1,92 @@
+http://ark.dasch.swiss/ark:/72163/080e-743a5f59e1837-c
+Palmyra_1_1_0
+Arsu_12_1_0
+Iarhibol_19_1_0
+Euphrates_1_0_0
+Aglibol_2_0_0
+Doura_1_1_0
+
+
+
+Monument
+	ID:	10646
+	Entdeckungsort:	Doura-Europos
+	Entdeckungsort Details:	temple of the gods of Palmyra
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	helmet fire (on altar) spear vexillum, standard cult image, cult statue sacrifice corselet thymiaterion, turibulum, incense-burner incense offering paludamentum tribune
+	Name:	Aglibol Arsu Doura Euphrates Iarhibol Palmyra Iulius Terentius
+	Beschreibung:	Dans la partie droite du tableau, le tribun Iulius Terentius, en présence de ses soldats (dont l’un se tient avec vexillum en face de lui), accomplit un sacrifice sur un thymiatérion (fumigation ?). En bas, à gauche, deux femmes: Tyche de Doura et Palmyre. Au-dessus d’elles trois images de culte (Aglibol, Yarhibol et Arsu). Personnage barbu, émergeant à mi-corps de l'eau dans laquelle il nage est Euphrates.
+	Bibliographie:	Cumont, F., Fouilles de Doura-Europos (1926) 80-114 pl. 49-51; Seyrig, H., Syria 13, 1932 pl. 43; Du Mesnil du Buisson, R., Les Tessères et les monnaies de Palmyre, planches (1944), texte (1962) pl. 122.
+Datierung
+	Periode:	200 - 210 
+Epoche
+	Name:	Anfang 3. Jh. n. Chr.
+	Periode:	200 - 210 
+	Sequenznummer:	3290
+Szene
+	ID:	10881
+	Beschreibung:	Dans la partie droite du tableau, le tribun Iulius Terentius, en présence de ses soldats (dont l’un se tient avec vexillum en face de lui), accomplit un sacrifice sur un thymiatérion (fumigation ?). En bas, à gauche, deux femmes: Tyche de Doura et Palmyre. Au-dessus d’elles trois images de culte (Aglibol, Yarhibol et Arsu). Personnage barbu, émergeant à mi-corps de l'eau dans laquelle il nage est Euphrates.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/new_haven/yale_university_art_gallery/10881X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/new_haven/yale_university_art_gallery/10881X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/new_haven/yale_university_art_gallery/10881X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/new_haven/yale_university_art_gallery/10881X004.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Palmyra
+	Katalognummer:	1
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Arsu
+	Katalognummer:	12
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iarhibol
+	Katalognummer:	19
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Euphrates
+	Katalognummer:	1
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aglibol
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Doura
+	Katalognummer:	1
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1931.386
+Museum
+	Land:	US
+	Stadt:	New Haven
+	Name:	Yale University Art Gallery
+	Direktor:	Director Jock Reynolds
+	Anrede:	Dear Director,
+	Adresse:	1111 Chapel Street
+	Postfach:	 / P.O. Box 208271
+	Postleitzahl:	USA
+	Kontaktzenter:	Yale University Art Gallery
+	Stadt des Kontaktzenters:	New Haven, CT 06520-8271
+	Rechteinhaber der Fotos:	© Yale University Art Gallery
+	Hat die Fotorechte:	1

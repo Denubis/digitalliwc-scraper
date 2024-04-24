@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-7546f63928066-7
+Herakles_1578_0_0
+
+
+
+Monument
+	ID:	29583
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Herakles
+	Beschreibung:	Young Herakles(?) seated before a tree, holding club. A half-nude nymph seated on rocks faces him. Between them the naked Alexander(?) with foot raised and dressed companion on either side. To the right a horse.
+Szene
+	ID:	31034
+	Beschreibung:	Young Herakles(?) seated before a tree, holding club. A half-nude nymph seated on rocks faces him. Between them the naked Alexander(?) with foot raised and dressed companion on either side. To the right a horse.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/chicago/art_institute_of_chicago/31034X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	1578
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1983.584
+Museum
+	Land:	US
+	Stadt:	Chicago
+	Name:	Art Institute of Chicago
+	Direktor:	To the Director
+	Adresse:	111 S Michigan Av.
+	Postleitzahl:	USA-
+	Kontaktzenter:	Art Institute of Chicago
+	Stadt des Kontaktzenters:	Chicago IL 60603-6110
+	Rechteinhaber der Fotos:	© Art Institute of Chicago
+	Hat die Fotorechte:	1

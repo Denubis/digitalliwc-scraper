@@ -1,0 +1,85 @@
+http://ark.dasch.swiss/ark:/72163/080e-73b63abb8c870-5
+Achilleus_78_1_0
+Achilleus_97_0_0
+Achilleus_140_1_0
+
+
+
+Monument
+	ID:	1324
+	Entdeckungsort:	Atella
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	shield tree skin music seat, chair, sedes, sedile door phorminx old man centaur
+	Name:	Achilleus Cheiron Diomedes I Odysseus Phoinix II Deidameia II
+	Bibliographie:	SarkRel II no. 22a-b; SarkRel III 3, 546; Guida Ruesch 95 no. 291; Giuliano, A., Il commercio dei sarcofagi attici (1962) 58 no. 351; Sichtermann/Koch, MythSark 15 no. 1 pl. 3; Baratte, F., Un sarcophage d'Achille inédit,MélRome 86 (1974) 783 fig. 5; Giuliano, A./Palma, B., StudMisc 24 (1978) 47 III 3.
+Datierung
+	Periode:	190 - 210 
+Epoche
+	Name:	um 200 n. Chr.
+	Periode:	190 - 210 
+	Sequenznummer:	3270
+Szene
+	ID:	46007
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/46007X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/46007X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/46007X005.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/46007X006.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/46007X007.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/46007X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/46007X203.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/46007X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/46007X390.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	78
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	97
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	140
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	124325
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

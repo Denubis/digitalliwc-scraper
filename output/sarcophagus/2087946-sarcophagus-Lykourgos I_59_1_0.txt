@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-749a71ff58b77-0
+Lykourgos I_59_1_0
+
+
+
+Monument
+	ID:	17420
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Lykourgos I
+Szene
+	ID:	18139
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/gallese/parco_del_castello/18139X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/gallese/parco_del_castello/18139X102.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Lykourgos I
+	Katalognummer:	59
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Gallese
+	Name:	Parco del Castello
+	Rechteinhaber der Fotos:	© Parco del Castello, Gallese
+	Hat die Fotorechte:	0

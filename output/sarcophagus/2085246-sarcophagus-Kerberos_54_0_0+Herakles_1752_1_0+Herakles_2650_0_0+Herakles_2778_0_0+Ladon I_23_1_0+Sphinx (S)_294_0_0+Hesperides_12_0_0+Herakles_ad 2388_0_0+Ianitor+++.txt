@@ -1,0 +1,190 @@
+http://ark.dasch.swiss/ark:/72163/080e-7473d8384b1bb-f
+Kerberos_54_0_0
+Herakles_1752_1_0
+Herakles_2650_0_0
+Herakles_2778_0_0
+Ladon I_23_1_0
+Sphinx (S)_294_0_0
+Hesperides_12_0_0
+Herakles_ad 2388_0_0
+Ianitor Orci_3_0_0
+Herakles_957_1_0
+Athena/Minerva_379_0_0
+Amazones_131_0_0
+Herakles_1603_1_0
+Herakles_2162_0_0
+Herakles_2517_0_0
+Herakles_263_0_0
+
+
+
+Monument
+	ID:	14692
+	Entdeckungsort:	Genzano
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	fight, battle
+	Name:	Athena/Minerva Herakles Hesperides Ianitor Orci Kerberos Ladon I Sphinx (Thebana) Amazones Ianitor Orci
+	Beschreibung:	On the corners of the sarcophagus lid a tragic mask wearing a lionskin over head. Labours of Herakles: On the front Kerberos, Amazon, Hesperides, Horses of Diomedes, Lion. On the sides Deer and Hydra. Coping: Snakes, Boar, Augeias, Birds, Bull, Geryoneus, Herakles and Nike. The little figure hiding from Herakles in the scene with Kerberos could be Ianitor Orci.
+	Bibliographie:	Smith, BMSculpture 2300, 305.
+	Museums-URL:	http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=459803&partId=1&searchText=2300&images=true&from=bc&fromDate=800&to=ad&toDate=400&page=1
+Datierung
+	Periode:	200 - 300 
+Epoche
+	Name:	3. Jh. n. Chr.
+	Periode:	200 - 300 
+	Sequenznummer:	3280
+Datierung
+	Periode:	150 - 180 
+Szene
+	ID:	15138
+	Beschreibung:	Labours of Herakles: On the front Kerberos, Amazon, Hesperides, Horses of Diomedes, Lion. On the sides Deer and Hydra. Coping: Snakes, Boar, Augeias, Birds, Bull, Geryoneus. Herakles sits on rock covered with lionskin, looking up, holding cup in right hand out to Nike, left hand resting on club. On the corners of the sarcophagus lid a tragic mask wearing a lionskin over head. Labours of Herakles: On the front Kerberos, Amazon, Hesperides, Horses of Diomedes, Lion. On the sides Deer and Hydra. Coping: Snakes, Boar, Augeias, Birds, Bull, Geryoneus, Herakles and Nike. The little figure hiding from Herakles in the scene with Kerberos could be Ianitor Orci.
+	Bibliographie:	Smith, BMSculpture 2300, 305.
+	Sequenznummer:	10
+	Name:	Athena/Minerva Herakles Hesperides Ianitor Orci Kerberos Ladon I Amazones
+	Stichwort:	sphinx fight, battle
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/british_museum/15138X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/british_museum/15138X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/british_museum/15138X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/british_museum/15138X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/british_museum/15138X013.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kerberos
+	Katalognummer:	54
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	1752
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2650
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2778
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ladon I
+	Katalognummer:	23
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Sphinx (S)
+	Katalognummer:	294
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hesperides
+	Katalognummer:	12
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	ad 2388
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ianitor Orci
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	957
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	379
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	131
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49095
+	Szenerieangabe:	couvercle
+	Beschreibung:	On the corners of the sarcophagus lid a tragic mask wearing a lionskin over head. Grave stele of Phoebus. Herakles kneeling to the right, both hands lowered, a snake in each hand.
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/british_museum/49095X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/british_museum/49095X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/british_museum/49095X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/british_museum/49095X103.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/british_museum/49095X105.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/british_museum/49095X106.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	1603
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2162
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2517
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	263
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2300
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	British Museum
+	Direktor:	Dr. Charles Arnold
+	Adresse:	Great Russell Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	British Museum - Greek and Roman Antiquities
+	Stadt des Kontaktzenters:	London WC 1B 3DG
+	Rechteinhaber der Fotos:	© British Museum, London
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	1878.8-20.160

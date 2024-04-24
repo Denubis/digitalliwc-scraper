@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-74d829dc9d688-c
+Isis_320_0_0
+
+
+
+Monument
+	ID:	21774
+	Entdeckungsort:	Akhmîm
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Isis
+Szene
+	ID:	22776
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Isis
+	Katalognummer:	320
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tombe 3, antichambre
+Museum
+	Land:	EG
+	Stadt:	Akhmîm
+	Name:	Nécropole
+	Rechteinhaber der Fotos:	© Akhmîm
+	Hat die Fotorechte:	0

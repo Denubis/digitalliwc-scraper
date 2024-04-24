@@ -1,0 +1,31 @@
+http://ark.dasch.swiss/ark:/72163/080e-75799d4fb59d9-a
+Charis, Charites/Gratiae_28_1_0
+
+
+
+Monument
+	ID:	33157
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Charis, Charites/Gratiae
+Szene
+	ID:	34826
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/penrice_castle_glamorganshire/34826X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Charis, Charites/Gratiae
+	Katalognummer:	28
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	GB
+	Stadt:	Penrice Castle (Glamorganshire)
+	Rechteinhaber der Fotos:	© Penrice Castle 
+	Hat die Fotorechte:	1

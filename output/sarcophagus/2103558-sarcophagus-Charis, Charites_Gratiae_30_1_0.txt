@@ -1,0 +1,27 @@
+http://ark.dasch.swiss/ark:/72163/080e-7579a4a196563-2
+Charis, Charites/Gratiae_30_1_0
+
+
+
+Monument
+	ID:	33159
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Charis, Charites/Gratiae
+Szene
+	ID:	34828
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Charis, Charites/Gratiae
+	Katalognummer:	30
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	GB
+	Stadt:	Withington Hall (Cheshire)
+	Rechteinhaber der Fotos:	© Withington Hall
+	Hat die Fotorechte:	0

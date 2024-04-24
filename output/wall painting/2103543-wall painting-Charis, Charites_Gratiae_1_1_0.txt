@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-75796dbb80ed8-9
+Charis, Charites/Gratiae_1_1_0
+
+
+
+Monument
+	ID:	33143
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	IX 2,16 (Domus T. D. Pantherae)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Charis, Charites/Gratiae
+Szene
+	ID:	34811
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Charis, Charites/Gratiae
+	Katalognummer:	1
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9236
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

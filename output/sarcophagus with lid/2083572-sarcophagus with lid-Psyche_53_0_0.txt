@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-745be9848f789-f
+Psyche_53_0_0
+
+
+
+Monument
+	ID:	13006
+	Objekt:	sarcophagus with lid
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Psyche
+Szene
+	ID:	13327
+	Szenerieangabe:	couvercle
+	Sequenznummer:	20
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	53
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Abbazia delle Tre Fontane
+	Rechteinhaber der Fotos:	© Abbazia delle Tre Fontane, Roma
+	Hat die Fotorechte:	1

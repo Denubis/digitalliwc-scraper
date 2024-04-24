@@ -1,0 +1,134 @@
+http://ark.dasch.swiss/ark:/72163/080e-73de4d7b4f46f-e
+Eidola (S)_9_0_0
+Charon I_53_1_0
+Hektor_49_1_0
+Protesilaos_27_1_0
+Nekyia (S)_16_0_0
+Mercurius_330_0_0
+Ixion_19_1_0
+Sisyphos I_32_0_0
+Tantalos_13_0_0
+
+
+
+Monument
+	ID:	4146
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Via Appia
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Charon I Hektor Ixion Protesilaos Sisyphos I Tantalos Eidola Nekyia Mercurius
+	Beschreibung:	Scenes from the life of Protesilaos: Next to the passing away Protesilaos stands his Eidolon. Then Mercurius, guiding the Eidolon to Charon. Charon wearing the exomis, is standing in his boat part of which disappears under the gate of Hades. He holds the pole and reaches out to Protesilaos who is being handed over to him by Hermes. On the right minor face Sisyphos, Ixion fixed to the wheel and Tantalos.
+Datierung
+	Periode:	160 - 170 
+Szene
+	ID:	4190
+	Beschreibung:	Scenes from the life of Protesilaos: Next to the passing away Protesilaos stands his Eidolon. Then Mercurius, guiding the Eidolon to Charon. Charon wearing the exomis, is standing in his boat part of which disappears under the gate of Hades. He holds the pole and reaches out to Protesilaos who is being handed over to him by Hermes. On the right minor face Sisyphos, Ixion fixed to the wheel and Tantalos.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/4190X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/4190X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/4190X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/4190X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/4190X005.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/4190X103.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/4190X104.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/4190X105.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/4190X106.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/4190X301.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/4190X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/4190X303.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/4190X304.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Eidola (S)
+	Katalognummer:	9
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Charon I
+	Katalognummer:	53
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hektor
+	Katalognummer:	49
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Protesilaos
+	Katalognummer:	27
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Nekyia (S)
+	Katalognummer:	16
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	330
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ixion
+	Katalognummer:	19
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Sisyphos I
+	Katalognummer:	32
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Tantalos
+	Katalognummer:	13
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2465
+Museum
+	Land:	VA
+	Stadt:	Vaticano
+	Name:	Musei Vaticani
+	Direktor:	Direttore Dott. Antonio Paolucci
+	Anrede:	Chiarissimo Direttore,
+	Postleitzahl:	I-00120
+	Kontaktzenter:	Monumenti, Musei e Gallerie Pontificie
+	Stadt des Kontaktzenters:	Città del Vaticano
+	Rechteinhaber der Fotos:	© Musei Vaticani
+	Kommentar:	Sont réunis sous cette dénomination générique - compte tenu à la fois de leur numérotation unique et de leurs déplacements à l'intérieur des musées - les monuments conservés dans le Museo Chiaramonti, le Museo Gregoriano Etrusco, le Museo Gregoriano Profano, le Museo Pio Clementino et le Museo Pio Cristiano.  En revanche, la localisation spécifique a été conservée dans les cas suivants: Basilica San Pietro, Biblioteca Apostolica Vaticana (et Museo Profano, Museo Sacro, Sala delle Nozze Aldobrandine), Camposanto Teutonico, Giardini, Medagliere Vaticano, Museo Gregoriano Egizio, Necropoli sotto San Pietro.
+	Hat die Fotorechte:	0

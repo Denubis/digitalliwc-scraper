@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-759e330a60614-2
+Eros/Amor, Cupido_530_0_0
+
+
+
+Monument
+	ID:	35738
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido
+Szene
+	ID:	37575
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	530
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Espérandieu 176
+Museum
+	Land:	FR
+	Stadt:	Arles
+	Name:	Musée de l'Arles et de la Provence antiques
+	Direktor:	M. le Directeur Claude Sintes
+	Adresse:	Presqu'Ile du Cirque Romain
+	Postfach:	BP 205
+	Postleitzahl:	F-13635
+	Kontaktzenter:	Musée de l'Arles et de la Provence antiques
+	Stadt des Kontaktzenters:	Arles cedex
+	Rechteinhaber der Fotos:	© Musée de l'Arles et de la Provence antiques
+	Hat die Fotorechte:	1

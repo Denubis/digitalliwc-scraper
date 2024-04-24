@@ -1,0 +1,58 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a5a19179e03-b
+Hesione (S)_25_1_0
+Apollon/Apollo_579_1_0
+Herakles_3068_0_0
+
+
+
+Monument
+	ID:	128
+	Entdeckungsort:	Cologne
+	Objekt:	sarcophagus
+	Material:	sandstone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Apollon/Apollo Herakles Hesione
+	Beschreibung:	Herakles carrying off the tripod. Apollon seated. Other face: Hesione, Herakles holding apples of the Hesperides, dead Ketos.
+Szene
+	ID:	493
+	Beschreibung:	Herakles carrying off the tripod. Apollon seated. Other face: Hesione, Herakles holding apples of the Hesperides, dead Ketos.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/koeln/roemisch-germanisches_museum/493X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/koeln/roemisch-germanisches_museum/493X102.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hesione (S)
+	Katalognummer:	25
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	579
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	3068
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	70
+Museum
+	Land:	DE
+	Stadt:	Köln
+	Name:	Römisch-Germanisches Museum
+	Direktor:	Direktor Prof. Dr. Hansgerd Hellenkemper
+	Adresse:	Roncallipl. 4
+	Postleitzahl:	D-50667
+	Kontaktzenter:	Römisch-Germanisches Museum
+	Stadt des Kontaktzenters:	Köln
+	Rechteinhaber der Fotos:	© Römisch-Germanisches Museum Köln
+	Hat die Fotorechte:	1

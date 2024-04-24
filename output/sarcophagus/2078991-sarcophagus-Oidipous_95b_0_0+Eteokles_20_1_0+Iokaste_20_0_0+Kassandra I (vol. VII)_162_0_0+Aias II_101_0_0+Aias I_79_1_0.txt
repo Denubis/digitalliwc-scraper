@@ -1,0 +1,86 @@
+http://ark.dasch.swiss/ark:/72163/080e-741a6b6f6b950-b
+Oidipous_95b_0_0
+Eteokles_20_1_0
+Iokaste_20_0_0
+Kassandra I (vol. VII)_162_0_0
+Aias II_101_0_0
+Aias I_79_1_0
+
+
+
+Monument
+	ID:	8386
+	Entdeckungsort:	Tarquinia
+	Entdeckungsort Details:	Tomba delle Bighe (Tomba Stackelberg)
+	Objekt:	sarcophagus
+	Material:	nenfro
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	altar Palladion cult image, cult statue suppliant, supplication, hikesia fight, battle
+	Name:	Aias II Eteokles Iokaste Kassandra I Oidipous Vanth
+	Beschreibung:	Die eine Langseite, linke Hälfte: Aias und Kassandra bei Altar und Heranführung eines gefangenen Troianers; Vanth. On the right end a kneeling woman holding dagger(?), probably Iokaste. To her left Oidipous and the two dead brothers Eteokles and Polyneikes.
+	Bibliographie:	Herbig, EtrSark Nr. 63 Taf. 29.
+	Museums-URL:	http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=673047&partId=1&searchText=d21&from=bc&fromDate=800&to=ad&toDate=600&page=1
+Datierung
+	Periode:	-300 - -290 
+Epoche
+	Name:	Anfang 3. Jh. v. Chr.
+	Periode:	-300 - -290 
+	Sequenznummer:	2580
+Szene
+	ID:	8577
+	Beschreibung:	Die eine Langseite, linke Hälfte: Aias und Kassandra bei Altar und Heranführung eines gefangenen Troianers; Vanth. On the right end a kneeling woman holding dagger(?), probably Iokaste. To her left Oidipous and the two dead brothers Eteokles and Polyneikes.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/british_museum/8577X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/british_museum/8577X002.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Oidipous
+	Katalognummer:	95b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eteokles
+	Katalognummer:	20
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iokaste
+	Katalognummer:	20
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kassandra I (vol. VII)
+	Katalognummer:	162
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aias II
+	Katalognummer:	101
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aias I
+	Katalognummer:	79
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	D 21
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	British Museum
+	Direktor:	Dr. Charles Arnold
+	Adresse:	Great Russell Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	British Museum - Greek and Roman Antiquities
+	Stadt des Kontaktzenters:	London WC 1B 3DG
+	Rechteinhaber der Fotos:	© British Museum, London
+	Hat die Fotorechte:	1

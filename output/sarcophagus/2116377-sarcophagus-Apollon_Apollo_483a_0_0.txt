@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-7630e91d74d02-a
+Apollon/Apollo_483a_0_0
+
+
+
+Monument
+	ID:	46097
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+Szene
+	ID:	48527
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	483a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel XII 6, 65
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Strozzi (già)
+	Rechteinhaber der Fotos:	© Villa Strozzi (once), Roma
+	Hat die Fotorechte:	1

@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-758e498d5f097-9
+Charis, Charites/Gratiae_5_0_0
+
+
+
+Monument
+	ID:	34623
+	Entdeckungsort:	Boscoreale
+	Entdeckungsort Details:	Villa of P. Fannius Synistor
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Charis, Charites/Gratiae
+Szene
+	ID:	49033
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Charis, Charites/Gratiae
+	Katalognummer:	5
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Villa di P. Fannius Synistor
+Museum
+	Land:	IT
+	Stadt:	Boscoreale
+	Rechteinhaber der Fotos:	© Boscoreale
+	Hat die Fotorechte:	1

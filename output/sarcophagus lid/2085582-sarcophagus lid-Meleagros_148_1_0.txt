@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-7478a5f3c444b-6
+Meleagros_148_1_0
+
+
+
+Monument
+	ID:	15033
+	Objekt:	sarcophagus lid
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Meleagros
+	Beschreibung:	Meleagros carried to the pyre.
+Datierung
+	Periode:	100 - 200 
+Szene
+	ID:	15509
+	Szenerieangabe:	couvercle
+	Beschreibung:	Meleagros carried to the pyre.
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/15509X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	148
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	618
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Musei Capitolini
+	Direktor:	Dirigente Dott. Claudio Parisi Presicce
+	Adresse:	Via delle Tre Pile, 1
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Sovraintendenza ai Beni Culturali                     del Comune di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Archivio fotografico Musei Capitolini
+	Hat die Fotorechte:	1

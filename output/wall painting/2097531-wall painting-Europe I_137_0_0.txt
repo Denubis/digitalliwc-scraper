@@ -1,0 +1,31 @@
+http://ark.dasch.swiss/ark:/72163/080e-75237a4ec906c-1
+Europe I_137_0_0
+
+
+
+Monument
+	ID:	27086
+	Entdeckungsort:	Stabiae
+	Entdeckungsort Details:	House of Europa
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Europe I
+	Beschreibung:	Europe (I), with mantle, on the swimming bull.
+Szene
+	ID:	28454
+	Beschreibung:	Europe (I), with mantle, on the swimming bull.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Europe I
+	Katalognummer:	137
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Castellammare di Stabia
+	Name:	Villa di Europa
+	Rechteinhaber der Fotos:	© Villa di Europa, Castellammare di Stabia
+	Hat die Fotorechte:	1

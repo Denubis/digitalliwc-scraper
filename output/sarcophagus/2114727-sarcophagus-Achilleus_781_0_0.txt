@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-7619524041d48-e
+Achilleus_781_0_0
+
+
+
+Monument
+	ID:	44428
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	Amazon
+	Name:	Achilleus Penthesileia
+	Bibliographie:	Vermuele, C. C., Festschrift Matz (1962) 107, Toronto Nr. 2.
+Szene
+	ID:	46725
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	781
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	947.26
+Museum
+	Land:	CA
+	Stadt:	Toronto
+	Name:	Royal Ontario Museum
+	Direktor:	Director William Thorsell 
+	Adresse:	100 Queen's Park 
+	Kontaktzenter:	Royal Ontario Museum
+	Stadt des Kontaktzenters:	Toronto, Ontario M5S 2C6 Canada
+	Rechteinhaber der Fotos:	© Royal Ontario Museum
+	Hat die Fotorechte:	0

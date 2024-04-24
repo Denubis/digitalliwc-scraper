@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-759961a5f6dbf-a
+Eros/Amor, Cupido_ad 432_0_0
+
+
+
+Monument
+	ID:	35401
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido
+Szene
+	ID:	37237
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 432
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Palermo
+	Name:	Chiesa San Francesco d'Assisi
+	Rechteinhaber der Fotos:	© Palermo
+	Hat die Fotorechte:	0

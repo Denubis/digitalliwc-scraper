@@ -1,0 +1,104 @@
+http://ark.dasch.swiss/ark:/72163/080e-73db3e42621c1-7
+Victoria_241_0_0
+Neoptolemos_24_1_0
+Pegasos (Pegasos, Bellerophon)_31a_1_0
+
+
+
+Monument
+	ID:	3933
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus with lid
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Victoria Neoptolemos Pegasos
+	Beschreibung:	Two flying Victories holding wreath with the portrait of the deceased. Surrounded by captured Troians.
+Szene
+	ID:	3975
+	Szenerieangabe:	couvercle
+	Beschreibung:	Two flying Victories holding wreath with the portrait of the deceased. Surrounded by captured Troians.
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/3975X303.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/3975X304.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/3975X305.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Victoria
+	Katalognummer:	241
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	37882
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/37882X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/37882X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/37882X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/37882X301.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/37882X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/37882X303.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/37882X304.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/37882X305.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/37882X309.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Neoptolemos
+	Katalognummer:	24
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Pegasos (Pegasos, Bellerophon)
+	Katalognummer:	31a
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	39400
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Romano
+	Direktor:	Soprintendente Dott. Giuseppe Proietti
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali - Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

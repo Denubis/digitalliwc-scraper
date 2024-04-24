@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-73dbf19863c76-d
+Kentauroi et Kentaurides (S)_490_0_0
+Eros/Amor, Cupido_110_1_0
+
+
+
+Monument
+	ID:	3981
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido Kentauroi and Kentaurides
+	Beschreibung:	Two centaurs with fruits.
+Szene
+	ID:	4025
+	Beschreibung:	Two centaurs with fruits.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	490
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	110
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	6136
+Museum
+	Land:	IT
+	Stadt:	Cagliari
+	Name:	Museo Archeologico Nazionale
+	Adresse:	Piazza Indipendenza 7
+	Postleitzahl:	I-09100
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici per le Province di Cagliari e Oristano
+	Stadt des Kontaktzenters:	Cagliari
+	Rechteinhaber der Fotos:	© Polo Museale della Sardegna
+	Hat die Fotorechte:	1

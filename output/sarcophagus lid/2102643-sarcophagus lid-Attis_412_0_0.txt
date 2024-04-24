@@ -1,0 +1,86 @@
+http://ark.dasch.swiss/ark:/72163/080e-756c8fce7c644-6
+Attis_412_0_0
+
+
+
+Monument
+	ID:	32229
+	Entdeckungsort:	Ostia
+	Objekt:	sarcophagus lid
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Attis Kybele Hermes/Mercurius
+	Beschreibung:	Bracelet of an archigallus lying on the lif od a sarcophagus: Enthroned Kybele between Attis and Mercury.
+Szene
+	ID:	33848
+	Beschreibung:	Bracelet of an archigallus lying on the lif od a sarcophagus: Enthroned Kybele between Attis and Mercury.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/museo_ostiense/33848X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/museo_ostiense/33848X203.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/museo_ostiense/33848X204.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/museo_ostiense/33848X205.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/museo_ostiense/33848X206.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/museo_ostiense/33848X207.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/museo_ostiense/33848X208.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/museo_ostiense/33848X209.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/museo_ostiense/33848X210.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/museo_ostiense/33848X211.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/museo_ostiense/33848X212.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/museo_ostiense/33848X213.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/museo_ostiense/33848X214.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/museo_ostiense/33848X299.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Attis
+	Katalognummer:	412
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	158
+Museum
+	Land:	IT
+	Stadt:	Ostia
+	Name:	Museo Ostiense
+	Direktor:	Dott.ssa Elvira Angeloni
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Viale dei Romagnoli 717
+	Postleitzahl:	I-00119
+	Kontaktzenter:	Soprintendenza archeologica di Ostia
+	Stadt des Kontaktzenters:	Ostia Antica - Roma
+	Rechteinhaber der Fotos:	Archivio Fotografico della Soprintendenza Archeologica per i beni archeologici di Ostia
+	Hat die Fotorechte:	1

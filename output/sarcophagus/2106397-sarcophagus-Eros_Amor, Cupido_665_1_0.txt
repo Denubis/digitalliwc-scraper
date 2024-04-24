@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-75a23b2326116-f
+Eros/Amor, Cupido_665_1_0
+
+
+
+Monument
+	ID:	36024
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido
+Szene
+	ID:	37868
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	665
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Firenze
+	Name:	Museo Archeologico
+	Direktor:	Soprintendente Dott.ssa Fulvia Lo Schiavo
+	Anrede:	Chiarissimo Soprintendente
+	Adresse:	Via della Pergola 65
+	Postleitzahl:	I-50121
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici della Toscana
+	Stadt des Kontaktzenters:	Firenze
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici della Toscana
+	Hat die Fotorechte:	1

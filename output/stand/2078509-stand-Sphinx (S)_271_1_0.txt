@@ -1,0 +1,51 @@
+http://ark.dasch.swiss/ark:/72163/080e-7413875addc66-4
+Sphinx (S)_271_1_0
+
+
+
+Monument
+	ID:	7897
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VIII 7,28 (formerly 8,28) (Temple of Isis)
+	Objekt:	stand
+	Material:	bronze
+	Land:	CH
+	Kategorie:	sculpture in the round varia
+	Stichwort:	garland bukranion basin sphinx
+	Name:	Sphinx (Thebana)
+	Beschreibung:	Becken mit dreifüssigem Untersatz. Die senkrechte Wand des Beckens ist rundherum mit Bukranien und Girlanden verziert. An den Beinen des Untersatzes hockende Sphingen.
+	Bibliographie:	Cima di Puolo, M., in Il bronzo dei Romani (1990) 261 Nr. 28 Abb. 110. 112.
+Datierung
+	Periode:	-27 - 14 
+Epoche
+	Name:	augusteisch
+	Periode:	-27 - 14 
+	Sequenznummer:	1130
+Szene
+	ID:	8080
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/8080X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/8080X302.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Sphinx (S)
+	Katalognummer:	271
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	72995
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

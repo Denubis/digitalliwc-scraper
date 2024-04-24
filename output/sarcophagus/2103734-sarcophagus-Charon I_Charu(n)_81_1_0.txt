@@ -1,0 +1,56 @@
+http://ark.dasch.swiss/ark:/72163/080e-757c28c6d5cd3-6
+Charon I/Charu(n)_81_1_0
+
+
+
+Monument
+	ID:	33335
+	Entdeckungsort:	Tarquinia
+	Entdeckungsort Details:	Poggio del Cavalluccio
+	Objekt:	sarcophagus
+	Material:	nenfro
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	relief
+	Name:	Charon I/Charu(n)
+	Beschreibung:	Scene showing a procession to the left: three lictors with fasces, female demon holding a torch, magistrate on a biga, in the background behind the horses a demon holding a snake and a hammer (processus magistraturalis)
+	Bibliographie:	Lambrechts, R., Essai sur les magistratures des républiques étrusques (1959) 142 n. 15 tav 114.
+Szene
+	ID:	35017
+	Beschreibung:	Scene showing a procession to the left: three lictors with fasces, female demon holding a torch, magistrate on a biga, in the background behind the horses a demon holding a snake and a hammer (processus magistraturalis)
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/museo_nazionale_di_tarquinia/35017X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/museo_nazionale_di_tarquinia/35017X102.jpg
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	77
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 1. Prozessionen, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	90
+	Bandnummer:	1
+Catalog LIMC
+	Artikel:	Charon I/Charu(n)
+	Katalognummer:	81
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	3063
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Museo Nazionale di Tarquinia
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

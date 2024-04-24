@@ -1,0 +1,87 @@
+http://ark.dasch.swiss/ark:/72163/080e-7642702c8ee74-3
+
+
+
+Monument
+	ID:	50579
+	Entdeckungsort:	unknown
+	Objekt:	sarcophagus
+	Material:	pietra fetida
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	altar knife fire (on altar) bull sacrifice thymiaterion, turibulum, incense-burner machaira gesture: one forearm raised (worship, prayer, greeting?)
+	Beschreibung:	Schmalseite des Sarkophags (Langseite = Louvre MA 3610.), Darstellung eines Stieropfers: Auf dem bereits brennenden Altar steht an der Seite ein thymiaterion (Variante von Zacc. Typ E, s. 392). Rechts zum Altar hin führen drei Personen einen Stier. Von links kommen ebenfalls drei Männer herbei. Alle halten die Linke betend erhoben und in der vor dem Bauch gesenkten Rechten ein Opfermesser (ID 51304). 
+	Bibliographie:	Paribeni, E., “I rilievi chiusini arcaici”, StEtr XII 1938, 135 n. 206; Ambrosini, "Thymiateria etruschi... (2002), 74 Abb. 4. 5; Jannot, J.-F., Les reliefs archaïques de Chiusi (1984) 23 n. 5 fig. 105; Briquet, M. F., MEFRA 84, 1972, 863 fig. 11-13; 
+	Kommentar:	aus dem Gebiet um Chiusi
+Datierung
+	Periode:	-510 - -500 
+Epoche
+	Name:	Ende 6. Jh. v. Chr.
+	Periode:	-510 - -500 
+	Sequenznummer:	2180
+Datierung
+	Periode:	-500 - -490 
+Epoche
+	Name:	Anfang 5. Jh. v. Chr.
+	Periode:	-500 - -490 
+	Sequenznummer:	2300
+Szene
+	ID:	55736
+	Beschreibung:	Schmalseite des Sarkophags (Langseite = Louvre MA 3610.), Darstellung eines Stieropfers: Auf dem bereits brennenden Altar steht an der Seite ein thymiaterion (Variante von Zacc. Typ E, s. 392). Rechts zum Altar hin führen drei Personen einen Stier. Von links kommen ebenfalls drei Männer herbei. Alle halten die Linke betend erhoben und in der vor dem Bauch gesenkten Rechten ein Opfermesser (ID 51304). 
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	13
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	21
+	Name:	III. 6.b. Gebet, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	2200
+	Bandnummer:	3
+Catalog Thes CRA
+	Indexnummer:	52
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 2.a. Opfer, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	200
+	Bandnummer:	1
+Catalog Thes CRA
+	Indexnummer:	10
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 1. Prozessionen, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	90
+	Bandnummer:	1
+Catalog Thes CRA
+	Indexnummer:	1046
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Catalog Thes CRA
+	Indexnummer:	421
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 3611
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

@@ -1,0 +1,59 @@
+http://ark.dasch.swiss/ark:/72163/080e-769f10c7bf33f-4
+Pygmaioi_20ter_0_0
+Pygmaioi (Suppl. 2009)_Supplement_0_1
+
+
+
+Monument
+	ID:	200921
+	Entdeckungsort:	Tarquinia
+	Entdeckungsort Details:	necropolis
+	Objekt:	wall painting
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	shield spear goat krater: calyx-krater crane
+	Name:	Pygmaioi
+	Bibliographie:	Steingräber, S., Zum ikonographichen und hermeneutischen Wandel von Pygmäen- und speziellle Geranomachidarstellungen in vorhellenistischer Zeit (6.-4/3. Jh. V. Chr.), Mediterranean Archareology 12 (1999) pl. 5, 2; Harari, M., A Short History of Pygmies in Greek and Italy, in Lomas,  K. (ed.), Greek Identity in the Western Mediterranean, Papers in Honour of Brian Shefton (2004) fig. 4-5.
+Datierung
+	Periode:	-460 - -440 
+	Kommentar:	(?)
+Epoche
+	Name:	Mitte 5. Jh. v. Chr.
+	Periode:	-460 - -440 
+	Sequenznummer:	2310
+Szene
+	ID:	97755
+Catalog Thes CRA
+	Indexnummer:	42
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 4.a. Bankett, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	1420
+	Bandnummer:	2
+Catalog LIMC
+	Artikel:	Pygmaioi
+	Katalognummer:	20ter
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Pygmaioi (Suppl. 2009)
+	Band:	Supplement
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba 2957
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Necropoli
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

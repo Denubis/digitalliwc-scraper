@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-74b610f551633-5
+Narkissos_39_0_0
+Ganymedes_110_1_0
+
+
+
+Monument
+	ID:	19376
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Ganymedes Narkissos
+	Beschreibung:	Narkissos and Eros.
+Szene
+	ID:	20271
+	Beschreibung:	Narkissos and Eros.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/san_sebastiano/20271X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Narkissos
+	Katalognummer:	39
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ganymedes
+	Katalognummer:	110
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	San Sebastiano
+	Direktor:	Dott.ssa Barbara Mazzei
+	Adresse:	Via Napoleone III 1
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Pontificia Commissione di Archeologia Sacra
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprindentenza SPSAE e Polo Museale della Città di Roma
+	Hat die Fotorechte:	0

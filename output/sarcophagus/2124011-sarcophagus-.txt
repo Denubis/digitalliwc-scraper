@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-769e0ced1599c-3
+
+
+
+Monument
+	ID:	200589
+	Objekt:	sarcophagus
+	Material:	limestone
+	Herkunft:	Roman
+	Land:	DE
+	Kategorie:	relief
+	Stichwort:	phiale, phiale mesomphalos, patera tabula ansata guttus, gutus, guturnium, urceus
+	Beschreibung:	Sarkophag der Aemilia Secundina: Neben der Tabula ansata mit Inschrift befinden sich Patera und Kanne.
+	Inschrift:	Grabinschrift: CIL X 1 Nr.6344
+	Bibliographie:	H. Herdejürgen, in: Marburger Winckelmann- Programm 1984 (1984) 17-18 Abb.16; Koch, RS 281; U. Broccoli: Terracina. Museo e raccolte civiche; 1982, S. 199ff., Abb. 41 f.
+Datierung
+	Periode:	-60 - -40 
+Epoche
+	Name:	Mitte 1. Jh. v. Chr.
+	Periode:	-60 - -40 
+	Sequenznummer:	2870
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Terracina
+	Name:	Museo Civico Archeologico
+	Direktor:	Dott. Gianfranco Cautilli
+	Adresse:	Piazza Municipio
+	Postleitzahl:	I-04019
+	E-Mail:	beni.culturali@comune.terracina.lt.it
+	Kontaktzenter:	Dirigente Settore Beni e Attività Culturali
+	Stadt des Kontaktzenters:	Terracina
+	Rechteinhaber der Fotos:	© Museo Civico Archeologico, Terracina
+	Hat die Fotorechte:	0

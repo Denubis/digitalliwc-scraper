@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-75d8dbaeb7e77-b
+Ares/Mars_272_0_0
+
+
+
+Monument
+	ID:	39880
+	Entdeckungsort:	Ostia
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+Szene
+	ID:	41939
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Ares/Mars
+	Katalognummer:	272
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9638
+Museum
+	Land:	VA
+	Stadt:	Vaticano
+	Name:	Biblioteca Apostolica Vaticana, Sala delle Nozze Aldobrandine
+	Direktor:	Prefetto Raffaele Farina, S. D. B.
+	Anrede:	Reverendissimo Prefetto
+	Postleitzahl:	I-00120
+	Kontaktzenter:	Biblioteca Apostolica Vaticana
+	Stadt des Kontaktzenters:	Città del Vaticano
+	Rechteinhaber der Fotos:	© Biblioteca Apostolica Vaticana
+	Hat die Fotorechte:	1

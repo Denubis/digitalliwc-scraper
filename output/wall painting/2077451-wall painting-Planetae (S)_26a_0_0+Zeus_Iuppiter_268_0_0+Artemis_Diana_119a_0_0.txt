@@ -1,0 +1,58 @@
+http://ark.dasch.swiss/ark:/72163/080e-740467298043c-f
+Planetae (S)_26a_0_0
+Zeus/Iuppiter_268_0_0
+Artemis/Diana_119a_0_0
+
+
+
+Monument
+	ID:	6833
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Planetae Artemis/Diana Zeus/Iuppiter
+	Beschreibung:	Depiction of the Planetae: Saturnus, Sol and Luna nimbated, on the right Venus with Amor on her shoulder.
+Szene
+	ID:	6979
+	Beschreibung:	Depiction of the Planetae: Saturnus, Sol and Luna nimbated, on the right Venus with Amor on her shoulder.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/6979X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/6979X303.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Planetae (S)
+	Katalognummer:	26a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	268
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	119a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9521
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

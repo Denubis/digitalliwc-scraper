@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-74263a86f56f2-4
+Orcus_18_1_0
+
+
+
+Monument
+	ID:	9219
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Orcus
+	Beschreibung:	Orcus with his double axe, on the right Oineus (Calydonian hunt).
+Szene
+	ID:	9419
+	Beschreibung:	Orcus with his double axe, on the right Oineus (Calydonian hunt).
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/poland/nieborow/musee_national/9419X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Orcus
+	Katalognummer:	18
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Nb 251
+Museum
+	Land:	PL
+	Stadt:	Nieborów
+	Name:	Musée National
+	Rechteinhaber der Fotos:	© Musée National Nieborów
+	Hat die Fotorechte:	0

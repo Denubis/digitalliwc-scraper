@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-7401927f98dde-5
+Phoinix III (S)_32_0_0
+
+
+
+Monument
+	ID:	6633
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Phoinix III
+	Beschreibung:	Phoinix (III) on a palm tree.
+Datierung
+	Periode:	400 
+Szene
+	ID:	6769
+	Beschreibung:	Phoinix (III) on a palm tree.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Phoinix III (S)
+	Katalognummer:	32
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Verona
+	Name:	San Giovanni in Valle
+	Rechteinhaber der Fotos:	© San Giovanni in Valle, Verona
+	Hat die Fotorechte:	0

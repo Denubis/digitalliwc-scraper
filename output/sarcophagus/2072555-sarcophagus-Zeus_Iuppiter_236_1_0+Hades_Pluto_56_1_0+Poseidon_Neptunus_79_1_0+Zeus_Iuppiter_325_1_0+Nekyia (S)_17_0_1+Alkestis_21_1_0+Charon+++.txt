@@ -1,0 +1,419 @@
+http://ark.dasch.swiss/ark:/72163/080e-73be68349ac9c-e
+Zeus/Iuppiter_236_1_0
+Hades/Pluto_56_1_0
+Poseidon/Neptunus_79_1_0
+Zeus/Iuppiter_325_1_0
+Nekyia (S)_17_0_1
+Alkestis_21_1_0
+Charon I_52_1_0
+Danaides_27_1_0
+Hades/Pluto_40_1_0
+Herakles_1714_1_0
+Herakles_2648_0_0
+Ianitor Orci_4_1_0
+Protesilaos_21_1_0
+Sisyphos I_31_0_0
+Tantalos_12_1_0
+Okeanides_9_1_0
+Mercurius_329_0_0
+Kerberos_69a_0_0
+Demeter/Ceres (vol. IV)_129_0_0
+Herakles_2150_0_0
+Herakles_2064_0_0
+Herakles_2223a_0_0
+Herakles_2289_0_0
+Herakles_2386_0_0
+Herakles_2519_0_0
+Herakles_2745_0_0
+Mercurius_328_0_0
+Nyx_18_0_0
+Admete_3_1_0
+Herakles_p. 125_0_0
+Artemis/Diana_316_1_0
+Athena/Minerva_434_0_0
+Gigantes_491_0_0
+Helios/Sol_349_0_0
+Amazones_128_1_0
+Victoria_202_1_0
+
+
+
+Monument
+	ID:	1904
+	Entdeckungsort:	Velletri
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	club column bull naiskos, aedicula axe, hatchet, pelekys, sacena, securis victimarius sacrificial animal sacrificial assistant lionskin door dorsuale (strap over the animal's back) situla, kados, bucket limus (apron of the sacrificial assistant) labarum Giant fight, battle
+	Name:	Admete Alkestis Artemis/Diana Athena/Minerva Charon I Danaides Demeter/Ceres Hades/Pluto Helios/Sol Herakles Ianitor Orci Kerberos Hermes/Mercurius Meriones Nyx Okeanides Poseidon/Neptunus Protesilaos Sisyphos I Tantalos Zeus/Iuppiter Nekyia Amazones Luna Gigantes Mercurius Victoria
+	Beschreibung:	In two of the timpani Sol and Luna. Petit-côté droit: animaux (avec parure) conduits au sacrifice par les victimarii reconnaissables aux instruments caractéristiques (hache sacrificielle, seau, limus). On the left corner of the back Herakles with the boar in an aedicula and a woman in a barrel (Admete?). The lower level of the reverse has the Hesperides, Sisyphos, Charon, Tantalos and three Danaids with hydriai and a pithos. On the long side at the centre of the upper zone the bust of Nyx under a bow, her veil billowing overher head. On either side a gorgoneion and a Triton who turns towards the centre. On the main side: behind the chariot of Pluto a group consisting of Minerva, Diana and two kneeling Okeanides picking flowers, Ceres mounting a chariot, drawn by two horses, bearing two torches. (the rape of Persephone). Ianitor Orci standing with Herakles and Alkestis. Mercurius guiding Protesilaos to the entrance of Hase where Laodamia waits. On the lid: Victoria kneeling on a bull, holding dagger.
+	Bibliographie:	Koch / Sichtermann, RömSark 189;Bartoccini, R., RIA 7, 1958 fig.2-4.11.14-15.25-36.40; Andreae, B., Studien zur römischen Grabkunst, RM 9. Ergh. (1963) 33-34 pl. 1. 8-9; Lawrence, M., AJA 69, 1965, 207-222 pl. 45-49. 52. 54.
+Datierung
+	Periode:	117 - 138 
+Epoche
+	Name:	hadrianisch
+	Periode:	117 - 138 
+	Sequenznummer:	1200
+Datierung
+	Periode:	190 - 200 
+	Kommentar:	about (Amazones)
+Epoche
+	Name:	4. Viertel 2. Jh. n. Chr.
+	Periode:	175 - 200 
+	Sequenznummer:	3230
+Szene
+	ID:	1816
+	Beschreibung:	In two of the timpani Sol and Luna. Petit-côté droit: animaux (avec parure) conduits au sacrifice par les victimarii reconnaissables aux instruments caractéristiques (hache sacrificielle, seau, limus). On the left corner of the back Herakles with the boar in an aedicula and a woman in a barrel (Admete?). The lower level of the reverse has the Hesperides, Sisyphos, Charon, Tantalos and three Danaids with hydriai and a pithos. On the long side at the centre of the upper zone the bust of Nyx under a bow, her veil billowing overher head. On either side a gorgoneion and a Triton who turns towards the centre. On the main side: behind the chariot of Pluto a group consisting of Minerva, Diana and two kneeling Okeanides picking flowers, Ceres mounting a chariot, drawn by two horses, bearing two torches. (the rape of Persephone). Ianitor Orci standing with Herakles and Alkestis. Mercurius guiding Protesilaos to the entrance of Hase where Laodamia waits.
+	Bibliographie:	Andreae, B., Studien zur römischen Grabkunst, RM Ergänzungsheft 9 (1963) 11 pl. 1; Lawrence, M., AjA 69 (1965) 207 pl. 45-46. 52, 25.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/1816X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/1816X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/1816X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/1816X005.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/1816X006.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/1816X007.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/1816X010.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/1816X011.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/1816X012.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/1816X013.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/1816X014.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/1816X015.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/1816X038.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/1816X103.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/1816X104.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/1816X106.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/1816X108.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/1816X109.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/1816X110.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/1816X112.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/1816X113.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/1816X114.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/1816X115.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/1816X116.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/1816X117.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/1816X118.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/1816X119.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/1816X121.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/1816X221.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/1816X223.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/1816X401.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/1816X402.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/1816X403.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/1816X404.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/1816X405.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/1816X406.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/1816X410.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/1816X411.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/1816X412.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/1816X413.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	236
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	56
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Poseidon/Neptunus
+	Katalognummer:	79
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	325
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Nekyia (S)
+	Katalognummer:	17
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	21
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Charon I
+	Katalognummer:	52
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Danaides
+	Katalognummer:	27
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	40
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	1714
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2648
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ianitor Orci
+	Katalognummer:	4
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Protesilaos
+	Katalognummer:	21
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Sisyphos I
+	Katalognummer:	31
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Tantalos
+	Katalognummer:	12
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Okeanides
+	Katalognummer:	9
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	329
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kerberos
+	Katalognummer:	69a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Demeter/Ceres (vol. IV)
+	Katalognummer:	129
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2150
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2064
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2223a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2289
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2386
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2519
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2745
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	328
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Nyx
+	Katalognummer:	18
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Admete
+	Katalognummer:	3
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	p. 125
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	316
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	434
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Gigantes
+	Katalognummer:	491
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	349
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	128
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	13252
+	Szenerieangabe:	couvercle
+	Beschreibung:	Victoria kneeling on a bull, holding dagger.
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/velletri/museo_civico/13252X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Victoria
+	Katalognummer:	202
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Velletri
+	Name:	Museo Civico
+	Rechteinhaber der Fotos:	© Museo Civico, Velletri
+	Hat die Fotorechte:	0

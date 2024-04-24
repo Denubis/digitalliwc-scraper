@@ -1,0 +1,70 @@
+http://ark.dasch.swiss/ark:/72163/080e-7577ffbd9cde4-0
+Botrys_1_1_0
+Dionysos/Bacchus_268_0_0
+
+
+
+Monument
+	ID:	33043
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	IX 8,3 (Casa del Centenario)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	snake panther, leopard thyrsos kantharos libation grapes stemma, infula, band of wool sacral-idyllic landscape bird altar: round altar
+	Name:	Botrys Dionysos/Bacchus
+	Beschreibung:	Die Weinrebengottheit Botrys (ganz in Trauben gehüllt; oder Bacchus?) libiert aus einem kantharos, in der Linken hält er einen langen, schmalen thyrsos mit einer Schleife daran geknotet, neben ihm ein Leopard. Um die Gottheit herum ist eine Landschaft mit einem Berg zu sehen, im Vordergrund windet sich zwischen Gräsern bzw. Sträuchern eine vergrößert dargestellte Schlange auf einen Rundaltar zu, auf der rechten Seite fliegt ein Vogel. 
+	Bibliographie:	Herter, H., RhM 100 (1957) 101-114; Schefold, WP 273; Le collezioni del Museo nazionale di Napoli (1989) Farbabb. S. 70. 
+	Kommentar:	nrad
+Datierung
+	Periode:	69 - 79 
+Epoche
+	Name:	vespasianisch
+	Periode:	69 - 79 
+	Sequenznummer:	1185
+Szene
+	ID:	34712
+	Beschreibung:	Die Weinrebengottheit Botrys (ganz in Trauben gehüllt; oder Bacchus?) libiert aus einem kantharos, in der Linken hält er einen langen, schmalen thyrsos mit einer Schleife daran geknotet, neben ihm ein Leopard. Um die Gottheit herum ist eine Landschaft mit einem Berg zu sehen, im Vordergrund windet sich zwischen Gräsern bzw. Sträuchern eine vergrößert dargestellte Schlange auf einen Rundaltar zu, auf der rechten Seite fliegt ein Vogel. 
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/34712X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/34712X002.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	1519
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Catalog LIMC
+	Artikel:	Botrys
+	Katalognummer:	1
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	268
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	112286
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

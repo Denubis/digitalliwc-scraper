@@ -1,0 +1,59 @@
+http://ark.dasch.swiss/ark:/72163/080e-75b9817bb11e2-0
+Eileithyia_78_0_0
+Zeus/Iuppiter_314_0_0
+Semele_11_1_0
+
+
+
+Monument
+	ID:	37670
+	Objekt:	sarcophagus lid
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Name:	Dionysos Eileithyia Zeus Hermes Semele Zeus/Iuppiter
+	Beschreibung:	Zeus after the birth of Dionysos. A winged goddess  (Eileithyia?) dresses the god's wounded thigh. Hermes with the child Dionysos and Semele dying.
+	Kommentar:	nrad
+	Monument-URL:	http://www.limc-france.fr/objet/16352
+Szene
+	ID:	39604
+	Beschreibung:	Zeus after the birth of Dionysos. A winged goddess (Eileithyia?) dresses the god's wounded thigh. Hermes with the child Dionysos and Semele dying.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/croatia/zagreb/musee_archeologique_de_zagreb/39604X001.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	175
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	III. 3.b. Konsekration
+	Sequenznummer:	3050
+	Bandnummer:	3
+Catalog LIMC
+	Artikel:	Eileithyia
+	Katalognummer:	78
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	314
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Semele
+	Katalognummer:	11
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	KS 139
+Museum
+	Land:	HR
+	Stadt:	Zagreb
+	Name:	Musée Archéologique de Zagreb
+	Rechteinhaber der Fotos:	© Musée Archéologique de Zagreb
+	Hat die Fotorechte:	1

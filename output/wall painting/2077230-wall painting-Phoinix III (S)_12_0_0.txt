@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-74013e520092b-b
+Phoinix III (S)_12_0_0
+
+
+
+Monument
+	ID:	6610
+	Entdeckungsort:	Rome
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Phoinix III
+	Beschreibung:	Mural painting in the Priscilla catacomb. Phoinix (III), nimbated, to the right.
+Datierung
+	Periode:	200 - 250 
+Szene
+	ID:	6746
+	Beschreibung:	Phoinix (III), nimbated, to the right.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/catacomba_di_priscilla/6746X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Phoinix III (S)
+	Katalognummer:	12
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Cub. 39 (Cappella Greca)
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Catacomba di Priscilla
+	Direktor:	Dott.ssa Barbara Mazzei
+	Adresse:	Via Napoleone III 1
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Pontificia Commissione di Archeologia Sacra
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Pontificia Commissione di Archeologia Sacra
+	Hat die Fotorechte:	0

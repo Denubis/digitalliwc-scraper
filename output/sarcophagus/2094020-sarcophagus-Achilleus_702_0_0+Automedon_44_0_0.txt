@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-74f1485646f99-f
+Achilleus_702_0_0
+Automedon_44_0_0
+
+
+
+Monument
+	ID:	23543
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	chariot servant charioteer
+	Name:	Achilleus Priamos
+	Bibliographie:	SarkRell II Nr. 56; Koch, G., AA 1976, 103 Nr. 5 Abb. 5.
+Datierung
+	Periode:	240 - 250 
+Epoche
+	Name:	2. Viertel 3. Jh. n. Chr.
+	Periode:	225 - 250 
+	Sequenznummer:	3350
+Szene
+	ID:	36236
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	702
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Automedon
+	Katalognummer:	44
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel II 56 (SarkRel IX 1, 1, 27)
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Gentili (già)
+	Rechteinhaber der Fotos:	© Villa Gentili (once)
+	Hat die Fotorechte:	1

@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-747bbc7e92283-9
+Nereides_178_1_0
+
+
+
+Monument
+	ID:	15250
+	Entdeckungsort:	Ephesos (Ionia)
+	Objekt:	sarcophagus with lid
+	Material:	stone
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Nereides
+Szene
+	ID:	15734
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Nereides
+	Katalognummer:	178
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	34
+Museum
+	Land:	TR
+	Stadt:	Izmir
+	Name:	Musée Archéologique
+	Direktor:	Mme le Dr. Pascale Linant de Bellefonds
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-92023
+	Kontaktzenter:	Université Paris X-Nanterre; Maison de l'Archéologie/Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Archaeological Museum Izmir
+	Hat die Fotorechte:	1

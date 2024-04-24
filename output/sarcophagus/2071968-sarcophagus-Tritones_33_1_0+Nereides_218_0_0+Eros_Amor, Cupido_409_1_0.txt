@@ -1,0 +1,54 @@
+http://ark.dasch.swiss/ark:/72163/080e-73b603d5771e5-a
+Tritones_33_1_0
+Nereides_218_0_0
+Eros/Amor, Cupido_409_1_0
+
+
+
+Monument
+	ID:	1309
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido Nereides Tritones
+	Museums-URL:	http://cartelfr.louvre.fr/cartelfr/visite?srv=car_not_frame&idNotice=17184&langue=fr
+Szene
+	ID:	1215
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/1215X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Tritones
+	Katalognummer:	33
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Nereides
+	Katalognummer:	218
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	409
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 342
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	MR 885

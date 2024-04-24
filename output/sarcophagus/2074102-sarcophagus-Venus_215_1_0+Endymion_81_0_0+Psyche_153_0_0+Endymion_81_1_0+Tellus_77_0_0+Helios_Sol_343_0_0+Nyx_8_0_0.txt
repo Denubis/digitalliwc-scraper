@@ -1,0 +1,85 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d4861918a13-2
+Venus_215_1_0
+Endymion_81_0_0
+Psyche_153_0_0
+Endymion_81_1_0
+Tellus_77_0_0
+Helios/Sol_343_0_0
+Nyx_8_0_0
+
+
+
+Monument
+	ID:	3460
+	Entdeckungsort:	Ostia
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Endymion Nyx Helios/Sol Luna Selene Venus Psyche Tellus
+	Beschreibung:	On the right Endymion reclining on the ground. Behind him the winged Nyx. She pours a sleeping potion over Endymion's head. In the other hand she holds a poppy stalk. At the centre Selene alights from her chariot. On both sides of the scene Luna and Sol on a chariot. On the lid: Venus seated on a rock, Psyche and Amores.
+	Museums-URL:	http://www.metmuseum.org/art/collection/search/254590
+Szene
+	ID:	3495
+	Szenerieangabe:	couvercle
+	Beschreibung:	Venus seated on a rock, Psyche and Amores.
+	Sequenznummer:	20
+Catalog LIMC
+	Artikel:	Venus
+	Katalognummer:	215
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	81
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	153
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	13509
+	Beschreibung:	On the right Endymion reclining on the ground. Behind him the winged Nyx. She pours a sleeping potion over Endymion's head. In the other hand she holds a poppy stalk. At the centre Selene alights from her chariot. On both sides of the scene Luna and Sol on a chariot.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/new_york/metropolitan_museum_of_art/13509X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	81
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Tellus
+	Katalognummer:	77
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	343
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Nyx
+	Katalognummer:	8
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	47.100.4a-b
+Museum
+	Land:	US
+	Stadt:	New York
+	Name:	Metropolitan Museum of Art
+	Direktor:	Eileen Sullivan, Assistant Museum Librarian
+	Anrede:	Dear Ms Sullivan,
+	Adresse:	1000 Fifth Avenue at 82nd Street
+	Postleitzahl:	USA-
+	Kontaktzenter:	The Metropolitan Museum of Art                          The Photograph Library
+	Stadt des Kontaktzenters:	New York, NY 10028-0198
+	Rechteinhaber der Fotos:	© Metropolitan Museum of Art
+	Hat die Fotorechte:	1

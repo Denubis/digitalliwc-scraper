@@ -1,0 +1,71 @@
+http://ark.dasch.swiss/ark:/72163/080e-73fd8e0fc38a1-6
+Nekyia (S)_18_0_0
+Eurydike I_2_1_0
+Hades/Pluto_72_0_0
+Ianitor Orci_1_1_0
+Oknos_5_0_0
+
+
+
+Monument
+	ID:	6351
+	Entdeckungsort:	Ostia
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Eurydike I Hades/Pluto Oknos Nekyia
+	Beschreibung:	Orpheus moving to left in direction of the exit of Hades marked by Kerberos and Ianitor Orci, looking back at Eurydike (I). Behind her Oknos, above Pluto and Proserpina.
+	Inschrift:	IANITOR
+Datierung
+	Periode:	200 - 300 
+Szene
+	ID:	6481
+	Beschreibung:	Orpheus moving to left in direction of the exit of Hades marked by Kerberos and Ianitor Orci, looking back at Eurydike (I). Behind her Oknos, above Pluto and Proserpina.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/6481X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/6481X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Nekyia (S)
+	Katalognummer:	18
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eurydike I
+	Katalognummer:	2
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	72
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ianitor Orci
+	Katalognummer:	1
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Oknos
+	Katalognummer:	5
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	10789
+Museum
+	Land:	VA
+	Stadt:	Vaticano
+	Name:	Musei Vaticani
+	Direktor:	Direttore Dott. Antonio Paolucci
+	Anrede:	Chiarissimo Direttore,
+	Postleitzahl:	I-00120
+	Kontaktzenter:	Monumenti, Musei e Gallerie Pontificie
+	Stadt des Kontaktzenters:	Città del Vaticano
+	Rechteinhaber der Fotos:	© Musei Vaticani
+	Kommentar:	Sont réunis sous cette dénomination générique - compte tenu à la fois de leur numérotation unique et de leurs déplacements à l'intérieur des musées - les monuments conservés dans le Museo Chiaramonti, le Museo Gregoriano Etrusco, le Museo Gregoriano Profano, le Museo Pio Clementino et le Museo Pio Cristiano.  En revanche, la localisation spécifique a été conservée dans les cas suivants: Basilica San Pietro, Biblioteca Apostolica Vaticana (et Museo Profano, Museo Sacro, Sala delle Nozze Aldobrandine), Camposanto Teutonico, Giardini, Medagliere Vaticano, Museo Gregoriano Egizio, Necropoli sotto San Pietro.
+	Hat die Fotorechte:	0

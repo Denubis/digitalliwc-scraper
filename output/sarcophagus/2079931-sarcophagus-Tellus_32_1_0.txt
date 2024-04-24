@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-7427dbc1fe8ac-c
+Tellus_32_1_0
+
+
+
+Monument
+	ID:	9335
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Tellus
+Szene
+	ID:	9537
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/sant_agnese_fuori_le_mura/9537X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/sant_agnese_fuori_le_mura/9537X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/sant_agnese_fuori_le_mura/9537X303.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Tellus
+	Katalognummer:	32
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Sant'Agnese fuori le Mura
+	Rechteinhaber der Fotos:	© Soprindentenza SPSAE e Polo Museale della Città di Roma
+	Hat die Fotorechte:	0

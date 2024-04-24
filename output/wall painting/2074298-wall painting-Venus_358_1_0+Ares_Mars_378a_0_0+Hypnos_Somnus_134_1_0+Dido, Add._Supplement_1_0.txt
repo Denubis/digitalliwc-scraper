@@ -1,0 +1,74 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d753711f4e7-6
+Venus_358_1_0
+Ares/Mars_378a_0_0
+Hypnos/Somnus_134_1_0
+Dido, Add._Supplement_1_0
+
+
+
+Monument
+	ID:	3656
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	I 4,5 (Casa del Citarista)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	sword
+	Name:	Adonis Aineias Anchises Ares/Mars Askanios Dido Hypnos/Somnus Aphrodite/Venus Venus
+	Beschreibung:	Dido and Aineias; sleeping Askanios. Venus and Anchises on the mountain Ida.
+	Bibliographie:	Strocka, V. M., Troja, Karthago, Rom. Ein vorvergilisches Bildprogramm in Terzigno bei Pompeji, RM 112, 2005/06, 97 fig. 17; Strocka, V. M., Aeneas, nicht Alexander, JdI 121 (2006) 275-276 fig. 5; Hodske, J., Mythologische Bildthemen in den Häusern Pompejis (2007) 148 pl. 10, 1-2. 
+Datierung
+	Periode:	-80 - -1 
+	Kommentar:	30/20 B.C.
+Epoche
+	Name:	2. pompejanischer Stil
+	Periode:	-80 - -1 
+	Sequenznummer:	1330
+Szene
+	ID:	3693
+	Beschreibung:	Dido and Aineias; sleeping Askanios. Venus and Anchises on the mountain Ida.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/3693X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/3693X201.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Venus
+	Katalognummer:	358
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ares/Mars
+	Katalognummer:	378a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	134
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dido, Add.
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	112282
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

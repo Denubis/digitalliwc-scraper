@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-745476b36399c-8
+Mousa, Mousai/Musae (vol. VII)_217_1_0
+Apollon/Apollo_392_0_0
+
+
+
+Monument
+	ID:	12483
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Apollon/Apollo Mousa, Mousai
+Szene
+	ID:	12784
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/san_saba/12784X002.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	217
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	392
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	San Saba
+	Rechteinhaber der Fotos:	© Soprindentenza SPSAE e Polo Museale della Città di Roma
+	Hat die Fotorechte:	0

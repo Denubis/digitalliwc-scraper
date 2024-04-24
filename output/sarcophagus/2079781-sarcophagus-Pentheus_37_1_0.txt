@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-7425b6c52873e-a
+Pentheus_37_1_0
+
+
+
+Monument
+	ID:	9183
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Pentheus
+	Beschreibung:	Pentheus attacked by maenads.
+Szene
+	ID:	9384
+	Beschreibung:	Pentheus attacked by maenads.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/poland/varsovie/musee_national/9384X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Pentheus
+	Katalognummer:	37
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	200406
+Museum
+	Land:	PL
+	Stadt:	Varsovie
+	Name:	Musée National
+	Direktor:	Department of Antiquities
+	Anrede:	Dear General Director,
+	Adresse:	Al. Jerozolimkie 3
+	Postleitzahl:	PL 00-495
+	Kontaktzenter:	Museum Narodowe w Warszawie
+	Stadt des Kontaktzenters:	Varsovie
+	Rechteinhaber der Fotos:	© Museum Narodowe w Warszawie
+	Hat die Fotorechte:	1

@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-75235d0746244-4
+Europe I_125_1_0
+
+
+
+Monument
+	ID:	27078
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Europe I
+	Beschreibung:	Europe (I), half naked, sitting on the bull, and three girls.
+Szene
+	ID:	28446
+	Beschreibung:	Europe (I), half naked, sitting on the bull, and three girls.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/28446X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/28446X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/28446X203.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Europe I
+	Katalognummer:	125
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	111475
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

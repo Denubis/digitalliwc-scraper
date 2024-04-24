@@ -1,0 +1,71 @@
+http://ark.dasch.swiss/ark:/72163/080e-74fed5f05cd1d-f
+Iason_51_0_0
+Aietes_2_1_0
+Eros/Amor, Cupido_56_1_0
+
+
+
+Monument
+	ID:	24500
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	sceptre bull rock, cliff child
+	Name:	Aietes Apsyrtos Eros/Amor, Cupido Iason
+	Beschreibung:	Iason taming the bulls before Aietes seated on a rock. Wedding of Iason and Medeia.
+	Bibliographie:	SarkRel II 200-201 pl. 61, no. 189.
+	Monument-URL:	http://www.limc-france.fr/objet/14478
+Datierung
+	Periode:	138 - 192 
+Epoche
+	Name:	antoninisch
+	Periode:	138 - 192 
+	Sequenznummer:	1210
+Szene
+	ID:	25708
+	Beschreibung:	Iason taming the bulls before Aietes seated on a rock. Wedding of Iason and Medeia.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/25708X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/25708X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/25708X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/25708X203.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Iason
+	Katalognummer:	51
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aietes
+	Katalognummer:	2
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	56
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 410
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

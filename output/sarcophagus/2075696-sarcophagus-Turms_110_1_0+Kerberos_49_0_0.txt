@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-73eb5001b76b5-7
+Turms_110_1_0
+Kerberos_49_0_0
+
+
+
+Monument
+	ID:	5061
+	Entdeckungsort:	Tarquinia
+	Objekt:	sarcophagus
+	Material:	nenfro
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kerberos Turms
+	Beschreibung:	On the lid: Kerberos crouching, two heads looking ahead, one looking back, between two Charun figures.
+Szene
+	ID:	5151
+	Beschreibung:	On the lid: Kerberos crouching, two heads looking ahead, one looking back, between two Charun figures.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/villa_bruschi-falgari_gia/5151X302.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Turms
+	Katalognummer:	110
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kerberos
+	Katalognummer:	49
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Villa Bruschi-Falgari (già)
+	Rechteinhaber der Fotos:	© Villa Bruschi-Falgari (once), Tarquinia
+	Hat die Fotorechte:	1

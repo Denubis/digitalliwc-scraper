@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-74534a9666082-2
+Mousa, Mousai/Musae (vol. VII)_165_1_0
+
+
+
+Monument
+	ID:	12401
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Asia Minor
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Mousa, Mousai
+	Museums-URL:	http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=459877&partId=1&searchText=2312&from=bc&fromDate=800&to=ad&toDate=600&page=1
+Szene
+	ID:	12701
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/british_museum/12701X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	165
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2312
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	British Museum
+	Direktor:	Dr. Charles Arnold
+	Adresse:	Great Russell Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	British Museum - Greek and Roman Antiquities
+	Stadt des Kontaktzenters:	London WC 1B 3DG
+	Rechteinhaber der Fotos:	© British Museum, London
+	Hat die Fotorechte:	1

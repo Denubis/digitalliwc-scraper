@@ -1,0 +1,51 @@
+http://ark.dasch.swiss/ark:/72163/080e-75b20758a486b-e
+Dionysos/Bacchus_244_1_0
+
+
+
+Monument
+	ID:	37141
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Name:	Dionysos/Bacchus
+	Beschreibung:	Indian triumph: Bacchus in a long chiton, with flowing mantle, rides in elephant drawn chariot towards a group of worshippers making sacrifice, dancing and playing music, and a herm of Bacchus.
+Szene
+	ID:	39039
+	Beschreibung:	Indian triumph: Bacchus in a long chiton, with flowing mantle, rides in elephant drawn chariot towards a group of worshippers making sacrifice, dancing and playing music, and a herm of Bacchus.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/39039X001.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	309
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 4.b. Tanz
+	Sequenznummer:	1500
+	Bandnummer:	2
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	244
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8566
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Romano
+	Direktor:	Soprintendente Dott. Giuseppe Proietti
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali - Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

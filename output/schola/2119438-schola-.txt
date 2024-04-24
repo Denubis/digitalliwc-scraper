@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-765cac1f7498b-a
+
+
+
+Monument
+	ID:	52528
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	Triangular Forum
+	Objekt:	schola
+	Land:	CH
+	Kategorie:	architecture
+	Beschreibung:	By the doric temple. Semicircular structure (schola) with sundial; back with inscription (CIL X 831)
+	Bibliographie:	De Vos A. / De Vos M., Pompei, Guide Laterza (1982) 63.
+Szene
+	ID:	57783
+	Beschreibung:	By the doric temple. Semicircular structure (schola) with sundial; back with inscription (CIL X 831)
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	1
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Schola
+	Lemata:	Schola
+	Sequenznummer:	4040
+	Bandnummer:	4
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Schola
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Foro Triangolare
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

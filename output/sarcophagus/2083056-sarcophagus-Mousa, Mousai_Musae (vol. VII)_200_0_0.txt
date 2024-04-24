@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-7454890015675-c
+Mousa, Mousai/Musae (vol. VII)_200_0_0
+
+
+
+Monument
+	ID:	12488
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Mousa, Mousai
+Szene
+	ID:	12789
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	200
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Via Veneto
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Vie
+	Rechteinhaber der Fotos:	© Roma
+	Hat die Fotorechte:	1

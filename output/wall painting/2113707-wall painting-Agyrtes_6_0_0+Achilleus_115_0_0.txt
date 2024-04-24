@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-760abd229205c-f
+Agyrtes_6_0_0
+Achilleus_115_0_0
+
+
+
+Monument
+	ID:	43390
+	Entdeckungsort:	Ephesos (Ionia)
+	Entdeckungsort Details:	Hanghaus 2
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	trumpet, tuba, salpinx
+	Name:	Achilleus Agyrtes Deidameia II
+	Bibliographie:	Strocka, V. M., Die Wandmalerei der Hanghäuser in Ephesos (Forschungen in Ephesos VIII/1, 1977) 104. 107-108 fig. 220-221.
+Datierung
+	Periode:	200 - 220 
+	Kommentar:	ca.
+Epoche
+	Name:	1. Viertel 3. Jh. n. Chr.
+	Periode:	200 - 225 
+	Sequenznummer:	3340
+Szene
+	ID:	45625
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Agyrtes
+	Katalognummer:	6
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	115
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	TR
+	Stadt:	Ephèse
+	Name:	Hanghaus 2
+	Rechteinhaber der Fotos:	© Ephesos
+	Hat die Fotorechte:	1

@@ -1,0 +1,58 @@
+http://ark.dasch.swiss/ark:/72163/080e-73fbaaf3d3f0d-6
+Montes (S)_7_0_0
+Hekate (vol. VI)_60_1_0
+
+
+
+Monument
+	ID:	6216
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 16,7.38 (Casa degli Amorini dorati)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	tree cult image, cult statue gate rotunda, tholos exedra mountain divinity
+	Name:	Alexandros Hekate Montes
+	Beschreibung:	Paris auf dem Ida: im Zentrum grosser, torähnlicher Bau mit Baum, davor Hekatestatue (zwei Fackeln) auf hohem Sockel, rechts daneben exedraähnlicher Rundbau. Links gelagerter Berggott (Mons).
+	Bibliographie:	Helbig, Wandgemälde Nr. 1279; HBr Taf. 8; Schefold, WP 153; Dawson, C.M., Romano-Campanian Mythological Landscape Painting (YaleClSt 9, 1944) Nr. 18 Taf. 6; Schefold, PeintP Taf. 25; de Caro, S., Il Mus. Naz. di Napoli (1994) 186 Farbabb.
+	Kommentar:	Die Fundortangabe in LIMC VI Hekate 60 ist suspekt (steht nicht bei Schefold u.a.), wird überprüft.
+Datierung
+	Periode:	-15 - 45 
+Epoche
+	Name:	3. pompejanischer Stil
+	Periode:	-15 - 63 
+	Sequenznummer:	1340
+Szene
+	ID:	6340
+	Beschreibung:	Paris auf dem Ida: im Zentrum grosser, torähnlicher Bau mit Baum, davor Hekatestatue (zwei Fackeln) auf hohem Sockel, rechts daneben exedraähnlicher Rundbau. Links gelagerter Berggott (Mons).
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/6340X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Montes (S)
+	Katalognummer:	7
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hekate (vol. VI)
+	Katalognummer:	60
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9508
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

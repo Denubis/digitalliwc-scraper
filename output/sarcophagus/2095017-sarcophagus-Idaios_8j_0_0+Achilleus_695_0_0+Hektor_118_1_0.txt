@@ -1,0 +1,49 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ff89465e7d2-b
+Idaios_8j_0_0
+Achilleus_695_0_0
+Hektor_118_1_0
+
+
+
+Monument
+	ID:	24549
+	Entdeckungsort:	Tyre
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	kerykeion, caduceus sword vessel war-chariot, harma, currus
+	Name:	Achilleus Briseis Hektor Hermes Priamos Idaios
+	Beschreibung:	Three scenes: On the right kneeling Priamos asking Achilleus for the corpse of Hektor. In the centre Achilleus on his chariot dragging Hektor. On the left the chariot of Priamos from which Trojans are unloading goods.
+Szene
+	ID:	25764
+	Beschreibung:	Three scenes: On the right kneeling Priamos asking Achilleus for the corpse of Hektor. In the centre Achilleus on his chariot dragging Hektor. On the left the chariot of Priamos from which Trojans are unloading goods.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/lebanon/tyr/25764X303.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Idaios
+	Katalognummer:	8j
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	695
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hektor
+	Katalognummer:	118
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	3951 + 3952
+Museum
+	Land:	LB
+	Stadt:	Tyr
+	Rechteinhaber der Fotos:	© Tyr
+	Hat die Fotorechte:	1

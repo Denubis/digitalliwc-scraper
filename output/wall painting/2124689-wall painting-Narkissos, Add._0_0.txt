@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-76a7be59aa15a-7
+Narkissos, Add._0_0
+
+
+
+Monument
+	ID:	201721
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 15,2 (Casa del Marinaio)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	spear
+	Name:	Eros Narkissos
+	Beschreibung:	Fragment. Narkissos sitting on a rock; Eros sitting on his thigh and holding a spear
+	Bibliographie:	Schefold, WP 206; PompPittMos  VII 736 fig. 64.
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	98699
+	Beschreibung:	Narkissos sitting on a rock; Eros sitting on his thigh and holding a spear
+Catalog LIMC
+	Artikel:	Narkissos, Add.
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	20877
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Antiquarium
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via villa dei Misteri 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei (NA)
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

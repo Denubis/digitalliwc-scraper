@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-761aadf174163-8
+Amazones_540_1_0
+
+
+
+Monument
+	ID:	44523
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	helmet corselet horse warrior, soldier Amazon Phrygian cap boots fight, battle
+	Name:	Amazones
+	Bibliographie:	Kαλλιπολίτης, B. G., Χρονολογικη κατα ταξις...(1958) no.117; Giuliano, A./ Palma, B., La maniera ateniese di età romana, StudMisc 24 (1978) 39 C II b no.1 pl. XLII 102, XLIII 103-104; Redlich, R., Die Amazonensarophage des 2. und 3. Jh. (1942), 118 pl. 10. 
+Datierung
+	Periode:	225 
+Epoche
+	Name:	1. Drittel 3. Jh. n. Chr.
+	Periode:	200 - 233 
+	Sequenznummer:	3380
+Szene
+	ID:	46821
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	540
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1245
+Museum
+	Land:	GR
+	Stadt:	Thessalonique
+	Name:	Musée Archéologique
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Archaeological Museum of Thessaloniki
+	Hat die Fotorechte:	0

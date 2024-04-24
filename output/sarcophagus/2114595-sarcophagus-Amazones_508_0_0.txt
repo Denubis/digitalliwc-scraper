@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-76176f24523b4-5
+Amazones_508_0_0
+
+
+
+Monument
+	ID:	44300
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	helmet horse Amazon fight, battle rider
+	Name:	Amazones
+	Beschreibung:	Fragment.
+	Bibliographie:	Kallipolitis, B. G., Χρονολογικη κατα ταξις...(1958) no. 64; Giuliano, A., Il commercio dei sarcofagi attici (1962) 55 no. 333; Giuliano, A./ Palma, B., La maniera ateniese di età romana, StudMisc 24 (1978) 19 III 2 pl. 11, 24-25.
+Datierung
+	Periode:	170 
+	Kommentar:	about
+Epoche
+	Name:	3. Viertel 2. Jh. n. Chr.
+	Periode:	150 - 175 
+	Sequenznummer:	3220
+Szene
+	ID:	46586
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	508
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	LY
+	Stadt:	Tolmeita
+	Name:	Musée
+	Rechteinhaber der Fotos:	© Musée Tolmeita
+	Hat die Fotorechte:	1

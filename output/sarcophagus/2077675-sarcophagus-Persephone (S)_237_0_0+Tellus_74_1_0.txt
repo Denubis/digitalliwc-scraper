@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-74079afbd109c-c
+Persephone (S)_237_0_0
+Tellus_74_1_0
+
+
+
+Monument
+	ID:	7057
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Persephone Tellus
+	Beschreibung:	Rape of Persephone: Persephone in Hades' chariot.
+Szene
+	ID:	7204
+	Beschreibung:	Rape of Persephone: Persephone in Hades' chariot.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_doria_pamphilj/7204X301.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Persephone (S)
+	Katalognummer:	237
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Tellus
+	Katalognummer:	74
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Calza 196
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Doria Pamphilj
+	Rechteinhaber der Fotos:	© Villa Doria Pamphilj, Roma
+	Kommentar:	Numéros d'après Calza, R. (éd.), Antichità di Villa Doria Pamphilj (1977).
+	Hat die Fotorechte:	1

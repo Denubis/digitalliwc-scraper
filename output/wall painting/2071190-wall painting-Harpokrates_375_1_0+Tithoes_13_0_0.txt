@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-73aae46afe933-a
+Harpokrates_375_1_0
+Tithoes_13_0_0
+
+
+
+Monument
+	ID:	514
+	Entdeckungsort:	Karanis (Fayoum)
+	Entdeckungsort Details:	house
+	Objekt:	wall painting
+	Herkunft:	Egypt
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Tithoes Harpokrates
+	Beschreibung:	Mural painting from House C 65 in Karanis. Tithoes, head frontal, with nimbus. In front of him Harpokrates.
+Szene
+	ID:	48790
+	Beschreibung:	Tithoes, head frontal, with nimbus. In front of him Harpokrates.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/egypt/cairo/egyptian_museum/48790X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Harpokrates
+	Katalognummer:	375
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Tithoes
+	Katalognummer:	13
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	JE 65544
+Museum
+	Land:	EG
+	Stadt:	Cairo
+	Name:	Egyptian Museum
+	Kontaktzenter:	Musée Egyptien
+	Stadt des Kontaktzenters:	Le Caire
+	Rechteinhaber der Fotos:	© Egyptian Museum Cairo
+	Hat die Fotorechte:	1

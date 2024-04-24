@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-7519994dffdad-d
+Gorgones Romanae_73_1_0
+
+
+
+Monument
+	ID:	26389
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Gorgo, Gorgones
+	Beschreibung:	In the lunettes on the side masks, the one in the middle a gorgoneion.
+	Museums-URL:	http://www.getty.edu/art/collection/objects/7002/unknown-maker-front-panel-of-a-garland-sarcophagus-roman-about-140-170/
+Szene
+	ID:	27717
+	Beschreibung:	In the lunettes on the side masks, the one in the middle a gorgoneion.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/malibu/j_paul_getty_museum/27717X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/malibu/j_paul_getty_museum/27717X101.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Gorgones Romanae
+	Katalognummer:	73
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	72.AA.152
+Museum
+	Land:	US
+	Stadt:	Malibu
+	Name:	J. Paul Getty Museum
+	Direktor:	Dr. Jackie Burns
+	Adresse:	1200 Getty Center Drive Suite 1000
+	Postleitzahl:	USA-
+	E-Mail:	jburns@getty.edu
+	Kontaktzenter:	Registrars Office, J. Paul Getty Museum
+	Stadt des Kontaktzenters:	Los Angeles, CA 90049
+	Rechteinhaber der Fotos:	© J. Paul Getty Museum
+	Hat die Fotorechte:	1

@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-768d1f956aa7c-4
+
+
+
+Monument
+	ID:	91022
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	GR
+	Kategorie:	relief
+	Stichwort:	snake garland gorgoneion chest, box, case, small box child ram head ribbon wings
+	Name:	Eros/Amor, Cupido
+	Grössenangabe:	Mήκ. 2.23 m - Y. 1.20 m - Πλ. 1.08 m
+	Beschreibung:	Παις ή Eρωτιδεύς. Γοργόνειον.
+	Kommentar:	4061
+Datierung
+	Periode:	-27 - 395 
+Epoche
+	Name:	kaiserzeitlich
+	Periode:	-27 - 476 
+	Sequenznummer:	1100
+Szene
+	ID:	96494
+	Szenerieangabe:	A
+	Beschreibung:	Mακρά πλευρά σαρκοφάγου: Γιρλάντα που σχηματίζει δύο ημικύκλια, ανέρχεται από παιδί ή Eρωτιδέα, ισταμένου κατ' ενώπιον, γυμνού. Δεξιό χέρι αριστερά και κάτω, αριστερό χέρι δεξιά και άνω. Δεξιό σκέλος τεντωμένο, αριστερό ελαφρά λυγισμένο προς δεξιά. Στις γωνίες κεφαλές κριών, πάνω από αυτές δέσμες ταινιών που ανεμίζουν. Mέσα στα ημικύκλια αριστερά κρέμεται κιβωτίδιο και δεξιά κεφαλή Γοργονείου, που φέρει πτερά στην κεφαλή και όφεις που ελίσσονται κάτω από αυτήν.
+Szene
+	ID:	96495
+	Szenerieangabe:	B
+	Beschreibung:	Πλάγιες πλευρές: ημικύκλιο που σχηματίζεται από γιρλάντες. Eντός  του ημικυκλίου, ρόδακας.
+Inventar
+	Nummer:	-
+Museum
+	Land:	GR
+	Stadt:	Thessalonique
+	Name:	Musée Archéologique
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Archaeological Museum of Thessaloniki
+	Hat die Fotorechte:	0

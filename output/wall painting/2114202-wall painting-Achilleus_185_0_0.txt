@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-7611d0cb54847-3
+Achilleus_185_0_0
+
+
+
+Monument
+	ID:	43885
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Achilleus
+Szene
+	ID:	46161
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	185
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Oea
+Museum
+	Land:	LY
+	Stadt:	Tripoli (Libye)
+	Name:	Musée
+	Direktor:	Mme le  Dr. Pascale Linant de Bellefonds
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-90023
+	Kontaktzenter:	Université Paris X - Nanterre Maison de l'Archéologie / Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Musée Tripoli
+	Hat die Fotorechte:	1

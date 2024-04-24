@@ -1,0 +1,56 @@
+http://ark.dasch.swiss/ark:/72163/080e-74edb1b29c772-5
+Hypnos/Somnus_68_1_0
+Endymion_66_0_0
+Eros/Amor, Cupido_22_0_0
+
+
+
+Monument
+	ID:	23288
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Endymion Eros/Amor, Cupido Hypnos/Somnus
+Szene
+	ID:	24430
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/24430X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/24430X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/24430X299.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	68
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	66
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	22
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 362
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

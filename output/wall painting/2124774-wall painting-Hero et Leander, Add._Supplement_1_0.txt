@@ -1,0 +1,49 @@
+http://ark.dasch.swiss/ark:/72163/080e-76a8f57178bc3-7
+Hero et Leander, Add._Supplement_1_0
+
+
+
+Monument
+	ID:	201462
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	rock, cliff tower
+	Name:	Hero Leandros
+	Beschreibung:	Leander, nude, swimming in direction to a tower with open door
+	Bibliographie:	Miranda, S., Programmazione pittorica nella decorazione parietale pompeiana: il mito di Ero e Leandro, RStPomp 5 (1991)112 fig. 1.
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	98431
+	Beschreibung:	Leander, nude, swimming in direction to a tower with open door
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hero et Leander, Add.
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	I 12,11
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1

@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-761876a7ec31c-3
+Achilleus_670_0_0
+
+
+
+Monument
+	ID:	44368
+	Entdeckungsort:	Ephesos (Ionia)
+	Entdeckungsort Details:	Hanghaus 2
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Achilleus Hektor
+	Bibliographie:	Strocka, 109 Abb. 223.
+Datierung
+	Periode:	200 - 300 
+Epoche
+	Name:	3. Jh. n. Chr.
+	Periode:	200 - 300 
+	Sequenznummer:	3280
+Szene
+	ID:	46659
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	670
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Appartement IV
+Museum
+	Land:	TR
+	Stadt:	Ephèse
+	Name:	Hanghaus 2
+	Rechteinhaber der Fotos:	© Ephesos
+	Hat die Fotorechte:	1

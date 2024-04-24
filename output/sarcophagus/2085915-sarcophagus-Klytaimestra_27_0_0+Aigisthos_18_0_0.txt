@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-747d68b46c58c-b
+Klytaimestra_27_0_0
+Aigisthos_18_0_0
+
+
+
+Monument
+	ID:	15367
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	throne pillar seat, chair, sedes, sedile funerary monument
+	Name:	Aigisthos Elektra I Klytaimestra Orestes
+	Beschreibung:	On the left Orestes and Elektra at the grave of Agamemnon (only Orestes preserved). In the centre, Orestes delivers the false news to Aigisthos. Aigisthos is seated on a throne, surrounded by his men. On the right, Orestes in the background attacking Aigisthos who is seated on a throne, his mantle about his lower body. Klytaimnestra sits next to him. In the foreground, the old nurse and Elektra or a Fury. At the extreme left Pylades. All scenes are separated by pillars.
+	Bibliographie:	Brommer, Denkmälerlisten III 322, 14; Sichtermann, H., AA 1971, 116-117 fig. 18; Sichtermann, H., Ein ungewöhnlicher mythologischer Sarkophag, RM 78, 1971, 181-202 pl. 94, 2. 95.
+Datierung
+	Periode:	200 - 300 
+Epoche
+	Name:	3. Jh. n. Chr.
+	Periode:	200 - 300 
+	Sequenznummer:	3280
+Szene
+	ID:	15860
+	Beschreibung:	On the left Orestes and Elektra at the grave of Agamemnon (only Orestes preserved). In the centre, Orestes delivers the false news to Aigisthos. Aigisthos is seated on a throne, surrounded by his men. On the right, Orestes in the background attacking Aigisthos who is seated on a throne, his mantle about his lower body. Klytaimnestra sits next to him. In the foreground, the old nurse and Elektra or a Fury. At the extreme left Pylades. All scenes are separated by pillars.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Klytaimestra
+	Katalognummer:	27
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aigisthos
+	Katalognummer:	18
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Macchi
+	Rechteinhaber der Fotos:	© Palazzo Macchi, Roma
+	Hat die Fotorechte:	1

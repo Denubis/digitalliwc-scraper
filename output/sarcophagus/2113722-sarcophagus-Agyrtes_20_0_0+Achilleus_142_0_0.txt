@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-760af408a76e7-d
+Agyrtes_20_0_0
+Achilleus_142_0_0
+
+
+
+Monument
+	ID:	43404
+	Entdeckungsort:	Ephesos (Ionia)
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	helmet trumpet, tuba, salpinx
+	Name:	Achilleus Agyrtes
+	Beschreibung:	Fragment.
+	Bibliographie:	SarkRel III 3, 549 no. 42; Giuliano, A., Il commercio dei sarcofagi attici (1962) 48 no. 256.
+Szene
+	ID:	45639
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Agyrtes
+	Katalognummer:	20
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	142
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Michaelis 218
+Museum
+	Land:	GB
+	Stadt:	Oxford
+	Name:	Ashmolean Museum of Art and Archaeology
+	Direktor:	Ms. Katherine Wodehouse, Picture Library Manager
+	Anrede:	Dear Dr. Vickers,
+	Adresse:	Beaumont Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	Ashmolean Museum of Art and Archaeology
+	Stadt des Kontaktzenters:	Oxford OX1 2PH
+	Rechteinhaber der Fotos:	© Ashmolean Museum of Art and Archaeology, Oxford
+	Hat die Fotorechte:	1

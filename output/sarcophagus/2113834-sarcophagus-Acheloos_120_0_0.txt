@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-760c8df1cfd17-a
+Acheloos_120_0_0
+
+
+
+Monument
+	ID:	43519
+	Entdeckungsort:	Orvieto
+	Objekt:	sarcophagus
+	Material:	limestone
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	relief
+	Name:	Acheloos
+	Bibliographie:	SarkRel VII 22 no. 22 fig. 1 pl. 5c; Isler, H. P., Acheloos (1970) no. 45.
+Datierung
+	Periode:	-475 - -450 
+Epoche
+	Name:	2. Viertel 5. Jh. v. Chr.
+	Periode:	-475 - -450 
+	Sequenznummer:	2360
+Szene
+	ID:	45759
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Acheloos
+	Katalognummer:	120
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	5591
+Museum
+	Land:	IT
+	Stadt:	Firenze
+	Name:	Museo Archeologico
+	Direktor:	Soprintendente Dott.ssa Fulvia Lo Schiavo
+	Anrede:	Chiarissimo Soprintendente
+	Adresse:	Via della Pergola 65
+	Postleitzahl:	I-50121
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici della Toscana
+	Stadt des Kontaktzenters:	Firenze
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici della Toscana
+	Hat die Fotorechte:	1

@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-74d981e4df4de-5
+Horai/Horae_46_0_0
+Hypnos/Somnus_36_0_0
+Kairoi/Tempora anni_169a_0_0
+
+
+
+Monument
+	ID:	21870
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Via Flaminia
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Horai/Horae Kairoi/Tempora anni Hypnos/Somnus
+	Beschreibung:	Four female Horae in an almost central position, enclosed in panels, marking the transition between the central circle and the angles. 
+Datierung
+	Periode:	180 - 200 
+Szene
+	ID:	22873
+	Beschreibung:	Four female Horae in an almost central position, enclosed in panels, marking the transition between the central circle and the angles. 
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	46
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	36
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	169a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Grottarossa (Via Flaminia)
+	Name:	Ipogeo (Tomba di Fadilla)
+	Rechteinhaber der Fotos:	© Ipogeo Grottarossa
+	Hat die Fotorechte:	0

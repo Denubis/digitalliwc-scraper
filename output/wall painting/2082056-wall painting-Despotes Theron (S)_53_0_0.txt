@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-74463d152cced-e
+Despotes Theron (S)_53_0_0
+
+
+
+Monument
+	ID:	11481
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Palatine
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Despotes Theron
+	Beschreibung:	Painting in the House of Livia. In the centre a male upper body emerging from a plant. Flanked by eagle-griffins.
+Szene
+	ID:	39625
+	Beschreibung:	In the centre a male upper body emerging from a plant. Flanked by eagle-griffins.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Despotes Theron (S)
+	Katalognummer:	53
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palatino, Casa di Livia
+	Direktor:	Soprintendente Prof. Adriano La Regina
+	Adresse:	Piazza delle Finanze 1
+	Postleitzahl:	I-0015
+	Kontaktzenter:	Soprintendenza alle Antichità
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza alle Antichità, Roma
+	Hat die Fotorechte:	1

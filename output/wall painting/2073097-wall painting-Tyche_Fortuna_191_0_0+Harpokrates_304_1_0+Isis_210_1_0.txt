@@ -1,0 +1,62 @@
+http://ark.dasch.swiss/ark:/72163/080e-73c627e17e3b2-0
+Tyche/Fortuna_191_0_0
+Harpokrates_304_1_0
+Isis_210_1_0
+
+
+
+Monument
+	ID:	2448
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Herkunft:	Italy
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	cornucopia double-axe, bipennis, labrys crescent of the moon candelabrum sistrum horse pallium (outer garment, cloak) globe
+	Name:	Harpokrates Isis Tyche/Fortuna
+	Beschreibung:	Harpokrates mit Strahlenkranz, Tunika, Pallium und Doppelaxt in der Linken reitet auf Isis-Fortuna rechts im Bild zu. Die Göttin ist durch eine Mondsichelkrone gekennzeichnet und trägt ein Sistrum in der Rechten sowie ein Füllhorn in der Linken. Ihren rechten Fuß stellt sie auf einen am Boden liegenden Globus, an dem ein Schwert lehnt. Rechts neben ihr ein kleiner Amor, der einen Kandelaber(?) hält.
+	Bibliographie:	Tran Tam Tinh, V., Essai sur le culte d’Isis à Pompéi (1964) 148 no. 59 Taf. 17 = Le culte d'Isis a Pompei, Paris 1964
+	Kommentar:	bessere Darstellungen von Kandelabern siehe Harpokrates 222, ID28263
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	2467
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/2467X002.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Tyche/Fortuna
+	Katalognummer:	191
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Harpokrates
+	Katalognummer:	304
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Isis
+	Katalognummer:	210
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8836
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

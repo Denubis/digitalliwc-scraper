@@ -1,0 +1,60 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e48934ac7f3-0
+Victoria_302_0_0
+
+
+
+Monument
+	ID:	4583
+	Entdeckungsort:	Tell el Barak
+	Entdeckungsort Details:	Mausoleum
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Victoria
+	Beschreibung:	In the corners a Victoria each with wreath and palm branch, in between Erotes and the busts of Hercules, Mercury and Tritones and heads of Medusa.
+Datierung
+	Periode:	190 - 210 
+Szene
+	ID:	4641
+	Beschreibung:	In the corners a Victoria each with wreath and palm branch, in between Erotes and the busts of Hercules, Mercury and Tritones and heads of Medusa.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/israel/jerusalem/rockefeller_museum/4641X101.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+	Rechteinhaber der Fotos:	Rita Gautschy
+	Hat die Fotorechte:	1
+Foto
+	Neues Foto:	1
+	Rechteinhaber der Fotos:	Rita Gautschy
+	Hat die Fotorechte:	1
+Foto
+	Neues Foto:	1
+	Rechteinhaber der Fotos:	Rita Gautschy
+	Hat die Fotorechte:	1
+Foto
+	Neues Foto:	1
+	Rechteinhaber der Fotos:	Rita Gautschy
+	Hat die Fotorechte:	1
+Catalog LIMC
+	Artikel:	Victoria
+	Katalognummer:	302
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	36.2183
+Museum
+	Land:	IL
+	Stadt:	Jerusalem
+	Name:	Rockefeller Museum
+	Direktor:	Prof. Dr. Gideon Foerster
+	Adresse:	Mount Scopus
+	Postleitzahl:	IL-91905
+	Kontaktzenter:	Head, Institute of Archaeology - The Hebrew University of Jerusalem
+	Stadt des Kontaktzenters:	Jerusalem / Israel
+	Rechteinhaber der Fotos:	© Rockefeller Museum, Jerusalem
+	Hat die Fotorechte:	0

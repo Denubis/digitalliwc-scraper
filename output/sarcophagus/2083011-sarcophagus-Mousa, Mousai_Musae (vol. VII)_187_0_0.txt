@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-7453e44dd52d4-c
+Mousa, Mousai/Musae (vol. VII)_187_0_0
+
+
+
+Monument
+	ID:	12443
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Mousa, Mousai
+Szene
+	ID:	12744
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/vie/12744X301.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/vie/12744X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/vie/12744X303.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/vie/12744X304.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	187
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Via Condotti 11
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Vie
+	Rechteinhaber der Fotos:	© Roma
+	Hat die Fotorechte:	1

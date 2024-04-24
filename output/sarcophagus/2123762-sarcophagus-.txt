@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-769a7d9b4bcff-6
+
+
+
+Monument
+	ID:	200542
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	DE
+	Kategorie:	relief
+	Stichwort:	phiale, phiale mesomphalos, patera garland fillet, taenia, tainia flower tabula ansata guttus, gutus, guturnium, urceus
+	Beschreibung:	Sarkophag des Aemilius Eucharpus (heute in der Via Poli im Eingang des Hauses Nr. 37): Front: neben der Tabula ansata mit Inschrift aufgehängte Girlanden mit Taenien; Auf den Nebenseiten: Patera bzw. Kanne.
+	Inschrift:	Grabinschrift des Aemilius Eucharpus auf der tabula ansata.
+	Bibliographie:	H.Herdejürgen, in: Marburger Winckelmann- Programm 1984 (1984) 7-8 Abb.1-3; CIL VI 4 Nr. 37098; Gatti, G., NSc 1906, 302f., Abb.3; Gatti, G.: BullCom 34,1906,321ff., Taf.11; Koch, G: Bjb 180, 1980, 77, Anm.79; Koch, G.: RS 224, 227, 234, Nr.111.
+	Kommentar:	Die Grabinschrift des Aemilius Eucharpus ist sekundär, der Sarkophag an sich datiert wesentlich früher.
+Datierung
+	Periode:	1 - 100 
+	Kommentar:	Sarkophag
+Epoche
+	Name:	1. Jh. n. Chr.
+	Periode:	1 - 100 
+	Sequenznummer:	3000
+Datierung
+	Periode:	300 - 400 
+	Kommentar:	Inschrift
+Epoche
+	Name:	4. Jh. n. Chr.
+	Periode:	300 - 400 
+	Sequenznummer:	3420
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Via Poli 37
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Vie
+	Rechteinhaber der Fotos:	© Roma
+	Hat die Fotorechte:	1

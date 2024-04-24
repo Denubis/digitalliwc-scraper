@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-7421a3b191aed-1
+Omphale_ad 40_0_0
+
+
+
+Monument
+	ID:	8895
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Omphale
+	Beschreibung:	Head of Omphale and a woman.
+Szene
+	ID:	9098
+	Beschreibung:	Head of Omphale and a woman.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Omphale
+	Katalognummer:	ad 40
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1902.004
+Museum
+	Land:	US
+	Stadt:	Providence
+	Name:	Museum of Art, Rhode Island School of Design
+	Direktor:	Gina Borromeo, Curator 
+	Adresse:	224 Benefit Street
+	Postleitzahl:	USA-
+	Kontaktzenter:	Museum of Art, Rhode Island School of Design
+	Stadt des Kontaktzenters:	Providence, RI 02903
+	Rechteinhaber der Fotos:	Photography by Erik Gould, courtesy of the Museum of Art, Rhode Island School of Design, Providence
+	Hat die Fotorechte:	1

@@ -1,0 +1,67 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a5fd10f2e40-f
+Hesione (S)_53_0_0
+Andromeda I_31_0_0
+Perseus_193_0_0
+Echo_6_1_0
+
+
+
+Monument
+	ID:	153
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	rock, cliff ketos, sea monster fight, battle captive
+	Name:	Andromeda I Nymphe I Perseus Echo Hesione
+	Beschreibung:	In front of the bound Andromeda Perseus is fighting with Ketos in the water. The fleeing nymph on the left may be Echo.
+	Bibliographie:	Helbig, Wandgemälde no. 1184; Reinach, RépPeint 204, 5; Schauenburg, K., Perseus in der Kunst des Altertums (1960) 69 Anm. 456.
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	568
+	Beschreibung:	In front of the bound Andromeda Perseus is fighting with Ketos in the water. The fleeing nymph on the left may be Echo.
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/568X002.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hesione (S)
+	Katalognummer:	53
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Andromeda I
+	Katalognummer:	31
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Perseus
+	Katalognummer:	193
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Echo
+	Katalognummer:	6
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9477
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

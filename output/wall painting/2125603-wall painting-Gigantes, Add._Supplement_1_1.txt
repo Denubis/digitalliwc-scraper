@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-76b4cf83d3ab4-9
+Gigantes, Add._Supplement_1_1
+
+
+
+Monument
+	ID:	202265
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Gigantes
+	Beschreibung:	giants with snake legs in frontal view
+	Bibliographie:	Schaaf, H. / Zelle, M., Reichsadler und  Giganten. Neue Funde römischer aus der Colonia Ulpia Traiana, AntWelt 28, 1997, 519-521 figs. 1-2.
+Szene
+	ID:	99262
+	Beschreibung:	giants with snake legs in frontal view
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Gigantes, Add.
+	Band:	Supplement
+	Asterix:	1
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	DE
+	Stadt:	Xanten
+	Name:	Archäologischer Park Xanten, Römermuseum
+	Direktor:	Landschaftsverband Rheinland
+	Adresse:	Trajanstrasse 4
+	Postleitzahl:	D-46509
+	Kontaktzenter:	-
+	Stadt des Kontaktzenters:	Xanten
+	Rechteinhaber der Fotos:	© Landschaftsverband Rheinland, Archäologischer Park Xanten
+	Hat die Fotorechte:	1

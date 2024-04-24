@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-76282ce7c87d3-4
+Alkestis_54c_0_0
+
+
+
+Monument
+	ID:	45480
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	Podere di Irace
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Admetos II Alkestis
+	Bibliographie:	Schefold, WP 161; Helbig, Wandgemälde no. 1159.
+Szene
+	ID:	47875
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	54c
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9025
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

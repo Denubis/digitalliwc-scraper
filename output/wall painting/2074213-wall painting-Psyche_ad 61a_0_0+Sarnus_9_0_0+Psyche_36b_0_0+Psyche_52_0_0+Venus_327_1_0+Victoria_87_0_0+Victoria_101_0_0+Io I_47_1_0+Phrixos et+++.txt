@@ -1,0 +1,186 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d61c5950a7e-4
+Psyche_ad 61a_0_0
+Sarnus_9_0_0
+Psyche_36b_0_0
+Psyche_52_0_0
+Venus_327_1_0
+Victoria_87_0_0
+Victoria_101_0_0
+Io I_47_1_0
+Phrixos et Helle_8_0_0
+Kalypso_19_0_0
+Achilleus_534_0_0
+Penelope_37_0_0
+Odysseus_218a_1_0
+Eurynome II_1_0_0
+
+
+
+Monument
+	ID:	3571
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 9,7-8 (Macellum)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	base ram shield column spear greaves dolphin door architecture
+	Name:	Achilleus Eurykleia Eurynome II Kalypso Odysseus Penelope Thetys I Phrixos Sarnus Io I Venus Victoria Helle Psyche
+	Beschreibung:	Mural painting showing various mythological scenes.
+	Bibliographie:	Schefold, WP 196-197.
+Datierung
+	Periode:	69 - 79 
+Epoche
+	Name:	vespasianisch
+	Periode:	69 - 79 
+	Sequenznummer:	1185
+Szene
+	ID:	13337
+	Szenerieangabe:	(i)
+	Sequenznummer:	1080
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	ad 61a
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49534
+	Szenerieangabe:	h
+	Beschreibung:	Reclining river-god (Sarnus?) surrounded by nymphs and other figures.
+	Sequenznummer:	1070
+Catalog LIMC
+	Artikel:	Sarnus
+	Katalognummer:	9
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49535
+	Szenerieangabe:	prothyron
+	Sequenznummer:	935
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	36b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	52
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49536
+	Szenerieangabe:	parete ovest
+	Beschreibung:	Floating Victoria with half-figure of Venus.
+	Sequenznummer:	932
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49536X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49536X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49536X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49536X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49536X203.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49536X204.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Venus
+	Katalognummer:	327
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Victoria
+	Katalognummer:	87
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Victoria
+	Katalognummer:	101
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Io I
+	Katalognummer:	47
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	49537
+	Szenerieangabe:	parete nord
+	Beschreibung:	In the background Odysseus and Penelope talking. They are supported by an elderly woman, interpreted either as Eurykleia or as Eurynome (II).
+	Bibliographie:	Helbig, Wandgemälde no. 1257; Reinach, RépPeint 211, 5; Schefold, WP 196-197; Touchefeu, Thèmes odysséens no. 432 fig. 34, 1; Stanford, W. B./Luce, J. V., The Quest for Ulysses (1974) fig. 144; Mactoux, M.-M., Pénélope, légende et mythe (1975) 146 no. 3 fig. 11 pl. 16. 
+	Sequenznummer:	931
+	Name:	Achilleus Eurykleia Eurynome II Kalypso Odysseus Penelope Thetys I Phrixos
+	Stichwort:	base ram shield column spear greaves dolphin door architecture
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49537X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49537X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49537X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49537X204.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49537X206.jpg
+Foto
+	Neues Foto:	1
+Datierung
+	Periode:	69 - 79 
+Catalog LIMC
+	Artikel:	Phrixos et Helle
+	Katalognummer:	8
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kalypso
+	Katalognummer:	19
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	534
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Penelope
+	Katalognummer:	37
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Odysseus
+	Katalognummer:	218a
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eurynome II
+	Katalognummer:	1
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VII 9,7-8
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Macellum

@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-76a641b804952-3
+Narkissos, Add._1_0
+
+
+
+Monument
+	ID:	201719
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Name:	Narkissos
+	Beschreibung:	Fragment. Narkissos looking down to the left
+	Bibliographie:	Koch, G., AA (1993) 418-419 fig. 18.
+Datierung
+	Periode:	284 - 305 
+Epoche
+	Name:	tetrarchisch
+	Periode:	284 - 305 
+	Sequenznummer:	1250
+Szene
+	ID:	98697
+	Beschreibung:	Narkissos looking down to the left
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Narkissos, Add.
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Catacombe di San Sebastiano
+	Direktor:	Dottoressa Barbara Mazzei
+	Adresse:	Via Napoleone III, 1
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Pontificia Commissione di Archeologia Sacra
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Pontificia Commissione di Archeologia Sacra
+	Hat die Fotorechte:	0

@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-747885035105e-c
+Meleagros_129_0_0
+
+
+
+Monument
+	ID:	15024
+	Objekt:	sarcophagus lid
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Meleagros
+	Beschreibung:	Preparation of the meal by six servants after the boar hunt. Servants bringing a cup to the reclining diners: Atalante, the Dioskouroi, Meleagros, and another male figure.
+Datierung
+	Periode:	200 - 250 
+Szene
+	ID:	15500
+	Szenerieangabe:	couvercle
+	Beschreibung:	Preparation of the meal by six servants after the boar hunt. Servants bringing a cup to the reclining diners: Atalante, the Dioskouroi, Meleagros, and another male figure.
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/studio_canova_gia/15500X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	129
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 2, 265
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Studio Canova (già)
+	Rechteinhaber der Fotos:	© Studio Canova (once), Roma
+	Hat die Fotorechte:	0

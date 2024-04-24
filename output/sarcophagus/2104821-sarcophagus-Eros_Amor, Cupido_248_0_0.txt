@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-758bb31b6dc4e-1
+Eros/Amor, Cupido_248_0_0
+
+
+
+Monument
+	ID:	34441
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido
+Szene
+	ID:	36202
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	248
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Trapani
+	Name:	Chiesa San Nicolò Mirense
+	Rechteinhaber der Fotos:	© Trapani
+	Hat die Fotorechte:	0

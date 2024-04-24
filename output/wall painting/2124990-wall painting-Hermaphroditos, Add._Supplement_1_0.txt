@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-76ac0bfc469fb-8
+Hermaphroditos, Add._Supplement_1_0
+
+
+
+Monument
+	ID:	202129
+	Entdeckungsort:	Boscoreale
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Hermaphroditos sitting on an ashlar block, with coat and mitra
+	Bibliographie:	Strocka, V. M., Römische Fresken in der Antikensammlung des Würtembergischen Landesmuseums (1991) 18-19 no. 3 fig. p. 58-59; Oehmke, St., Das Weib im Manne (2004) 135 no. 130. 
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	99123
+	Beschreibung:	Hermaphroditos sitting on an ashlar block, with coat and mitra
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hermaphroditos, Add.
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	83/1c
+Museum
+	Land:	DE
+	Stadt:	Stuttgart
+	Name:	Landesmuseum Württemberg
+	Direktor:	Direktor Prof. Dr. Cornelia Ewigleben
+	Adresse:	Schillerplatz 6
+	Postleitzahl:	D-70173
+	Kontaktzenter:	Landesmuseum Württemberg
+	Stadt des Kontaktzenters:	Stuttgart
+	Rechteinhaber der Fotos:	© Landesmuseum Württemberg
+	Hat die Fotorechte:	1

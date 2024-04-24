@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-761ab54354ced-3
+Amazones_542_0_0
+
+
+
+Monument
+	ID:	44525
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	helmet horse warrior, soldier
+	Beschreibung:	Fragmente.
+	Bibliographie:	Kαλλιπολίτης, B. G., Χρονολογικη κατα ταξις...(1958) no.183; Giuliano, A., Il commercio dei sarcofagi attici (1962) 61 no. 374; Giuliano, A./ Palma, B., La maniera ateniese di età romana, StudMisc 24 (1978) 46 III A Ib no. 3; Scrinari, V.S.M., Museo archeol. di Aquileia. Catalogo delle Sculture Romane (1972) 146 no. 417.
+Datierung
+	Periode:	230 
+Epoche
+	Name:	1. Drittel 3. Jh. n. Chr.
+	Periode:	200 - 233 
+	Sequenznummer:	3380
+Szene
+	ID:	46823
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	542
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	238
+Museum
+	Land:	IT
+	Stadt:	Aquileia
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Soprintendente Dott.ssa Franca Maselli Scotti
+	Adresse:	Piazza della Libertà 72
+	Postleitzahl:	I-34132
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici del Friuli Venezia Giulia
+	Stadt des Kontaktzenters:	Trieste
+	Rechteinhaber der Fotos:	© Polo Museale del Friuli Venezia Giulia
+	Kommentar:	Les objets sans numéro d'inventaire sont cités d'après les numéros des catalogues de Sena Chiesa, G., Gemme del Museo Nazionale di Aquileia (1966)  et de Santa Maria Scrinari, V., Museo Archeologico di Aquileia. Catalogo delle sculture romane (1972).
+	Hat die Fotorechte:	1

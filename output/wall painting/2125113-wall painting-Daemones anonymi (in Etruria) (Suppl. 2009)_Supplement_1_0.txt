@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-76adce27c2fa2-a
+Daemones anonymi (in Etruria) (Suppl. 2009)_Supplement_1_0
+
+
+
+Monument
+	ID:	202074
+	Entdeckungsort:	Tarquinia
+	Entdeckungsort Details:	Tomba del Guerriero
+	Objekt:	wall painting
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	panther, leopard fillet, taenia, tainia demon
+	Beschreibung:	naked flying youth with taenia; to the right a panther
+	Bibliographie:	Steingräber, EtrWmal 337-339 no. 94 fig. 252; Steingräber, St., Etruscan Painting (1985) 313 no. 73 fig. 181; Steingräber, St., Etruskische Wandmalerei (2006) 193 with colour pl.
+Datierung
+	Periode:	-400 - -375 
+Epoche
+	Name:	1. Viertel 4. Jh. v. Chr.
+	Periode:	-400 - -375 
+	Sequenznummer:	2490
+Szene
+	ID:	99062
+	Beschreibung:	naked flying youth with taenia; to the right a panther
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Daemones anonymi (in Etruria) (Suppl. 2009)
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba del Guerriero
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Necropoli
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

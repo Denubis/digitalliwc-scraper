@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-741eaa6e46add-4
+Olympos I_15_1_0
+
+
+
+Monument
+	ID:	8685
+	Entdeckungsort:	Ercolano, Herculaneum, Herculanum
+	Entdeckungsort Details:	Basilica
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Olympos I
+	Beschreibung:	Olympos (I) flutes, Marsyas correcting his technique.
+Szene
+	ID:	8883
+	Beschreibung:	Olympos (I) flutes, Marsyas correcting his technique.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/8883X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Olympos I
+	Katalognummer:	15
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9151
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

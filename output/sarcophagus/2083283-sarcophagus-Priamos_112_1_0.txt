@@ -1,0 +1,51 @@
+http://ark.dasch.swiss/ark:/72163/080e-7457c7cd37424-2
+Priamos_112_1_0
+
+
+
+Monument
+	ID:	12716
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	altar shield fire (on altar) spear
+	Name:	Priamos
+	Beschreibung:	Sur la droite de la scène Neoptolemos retient Priamos par la tête, celui-ci est tombé à genoux devant un autel sur lequel brûle une vive flamme.
+	Bibliographie:	SarkRel II 26 n. 67;Reinach, RépRel III 304, 2;Koch / Sichtermann, RömSark 155.
+Datierung
+	Periode:	100 - 200 
+Epoche
+	Name:	2. Jh. n. Chr.
+	Periode:	100 - 200 
+	Sequenznummer:	3140
+Szene
+	ID:	13025
+	Beschreibung:	Sur la droite de la scène Neoptolemos retient Priamos par la tête, celui-ci est tombé à genoux devant un autel sur lequel brûle une vive flamme.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_mattei_di_giove/13025X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Priamos
+	Katalognummer:	112
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	50
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Mattei di Giove
+	Direktor:	Soprintendente Arch. Costantino Centroni
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Cavalletti 2
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza per i Beni Ambientali Architettonici del Lazio
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Ambientali Architettonici del Lazio
+	Kommentar:	Numéros d'après Guerrini, L. (éd.), Palazzo Mattei di Giove. Le antichità (1982).
+	Hat die Fotorechte:	1

@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-76a9ac706ac3d-c
+Narkissos, Add._0_0
+
+
+
+Monument
+	ID:	201722
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	column spear
+	Name:	Eros Narkissos
+	Beschreibung:	Narkissos sitting on a rock and holding two spears in his right hand; Eros standing aside; in the background a column and a balustrade
+	Bibliographie:	Riscoprire Pompei (Exhib. Rome Nov. 1993-Febr. 1994 (1993) 296-298 fig. 228; Pompei Picta Fragmenta. Decorazione parietali delle città sepolte (Exhib. Torino (1998) (1998) 124 no. 75.
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	98700
+	Beschreibung:	Narkissos sitting on a rock and holding two spears in his right hand; Eros standing aside; in the background a column and a balustrade
+Catalog LIMC
+	Artikel:	Narkissos, Add.
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	17739
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Antiquarium
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via villa dei Misteri 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei (NA)
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

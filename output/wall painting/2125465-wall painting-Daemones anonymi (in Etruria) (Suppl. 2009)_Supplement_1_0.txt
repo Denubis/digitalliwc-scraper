@@ -1,0 +1,53 @@
+http://ark.dasch.swiss/ark:/72163/080e-76b2d67241e82-a
+Daemones anonymi (in Etruria) (Suppl. 2009)_Supplement_1_0
+
+
+
+Monument
+	ID:	202076
+	Entdeckungsort:	Sarteano
+	Entdeckungsort Details:	Tomba della Quadriga Infernale
+	Objekt:	wall painting
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	snake lion quadriga banquet, symposium demon charioteer griffin cupbearer
+	Beschreibung:	snake with three heads; banquet scene with two men and a cupbearer; quadriga with lions and griffins preceeded by a winged demon; female charioteer
+	Bibliographie:	Minetti, A., StEtr 70, 2004 (2005) 135-159 pl. 25-32; Steingräber EtrWmal 216-218 with pl.; Prayon, F., Die Etrusker. Jenseitsvorstellungen und Ahnenkult (2006) 81-83 fig. 84.
+Datierung
+	Periode:	-320 - -300 
+Epoche
+	Name:	4. Viertel 4. Jh. v. Chr.
+	Periode:	-325 - -300 
+	Sequenznummer:	2520
+Szene
+	ID:	99064
+	Beschreibung:	snake with three heads; banquet scene with two men and a cupbearer; quadriga with lions and griffins preceeded by a winged demon; female charioteer
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	40
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VIII. Tiere und Pflanzen, etr.
+	Bandnummer:	8
+Catalog LIMC
+	Artikel:	Daemones anonymi (in Etruria) (Suppl. 2009)
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Sarteano
+	Name:	Tomba della Quadriga Infernale
+	Direktor:	Soprintendente Dott.ssa Fulvia Lo Schiavo
+	Adresse:	Via della Pergola 65
+	Postleitzahl:	I-50121
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici della Toscana
+	Stadt des Kontaktzenters:	Firenze
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici della Toscana
+	Hat die Fotorechte:	1

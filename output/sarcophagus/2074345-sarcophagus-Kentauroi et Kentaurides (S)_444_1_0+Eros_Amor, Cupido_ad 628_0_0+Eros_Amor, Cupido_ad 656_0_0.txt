@@ -1,0 +1,57 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d7ff7540412-1
+Kentauroi et Kentaurides (S)_444_1_0
+Eros/Amor, Cupido_ad 628_0_0
+Eros/Amor, Cupido_ad 656_0_0
+
+
+
+Monument
+	ID:	3704
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief_stone
+	Name:	Eros/Amor, Cupido Kentauroi and Kentaurides
+	Beschreibung:	Left minor side: Centaur with krater, gesticulating.
+Szene
+	ID:	3744
+	Beschreibung:	Left minor side: Centaur with krater, gesticulating.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/3744X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/3744X303.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	444
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 628
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 656
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	10425
+Museum
+	Land:	VA
+	Stadt:	Vaticano
+	Name:	Musei Vaticani
+	Direktor:	Direttore Dott. Antonio Paolucci
+	Anrede:	Chiarissimo Direttore,
+	Postleitzahl:	I-00120
+	Kontaktzenter:	Monumenti, Musei e Gallerie Pontificie
+	Stadt des Kontaktzenters:	Città del Vaticano
+	Rechteinhaber der Fotos:	© Musei Vaticani
+	Kommentar:	Sont réunis sous cette dénomination générique - compte tenu à la fois de leur numérotation unique et de leurs déplacements à l'intérieur des musées - les monuments conservés dans le Museo Chiaramonti, le Museo Gregoriano Etrusco, le Museo Gregoriano Profano, le Museo Pio Clementino et le Museo Pio Cristiano.  En revanche, la localisation spécifique a été conservée dans les cas suivants: Basilica San Pietro, Biblioteca Apostolica Vaticana (et Museo Profano, Museo Sacro, Sala delle Nozze Aldobrandine), Camposanto Teutonico, Giardini, Medagliere Vaticano, Museo Gregoriano Egizio, Necropoli sotto San Pietro.
+	Hat die Fotorechte:	0

@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-74fc3bd57b30f-e
+Hermaphroditos_89_0_0
+Apollon/Apollo_287a_0_0
+
+
+
+Monument
+	ID:	24318
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Apollon/Apollo Hermaphroditos
+	Beschreibung:	Apollon or Hermaphroditos?
+Szene
+	ID:	25519
+	Beschreibung:	Apollon or Hermaphroditos?
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Hermaphroditos
+	Katalognummer:	89
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	287a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	214
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Barracco
+	Direktor:	Dirigente Dott. Claudio Parisi Presicce
+	Adresse:	Via delle Tre Pile 1
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza ai Beni Culturali del Comune di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza ai Beni Culturali del Comune di Roma
+	Hat die Fotorechte:	1

@@ -1,0 +1,48 @@
+http://ark.dasch.swiss/ark:/72163/080e-74f7631f30f30-a
+Kairoi/Tempora anni_116_0_0
+
+
+
+Monument
+	ID:	23976
+	Entdeckungsort:	Ostia
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Kairoi/Tempora anni
+	Beschreibung:	Dancing nude male figure holding mantle and goatling - probably a depiction of the season Spring. 
+Datierung
+	Periode:	200 - 220 
+Szene
+	ID:	25156
+	Beschreibung:	Dancing nude male figure holding mantle and goatling - probably a depiction of the season Spring. 
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/25156X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/25156X299.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	116
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	IV, II, 6
+Museum
+	Land:	IT
+	Stadt:	Ostia
+	Direktor:	Dott.ssa Elvira Angeloni, Archivio Fotografico
+	Adresse:	Viale dei Romagnoli 717
+	Postleitzahl:	I-00119
+	Kontaktzenter:	Soprintendenza archeologica di Ostia
+	Stadt des Kontaktzenters:	Ostia Antica - Roma
+	Rechteinhaber der Fotos:	© Soprintendenza archeologica di Ostia
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Caupona del Pavone

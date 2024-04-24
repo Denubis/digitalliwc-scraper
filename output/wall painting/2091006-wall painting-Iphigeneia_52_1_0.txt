@@ -1,0 +1,56 @@
+http://ark.dasch.swiss/ark:/72163/080e-74c631586823b-e
+Iphigeneia_52_1_0
+
+
+
+Monument
+	ID:	20509
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	House of L. Caecilius Secundus
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	tripod column temple basket sanctuary capital: Doric architrave
+	Name:	Iphigeneia Orestes Pylades
+	Beschreibung:	Iphigeneia steht mit drei Dienerinnen zwischen den Säulen eines Heiligtums (Ansicht von schräg unten, sichtbar sind drei dorische Säulen auf einem Podium, Architrav und Kassettendecke). Vor dem Tempel Orestes und Pylades und ein Dreifuß, darauf eventuell ein Korb mit Henkeln (?).
+	Bibliographie:	Bariello, M. R. e.a. (ed.), Le Collezioni del Mus. Naz. di Napoli (1986) Nr. 87.
+	Kommentar:	nradZur Darstellung vgl. auch LIMC V Iason 3* und 4*.
+Datierung
+	Periode:	40 - 50 
+Epoche
+	Name:	1. Hälfte 1. Jh. n. Chr.
+	Periode:	1 - 50 
+	Sequenznummer:	3040
+Szene
+	ID:	21420
+	Beschreibung:	Iphigeneia steht mit drei Dienerinnen zwischen den Säulen eines Heiligtums (Ansicht von schräg unten, sichtbar sind drei dorische Säulen auf einem Podium, Architrav und Kassettendecke). Vor dem Tempel Orestes und Pylades und ein Dreifuß, darauf eventuell ein Korb mit Henkeln (?).
+	Sequenznummer:	1
+Catalog Thes CRA
+	Indexnummer:	191
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Catalog LIMC
+	Artikel:	Iphigeneia
+	Katalognummer:	52
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	111439
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

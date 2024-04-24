@@ -1,0 +1,89 @@
+http://ark.dasch.swiss/ark:/72163/080e-7478b0ee9559a-0
+Meleagros_157_0_0
+Artemis/Diana_359_1_0
+Atalante_45_0_0
+Omphale_ad 8_0_0
+Meilanion_p. 405_0_0
+Aineias_209_0_0
+
+
+
+Monument
+	ID:	15036
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 15,6
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Adonis Aineias Aphrodite Artemis/Diana Atalante Dido Endymion Meilanion, Melanion Meleagros Omphale Selene
+	Beschreibung:	Atalante wearing a long dress and quiver, caresses the chin of a nearly naked youth seated beside her, wearing a sword and with a spear. Eros, with a bow, leans on her knee and another Eros is at the youth's shoulder. Omphale and Herakles.
+	Bibliographie:	Schefold, WP 151; Rumpf, A., in: Neue Beiträge zur klassischen Altertumswissenschaft. Festschrift Schweitzer (1954) 341-344; Galinsky, G. K., Aeneas, Sicily and Rome (1969) fig. 26.
+Datierung
+	Periode:	69 - 96 
+Epoche
+	Name:	flavisch
+	Periode:	69 - 96 
+	Sequenznummer:	1180
+Szene
+	ID:	15512
+	Beschreibung:	Atalante wearing a long dress and quiver, caresses the chin of a nearly naked youth seated beside her, wearing a sword and with a spear. Eros, with a bow, leans on her knee and another Eros is at the youth's shoulder. Omphale and Herakles.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/15512X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/15512X203.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/15512X204.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	157
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	359
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Atalante
+	Katalognummer:	45
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Omphale
+	Katalognummer:	ad 8
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Meilanion
+	Katalognummer:	p. 405
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aineias
+	Katalognummer:	209
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VI 15,6
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa del Forno di ferro

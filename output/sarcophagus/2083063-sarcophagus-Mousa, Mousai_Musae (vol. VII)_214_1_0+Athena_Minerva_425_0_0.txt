@@ -1,0 +1,49 @@
+http://ark.dasch.swiss/ark:/72163/080e-7454a29ea7ed8-b
+Mousa, Mousai/Musae (vol. VII)_214_1_0
+Athena/Minerva_425_0_0
+
+
+
+Monument
+	ID:	12495
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Athena/Minerva Mousa, Mousai Mercurius
+	Beschreibung:	Sarcophagus with the nine Mousai, at the centre Mercurius with the defunct, to their right Minerva.
+Szene
+	ID:	12796
+	Beschreibung:	Sarcophagus with the nine Mousai, at the centre Mercurius with the defunct, to their right Minerva.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/lansdowne_house_once/12796X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/lansdowne_house_once/12796X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/lansdowne_house_once/12796X004.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	214
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	425
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Michaelis 75
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	Lansdowne House (once)
+	Rechteinhaber der Fotos:	© Lansdowne House (once)
+	Hat die Fotorechte:	1

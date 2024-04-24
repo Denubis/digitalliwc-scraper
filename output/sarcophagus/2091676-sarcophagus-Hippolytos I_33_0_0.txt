@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-74cfc57d79bd1-a
+Hippolytos I_33_0_0
+
+
+
+Monument
+	ID:	21182
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hippolytos I
+Szene
+	ID:	22121
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/woburn_abbey_bedfordshire/woburn_abbey_art_gallery/22121X301.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	33
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Cat. 64 (Michaelis 58)
+Museum
+	Land:	GB
+	Stadt:	Woburn Abbey (Bedfordshire)
+	Name:	Woburn Abbey Art Gallery
+	Rechteinhaber der Fotos:	© Woburn Abbey Art Gallery
+	Kommentar:	Numéros d'après Angelicoussis, E., The Woburn Abbey Collection of Classical Antiquities (1992); les numéros entre parenthèses sont ceux de Michaelis, A., Ancient Marbles in Great Britain (1882).
+	Hat die Fotorechte:	1

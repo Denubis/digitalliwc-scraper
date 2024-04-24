@@ -1,0 +1,31 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d5de215a869-d
+Kentauroi et Kentaurides (S)_404c_0_0
+
+
+
+Monument
+	ID:	3554
+	Entdeckungsort:	Kyrene
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kentauroi and Kentaurides
+	Beschreibung:	Several scenes of centaurs fighting Lapiths.
+Szene
+	ID:	3589
+	Beschreibung:	Several scenes of centaurs fighting Lapiths.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	404c
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	LY
+	Stadt:	Cyrène
+	Name:	Musée des Antiquités
+	Rechteinhaber der Fotos:	© Musée des Antiquités, Cyrène
+	Hat die Fotorechte:	1

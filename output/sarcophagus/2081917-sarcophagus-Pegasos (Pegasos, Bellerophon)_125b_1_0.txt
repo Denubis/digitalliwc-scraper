@@ -1,0 +1,52 @@
+http://ark.dasch.swiss/ark:/72163/080e-7444405aaaaf6-1
+Pegasos (Pegasos, Bellerophon)_125b_1_0
+
+
+
+Monument
+	ID:	11341
+	Entdeckungsort:	Patras, Patrai, Patrae, Colonia Augusta Aroe Patrensis (Achaia)
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Anaphe
+	Land:	GR
+	Kategorie:	relief
+	Stichwort:	lyre helmet shield torch pipe, flute, aulos, tibiae eagle sphinx
+	Name:	Chimaira Eros/Amor, Cupido Pegasos Bellerophon
+	Grössenangabe:	-
+	Beschreibung:	Eρωτιδείς, Σφίγξ - Σφίγγες, Bελλεροφόντης, Πήγασος, Xίμαιρα.
+	Bibliographie:	AZ (1872) 36.Ross, Kunst-blott (1836) 78.ArchEph (1930) 85 Eικ. 14.Hiller, St., Bellerophon. Ein griechischer Mythos in der römische Kunst (1970) 105,4 Taf. 17.Sichterman, H., in G. Koch (ed.), Grabeskunst der römischen Kaiserzeit (1993) 51ff. no. 6 Pl. 23,2.
+	Kommentar:	3908
+Szene
+	ID:	11616
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/athens/national_archaeological_museum/11616X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Pegasos (Pegasos, Bellerophon)
+	Katalognummer:	125b
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	96338
+	Szenerieangabe:	B
+	Beschreibung:	M·ÎÚ¿ ?ÏÂ?Ú¿: ™Ê›ÁÁÂ˜ ÂÎ·Ù€ÚˆiÂÓ ·ÂÙÔ‡. ™ÙÂÓ‹ ?ÏÂ?Ú¿: BÂÏÏÂÚÔÊ?ÓÙË˜ Î·Ù' ÂÓÒ?ÈÔÓ, Á?ÌÓ?˜, ÛÙÚ€ÊÂÈ ÙËÓ ÎÂÊ·Ï‹ ?ÚÔ˜ ·ÚÈÛÙÂÚ¿ (?ÂÚÈÎÂÊ·Ï·›·), ÎÚ·Ù¿ ÌÂ ÙÔ ·ÚÈÛÙÂÚ? ¯€ÚÈ ÙËÓ ·Û?›‰· Î·È ÂÎÙÂ›ÓÂÈ ÙÔ ‰ÂÍÈ? ¯€ÚÈ ÛÙË ¯·›ÙË ÙÔ? ¶ËÁ¿ÛÔ?. B·›ÓÂÈ ÛÙÔ ·ÚÈÛÙÂÚ? Ï?ÁÈÛÌ€ÓÔ ??‰È. ¶‹Á·ÛÔ˜ ?ÚÔ˜ ·ÚÈÛÙÂÚ¿, ÛÂ Î·Ï?·ÛÌ?. X›Ì·ÈÚ· Î¿Ùˆ ·ÚÈÛÙÂÚ¿, ?ÚÔ˜ ·ÚÈÛÙÂÚ¿, ÎÂÊ·Ï‹ ?Ô? ÛÙÚ€ÊÂÙ·È ?ÚÔ˜ ‰ÂÍÈ¿ Î·È ?›Ûˆ.
+	Sequenznummer:	10
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1181
+Museum
+	Land:	GR
+	Stadt:	Athens
+	Name:	National Archaeological Museum
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Anrede:	Dear Director,
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© National Archaeological Museum, Athens
+	Kommentar:	Pour les intailles de la collection Karapanos voir Musée Numismatique.  Inv. VS = ancienne collection Vlastos-Serpieri.
+	Hat die Fotorechte:	1

@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-7645c89843486-6
+
+
+
+Monument
+	ID:	50819
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	relief
+	Beschreibung:	Participants of a symposion holding a patera
+	Bibliographie:	Sprenger, M. / Bartolini, G. / Hirmer, M. et alii, Die Etrusker (1977) 160 s. tav. 267; Haynes, S., Etruscan Civilisation. A Cultural History (2000) 380 s. fig. 296-297.
+Datierung
+	Periode:	-200 - -100 
+Epoche
+	Name:	2. Jh. v. Chr.
+	Periode:	-200 - -100 
+	Sequenznummer:	2710
+Szene
+	ID:	55980
+	Beschreibung:	Participants of a symposion holding a patera
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	42
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 2.b. Libation
+	Sequenznummer:	300
+	Bandnummer:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Perugia
+	Name:	Antiquarium Ipogeo dei Volumni
+	Rechteinhaber der Fotos:	© Antiquarium Ipogeo dei Volumni, Perugia
+	Hat die Fotorechte:	1

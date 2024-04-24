@@ -1,0 +1,88 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a8bf6e287c5-c
+Latmos (S)_3_0_0
+Endymion_46_1_0
+Hypnos/Somnus_84_0_0
+Priapos (S)_65_0_0
+Eros/Amor, Cupido_14_0_0
+Eros/Amor, Cupido_368_0_0
+
+
+
+Monument
+	ID:	358
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Endymion Hypnos/Somnus Latmos Eros/Amor, Cupido Priapos
+	Beschreibung:	Half-nude Latmos sitting left of Selene, holding wreath of flowers. Overturned herm of Priapos.
+	Monument-URL:	arachne.dainst.org/entity/1076203
+Szene
+	ID:	4872
+	Beschreibung:	Half-nude Latmos sitting left of Selene, holding wreath of flowers. Overturned herm of Priapos.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4872X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4872X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4872X303.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4872X304.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4872X305.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4872X306.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Latmos (S)
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	46
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	84
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Priapos (S)
+	Katalognummer:	65
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	14
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	368
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	325
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Musei Capitolini
+	Direktor:	Dirigente Dott. Claudio Parisi Presicce
+	Adresse:	Via delle Tre Pile, 1
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Sovraintendenza ai Beni Culturali                     del Comune di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Archivio fotografico Musei Capitolini
+	Hat die Fotorechte:	1

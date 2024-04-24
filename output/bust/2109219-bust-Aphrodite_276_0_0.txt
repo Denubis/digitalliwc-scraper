@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-75ca936cbfab4-8
+Aphrodite_276_0_0
+
+
+
+Monument
+	ID:	38870
+	Entdeckungsort:	Pompei
+	Objekt:	bust
+	Material:	marble
+	Land:	CH
+	Kategorie:	sculpture in the round
+	Name:	Aphrodite
+	Bibliographie:	Elia, O., BollArte 25, 1931, 205-213 fig. 1-2. 4.
+Datierung
+	Periode:	-150 - -50 
+Epoche
+	Name:	späthellenistisch
+	Periode:	-150 - -50 
+	Sequenznummer:	1070
+Szene
+	ID:	40889
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Aphrodite
+	Katalognummer:	276
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	6542
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

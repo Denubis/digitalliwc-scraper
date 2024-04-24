@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-74541edcdaf24-5
+Mousa, Mousai/Musae (vol. VII)_195_0_0
+
+
+
+Monument
+	ID:	12459
+	Entdeckungsort:	Aphrodisias, Geyre, Lelegonopolis, Megalopolis, Ninoe, Stavropolis, Caria
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Mousa, Mousai
+Szene
+	ID:	12760
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	195
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	TR
+	Stadt:	Aphrodisias
+	Name:	Musée
+	Direktor:	Prof. R. R. R. Smith
+	Adresse:	Beaumont Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	Ashmolean Museum of Art and Archaeology
+	Stadt des Kontaktzenters:	Oxford OX1 2PH
+	Rechteinhaber der Fotos:	© Phot. New York University, Aphrodisias Excavations
+	Hat die Fotorechte:	1

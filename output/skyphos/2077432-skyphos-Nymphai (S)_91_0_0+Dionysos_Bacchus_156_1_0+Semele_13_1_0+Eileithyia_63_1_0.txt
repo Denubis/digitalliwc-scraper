@@ -1,0 +1,67 @@
+http://ark.dasch.swiss/ark:/72163/080e-7404219fa969d-f
+Nymphai (S)_91_0_0
+Dionysos/Bacchus_156_1_0
+Semele_13_1_0
+Eileithyia_63_1_0
+
+
+
+Monument
+	ID:	6814
+	Entdeckungsort:	Pompei
+	Objekt:	skyphos
+	Material:	silver
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief vase
+	Name:	Dionysos/Bacchus Eileithyia Semele Nymphai
+	Beschreibung:	Silver skyphos from the House of Menander in Pompeji: A: Semele, lying towards the right, is being helped by an old nurse. A woman gesticulates violently in front of her, possibly Eileithyia or Harmonia. Thanatos; B: three nymphs washing the baby Bacchus, assisted by a silen.
+Szene
+	ID:	6957
+	Beschreibung:	Silver skyphos from the House of Menander in Pompeji: A: Semele, lying towards the right, is being helped by an old nurse. A woman gesticulates violently in front of her, possibly Eileithyia or Harmonia. Thanatos; B: three nymphs washing the baby Bacchus, assisted by a silen.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/6957X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/6957X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/6957X203.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Nymphai (S)
+	Katalognummer:	91
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	156
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Semele
+	Katalognummer:	13
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eileithyia
+	Katalognummer:	63
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	145508
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

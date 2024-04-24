@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-76707cc4c861d-8
+
+
+
+Monument
+	ID:	54011
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Dans une structure architecturale à trois ailes, au centre, statue de Ménade, thyrse dans la droite baissée, tympanon au bras g.; à g., une femme se penche sur une cor- beille d’où elle extrait des fleurs; à droite une femme couronnée, dans la même position, soulève un objet non identifié.
+Szene
+	ID:	59424
+	Szenerieangabe:	(i)
+	Beschreibung:	Dans une structure architecturale à trois ailes, au centre, statue de Ménade, thyrse dans la droite baissée, tympanon au bras g.; à g., une femme se penche sur une cor- beille d’où elle extrait des fleurs; à droite une femme couronnée, dans la même position, soulève un objet non identifié.
+Catalog Thes CRA
+	Indexnummer:	347
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 5. Kultbilder
+	Sequenznummer:	1800
+	Bandnummer:	2
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	IX 5,6.17
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1

@@ -1,0 +1,57 @@
+http://ark.dasch.swiss/ark:/72163/080e-74b4adf23e68e-5
+Narkissos_16_1_0
+
+
+
+Monument
+	ID:	19278
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Via Prenestina
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Narkissos
+	Beschreibung:	Narkissos at the spring.
+Szene
+	ID:	20167
+	Beschreibung:	Narkissos at the spring.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/20167X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/20167X301.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/20167X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/20167X303.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/20167X305.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Narkissos
+	Katalognummer:	16
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	124741
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Romano
+	Direktor:	Soprintendente Dott. Giuseppe Proietti
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali - Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-76a83e7286b49-0
+Achilleus, Add._1_0
+Achilleus, Add._1_0
+
+
+
+Monument
+	ID:	201860
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	corpse biga
+	Name:	Achilleus Hektor Lykomedes I Odysseus Skyros Deidameia II
+	Beschreibung:	Achilleus in Skyros: Achilleus in female clothes but armed; Deidameia tries to hold him back; Odysseus, Lykomedes and several of his daughters are depicted as well; Achilleus mounting his biga and standing with one of his feet on the corps of Hektor
+	Bibliographie:	GettyMusJ 24, 1996, 88 no. 3 with fig; Rogge, S., Die attischen Sarkophage, 1. Achill und Hippolytos, SarkRel IX 1, 1 (1995) 52. 70. 104; The J. Paul Getty Mus. Handbook of the Antiquities Coll. (2002) 168 with fig.
+	Museums-URL:	http://www.getty.edu/art/collection/objects/28185/unknown-maker-made-in-an-attic-workshop-sarcophagus-with-lid-and-4-unjoined-fragments-roman-180-220/
+Datierung
+	Periode:	180 - 220 
+Szene
+	ID:	98841
+	Beschreibung:	Achilleus in Skyros: Achilleus in female clothes but armed; Deidameia tries to hold him back; Odysseus, Lykomedes and several of his daughters are depicted as well; Achilleus mounting his biga and standing with one of his feet on the corps of Hektor
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Achilleus, Add.
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus, Add.
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	95.AA.80
+Museum
+	Land:	US
+	Stadt:	Malibu
+	Name:	J. Paul Getty Museum
+	Direktor:	Dr. Jackie Burns
+	Adresse:	1200 Getty Center Drive Suite 1000
+	Postleitzahl:	USA-
+	E-Mail:	jburns@getty.edu
+	Kontaktzenter:	Registrars Office, J. Paul Getty Museum
+	Stadt des Kontaktzenters:	Los Angeles, CA 90049
+	Rechteinhaber der Fotos:	© J. Paul Getty Museum
+	Hat die Fotorechte:	1

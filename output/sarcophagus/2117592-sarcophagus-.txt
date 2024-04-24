@@ -1,0 +1,53 @@
+http://ark.dasch.swiss/ark:/72163/080e-764247ea3aefd-f
+
+
+
+Monument
+	ID:	50567
+	Entdeckungsort:	Tarquinia
+	Objekt:	sarcophagus
+	Material:	nenfro
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	relief
+	Beschreibung:	Funerary procession: horn carried by a man following the lictors
+	Bibliographie:	Herbig, R., Jüngeretruskischen Steinsarkophagen (1952) 38 no. 66 pl. 80a.
+	Museums-URL:	http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=673051&partId=1&searchText=d25&from=bc&fromDate=800&to=ad&toDate=400&page=1
+Szene
+	ID:	55721
+	Beschreibung:	Funerary procession: horn carried by a man following the lictors
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	8
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	13
+	Name:	II. 4.c. Musik, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	1700
+	Bandnummer:	2
+Catalog Thes CRA
+	Indexnummer:	71
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 1. Prozessionen, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	90
+	Bandnummer:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	D 25-26
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	British Museum
+	Direktor:	Dr. Charles Arnold
+	Adresse:	Great Russell Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	British Museum - Greek and Roman Antiquities
+	Stadt des Kontaktzenters:	London WC 1B 3DG
+	Rechteinhaber der Fotos:	© British Museum, London
+	Hat die Fotorechte:	1

@@ -1,0 +1,87 @@
+http://ark.dasch.swiss/ark:/72163/080e-749e1e98a563c-a
+Galateia (vol. V)_19_0_0
+Hesperides_67_0_0
+Mercurius_311_0_1
+Io I_38_0_0
+Dirke_17_0_0
+Perseus_130_0_1
+Gorgones Romanae_193_0_0
+
+
+
+Monument
+	ID:	17683
+	Entdeckungsort:	Ercolano, Herculaneum, Herculanum
+	Entdeckungsort Details:	Casa di Perseo e Medusa
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Gorgo, Gorgones Hesperides Galateia Dirke Io I Perseus Mercurius
+	Beschreibung:	Mural painting with various scenes.
+Szene
+	ID:	48841
+	Szenerieangabe:	paesaggio
+	Beschreibung:	Herakles and three Hesperides. Polyphemos and Galateia on a dolphin.
+	Sequenznummer:	87
+Catalog LIMC
+	Artikel:	Galateia (vol. V)
+	Katalognummer:	19
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hesperides
+	Katalognummer:	67
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	48842
+	Szenerieangabe:	oecus
+	Beschreibung:	Mercurius killing Argus to free Io.
+	Sequenznummer:	65
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	311
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Io I
+	Katalognummer:	38
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	48843
+	Szenerieangabe:	terrazza
+	Beschreibung:	Medusa as a kneeling young lady. Perseus and Medusa.
+	Sequenznummer:	88
+Catalog LIMC
+	Artikel:	Dirke
+	Katalognummer:	17
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Perseus
+	Katalognummer:	130
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Gorgones Romanae
+	Katalognummer:	193
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Casa d'Argo
+Museum
+	Land:	IT
+	Stadt:	Ercolano
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	II 2

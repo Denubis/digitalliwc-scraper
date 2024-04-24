@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-749f1b216e455-3
+Nyx_7_0_0
+Endymion_69_1_0
+
+
+
+Monument
+	ID:	17754
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Endymion Nyx
+	Beschreibung:	On the right Endymion reclining on the ground. Behind him the winged Nyx, flying towards the right, pouring a sleeping potion over him. On the left a shepherd with his sheep. Aura following and Selene descending from her chariot.
+Szene
+	ID:	18504
+	Beschreibung:	On the right Endymion reclining on the ground. Behind him the winged Nyx, flying towards the right, pouring a sleeping potion over him. On the left a shepherd with his sheep. Aura following and Selene descending from her chariot.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/18504X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/18504X102.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Nyx
+	Katalognummer:	7
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	69
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	111070
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

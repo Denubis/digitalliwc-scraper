@@ -1,0 +1,55 @@
+http://ark.dasch.swiss/ark:/72163/080e-74c759cc75590-a
+Iphigeneia_82_1_0
+
+
+
+Monument
+	ID:	20589
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	altar tree garland cult image, cult statue priestess ship, boat pedestal, socle
+	Name:	Iphigeneia
+	Beschreibung:	Quatre scènes, de dr. à g.: 1) reconnaissance entre Iphigeneia et Orestes; 2) Orestes et Pylades sont conduits vers un autel où les attend Iphigeneia. Derrière l’autel est figurée la statuette d’Artemis sur un socle. A l’arrière-plan un arbre auquel est suspendue une tête tranchée. 3) Combat sur le rivage: un guerrier Taure gît à même le sol; Iphigeneia, la statuette sur l’épaule, s’apprête à embarquer avec l’aide d’Orestes ou de Pylades.
+	Bibliographie:	Robert, SarkRel II n. 172; Weitzmann, K., AntK 7, 1964, 42-47 fig. 1 pl. 12, 1; Parra, M. C., “Tre marmi antichi a Livorno (e i sarcofagi di Ifigenia in Tauride)”, Prospettiva 13, 1978, 55 fig. 15.
+Datierung
+	Periode:	150 - 200 
+Epoche
+	Name:	2. Hälfte 2. Jh. n. Chr.
+	Periode:	150 - 200 
+	Sequenznummer:	3190
+Szene
+	ID:	21502
+	Beschreibung:	Quatre scènes, de dr. à g.: 1) reconnaissance entre Iphigeneia et Orestes; 2) Orestes et Pylades sont conduits vers un autel où les attend Iphigeneia. Derrière l’autel est figurée la statuette d’Artemis sur un socle. A l’arrière-plan un arbre auquel est suspendue une tête tranchée. 3) Combat sur le rivage: un guerrier Taure gît à même le sol; Iphigeneia, la statuette sur l’épaule, s’apprête à embarquer avec l’aide d’Orestes ou de Pylades.
+	Sequenznummer:	10
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	650
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 5. Kultbilder
+	Sequenznummer:	1800
+	Bandnummer:	2
+Catalog LIMC
+	Artikel:	Iphigeneia
+	Katalognummer:	82
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	G 1744
+Museum
+	Land:	DE
+	Stadt:	Weimar
+	Name:	Stiftung Weimarer Klassik und Kunstsammlungen, Schlossmuseum
+	Direktor:	Dir. Dr. Thomas Föhl
+	Adresse:	Burgplatz 4
+	Postleitzahl:	D-99423
+	Kontaktzenter:	Stiftung Weimarer Klassik und Kunstsammlungen
+	Stadt des Kontaktzenters:	Weimar
+	Rechteinhaber der Fotos:	© Stiftung Weimarer Klassik und Kunstsammlungen
+	Hat die Fotorechte:	0

@@ -1,0 +1,195 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d602babe21b-4
+Pygmaioi_23_1_0
+Leda_70_1_0
+Achilleus_471_0_0
+Ganymedes_139_0_0
+Danae_34_0_0
+Venus_318_1_0
+Kyparissos_3_0_0
+Apollon/Apollo_273_0_0
+Apollon/Apollo_458_0_0
+Danae_65_0_0
+Daphne_10_0_0
+Apollon/Apollo_444c_1_0
+Daphne_41_0_0
+Adonis_22_0_0
+Eros/Amor, Cupido_55_0_0
+
+
+
+Monument
+	ID:	3564
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 4,31.51 (Casa dei Capitelli colorati / Casa di Arianna)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	wreath, crown, stephane, corona swan basket seat, chair, sedes, sedile
+	Name:	Achilleus Adonis Aphrodite Eros Leda Patroklos Apollon/Apollo Kyparissos Danae Eros/Amor, Cupido Ganymedes Venus Pygmaioi
+	Beschreibung:	Mural painting (destroyed).
+	Bibliographie:	Schefold, WP 181-185; Schefold, K., Vergessenes Pompeji (1962) pl. 159, 2.
+	Monument-URL:	http://www.limc-france.fr/objet/14742
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	13586
+	Szenerieangabe:	m
+	Sequenznummer:	1120
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/13586X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/13586X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/13586X299.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Pygmaioi
+	Katalognummer:	23
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	17339
+	Szenerieangabe:	f
+	Bibliographie:	Schefold, WP 183-184; Helbig, Wandgemälde no. 144; Reinach, RépPeint 17, 6. 167, 6; Schefold, VergP 160 pl. 166.
+	Sequenznummer:	1050
+	Name:	Achilleus Leda Patroklos
+	Stichwort:	swan basket seat, chair, sedes, sedile
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/17339X203.jpg
+Foto
+	Neues Foto:	1
+Datierung
+	Periode:	45 - 79 
+Catalog LIMC
+	Artikel:	Leda
+	Katalognummer:	70
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	471
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	32240
+	Szenerieangabe:	c
+	Beschreibung:	Kyparissos seated, holding two spears. Apollon standing next to him. In front of them the wounded stag. Venus on a maritime monster, accompanied by Amores.
+	Sequenznummer:	1020
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/32240X006.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Ganymedes
+	Katalognummer:	139
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Danae
+	Katalognummer:	34
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Venus
+	Katalognummer:	318
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kyparissos
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	273
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	458
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	35450
+	Szenerieangabe:	k
+	Sequenznummer:	1100
+Catalog LIMC
+	Artikel:	Danae
+	Katalognummer:	65
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	35474
+	Szenerieangabe:	(b)
+	Beschreibung:	Daphne pursued by Apollon: Daphne seated on the right, naked but for a himation round her legs, a laurel sprig growing from her head. Apollon on the left lifts Daphne's cloak, leaning on a kithara, half-naked, wearing wreath and quiver.
+	Sequenznummer:	1010
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/35474X201.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/35474X202.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Daphne
+	Katalognummer:	10
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	444c
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	35518
+	Szenerieangabe:	e
+	Sequenznummer:	1040
+Catalog LIMC
+	Artikel:	Daphne
+	Katalognummer:	41
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49443
+	Szenerieangabe:	h
+	Bibliographie:	Schefold, K., Vergessenes Pompeji (1962) pl. 159, 2.
+	Sequenznummer:	1070
+	Name:	Adonis Aphrodite Eros
+Catalog LIMC
+	Artikel:	Adonis
+	Katalognummer:	22
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	55
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VII 4,51.31
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa dei Capitelli colorati
+Inventar
+	Spezifikation:	3. Inv.
+	Nummer:	Casa di Arianna

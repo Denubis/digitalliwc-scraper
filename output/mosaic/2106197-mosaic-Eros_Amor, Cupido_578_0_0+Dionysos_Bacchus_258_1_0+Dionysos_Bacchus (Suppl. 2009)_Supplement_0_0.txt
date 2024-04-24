@@ -1,0 +1,60 @@
+http://ark.dasch.swiss/ark:/72163/080e-759f5f275df2e-c
+Eros/Amor, Cupido_578_0_0
+Dionysos/Bacchus_258_1_0
+Dionysos/Bacchus (Suppl. 2009)_Supplement_0_0
+
+
+
+Monument
+	ID:	35821
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 12,2 (Casa del Fauno)
+	Objekt:	mosaic
+	Material:	opus tessellatum
+	Land:	CH
+	Kategorie:	mosaic
+	Name:	Dionysos/Bacchus Eros/Amor, Cupido
+	Beschreibung:	Bacchus-Eros on a lion.
+	Bibliographie:	Daszewski, W., «Dionysos or Eros ?», dans Tranquillitas. Mél. Tran Tam Tinh (1994) 131–141
+Szene
+	ID:	37657
+	Beschreibung:	Bacchus-Eros on a lion.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/37657X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/37657X101.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	578
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	258
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus (Suppl. 2009)
+	Band:	Supplement
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9991
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

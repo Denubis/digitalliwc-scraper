@@ -1,0 +1,99 @@
+http://ark.dasch.swiss/ark:/72163/080e-745b02f168c0e-7
+Protesilaos_26_0_0
+Eros/Amor, Cupido_44_0_0
+Hades/Pluto_71_1_0
+Helios/Sol_342_1_0
+Mercurius_330a_0_0
+
+
+
+Monument
+	ID:	12943
+	Entdeckungsort:	Teano
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	altar herm tympanon (tambourine) cult image, cult statue sacrifice liknon, vannus, winnowing-fan cloth, textile log maid-servant staff dagger wet-nurse winged boots altar: monolithic block
+	Name:	Helios/Sol Hermes/Mercurius Laodameia II Protesilaos Luna Eros/Amor, Cupido Hades/Pluto Mercurius Protesilaos
+	Beschreibung:	Protesilaos visiting the chamber of Laodamia, guided by Mercurius; on the right behind an altar the covered statue of Protesilaos; on the left end of the scene Luna, on the right Sol, indicating that the visit lasted only one night.
+	Bibliographie:	SarkRel III 3 n. 422;Sichtermann/Koch, MythSark 65-66 n. 70 pl. 171.
+Datierung
+	Kommentar:	bald nach
+Epoche
+	Name:	Mitte 2. Jh. n. Chr.
+	Periode:	140 - 160 
+	Sequenznummer:	3160
+Szene
+	ID:	13257
+	Beschreibung:	Protesilaos visiting the chamber of Laodamia, guided by Mercurius; on the right behind an altar the covered statue of Protesilaos; on the left end of the scene Luna, on the right Sol, indicating that the visit lasted only one night.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/santa_chiara/13257X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/santa_chiara/13257X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/santa_chiara/13257X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/santa_chiara/13257X103.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/santa_chiara/13257X104.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/santa_chiara/13257X105.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/santa_chiara/13257X106.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/santa_chiara/13257X210.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/santa_chiara/13257X211.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/santa_chiara/13257X301.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/santa_chiara/13257X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/santa_chiara/13257X303.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Protesilaos
+	Katalognummer:	26
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	44
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	71
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	342
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	330a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 3, 422
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Santa Chiara
+	Rechteinhaber der Fotos:	© Napoli
+	Hat die Fotorechte:	1

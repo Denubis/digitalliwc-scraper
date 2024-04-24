@@ -1,0 +1,53 @@
+http://ark.dasch.swiss/ark:/72163/080e-74f96382a36ec-3
+Kairoi/Tempora anni_208_1_0
+Kairoi/Tempora anni_242_0_0
+
+
+
+Monument
+	ID:	24118
+	Entdeckungsort:	Siena, Sinalunga
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kairoi/Tempora anni
+	Beschreibung:	In the centre the clipeus with the portrait of the deceased. Framed by birds symbolising the four Seasons.
+Datierung
+	Periode:	260 
+Szene
+	ID:	25302
+	Beschreibung:	In the centre the clipeus with the portrait of the deceased. Framed by birds symbolising the four Seasons.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/museo_archeologico/25302X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/museo_archeologico/25302X101.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	208
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	242
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Firenze
+	Name:	Museo Archeologico
+	Direktor:	Soprintendente Dott.ssa Fulvia Lo Schiavo
+	Anrede:	Chiarissimo Soprintendente
+	Adresse:	Via della Pergola 65
+	Postleitzahl:	I-50121
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici della Toscana
+	Stadt des Kontaktzenters:	Firenze
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici della Toscana
+	Hat die Fotorechte:	1

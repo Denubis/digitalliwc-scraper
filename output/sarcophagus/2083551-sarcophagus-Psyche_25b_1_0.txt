@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-745b9ca8d7e60-2
+Psyche_25b_1_0
+
+
+
+Monument
+	ID:	12985
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Psyche
+Szene
+	ID:	13303
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	25b
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Genova
+	Name:	Cattedrale San Lorenzo
+	Rechteinhaber der Fotos:	© Genova
+	Hat die Fotorechte:	0

@@ -1,0 +1,27 @@
+http://ark.dasch.swiss/ark:/72163/080e-743bf1f1292dd-e
+Kassandra I (vol. VII)_13_0_0
+
+
+
+Monument
+	ID:	10756
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Kassandra I
+Szene
+	ID:	10991
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Kassandra I (vol. VII)
+	Katalognummer:	13
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	AT
+	Stadt:	Magdalensberg
+	Name:	Archäologischer Park Magdalensberg
+	Rechteinhaber der Fotos:	© Archäologischer Park Magdalensberg
+	Hat die Fotorechte:	1

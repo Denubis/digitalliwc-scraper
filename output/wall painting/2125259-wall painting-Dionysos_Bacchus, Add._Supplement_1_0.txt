@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-76afe480d79fc-3
+Dionysos/Bacchus, Add._Supplement_1_0
+
+
+
+Monument
+	ID:	202307
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Bacchus as child, naked, with ivy crown; holding thyrsos staff and a kantharos; sitting on the arm of a menad; satyr
+	Bibliographie:	Herbig, Nugae Pompeianorum 1962, 12-13 pl. 18; Sauron, G., La grande fresque de la Villa des Mystères (1998) 35 fig. 2.
+Szene
+	ID:	99304
+	Beschreibung:	Bacchus as child, naked, with ivy crown; holding thyrsos staff and a kantharos; sitting on the arm of a menad; satyr
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus, Add.
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9281
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

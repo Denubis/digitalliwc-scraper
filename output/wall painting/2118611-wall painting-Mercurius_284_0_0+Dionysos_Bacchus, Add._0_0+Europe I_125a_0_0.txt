@@ -1,0 +1,89 @@
+http://ark.dasch.swiss/ark:/72163/080e-7650d95efa624-1
+Mercurius_284_0_0
+Dionysos/Bacchus, Add._0_0
+Europe I_125a_0_0
+
+
+
+Monument
+	ID:	51639
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	I 8,8 (Thermopolium)
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	snake cornucopia phiale, phiale mesomphalos, patera thyrsos rhyton kantharos lararium situla, kados, bucket foculus, folding table altar: round altar
+	Name:	Dionysos/Bacchus Genius Lar, Lares Hermes/Mercurius
+	Beschreibung:	1. Larenwandmalerei 2. Europa; Bacchus with thyrsos staff and kantharos; panther; to the left Mercurius; in the center Lares
+	Bibliographie:	Fröhlich, Lararien 252-253 pl. 2.1.
+	Kommentar:	leere Fiche, aber mit identischen LIMC-verweisen + Bildern in der Fiche Ikon, siehe: 17344.
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	56819
+	Beschreibung:	2 Laren mit Rhyton und situla flankieren einen opfernden Genius mit Phiale; Dionysos mit Thyrsos und Kantharos, Mercur mit Caduceus und Marsupium;darunter: 2 Schlangen flankieren einen Rundaltar
+	Bibliographie:	Th. Fröhlich, Lararien- und Fassadenbilder. 32. Erg.-heft RM (1991) 252-253 Nr. L8 Taf.2,1; U. Klatt, Römische Klapptische, in: Kölner Jahrbuch 28, 1995, 430-431 Abb.93.
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	134
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 2.a. Opfer, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	220
+	Bandnummer:	1
+Catalog Thes CRA
+	Indexnummer:	4
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Taberna
+	Lemata:	Taberna
+	Sequenznummer:	4130
+	Bandnummer:	4
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	284
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus, Add.
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	97782
+	Szenerieangabe:	triclinium
+	Beschreibung:	Europe auf dem Stier.
+	Kommentar:	Triclinium (d), Ostwand.
+Catalog LIMC
+	Artikel:	Europe I
+	Katalognummer:	125a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	I 8,8
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Termopolio di Lucio Vetuzio Placido

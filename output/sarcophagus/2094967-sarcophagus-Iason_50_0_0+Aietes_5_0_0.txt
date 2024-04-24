@@ -1,0 +1,56 @@
+http://ark.dasch.swiss/ark:/72163/080e-74fed2476c758-3
+Iason_50_0_0
+Aietes_5_0_0
+
+
+
+Monument
+	ID:	24499
+	Entdeckungsort:	Naples
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	sceptre sword bull Phrygian cap
+	Name:	Aietes Iason
+	Beschreibung:	Iason taming two bulls in the presence of the enthroned Medeia.
+	Bibliographie:	SarkRel II 199 pl. 61 no. 188.
+Datierung
+	Periode:	138 - 192 
+Epoche
+	Name:	antoninisch
+	Periode:	138 - 192 
+	Sequenznummer:	1210
+Szene
+	ID:	25707
+	Beschreibung:	Iason taming two bulls in the presence of the enthroned Medeia.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/austria/wien/kunsthistorisches_museum/25707X302.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Iason
+	Katalognummer:	50
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aietes
+	Katalognummer:	5
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	I 172
+Museum
+	Land:	AT
+	Stadt:	Wien
+	Name:	Kunsthistorisches Museum
+	Direktor:	Prof. Dr. Kurt Gschwantler
+	Anrede:	Sehr geehrter Herr Professor,
+	Adresse:	Burgring 5
+	Postleitzahl:	A-1010
+	Kontaktzenter:	Kunsthistorisches Museum
+	Stadt des Kontaktzenters:	Wien
+	Rechteinhaber der Fotos:	© Kunsthistorisches Museum Wien
+	Hat die Fotorechte:	1

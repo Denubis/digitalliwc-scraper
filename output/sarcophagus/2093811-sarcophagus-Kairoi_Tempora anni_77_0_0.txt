@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ee4b6a0b9c4-2
+Kairoi/Tempora anni_77_0_0
+
+
+
+Monument
+	ID:	23330
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kairoi/Tempora anni
+	Beschreibung:	On the minor sides an Eros each, one foot on a rock. One of them holds corn ears (Summer), the other one grapes (Fall).
+Datierung
+	Periode:	160 
+Szene
+	ID:	24474
+	Beschreibung:	On the minor sides an Eros each, one foot on a rock. One of them holds corn ears (Summer), the other one grapes (Fall).
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/mercato_antiquario/24474X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	77
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	mercato antiquario
+	Kontaktzenter:	mercato antiquario
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© DAI Rom
+	Hat die Fotorechte:	0

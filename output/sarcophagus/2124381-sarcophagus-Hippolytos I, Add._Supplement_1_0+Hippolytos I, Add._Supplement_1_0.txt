@@ -1,0 +1,62 @@
+http://ark.dasch.swiss/ark:/72163/080e-76a357187b056-9
+Hippolytos I, Add._Supplement_1_0
+Hippolytos I, Add._Supplement_1_0
+
+
+
+Monument
+	ID:	201475
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	throne spear horse hunter
+	Name:	Eros/Amor, Cupido Hippolytos I Phaidra Virtus
+	Beschreibung:	Hippolytos (I) on his horse, nude with coat flagging in the wind; holding a lance; attacking a boar; behind Hippolytos (I) Virtus; on the left Phaidra sitting on a throne; Eros on her knees; servant
+Datierung
+	Periode:	190 - 210 
+Epoche
+	Name:	um 200 n. Chr.
+	Periode:	190 - 210 
+	Sequenznummer:	3270
+Szene
+	ID:	98444
+	Beschreibung:	Hippolytos (I) on his horse, nude with coat flagging in the wind; holding a lance; attacking a boar; behind Hippolytos (I) Virtus; on the left Phaidra sitting on a throne; Eros on her knees; servant
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hippolytos I, Add.
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippolytos I, Add.
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Galerie François Antonovich
+	Rechteinhaber der Fotos:	© Galerie François Antonovich
+	Hat die Fotorechte:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	11.6.2003, 216
+Museum
+	Land:	US
+	Stadt:	New York
+	Name:	Christie's
+	Direktor:	Dr. Simon Wills
+	Adresse:	20 Rockefeller Plaza
+	Postleitzahl:	USA-
+	Kontaktzenter:	Christie's
+	Stadt des Kontaktzenters:	New York, NY 10020
+	Rechteinhaber der Fotos:	© Christie's, New York
+	Kommentar:	früher: Mr. G. Max Bernheimer, Senior Director
+	Hat die Fotorechte:	1

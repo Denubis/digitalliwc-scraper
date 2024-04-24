@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-744aa4565bdf1-c
+Pegasos (Pegasos, Bellerophon)_220bis_0_0
+
+
+
+Monument
+	ID:	11791
+	Entdeckungsort:	Cozani (Kozani, Macedonia)
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Pegasos
+Szene
+	ID:	12074
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Pegasos (Pegasos, Bellerophon)
+	Katalognummer:	220bis
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	GR
+	Stadt:	Kozani
+	Name:	Bibliothèque
+	Rechteinhaber der Fotos:	© Library of Kozani
+	Hat die Fotorechte:	0

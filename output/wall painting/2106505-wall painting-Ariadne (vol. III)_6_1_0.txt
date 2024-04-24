@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-75a3c6688d032-7
+Ariadne (vol. III)_6_1_0
+
+
+
+Monument
+	ID:	36132
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 4,48 (Casa della Caccia antica)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Ariadne
+Szene
+	ID:	37989
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/37989X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/37989X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/37989X302.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Ariadne (vol. III)
+	Katalognummer:	6
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9048
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

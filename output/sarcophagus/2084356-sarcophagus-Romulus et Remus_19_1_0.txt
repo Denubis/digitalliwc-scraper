@@ -1,0 +1,71 @@
+http://ark.dasch.swiss/ark:/72163/080e-74671ee4aa2d9-1
+Romulus et Remus_19_1_0
+
+
+
+Monument
+	ID:	13796
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	altar fire (on altar) garland bull libation sacrificial animal sacrificial assistant camillus incense offering canistrum altar: monolithic block
+	Name:	Romulus
+	Beschreibung:	Au milieu du côté principal (dont il manque toute la partie supérieure) une scène de sacrifice: près de l’autel enflammé un camillus avec une corbeille d’offrandes. En face de lui, Romulus, en général avec cuirasse, se tient debout pour accomplir le sacrifice. A l’arrière-plan on voit l’animal que l’on va sacrifier, un taureau, qu’un popa amène depuis la gauche.Pfeiler-Altar, der mit Girlanden sowie Tierschädeln geschmückt ist und auf dem ein Feuer brennt.
+	Bibliographie:	Helbig(4) III n. 2147; Fittschen, K., RM 79, 1969, 329-334 pl. 106 figs. 1.108; Koch / Sichtermann, RömSark 186 n. 45; SarkRel III 3 Nr. 437 Taf. 142; Siebert, Instrumenta sacra, 306 K 11.
+Datierung
+	Periode:	170 
+Epoche
+	Name:	3. Viertel 2. Jh. n. Chr.
+	Periode:	150 - 175 
+	Sequenznummer:	3220
+Szene
+	ID:	14153
+	Beschreibung:	Au milieu du côté principal (dont il manque toute la partie supérieure) une scène de sacrifice: près de l’autel enflammé un camillus avec une corbeille d’offrandes. En face de lui, Romulus, en général avec cuirasse, se tient debout pour accomplir le sacrifice. A l’arrière-plan on voit l’animal que l’on va sacrifier, un taureau, qu’un popa amène depuis la gauche.Pfeiler-Altar, der mit Girlanden sowie Tierschädeln geschmückt ist und auf dem ein Feuer brennt.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/14153X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/14153X302.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	56
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	IV. 1.b. Kultorte (Darstellungen)
+	Sequenznummer:	4500
+	Bandnummer:	4
+Catalog Thes CRA
+	Indexnummer:	883
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Catalog LIMC
+	Artikel:	Romulus et Remus
+	Katalognummer:	19
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	80712
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Romano
+	Direktor:	Soprintendente Dott. Giuseppe Proietti
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali - Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

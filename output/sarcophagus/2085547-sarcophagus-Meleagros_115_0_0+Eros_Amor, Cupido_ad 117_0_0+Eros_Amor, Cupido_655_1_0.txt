@@ -1,0 +1,90 @@
+http://ark.dasch.swiss/ark:/72163/080e-747825dae7a5c-d
+Meleagros_115_0_0
+Eros/Amor, Cupido_ad 117_0_0
+Eros/Amor, Cupido_655_1_0
+
+
+
+Monument
+	ID:	14998
+	Entdeckungsort:	Tivoli
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Meleagros Eros/Amor, Cupido
+	Beschreibung:	Meleagros, Atalante and the boar. This central group is flanked by horsemen and corner figures of bearded men in tunics with swords.
+Datierung
+	Periode:	280 - 300 
+Szene
+	ID:	15474
+	Beschreibung:	Meleagros, Atalante and the boar. This central group is flanked by horsemen and corner figures of bearded men in tunics with swords.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/15474X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/15474X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/15474X301.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/15474X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/15474X303.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/15474X304.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/15474X305.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/15474X306.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/15474X307.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/15474X308.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/15474X309.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	115
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 117
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	655
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	917
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Musei Capitolini
+	Direktor:	Dirigente Dott. Claudio Parisi Presicce
+	Adresse:	Via delle Tre Pile, 1
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Sovraintendenza ai Beni Culturali                     del Comune di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Archivio fotografico Musei Capitolini
+	Hat die Fotorechte:	1

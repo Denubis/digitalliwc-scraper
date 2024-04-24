@@ -1,0 +1,71 @@
+http://ark.dasch.swiss/ark:/72163/080e-73aa3866dda08-c
+Thyia_3_0_0
+Antiope I_9_1_0
+Phokos II_2_0_0
+
+
+
+Monument
+	ID:	467
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	I 4,5 (Casa del Citarista)
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	rock, cliff maenad
+	Name:	Antiope I Dionysios Phokos II Thyia
+	Beschreibung:	Antiope (I) on a rock, Phokos (II) and Dionysos. The other female person may be Thyia.
+	Bibliographie:	Elia, O., Monumenti della pittura antica scoperti in Italia III Pompei I (1937) Taf. 1; Schefold, WP 14; Simon, E., in: Mélanges Mansel (1974) 33-36 Taf. 19.
+Datierung
+	Periode:	-20 
+	Kommentar:	um; Spätphase
+Epoche
+	Name:	2. pompejanischer Stil
+	Periode:	-80 - -1 
+	Sequenznummer:	1330
+Szene
+	ID:	257
+	Beschreibung:	Antiope (I) on a rock, Phokos (II) and Dionysos. The other female person may be Thyia.
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/257X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/257X203.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/257X299.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/257X302.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Thyia
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Antiope I
+	Katalognummer:	9
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Phokos II
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	112283
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

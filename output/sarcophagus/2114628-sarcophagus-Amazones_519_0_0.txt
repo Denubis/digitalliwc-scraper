@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-7617e7eb4e219-3
+Amazones_519_0_0
+
+
+
+Monument
+	ID:	44314
+	Entdeckungsort:	Athens
+	Entdeckungsort Details:	Kerameikos
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	shield horse Amazon fight, battle
+	Name:	Amazones
+	Beschreibung:	Fragments.
+	Bibliographie:	AA 55 (1940) 359 fig. 35-37;  Kallipolitis, B. G., Χρονολογικη κατα ταξις...(1958) no. 66; Giuliano, A., Il commercio dei sarcofagi attici (1962) 28 no. 7.
+Datierung
+	Periode:	170 - 190 
+Epoche
+	Name:	2. Hälfte 2. Jh. n. Chr.
+	Periode:	150 - 200 
+	Sequenznummer:	3190
+Szene
+	ID:	46600
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	519
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	GR
+	Stadt:	Athens
+	Name:	Kerameikos Museum
+	Direktor:	Fotothek
+	Anrede:	Sehr geehrter Herr Dr. Krumme,
+	Adresse:	Odos Fidiou 1
+	Postleitzahl:	GR-106-78
+	Kontaktzenter:	Deutsches Archäologisches Institut (DAI)
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Kerameikos Museum, Athens
+	Hat die Fotorechte:	1

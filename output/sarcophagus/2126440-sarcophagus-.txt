@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-76c0c6ddb17cd-9
+
+
+
+Monument
+	ID:	203422
+	Objekt:	sarcophagus
+	Material:	terracotta
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	relief
+	Beschreibung:	Garlands protecting the sarcophagus.
+	Bibliographie:	Gentili, M. D., I sarcofagi etruschi in terracotta di età recente (1994) 94 no. B 116 pl. 55.
+Szene
+	ID:	100523
+	Beschreibung:	Garlands protecting the sarcophagus.
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	17
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VIII. Tiere und Pflanzen, etr.
+	Bandnummer:	8
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Firenze
+	Name:	Museo Archeologico
+	Direktor:	Soprintendente Dott.ssa Fulvia Lo Schiavo
+	Anrede:	Chiarissimo Soprintendente
+	Adresse:	Via della Pergola 65
+	Postleitzahl:	I-50121
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici della Toscana
+	Stadt des Kontaktzenters:	Firenze
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici della Toscana
+	Hat die Fotorechte:	1

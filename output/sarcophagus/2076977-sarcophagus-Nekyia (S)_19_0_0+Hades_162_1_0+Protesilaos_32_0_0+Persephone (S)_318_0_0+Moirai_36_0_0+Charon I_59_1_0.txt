@@ -1,0 +1,79 @@
+http://ark.dasch.swiss/ark:/72163/080e-73fda05c7557a-9
+Nekyia (S)_19_0_0
+Hades_162_1_0
+Protesilaos_32_0_0
+Persephone (S)_318_0_0
+Moirai_36_0_0
+Charon I_59_1_0
+
+
+
+Monument
+	ID:	6355
+	Entdeckungsort:	Ephesos (Ionia)
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Asia Minor
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hades Nekyia Protesilaos Persephone Moirai
+	Beschreibung:	Hades and Persephone, Hermes, a deceased couple, Moira and a woman. Minor side: In a boat are seated two naked youths, one larger than the other, and an even larger naked youth is standing. 
+Datierung
+	Periode:	150 
+Szene
+	ID:	6486
+	Beschreibung:	Hades and Persephone, Hermes, a deceased couple, Moira and a woman. Minor side: In a boat are seated two naked youths, one larger than the other, and an even larger naked youth is standing. 
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/turkey/istanbul/musee_archeologique/6486X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/turkey/istanbul/musee_archeologique/6486X002.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Nekyia (S)
+	Katalognummer:	19
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hades
+	Katalognummer:	162
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Protesilaos
+	Katalognummer:	32
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Persephone (S)
+	Katalognummer:	318
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Moirai
+	Katalognummer:	36
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Charon I
+	Katalognummer:	59
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2768
+Museum
+	Land:	TR
+	Stadt:	Istanbul
+	Name:	Musée Archéologique
+	Direktor:	Mme le Dr  Pascale Linant de Bellefonds
+	Anrede:	Sehr geehrter Herr Dr. Posamentir,
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-92023
+	Kontaktzenter:	Université Paris X - Nanterre Maison de l'Archéologie / Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Archaeological Museum Istanbul
+	Hat die Fotorechte:	1

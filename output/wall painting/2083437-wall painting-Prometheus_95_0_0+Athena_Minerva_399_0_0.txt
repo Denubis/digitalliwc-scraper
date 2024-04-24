@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-7459fb6dceca6-c
+Prometheus_95_0_0
+Athena/Minerva_399_0_0
+
+
+
+Monument
+	ID:	12869
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Roccia di San Paolo
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Athena/Minerva Prometheus
+	Beschreibung:	Prometheus to the right holding a figurine (the first human, made from clay), to the left Minerva.
+Szene
+	ID:	13180
+	Beschreibung:	Prometheus to the right holding a figurine (the first human, made from clay), to the left Minerva.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_della_via_ostiense/13180X302.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Prometheus
+	Katalognummer:	95
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	399
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo della Via Ostiense
+	Rechteinhaber der Fotos:	© Museo della Via Ostiense, Roma
+	Hat die Fotorechte:	1

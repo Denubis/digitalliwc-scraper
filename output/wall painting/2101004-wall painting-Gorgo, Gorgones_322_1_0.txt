@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-755521339d601-c
+Gorgo, Gorgones_322_1_0
+
+
+
+Monument
+	ID:	30581
+	Entdeckungsort:	Kizibel
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Gorgo, Gorgones
+Szene
+	ID:	32054
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/turkey/elmali/32054X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Gorgo, Gorgones
+	Katalognummer:	322
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tombe de Kizilbel
+Museum
+	Land:	TR
+	Stadt:	Elmali
+	Kontaktzenter:	DAI Istanbul
+	Stadt des Kontaktzenters:	Elmali
+	Rechteinhaber der Fotos:	© DAI Istanbul
+	Hat die Fotorechte:	1

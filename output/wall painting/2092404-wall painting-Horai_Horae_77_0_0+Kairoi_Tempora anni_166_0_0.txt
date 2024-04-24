@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-74da2de900409-1
+Horai/Horae_77_0_0
+Kairoi/Tempora anni_166_0_0
+
+
+
+Monument
+	ID:	21917
+	Entdeckungsort:	Tivoli
+	Entdeckungsort Details:	Hadrians Villa
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Horai/Horae Kairoi/Tempora anni
+	Beschreibung:	The vault is a circle with four octagons inside: in each and also inside another circle are the seated Horae - three female, one male (Winter). 
+Szene
+	ID:	22923
+	Beschreibung:	The vault is a circle with four octagons inside: in each and also inside another circle are the seated Horae - three female, one male (Winter). 
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	77
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	166
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Tivoli
+	Name:	Villa Hadriana
+	Rechteinhaber der Fotos:	© Villa Hadriana, Tivoli
+	Hat die Fotorechte:	1

@@ -1,0 +1,82 @@
+http://ark.dasch.swiss/ark:/72163/080e-74826d55faea7-f
+Nereides_455_0_0
+Europe I_142_1_0
+Helios/Sol_ad 182_0_0
+Daidalos et Ikaros_43_0_0
+
+
+
+Monument
+	ID:	15720
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	V 5,3
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	temple
+	Name:	Poseidon Daidalos and Ikaros Ikaros Europe I Nereides
+	Beschreibung:	Peristyl (d), Peristylbrüstung, Gartenseite: Sturz des Ikaros. Links und rechts Tempel, unter dem linken sitzende Figur (Poseidonstatue?). Schlecht erhalten. Europe (I) on the bull, followed by two Nereids on sea-creatures.
+	Bibliographie:	Schefold, WP 89;v. Blanckenhagen, P. H., RM 75 (1968) 112-113 Nr. 9 Taf. 39, 1; 129-131, 3;PompPittMos III (1991) 1072, 6.
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	16251
+	Beschreibung:	At the lower left a seated figure (Poseidon?) on the ledge of the cliff on which a colonnaded temple stands. At the bottom centre a fisherman on the shore. Two boats on the sea, above them Daidalos flies right and Ikaros plunges backward toward the sea. At the top centre Helios in his quadriga. Europe (I) on the bull, followed by two Nereids on sea-creatures.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/16251X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/16251X201.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/16251X203.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/16251X205.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Nereides
+	Katalognummer:	455
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Europe I
+	Katalognummer:	142
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	ad 182
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Daidalos et Ikaros
+	Katalognummer:	43
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	V 5,3
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Caserma dei Gladiatori

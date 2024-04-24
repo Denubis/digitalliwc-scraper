@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-74529740645cd-9
+Mousa, Mousai/Musae (vol. VII)_120_0_0
+Charis, Charites/Gratiae_37_1_0
+
+
+
+Monument
+	ID:	12352
+	Entdeckungsort:	Bizerta
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Charis, Charites/Gratiae Mousa, Mousai
+	Monument-URL:	http://www.limc-france.fr/objet/1757
+Szene
+	ID:	12652
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	120
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Charis, Charites/Gratiae
+	Katalognummer:	37
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	C 1113
+Museum
+	Land:	TN
+	Stadt:	Tunis
+	Name:	Musée National du Bardo
+	Direktor:	M. le Dr. Fathi Bejaoui
+	Adresse:	4, Place du Château
+	Postleitzahl:	TN-1008
+	Kontaktzenter:	Directeur de la Division de l'Inventaire Général et de la Recherche - Institut National du Patrimoine
+	Stadt des Kontaktzenters:	Tunis
+	Rechteinhaber der Fotos:	© Institut National du Patrimoine, Tunis
+	Hat die Fotorechte:	1

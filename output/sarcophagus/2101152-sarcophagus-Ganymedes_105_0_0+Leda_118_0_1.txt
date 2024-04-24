@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-75573ede92be5-5
+Ganymedes_105_0_0
+Leda_118_0_1
+
+
+
+Monument
+	ID:	30730
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Ganymedes Leda
+Szene
+	ID:	32235
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Ganymedes
+	Katalognummer:	105
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Leda
+	Katalognummer:	118
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 3, 545
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Casa dei Cornelii
+	Rechteinhaber der Fotos:	© Casa dei Cornelii, Roma
+	Hat die Fotorechte:	0

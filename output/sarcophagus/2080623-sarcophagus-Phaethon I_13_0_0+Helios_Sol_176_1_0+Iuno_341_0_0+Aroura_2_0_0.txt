@@ -1,0 +1,56 @@
+http://ark.dasch.swiss/ark:/72163/080e-7431c06bb8130-d
+Phaethon I_13_0_0
+Helios/Sol_176_1_0
+Iuno_341_0_0
+Aroura_2_0_0
+
+
+
+Monument
+	ID:	10037
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Helios/Sol Phaethon I Selene Zeus/Iuppiter Iuno
+	Beschreibung:	On the upper right Phaethon (I) in front of Helios begging him for his chariot, in the presence of Selene, two female deities and Klymene. The rest of the panel depicts the fall of Phaethon (I) into Eridanos, accompanied by two putti (Keraunos and Fulgur?), in the presence of Zeus, Hera/Iuno and four Winds. In the lower part are Tellus, a putto and three Heliades, one of them with cornucopia.
+Szene
+	ID:	10255
+	Beschreibung:	On the upper right Phaethon (I) in front of Helios begging him for his chariot, in the presence of Selene, two female deities and Klymene. The rest of the panel depicts the fall of Phaethon (I) into Eridanos, accompanied by two putti (Keraunos and Fulgur?), in the presence of Zeus, Hera/Iuno and four Winds. In the lower part are Tellus, a putto and three Heliades, one of them with cornucopia.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/verona/museo_lapidario_maffeiano/10255X002.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Phaethon I
+	Katalognummer:	13
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	176
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iuno
+	Katalognummer:	341
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aroura
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Verona
+	Name:	Museo Lapidario Maffeiano
+	Adresse:	PIazza Bra 28
+	Postleitzahl:	I-37121
+	Kontaktzenter:	Museo Lapidario Maffeiano
+	Stadt des Kontaktzenters:	Verona
+	Rechteinhaber der Fotos:	© Museo Lapidario Maffeiano, Verona
+	Hat die Fotorechte:	0

@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-743c7d04d6e1b-1
+Phrixos et Helle_28_1_0
+
+
+
+Monument
+	ID:	10794
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Helle Phrixos
+Szene
+	ID:	11033
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/11033X302.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Phrixos et Helle
+	Katalognummer:	28
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8889
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

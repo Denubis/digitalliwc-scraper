@@ -1,0 +1,48 @@
+http://ark.dasch.swiss/ark:/72163/080e-74cf54085e8f6-6
+Hippolytos I_13_1_0
+Hippolytos I_52_1_0
+Hippolytos I_81_1_0
+Hippolytos I_98_1_0
+
+
+
+Monument
+	ID:	21150
+	Entdeckungsort:	Apollonia (Kyrenaika)
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hippolytos I
+Szene
+	ID:	22086
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	13
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	52
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	81
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	98
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	LY
+	Stadt:	Apollonia (Libye)
+	Name:	Musée Archéologique
+	Rechteinhaber der Fotos:	© Musée Archéologique Apollonia
+	Hat die Fotorechte:	1

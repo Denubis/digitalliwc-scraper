@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-743de759ca94a-f
+Paridis iudicium_81_0_0
+
+
+
+Monument
+	ID:	10894
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Paridis iudicium
+	Beschreibung:	Paridis iudicium (Judgement of Paris): Paris, Hermes, Aphrodite, Hera and Athena.
+Szene
+	ID:	11137
+	Beschreibung:	Paridis iudicium (Judgement of Paris): Paris, Hermes, Aphrodite, Hera and Athena.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Paridis iudicium
+	Katalognummer:	81
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1959.148.262-263
+Museum
+	Land:	GB
+	Stadt:	Liverpool
+	Name:	Liverpool, National Museums (World Museum)
+	Direktor:	Photographic Services
+	Adresse:	127 Dale Street
+	Postleitzahl:	GB-
+	Stadt des Kontaktzenters:	Liverpool L2 2JH
+	Rechteinhaber der Fotos:	© Liverpool, National Museums 
+	Hat die Fotorechte:	1

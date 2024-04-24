@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-741f86069c509-e
+Olympos I_22_1_0
+Hermaphroditos, Add._0_0
+
+
+
+Monument
+	ID:	8745
+	Entdeckungsort:	Ercolano, Herculaneum, Herculanum
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Olympos I
+	Beschreibung:	satyr fighting with youth (Hermaphroditos?). Olympos (I) resisting Marsyas?
+Szene
+	ID:	8945
+	Beschreibung:	satyr fighting with youth (Hermaphroditos?). Olympos (I) resisting Marsyas?
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/8945X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Olympos I
+	Katalognummer:	22
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hermaphroditos, Add.
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	27701
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

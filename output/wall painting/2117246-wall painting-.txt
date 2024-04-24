@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-763d55955e2bb-e
+
+
+
+Monument
+	ID:	50197
+	Entdeckungsort:	Oplontis
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	thyrsos tray, lanx, catinus
+	Name:	Dionysos
+	Beschreibung:	Stehender Dionysos (bekränzt? Diadem?), in der rechten Hand Opfertablett, die linke zum Gesicht erhoben. Hinter ihm Thyrsos.
+	Bibliographie:	de Franciscis, A., Die pompejanischen Wandmalereien in der Villa von Oplontis (1975) Abb. 34.
+	Kommentar:	Caldarium (8), in situ.
+Datierung
+	Periode:	-15 - 63 
+Epoche
+	Name:	3. pompejanischer Stil
+	Periode:	-15 - 63 
+	Sequenznummer:	1340
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Oplontis
+	Name:	Villa di Poppea
+	Direktor:	Soprintendente Prof.  Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archologica di Pompei
+	Hat die Fotorechte:	1

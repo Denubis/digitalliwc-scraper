@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-763d51ec6dcf6-2
+
+
+
+Monument
+	ID:	50201
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	altar music libation sacrifice sacrificial assistant piper, fluteplayer, auletes, tibicen ribbon tray, lanx, catinus
+	Beschreibung:	Sacrificio presso un altare accanto al quale stanno, da una parte e dall’altra, un uomo ed una donna. Sono presenti (visibili) tre altre figure: due servitori ed un suonatore di flauto.
+	Bibliographie:	FMNH Anthro. Vol  7 n. 4 pl. 123.
+Datierung
+	Periode:	-15 - 15 
+Epoche
+	Name:	Jahr 1
+	Periode:	1 
+Szene
+	ID:	100517
+	Beschreibung:	Sacrificio presso un altare accanto al quale stanno, da una parte e dall’altra, un uomo ed una donna. Sono presenti (visibili) tre altre figure: due servitori ed un suonatore di flauto.
+Catalog Thes CRA
+	Indexnummer:	6
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VIII. 4.b. Hauskulte, röm.
+	Bandnummer:	8
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	24658
+Museum
+	Land:	US
+	Stadt:	Chicago
+	Name:	Field Museum of Natural History
+	Direktor:	Ms. Jerice Barrios, Rights Coordinator
+	Adresse:	1400 S. Lake Shore Drive
+	Postleitzahl:	USA-
+	E-Mail:	photos@fieldmuseum.org
+	Kontaktzenter:	Field Museum of Natural History
+	Stadt des Kontaktzenters:	Chicago IL 60605-2496
+	Rechteinhaber der Fotos:	© Field Museum of Natural History, Chicago
+	Hat die Fotorechte:	0

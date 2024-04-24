@@ -1,0 +1,51 @@
+http://ark.dasch.swiss/ark:/72163/080e-74265f20590a4-c
+Pentheus_63_1_0
+Ares/Mars_ad 389a_0_0
+
+
+
+Monument
+	ID:	9229
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Pentheus
+	Beschreibung:	Man with bound hands in front of a seated man. Pentheus and Dionysos?
+Szene
+	ID:	9430
+	Beschreibung:	Man with bound hands in front of a seated man. Pentheus and Dionysos?
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/9430X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Pentheus
+	Katalognummer:	63
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ares/Mars
+	Katalognummer:	ad 389a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	IX 5,18
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa di Iasone

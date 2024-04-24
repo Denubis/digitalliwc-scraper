@@ -1,0 +1,55 @@
+http://ark.dasch.swiss/ark:/72163/080e-74076b679c59b-e
+Persephone (S)_230_1_0
+Hades/Pluto_14_0_0
+
+
+
+Monument
+	ID:	7044
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Persephone Hades/Pluto
+	Beschreibung:	Persephone trying to escape from Hades' grip.
+Datierung
+	Periode:	200 - 225 
+Szene
+	ID:	7189
+	Beschreibung:	Persephone trying to escape from Hades' grip.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/karlsruhe/badisches_landesmuseum/7189X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/karlsruhe/badisches_landesmuseum/7189X101.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+	Rechteinhaber der Fotos:	Rita Gautschy
+	Hat die Fotorechte:	1
+Catalog LIMC
+	Artikel:	Persephone (S)
+	Katalognummer:	230
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	14
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	60/49
+Museum
+	Land:	DE
+	Stadt:	Karlsruhe
+	Name:	Badisches Landesmuseum
+	Direktor:	Dir. Prof. Dr. Harald Siebenmorgen
+	Anrede:	Sehr geehrter Herr Professor,
+	Adresse:	Schlossbezirk 10
+	Postleitzahl:	D-76131
+	Kontaktzenter:	Badisches Landesmuseum
+	Stadt des Kontaktzenters:	Karlsruhe
+	Rechteinhaber der Fotos:	© Badisches Landesmuseum
+	Hat die Fotorechte:	1

@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-749d087149fc0-5
+Niobidai_28_1_0
+
+
+
+Monument
+	ID:	17607
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 9,6 (House of the Dioskouroi)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Niobidai
+	Beschreibung:	Seven hit Niobidai and two tripods.
+Szene
+	ID:	18334
+	Beschreibung:	Seven hit Niobidai and two tripods.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/18334X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Niobidai
+	Katalognummer:	28
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9302
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

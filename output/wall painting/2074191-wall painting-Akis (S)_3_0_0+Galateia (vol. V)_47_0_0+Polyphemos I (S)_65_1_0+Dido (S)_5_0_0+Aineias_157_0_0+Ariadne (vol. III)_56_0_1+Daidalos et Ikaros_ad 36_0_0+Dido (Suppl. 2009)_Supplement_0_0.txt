@@ -1,0 +1,99 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d5cbd4a8b90-9
+Akis (S)_3_0_0
+Galateia (vol. V)_47_0_0
+Polyphemos I (S)_65_1_0
+Dido (S)_5_0_0
+Aineias_157_0_0
+Ariadne (vol. III)_56_0_1
+Daidalos et Ikaros_ad 36_0_0
+Dido (Suppl. 2009)_Supplement_0_0
+
+
+
+Monument
+	ID:	3549
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	IX 6,d
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Aineias Akis Ariadne Askanios Dido Galateia Polyphemos I Daidalos and Ikaros
+	Beschreibung:	Wall painting; one is very badly preserved and only the feet of three figures are visible, however some of them are named: Dido, Aeneas
+	Bibliographie:	Schefold, WP 267; Galinsky, G. K., Aeneas, Sicily and Rome (1969) fig. 23; Strocka, V. M., Troja, Karthago, Rom. Ein vorvergilisches Bildprogramm in Terzigno bei Pompeji, RM 112, 2005/06, 98 fig. 18; Strocka, V. M., Aeneas, nicht Alexander, JdI 121 (2006) 274-277 fig. 4; Hodske, J., Mythologische Bildthemen in den Häusern Pompejis (2007) 249 pl. 163, 4. 
+Datierung
+	Periode:	-15 - 63 
+Epoche
+	Name:	3. pompejanischer Stil
+	Periode:	-15 - 63 
+	Sequenznummer:	1340
+Szene
+	ID:	3590
+	Beschreibung:	Wall painting; one is very badly preserved and only the feet of three figures are visible, however some of them are named: Dido, Aeneas
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/3590X007.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/3590X303.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Akis (S)
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Galateia (vol. V)
+	Katalognummer:	47
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Polyphemos I (S)
+	Katalognummer:	65
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dido (S)
+	Katalognummer:	5
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aineias
+	Katalognummer:	157
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ariadne (vol. III)
+	Katalognummer:	56
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Daidalos et Ikaros
+	Katalognummer:	ad 36
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dido (Suppl. 2009)
+	Band:	Supplement
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	IX 6,d-e
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa di Dido ed Enea

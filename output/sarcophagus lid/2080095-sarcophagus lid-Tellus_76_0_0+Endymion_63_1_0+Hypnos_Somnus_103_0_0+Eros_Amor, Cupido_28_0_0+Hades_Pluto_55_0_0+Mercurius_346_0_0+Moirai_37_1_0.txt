@@ -1,0 +1,126 @@
+http://ark.dasch.swiss/ark:/72163/080e-742a33fbf9ae0-c
+Tellus_76_0_0
+Endymion_63_1_0
+Hypnos/Somnus_103_0_0
+Eros/Amor, Cupido_28_0_0
+Hades/Pluto_55_0_0
+Mercurius_346_0_0
+Moirai_37_1_0
+
+
+
+Monument
+	ID:	9502
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	S. Eustachio
+	Objekt:	sarcophagus lid
+	Material:	marble
+	Herkunft:	Rome
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	altar fire (on altar) garland thymiaterion, turibulum, incense-burner altar: round altar
+	Name:	Eros/Amor, Cupido Kerberos Moirai Endymion Hades/Pluto Hypnos/Somnus Mercurius Tellus
+	Beschreibung:	Im mittleren Feld des Sarkophagdeckels: Götterpaar (Pluto und Proserpina?) frontal thronend; Li. girlandengeschmückter Rundaltar, Feuer. re. Amor und brennendens Thymiaterion. Mercurius, a couple on a kline and Moirai.
+	Bibliographie:	Helbig(4) II Nr. 1406;Koch/Sichtermann, RömSark 189 Abb. 208.
+	Kommentar:	Kasten und Deckel nicht zusammengehörig und verschieden zu datieren.
+	Monument-URL:	arachne.dainst.org/entity/1098240
+Datierung
+	Periode:	125 - 150 
+	Kommentar:	Deckel
+Epoche
+	Name:	2. Viertel 2. Jh. n. Chr.
+	Periode:	125 - 150 
+	Sequenznummer:	3210
+Datierung
+	Periode:	200 - 225 
+	Kommentar:	Kasten
+Epoche
+	Name:	1. Viertel 3. Jh. n. Chr.
+	Periode:	200 - 225 
+	Sequenznummer:	3340
+Szene
+	ID:	9707
+	Beschreibung:	Im mittleren Bild thronendes Götterpaar. L. girlandengeschmückter Rund-Altar.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/9707X001.jpg
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	82
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	IV. 1.b. Kultorte (Darstellungen)
+	Sequenznummer:	4500
+	Bandnummer:	4
+Catalog LIMC
+	Artikel:	Tellus
+	Katalognummer:	76
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	63
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	103
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	28
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	46020
+	Szenerieangabe:	couvercle
+	Beschreibung:	Im mittleren Feld Pluto und Proserpina, frontal thronend; links Rundaltar mit Girlande und Flammen, Kerberos; rechts Amor und brennendes Thymiaterion. Mercurius, a couple on a kline and Moirai.
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/46020X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/46020X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/46020X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/46020X303.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Datierung
+	Periode:	125 - 150 
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	55
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	346
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Moirai
+	Katalognummer:	37
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	725
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Musei Capitolini
+	Direktor:	Dirigente Dott. Claudio Parisi Presicce
+	Adresse:	Via delle Tre Pile, 1
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Sovraintendenza ai Beni Culturali                     del Comune di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Archivio fotografico Musei Capitolini
+	Hat die Fotorechte:	1

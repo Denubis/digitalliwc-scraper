@@ -1,0 +1,60 @@
+http://ark.dasch.swiss/ark:/72163/080e-74640c02cca66-e
+Pyramos et Thisbe_21_0_0
+Aktaion, Add._2_1_0
+
+
+
+Monument
+	ID:	13579
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	I 11,6 (House of the Venus in Bikini)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	sword lagobolon, pedum lion suicide dog
+	Name:	Aktaion Artemis Pyramos Thisbe
+	Beschreibung:	The corpse of Pyramos on the ground, nude, close to his arm the scabbard of his sword. Kneeling close to him is Thisbe, half nude, killing herself. In the background a female lion.
+	Bibliographie:	PompPittMos II Regio I. Parte seconda (1990) 564 fig. 58;  PompPittMos II (1990) 540-541 fig. 20. 22; Cerulli Irelli, G. et al., La peinture de Pompéi II (1993) 61 no. 87; Nardelli, M., Raffigurazioni mitologiche nella decorazione parietale dell'area vesuviana: Diana e Atteone, Antenor 2, 2000, 64 fig. 6.
+Szene
+	ID:	13932
+	Beschreibung:	Bathing Artemis to the left; Aktaion pursued by three dogs on the right. The corpse of Pyramos on the ground, nude, close to his arm the scabbard of his sword. Kneeling close to him is Thisbe, half nude, killing herself. In the background a female lion.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/13932X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/13932X299.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Pyramos et Thisbe
+	Katalognummer:	21
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aktaion, Add.
+	Katalognummer:	2
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	I 11,6-7
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa della Venere in Bikini

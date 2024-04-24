@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-745493fae67c4-6
+Mousa, Mousai/Musae (vol. VII)_211_1_0
+
+
+
+Monument
+	ID:	12491
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Mousa, Mousai
+Szene
+	ID:	12792
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_rospigliosi_pallavicini/12792X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	211
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel V 3, 170
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Rospigliosi Pallavicini
+	Rechteinhaber der Fotos:	© Palazzo Rospigliosi Pallavicini, Roma
+	Hat die Fotorechte:	1

@@ -1,0 +1,65 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ee10db05d74-6
+Kairoi/Tempora anni_37_0_0
+Endymion_77_1_0
+Helios/Sol_345_0_0
+Hypnos/Somnus_78_0_0
+
+
+
+Monument
+	ID:	23314
+	Entdeckungsort:	Frascati (environs)
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Helios/Sol Luna Endymion Karpoi Hypnos/Somnus
+	Beschreibung:	Luna descending to Endymion, Sol and Luna on a chariot framing the scene. Tellus reclining below the horses. She is surrounded by four unwinged Erotes (Seasons).
+Szene
+	ID:	24457
+	Beschreibung:	Luna descending to Endymion, Sol and Luna on a chariot framing the scene. Tellus reclining below the horses. She is surrounded by four unwinged Erotes (Seasons).
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/woburn_abbey_bedfordshire/woburn_abbey_art_gallery/24457X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/woburn_abbey_bedfordshire/woburn_abbey_art_gallery/24457X301.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/woburn_abbey_bedfordshire/woburn_abbey_art_gallery/24457X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/woburn_abbey_bedfordshire/woburn_abbey_art_gallery/24457X304.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	37
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	77
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	345
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	78
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Cat. 65 (Michaelis 86)
+Museum
+	Land:	GB
+	Stadt:	Woburn Abbey (Bedfordshire)
+	Name:	Woburn Abbey Art Gallery
+	Rechteinhaber der Fotos:	© Woburn Abbey Art Gallery
+	Kommentar:	Numéros d'après Angelicoussis, E., The Woburn Abbey Collection of Classical Antiquities (1992); les numéros entre parenthèses sont ceux de Michaelis, A., Ancient Marbles in Great Britain (1882).
+	Hat die Fotorechte:	1

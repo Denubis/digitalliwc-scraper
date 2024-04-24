@@ -1,0 +1,55 @@
+http://ark.dasch.swiss/ark:/72163/080e-76bd796cce30a-1
+
+
+
+Monument
+	ID:	203185
+	Entdeckungsort:	Aineia
+	Objekt:	wall painting
+	Herkunft:	Greek
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Painting imitating a woman's room.
+	Bibliographie:	Brecoulaki, H., La peinture funéraire de Macédoine. Emplois et fonctions de la couleur. IVe-IIe s. av. J.-Chr. (2006) 327-340 pl. 110-111; Vokotopoulou, J., Führer durch das Archäologische Museum Thessaloniki (1996) 196-197.
+Datierung
+	Periode:	-310 - -300 
+Epoche
+	Name:	Ende 4. Jh. v. Chr.
+	Periode:	-310 - -300 
+	Sequenznummer:	2460
+Szene
+	ID:	100224
+	Beschreibung:	Painting imitating a woman's room.
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	74
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VI. 1.e. Tod, gr.
+	Bandnummer:	6
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	GR
+	Stadt:	Thessalonique
+	Name:	Musée Archéologique
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Archaeological Museum of Thessaloniki
+	Hat die Fotorechte:	0

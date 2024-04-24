@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-7470ffe573598-5
+Medeia_14_0_0
+
+
+
+Monument
+	ID:	14493
+	Entdeckungsort:	Stabiae
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Medeia
+	Beschreibung:	Standing woman with sword. Medeia?
+Szene
+	ID:	14932
+	Beschreibung:	Standing woman with sword. Medeia?
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/14932X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/14932X202.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Medeia
+	Katalognummer:	14
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8978
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

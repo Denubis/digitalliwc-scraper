@@ -1,0 +1,31 @@
+http://ark.dasch.swiss/ark:/72163/080e-758a69b6ed50c-d
+Eros/Amor, Cupido_169_1_0
+
+
+
+Monument
+	ID:	34350
+	Entdeckungsort:	Sirmium (Sremska Mitrovica)
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido
+	Monument-URL:	http://www.limc-france.fr/objet/329
+Szene
+	ID:	36108
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	169
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	A 20
+Museum
+	Land:	CS
+	Stadt:	Sremska Mitrovica
+	Name:	Musée de Srem
+	Rechteinhaber der Fotos:	© Musée de Srem
+	Hat die Fotorechte:	0

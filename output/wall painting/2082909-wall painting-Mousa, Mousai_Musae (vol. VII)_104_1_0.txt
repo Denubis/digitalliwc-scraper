@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-74526efe10656-6
+Mousa, Mousai/Musae (vol. VII)_104_1_0
+
+
+
+Monument
+	ID:	12341
+	Entdeckungsort:	Ostia
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Mousa, Mousai
+Szene
+	ID:	12641
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/12641X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/12641X002.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	104
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	III, IX, 6
+Museum
+	Land:	IT
+	Stadt:	Ostia
+	Direktor:	Dott.ssa Elvira Angeloni, Archivio Fotografico
+	Adresse:	Viale dei Romagnoli 717
+	Postleitzahl:	I-00119
+	Kontaktzenter:	Soprintendenza archeologica di Ostia
+	Stadt des Kontaktzenters:	Ostia Antica - Roma
+	Rechteinhaber der Fotos:	© Soprintendenza archeologica di Ostia
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Insula delle Ierodúle

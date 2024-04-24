@@ -1,0 +1,53 @@
+http://ark.dasch.swiss/ark:/72163/080e-73ce012cf432b-f
+Venti_17_0_0
+Venus_326_1_0
+
+
+
+Monument
+	ID:	3003
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 10,11 (Casa del Naviglio)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Venti Venus
+	Beschreibung:	Wreathed youth (Wind) with cornucopia carrying Venus on his wings. Probably Zephyros.
+Szene
+	ID:	3026
+	Beschreibung:	Wreathed youth (Wind) with cornucopia carrying Venus on his wings. Probably Zephyros.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/3026X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/3026X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/3026X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Venti
+	Katalognummer:	17
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Venus
+	Katalognummer:	326
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8830
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

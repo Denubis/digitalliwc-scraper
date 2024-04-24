@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-767c6923d51e7-2
+
+
+
+Monument
+	ID:	54867
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Kitharos-player and aulos-player
+	Kommentar:	nrad
+Szene
+	ID:	60308
+	Beschreibung:	Kitharos-player and aulos-player
+Catalog Thes CRA
+	Indexnummer:	20
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	13
+	Name:	II. 4.c. Musik, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	1700
+	Bandnummer:	2
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba 1560
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Necropoli
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

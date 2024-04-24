@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-756ce3fc14af7-c
+Auge_13_0_0
+
+
+
+Monument
+	ID:	32252
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Auge Herakles
+	Beschreibung:	Auge with female companion washing clothes. Drunken Herakles tries to seize Auge. Winged woman (Parthenos) hinders Auge's companion to help her. Between Herakles and Parthenos a standing woman holding a kantharos.
+Szene
+	ID:	33873
+	Beschreibung:	Auge with female companion washing clothes. Drunken Herakles tries to seize Auge. Winged woman (Parthenos) hinders Auge's companion to help her. Between Herakles and Parthenos a standing woman holding a kantharos.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/33873X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/33873X299.jpg
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	113
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 5. Kultbilder
+	Sequenznummer:	1800
+	Bandnummer:	2
+Catalog LIMC
+	Artikel:	Auge
+	Katalognummer:	13
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	115397
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

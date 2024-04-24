@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-75b09d03b0d3c-f
+Dionysos/Bacchus_91_0_0
+
+
+
+Monument
+	ID:	37037
+	Entdeckungsort:	Salerno
+	Entdeckungsort Details:	cathedral
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dionysos/Bacchus
+	Beschreibung:	Bacchus on a tiger, Pan guiding it, around them dancing maenads and satyrs, in front of them fighting Paniscus and he-goat.
+Szene
+	ID:	38934
+	Beschreibung:	Bacchus on a tiger, Pan guiding it, around them dancing maenads and satyrs, in front of them fighting Paniscus and he-goat.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	91
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel IV 3, 165
+Museum
+	Land:	IT
+	Stadt:	Salerno
+	Name:	Duomo
+	Rechteinhaber der Fotos:	© Duomo Salerno
+	Hat die Fotorechte:	1

@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-750fa9a9753da-1
+Epona (vol. V)_186_0_0
+
+
+
+Monument
+	ID:	25686
+	Entdeckungsort:	Arles, Arelate
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Epona
+Szene
+	ID:	26962
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/arles/musee_de_l_arles_et_de_la_provence_antiques/26962X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Epona (vol. V)
+	Katalognummer:	186
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Espérandieu 180
+Museum
+	Land:	FR
+	Stadt:	Arles
+	Name:	Musée de l'Arles et de la Provence antiques
+	Direktor:	M. le Directeur Claude Sintes
+	Adresse:	Presqu'Ile du Cirque Romain
+	Postfach:	BP 205
+	Postleitzahl:	F-13635
+	Kontaktzenter:	Musée de l'Arles et de la Provence antiques
+	Stadt des Kontaktzenters:	Arles cedex
+	Rechteinhaber der Fotos:	© Musée de l'Arles et de la Provence antiques
+	Hat die Fotorechte:	1

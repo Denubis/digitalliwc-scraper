@@ -1,0 +1,51 @@
+http://ark.dasch.swiss/ark:/72163/080e-7429969b9a2c9-4
+Tellus_46_0_0
+Kairoi/Tempora anni_71_1_0
+
+
+
+Monument
+	ID:	9459
+	Entdeckungsort:	Ostia
+	Entdeckungsort Details:	Isola Sacra
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kairoi/Tempora anni Tellus
+	Beschreibung:	Couple in clipeus, below Tellus. Left and right four Erotes depicted as Seasons. The two in the middle hold the clipeus, the others are moving outwards.
+Datierung
+	Periode:	260 
+Szene
+	ID:	9663
+	Beschreibung:	Couple in clipeus, below Tellus. Left and right four Erotes depicted as Seasons. The two in the middle hold the clipeus, the others are moving outwards.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/museo_ostiense/9663X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Tellus
+	Katalognummer:	46
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	71
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	126
+Museum
+	Land:	IT
+	Stadt:	Ostia
+	Name:	Museo Ostiense
+	Direktor:	Dott.ssa Elvira Angeloni
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Viale dei Romagnoli 717
+	Postleitzahl:	I-00119
+	Kontaktzenter:	Soprintendenza archeologica di Ostia
+	Stadt des Kontaktzenters:	Ostia Antica - Roma
+	Rechteinhaber der Fotos:	Archivio Fotografico della Soprintendenza Archeologica per i beni archeologici di Ostia
+	Hat die Fotorechte:	1

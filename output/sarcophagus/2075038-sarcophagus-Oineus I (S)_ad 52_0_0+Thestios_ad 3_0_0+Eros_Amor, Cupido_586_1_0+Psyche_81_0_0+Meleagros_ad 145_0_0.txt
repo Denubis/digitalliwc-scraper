@@ -1,0 +1,68 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e1e7c7ea25b-0
+Oineus I (S)_ad 52_0_0
+Thestios_ad 3_0_0
+Eros/Amor, Cupido_586_1_0
+Psyche_81_0_0
+Meleagros_ad 145_0_0
+
+
+
+Monument
+	ID:	4399
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Thestios Meleagros Eros/Amor, Cupido Psyche
+	Beschreibung:	Children impersonating homecoming of Meleagros. At the far right stands Thestios.
+Szene
+	ID:	4456
+	Beschreibung:	Children impersonating homecoming of Meleagros. At the far right stands Thestios.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/4456X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Oineus I (S)
+	Katalognummer:	ad 52
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Thestios
+	Katalognummer:	ad 3
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	586
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	81
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	ad 145
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 338
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	MR 774

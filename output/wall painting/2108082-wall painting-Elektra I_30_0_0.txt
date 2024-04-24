@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-75ba521935abf-5
+Elektra I_30_0_0
+
+
+
+Monument
+	ID:	37727
+	Entdeckungsort:	Hermoupolis Magna (Egypt)
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Elektra I Orestes Pylades
+	Beschreibung:	Elektra (I), name inscribed, is seated on the ground at the left, wearing a chiton. Herhair is long. She rests her head against her left hand. Her left leg is drawn up. Her right arm rests against her right thigh. The tomb, which stands in the centre with a tree on either side, is temple-like. Orestes and Pylades, both nude, approach from the right. 
+Szene
+	ID:	39677
+	Beschreibung:	Elektra (I), name inscribed, is seated on the ground at the left, wearing a chiton. Herhair is long. She rests her head against her left hand. Her left leg is drawn up. Her right arm rests against her right thigh. The tomb, which stands in the centre with a tree on either side, is temple-like. Orestes and Pylades, both nude, approach from the right. 
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Elektra I
+	Katalognummer:	30
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	EG
+	Stadt:	Cairo
+	Name:	Egyptian Museum
+	Kontaktzenter:	Musée Egyptien
+	Stadt des Kontaktzenters:	Le Caire
+	Rechteinhaber der Fotos:	© Egyptian Museum Cairo
+	Hat die Fotorechte:	1

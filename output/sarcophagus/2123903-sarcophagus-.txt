@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-769c81a7aea80-9
+
+
+
+Monument
+	ID:	92028
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	GR
+	Kategorie:	relief
+	Stichwort:	sword
+	Name:	Iphigeneia Orestes
+	Grössenangabe:	Y. 0.34 μ - Πλ. 0.16 μ
+	Beschreibung:	Iφιγένεια(;), Oρέστης(;).
+	Bibliographie:	Walter, RelAkr 176 no. 377.
+	Kommentar:	5525
+Szene
+	ID:	97644
+	Beschreibung:	Aπό αριστερά: Iφιγένεια, ισταμένη κατ' ενώπιον, ελλιπής (χιτών με απόπτυγμα), δεξιό χέρι λυγισμένο στον αγκώνα καταλαμβάνει το εμπρόσθιο τμήμα της οσφύος, στο άκρο του χεριού στηρίζεται ο αγκώνας του αριστερού χεριού, λυγισμένο έντονα προς τα άνω και έρχεται κατά πρόσωπο. Oρέστης, σώζεται το δεξιό χέρι, το οποίο έρχεται προς τα κάτω και δεξιά, στο αριστερό τμήμα της προηγούμενης μορφής, κρατά ξίφος λοξά προς τα αριστερά και άνω.
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2999
+Museum
+	Land:	GR
+	Stadt:	Athens
+	Name:	Acropolis Museum
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Acropolis Museum, Athens
+	Hat die Fotorechte:	0
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	377

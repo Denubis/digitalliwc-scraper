@@ -1,0 +1,59 @@
+http://ark.dasch.swiss/ark:/72163/080e-74788c5531be8-9
+Meleagros_136_0_0
+Meleagros_152_1_0
+Moirai_50_0_0
+Thestiadai_ad 2_0_0
+
+
+
+Monument
+	ID:	15026
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Meleagros Thestiadai Moirai
+	Beschreibung:	An Erinys between Meleagros and attacking Thestiadai. Another scene: meleagros on deathbed and four mourners.
+Datierung
+	Periode:	170 - 180 
+Szene
+	ID:	15502
+	Beschreibung:	An Erinys between Meleagros and attacking Thestiadai. Another scene: meleagros on deathbed and four mourners.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/milano/collezione_torno_gia/15502X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	136
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	152
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Moirai
+	Katalognummer:	50
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Thestiadai
+	Katalognummer:	ad 2
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 2, 282
+Museum
+	Land:	IT
+	Stadt:	Milano
+	Name:	Collezione Torno (già)
+	Rechteinhaber der Fotos:	© Collection Torno (once)
+	Hat die Fotorechte:	0
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	SarkRel XII 6, 117

@@ -1,0 +1,60 @@
+http://ark.dasch.swiss/ark:/72163/080e-76038c324ca49-e
+Erinys_ad 77_0_0
+Athena/Minerva_391_1_0
+
+
+
+Monument
+	ID:	42878
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Athena/Minerva Orestes Erinys
+	Beschreibung:	Sarcophagus with the myth of Orestes on the principal side; on the left side Minerva and in front of her an Erinys.
+Szene
+	ID:	45077
+	Beschreibung:	Sarcophagus with the myth of Orestes on the principal side; on the left side Minerva and in front of her an Erinys.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/spain/madrid/museo_arqueologico_nacional/45077X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/spain/madrid/museo_arqueologico_nacional/45077X202.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+	Rechteinhaber der Fotos:	© Archivo Fotográfico, Museo Arqueológico Nacional
+	Hat die Fotorechte:	0
+Foto
+	Neues Foto:	1
+	Rechteinhaber der Fotos:	© Archivo Fotográfico, Museo Arqueológico Nacional
+	Hat die Fotorechte:	0
+Foto
+	Neues Foto:	1
+	Rechteinhaber der Fotos:	© Archivo Fotográfico, Museo Arqueológico Nacional
+	Hat die Fotorechte:	0
+Catalog LIMC
+	Artikel:	Erinys
+	Katalognummer:	ad 77
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	391
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2839
+Museum
+	Land:	ES
+	Stadt:	Madrid
+	Name:	Museo Arqueológico Nacional
+	Direktor:	Dir. Rubí Sanz Gamo
+	Adresse:	Calle Serrano 13
+	Postleitzahl:	E-28001
+	Kontaktzenter:	Museo Arqueológico Nacional
+	Stadt des Kontaktzenters:	Madrid
+	Rechteinhaber der Fotos:	© Archivo Fotográfico, Museo Arqueológico Nacional
+	Hat die Fotorechte:	0

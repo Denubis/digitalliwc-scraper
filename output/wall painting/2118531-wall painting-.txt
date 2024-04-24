@@ -1,0 +1,27 @@
+http://ark.dasch.swiss/ark:/72163/080e-764fb493dd894-4
+
+
+
+Monument
+	ID:	51546
+	Objekt:	wall painting
+	Herkunft:	Rome
+	Land:	CH
+	Kategorie:	wall painting
+	Bibliographie:	Schäfer, Th., Imperii Insignia, 29. Ergh. RM (1989) 381 Nr.  B 14 Taf. 90.
+Szene
+	ID:	56726
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Musei Capitolini
+	Direktor:	Dirigente Dott. Claudio Parisi Presicce
+	Adresse:	Via delle Tre Pile, 1
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Sovraintendenza ai Beni Culturali                     del Comune di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Archivio fotografico Musei Capitolini
+	Hat die Fotorechte:	1

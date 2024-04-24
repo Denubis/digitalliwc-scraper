@@ -1,0 +1,205 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d75e6bf0636-e
+Vulcanus_41_1_0
+Iuno_257_0_1
+Mercurius_192_1_0
+Ares/Mars_269_1_0
+Athena/Minerva_2_1_0
+Ares/Mars_376a_1_0
+Eros/Amor, Cupido_ad 40_0_0
+Ariadne (vol. III)_76_0_0
+Eros/Amor, Cupido_239_0_0
+Venus_361_1_0
+Pan (S)_52_0_0
+Poseidon/Neptunus_29_1_0
+Alkestis_54e_0_0
+Achilleus_113_0_0
+Galateia (vol. V)_34_0_0
+
+
+
+Monument
+	ID:	3659
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	V 1,18 (Casa degli Epigrammi greci)
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	cult image, cult statue worshipper, praying man pedestal, socle
+	Name:	Achilleus Alkestis Iuno Athena/Minerva Galateia Eros/Amor, Cupido Ariadne Pan Mercurius Poseidon/Neptunus Vulcanus Venus
+	Beschreibung:	Wall paintings in the atrium of the casa degli Epigrammi
+	Bibliographie:	Schefold, WP 63-66.
+Szene
+	ID:	49491
+	Szenerieangabe:	(b)
+	Beschreibung:	Six busts of divinities: Athena/Minerva with lance and shield, Iuno in three-quarter view, wearing a stephane. Hermes/Mercurius with caduceus. Vulcanus.
+	Sequenznummer:	1010
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49491X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49491X005.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49491X204.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49491X207.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49491X302.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Vulcanus
+	Katalognummer:	41
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iuno
+	Katalognummer:	257
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	192
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ares/Mars
+	Katalognummer:	269
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	2
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	49492
+	Szenerieangabe:	o
+	Sequenznummer:	1140
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49492X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49492X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49492X203.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Ares/Mars
+	Katalognummer:	376a
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 40
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ariadne (vol. III)
+	Katalognummer:	76
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49493
+	Szenerieangabe:	y
+	Beschreibung:	(E-Wand:) Bacchus (Panther, Kantharos, Thyrsos?) auf hoher, breiter Rundbasis sitzend; unten zwei Adoranten (?, stark zerstört). Homer and two fishermen in front of a statue of Neptunus. Amor wrestling Pan in the presence of Venus.
+	Bibliographie:	Schefold, WP 65;Schefold, K., Pompejanische Malerei (1952) Taf. 8;PompPittMos III (1991) 564-565, 63a-b.
+	Sequenznummer:	1240
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49493X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49493X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49493X203.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49493X204.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49493X205.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Datierung
+	Periode:	-40 - -30 
+	Kommentar:	Schefold
+Epoche
+	Name:	2. pompejanischer Stil
+	Periode:	-80 - -1 
+	Sequenznummer:	1330
+Datierung
+	Periode:	-40 - -30 
+	Kommentar:	Schefold
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	239
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Venus
+	Katalognummer:	361
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Pan (S)
+	Katalognummer:	52
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Poseidon/Neptunus
+	Katalognummer:	29
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	49494
+	Szenerieangabe:	n
+	Bibliographie:	Schefold, WP 64; Curtius, WP 183 fig. 112.
+	Kommentar:	Destroyed.
+	Sequenznummer:	1130
+	Name:	Achilleus Alkestis
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	54e
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	113
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49495
+	Szenerieangabe:	p
+	Beschreibung:	Polyphemos and Galateia.
+	Sequenznummer:	1150
+Catalog LIMC
+	Artikel:	Galateia (vol. V)
+	Katalognummer:	34
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	V 1,18
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa degli Epigrammi greci

@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-7621661abd911-9
+Africa_8_1_0
+
+
+
+Monument
+	ID:	44998
+	Entdeckungsort:	Pompei
+	Objekt:	medallion
+	Material:	bronze
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	proboscis
+	Name:	Africa
+	Bibliographie:	Maiuri, A., Pompei (1957) 174 fig. 133; Petronelli, A., Il bronzo e il rame nell'arte decorativa italiana (1926) pl. 23, 43.
+	Monument-URL:	arachne.dainst.org/entity/1188516
+Datierung
+	Periode:	1 - 100 
+Epoche
+	Name:	1. Jh. n. Chr.
+	Periode:	1 - 100 
+	Sequenznummer:	3000
+Szene
+	ID:	47345
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Africa
+	Katalognummer:	8
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	116188
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

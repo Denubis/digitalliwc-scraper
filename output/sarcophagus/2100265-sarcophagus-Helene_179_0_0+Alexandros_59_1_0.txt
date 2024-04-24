@@ -1,0 +1,54 @@
+http://ark.dasch.swiss/ark:/72163/080e-754a9085c2e52-b
+Helene_179_0_0
+Alexandros_59_1_0
+
+
+
+Monument
+	ID:	29837
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	sword ship, boat rudder
+	Name:	Alexandros Helene
+	Bibliographie:	SarkRel II 185 no 176 pl.  58; Kahil, Hélène 238 no. 188 pl. 6, 4.
+Datierung
+	Periode:	100 - 200 
+Epoche
+	Name:	2. Jh. n. Chr.
+	Periode:	100 - 200 
+	Sequenznummer:	3140
+Szene
+	ID:	31295
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/venezia/museo_archeologico_nazionale/31295X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Helene
+	Katalognummer:	179
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Alexandros
+	Katalognummer:	59
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	92
+Museum
+	Land:	IT
+	Stadt:	Venezia
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Soprintendente Dott.ssa Caterina Bon Valsassina
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Piazza S. Marco 63
+	Postleitzahl:	I-30124
+	Kontaktzenter:	Soprintendenza Speciale Polo Museale Veneziano
+	Stadt des Kontaktzenters:	Venezia
+	Rechteinhaber der Fotos:	© Polo Museale del Veneto
+	Hat die Fotorechte:	0

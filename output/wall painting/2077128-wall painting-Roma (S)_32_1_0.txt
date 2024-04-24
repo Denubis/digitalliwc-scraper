@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-73ffc9023bcad-8
+Roma (S)_32_1_0
+
+
+
+Monument
+	ID:	6508
+	Entdeckungsort:	Sabratha
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Roma
+Szene
+	ID:	6642
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/libyan_arab_jamahiriya/sabratha/musee/6642X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Roma (S)
+	Katalognummer:	32
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	LY
+	Stadt:	Sabratha
+	Name:	Musée
+	Rechteinhaber der Fotos:	© Musée Sabratha
+	Hat die Fotorechte:	1

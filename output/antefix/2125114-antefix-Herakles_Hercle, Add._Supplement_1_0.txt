@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-76add1d0b3567-5
+Herakles/Hercle, Add._Supplement_1_0
+
+
+
+Monument
+	ID:	201852
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	Triangular Forum
+	Objekt:	antefix
+	Material:	terracotta
+	Land:	CH
+	Kategorie:	relief
+	Name:	Herakles/Hercle
+	Beschreibung:	head of Hercle
+	Bibliographie:	Lulof, P. S., / Moormann E. M. (eds.), Deliciae Fictiles II. Proceedings...Rome 1996 (1997) 190 fig. 1.
+Szene
+	ID:	98833
+	Beschreibung:	head of Hercle
+Catalog LIMC
+	Artikel:	Herakles/Hercle, Add.
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tempio dorico
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Foro Triangolare
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-766e1d38ec85f-1
+
+
+
+Monument
+	ID:	53841
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	I 7,1 (House of C. Cuspius Pansa)
+	Objekt:	altar: arula
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	varia
+	Stichwort:	dove altar: arula, portable altar acanthus
+	Beschreibung:	Auf vier Füssen stehende Arula mit quadratischem Grundriss und profilierter Stand- und Deckplatte mit pulvini. Verziert ist der Tragaltar mit Reliefs von schnäbelnden Tauben und Akanthus, die Deckplatte ist mit Bronzeblättern versehen. Auf der Oberseite befinden sich rechteckige Eintiefungen zur Aufnahme von feuerfestem Material. 
+	Bibliographie:	Dwyer, E. J., Pompeian Domestic Sculpture (1982) 89 Taf. 36 Abb. 130–133; Dräger, O., Religionem significare. Studien zu reich verzierten römischen Altären und Basen aus Marmor (1994), 23 Anm. 61. 
+Datierung
+	Periode:	-60 - -40 
+Epoche
+	Name:	Mitte 1. Jh. v. Chr.
+	Periode:	-60 - -40 
+	Sequenznummer:	2870
+Szene
+	ID:	59240
+Catalog Thes CRA
+	Indexnummer:	536
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Deposito archeologico
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

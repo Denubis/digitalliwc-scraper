@@ -1,0 +1,31 @@
+http://ark.dasch.swiss/ark:/72163/080e-7438af7b16f69-d
+Philyra_4_0_0
+
+
+
+Monument
+	ID:	10527
+	Entdeckungsort:	Knidos
+	Entdeckungsort Details:	house
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Philyra
+	Beschreibung:	Achilleus and Chiron, surrounded by women. One of them is Philyra.
+Szene
+	ID:	10757
+	Beschreibung:	Achilleus and Chiron, surrounded by women. One of them is Philyra.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Philyra
+	Katalognummer:	4
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	TR
+	Stadt:	Bodrum
+	Name:	Musée
+	Rechteinhaber der Fotos:	© Museum Bodrum
+	Hat die Fotorechte:	1

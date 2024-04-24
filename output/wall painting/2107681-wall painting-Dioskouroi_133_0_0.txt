@@ -1,0 +1,31 @@
+http://ark.dasch.swiss/ark:/72163/080e-75b49678b512a-8
+Dioskouroi_133_0_0
+
+
+
+Monument
+	ID:	37320
+	Entdeckungsort:	Faijum
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Dioskouroi
+Szene
+	ID:	39225
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Dioskouroi
+	Katalognummer:	133
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	EG
+	Stadt:	Alexandrie
+	Name:	Musée Gréco-Romain
+	Kontaktzenter:	Musée Gréco-Romain
+	Stadt des Kontaktzenters:	Alexandrie
+	Rechteinhaber der Fotos:	© Musée Gréco-Romain Alexandria
+	Hat die Fotorechte:	1

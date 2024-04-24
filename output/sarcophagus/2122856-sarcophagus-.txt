@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-768d89b8a51cd-c
+
+
+
+Monument
+	ID:	91134
+	Entdeckungsort:	Mallia (Crete)
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	GR
+	Kategorie:	relief
+	Stichwort:	snake garland
+	Name:	Eros Medousa
+	Grössenangabe:	-
+	Beschreibung:	Έρως, Mέδουσα.
+	Bibliographie:	BCH 82 (1958) 828 fig. 12, 13.van Effenteure, H., “Le sarcophage attique à guirlandes de Mallia”, BCH 100 (1976) 525-553.
+	Kommentar:	4190
+Szene
+	ID:	96619
+	Beschreibung:	Στο κέντρο των δύο μεγάλων πλευρών της σαρκοφάγου: Έρως πλαισιωμένος με γιρλάντες, πρόσωπο κατά μέτωπο, σώμα και δεξιό πόδι, στο οποίο στηρίζεται, κατά 3/4, το αριστερό στο πλάι, πίσω από το δεξιό. Tο αριστερό χέρι ανασηκωμένο, το δεξιό λοξά προς τα κάτω. Φαίνεται μόνο το δεξιό πτερό.Στη μία μεγάλη πλευρά της σαρκοφάγου: από μία κεφαλή Mέδουσας εκατέρωθεν του Έρωτα, πλαισιωμένη με γιρλάντες. Kόμη κυματοειδής, πτερά στην κεφαλή, πάνω στην οποία όφεις, των οποίων οι ουρές δένονται στο λαιμό.
+Inventar
+	Nummer:	-
+Museum
+	Land:	GR
+	Stadt:	Héraklion
+	Name:	Musée Archéologique
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Archaeological Museum of Heraklion
+	Hat die Fotorechte:	0

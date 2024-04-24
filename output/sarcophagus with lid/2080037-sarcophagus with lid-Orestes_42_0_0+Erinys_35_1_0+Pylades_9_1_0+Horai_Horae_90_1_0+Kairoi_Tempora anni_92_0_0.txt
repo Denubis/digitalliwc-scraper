@@ -1,0 +1,100 @@
+http://ark.dasch.swiss/ark:/72163/080e-74295fb584c3e-8
+Orestes_42_0_0
+Erinys_35_1_0
+Pylades_9_1_0
+Horai/Horae_90_1_0
+Kairoi/Tempora anni_92_0_0
+
+
+
+Monument
+	ID:	9443
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus with lid
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Orestes Pylades Horai/Horae Kairoi/Tempora anni Erinys
+	Beschreibung:	Pylades with a sword in a scene showing the death of Aigisthos and Klytaimestra. On the lid: Four recumbent Horae confronted in pairs rest their hands on baskets with seasonal products, served by Erotes that lean on one of their legs.
+Datierung
+	Periode:	175 
+Szene
+	ID:	9646
+	Beschreibung:	Pylades with a sword in a scene showing the death of Aigisthos and Klytaimestra.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/cleveland/cleveland_museum_of_art/9646X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/cleveland/cleveland_museum_of_art/9646X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/cleveland/cleveland_museum_of_art/9646X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/cleveland/cleveland_museum_of_art/9646X004.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Orestes
+	Katalognummer:	42
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Erinys
+	Katalognummer:	35
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Pylades
+	Katalognummer:	9
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	24487
+	Szenerieangabe:	couvercle
+	Beschreibung:	Four recumbent Horae confronted in pairs rest their hands on baskets with seasonal products, served by Erotes that lean on one of their legs.
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/cleveland/cleveland_museum_of_art/24487X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/cleveland/cleveland_museum_of_art/24487X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/cleveland/cleveland_museum_of_art/24487X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/cleveland/cleveland_museum_of_art/24487X004.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	90
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	92
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	28.856
+Museum
+	Land:	US
+	Stadt:	Cleveland
+	Name:	Cleveland Museum of Art
+	Direktor:	Michael Bennett, Curator of Greek and Roman Art
+	Anrede:	Dear Director,
+	Adresse:	11150 East Blvd
+	Postleitzahl:	USA-
+	Kontaktzenter:	Cleveland Museum of Art
+	Stadt des Kontaktzenters:	Cleveland OH 44106
+	Rechteinhaber der Fotos:	© Cleveland Museum of Art
+	Hat die Fotorechte:	0

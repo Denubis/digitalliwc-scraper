@@ -1,0 +1,126 @@
+http://ark.dasch.swiss/ark:/72163/080e-7420111a4a047-1
+Pygmaioi_47d_0_0
+Dionysos/Bacchus_26_1_0
+Lykomedes I_ad 4_0_0
+Helios/Sol_91_0_0
+Artemis/Diana_53_0_0
+Apollon/Apollo_420_1_0
+Apollon/Apollo_467_0_0
+Apollon/Apollo_295_0_0
+Apollon/Apollo_276_0_0
+Olympos I_37_1_0
+
+
+
+Monument
+	ID:	8783
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 7,23 (House of Apollo)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Apollon/Apollo Olympos I Dionysos/Bacchus Helios/Sol Pygmaioi
+	Beschreibung:	Mural painting with various scenes.
+Szene
+	ID:	13650
+	Szenerieangabe:	f
+	Beschreibung:	Young Bacchus, seated, in his left the thyrsos.
+	Sequenznummer:	1050
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/13650X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Pygmaioi
+	Katalognummer:	47d
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	26
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	49642
+	Szenerieangabe:	(b)
+	Sequenznummer:	1010
+Catalog LIMC
+	Artikel:	Lykomedes I
+	Katalognummer:	ad 4
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49643
+	Szenerieangabe:	(a)
+	Beschreibung:	Standing Sol with nimbus, rays, sceptre and globe.
+	Sequenznummer:	1000
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49643X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	91
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49644
+	Szenerieangabe:	d
+	Sequenznummer:	1030
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	53
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49645
+	Szenerieangabe:	g
+	Beschreibung:	Olympos (I) grieving for Marsyas: Olympos (I) stands alone, head bowed. Other figures from the myth appear in the room but they are separated from Olympos by the architectural backdrop.
+	Sequenznummer:	1060
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49645X002.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	420
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	467
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	295
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	276
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Olympos I
+	Katalognummer:	37
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VI 7,23
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa di Apollo

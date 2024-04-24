@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-75b10726eb48d-b
+Dionysos/Bacchus_115_0_0
+
+
+
+Monument
+	ID:	37067
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dionysos/Bacchus
+	Beschreibung:	Under a porticus with five arcs the four seasons and in the centre Bacchus (?) with a female figure (Libera/Ariadne?).
+Szene
+	ID:	38964
+	Beschreibung:	Under a porticus with five arcs the four seasons and in the centre Bacchus (?) with a female figure (Libera/Ariadne?).
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/collezione_ludovisi_gia/38964X301.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	115
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel IV 4, 246
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Ada
+	Rechteinhaber der Fotos:	© Roma
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	Ehem. A.O.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Collezione Ludovisi (già)
+	Rechteinhaber der Fotos:	© Collection Ludovisi (once)
+	Hat die Fotorechte:	1

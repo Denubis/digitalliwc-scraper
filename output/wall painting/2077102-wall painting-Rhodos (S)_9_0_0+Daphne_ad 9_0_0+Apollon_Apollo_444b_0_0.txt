@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-73ff69d9d26ab-8
+Rhodos (S)_9_0_0
+Daphne_ad 9_0_0
+Apollon/Apollo_444b_0_0
+
+
+
+Monument
+	ID:	6481
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 4,31.51 (Casa dei Capitelli colorati / Casa di Arianna)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Apollon Daphne Rhodos
+	Beschreibung:	Daphne pursued by Apollon: Daphne naked but for a himation draped over her leg and arm, kneels with right arm raised. With her left hand she tries to push Apollon off who seizes her by the waist. He wears a himation round his legs and sandals. A laurel tree grows behind them. Apollon's bow, quiver and spear are placed against a rock. Helios, nimbated, sitting on a rock next to a young girl (Rhodos?).
+Szene
+	ID:	6614
+	Beschreibung:	Daphne pursued by Apollon: Daphne naked but for a himation draped over her leg and arm, kneels with right arm raised. With her left hand she tries to push Apollon off who seizes her by the waist. He wears a himation round his legs and sandals. A laurel tree grows behind them. Apollon's bow, quiver and spear are placed against a rock. Helios, nimbated, sitting on a rock next to a young girl (Rhodos?).
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Rhodos (S)
+	Katalognummer:	9
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Daphne
+	Katalognummer:	ad 9
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	444b
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9536
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

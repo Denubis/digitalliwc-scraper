@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-741ee8a63ccf2-a
+Penelope_25_0_0
+Odysseus_216_0_0
+
+
+
+Monument
+	ID:	8702
+	Entdeckungsort:	Alexandria
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Odysseus Penelope
+	Beschreibung:	Odysseus as beggar. Next to him Penelope.
+Szene
+	ID:	8900
+	Beschreibung:	Odysseus as beggar. Next to him Penelope.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Penelope
+	Katalognummer:	25
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Odysseus
+	Katalognummer:	216
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	AA
+	Stadt:	Collections privées non spécifiées
+	Direktor:	Herrn Prof. Dr. K. Schauenburg
+	Adresse:	Feldstrasse 75
+	Postleitzahl:	D-24105
+	Kontaktzenter:	 
+	Stadt des Kontaktzenters:	Kiel
+	Rechteinhaber der Fotos:	© Private collection
+	Hat die Fotorechte:	1

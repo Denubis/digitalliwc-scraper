@@ -1,0 +1,51 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e75a35a388c-c
+Ixion_4_1_0
+Vulcanus_79_0_0
+
+
+
+Monument
+	ID:	4783
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	temple
+	Objekt:	metope
+	Material:	limestone
+	Land:	CH
+	Kategorie:	relief_stone
+	Name:	Ixion Vulcanus
+	Beschreibung:	Ixion handcuffed to the wheel. On the left Athena and Hephaistos.
+Szene
+	ID:	35059
+	Beschreibung:	Ixion handcuffed to the wheel. On the left Athena and Hephaistos.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/antiquarium/35059X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/antiquarium/35059X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/antiquarium/35059X202.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Ixion
+	Katalognummer:	4
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Vulcanus
+	Katalognummer:	79
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Antiquarium
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via villa dei Misteri 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei (NA)
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

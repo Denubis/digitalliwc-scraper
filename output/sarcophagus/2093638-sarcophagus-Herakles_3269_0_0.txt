@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ebd23f9d3a3-8
+Herakles_3269_0_0
+
+
+
+Monument
+	ID:	23156
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Herakles
+	Beschreibung:	Herakles in lionskin running with torch. A satyriskos carries his club.
+Datierung
+	Periode:	210 
+Szene
+	ID:	24294
+	Beschreibung:	Herakles in lionskin running with torch. A satyriskos carries his club.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	3269
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel IV 2, 98
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Giustiniani
+	Rechteinhaber der Fotos:	© Palazzo Giustiniani, Roma
+	Hat die Fotorechte:	1

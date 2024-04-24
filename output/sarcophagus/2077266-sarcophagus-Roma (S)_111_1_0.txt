@@ -1,0 +1,30 @@
+http://ark.dasch.swiss/ark:/72163/080e-7401c213cd8df-4
+Roma (S)_111_1_0
+
+
+
+Monument
+	ID:	6646
+	Entdeckungsort:	Tebessa, Tébessa, Theveste
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Roma
+Szene
+	ID:	6784
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Roma (S)
+	Katalognummer:	111
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Autel de l'église française
+Museum
+	Land:	DZ
+	Stadt:	Tebessa (Theveste)
+	Stadt des Kontaktzenters:	Tebessa
+	Rechteinhaber der Fotos:	© Tebessa
+	Hat die Fotorechte:	1

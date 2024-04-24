@@ -1,0 +1,54 @@
+http://ark.dasch.swiss/ark:/72163/080e-747221079fd63-3
+Nemesis_283_1_0
+Moirai_44_0_0
+Mousa, Mousai/Musae (vol. VII)_206_0_0
+
+
+
+Monument
+	ID:	14572
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Moirai Nemesis Mousa, Mousai
+Szene
+	ID:	15012
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_doria_pamphilj/15012X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_doria_pamphilj/15012X302.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Nemesis
+	Katalognummer:	283
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Moirai
+	Katalognummer:	44
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	206
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Calza 291
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Doria Pamphilj
+	Rechteinhaber der Fotos:	© Villa Doria Pamphilj, Roma
+	Kommentar:	Numéros d'après Calza, R. (éd.), Antichità di Villa Doria Pamphilj (1977).
+	Hat die Fotorechte:	1

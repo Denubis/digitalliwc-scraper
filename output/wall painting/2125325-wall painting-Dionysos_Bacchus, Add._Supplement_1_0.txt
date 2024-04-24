@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-76b0d60ecf6c6-4
+Dionysos/Bacchus, Add._Supplement_1_0
+
+
+
+Monument
+	ID:	202299
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	cult statue of Dionysos sitting on a base under a baldachin; holding a thyrsos staff; in front of him initiation scene; satyr guiding a buck and a child (Bacchus?) in company of a woman
+	Inschrift:	Dionysos
+	Bibliographie:	Attenni, L., Frammenti di affresco con scene d'iniziazione dionisiaca (2002).
+Szene
+	ID:	99296
+	Beschreibung:	cult statue of Dionysos sitting on a base under a baldachin; holding a thyrsos staff; in front of him initiation scene; satyr guiding a buck and a child (Bacchus?) in company of a woman
+	Inschrift:	Dionysos
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus, Add.
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	87
+Museum
+	Land:	IT
+	Stadt:	Lanuvio
+	Name:	Museo Civico Lanuvino
+	Direktor:	Direttore Dott. Luca Attenni
+	Adresse:	Piazza della Maddalena, 16
+	Postleitzahl:	I-00040
+	Faxnummer:	0030 06 937 89 229
+	Kontaktzenter:	Museo Civico Lanuvino
+	Stadt des Kontaktzenters:	Lanuvio - Roma
+	Rechteinhaber der Fotos:	© Museo Civico Lanuvino
+	Hat die Fotorechte:	0

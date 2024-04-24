@@ -1,0 +1,78 @@
+http://ark.dasch.swiss/ark:/72163/080e-7432b94b90984-7
+Phaidra_3_1_0
+Hippolytos I_11_1_0
+Hippolytos I_86_1_0
+Hippolytos I_118_1_0
+
+
+
+Monument
+	ID:	10105
+	Entdeckungsort:	Tyre
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hippolytos I Phaidra
+	Beschreibung:	On the left Phaidra seated to the right, her right arm is supported by a companion, turning back to her nurse. Eros prepares to draw an arrow in the direction of Phaidra. On the right two women playing instruments, three further women in the background.
+Szene
+	ID:	10323
+	Beschreibung:	On the left Phaidra seated to the right, her right arm is supported by a companion, turning back to her nurse. Eros prepares to draw an arrow in the direction of Phaidra. On the right two women playing instruments, three further women in the background.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/lebanon/tyr/10323X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/lebanon/tyr/10323X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/lebanon/tyr/10323X301.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/lebanon/tyr/10323X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/lebanon/tyr/10323X303.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/lebanon/tyr/10323X304.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/lebanon/tyr/10323X305.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Phaidra
+	Katalognummer:	3
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	11
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	86
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	118
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	330
+Museum
+	Land:	LB
+	Stadt:	Tyr
+	Rechteinhaber der Fotos:	© Tyr
+	Hat die Fotorechte:	1

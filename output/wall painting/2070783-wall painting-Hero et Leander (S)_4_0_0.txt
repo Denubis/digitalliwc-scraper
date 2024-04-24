@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a512d4dbd00-b
+Hero et Leander (S)_4_0_0
+
+
+
+Monument
+	ID:	85
+	Entdeckungsort:	Morlupo
+	Entdeckungsort Details:	tomb
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Hero Leander
+	Beschreibung:	Leander swimming to the right in direction of the shore where a tower and a porticus with three figures stand. On top of the tower is Hero. 
+	Bibliographie:	F. Feraudi-Gruénais, Ubi diutius nobis habitandum est. Die Innendekoration der kaiserzeitlichen Gräber Roms (2001) 73–75 Nr. K 29 Abb. 60
+Szene
+	ID:	338
+	Beschreibung:	Leander swimming to the right in direction of the shore where a tower and a porticus with three figures stand. On top of the tower is Hero. 
+Catalog LIMC
+	Artikel:	Hero et Leander (S)
+	Katalognummer:	4
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	38822
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Romano
+	Direktor:	Soprintendente Dott. Giuseppe Proietti
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali - Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

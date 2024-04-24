@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ee5db6bd69d-5
+Kairoi/Tempora anni_83_0_0
+Kairoi/Tempora anni_172_0_0
+
+
+
+Monument
+	ID:	23335
+	Entdeckungsort:	Anamur (Turkey)
+	Entdeckungsort Details:	tomb
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Kairoi/Tempora anni
+	Beschreibung:	Mural painting in tomb BI 16. In the main vault two cycles are depicted: male busts framed by laurel wreaths of which only Winter (XEIMΩN) is preserved. And boxes with winged putti - only Fall preserved.
+	Inschrift:	XEIMΩN
+Szene
+	ID:	24479
+	Beschreibung:	In the main vault two cycles are depicted: male busts framed by laurel wreaths of which only Winter (XEIMΩN) is preserved. And boxes with winged putti - only Fall preserved.
+	Inschrift:	XEIMΩN
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	83
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	172
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tombe BI 16
+Museum
+	Land:	TR
+	Stadt:	Anamur (Anemurion)
+	Rechteinhaber der Fotos:	© Anamur
+	Hat die Fotorechte:	1

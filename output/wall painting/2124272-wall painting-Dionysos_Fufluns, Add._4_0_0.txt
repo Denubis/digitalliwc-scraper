@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-76a1c82a23b75-2
+Dionysos/Fufluns, Add._4_0_0
+
+
+
+Monument
+	ID:	201282
+	Entdeckungsort:	Tarquinia
+	Entdeckungsort Details:	necropolis of Monterozzi
+	Objekt:	wall painting
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	panther, leopard dance satyr, silen
+	Name:	Dionysos/Fufluns
+	Beschreibung:	Bearded Dionysos surrounded by dancing satyrs
+	Bibliographie:	Steingräber, S., EtrWmal 310 no. 59.
+Datierung
+	Periode:	-550 - -500 
+Epoche
+	Name:	2. Hälfte 6. Jh. v. Chr.
+	Periode:	-550 - -500 
+	Sequenznummer:	2200
+Szene
+	ID:	98210
+	Beschreibung:	Bearded Dionysos surrounded by dancing satyrs
+Catalog LIMC
+	Artikel:	Dionysos/Fufluns, Add.
+	Katalognummer:	4
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba con Dioniso e Sileni
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Necropoli
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

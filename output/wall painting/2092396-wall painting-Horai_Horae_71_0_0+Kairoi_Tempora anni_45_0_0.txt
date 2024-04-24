@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-74da10a17d5e1-6
+Horai/Horae_71_0_0
+Kairoi/Tempora anni_45_0_0
+
+
+
+Monument
+	ID:	21909
+	Entdeckungsort:	Stabiae
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Horai/Horae Kairoi/Tempora anni
+	Beschreibung:	Armillary sphere formed by the interlacing of several archs. Inside are couples of Horae and Karpoi moving forward. 
+Datierung
+	Periode:	50 - 79 
+Szene
+	ID:	22914
+	Beschreibung:	Armillary sphere formed by the interlacing of several archs. Inside are couples of Horae and Karpoi moving forward. 
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	71
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	45
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Castellammare di Stabia
+	Name:	Antiquarium Stabiano
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

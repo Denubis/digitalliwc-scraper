@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-749f261c3f5a4-d
+Mercurius_345_1_0
+
+
+
+Monument
+	ID:	17757
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Mercurius
+	Beschreibung:	Mercurius and a couple.
+Szene
+	ID:	18512
+	Beschreibung:	Mercurius and a couple.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/russian_federation/st_petersburg/the_state_hermitage_museum/18512X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	345
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	а 889
+Museum
+	Land:	RU
+	Stadt:	St. Petersburg
+	Name:	The State Hermitage Museum
+	Direktor:	Ms. Anastasia Mikliaeva, Head Rights & Reproductions
+	Adresse:	Dvortsovaya Nabereznaja 34
+	Postleitzahl:	190 000
+	Kontaktzenter:	The State Hermitage Museum
+	Stadt des Kontaktzenters:	St. Petersburg / Russia
+	Rechteinhaber der Fotos:	© The State Hermitage Museum, St. Petersburg
+	Kommentar:	Pour la céramique, les chiffres avec la lettre B se rapportent au catalogue d'O. Waldhauer (1914).
+	Hat die Fotorechte:	1

@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-76c0013afe03f-d
+
+
+
+Monument
+	ID:	203406
+	Objekt:	wall painting
+	Material:	stucco
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Surrender of a Samnite city to Fabius
+	Bibliographie:	Baldassare, I./Pontrandolfo, A./Rouveret, A./Salvadori, M., La peinture romaine (2003) 47 fig.
+Szene
+	ID:	100506
+	Beschreibung:	Surrender of a Samnite city to Fabius
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	11
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VIII. 4.i. Krieg, röm.
+	Bandnummer:	8
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1025
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Musei Capitolini
+	Direktor:	Dirigente Dott. Claudio Parisi Presicce
+	Adresse:	Via delle Tre Pile, 1
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Sovraintendenza ai Beni Culturali                     del Comune di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Archivio fotografico Musei Capitolini
+	Hat die Fotorechte:	1

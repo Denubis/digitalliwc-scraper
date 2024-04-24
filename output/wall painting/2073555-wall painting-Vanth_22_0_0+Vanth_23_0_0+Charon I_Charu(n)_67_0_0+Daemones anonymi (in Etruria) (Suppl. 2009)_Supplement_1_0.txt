@@ -1,0 +1,85 @@
+http://ark.dasch.swiss/ark:/72163/080e-73ccb41f83624-e
+Vanth_22_0_0
+Vanth_23_0_0
+Charon I/Charu(n)_67_0_0
+Daemones anonymi (in Etruria) (Suppl. 2009)_Supplement_1_0
+
+
+
+Monument
+	ID:	2912
+	Entdeckungsort:	Tarquinia
+	Entdeckungsort Details:	Tomba del Tifone
+	Objekt:	wall painting
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	snake demon Giant acanthus
+	Name:	Charon I/Charu(n) Vanth
+	Beschreibung:	Right wall: procession to the left with a demon holding a torch, porters of cornua, four heralds, magistrate (with a demon in the background), togate, two men with cloak and litui, two lictors with knotty sticks, a magistrate, a demon, frontal female figure (processus magistraturalis); Another scene on the wall: two giants with snake legs. Vanth with torch and Charun.
+	Bibliographie:	Steingräber,  S., Catalogo ragionato  della pittura etrusca (1984) 347f. n. 118 fig. 321 pl. 150.151; Steingräber, EtrWmal 355-356 no. 118 fig. 321 pl. 150. 151; Tassi Scandone, E., Verghe, scuri e fasci littori in Etruria (2001) 47 s.  n. 1.4.
+Datierung
+	Periode:	-210 - -200 
+Epoche
+	Name:	Ende 3. Jh. v. Chr.
+	Periode:	-210 - -200 
+	Sequenznummer:	2600
+Szene
+	ID:	2935
+	Beschreibung:	Right wall: procession to the left with a demon holding a torch, porters of cornua, four heralds, magistrate (with a demon in the background), togate, two men with cloak and litui, two lictors with knotty sticks, a magistrate, a demon, frontal female figure (processus magistraturalis); Another scene on the wall: two giants with snake legs. Vanth with torch and Charun.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/necropoli/2935X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/necropoli/2935X102.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	62
+	Asterix:	0
+	Dot:	1
+Catalog Thes CRA Kapitel
+	Name:	I. 1. Prozessionen, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	90
+	Bandnummer:	1
+Catalog LIMC
+	Artikel:	Vanth
+	Katalognummer:	22
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Vanth
+	Katalognummer:	23
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Charon I/Charu(n)
+	Katalognummer:	67
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Daemones anonymi (in Etruria) (Suppl. 2009)
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba del Tifone
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Necropoli
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

@@ -1,0 +1,30 @@
+http://ark.dasch.swiss/ark:/72163/080e-7509be74bff44-6
+Horai/Horae_199_0_0
+
+
+
+Monument
+	ID:	25268
+	Entdeckungsort:	Millière-aux-Mesnuls (Yvelines)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Representations of the four Horae.
+Datierung
+	Periode:	80 - 120 
+Szene
+	ID:	26527
+	Beschreibung:	Representations of the four Horae.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	199
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	FR
+	Stadt:	Millière-aux-Mesnuls (Yvelines)
+	Rechteinhaber der Fotos:	© Millière-aux-Mesnuls
+	Hat die Fotorechte:	0

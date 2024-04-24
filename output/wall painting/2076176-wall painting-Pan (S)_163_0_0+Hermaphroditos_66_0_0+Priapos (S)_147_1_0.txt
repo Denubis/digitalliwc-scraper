@@ -1,0 +1,58 @@
+http://ark.dasch.swiss/ark:/72163/080e-73f22cc464815-f
+Pan (S)_163_0_0
+Hermaphroditos_66_0_0
+Priapos (S)_147_1_0
+
+
+
+Monument
+	ID:	5547
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 9,6 (House of the Dioskouroi)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Hermaphroditos Pan Priapos
+	Beschreibung:	Reclining Hermaphroditos grasps Pan's arm who grasps an edge of Hermaphroditos' mantle, pulling it away to expose the male genitals. Herm of Priapos, with drinking horn and thyrsos.
+Szene
+	ID:	5639
+	Beschreibung:	Reclining Hermaphroditos grasps Pan's arm who grasps an edge of Hermaphroditos' mantle, pulling it away to expose the male genitals. Herm of Priapos, with drinking horn and thyrsos.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/5639X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/5639X201.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Pan (S)
+	Katalognummer:	163
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hermaphroditos
+	Katalognummer:	66
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Priapos (S)
+	Katalognummer:	147
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	27700
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

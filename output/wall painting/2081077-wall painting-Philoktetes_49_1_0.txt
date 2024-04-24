@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-74383e05fbc8e-9
+Philoktetes_49_1_0
+
+
+
+Monument
+	ID:	10496
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	IX 8,3 (Casa del Centenario)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Philoktetes
+	Beschreibung:	Philoktetes, standing upright.
+Szene
+	ID:	10724
+	Beschreibung:	Philoktetes, standing upright.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Philoktetes
+	Katalognummer:	49
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	120032
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

@@ -1,0 +1,128 @@
+http://ark.dasch.swiss/ark:/72163/080e-73bf59c292966-b
+Leda_67_0_1
+Amymone_27_1_0
+Zeus/Iuppiter_312_1_0
+Narkissos_61_1_0
+Eros/Amor, Cupido_ad 40_0_0
+Ariadne (vol. III)_77_0_0
+Olympos I_18_0_1
+Zeus/Iuppiter_309_0_0
+Danae_15_1_0
+
+
+
+Monument
+	ID:	1970
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	V 2,1 (Casa della Regina Margherita)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	water
+	Name:	Amymone Poseidon Olympos I Danae Eros/Amor, Cupido Ariadne Narkissos Leda Zeus/Iuppiter
+	Beschreibung:	Mural painting with various scenes.
+	Bibliographie:	Schefold, WP 69; HBr Taf. 236.
+Datierung
+	Periode:	70 - 79 
+Szene
+	ID:	17337
+	Szenerieangabe:	o
+	Sequenznummer:	1140
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/17337X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/17337X204.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/17337X205.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Leda
+	Katalognummer:	67
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Amymone
+	Katalognummer:	27
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	312
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	20304
+	Szenerieangabe:	r
+	Beschreibung:	Narkissos, nymphs and Eros.
+	Sequenznummer:	1170
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/20304X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/20304X301.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Narkissos
+	Katalognummer:	61
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 40
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ariadne (vol. III)
+	Katalognummer:	77
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49484
+	Szenerieangabe:	p
+	Beschreibung:	Olympos (I) depicted as older youth, fluting, leaning back against Marsyas. Both seated. Pendant: Iuppiter and Danae and two unidentified lovers.
+	Sequenznummer:	1150
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49484X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49484X203.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Olympos I
+	Katalognummer:	18
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	309
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Danae
+	Katalognummer:	15
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	V 2,1.a
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa della Regina Margherita

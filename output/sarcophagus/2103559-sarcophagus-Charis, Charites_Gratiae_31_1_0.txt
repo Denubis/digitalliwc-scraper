@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-7579a84a86b28-0
+Charis, Charites/Gratiae_31_1_0
+
+
+
+Monument
+	ID:	33160
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Charis, Charites/Gratiae
+Szene
+	ID:	34829
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Charis, Charites/Gratiae
+	Katalognummer:	31
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	113226
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Romano
+	Direktor:	Soprintendente Dott. Giuseppe Proietti
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali - Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

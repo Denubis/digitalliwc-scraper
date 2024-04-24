@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-75d4363592b5e-3
+Artemis/Diana_273_0_0
+
+
+
+Monument
+	ID:	39554
+	Entdeckungsort:	Zliten, Zlitan
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Artemis/Diana
+Szene
+	ID:	41603
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	273
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Zliten
+Museum
+	Land:	LY
+	Stadt:	Tripoli (Libye)
+	Name:	Musée
+	Direktor:	Mme le  Dr. Pascale Linant de Bellefonds
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-90023
+	Kontaktzenter:	Université Paris X - Nanterre Maison de l'Archéologie / Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Musée Tripoli
+	Hat die Fotorechte:	1

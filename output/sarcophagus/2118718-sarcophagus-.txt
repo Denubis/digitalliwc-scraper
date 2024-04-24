@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-765260fb70f7b-9
+
+
+
+Monument
+	ID:	51752
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	relief
+	Beschreibung:	Scene on the long side of the sarcophagus showing a procession heading to the right (pompa triumphalis?): from the left to the right; two male figures holding spear and switch, two bovids and two goats, three male figures wearing chiton and himation and carrying spears, two donkeys and a dog conducted by two male figures, the second man holding a machaira in the left, a skeparnon in the right hand, a male figure and two female figures, finally four male figures tied at their necks carrying diverses objects
+	Bibliographie:	Jannot, J. R., Les reliefs archaïques de Chiusi (1983) n. CI 1 fig. 155-159.
+Szene
+	ID:	56969
+	Beschreibung:	Scene on the long side of the sarcophagus showing a procession heading to the right (pompa triumphalis?): from the left to the right; two male figures holding spear and switch, two bovids and two goats, three male figures wearing chiton and himation and carrying spears, two donkeys and a dog conducted by two male figures, the second man holding a machaira in the left, a skeparnon in the right hand, a male figure and two female figures, finally four male figures tied at their necks carrying diverses objects
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	57
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 1. Prozessionen, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	90
+	Bandnummer:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	340
+Museum
+	Land:	IT
+	Stadt:	Perugia
+	Name:	Museo Archeologico Nazionale dell'Umbria
+	Direktor:	Soprintendente Dott. Mario Pagano
+	Adresse:	Piazza Partigiani 9
+	Postleitzahl:	I-06121
+	Kontaktzenter:	Soprintendenza Archeologica per l'Umbria
+	Stadt des Kontaktzenters:	Perugia
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica per l'Umbria
+	Hat die Fotorechte:	1

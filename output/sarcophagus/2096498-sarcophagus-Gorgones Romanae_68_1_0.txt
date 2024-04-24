@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-7514b59ce487f-e
+Gorgones Romanae_68_1_0
+
+
+
+Monument
+	ID:	26043
+	Entdeckungsort:	Voghiera
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Gorgo, Gorgones
+	Beschreibung:	Gorgoneion.
+Szene
+	ID:	27344
+	Szenerieangabe:	couvercle
+	Beschreibung:	Gorgoneion.
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ferrara/palazzo_dei_diamanti/27344X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ferrara/palazzo_dei_diamanti/27344X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ferrara/palazzo_dei_diamanti/27344X103.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Gorgones Romanae
+	Katalognummer:	68
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Ferrara
+	Name:	Palazzo dei Diamanti
+	Rechteinhaber der Fotos:	© Palazzo dei Diamanti, Ferrara
+	Hat die Fotorechte:	0

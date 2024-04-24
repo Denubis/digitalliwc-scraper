@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-75b1a0de5a6df-5
+Dionysos/Bacchus_189_0_0
+
+
+
+Monument
+	ID:	37111
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dionysos/Bacchus Ariadne
+	Beschreibung:	Bacchus standing on a carriage, a satyr guiding it, on the right badly damaged reclining Ariadne and a dancing maenad.
+Szene
+	ID:	39009
+	Beschreibung:	Bacchus standing on a carriage, a satyr guiding it, on the right badly damaged reclining Ariadne and a dancing maenad.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/39009X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/39009X299.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	189
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	6584
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

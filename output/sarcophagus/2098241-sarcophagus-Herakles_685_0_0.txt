@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-752da0d9690ca-7
+Herakles_685_0_0
+
+
+
+Monument
+	ID:	27798
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Herakles
+	Beschreibung:	Herakles, leans on club covered with lionskin and placed under his left armpit.
+Szene
+	ID:	29203
+	Beschreibung:	Herakles, leans on club covered with lionskin and placed under his left armpit.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	685
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2773
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Musei Capitolini
+	Direktor:	Dirigente Dott. Claudio Parisi Presicce
+	Adresse:	Via delle Tre Pile, 1
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Sovraintendenza ai Beni Culturali                     del Comune di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Archivio fotografico Musei Capitolini
+	Hat die Fotorechte:	1

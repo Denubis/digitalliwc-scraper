@@ -1,0 +1,51 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ebada6399f1-0
+Hylas_24_1_0
+Eros/Amor, Cupido_160_0_0
+
+
+
+Monument
+	ID:	23146
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hylas Eros/Amor, Cupido Eros/Amor, Cupido
+	Beschreibung:	Hylas, with chlamys and water vessel, goes right with left leg bent while looking round. A nymph approaching him from either side in order to restrain him. The head of a thrid standing behind him is visible in the background. To either side stands a man between Erotes - the left one with the club is probably Herakles, the other one likely Polyphemus.
+	Monument-URL:	http://www.limc-france.fr/objet/15170
+Datierung
+	Periode:	250 
+Szene
+	ID:	24283
+	Beschreibung:	Hylas, with chlamys and water vessel, goes right with left leg bent while looking round. A nymph approaching him from either side in order to restrain him. The head of a thrid standing behind him is visible in the background. To either side stands a man between Erotes - the left one with the club is probably Herakles, the other one likely Polyphemus.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_mattei_di_giove/24283X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hylas
+	Katalognummer:	24
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	160
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	55
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Mattei di Giove
+	Direktor:	Soprintendente Arch. Costantino Centroni
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Cavalletti 2
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza per i Beni Ambientali Architettonici del Lazio
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Ambientali Architettonici del Lazio
+	Kommentar:	Numéros d'après Guerrini, L. (éd.), Palazzo Mattei di Giove. Le antichità (1982).
+	Hat die Fotorechte:	1

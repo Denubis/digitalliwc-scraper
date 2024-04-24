@@ -1,0 +1,51 @@
+http://ark.dasch.swiss/ark:/72163/080e-746651f015fc1-8
+Rhadamanthys_6_0_0
+
+
+
+Monument
+	ID:	13739
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	GR
+	Kategorie:	relief
+	Stichwort:	throne snake sceptre tree vase torch diphros stele youth siren god goddess
+	Name:	Artemis Rhadamanthys
+	Grössenangabe:	Y. 0.76 μ - Πλ. 2.26 μ - Πάχ. 0.16 μ
+	Beschreibung:	Θεοί, θεές, νέοι, άνδρες(;), Άρτεμις(;)
+	Bibliographie:	Kallipolitis, Aττικαί σαρκοφάγοι της ρωμαϊκής εποχής 19 αρ. 60.Giuliano, A., Il commercio dei sarcofagi attici 44 no. 226.
+	Kommentar:	5234
+Datierung
+	Periode:	160 - 190 
+Epoche
+	Name:	3. Drittel 2. Jh. n. Chr.
+	Periode:	166 - 200 
+	Sequenznummer:	3260
+Szene
+	ID:	14095
+	Beschreibung:	Scene from the Underworld: of Rhadamanthys(?) the raised hand with sceptre is preserved.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/thessalonique/musee_archeologique/14095X301.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Rhadamanthys
+	Katalognummer:	6
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	ρ 116
+Museum
+	Land:	GR
+	Stadt:	Thessalonique
+	Name:	Musée Archéologique
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Archaeological Museum of Thessaloniki
+	Hat die Fotorechte:	0

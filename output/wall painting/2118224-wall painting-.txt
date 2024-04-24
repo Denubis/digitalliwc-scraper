@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-764b50fb9ed55-4
+
+
+
+Monument
+	ID:	51224
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	House of the Triclinium
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Drinking scene; couples with nude upper parts of the body banquetting
+	Bibliographie:	Dosi, A. / Schnell, F., I Romani in cucina (1986) fig. copertina e p. 71.
+Szene
+	ID:	56397
+	Beschreibung:	Drinking scene; couples with nude upper parts of the body banquetting
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	74
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 4.a. Bankett, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	1430
+	Bandnummer:	2
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	120031
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

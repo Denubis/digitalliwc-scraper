@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-745b780f744ae-d
+Psyche_21_1_0
+
+
+
+Monument
+	ID:	12975
+	Entdeckungsort:	Ercolano, Herculaneum, Herculanum
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Psyche
+Szene
+	ID:	13293
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	21
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9329
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

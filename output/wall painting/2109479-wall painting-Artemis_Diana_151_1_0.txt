@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-75ce4b00dd6c8-c
+Artemis/Diana_151_1_0
+
+
+
+Monument
+	ID:	39130
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	hypogeum
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Artemis/Diana
+Szene
+	ID:	41165
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/ipogeo_di_via_livenza/41165X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	151
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Ipogeo di Via Livenza
+	Rechteinhaber der Fotos:	© Ipogeo di Via Livenza, Roma
+	Hat die Fotorechte:	1

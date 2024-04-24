@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-7606b8b2bcb1f-e
+Gorgones Romanae_18_0_0
+
+
+
+Monument
+	ID:	43100
+	Entdeckungsort:	Zliten, Zlitan
+	Entdeckungsort Details:	Villa Dar Buc Ammera
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Gorgo, Gorgones
+	Beschreibung:	On the ceiling: gorgoneion.
+Szene
+	ID:	50452
+	Beschreibung:	On the ceiling: gorgoneion.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Gorgones Romanae
+	Katalognummer:	18
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Zliten
+Museum
+	Land:	LY
+	Stadt:	Tripoli (Libye)
+	Name:	Musée
+	Direktor:	Mme le  Dr. Pascale Linant de Bellefonds
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-90023
+	Kontaktzenter:	Université Paris X - Nanterre Maison de l'Archéologie / Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Musée Tripoli
+	Hat die Fotorechte:	1

@@ -1,0 +1,30 @@
+http://ark.dasch.swiss/ark:/72163/080e-746dd365034c2-5
+Nemesis_39_0_0
+
+
+
+Monument
+	ID:	14270
+	Entdeckungsort:	Philippoi, Philippi (Kavala, Macedonia/Thrace)
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Nemesis
+Szene
+	ID:	14694
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Nemesis
+	Katalognummer:	39
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	λ 1327
+Museum
+	Land:	GR
+	Stadt:	Philippi
+	Name:	Musée Archéologique
+	Rechteinhaber der Fotos:	© Archaeological Museum of Philippi
+	Hat die Fotorechte:	0

@@ -1,0 +1,61 @@
+http://ark.dasch.swiss/ark:/72163/080e-73c81d4a1fa1f-1
+Tyndareos_4_0_1
+Leda_136_0_0
+Helene_188_0_1
+Helene_p. 503_0_0
+Pygmaioi_42_0_0
+
+
+
+Monument
+	ID:	2587
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Palatine
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Leda Tyndareos Helene Pygmaioi
+	Beschreibung:	Mural painting from Aula Isiaca. Tyndareos enthroned, holding sceptre or lance.
+Szene
+	ID:	2608
+	Beschreibung:	Mural painting from Aula Isiaca. Tyndareos enthroned, holding sceptre or lance.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Tyndareos
+	Katalognummer:	4
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Leda
+	Katalognummer:	136
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helene
+	Katalognummer:	188
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Helene
+	Katalognummer:	p. 503
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Pygmaioi
+	Katalognummer:	42
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Aula Isiaca
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Palatino
+	Direktor:	Soprintendente Dott. Angelo Bottini
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza Archeologica di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

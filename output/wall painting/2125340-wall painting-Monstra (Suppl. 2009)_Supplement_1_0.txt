@@ -1,0 +1,31 @@
+http://ark.dasch.swiss/ark:/72163/080e-76b10cf4e4d51-c
+Monstra (Suppl. 2009)_Supplement_1_0
+
+
+
+Monument
+	ID:	202394
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	horse, horseman enchaining a black nude demon with two heads; another horseman
+	Bibliographie:	Gawlikowski, M., JRA 20, 2007, 337-361.
+Szene
+	ID:	99393
+	Beschreibung:	horse, horseman enchaining a black nude demon with two heads; another horseman
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Monstra (Suppl. 2009)
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	SY
+	Stadt:	Hawarte (Huarté, Syrie)
+	Name:	Mithraeum
+	Rechteinhaber der Fotos:	© Hawarte
+	Hat die Fotorechte:	1

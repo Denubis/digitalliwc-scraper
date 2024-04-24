@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-761119cc627cd-0
+Achilleus_155_0_0
+
+
+
+Monument
+	ID:	43843
+	Objekt:	sarcophagus
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	shield
+	Name:	Achilleus Deidameia II
+	Bibliographie:	SarkRel II no. 32; Guerrini, L.,  StudMisc 20 (1971/72) 14 pl. 28.
+Szene
+	ID:	46119
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	155
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	14
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Mattei di Giove
+	Direktor:	Soprintendente Arch. Costantino Centroni
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Cavalletti 2
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza per i Beni Ambientali Architettonici del Lazio
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Ambientali Architettonici del Lazio
+	Kommentar:	Numéros d'après Guerrini, L. (éd.), Palazzo Mattei di Giove. Le antichità (1982).
+	Hat die Fotorechte:	1

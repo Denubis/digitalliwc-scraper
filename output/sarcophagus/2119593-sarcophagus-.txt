@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-765ee368fc7d2-0
+
+
+
+Monument
+	ID:	52704
+	Entdeckungsort:	Vulci
+	Entdeckungsort Details:	Tomb of the Tutes
+	Objekt:	sarcophagus
+	Material:	nenfro
+	Land:	CH
+	Kategorie:	relief
+	Beschreibung:	Corteo a sin.: togato, tre littori con fasci, due togati, l'ultimo dei quali, forse, regge le redini dei cavalli della biga, su cui è il magistrato, dietro i cavalli, in secondo piano, demone maschile, due figure in tunica e mantello, l'ultima delle quali con tavola scrittoria (processus magistraturalis)
+	Bibliographie:	Herbig, EtrSark n° 71 tav. 109c; Lambrechts 132 n° 6 tav. 4; Tassi Scandone 51 n° 2.4.
+	Kommentar:	Verschollen. Ehem. in Castel Musignano. Grabung Torlonia. Nicht angegeben, welche Nekropole.
+Datierung
+	Periode:	-250 - -200 
+Epoche
+	Name:	2. Hälfte 3. Jh. v. Chr.
+	Periode:	-250 - -200 
+	Sequenznummer:	2620
+Szene
+	ID:	57979
+	Beschreibung:	Corteo a sin.: togato, tre littori con fasci, due togati, l'ultimo dei quali, forse, regge le redini dei cavalli della biga, su cui è il magistrato, dietro i cavalli, in secondo piano, demone maschile, due figure in tunica e mantello, l'ultima delle quali con tavola scrittoria (processus magistraturalis)
+Catalog Thes CRA
+	Indexnummer:	72
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 1. Prozessionen, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	90
+	Bandnummer:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba dei Tutes
+Museum
+	Land:	IT
+	Stadt:	Vulci
+	Name:	Necropoli
+	Rechteinhaber der Fotos:	© Vulci
+	Hat die Fotorechte:	1

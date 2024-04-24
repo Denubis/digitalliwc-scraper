@@ -1,0 +1,57 @@
+http://ark.dasch.swiss/ark:/72163/080e-760a5dfa28a5a-1
+Abundantia_1_1_0
+
+
+
+Monument
+	ID:	43362
+	Entdeckungsort:	Ercolano, Herculaneum, Herculanum
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	cornucopia phiale, phiale mesomphalos, patera
+	Name:	Abundantia
+	Beschreibung:	Seated Abundantia with cornucopia (horn of plenty) and patera (offering bowl).
+	Bibliographie:	Schefold, K., WP 347; Reinach, RépPeint 151, 3; Roux, M. / Barré, L., Herculanum et Pompéi III (1841) 76.
+Datierung
+	Periode:	54 - 68 
+	Kommentar:	Schefold
+Epoche
+	Name:	neronisch
+	Periode:	54 - 68 
+	Sequenznummer:	1170
+Szene
+	ID:	45596
+	Beschreibung:	Seated Abundantia with cornucopia (horn of plenty) and patera (offering bowl).
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/45596X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/45596X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/45596X203.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Abundantia
+	Katalognummer:	1
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9451
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

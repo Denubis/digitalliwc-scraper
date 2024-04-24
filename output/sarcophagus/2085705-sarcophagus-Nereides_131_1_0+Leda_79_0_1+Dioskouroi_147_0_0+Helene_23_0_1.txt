@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-747a681f409f2-d
+Nereides_131_1_0
+Leda_79_0_1
+Dioskouroi_147_0_0
+Helene_23_0_1
+
+
+
+Monument
+	ID:	15156
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dioskouroi Helene Leda Nereides
+Szene
+	ID:	15635
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/kiphissia/place_platanos/15635X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Nereides
+	Katalognummer:	131
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Leda
+	Katalognummer:	79
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Dioskouroi
+	Katalognummer:	147
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helene
+	Katalognummer:	23
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	GR
+	Stadt:	Kiphissia
+	Name:	Place Platanos
+	Rechteinhaber der Fotos:	© Kiphissia
+	Hat die Fotorechte:	1

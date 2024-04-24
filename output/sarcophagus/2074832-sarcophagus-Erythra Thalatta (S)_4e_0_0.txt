@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-73def5d67fdd5-c
+Erythra Thalatta (S)_4e_0_0
+
+
+
+Monument
+	ID:	4192
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Erythra Thalatta
+	Beschreibung:	Crossing of the Red Sea (Erythra Thalatta): Below the horses of the biga of pharaoh a reclining river-god, leaning on an urn from where water pours out. To the left of the river-god the approaching Egyptians, to the right drowning Egyptians and on secure land Moses and the Israelites.
+Datierung
+	Periode:	390 
+Szene
+	ID:	4238
+	Beschreibung:	Crossing of the Red Sea (Erythra Thalatta): Below the horses of the biga of pharaoh a reclining river-god, leaning on an urn from where water pours out. To the left of the river-god the approaching Egyptians, to the right drowning Egyptians and on secure land Moses and the Israelites.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Erythra Thalatta (S)
+	Katalognummer:	4e
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	463-465
+Museum
+	Land:	FR
+	Stadt:	Metz
+	Name:	Musées de la Cour d'Or
+	Direktor:	M. le Directeur
+	Adresse:	2, Rue du Haut Poirier
+	Postleitzahl:	F-57000
+	Kontaktzenter:	Musée de la Cour d'Or, Musée d'Art et d'Histoire
+	Stadt des Kontaktzenters:	Metz
+	Rechteinhaber der Fotos:	©Musée de La Cour d'Or - Metz Métropole
+	Hat die Fotorechte:	1

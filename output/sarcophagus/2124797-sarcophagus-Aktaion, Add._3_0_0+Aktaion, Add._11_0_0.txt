@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-76a9499f11076-f
+Aktaion, Add._3_0_0
+Aktaion, Add._11_0_0
+
+
+
+Monument
+	ID:	201039
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	lagobolon, pedum dog cave
+	Name:	Aktaion Artemis
+	Beschreibung:	Fragment.
+	Bibliographie:	Sotheby's Catalogue 13./14.12.1990, 153 no. 244.
+Datierung
+	Periode:	100 - 300 
+Szene
+	ID:	97882
+	Beschreibung:	bathing Artemis in a grotto on the right on top; in the center Aktaion on knees unable to protect himself against two dogs
+Catalog LIMC
+	Artikel:	Aktaion, Add.
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aktaion, Add.
+	Katalognummer:	11
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	13./14.12.1990, 244
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	Sotheby's
+	Direktor:	Mr. Adam Levine
+	Adresse:	34-35 New Bond Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	Sotheby's
+	Stadt des Kontaktzenters:	London, W1A 2AA
+	Rechteinhaber der Fotos:	© Sotheby's, London
+	Hat die Fotorechte:	1

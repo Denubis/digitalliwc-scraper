@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-76420d5b352ad-6
+
+
+
+Monument
+	ID:	50548
+	Entdeckungsort:	Tarquinia
+	Objekt:	wall painting
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	wall painting
+	Bibliographie:	Weber-Lehmann, C., Malerei der Etrusker (1987) fig. 112.128; Moretti, M., Etruskische Malerei in Tarquinia (1974) fig. 71; Sprenger, M. / Bartolini, G. / Hirmer, M. & A., Die Etrusker (1977) figg. 151-153.
+Szene
+	ID:	55703
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba del Triclinio
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Necropoli
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

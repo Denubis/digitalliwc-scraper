@@ -1,0 +1,82 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e34e73ed7c5-4
+Kybele (S)_72_1_0
+Priapos (S)_66_0_0
+
+
+
+Monument
+	ID:	4497
+	Entdeckungsort:	Boscotrecase
+	Entdeckungsort Details:	Villa of Agrippa Postumus
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	base tree column cult image, cult statue worshipper, praying man goat sanctuary tablet, pinax krater: volute-krater sacral-idyllic landscape bridge gesture: one forearm raised (worship, prayer, greeting?)
+	Name:	Kybele Priapos
+	Beschreibung:	In un paesaggio bucolico troneggia, al centro della scena, la statua di Kybele seduta. Immediatamente dietro questa una colonna, in cima alla quale è posto un vaso, ed un albero. Sullo sfondo si stagliano diversi edifici (santuario ?). Davanti alla statua un corso d’acqua sovrastato da un ponte che adoranti attraversano compiendo gesti di venerazione in direzione dell’immagine della dea. An der Basis der hohen Votivsäule mit Volutenkrater vor dem Baum lehnt ein Pinax.
+	Bibliographie:	Vermaseren, M. J., Corpus Cultus Cybelae Attidisque IV 12 n. 23; Simon, Augustus 210 tav. 31; v. Blankenhagen, P. H./ Alexander, Ch., The Augustan Villa at Boscotrecase (1990) 12-13 tav. 24.25, 2. Mielsch, H., Römische Wandmalerei (2001) 182 fig. 214; De Cazanove, O., in: Les bois sacrés (Kongr. Centre Jean Bérard, Neapel, 1989) (1993) 115 Abb. 2.
+	Kommentar:	Die Inv.-Nr. 9414 (unter LIMC VIII Kybele 72) ist nicht eine ältere Inv.-Nr., sondern die Nummer eines anderen Wandgemäldes (welches weder in LIMC noch in ThesCRA je vorkommt)!
+Datierung
+	Periode:	-10 - -1 
+Epoche
+	Name:	Ende 1. Jh. v. Chr.
+	Periode:	-10 - -1 
+	Sequenznummer:	2880
+Szene
+	ID:	4555
+	Beschreibung:	View of sacred and idyllic scenery with statue of Kybele sitting; three worshippers, two women and a child, walk towards her 
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/4555X001.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	79
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	III. 6.c. Verehrung
+	Sequenznummer:	2400
+	Bandnummer:	3
+Catalog Thes CRA
+	Indexnummer:	128
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	IV. 1.b. Kultorte (Darstellungen)
+	Sequenznummer:	4500
+	Bandnummer:	4
+Catalog Thes CRA
+	Indexnummer:	138
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kybele (S)
+	Katalognummer:	72
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Priapos (S)
+	Katalognummer:	66
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	147501
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

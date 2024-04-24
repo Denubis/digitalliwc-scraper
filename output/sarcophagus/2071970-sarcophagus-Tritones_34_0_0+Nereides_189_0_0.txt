@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-73b60b2757d6f-5
+Tritones_34_0_0
+Nereides_189_0_0
+
+
+
+Monument
+	ID:	1311
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Nereides Tritones
+Szene
+	ID:	1217
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Tritones
+	Katalognummer:	34
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Nereides
+	Katalognummer:	189
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	62.1187
+Museum
+	Land:	US
+	Stadt:	Boston
+	Name:	Museum of Fine Arts
+	Direktor:	Digital Image Resources
+	Anrede:	Dear Curator,
+	Adresse:	465 Huntington Avenue
+	Postleitzahl:	USA-
+	Kontaktzenter:	Museum of Fine Arts, Classical Art
+	Stadt des Kontaktzenters:	Boston, MA 02115-5597
+	Rechteinhaber der Fotos:	© Museum of Fine Arts, Boston
+	Hat die Fotorechte:	1

@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-747278de287db-b
+Medeia_46_1_0
+
+
+
+Monument
+	ID:	14596
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	US
+	Kategorie:	sarcophagus
+	Name:	Medeia
+	Beschreibung:	Medeia in her snake-drawn chariot with one dead child.
+Szene
+	ID:	15037
+	Beschreibung:	Medeia in her snake-drawn chariot with one dead child.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/palazzo_martelli/15037X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Medeia
+	Katalognummer:	46
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	2005.320
+	Nummer:	
+Museum
+	Land:	US
+	Stadt:	Toledo
+	Name:	Toledo Museum of Art
+	Direktor:	
+	Anrede:	
+	Adresse:	
+	Postfach:	
+	Postleitzahl:	
+	E-Mail:	
+	Faxnummer:	
+	Kontaktzenter:	
+	Stadt des Kontaktzenters:	
+	Rechteinhaber der Fotos:	@ Toledo Museum of Art
+	Hat die Fotorechte:	0

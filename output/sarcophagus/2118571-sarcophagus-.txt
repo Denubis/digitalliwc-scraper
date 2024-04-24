@@ -1,0 +1,31 @@
+http://ark.dasch.swiss/ark:/72163/080e-765046f96bf5c-2
+
+
+
+Monument
+	ID:	51594
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	relief
+	Bibliographie:	Ronke, J., Magistratische Repräsentation im römischen Relief (1987) 176 n. 198 fig. 204.
+Szene
+	ID:	56774
+Foto
+	Neues Foto:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	MND 582
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 4777

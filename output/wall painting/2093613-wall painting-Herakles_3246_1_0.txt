@@ -1,0 +1,54 @@
+http://ark.dasch.swiss/ark:/72163/080e-74eb76c024366-3
+Herakles_3246_1_0
+
+
+
+Monument
+	ID:	23131
+	Entdeckungsort:	Ostia
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	kantharos cult image, cult statue thymiaterion, turibulum, incense-burner incense offering
+	Name:	Herakles
+	Beschreibung:	Herakles con kantharos; davanti a quest’ultimo un adorante di piccola taglia, accanto ad un thymiaterion, nell’atto di offrire dell’incenso in onore della divintà.
+	Bibliographie:	Helbig4 IV n. 3182.
+Datierung
+	Periode:	200 - 300 
+Epoche
+	Name:	3. Jh. n. Chr.
+	Periode:	200 - 300 
+	Sequenznummer:	3280
+Szene
+	ID:	24265
+	Beschreibung:	Herakles with kantharos, a small male in white dress, and Dionysos with patera.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/museo_ostiense/24265X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/museo_ostiense/24265X002.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	3246
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	155
+Museum
+	Land:	IT
+	Stadt:	Ostia
+	Name:	Museo Ostiense
+	Direktor:	Dott.ssa Elvira Angeloni
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Viale dei Romagnoli 717
+	Postleitzahl:	I-00119
+	Kontaktzenter:	Soprintendenza archeologica di Ostia
+	Stadt des Kontaktzenters:	Ostia Antica - Roma
+	Rechteinhaber der Fotos:	Archivio Fotografico della Soprintendenza Archeologica per i beni archeologici di Ostia
+	Hat die Fotorechte:	1

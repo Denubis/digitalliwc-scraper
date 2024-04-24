@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-75a233d14558c-3
+Eros/Amor, Cupido_661_0_0
+
+
+
+Monument
+	ID:	36022
+	Entdeckungsort:	Ostia
+	Entdeckungsort Details:	Isola Sacra
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido
+Szene
+	ID:	37866
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	661
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Ostia
+	Name:	Museo Ostiense
+	Direktor:	Dott.ssa Elvira Angeloni
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Viale dei Romagnoli 717
+	Postleitzahl:	I-00119
+	Kontaktzenter:	Soprintendenza archeologica di Ostia
+	Stadt des Kontaktzenters:	Ostia Antica - Roma
+	Rechteinhaber der Fotos:	Archivio Fotografico della Soprintendenza Archeologica per i beni archeologici di Ostia
+	Hat die Fotorechte:	1

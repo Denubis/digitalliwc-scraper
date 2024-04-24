@@ -1,0 +1,53 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d7e97f9e174-2
+Vertumnus_3_0_0
+Athena/Minerva_312_0_0
+Demeter/Ceres (vol. IV)_160_0_1
+Tellus_64_0_0
+Herakles_3398_0_0
+
+
+
+Monument
+	ID:	3698
+	Entdeckungsort:	Praeneste, Palestrina
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Athena/Minerva Demeter/Ceres Vertumnus Herakles Tellus
+	Beschreibung:	Seven gods, to the left remains of an eighth. Minerva in the front view in a Corinthian helmet, with the aegis, a lance and shield. Herakles, Artemis, Apollon, Ceres, Vertumnus and Terra.
+Szene
+	ID:	3736
+	Beschreibung:	Seven gods, to the left remains of an eighth. Minerva in the front view in a Corinthian helmet, with the aegis, a lance and shield. Herakles, Artemis, Apollon, Ceres, Vertumnus and Terra.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Vertumnus
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	312
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Demeter/Ceres (vol. IV)
+	Katalognummer:	160
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Tellus
+	Katalognummer:	64
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	3398
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	GB
+	Stadt:	Wilton House
+	Rechteinhaber der Fotos:	© Wilton House
+	Hat die Fotorechte:	1

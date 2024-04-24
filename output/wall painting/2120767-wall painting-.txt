@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-766fac2743d40-5
+
+
+
+Monument
+	ID:	53953
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	jug branch situla, kados, bucket stemma, infula, band of wool door: double-door
+	Beschreibung:	Wandbild aus Pompeji: Eingangstür eines Hauses, davor steht links eine situla mit stemma und rechts eine Kanne mit Zweig zur Reinigung.
+	Bibliographie:	Bouché-Leclercq, A., DA III 2 (1904) 1409 Abb. 4685
+Datierung
+	Periode:	1 - 50 
+Epoche
+	Name:	1. Hälfte 1. Jh. n. Chr.
+	Periode:	1 - 50 
+	Sequenznummer:	3040
+Szene
+	ID:	59364
+	Beschreibung:	Wandbild aus Pompeji: Eingangstür eines Hauses, davor steht links eine situla mit stemma und rechts eine Kanne mit Zweig zur Reinigung.
+Catalog Thes CRA
+	Indexnummer:	190
+	Asterix:	0
+	Dot:	1
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9365. 9368
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

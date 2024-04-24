@@ -1,0 +1,30 @@
+http://ark.dasch.swiss/ark:/72163/080e-75b0995ac0777-4
+Dionysos/Bacchus_90_0_0
+
+
+
+Monument
+	ID:	37036
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dionysos/Bacchus
+	Beschreibung:	Bacchus on a lion.
+Szene
+	ID:	38933
+	Beschreibung:	Bacchus on a lion.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	90
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Città di Castello
+	Name:	Pinacoteca Comunale
+	Rechteinhaber der Fotos:	© Pinacoteca Comunale, Città di Castello
+	Hat die Fotorechte:	0

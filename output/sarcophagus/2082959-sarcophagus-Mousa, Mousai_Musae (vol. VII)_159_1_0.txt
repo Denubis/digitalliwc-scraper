@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-745325fd026d0-b
+Mousa, Mousai/Musae (vol. VII)_159_1_0
+
+
+
+Monument
+	ID:	12391
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Mousa, Mousai
+Szene
+	ID:	12691
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_farnese_ecole_francaise/12691X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	159
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Farnese (Ecole Française)
+	Rechteinhaber der Fotos:	© Palazzo Farnese, Roma
+	Hat die Fotorechte:	1

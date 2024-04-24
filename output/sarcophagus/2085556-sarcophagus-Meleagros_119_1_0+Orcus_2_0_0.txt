@@ -1,0 +1,74 @@
+http://ark.dasch.swiss/ark:/72163/080e-747846cb5ae49-8
+Meleagros_119_1_0
+Orcus_2_0_0
+
+
+
+Monument
+	ID:	15007
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Meleagros Orcus
+	Beschreibung:	Two scenes: 1) Oineus and Atalante. 2) Boar hunt with Meleagros, dogs, Atalante, Orcus and other hunters.
+Szene
+	ID:	15483
+	Beschreibung:	Two scenes: 1) Oineus and Atalante. 2) Boar hunt with Meleagros, dogs, Atalante, Orcus and other hunters.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/15483X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/15483X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/15483X396.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/15483X397.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/15483X398.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/15483X399.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	119
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Orcus
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	3319
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Musei Capitolini
+	Direktor:	Dirigente Dott. Claudio Parisi Presicce
+	Adresse:	Via delle Tre Pile, 1
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Sovraintendenza ai Beni Culturali                     del Comune di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Archivio fotografico Musei Capitolini
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	Ehem. A.O.
+	Nummer:	Calza 190
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Doria Pamphilj
+	Rechteinhaber der Fotos:	© Villa Doria Pamphilj, Roma
+	Kommentar:	Numéros d'après Calza, R. (éd.), Antichità di Villa Doria Pamphilj (1977).
+	Hat die Fotorechte:	1

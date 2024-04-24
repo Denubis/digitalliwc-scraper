@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-744176ab945e7-e
+Pegasos (Pegasos, Bellerophon)_31c_1_0
+
+
+
+Monument
+	ID:	11144
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Pegasos
+Szene
+	ID:	11415
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/villa_la_pietra_collezione_lord_acton/11415X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/villa_la_pietra_collezione_lord_acton/11415X102.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Pegasos (Pegasos, Bellerophon)
+	Katalognummer:	31c
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Firenze
+	Name:	Villa La Pietra (Collezione Lord Acton)
+	Rechteinhaber der Fotos:	© Collection Lord Acton
+	Hat die Fotorechte:	0

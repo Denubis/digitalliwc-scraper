@@ -1,0 +1,69 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a967c95912b-8
+Zeus_1_1_0
+Demeter (vol. IV)_1_0_0
+
+
+
+Monument
+	ID:	401
+	Entdeckungsort:	Agia Triada (Crete)
+	Entdeckungsort Details:	Tomb 4
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	painting
+	Stichwort:	altar tree cult image, cult statue procession priest sacrificial animal
+	Name:	Demeter Kore Zeus
+	Beschreibung:	Both long sides, with scenes of procession with animals, and bull sacrifice; La partie droite de la représentation se compose d’une processions de trois prêtres apportant des offrandes vers l’image d’un jeune dieu (Zeus Felchanos (?)) devant laquelle se trouvent un arbre et un autel; on one of the short sides two female figures on a chariot drawn by griffins, because of the funerary context maybe an early depiction of Demeter and Kore.
+	Bibliographie:	Marinatos, S./ Hirmer, M., Kreta, Thera und das mykenische Hellas (1973) pls. 30-33; Nauert, P., AntK 8, 1965, 91-98 pl. 24, 2; Simon, E., RE  Suppl. XV (1978) 1417-1418 s.v. “Zeus”
+Datierung
+	Periode:	-140 
+	Kommentar:	ca.
+Epoche
+	Name:	mykenisch III A
+	Periode:	-142 - -130 
+	Sequenznummer:	340
+Szene
+	ID:	18021
+	Beschreibung:	Both long sides, with scenes of procession with animals, and bull sacrifice; La partie droite de la représentation se compose d’une processions de trois prêtres apportant des offrandes vers l’image d’un jeune dieu (Zeus Felchanos (?)) devant laquelle se trouvent un arbre et un autel; on one of the short sides two female figures on a chariot drawn by griffins, because of the funerary context maybe an early depiction of Demeter and Kore.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/heraklion/musee_archeologique/18021X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/heraklion/musee_archeologique/18021X302.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	106
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	III. 3.b. Konsekration
+	Sequenznummer:	3050
+	Bandnummer:	3
+Catalog LIMC
+	Artikel:	Zeus
+	Katalognummer:	1
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Demeter (vol. IV)
+	Katalognummer:	1
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	C 396
+Museum
+	Land:	GR
+	Stadt:	Héraklion
+	Name:	Musée Archéologique
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Archaeological Museum of Heraklion
+	Hat die Fotorechte:	0

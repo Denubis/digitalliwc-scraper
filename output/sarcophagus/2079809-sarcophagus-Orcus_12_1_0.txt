@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-74261d3f728ca-8
+Orcus_12_1_0
+
+
+
+Monument
+	ID:	9211
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Orcus
+	Beschreibung:	Calydonian hunt, between Oineus and Artemis Orcus with his double axe.
+Szene
+	ID:	9412
+	Beschreibung:	Calydonian hunt, between Oineus and Artemis Orcus with his double axe.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/9412X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Orcus
+	Katalognummer:	12
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	93
+Museum
+	Land:	IT
+	Stadt:	Firenze
+	Name:	Galleria degli Uffizi
+	Adresse:	Via della Ninna 5
+	Postleitzahl:	I-50122
+	Kontaktzenter:	Soprintendenza Speciale per il Polo Museale Fiorentino
+	Stadt des Kontaktzenters:	Firenze
+	Rechteinhaber der Fotos:	Su concessione del Ministero dei beni e delle attività culturali e del turismo
+	Hat die Fotorechte:	1

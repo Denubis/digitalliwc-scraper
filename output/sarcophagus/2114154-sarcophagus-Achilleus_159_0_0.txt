@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-7611211e43357-a
+Achilleus_159_0_0
+
+
+
+Monument
+	ID:	43850
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Name:	Achilleus
+	Bibliographie:	Sichtermann, H., AA (1974) 309 no. 1 fig. 1; Ciliberto, F., I sarcofagi attici nell'Italia settentrionale (1996) 109-110 no. 93 pl. 13b-c.
+Szene
+	ID:	46127
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	159
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	14500
+Museum
+	Land:	IT
+	Stadt:	Trieste
+	Name:	Civici Musei di Storia ed Arte e Orto Lapidario
+	Direktor:	Direttore Dr. Adriano Dugulin
+	Adresse:	Via Rossini 4
+	Postleitzahl:	I-34121
+	Kontaktzenter:	Civici Musei di Storia ed Arte e Orto Lapidario
+	Stadt des Kontaktzenters:	Trieste
+	Rechteinhaber der Fotos:	© Civici Musei di Storia ed Arte
+	Hat die Fotorechte:	1

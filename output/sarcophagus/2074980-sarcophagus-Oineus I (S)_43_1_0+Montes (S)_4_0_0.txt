@@ -1,0 +1,64 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e11381753b9-d
+Oineus I (S)_43_1_0
+Montes (S)_4_0_0
+
+
+
+Monument
+	ID:	4341
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Montes Oineus I
+	Beschreibung:	Reclining mountain god (Mons) on a rock, bearded, nude, above a scene showing the Kalydonian Boar hunt. Meleagros, Oineus and Orcus with double axe.
+Datierung
+	Periode:	250 
+Szene
+	ID:	4393
+	Beschreibung:	Reclining mountain god (Mons) on a rock, bearded, nude, above a scene showing the Kalydonian Boar hunt. Meleagros, Oineus and Orcus with double axe.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/frankfurt_am_main/liebieghaus/museum_alter_plastik/4393X202.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Oineus I (S)
+	Katalognummer:	43
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Montes (S)
+	Katalognummer:	4
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1528
+Museum
+	Land:	DE
+	Stadt:	Frankfurt am Main
+	Name:	Liebieghaus, Museum Alter Plastik
+	Direktor:	Prof. Dr. Vinzenz Brinkmann
+	Adresse:	Schaumainkai 71
+	Postleitzahl:	D-60596
+	Kontaktzenter:	Liebieghaus, Museum Alter Plastik
+	Stadt des Kontaktzenters:	Frankfurt am Main
+	Rechteinhaber der Fotos:	© Liebieghaus
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Sk 118
+Museum
+	Land:	DE
+	Stadt:	Kassel
+	Name:	Staatliche Museen Kassel, Antikensammlung
+	Direktor:	Dr. Rüdiger Splitter
+	Anrede:	Sehr geehrter Herr Dr. Splitter,
+	Adresse:	Schloss  Wilhelmshöhe
+	Postleitzahl:	D-34131
+	Kontaktzenter:	Staatliche Museen Kassel, Antikensammlung
+	Stadt des Kontaktzenters:	Kassel
+	Rechteinhaber der Fotos:	© Staatliche Museen Kassel, Antikensammlung
+	Hat die Fotorechte:	1

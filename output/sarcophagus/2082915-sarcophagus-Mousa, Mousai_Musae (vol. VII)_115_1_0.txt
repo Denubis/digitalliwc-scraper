@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-745284f3b28f4-4
+Mousa, Mousai/Musae (vol. VII)_115_1_0
+
+
+
+Monument
+	ID:	12347
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Mousa, Mousai
+	Monument-URL:	arachne.dainst.org/entity/1121655
+Szene
+	ID:	12647
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/berlin/staatliche_museen_zu_berlin/antikensammlung/12647X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	115
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Sk 1937
+Museum
+	Land:	DE
+	Stadt:	Berlin
+	Name:	Staatliche Museen zu Berlin, Antikensammlung
+	Direktor:	Dir. Prof. Dr. Andreas Scholl
+	Anrede:	Sehr geehrter Herr Professor,
+	Adresse:	Bodestrasse 1-3
+	Postleitzahl:	D-10178
+	E-Mail:	ant@smb.spk-berlin.de
+	Kontaktzenter:	Antikensammlung, Staatliche Museen zu Berlin - Preussischer Kulturbesitz
+	Stadt des Kontaktzenters:	Berlin
+	Rechteinhaber der Fotos:	© Staatliche Museen zu Berlin, Antikensammlung
+	Hat die Fotorechte:	1

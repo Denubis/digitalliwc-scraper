@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-7452d5785a7e2-2
+Mousa, Mousai/Musae (vol. VII)_136_0_0
+Apollon/Apollo_391_0_0
+
+
+
+Monument
+	ID:	12369
+	Entdeckungsort:	Tarragona (Tarraco)
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Apollon/Apollo Mousa, Mousai
+Szene
+	ID:	12669
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	136
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	391
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	ES
+	Stadt:	Tarragone
+	Name:	Musée et Nécropole Paléochrétienne
+	Rechteinhaber der Fotos:	© Musée et Nécropole Paléochrétienne, Tarragona
+	Hat die Fotorechte:	0

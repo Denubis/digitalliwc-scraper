@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-761929fdeddd1-e
+Achilleus_757_0_0
+
+
+
+Monument
+	ID:	44416
+	Entdeckungsort:	Tyre
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	shield Amazon
+	Name:	Achilleus Penthesileia
+	Bibliographie:	Chehab, M., BullMusBeyrouth 21, 1968, 37-38 Taf. 18. 21; Giuliani, A./Palma, B., StudMisc 24, 1978, 34 B I 9.
+Datierung
+	Periode:	190 - 210 
+Epoche
+	Name:	um 200 n. Chr.
+	Periode:	190 - 210 
+	Sequenznummer:	3270
+Szene
+	ID:	46713
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	757
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2772
+Museum
+	Land:	LB
+	Stadt:	Tyr
+	Rechteinhaber der Fotos:	© Tyr
+	Hat die Fotorechte:	1

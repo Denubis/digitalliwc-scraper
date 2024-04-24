@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-7454a9f088a62-5
+Mousa, Mousai/Musae (vol. VII)_215_0_0
+Mnemosyne_6_0_0
+Apollon/Apollo_342_0_0
+
+
+
+Monument
+	ID:	12497
+	Entdeckungsort:	Tebessa, Tébessa, Theveste
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Mnemosyne Mousa, Mousai
+	Beschreibung:	Front: the Mousai, in the centre their mother Mnemosyne, on the left border Minerva, on the right Apollo.
+Szene
+	ID:	12798
+	Beschreibung:	Front: the Mousai, in the centre their mother Mnemosyne, on the left border Minerva, on the right Apollo.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	215
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mnemosyne
+	Katalognummer:	6
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	342
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	DZ
+	Stadt:	Tebessa (Theveste)
+	Name:	Musée du Temple Païen
+	Rechteinhaber der Fotos:	© Musée du Temple Païen Tebessa
+	Hat die Fotorechte:	1

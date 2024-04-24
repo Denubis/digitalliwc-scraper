@@ -1,0 +1,48 @@
+http://ark.dasch.swiss/ark:/72163/080e-76bd462fa9244-3
+
+
+
+Monument
+	ID:	203171
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Northern side: Prothesis and mourning of a deceased woman; Southern side: man on biga and two men dueling each other. 
+	Bibliographie:	Pontrandolfo, A./ Rouveret, A., Le tombe dipinte di Paestum (1992) 137-142. 331-333.
+Datierung
+	Periode:	-350 - -340 
+Epoche
+	Name:	3. Viertel 4. Jh. v. Chr.
+	Periode:	-350 - -325 
+	Sequenznummer:	2510
+Szene
+	ID:	100209
+	Beschreibung:	Northern side: Prothesis and mourning of a deceased woman; Southern side: man on biga and two men dueling each other. 
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	59
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VI. 1.e. Tod, gr.
+	Bandnummer:	6
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	21551-21554
+Museum
+	Land:	IT
+	Stadt:	Paestum
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Sopr. Dott. ssa Maria Luisa Nava
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Via Trotula de' Ruggiero 6/7
+	Postleitzahl:	I-84121
+	Kontaktzenter:	Soprintendenza archeologica per le Provincie di Salerno, Avellino, Benevento e Caserta
+	Stadt des Kontaktzenters:	Salerno
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologia, Belle Arti e Paesaggio Salerno e Avellino
+	Hat die Fotorechte:	0

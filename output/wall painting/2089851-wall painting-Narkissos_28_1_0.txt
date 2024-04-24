@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-74b5ae23f7a6c-8
+Narkissos_28_1_0
+
+
+
+Monument
+	ID:	19348
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Narkissos
+	Beschreibung:	Narkissos and Eros.
+Szene
+	ID:	20237
+	Beschreibung:	Narkissos and Eros.
+	Sequenznummer:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Narkissos
+	Katalognummer:	28
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9383
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

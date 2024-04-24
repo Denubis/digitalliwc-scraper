@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-745d06fdcb98f-1
+Psyche_118_1_0
+
+
+
+Monument
+	ID:	13085
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Psyche
+	Monument-URL:	http://www.limc-france.fr/objet/10500
+Szene
+	ID:	13413
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	118
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	4861
+Museum
+	Land:	SY
+	Stadt:	Damas
+	Name:	Musée National
+	Kontaktzenter:	Musée National
+	Stadt des Kontaktzenters:	Damas
+	Rechteinhaber der Fotos:	© Musée National Damas
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	10742

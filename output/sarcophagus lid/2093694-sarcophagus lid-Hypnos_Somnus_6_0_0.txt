@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ec9f34316bb-e
+Hypnos/Somnus_6_0_0
+
+
+
+Monument
+	ID:	23213
+	Entdeckungsort:	Aquileia
+	Objekt:	sarcophagus lid
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hypnos/Somnus
+Szene
+	ID:	24354
+	Szenerieangabe:	couvercle
+	Sequenznummer:	20
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	6
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	447
+Museum
+	Land:	IT
+	Stadt:	Aquileia
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Soprintendente Dott.ssa Franca Maselli Scotti
+	Adresse:	Piazza della Libertà 72
+	Postleitzahl:	I-34132
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici del Friuli Venezia Giulia
+	Stadt des Kontaktzenters:	Trieste
+	Rechteinhaber der Fotos:	© Polo Museale del Friuli Venezia Giulia
+	Kommentar:	Les objets sans numéro d'inventaire sont cités d'après les numéros des catalogues de Sena Chiesa, G., Gemme del Museo Nazionale di Aquileia (1966)  et de Santa Maria Scrinari, V., Museo Archeologico di Aquileia. Catalogo delle sculture romane (1972).
+	Hat die Fotorechte:	1

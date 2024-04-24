@@ -1,0 +1,56 @@
+http://ark.dasch.swiss/ark:/72163/080e-75573b35a2620-5
+Ganymedes_99_0_0
+Daphne_12_0_0
+Apollon/Apollo_444a_1_0
+
+
+
+Monument
+	ID:	30729
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Apollon Daphne Ganymedes
+	Beschreibung:	Daphne leans on a pillar, naked but for a himation at her back and over her right leg, wearing sandals. Apollon sits on a rock, lifting Daphne's cloak. Apollon wearing chlamys, wreath and sandals. A kithara rests against his left side, a quiver and bow against the rock. A round edifice topped with a tripod behind Daphne.
+Szene
+	ID:	45000
+	Beschreibung:	Daphne leans on a pillar, naked but for a himation at her back and over her right leg, wearing sandals. Apollon sits on a rock, lifting Daphne's cloak. Apollon wearing chlamys, wreath and sandals. A kithara rests against his left side, a quiver and bow against the rock. A round edifice topped with a tripod behind Daphne.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/45000X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Ganymedes
+	Katalognummer:	99
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Daphne
+	Katalognummer:	12
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	444a
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VII 12,23
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa del Camillo

@@ -1,0 +1,48 @@
+http://ark.dasch.swiss/ark:/72163/080e-7619adbfbad85-5
+Achilleus_855_0_0
+Alexandros_99_1_0
+
+
+
+Monument
+	ID:	44453
+	Entdeckungsort:	Stabiae
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	Phrygian cap archer laurel wreath
+	Name:	Achilleus Alexandros Paris
+	Bibliographie:	Elia, O., Pitture di Stabia (1957) 44 pl. 15; Schefold, K., AntK 3, 1960, 46 pl. 15, 1-2.
+Datierung
+	Periode:	54 - 68 
+Epoche
+	Name:	neronisch
+	Periode:	54 - 68 
+	Sequenznummer:	1170
+Szene
+	ID:	46751
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	855
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Alexandros
+	Katalognummer:	99
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Castellammare di Stabia
+	Name:	Antiquarium Stabiano
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

@@ -1,0 +1,61 @@
+http://ark.dasch.swiss/ark:/72163/080e-74f009ec979a6-4
+Hippolytos I_79_0_0
+
+
+
+Monument
+	ID:	23454
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	herm dance herm cult
+	Name:	Priapos Hippolytos I
+Szene
+	ID:	49467
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49467X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	79
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	55053
+	Szenerieangabe:	12
+	Beschreibung:	Oecus, Südwand, oben: Triptychon mit Tanz vor Priaposherme.
+	Bibliographie:	Helbig, Wandmalerei Nr. 574;Schefold, WP 167;PompPittMos VI (1996) 421, 85.
+	Kommentar:	Nach Helbig schon zu seiner Zeit  "beinah vollständig unkenntlich". Kein Bild erhalten.
+	Sequenznummer:	1
+Datierung
+	Periode:	-80 - -1 
+	Kommentar:	spät (Schefold)
+Epoche
+	Name:	2. pompejanischer Stil
+	Periode:	-80 - -1 
+	Sequenznummer:	1330
+Datierung
+	Periode:	-80 - -1 
+	Kommentar:	spät (Schefold)
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VII 1,40-43
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Domus M. Caesi Blandi

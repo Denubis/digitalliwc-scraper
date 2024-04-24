@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-766e457b407d6-7
+
+
+
+Monument
+	ID:	53852
+	Entdeckungsort:	Mycenae (Argolis)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	shield cult image, cult statue thymiaterion, turibulum, incense-burner worshipper, praying woman altar in shape of hour-glass
+	Beschreibung:	Wandmalerei: Vor dem Kultbild mit Achterschild (Palladion) eine Adorantin, zwischen den beiden Figuren ein kleiner sanduhrförmiger Gegenstand (Altärchen? Räucherbecken?).
+	Bibliographie:	Yavis, Altars 29 Abb. 59; Simon, GGriech 181 Abb. 163.
+Datierung
+	Periode:	-130 - -120 
+Epoche
+	Name:	13. Jh. v. Chr.
+	Periode:	-130 - -120 
+	Sequenznummer:	1560
+Szene
+	ID:	59256
+	Beschreibung:	Wandmalerei: Vor dem Kultbild mit Achterschild (Palladion) eine Adorantin, zwischen den beiden Figuren ein kleiner sanduhrförmiger Gegenstand (Altärchen? Räucherbecken?).
+Catalog Thes CRA
+	Indexnummer:	579
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	GR
+	Stadt:	Athens
+	Name:	National Archaeological Museum
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Anrede:	Dear Director,
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© National Archaeological Museum, Athens
+	Kommentar:	Pour les intailles de la collection Karapanos voir Musée Numismatique.  Inv. VS = ancienne collection Vlastos-Serpieri.
+	Hat die Fotorechte:	1

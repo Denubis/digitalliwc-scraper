@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-749f4ab5a2f56-1
+Odysseia_2_0_0
+Ilias_2_0_0
+
+
+
+Monument
+	ID:	17768
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Ilias Odysseia
+	Beschreibung:	Right lateral face: In the centre Homer standing with the Ilias and Odysseia at either side, each with a foot raised on the prow of a ship. 
+	Monument-URL:	arachne.dainst.org/entity/1075138
+Szene
+	ID:	18524
+	Beschreibung:	Right lateral face: In the centre Homer standing with the Ilias and Odysseia at either side, each with a foot raised on the prow of a ship.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/18524X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Odysseia
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ilias
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 1500
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

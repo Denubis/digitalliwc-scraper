@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-761a90a9f133b-9
+Amazones_532_0_0
+
+
+
+Monument
+	ID:	44515
+	Entdeckungsort:	Lycia
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	horse warrior, soldier Amazon fight, battle rider
+	Name:	Amazones
+	Bibliographie:	SarkRel II pl.48 no. 130; Kαλλιπολίτης, B. G., Χρονολογικη κατα ταξις...(1958) no.122; Giuliano, A., Il commercio dei sarcofagi attici (1962), 49 no. 270; Eichler, F., OeJh 36, 1946, 82-83 fig. 16-17.
+Datierung
+	Periode:	190 - 210 
+Epoche
+	Name:	um 200 n. Chr.
+	Periode:	190 - 210 
+	Sequenznummer:	3270
+Szene
+	ID:	46813
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	532
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	I 1670
+Museum
+	Land:	AT
+	Stadt:	Wien
+	Name:	Kunsthistorisches Museum
+	Direktor:	Prof. Dr. Kurt Gschwantler
+	Anrede:	Sehr geehrter Herr Professor,
+	Adresse:	Burgring 5
+	Postleitzahl:	A-1010
+	Kontaktzenter:	Kunsthistorisches Museum
+	Stadt des Kontaktzenters:	Wien
+	Rechteinhaber der Fotos:	© Kunsthistorisches Museum Wien
+	Hat die Fotorechte:	1

@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a6dc5238e31-b
+Kyknos II (S)_1_0_0
+
+
+
+Monument
+	ID:	217
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kyknos II
+	Beschreibung:	Head and body of Kyknos (II) leaning on his staff. Uncertain identification.
+Datierung
+	Periode:	250 - 300 
+Szene
+	ID:	4866
+	Beschreibung:	Head and body of Kyknos (II) leaning on his staff. Uncertain identification.
+	Sequenznummer:	10
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kyknos II (S)
+	Katalognummer:	1
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	4780
+Museum
+	Land:	HU
+	Stadt:	Budapest
+	Name:	Musée des Beaux-Arts (Szépmüvészeti Múzeum)
+	Direktor:	Dr. Arpad Miklos Nagy
+	Anrede:	Dear Dr. Nagy
+	Adresse:	Dózsa György út 41
+	Postfach:	POB. 463
+	Postleitzahl:	H-1396
+	Kontaktzenter:	Musée des Beaux-Arts (Szépmüvészeti Múzeum)
+	Stadt des Kontaktzenters:	Budapest XIV
+	Rechteinhaber der Fotos:	© Szépmüvészeti Múzeum, Budapest
+	Hat die Fotorechte:	1

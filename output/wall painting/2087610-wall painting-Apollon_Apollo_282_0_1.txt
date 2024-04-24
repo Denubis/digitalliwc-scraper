@@ -1,0 +1,26 @@
+http://ark.dasch.swiss/ark:/72163/080e-7495a443df8e7-5
+Apollon/Apollo_282_0_1
+
+
+
+Monument
+	ID:	17083
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+Szene
+	ID:	41565
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	282
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Terme di Costantino (già)
+	Rechteinhaber der Fotos:	© Roma
+	Hat die Fotorechte:	1

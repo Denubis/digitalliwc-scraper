@@ -1,0 +1,49 @@
+http://ark.dasch.swiss/ark:/72163/080e-769bb85c0ad2d-1
+Kyknos I, Add._4_0_0
+
+
+
+Monument
+	ID:	200918
+	Entdeckungsort:	Ercolano, Herculaneum, Herculanum
+	Entdeckungsort Details:	Basilica
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Ares/Mars Herakles Kyknos I
+	Beschreibung:	Fragment. Painted inscription KYKNO..., and fragmentary scene of Herakles-Kyknos (I) encounter with Ares
+	Inschrift:	KYKNO...
+	Bibliographie:	Pagano, M., Rappresentazioni di imprese di Ercole ad Ercolano: alcune novità, MEFRA 113, 2001, 915-916 fig. 2e. 4.
+Datierung
+	Periode:	-27 - 14 
+Epoche
+	Name:	augusteisch
+	Periode:	-27 - 14 
+	Sequenznummer:	1130
+Szene
+	ID:	97752
+	Beschreibung:	Painted inscription KYKNO..., and fragmentary scene of Herakles-Kyknos (I) encounter with Ares
+	Inschrift:	KYKNO...
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kyknos I, Add.
+	Katalognummer:	4
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Basilica
+Museum
+	Land:	IT
+	Stadt:	Ercolano
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

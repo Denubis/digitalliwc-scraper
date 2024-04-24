@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-756c58e866fb9-9
+Attis_393_0_0
+
+
+
+Monument
+	ID:	32214
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Attis Kybele Apollon Marsyas I
+	Beschreibung:	Contest between Apollon and Marsyas. Kybele and Attis with pedum.
+Szene
+	ID:	33833
+	Beschreibung:	Contest between Apollon and Marsyas. Kybele and Attis with pedum.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Attis
+	Katalognummer:	393
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	423
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Torlonia
+	Adresse:	Via della Conciliazione 30
+	Postleitzahl:	I-00193
+	Kontaktzenter:	Amministrazione Principe Torlonia
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Museo Torlonia, Roma
+	Hat die Fotorechte:	1

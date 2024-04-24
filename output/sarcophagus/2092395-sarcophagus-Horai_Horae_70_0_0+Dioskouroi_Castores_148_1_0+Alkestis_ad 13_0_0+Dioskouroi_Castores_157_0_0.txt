@@ -1,0 +1,87 @@
+http://ark.dasch.swiss/ark:/72163/080e-74da0cf88d01c-8
+Horai/Horae_70_0_0
+Dioskouroi/Castores_148_1_0
+Alkestis_ad 13_0_0
+Dioskouroi/Castores_157_0_0
+
+
+
+Monument
+	ID:	21908
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	helmet shield warrior, soldier fight, battle
+	Name:	Alkestis Dioskouroi/Castores Horai/Horae
+	Beschreibung:	Representation of the rape of the Leukippides. Two winged figures holding garlands may be Horae.
+Datierung
+	Periode:	150 
+Szene
+	ID:	22913
+	Beschreibung:	Representation of the rape of the Leukippides. Two winged figures holding garlands may be Horae.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/22913X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/22913X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/22913X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/22913X104.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/22913X105.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/22913X106.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/22913X107.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/22913X108.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	70
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dioskouroi/Castores
+	Katalognummer:	148
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	ad 13
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dioskouroi/Castores
+	Katalognummer:	157
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	104K
+Museum
+	Land:	IT
+	Stadt:	Firenze
+	Name:	Galleria degli Uffizi
+	Adresse:	Via della Ninna 5
+	Postleitzahl:	I-50122
+	Kontaktzenter:	Soprintendenza Speciale per il Polo Museale Fiorentino
+	Stadt des Kontaktzenters:	Firenze
+	Rechteinhaber der Fotos:	Su concessione del Ministero dei beni e delle attività culturali e del turismo
+	Hat die Fotorechte:	1

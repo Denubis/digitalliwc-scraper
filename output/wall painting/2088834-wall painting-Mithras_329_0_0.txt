@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-74a7240118ecf-1
+Mithras_329_0_0
+
+
+
+Monument
+	ID:	18326
+	Entdeckungsort:	Doura-Europos
+	Entdeckungsort Details:	Mithraeum
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Mithras
+	Beschreibung:	Mithras riding a horse, drawing a Persian bow at two fleeing stags, a bock, a goat and a boar. All of them are hit already by arrows. Mithras is accompanied by two lions.
+Datierung
+	Periode:	240 - 256 
+Szene
+	ID:	19151
+	Beschreibung:	Mithras riding a horse, drawing a Persian bow at two fleeing stags, a bock, a goat and a boar. All of them are hit already by arrows. Mithras is accompanied by two lions.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Mithras
+	Katalognummer:	329
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	US
+	Stadt:	New Haven
+	Name:	Yale University Art Gallery
+	Direktor:	Director Jock Reynolds
+	Anrede:	Dear Director,
+	Adresse:	1111 Chapel Street
+	Postfach:	 / P.O. Box 208271
+	Postleitzahl:	USA
+	Kontaktzenter:	Yale University Art Gallery
+	Stadt des Kontaktzenters:	New Haven, CT 06520-8271
+	Rechteinhaber der Fotos:	© Yale University Art Gallery
+	Hat die Fotorechte:	1

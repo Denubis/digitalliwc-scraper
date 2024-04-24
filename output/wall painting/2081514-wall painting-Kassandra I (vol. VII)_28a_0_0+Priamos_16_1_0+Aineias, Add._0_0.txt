@@ -1,0 +1,64 @@
+http://ark.dasch.swiss/ark:/72163/080e-743e7d68495d7-f
+Kassandra I (vol. VII)_28a_0_0
+Priamos_16_1_0
+Aineias, Add._0_0
+
+
+
+Monument
+	ID:	10935
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	I 2,28 (Casa della Grata metallica)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	wreath, crown, stephane, corona tripod garland column table, mensa, trapeza temple amphora priestess parapetasma, velum, curtain podium gesture: one arm extended forward
+	Name:	Aineias Aischines Alexandros Askanios Hektor Helenos Kassandra I Priamos Sibyllae
+	Beschreibung:	Gebäudeinneres mit Säule, Girlanden, Vorhang, Dreifuss auf Säule, Podium mit 5 Stufen. Auf dem Podium Tisch mit Amphora u.a. und bekränzte Kassandra (Sibylle?, Helenos?), weissagend. Links Priamos (?) und der kindliche Paris (?), rechts Hektor (?).
+	Bibliographie:	Schefold, WP 11; Guida Ruesch Nr. 1293; HBr Taf. 179.
+	Kommentar:	Andere Deutungsvorschläge für alle Figuren s. LIMC, Kassandra I 28.
+Datierung
+	Periode:	20 - 30 
+	Kommentar:	Schefold
+Epoche
+	Name:	3. pompejanischer Stil
+	Periode:	-15 - 63 
+	Sequenznummer:	1340
+Szene
+	ID:	11178
+	Beschreibung:	Gebäudeinneres mit Säule, Girlanden, Vorhang, Dreifuss auf Säule, Podium mit 5 Stufen. Auf dem Podium Tisch mit Amphora u.a. und bekränzte Kassandra (Sibylle?, Helenos?), weissagend. Links Priamos (?) und der kindliche Paris (?), rechts Hektor (?).
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/11178X302.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kassandra I (vol. VII)
+	Katalognummer:	28a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Priamos
+	Katalognummer:	16
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aineias, Add.
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	111476
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-73df00d150f24-0
+Erythra Thalatta (S)_4f_0_0
+
+
+
+Monument
+	ID:	4195
+	Entdeckungsort:	Arles, Arelate
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Erythra Thalatta
+	Beschreibung:	Crossing of the Red Sea (Erythra Thalatta): Below the horses of the biga of pharaoh a reclining river-god, leaning on an urn from where water pours out. To the left of the river-god the approaching Egyptians, to the right drowning Egyptians and on secure land Moses and the Israelites.
+Datierung
+	Periode:	380 - 400 
+Szene
+	ID:	4240
+	Beschreibung:	Crossing of the Red Sea (Erythra Thalatta): Below the horses of the biga of pharaoh a reclining river-god, leaning on an urn from where water pours out. To the left of the river-god the approaching Egyptians, to the right drowning Egyptians and on secure land Moses and the Israelites.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Erythra Thalatta (S)
+	Katalognummer:	4f
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	FR
+	Stadt:	Aix-en-Provence
+	Name:	Musée Granet
+	Direktor:	M. le Directeur
+	Adresse:	Pl. Saint-Jean-de-Malte
+	Postleitzahl:	F-13100
+	Kontaktzenter:	Musée Granet
+	Stadt des Kontaktzenters:	Aix-en-Provence
+	Rechteinhaber der Fotos:	© Musée Granet, Aix-en-Provence
+	Hat die Fotorechte:	0

@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-742641d8d627c-d
+Orcus_20_1_0
+
+
+
+Monument
+	ID:	9221
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Orcus
+	Beschreibung:	Dionysos and Ariadne; by their side a male figure (Orcus, Hadas, Thanatos?).
+	Museums-URL:	https://art.thewalters.org/detail/16667/funeral-stele-with-latin-inscription-referring-to-mithra/
+	Monument-URL:	
+Szene
+	ID:	9421
+	Beschreibung:	Dionysos and Ariadne; by their side a male figure (Orcus, Hadas, Thanatos?).
+	Sequenznummer:	10
+	Monument-URL:	Walters Art Museum: http://art.thewalters.org/detail/16667/funeral-stele-with-latin-inscription-referring-to-mithra/ 
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/baltimore/walters_art_museum/9421X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Orcus
+	Katalognummer:	20
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	23.17
+Museum
+	Land:	US
+	Stadt:	Baltimore
+	Name:	Walters Art Museum
+	Direktor:	Mrs. Kate Lau
+	Adresse:	600 North Charles Street
+	Postleitzahl:	USA-
+	Kontaktzenter:	Walters Art Museum - Photo Services
+	Stadt des Kontaktzenters:	Baltimore MD 21201-5185
+	Rechteinhaber der Fotos:	© Walters Art Museum, Baltimore
+	Kommentar:	Vorher Walters Art Gallery. Neuer Name vor 2003. Eingetragen 15.9.06.
+	Hat die Fotorechte:	1

@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-7478a99cb4a10-4
+Meleagros_153_0_0
+Moirai_46_0_0
+Helios/Sol_4_0_0
+
+
+
+Monument
+	ID:	15034
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Helios/Sol Meleagros Moirai
+	Beschreibung:	Myth of Meleagros. Head of Sol in round shield.
+Datierung
+	Periode:	180 
+Szene
+	ID:	15510
+	Beschreibung:	Myth of Meleagros. Head of Sol in round shield.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	153
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Moirai
+	Katalognummer:	46
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	4
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	690
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Albani
+	Adresse:	Via della Conciliazione 30
+	Postleitzahl:	I-00193
+	Kontaktzenter:	Amministrazione Torlonia
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Phot. proprietà Principe Torlonia
+	Hat die Fotorechte:	0

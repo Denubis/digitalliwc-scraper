@@ -1,0 +1,58 @@
+http://ark.dasch.swiss/ark:/72163/080e-760fb3205f263-0
+Achilleus_61_1_0
+
+
+
+Monument
+	ID:	43742
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	lyre child centaur
+	Name:	Achilleus Cheiron Genius
+	Bibliographie:	Helbig(4) no. 2385; Gullini, G., BollArte 34 (1949) 52 fig. 3; Brandenburg, H., JdI 82 (1967) 225 fig. 12.
+Datierung
+	Periode:	230 - 240 
+Epoche
+	Name:	2. Viertel 3. Jh. n. Chr.
+	Periode:	225 - 250 
+	Sequenznummer:	3350
+Szene
+	ID:	46000
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/46000X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/46000X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/46000X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/46000X302.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	61
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	124735
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Romano
+	Direktor:	Soprintendente Dott. Giuseppe Proietti
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali - Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

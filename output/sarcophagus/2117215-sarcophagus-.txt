@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-763ce42042fe0-8
+
+
+
+Monument
+	ID:	50165
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Beschreibung:	Scène de sacrifice avec Mainades et Satyroi.
+	Bibliographie:	Koch/Sichtermann, RömSark 419 s. fig. 447;SarkRel IV 1, 1 pl. 1, 1.
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1417
+Museum
+	Land:	TR
+	Stadt:	Istanbul
+	Name:	Musée Archéologique
+	Direktor:	Mme le Dr  Pascale Linant de Bellefonds
+	Anrede:	Sehr geehrter Herr Dr. Posamentir,
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-92023
+	Kontaktzenter:	Université Paris X - Nanterre Maison de l'Archéologie / Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Archaeological Museum Istanbul
+	Hat die Fotorechte:	1

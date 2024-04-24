@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-7427495c701e4-0
+Perimele_4_0_1
+Alkestis_12a_0_0
+
+
+
+Monument
+	ID:	9293
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	kline, bed
+	Name:	Admetos II Alkestis Perimele
+	Beschreibung:	Alkestis on her deathbed. Her son Eumelos stretching out his hand to his mother, her daughter Perimele looking up to her, both arms outstretched.
+	Bibliographie:	SarkRel III 1 no. 27; Giglioli, G. Q., ARchCl 5 (1953) pl. 106, 3.
+Szene
+	ID:	9496
+	Beschreibung:	Alkestis on her deathbed. Her son Eumelos stretching out his hand to his mother, her daughter Perimele looking up to her, both arms outstretched.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Perimele
+	Katalognummer:	4
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	12a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Calza 172
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Doria Pamphilj
+	Rechteinhaber der Fotos:	© Villa Doria Pamphilj, Roma
+	Kommentar:	Numéros d'après Calza, R. (éd.), Antichità di Villa Doria Pamphilj (1977).
+	Hat die Fotorechte:	1

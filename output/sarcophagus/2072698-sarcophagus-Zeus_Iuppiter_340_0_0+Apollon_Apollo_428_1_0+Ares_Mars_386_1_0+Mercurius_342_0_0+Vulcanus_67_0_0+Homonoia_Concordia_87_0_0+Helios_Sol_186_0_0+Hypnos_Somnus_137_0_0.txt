@@ -1,0 +1,89 @@
+http://ark.dasch.swiss/ark:/72163/080e-73c07392de5a7-f
+Zeus/Iuppiter_340_0_0
+Apollon/Apollo_428_1_0
+Ares/Mars_386_1_0
+Mercurius_342_0_0
+Vulcanus_67_0_0
+Homonoia/Concordia_87_0_0
+Helios/Sol_186_0_0
+Hypnos/Somnus_137_0_0
+
+
+
+Monument
+	ID:	2048
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Helios/Sol Ares/Mars Apollon/Apollo Hypnos/Somnus Homonoia/Concordia Mercurius Vulcanus Zeus/Iuppiter
+	Beschreibung:	Sol in radiant crown in the centre, denunciating the affair of Venus and Mars (depicted on the right) to Zeus, around them other gods (Mercurius, Vulcanus).
+Szene
+	ID:	2012
+	Beschreibung:	Sol in radiant crown in the centre, denunciating the affair of Venus and Mars (depicted on the right) to Zeus, around them other gods (Mercurius, Vulcanus).
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/grottaferrata/museo_dell_abbazia_di_san_nilo/2012X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/grottaferrata/museo_dell_abbazia_di_san_nilo/2012X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/grottaferrata/museo_dell_abbazia_di_san_nilo/2012X102.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	340
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	428
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ares/Mars
+	Katalognummer:	386
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	342
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Vulcanus
+	Katalognummer:	67
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Homonoia/Concordia
+	Katalognummer:	87
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	186
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	137
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 2, 195
+Museum
+	Land:	IT
+	Stadt:	Grottaferrata
+	Name:	Museo dell'Abbazia di San Nilo
+	Direktor:	Soprintendente Architetto Costantino Centroni
+	Adresse:	Via Cavalletti 2
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza per i Beni Ambientali Architettonici del Lazio
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Ambientali Architettonici del Lazio
+	Hat die Fotorechte:	1

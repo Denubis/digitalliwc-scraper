@@ -1,0 +1,31 @@
+http://ark.dasch.swiss/ark:/72163/080e-766bcff9c277a-a
+
+
+
+Monument
+	ID:	53673
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	relief
+	Beschreibung:	Trois sarcophages, dont les couvercles figurent les défunts allongés au banquet, sont disposés en fer à cheval, comme dans le triclinium d’une salle de banquet.
+Szene
+	ID:	59066
+	Beschreibung:	Trois sarcophages, dont les couvercles figurent les défunts allongés au banquet, sont disposés en fer à cheval, comme dans le triclinium d’une salle de banquet.
+Catalog Thes CRA
+	Indexnummer:	27
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 4.a. Bankett, or.
+	Kurzname:	Or.
+	Sequenznummer:	1410
+	Bandnummer:	2
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Hypogée des Trois Frères
+Museum
+	Land:	SY
+	Stadt:	Palmyre
+	Name:	Nécropoles
+	Rechteinhaber der Fotos:	© Palmyra
+	Hat die Fotorechte:	1

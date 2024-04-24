@@ -1,0 +1,60 @@
+http://ark.dasch.swiss/ark:/72163/080e-73cf46e8844a8-6
+Zeus/Iuppiter_234_0_0
+Athena/Minerva_314_1_0
+Lar, Lares_69_0_0
+Mercurius_301_0_0
+
+
+
+Monument
+	ID:	3093
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 2,14
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Athena/Minerva Lar, Lares Zeus/Iuppiter Mercurius
+	Beschreibung:	Lararium with Iuppiter and two Lares, to the right Minerva. Judgment of Paris: Paris discussing with Mercurius.
+Szene
+	ID:	3119
+	Beschreibung:	Lararium with Iuppiter and two Lares, to the right Minerva. Judgment of Paris: Paris discussing with Mercurius.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/3119X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	234
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	314
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Lar, Lares
+	Katalognummer:	69
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	301
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VII 2,14-15
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1

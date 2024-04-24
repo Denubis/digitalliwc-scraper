@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-760fc91601501-0
+Achilleus_78c_0_0
+
+
+
+Monument
+	ID:	43746
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	centaur
+	Name:	Achilleus Cheiron
+	Bibliographie:	SarkRel II 34 no. 24d; Giuliano, A., Il commercio dei sarcofagi attici (1962) no. 356; Robinson, H. R., AJA 73 (1969) 195 18 E. 
+Szene
+	ID:	46008
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	78c
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel II 24d
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Vigna Jacobini
+	Rechteinhaber der Fotos:	© Vigna Jacobini
+	Hat die Fotorechte:	1

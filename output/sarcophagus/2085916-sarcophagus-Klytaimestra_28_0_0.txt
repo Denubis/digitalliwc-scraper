@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-747d6c5d5cb51-a
+Klytaimestra_28_0_0
+
+
+
+Monument
+	ID:	15368
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Klytaimestra
+Szene
+	ID:	15861
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Klytaimestra
+	Katalognummer:	28
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Gl 169
+Museum
+	Land:	DE
+	Stadt:	Berlin
+	Name:	Schloss Klein-Glienicke
+	Rechteinhaber der Fotos:	© Schloss Klein-Glienicke
+	Hat die Fotorechte:	0

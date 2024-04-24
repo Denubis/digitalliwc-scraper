@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-756c25ab41ef3-b
+Attis_383d_0_0
+
+
+
+Monument
+	ID:	32200
+	Entdeckungsort:	Pompei
+	Objekt:	handle
+	Material:	bronze
+	Land:	CH
+	Kategorie:	relief vase
+	Name:	Attis
+	Beschreibung:	Head of Attis.
+Szene
+	ID:	33818
+	Beschreibung:	Head of Attis.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Attis
+	Katalognummer:	383d
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	69489
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-73f61043c6965-5
+Pan (S)_249_1_0
+
+
+
+Monument
+	ID:	5819
+	Entdeckungsort:	Ercolano, Herculaneum, Herculanum
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Pan
+	Beschreibung:	Two groups of Pans butting a goat.
+Szene
+	ID:	5923
+	Beschreibung:	Two groups of Pans butting a goat.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/5923X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Pan (S)
+	Katalognummer:	249
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9162
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

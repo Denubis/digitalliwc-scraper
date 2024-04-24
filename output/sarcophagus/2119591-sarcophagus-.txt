@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-765edc171bc48-3
+
+
+
+Monument
+	ID:	52703
+	Entdeckungsort:	Vulci
+	Entdeckungsort Details:	Tomb of the Tutes
+	Objekt:	sarcophagus
+	Material:	nenfro
+	Land:	CH
+	Kategorie:	relief
+	Beschreibung:	Corteo a sin.: due littori con fascio, magistrato togato su biga, quattro togati, il secondo con in mano una grossa tavola rettangolare, gli ultimi due un corno.
+	Bibliographie:	Herbig, EtrSark n° 71b tav. 109c; Lambrechts 128 tav. 4, 3; Tassi Scandone 48 n° 2.2.
+	Kommentar:	Verschollen. Ehem. in Castel Musignano. Grabung Torlonia. Nicht angegeben, welche Nekropole.
+Szene
+	ID:	57978
+	Beschreibung:	Corteo a sin.: due littori con fascio, magistrato togato su biga, quattro togati, il secondo con in mano una grossa tavola rettangolare, gli ultimi due un corno.
+Catalog Thes CRA
+	Indexnummer:	70
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 1. Prozessionen, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	90
+	Bandnummer:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba dei Tutes
+Museum
+	Land:	IT
+	Stadt:	Vulci
+	Name:	Necropoli
+	Rechteinhaber der Fotos:	© Vulci
+	Hat die Fotorechte:	1

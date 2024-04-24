@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-7654cb821de88-c
+
+
+
+Monument
+	ID:	51943
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	altar snake ram panther, leopard kantharos cult image, cult statue cista mystica liknon, vannus, winnowing-fan cloth, textile cista, kiste phallos donkey modius satyr, silen
+	Name:	Dionysos/Bacchus Pan
+	Beschreibung:	Stark fragmentierter Sarkophag. Die Seiten sind kaum erhalten. Auf der linken Nebenseite sind zwei Frauen dargestellt, die ein durch einen Mantel verhülltes Mädchen flankieren. Die Rechte stützt ein mit Tuch verhülltes Liknon mit Phallos auf dem Kopf des Mädchens. Die andere greift nach dem Tuch (Enthüllung?).Auf der rechten Nebenseite sitzt ein betrunkener Silen mit Kantharos und Tympanon auf einem Esel. Er wird durch zwei Satyrn gestützt. Neben dem Esel läuft ein Panther. Vor dem Esel hüpft Pan mit Syrinx. Hinter dem Esel steht erhöht eine Statue des bärtigen Dionysos mit Modius auf dem Kopf mit Tympanon und Thyrsos in den Händen. Vor der Statue befindet sich ein Altar mit Korb aus dem sich eine Schlange schlängelt. Am Fuß des Altars liegt ein Widder. 
+	Bibliographie:	Die Antiken Sarkophreliefs IV, 1, 138 n. 38 pl. 39; Matz, a.O. 824, Taf. 23; Matz, F., ΔΙΟΝΥΣΙΑΚΗ ΤΕΛΕΤΗ, AbhMainz 1963 Nr. 15 (1964) 824, Taf. 23. 
+Datierung
+	Periode:	220 - 230 
+Epoche
+	Name:	1. Drittel 3. Jh. n. Chr.
+	Periode:	200 - 233 
+	Sequenznummer:	3380
+Szene
+	ID:	57172
+	Beschreibung:	Stark fragmentierter Sarkophag. Die Seiten sind kaum erhalten. Auf der linken Nebenseite sind zwei Frauen dargestellt, die ein durch einen Mantel verhülltes Mädchen flankieren. Die Rechte stützt ein mit Tuch verhülltes Liknon mit Phallos auf dem Kopf des Mädchens. Die andere greift nach dem Tuch (Enthüllung?).Auf der rechten Nebenseite sitzt ein betrunkener Silen mit Kantharos und Tympanon auf einem Esel. Er wird durch zwei Satyrn gestützt. Neben dem Esel läuft ein Panther. Vor dem Esel hüpft Pan mit Syrinx. Hinter dem Esel steht erhöht eine Statue des bärtigen Dionysos mit Modius auf dem Kopf mit Tympanon und Thyrsos in den Händen. Vor der Statue befindet sich ein Altar mit Korb aus dem sich eine Schlange schlängelt. Am Fuß des Altars liegt ein Widder. 
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	863
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2001-0-311
+Museum
+	Land:	FR
+	Stadt:	Lyon
+	Name:	Musée gallo-romain
+	Adresse:	17 Rue Cléberg
+	Postleitzahl:	F-69005
+	Kontaktzenter:	Musée Gallo-romain
+	Stadt des Kontaktzenters:	Lyon
+	Rechteinhaber der Fotos:	© Cliché Musée gallo-romain, Département du Rhône, Lyon
+	Kommentar:	Anciennement Musée de la Civilisation gallo-romaine.
+	Hat die Fotorechte:	1

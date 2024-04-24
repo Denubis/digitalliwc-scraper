@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-74261244a177b-c
+Orcus_9_1_0
+
+
+
+Monument
+	ID:	9208
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Orcus
+	Beschreibung:	Calydonian hunt, Oineus and Meleagros consulting, to their right Orcus with his double axe.
+Szene
+	ID:	9409
+	Beschreibung:	Calydonian hunt, Oineus and Meleagros consulting, to their right Orcus with his double axe.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_mattei_di_giove/9409X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Orcus
+	Katalognummer:	9
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	63
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Mattei di Giove
+	Direktor:	Soprintendente Arch. Costantino Centroni
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Cavalletti 2
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza per i Beni Ambientali Architettonici del Lazio
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Ambientali Architettonici del Lazio
+	Kommentar:	Numéros d'après Guerrini, L. (éd.), Palazzo Mattei di Giove. Le antichità (1982).
+	Hat die Fotorechte:	1

@@ -1,0 +1,120 @@
+http://ark.dasch.swiss/ark:/72163/080e-743e79bf59012-f
+Parthenios III_1_0_0
+Aktaion_106_1_0
+Gargaphia_5_0_0
+Ismenos_6_0_0
+Kithairon_3_1_0
+Autonoe_8_1_0
+Artemis/Diana_332_0_0
+Nereides_197a_1_0
+
+
+
+Monument
+	ID:	10934
+	Entdeckungsort:	Torre Nova
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	lagobolon, pedum dog
+	Name:	Aktaion Artemis/Diana Autonoe Gargaphia Ismenos Kithairon Parthenios III Nereides
+	Beschreibung:	Autonoe finding the corpse of her son Aktaion in the mountains. On the upper left the river-god Ismenos reclining. On the main side at left Aktaion's death. Above the cave at the right the genius loci, Kithairon, seated on a rock.
+	Bibliographie:	SarkRel 3 (1897) 2-5 pl. 1; Charbonneaux, J., La sculpture grecque et romaine au Musée du Louvre (1963) 217-218 fig. 459; Andreae, B., Römische Kunst (1973) fig. 449; Blome, P., Begram und Rom: Zuden Vorbildern des Aktaionsarkophages im Louvre, AntK 20 (1977) 43-53 pl. 11; 12, 1.
+Datierung
+	Periode:	125 - 130 
+Epoche
+	Name:	1. Drittel 2. Jh. n. Chr.
+	Periode:	100 - 133 
+	Sequenznummer:	3240
+Szene
+	ID:	11177
+	Beschreibung:	Autonoe finding the corpse of her son Aktaion in the mountains. On the upper left the river-god Ismenos reclining. On the main side at left Aktaion's death. Above the cave at the right the genius loci, Kithairon, seated on a rock.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/11177X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/11177X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/11177X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/11177X203.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/11177X204.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/11177X205.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/11177X206.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Parthenios III
+	Katalognummer:	1
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aktaion
+	Katalognummer:	106
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Gargaphia
+	Katalognummer:	5
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ismenos
+	Katalognummer:	6
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kithairon
+	Katalognummer:	3
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Autonoe
+	Katalognummer:	8
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	332
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	15782
+	Szenerieangabe:	couvercle
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/15782X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Nereides
+	Katalognummer:	197a
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 459
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

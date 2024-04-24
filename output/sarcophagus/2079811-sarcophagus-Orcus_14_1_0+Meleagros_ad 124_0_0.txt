@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-7426249153454-0
+Orcus_14_1_0
+Meleagros_ad 124_0_0
+
+
+
+Monument
+	ID:	9213
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Meleagros
+	Beschreibung:	On the left Oineus. Then a depiction of the Calydonian hunt: Orcus, Artemis, the Dioskouroi with horses, Meleagros spearing the boar, Atalante with dog. Above the cave a man, a fallen hunter and a wounded hunter.
+Szene
+	ID:	9414
+	Beschreibung:	On the left Oineus. Then a depiction of the Calydonian hunt: Orcus, Artemis, the Dioskouroi with horses, Meleagros spearing the boar, Atalante with dog. Above the cave a man, a fallen hunter and a wounded hunter.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_rospigliosi_pallavicini/9414X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Orcus
+	Katalognummer:	14
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	ad 124
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel XII 6, 28
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Rospigliosi Pallavicini
+	Rechteinhaber der Fotos:	© Palazzo Rospigliosi Pallavicini, Roma
+	Hat die Fotorechte:	1

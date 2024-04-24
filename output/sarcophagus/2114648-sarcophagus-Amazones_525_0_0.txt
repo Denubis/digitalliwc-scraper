@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-7618311e1557d-2
+Amazones_525_0_0
+
+
+
+Monument
+	ID:	44336
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	trumpet, tuba, salpinx horse warrior, soldier Amazon rider
+	Name:	Amazones
+	Beschreibung:	Fragments.
+	Bibliographie:	Rodenwaldt, G., JdI 45 (1930) 167 fig 41; Ellis, A., Harvard Studies 47 (1936) 21; Redlich, R. Die Amazonensarkophage des 2. und 3. Jh. n. Chr. (1942) 49 pl. 3; Andreae, B., RM 63 (1956) 35 no. 8; Giuliano, A./ Palma, B., La maniera ateniese di età romana, StudMisc 24 (1978)30 II 7 pl. 27, 68.
+Datierung
+	Periode:	190 - 200 
+Epoche
+	Name:	Ende 2. Jh. n. Chr.
+	Periode:	190 - 200 
+	Sequenznummer:	3170
+Szene
+	ID:	46623
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	525
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1889.9AC
+Museum
+	Land:	US
+	Stadt:	Cambridge (Mass.)
+	Name:	Arthur M. Sackler Museum, Harvard University Art Museums (formerly Fogg Art Museum)
+	Direktor:	Curator Dr Susanne Ebbinghaus
+	Anrede:	Dear Curator,
+	Adresse:	32 Quincy St.
+	Postleitzahl:	USA-
+	Kontaktzenter:	Arthur M. Sackler Museum, Harvard University Art Museums (formerly Fogg Art Museum)
+	Stadt des Kontaktzenters:	Cambridge (Mass.) 02138
+	Rechteinhaber der Fotos:	© Arthur M. Sackler Museum, Harvard University Art Museums 
+	Hat die Fotorechte:	1

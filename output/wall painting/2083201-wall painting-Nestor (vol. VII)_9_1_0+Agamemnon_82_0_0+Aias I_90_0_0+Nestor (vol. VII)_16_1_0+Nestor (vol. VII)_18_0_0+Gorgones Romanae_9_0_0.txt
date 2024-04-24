@@ -1,0 +1,84 @@
+http://ark.dasch.swiss/ark:/72163/080e-74569bb039b0a-8
+Nestor (vol. VII)_9_1_0
+Agamemnon_82_0_0
+Aias I_90_0_0
+Nestor (vol. VII)_16_1_0
+Nestor (vol. VII)_18_0_0
+Gorgones Romanae_9_0_0
+
+
+
+Monument
+	ID:	12633
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Domus Transitoria
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	spear weapon pilos
+	Name:	Agamemnon Aias I Gorgo, Gorgones Nestor
+	Beschreibung:	Nestor sitting to the right, with spear and shield. Behind him stands Thrasymedes. In front of Nestor are Odysseus, Agamemnon and Diomedes. At the right Achilleus is sitting on his shield and behind him Patroklos. In another scene Odysseus seated with spear and sword. To the left on the ground are warrior's arms, Nestor and Achilleus. To the right Diomedes and Pallas Athena. In another scene Achilleus seated on a rock with spear and sword, looking towards Nestor who seems to talk to him. Behind him Thrasymedes shield on the ground. In the middle Patroklos leading a horse. From the same Domus fragments of gorgoneia in opus sectile.
+	Bibliographie:	Helbig (4) II no. 2074; Bastet, F. F., Domus Transitoria II, BullAntBesch 47, 1972, 61-87 fig. 5; Bianchi Bandinelli, RCP fig. 138. 140; Rizzo, PER pl. 32. 
+Datierung
+	Periode:	64 - 68 
+Epoche
+	Name:	3. Viertel 1. Jh. n. Chr.
+	Periode:	50 - 75 
+	Sequenznummer:	3080
+Szene
+	ID:	12937
+	Beschreibung:	Nestor sitting to the right, with spear and shield. Behind him stands Thrasymedes. In front of Nestor are Odysseus, Agamemnon and Diomedes. At the right Achilleus is sitting on his shield and behind him Patroklos. In another scene Odysseus seated with spear and sword. To the left on the ground are warrior's arms, Nestor and Achilleus. To the right Diomedes and Pallas Athena. In another scene Achilleus seated on a rock with spear and sword, looking towards Nestor who seems to talk to him. Behind him Thrasymedes shield on the ground. In the middle Patroklos leading a horse. From the same Domus fragments of gorgoneia in opus sectile.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_palatino/12937X005.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_palatino/12937X206.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Nestor (vol. VII)
+	Katalognummer:	9
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Agamemnon
+	Katalognummer:	82
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aias I
+	Katalognummer:	90
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Nestor (vol. VII)
+	Katalognummer:	16
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Nestor (vol. VII)
+	Katalognummer:	18
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Gorgones Romanae
+	Katalognummer:	9
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Domus Transitoria
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Palatino
+	Direktor:	Soprintendente Dott. Angelo Bottini
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza Archeologica di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

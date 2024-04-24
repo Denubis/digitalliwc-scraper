@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-7549472142710-9
+Helene_124_0_1
+
+
+
+Monument
+	ID:	29745
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 10,2
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Helene
+Szene
+	ID:	31199
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Helene
+	Katalognummer:	124
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9002
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

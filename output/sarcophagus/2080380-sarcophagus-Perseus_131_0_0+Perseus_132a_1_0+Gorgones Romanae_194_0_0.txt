@@ -1,0 +1,55 @@
+http://ark.dasch.swiss/ark:/72163/080e-742e470f90731-2
+Perseus_131_0_0
+Perseus_132a_1_0
+Gorgones Romanae_194_0_0
+
+
+
+Monument
+	ID:	9793
+	Entdeckungsort:	Intercisa
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Gorgo, Gorgones Perseus
+	Beschreibung:	Medusa touches with her right the arm of Perseus, with her left she tries to take away his weapon.
+	Bibliographie:	CSIR Ungarn VII (1991) 64 Nr. 101a Taf. 59, 1
+Szene
+	ID:	27892
+	Beschreibung:	Medusa touches with her right the arm of Perseus, with her left she tries to take away his weapon.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/hungary/budapest/musee_national_hongrois_magyar_nemzeti_muzeum/27892X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Perseus
+	Katalognummer:	131
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Perseus
+	Katalognummer:	132a
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Gorgones Romanae
+	Katalognummer:	194
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	62.84.1
+Museum
+	Land:	HU
+	Stadt:	Budapest
+	Name:	Musée National Hongrois (Magyar Nemzeti Múzeum)
+	Direktor:	Dir. Dr. Tibor Kovács
+	Anrede:	Dear Dr. Kovács
+	Adresse:	Múzeum Krt. 14-16
+	Postleitzahl:	H-1088
+	Kontaktzenter:	Musée National Hongrois (Magyar Nemzeti Múzeum)
+	Stadt des Kontaktzenters:	Budapest
+	Rechteinhaber der Fotos:	© Magyar Nemzeti Múzeum, Budapest
+	Hat die Fotorechte:	1

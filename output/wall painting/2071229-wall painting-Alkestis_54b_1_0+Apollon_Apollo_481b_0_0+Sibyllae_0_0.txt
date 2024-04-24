@@ -1,0 +1,61 @@
+http://ark.dasch.swiss/ark:/72163/080e-73ab73279ca36-a
+Alkestis_54b_1_0
+Apollon/Apollo_481b_0_0
+Sibyllae_0_0
+
+
+
+Monument
+	ID:	556
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 8,3-8 (Casa del Poeta Tragico)
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	sword table, mensa, trapeza old man seat with back-rest
+	Name:	Admetos II Alkestis Apollon/Apollo Sibyllae
+	Beschreibung:	The female prophet in company of Apollon
+	Bibliographie:	Schefold, WP 104; Helbig, Wandgemälde no. 1158; HBr pl. 13.
+Szene
+	ID:	49189
+	Beschreibung:	The female prophet in company of Apollon
+	Sequenznummer:	1
+Catalog Thes CRA
+	Indexnummer:	160
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	III. 6.a. Divination, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	1920
+	Bandnummer:	3
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	54b
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	481b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Sibyllae
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9026
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

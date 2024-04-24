@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-751a5ef0b353b-6
+Eteokles_21_0_0
+
+
+
+Monument
+	ID:	26444
+	Entdeckungsort:	Tarquinia
+	Objekt:	sarcophagus
+	Material:	nenfro
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eteokles
+Szene
+	ID:	27771
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Eteokles
+	Katalognummer:	21
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Museo Nazionale di Tarquinia
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

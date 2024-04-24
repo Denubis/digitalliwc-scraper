@@ -1,0 +1,85 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ae3efbbc244-4
+Hekate (vol. VI)_64_0_0
+Agamemnon_41_1_0
+Iphigeneia_38_0_0
+Artemis/Diana_48_1_0
+Kalchas_9_0_0
+
+
+
+Monument
+	ID:	18826
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 8,3-8 (Casa del Poeta Tragico)
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	column cult image, cult statue human sacrifice
+	Name:	Agamemnon Artemis/Diana Hekate Iphigeneia Kalchas
+	Beschreibung:	In the centre Iphigeneia, on the right Kalchas holding sword and scabbard.
+	Bibliographie:	CMV, GrCl 329 fig. 383, HBr pl. 15; Schefold, WP 105.
+Datierung
+	Periode:	-100 - -1 
+Epoche
+	Name:	1. Jh. v. Chr.
+	Periode:	-100 - -1 
+	Sequenznummer:	2850
+Szene
+	ID:	19701
+	Beschreibung:	In the centre Iphigeneia, on the right Kalchas holding sword and scabbard.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/19701X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/19701X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/19701X303.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/19701X304.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hekate (vol. VI)
+	Katalognummer:	64
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Agamemnon
+	Katalognummer:	41
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iphigeneia
+	Katalognummer:	38
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	48
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kalchas
+	Katalognummer:	9
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9112
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

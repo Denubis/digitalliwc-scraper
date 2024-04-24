@@ -1,0 +1,30 @@
+http://ark.dasch.swiss/ark:/72163/080e-7412f89e3fb63-4
+Sphinx (S)_309_0_0
+
+
+
+Monument
+	ID:	7858
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Sphinx (Thebana)
+	Beschreibung:	Crouching female Sphinx.
+Szene
+	ID:	8041
+	Beschreibung:	Crouching female Sphinx.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Sphinx (S)
+	Katalognummer:	309
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	LY
+	Stadt:	Cyrène
+	Name:	Musée des Antiquités
+	Rechteinhaber der Fotos:	© Musée des Antiquités, Cyrène
+	Hat die Fotorechte:	1

@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-75b8ad353c340-f
+Dirke_11_1_0
+
+
+
+Monument
+	ID:	37610
+	Entdeckungsort:	Rome
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Dirke
+Szene
+	ID:	39527
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Dirke
+	Katalognummer:	11
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Romano
+	Direktor:	Soprintendente Dott. Giuseppe Proietti
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali - Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

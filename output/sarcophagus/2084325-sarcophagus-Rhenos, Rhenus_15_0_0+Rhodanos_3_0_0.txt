@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-7466ad6f8effe-f
+Rhenos, Rhenus_15_0_0
+Rhodanos_3_0_0
+
+
+
+Monument
+	ID:	13764
+	Entdeckungsort:	Lyon
+	Objekt:	sarcophagus
+	Material:	limestone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Rhenos, Rhenus Rhodanos
+	Beschreibung:	The two river-gods Rhodanos and Rhenos reclining.
+Szene
+	ID:	14120
+	Beschreibung:	The two river-gods Rhodanos and Rhenos reclining.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/lyon/ile_barbe/eglise_de_saint-martin_et_de_saint-loup/cloitre/14120X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Rhenos, Rhenus
+	Katalognummer:	15
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Rhodanos
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	FR
+	Stadt:	Lyon
+	Name:	Ile Barbe, Eglise de Saint-Martin et de Saint-Loup, cloître
+	Rechteinhaber der Fotos:	© Lyon
+	Hat die Fotorechte:	1

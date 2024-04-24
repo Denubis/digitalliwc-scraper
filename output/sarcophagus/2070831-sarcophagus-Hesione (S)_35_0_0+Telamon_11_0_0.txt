@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a5c281ed1f0-7
+Hesione (S)_35_0_0
+Telamon_11_0_0
+
+
+
+Monument
+	ID:	138
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hesione Telamon
+	Beschreibung:	Herakles, Ketos, Hesione, Eros and Telamon.
+Szene
+	ID:	519
+	Beschreibung:	Herakles, Ketos, Hesione, Eros and Telamon.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Hesione (S)
+	Katalognummer:	35
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Telamon
+	Katalognummer:	11
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Via Belsiana 7 (già)
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Vie
+	Rechteinhaber der Fotos:	© Roma
+	Hat die Fotorechte:	1

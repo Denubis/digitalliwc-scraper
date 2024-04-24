@@ -1,0 +1,54 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a6fd42ac21e-5
+Hypsipyle I (S)_9_0_0
+Archemoros_3_0_0
+Septem_16_1_0
+
+
+
+Monument
+	ID:	226
+	Entdeckungsort:	Ercolano, Herculaneum, Herculanum
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Archemoros Hypsipyle I Septem
+	Beschreibung:	In the centre in the lower part a snake with Archemoros and a hydria. Two warriors with spears try to attack the snake. On the right the nurse Hypsipyle.
+Szene
+	ID:	2004
+	Beschreibung:	In the centre in the lower part a snake with Archemoros and a hydria. Two warriors with spears try to attack the snake. On the right the nurse Hypsipyle.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/2004X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hypsipyle I (S)
+	Katalognummer:	9
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Archemoros
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Septem
+	Katalognummer:	16
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8987
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

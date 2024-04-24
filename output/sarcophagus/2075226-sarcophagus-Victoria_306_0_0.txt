@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e497d86df07-5
+Victoria_306_0_0
+
+
+
+Monument
+	ID:	4587
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Victoria
+	Beschreibung:	Two standing Victories holding clipeus with menorah. Surrounded by Tempora anni.
+Szene
+	ID:	4645
+	Beschreibung:	Two standing Victories holding clipeus with menorah. Surrounded by Tempora anni.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Victoria
+	Katalognummer:	306
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	67611
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Romano
+	Direktor:	Soprintendente Dott. Giuseppe Proietti
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali - Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

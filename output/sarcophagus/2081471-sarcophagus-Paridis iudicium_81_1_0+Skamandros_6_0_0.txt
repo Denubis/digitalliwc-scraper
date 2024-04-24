@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-743de007e9dc0-4
+Paridis iudicium_81_1_0
+Skamandros_6_0_0
+
+
+
+Monument
+	ID:	10892
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Paridis iudicium Skamandros
+	Beschreibung:	Judgement of Paris: Three nymphs, Paris, Hermes, Eros, Aphrodite, Eros, Hera, Athena, Tellus, nymph, mountain-god Ide (II) and another nymph.
+Szene
+	ID:	11135
+	Beschreibung:	Judgement of Paris: Three nymphs, Paris, Hermes, Eros, Aphrodite, Eros, Hera, Athena, Tellus, nymph, mountain-god Ide (II) and another nymph.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Paridis iudicium
+	Katalognummer:	81
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Skamandros
+	Katalognummer:	6
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Calza 194
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Doria Pamphilj
+	Rechteinhaber der Fotos:	© Villa Doria Pamphilj, Roma
+	Kommentar:	Numéros d'après Calza, R. (éd.), Antichità di Villa Doria Pamphilj (1977).
+	Hat die Fotorechte:	1

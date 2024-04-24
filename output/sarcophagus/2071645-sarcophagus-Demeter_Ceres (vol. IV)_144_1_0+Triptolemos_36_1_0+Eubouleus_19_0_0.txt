@@ -1,0 +1,60 @@
+http://ark.dasch.swiss/ark:/72163/080e-73b165ae32a56-f
+Demeter/Ceres (vol. IV)_144_1_0
+Triptolemos_36_1_0
+Eubouleus_19_0_0
+
+
+
+Monument
+	ID:	984
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Name:	Eubouleus Demeter/Ceres Triptolemos Ploutos
+	Beschreibung:	Quadrinomial composition: From left to right: A: anodos of Kore. B: Demeter handing over spicas to Kore. Between them a youth intepreted as Eubouleus. C: Triptolemos in his chariot. D: Group of four deities: Demeter, Kore, Triptolemos, Ploutos(?). 
+Szene
+	ID:	16294
+	Beschreibung:	Quadrinomial composition: From left to right: A: anodos of Kore. B: Demeter handing over spicas to Kore. Between them a youth intepreted as Eubouleus. C: Triptolemos in his chariot. D: Group of four deities: Demeter, Kore, Triptolemos, Ploutos(?).
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/16294X203.jpg
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	40
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 3.c. Initiation
+	Sequenznummer:	1200
+	Bandnummer:	2
+Catalog LIMC
+	Artikel:	Demeter/Ceres (vol. IV)
+	Katalognummer:	144
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Triptolemos
+	Katalognummer:	36
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eubouleus
+	Katalognummer:	19
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 3751
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

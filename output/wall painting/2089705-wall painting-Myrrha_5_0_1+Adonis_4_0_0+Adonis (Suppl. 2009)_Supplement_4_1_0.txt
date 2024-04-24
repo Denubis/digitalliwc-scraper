@@ -1,0 +1,63 @@
+http://ark.dasch.swiss/ark:/72163/080e-74b397cae3012-c
+Myrrha_5_0_1
+Adonis_4_0_0
+Adonis (Suppl. 2009)_Supplement_4_1_0
+
+
+
+Monument
+	ID:	19202
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Esquiline
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	sceptre tree child myrtle, branch of myrtle nymph
+	Name:	Adonis Aphrodite Myrrha
+	Beschreibung:	Myrrha depicted as tree, giving birth to Adonis in the presence of Aphrodite. In front of the tree a kneeling nymph who presents Adonis to Aphrodite. On the left another goddess (Persephone?).
+	Bibliographie:	Reinach, RépPeint 64, 3; Whitehouse, H., in: Claridge, A. (ed.), The Paper Museum of Cassinao Dal Pozzo. A Catalogue Raisonné. Series A - Antiquities and Architecture. Part one. Ancient Mosaics and Wallpaintings (2001) 294 no. 80 with fig.
+	Monument-URL:	http://www.limc-france.fr/objet/14511
+Datierung
+	Periode:	1 - 100 
+Epoche
+	Name:	1. Jh. n. Chr.
+	Periode:	1 - 100 
+	Sequenznummer:	3000
+Szene
+	ID:	20086
+	Beschreibung:	Myrrha depicted as tree, giving birth to Adonis in the presence of Aphrodite. In front of the tree a kneeling nymph who presents Adonis to Aphrodite. On the left another goddess (Persephone?).
+	Sequenznummer:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Myrrha
+	Katalognummer:	5
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Adonis
+	Katalognummer:	4
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Adonis (Suppl. 2009)
+	Band:	Supplement
+	Katalognummer:	4
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1930.751
+Museum
+	Land:	GB
+	Stadt:	Oxford
+	Name:	Ashmolean Museum of Art and Archaeology
+	Direktor:	Ms. Katherine Wodehouse, Picture Library Manager
+	Anrede:	Dear Dr. Vickers,
+	Adresse:	Beaumont Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	Ashmolean Museum of Art and Archaeology
+	Stadt des Kontaktzenters:	Oxford OX1 2PH
+	Rechteinhaber der Fotos:	© Ashmolean Museum of Art and Archaeology, Oxford
+	Hat die Fotorechte:	1

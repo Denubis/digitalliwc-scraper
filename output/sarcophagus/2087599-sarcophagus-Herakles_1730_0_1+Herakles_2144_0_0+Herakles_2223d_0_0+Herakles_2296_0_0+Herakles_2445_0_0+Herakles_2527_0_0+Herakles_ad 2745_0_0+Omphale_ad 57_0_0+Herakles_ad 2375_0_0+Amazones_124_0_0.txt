@@ -1,0 +1,103 @@
+http://ark.dasch.swiss/ark:/72163/080e-74957c018b970-f
+Herakles_1730_0_1
+Herakles_2144_0_0
+Herakles_2223d_0_0
+Herakles_2296_0_0
+Herakles_2445_0_0
+Herakles_2527_0_0
+Herakles_ad 2745_0_0
+Omphale_ad 57_0_0
+Herakles_ad 2375_0_0
+Amazones_124_0_0
+
+
+
+Monument
+	ID:	17072
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	club fight, battle
+	Name:	Herakles Omphale Amazones
+	Beschreibung:	Intercolumniated with Labours of Herakles in the central niche at one end a woman nude to the waist, holding quiver and bow (Omphale). Labours of Herakles: Lion, Hydra, Boar, Deer, Birds, Augeias, Bull, Horses of Diomedes, Amazon, Geryoneus, Kerberos, Hesperides.
+	Bibliographie:	SarkRel III pl. 34-37 no. 126; Wiegartz, H., Kleinasiatische Säulensarkophage. IstanbForsch 26 (1965) 169.
+Datierung
+	Periode:	165 - 170 
+	Kommentar:	about
+Epoche
+	Name:	3. Viertel 2. Jh. n. Chr.
+	Periode:	150 - 175 
+	Sequenznummer:	3220
+Szene
+	ID:	17759
+	Beschreibung:	Intercolumniated with Labours of Herakles in the central niche at one end a woman nude to the waist, holding quiver and bow (Omphale). Labours of Herakles: Lion, Hydra, Boar, Deer, Birds, Augeias, Bull, Horses of Diomedes, Amazon, Geryoneus, Kerberos, Hesperides.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_torlonia/17759X302.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	1730
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2144
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2223d
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2296
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2445
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2527
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	ad 2745
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Omphale
+	Katalognummer:	ad 57
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	ad 2375
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	124
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	420
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Torlonia
+	Adresse:	Via della Conciliazione 30
+	Postleitzahl:	I-00193
+	Kontaktzenter:	Amministrazione Principe Torlonia
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Museo Torlonia, Roma
+	Hat die Fotorechte:	1

@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-74524e0d9d269-c
+Mousa, Mousai/Musae (vol. VII)_90_0_0
+
+
+
+Monument
+	ID:	12332
+	Entdeckungsort:	Stabiae
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Mousa, Mousai
+Szene
+	ID:	12632
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	90
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2523
+Museum
+	Land:	IT
+	Stadt:	Castellammare di Stabia
+	Name:	Antiquarium Stabiano
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

@@ -1,0 +1,51 @@
+http://ark.dasch.swiss/ark:/72163/080e-7520eb2eb87ad-7
+Halimedes_6_0_0
+Amphiaraos_75_1_0
+
+
+
+Monument
+	ID:	26907
+	Entdeckungsort:	Kizibel
+	Objekt:	wall painting
+	Herkunft:	Ionia
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	spear chariot flower staff horse demon woman warrior, soldier charioteer old man
+	Name:	Amphiaraos Halimedes
+	Beschreibung:	Halimedes in short dress, with white beard and hair, holding staff, tretching out his arm towards the chariot of Amphiaraos.
+	Bibliographie:	Mellink, M., AJA 74 (1970) 251-253 Taf. 60; Mellink, M., AJA 75 (1971) 246-248 Taf. 50; Mellink, M., AJA 77 (1973) 293 Anm. I Taf. 43; Mellink, M., Mélanges Mansel I (1974) 543-545 Taf. 163.165.
+Datierung
+	Periode:	-550 - -500 
+Epoche
+	Name:	2. Hälfte 6. Jh. v. Chr.
+	Periode:	-550 - -500 
+	Sequenznummer:	2200
+Szene
+	ID:	28266
+	Beschreibung:	Halimedes in short dress, with white beard and hair, holding staff, tretching out his arm towards the chariot of Amphiaraos.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/turkey/elmali/28266X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Halimedes
+	Katalognummer:	6
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amphiaraos
+	Katalognummer:	75
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tombe de Kizilbel
+Museum
+	Land:	TR
+	Stadt:	Elmali
+	Kontaktzenter:	DAI Istanbul
+	Stadt des Kontaktzenters:	Elmali
+	Rechteinhaber der Fotos:	© DAI Istanbul
+	Hat die Fotorechte:	1

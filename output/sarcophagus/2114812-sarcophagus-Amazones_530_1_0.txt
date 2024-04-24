@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-761a8958107b1-1
+Amazones_530_1_0
+
+
+
+Monument
+	ID:	44513
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	horse warrior, soldier Amazon fight, battle rider
+	Name:	Amazones
+	Beschreibung:	Fragmente
+	Bibliographie:	Giuliano, A./ Palma, B., La maniera ateniese di età romana, StudMisc 24 (1978), 36 CI1 pl. XXXVI 88; Giuliano, A., Il commercio dei sarcofagi attici (1962), 47, no. 251; Redlich, R. Die Amazonensarkophage des 2. und 3. Jahrhunderts (1942), 51, no. 105; Keil, J., OeJh 27, 1932, Beibl. 68 fig. 48.
+Datierung
+	Periode:	190 - 210 
+Epoche
+	Name:	um 200 n. Chr.
+	Periode:	190 - 210 
+	Sequenznummer:	3270
+Szene
+	ID:	46811
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/turkey/selcuk/musee_archeologique_d_ephese/46811X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	530
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	260
+Museum
+	Land:	TR
+	Stadt:	Selçuk
+	Name:	Musée Archéologique d'Ephèse
+	Direktor:	Mme le Dr. Pascale Linant de Bellefonds
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-92023
+	Kontaktzenter:	Université Paris X - Nanterre Maison de l'Archéologie / Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Archaeological Museum of Ephesos
+	Hat die Fotorechte:	1

@@ -1,0 +1,92 @@
+http://ark.dasch.swiss/ark:/72163/080e-7487d11ff2dc4-3
+Zeus/Iuppiter_167_1_0
+Alkmene_14_0_0
+Herakles_1655_0_0
+Iphikles_9_0_1
+Iuno_335_0_1
+Amphitryon_8_0_0
+Lar, Lares_70_0_0
+
+
+
+Monument
+	ID:	16100
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 3,11-12 (Casa di Ercole fanciullo)
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	snake child
+	Name:	Alkmene Amphitryon Herakles Iphikles Hera/Iuno Lar, Lares Zeus/Iuppiter Victoria
+	Beschreibung:	1) Herakles strangling the serpents in the presence of Amphitryon, with the terrified Alkmene beside him. Iphikles is grasping the arm of Alkmene. 2) Reading the fate of Herakles/Hercules (?), he himself not present, but depicted on the same wall; Iuppiter enthroned throwing the astragals/dice, by his right side Iuno (?), by his left side Victoria.
+	Bibliographie:	Schefold, WP 176.
+Szene
+	ID:	16739
+	Szenerieangabe:	(i)
+	Beschreibung:	1) Herakles strangling the serpents in the presence of Amphitryon, with the terrified Alkmene beside him. Iphikles is grasping the arm of Alkmene. 2) Reading the fate of Herakles/Hercules (?), he himself not present, but depicted on the same wall; Iuppiter enthroned throwing the astragals/dice, by his right side Iuno (?), by his left side Victoria.
+	Bibliographie:	Watzinger, C., OeJh 16 (1913) fig. 87; Schefold, WP 176; Reinach, RépPeint 186, 5.
+	Sequenznummer:	1080
+	Name:	Alkmene Amphitryon Herakles Iphikles Hera/Iuno Zeus/Iuppiter
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/16739X006.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	167
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Alkmene
+	Katalognummer:	14
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	1655
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iphikles
+	Katalognummer:	9
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Iuno
+	Katalognummer:	335
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Amphitryon
+	Katalognummer:	8
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49442
+	Szenerieangabe:	l
+	Sequenznummer:	1110
+	Name:	Lar, Lares
+Catalog LIMC
+	Artikel:	Lar, Lares
+	Katalognummer:	70
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VII 3,11-12
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa di Ercole fanciullo

@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-74761a7ca4151-c
+Meleagros_74_0_0
+
+
+
+Monument
+	ID:	14852
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Meleagros
+	Beschreibung:	Meleagros with the boar at his feet.
+Datierung
+	Periode:	170 
+Szene
+	ID:	15325
+	Beschreibung:	Meleagros with the boar at his feet.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	74
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	274-275
+Museum
+	Land:	TR
+	Stadt:	Izmir
+	Name:	Musée Archéologique
+	Direktor:	Mme le Dr. Pascale Linant de Bellefonds
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-92023
+	Kontaktzenter:	Université Paris X-Nanterre; Maison de l'Archéologie/Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Archaeological Museum Izmir
+	Hat die Fotorechte:	1

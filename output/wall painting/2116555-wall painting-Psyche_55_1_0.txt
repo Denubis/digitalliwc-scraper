@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-7633749494ffc-6
+Psyche_55_1_0
+
+
+
+Monument
+	ID:	46279
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Psyche
+Szene
+	ID:	49177
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/catacomba_di_domitilla/49177X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	55
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Cub. 2
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Catacomba di Domitilla
+	Rechteinhaber der Fotos:	© Catacomba di Domitilla, Roma
+	Hat die Fotorechte:	0

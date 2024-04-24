@@ -1,0 +1,82 @@
+http://ark.dasch.swiss/ark:/72163/080e-761772cd42979-0
+Amazones_501_1_0
+Amazones_773_1_0
+
+
+
+Monument
+	ID:	44288
+	Objekt:	sarcophagus with lid
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	helmet shield spear double-axe, bipennis, labrys horse quiver arrow Amazon boots fight, battle rider
+	Name:	Amazones
+	Bibliographie:	SarkRel II pl. 32 no. 77; Sichtermann/ Koch, MythSark 22 no. 11 pl. 21, 2. 22-25; Andreae, B., AA (1974) 307 no. 64; Turcan R,. Les sarcophages romaines à représentations dionysiaques (1966) 142 no. 2.
+Datierung
+	Periode:	140 - 150 
+Epoche
+	Name:	2. Viertel 2. Jh. n. Chr.
+	Periode:	125 - 150 
+	Sequenznummer:	3210
+Szene
+	ID:	46573
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/46573X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/46573X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/46573X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/46573X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/46573X005.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/46573X006.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/46573X107.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	501
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	47054
+	Szenerieangabe:	couvercle
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/47054X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	773
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	726
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Musei Capitolini
+	Direktor:	Dirigente Dott. Claudio Parisi Presicce
+	Adresse:	Via delle Tre Pile, 1
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Sovraintendenza ai Beni Culturali                     del Comune di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Archivio fotografico Musei Capitolini
+	Hat die Fotorechte:	1

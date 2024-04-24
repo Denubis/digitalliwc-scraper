@@ -1,0 +1,90 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d540c0fb052-5
+Aigis (S)_12_1_0
+Virtus_60_1_0
+Ares/Mars_297_1_0
+Homonoia/Concordia_80_0_0
+Abundantia_7_1_0
+
+
+
+Monument
+	ID:	3511
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Rome
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	sword helmet spear sacrifice corselet veil gesture: dextrarum iunctio, dexiosis paludamentum laurel wreath
+	Name:	Abundantia Aigis Ares/Mars Eros/Amor, Cupido Homonoia/Concordia Hera/Iuno Roma Aphrodite/Venus Victoria Virtus
+	Beschreibung:	Dextrarum iunctio scene and offering scene. Abundantia participating in the offering scene. Iuno Pronuba, Eros, Mars, Dea Roma, Victoria, Virtus.
+	Bibliographie:	Koch/Sichtermann, RömSark 101 figl. 100; Jucker, H., AA 1966, 501-514 fig. 9; Gütschow, M., Das Museum der Prätextat-Katakombe, MemPontAcc 4, 2, 1938, 77-109 pl. 10.
+Datierung
+	Periode:	238 
+	Kommentar:	ca.
+Szene
+	ID:	3546
+	Beschreibung:	Dextrarum iunctio scene and offering scene. Abundantia participating in the offering scene. Iuno Pronuba, Eros, Mars, Dea Roma, Victoria, Virtus.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/catacomba_di_pretestato/3546X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/catacomba_di_pretestato/3546X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/catacomba_di_pretestato/3546X005.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/catacomba_di_pretestato/3546X204.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/catacomba_di_pretestato/3546X205.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/catacomba_di_pretestato/3546X206.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/catacomba_di_pretestato/3546X207.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/catacomba_di_pretestato/3546X301.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Aigis (S)
+	Katalognummer:	12
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Virtus
+	Katalognummer:	60
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ares/Mars
+	Katalognummer:	297
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Homonoia/Concordia
+	Katalognummer:	80
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Abundantia
+	Katalognummer:	7
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Sarcophage de Balbinus
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Catacomba di Pretestato
+	Rechteinhaber der Fotos:	© Catacomba di Pretestato, Roma
+	Hat die Fotorechte:	0

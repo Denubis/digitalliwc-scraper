@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-740c4074f63b5-2
+Persephone (S)_217_0_0
+Hades_120_0_1
+
+
+
+Monument
+	ID:	7384
+	Entdeckungsort:	Kertch, Pantikapaion
+	Entdeckungsort Details:	tomb
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Hades Persephone
+	Beschreibung:	Persephone seized by Hades.
+Szene
+	ID:	7542
+	Beschreibung:	Persephone seized by Hades.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/ukraine/kerch/necropolis_of_pantikapaion/7542X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Persephone (S)
+	Katalognummer:	217
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hades
+	Katalognummer:	120
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tombeau d'Alkimos
+Museum
+	Land:	UA
+	Stadt:	Kerch
+	Name:	Necropolis of Pantikapaion
+	Rechteinhaber der Fotos:	© Kerch
+	Hat die Fotorechte:	1

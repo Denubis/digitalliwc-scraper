@@ -1,0 +1,78 @@
+http://ark.dasch.swiss/ark:/72163/080e-7485b374fd7e0-e
+Kirke/Circe_3_0_0
+Odysseus_143_0_0
+Achilleus_111_0_0
+Horai/Horae_16_0_0
+Phrixos et Helle_35_0_0
+
+
+
+Monument
+	ID:	15952
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 5,12-13 (House of Modestus)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	sword garland child maid-servant horse fruit pilos duck
+	Name:	Achilleus Horai/Horae Odysseus Helle Phrixos Deidameia II Circe
+	Beschreibung:	Odysseus, standing, drawing his sword to threaten Circe. In the background two servants. On the left in a window the head of a horse. Three Horae: Spring holding kid and garland. Autumn with fruit on a fold of garment. Winter with two ducks and a stick.
+	Bibliographie:	Reinach, RépPeint 166, 8; Helbig, Wandgemälde no. 979. 994. 1001. 1252; Schefold, WP 98; Touchefeu, Thèmes Odysséens 104 no. 204; PittPavPomp II 65.
+Datierung
+	Periode:	69 - 79 
+Epoche
+	Name:	vespasianisch
+	Periode:	69 - 79 
+	Sequenznummer:	1185
+Szene
+	ID:	16540
+	Beschreibung:	Odysseus, standing, drawing his sword to threaten Circe. In the background two servants. On the left in a window the head of a horse. Three Horae: Spring holding kid and garland. Autumn with fruit on a fold of garment. Winter with two ducks and a stick.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/16540X205.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kirke/Circe
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Odysseus
+	Katalognummer:	143
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	111
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	16
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Phrixos et Helle
+	Katalognummer:	35
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VI 5,12-13
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa di Modestus

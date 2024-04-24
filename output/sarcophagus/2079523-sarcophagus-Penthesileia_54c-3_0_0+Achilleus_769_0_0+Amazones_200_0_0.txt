@@ -1,0 +1,58 @@
+http://ark.dasch.swiss/ark:/72163/080e-74220682eb6b4-2
+Penthesileia_54c-3_0_0
+Achilleus_769_0_0
+Amazones_200_0_0
+
+
+
+Monument
+	ID:	8922
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	horse Amazon fight, battle rider
+	Name:	Achilleus Penthesileia Amazones
+	Beschreibung:	Penthesileia and Achilleus.
+	Bibliographie:	Matz, F./v. Duhn, F., Antike Bildwerke in Rom II (1881) Nr. 3355; SarkRel II Nr. 88 Taf. 37-38; Redlich, R., Die Amazonensarkophage des 2. und 3. Jh. n. Chr. (1942) 81-84.
+Datierung
+	Periode:	200 - 220 
+Epoche
+	Name:	1. Viertel 3. Jh. n. Chr.
+	Periode:	200 - 225 
+	Sequenznummer:	3340
+Szene
+	ID:	9124
+	Beschreibung:	Penthesileia and Achilleus.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Penthesileia
+	Katalognummer:	54c-3
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	769
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	200
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel II 88
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Borghese
+	Direktor:	Direttore Dott.ssa Alba Costamagna
+	Anrede:	Gentile Dott.ssa Alba Costamagna,
+	Adresse:	Palazzo Scipione Borghese
+	Postleitzahl:	I-00197
+	Kontaktzenter:	Museo e Galleria Borghese
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Palazzo Borghese, Roma
+	Hat die Fotorechte:	1

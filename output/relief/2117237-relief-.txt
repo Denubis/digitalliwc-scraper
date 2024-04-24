@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-763d34a4eaece-3
+
+
+
+Monument
+	ID:	50189
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 16,22 (House of M. Fabius Rufus)
+	Objekt:	relief
+	Material:	glass
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	syrinx krater jug tympanon (tambourine) tree kantharos dance he-goat mysteries cista, kiste initiation satyr, silen maenad
+	Name:	Ariadne
+	Beschreibung:	Ariadne auf Sockel sitzend, der tanzenden Mänade rechts einen Kantharos hinhaltend, diese giesst aus einem Kännchen in den Kantharos; unterhalb davon ein Krater. Die Mänade hält in der anderen Hand ein Tympanon. Zu Ariadne springt ein Böcklein empor. Links tanzender Satyr. Zwei Bäume, zwischen denen ein Amor ein Tuch spannt. Links unten eine halboffene cista.Nach Ziviello Einweihung der Ariadne “in die Mysterien”.
+	Bibliographie:	Ziviello, C., in Glas der Caesaren, Kat. Ausstellung Köln (1988) 70-72 (Tafel B) Abb.;eadem, in CollNapoli (1986) 102 Abb.; 227 Nr. 51.
+	Kommentar:	Reliefierte Tafel aus blau-weissem Kameo-Glas.Vgl. Pendant dazu: Napoli, Mus. Naz. 153652 (LIMC Dionysos/Bacchus 188; Dionysos entdeckt Ariadne).
+Datierung
+	Periode:	1 - 25 
+Epoche
+	Name:	1. Viertel 1. Jh. n. Chr.
+	Periode:	1 - 25 
+	Sequenznummer:	3060
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	153651
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

@@ -1,0 +1,51 @@
+http://ark.dasch.swiss/ark:/72163/080e-7419bbc25a460-e
+Pelias_4_0_0
+Admetos I_4_1_0
+
+
+
+Monument
+	ID:	8337
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	lion boar
+	Name:	Admetos II Peleus
+	Beschreibung:	a) Youth (Admetos I) in front of a chariot pulled by a boar and a lion. b) Pelias as king with servants.
+	Bibliographie:	Elia, O., BollArte 46, 1961, 204-5 Abb. 6; Schauenburg 2, 521-529 Taf. 12.
+Datierung
+	Periode:	60 - 79 
+Epoche
+	Name:	2. Hälfte 1. Jh. n. Chr.
+	Periode:	50 - 100 
+	Sequenznummer:	3050
+Szene
+	ID:	8529
+	Beschreibung:	a) Youth (Admetos I) in front of a chariot pulled by a boar and a lion. b) Pelias as king with servants.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Pelias
+	Katalognummer:	4
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Admetos I
+	Katalognummer:	4
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	25921 + 25947
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Antiquarium
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via villa dei Misteri 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei (NA)
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

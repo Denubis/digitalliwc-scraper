@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-745b8e051674c-c
+Psyche_ad 21_0_0
+Eros/Amor, Cupido_676_0_0
+
+
+
+Monument
+	ID:	12981
+	Entdeckungsort:	Ercolano, Herculaneum, Herculanum
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Eros/Amor, Cupido
+Szene
+	ID:	13299
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	ad 21
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	676
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Helbig 853
+Museum
+	Land:	IT
+	Stadt:	Ercolano
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

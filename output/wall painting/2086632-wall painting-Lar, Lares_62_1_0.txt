@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-7487a8dd9ee4d-e
+Lar, Lares_62_1_0
+
+
+
+Monument
+	ID:	16089
+	Entdeckungsort:	Delos (Cyclades)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Lar, Lares
+Szene
+	ID:	16699
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/delos/musee_archeologique/16699X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Lar, Lares
+	Katalognummer:	62
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	GR
+	Stadt:	Délos
+	Name:	Musée Archéologique
+	Direktor:	Dir. Prof. Dominique Mulliez
+	Anrede:	Monsieur le Directeur,
+	Adresse:	6, rue Didotou
+	Postleitzahl:	GR-106 80
+	Kontaktzenter:	Ecole Française d'Athènes
+	Stadt des Kontaktzenters:	Athènes
+	Rechteinhaber der Fotos:	© Archaeological Museum of Delos
+	Hat die Fotorechte:	1

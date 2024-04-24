@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-75542101e4223-6
+Gorgones (in Etruria)_4_0_0
+
+
+
+Monument
+	ID:	30511
+	Entdeckungsort:	Tarquinia
+	Objekt:	wall painting
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Gorgo, Gorgones
+Szene
+	ID:	31979
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Gorgones (in Etruria)
+	Katalognummer:	4
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba delle Pantere
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Necropoli
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

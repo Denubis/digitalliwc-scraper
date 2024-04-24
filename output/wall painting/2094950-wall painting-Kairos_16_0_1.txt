@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-74fe940f76543-d
+Kairos_16_0_1
+
+
+
+Monument
+	ID:	24482
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Kairos
+	Beschreibung:	Wall painting from the 17th century, depicting Kairos.
+Szene
+	ID:	25688
+	Beschreibung:	Wall painting from the 17th century, depicting Kairos.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Kairos
+	Katalognummer:	16
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	GR
+	Stadt:	Redina (Pindos)
+	Name:	Monastère
+	Rechteinhaber der Fotos:	© Pindos
+	Hat die Fotorechte:	0

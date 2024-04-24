@@ -1,0 +1,27 @@
+http://ark.dasch.swiss/ark:/72163/080e-75d996569a4b6-e
+Ares/Mars_335_0_0
+
+
+
+Monument
+	ID:	39931
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	sarcophagus
+Szene
+	ID:	41992
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Ares/Mars
+	Katalognummer:	335
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Catacomba di Pretestato
+	Rechteinhaber der Fotos:	© Catacomba di Pretestato, Roma
+	Hat die Fotorechte:	0

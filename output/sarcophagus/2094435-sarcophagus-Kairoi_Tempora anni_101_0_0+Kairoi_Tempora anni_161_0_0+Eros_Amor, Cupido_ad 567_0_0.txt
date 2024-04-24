@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-74f73733ec9f4-9
+Kairoi/Tempora anni_101_0_0
+Kairoi/Tempora anni_161_0_0
+Eros/Amor, Cupido_ad 567_0_0
+
+
+
+Monument
+	ID:	23964
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kairoi/Tempora anni Eros/Amor, Cupido
+	Beschreibung:	In the centre the half-opened door of a tomb. Each wing is divided into two large and three small fields. In each of the larger ones a Genius of the Seasons, winged like an Eros.
+Datierung
+	Periode:	250 
+Szene
+	ID:	25144
+	Beschreibung:	In the centre the half-opened door of a tomb. Each wing is divided into two large and three small fields. In each of the larger ones a Genius of the Seasons, winged like an Eros.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	101
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	161
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 567
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1185
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Musei Capitolini
+	Direktor:	Dirigente Dott. Claudio Parisi Presicce
+	Adresse:	Via delle Tre Pile, 1
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Sovraintendenza ai Beni Culturali                     del Comune di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Archivio fotografico Musei Capitolini
+	Hat die Fotorechte:	1

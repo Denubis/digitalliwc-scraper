@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-751bd7e96877e-c
+Gorgones Romanae_179_0_0
+
+
+
+Monument
+	ID:	26547
+	Entdeckungsort:	Tyre
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Gorgo, Gorgones
+	Beschreibung:	Bust of Medusa.
+Szene
+	ID:	27882
+	Beschreibung:	Bust of Medusa.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Gorgones Romanae
+	Katalognummer:	179
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	LB
+	Stadt:	Tyr
+	Rechteinhaber der Fotos:	© Tyr
+	Hat die Fotorechte:	1

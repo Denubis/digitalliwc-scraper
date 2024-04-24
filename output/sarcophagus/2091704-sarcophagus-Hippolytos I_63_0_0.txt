@@ -1,0 +1,30 @@
+http://ark.dasch.swiss/ark:/72163/080e-74d02bf7c3d5d-1
+Hippolytos I_63_0_0
+
+
+
+Monument
+	ID:	21210
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hippolytos I
+Szene
+	ID:	22151
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	63
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Gl 132
+Museum
+	Land:	DE
+	Stadt:	Berlin
+	Name:	Schloss Klein-Glienicke
+	Rechteinhaber der Fotos:	© Schloss Klein-Glienicke
+	Hat die Fotorechte:	0

@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-75b846baf21b4-3
+Dioskouroi/Castores_98_0_0
+
+
+
+Monument
+	ID:	37581
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dioskouroi/Castores
+Szene
+	ID:	39585
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/museo_dell_opera_di_santa_croce/39585X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/museo_dell_opera_di_santa_croce/39585X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/museo_dell_opera_di_santa_croce/39585X103.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Dioskouroi/Castores
+	Katalognummer:	98
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Firenze
+	Name:	Museo dell'Opera di Santa Croce
+	Rechteinhaber der Fotos:	© Museo dell'Opera di Santa Croce
+	Hat die Fotorechte:	0

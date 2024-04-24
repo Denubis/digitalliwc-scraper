@@ -1,0 +1,52 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ec0925b2a2e-0
+Herakles_3278_1_0
+
+
+
+Monument
+	ID:	23171
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Name:	Herakles
+	Beschreibung:	Herakles wearing a mantle, supported by three satyrs. At left Pan. At right a satyr with a torch, another one rides a mule.
+Szene
+	ID:	24310
+	Beschreibung:	Herakles wearing a mantle, supported by three satyrs. At left Pan. At right a satyr with a torch, another one rides a mule.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	3278
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	Ehem. A.O.
+	Nummer:	13./14.12.1982, 265
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	Sotheby's
+	Direktor:	Mr. Adam Levine
+	Adresse:	34-35 New Bond Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	Sotheby's
+	Stadt des Kontaktzenters:	London, W1A 2AA
+	Rechteinhaber der Fotos:	© Sotheby's, London
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	3.06.2009, 109
+Museum
+	Land:	US
+	Stadt:	New York
+	Name:	Christie's
+	Direktor:	Dr. Simon Wills
+	Adresse:	20 Rockefeller Plaza
+	Postleitzahl:	USA-
+	Kontaktzenter:	Christie's
+	Stadt des Kontaktzenters:	New York, NY 10020
+	Rechteinhaber der Fotos:	© Christie's, New York
+	Kommentar:	früher: Mr. G. Max Bernheimer, Senior Director
+	Hat die Fotorechte:	1

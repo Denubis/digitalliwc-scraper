@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e5980a272e5-b
+Virtus_39_0_0
+Hippolytos I_60_1_0
+Virtus_45_0_0
+
+
+
+Monument
+	ID:	4659
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hippolytos I Virtus
+	Beschreibung:	Left: Virtus with a horse. Right: Virtus and Hippolytos.
+Szene
+	ID:	4723
+	Beschreibung:	Left: Virtus with a horse. Right: Virtus and Hippolytos.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Virtus
+	Katalognummer:	39
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	60
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Virtus
+	Katalognummer:	45
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Calza 182
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Doria Pamphilj
+	Rechteinhaber der Fotos:	© Villa Doria Pamphilj, Roma
+	Kommentar:	Numéros d'après Calza, R. (éd.), Antichità di Villa Doria Pamphilj (1977).
+	Hat die Fotorechte:	1

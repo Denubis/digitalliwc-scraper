@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d7c88f2ad87-7
+Kentauroi et Kentaurides (S)_436b_1_0
+
+
+
+Monument
+	ID:	3689
+	Entdeckungsort:	Arles, Arelate
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kentauroi and Kentaurides
+	Beschreibung:	Centaur with rock against a lioness.
+Szene
+	ID:	3727
+	Beschreibung:	Centaur with rock against a lioness.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/marseille/musee_d_archeologie_mediterraneenne_collections_autrefois_au_mus/3727X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	436b
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	FR
+	Stadt:	Marseille
+	Name:	Musée d'Archéologie Méditerranéenne (collections autrefois au Musée Borély)
+	Direktor:	Au Directeur
+	Adresse:	2, Rue de la Charité
+	Postleitzahl:	F-13002
+	Kontaktzenter:	Musée d'Archéologie Méditerranéenne Centre de la Vieille Charité
+	Stadt des Kontaktzenters:	Marseille
+	Rechteinhaber der Fotos:	© Musée d'Archéologie Méditerranéenne, Marseille
+	Hat die Fotorechte:	1

@@ -1,0 +1,55 @@
+http://ark.dasch.swiss/ark:/72163/080e-74061e5a2b894-d
+Polyphemos I (S)_55_1_0
+Galateia (vol. V)_22_0_0
+Odysseus_p. 960_0_0
+
+
+
+Monument
+	ID:	6952
+	Entdeckungsort:	Boscotrecase
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Galateia Polyphemos I
+	Beschreibung:	Poorly preserved. Two scenes: Polyphemos courting Galateia. Polyphemos throwing a rock at Odysseus' ship.
+	Museums-URL:	http://www.metmuseum.org/art/collection/search/250946
+	Monument-URL:	http://www.limc-france.fr/objet/14315
+Szene
+	ID:	7098
+	Beschreibung:	Two scenes: Polyphemos courting Galateia. Polyphemos throwing a rock at Odysseus' ship.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/new_york/metropolitan_museum_of_art/7098X003.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Polyphemos I (S)
+	Katalognummer:	55
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Galateia (vol. V)
+	Katalognummer:	22
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Odysseus
+	Katalognummer:	p. 960
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	20.192.17
+Museum
+	Land:	US
+	Stadt:	New York
+	Name:	Metropolitan Museum of Art
+	Direktor:	Eileen Sullivan, Assistant Museum Librarian
+	Anrede:	Dear Ms Sullivan,
+	Adresse:	1000 Fifth Avenue at 82nd Street
+	Postleitzahl:	USA-
+	Kontaktzenter:	The Metropolitan Museum of Art                          The Photograph Library
+	Stadt des Kontaktzenters:	New York, NY 10028-0198
+	Rechteinhaber der Fotos:	© Metropolitan Museum of Art
+	Hat die Fotorechte:	1

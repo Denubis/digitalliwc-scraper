@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-7477ad13ebbf7-0
+Meleagros_105_0_0
+
+
+
+Monument
+	ID:	14964
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Caelian
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Meleagros
+	Beschreibung:	Destroyed. Meleagros and Atalante.
+Datierung
+	Periode:	101 - 200 
+Szene
+	ID:	15440
+	Beschreibung:	Meleagros and Atalante.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	105
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Direktor:	Soprintendente Prof. Adriano La Regina
+	Adresse:	Piazza S. Maria Nova 53
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza Archeologica di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	0

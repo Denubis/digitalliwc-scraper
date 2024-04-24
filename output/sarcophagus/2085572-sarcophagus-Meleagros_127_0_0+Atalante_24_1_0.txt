@@ -1,0 +1,52 @@
+http://ark.dasch.swiss/ark:/72163/080e-7478815a60a99-f
+Meleagros_127_0_0
+Atalante_24_1_0
+
+
+
+Monument
+	ID:	15023
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Atalante Meleagros
+	Beschreibung:	The heroes are gathered round the boar. Atalante stands before the boar's head, aiming her bow at it. She wears short chiton and chlamys, quiver and boots.
+Datierung
+	Periode:	280 - 300 
+Szene
+	ID:	15499
+	Beschreibung:	The heroes are gathered round the boar. Atalante stands before the boar's head, aiming her bow at it. She wears short chiton and chlamys, quiver and boots.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/woburn_abbey_bedfordshire/woburn_abbey_art_gallery/15499X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/woburn_abbey_bedfordshire/woburn_abbey_art_gallery/15499X301.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/woburn_abbey_bedfordshire/woburn_abbey_art_gallery/15499X302.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	127
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Atalante
+	Katalognummer:	24
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Cat. 69 (Michaelis 110)
+Museum
+	Land:	GB
+	Stadt:	Woburn Abbey (Bedfordshire)
+	Name:	Woburn Abbey Art Gallery
+	Rechteinhaber der Fotos:	© Woburn Abbey Art Gallery
+	Kommentar:	Numéros d'après Angelicoussis, E., The Woburn Abbey Collection of Classical Antiquities (1992); les numéros entre parenthèses sont ceux de Michaelis, A., Ancient Marbles in Great Britain (1882).
+	Hat die Fotorechte:	1

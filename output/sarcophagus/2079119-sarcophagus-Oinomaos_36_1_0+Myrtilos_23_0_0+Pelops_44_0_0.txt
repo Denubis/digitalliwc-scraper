@@ -1,0 +1,59 @@
+http://ark.dasch.swiss/ark:/72163/080e-741c3fe799bd0-1
+Oinomaos_36_1_0
+Myrtilos_23_0_0
+Pelops_44_0_0
+
+
+
+Monument
+	ID:	8513
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Myrtilos Oinomaos Pelops
+Szene
+	ID:	8707
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/algeria/tipasa/musee/8707X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/algeria/tipasa/musee/8707X301.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/algeria/tipasa/musee/8707X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/algeria/tipasa/musee/8707X303.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/algeria/tipasa/musee/8707X304.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Oinomaos
+	Katalognummer:	36
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Myrtilos
+	Katalognummer:	23
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Pelops
+	Katalognummer:	44
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	DZ
+	Stadt:	Tipasa
+	Name:	Musée
+	Rechteinhaber der Fotos:	© Musée Tipasa
+	Hat die Fotorechte:	1

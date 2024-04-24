@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-765276f113219-9
+
+
+
+Monument
+	ID:	51759
+	Objekt:	sarcophagus
+	Material:	nenfro
+	Land:	CH
+	Kategorie:	relief
+	Beschreibung:	Scene showing a procession to the left: three lictors with fasces, magistrate on a biga, three togates, the first carrying a writing tablet, the third a horn (processus magistraturalis)
+	Bibliographie:	Lambrechts, R., Essai sur les magistratures des républiques étrusques (1959) 137 n. 10 tav. 9.
+Szene
+	ID:	56976
+	Beschreibung:	Scene showing a procession to the left: three lictors with fasces, magistrate on a biga, three togates, the first carrying a writing tablet, the third a horn (processus magistraturalis)
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	73
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 1. Prozessionen, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	90
+	Bandnummer:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	3060
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Museo Nazionale di Tarquinia
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

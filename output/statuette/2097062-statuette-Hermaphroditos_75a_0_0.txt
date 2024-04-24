@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-751cc5ce6fe83-e
+Hermaphroditos_75a_0_0
+
+
+
+Monument
+	ID:	26613
+	Entdeckungsort:	Pompei
+	Objekt:	statuette
+	Material:	marble
+	Land:	CH
+	Kategorie:	sculpture in the round of stone
+	Name:	Hermaphroditos
+	Beschreibung:	Hermaphroditos stands frontal on base, uncovering his male genitals. Hermaphroditos supports small Eros on its left arm.
+Szene
+	ID:	27963
+	Beschreibung:	Hermaphroditos stands frontal on base, uncovering his male genitals. Hermaphroditos supports small Eros on its left arm.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Hermaphroditos
+	Katalognummer:	75a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Contraro Bottaro
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1

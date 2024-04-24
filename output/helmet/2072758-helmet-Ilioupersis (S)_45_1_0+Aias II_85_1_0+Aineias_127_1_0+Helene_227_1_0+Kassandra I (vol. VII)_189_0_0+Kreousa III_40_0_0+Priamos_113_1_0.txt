@@ -1,0 +1,120 @@
+http://ark.dasch.swiss/ark:/72163/080e-73c14f2b33fd3-e
+Ilioupersis (S)_45_1_0
+Aias II_85_1_0
+Aineias_127_1_0
+Helene_227_1_0
+Kassandra I (vol. VII)_189_0_0
+Kreousa III_40_0_0
+Priamos_113_1_0
+
+
+
+Monument
+	ID:	2109
+	Entdeckungsort:	Pompei
+	Objekt:	helmet
+	Material:	bronze
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	altar helmet Palladion torch cult image, cult statue corselet suppliant, supplication, hikesia greaves seat, chair, sedes, sedile warrior, soldier old man Ilioupersis
+	Name:	Aias II Aineias Anchises Athena Helene Kassandra I Kreousa III Priamos Ilioupersis
+	Beschreibung:	Kassandra flieht zum Kultbild der Athena, Aias naht von links. Alle Figuren en face. Neoptolemos seizes Priamos to kill him. Menelaos and Helene. Aeneas carrying Anchises. Kreousa, Askanios and Aeneas. In the background the walls of Troy.
+	Bibliographie:	Reinach, RépRel III 77, 1; Maiuri, B., Museo Nazionale di Napoli (1957) 161; Davreux, J., La légende de la prophétesse Cassandre d’après les textes et les monuments (1942) 169 no. 110 fig. 61; Seltman, CAH X (1934) pl. 4..
+Datierung
+	Periode:	-100 - -1 
+Epoche
+	Name:	1. Jh. v. Chr.
+	Periode:	-100 - -1 
+	Sequenznummer:	2850
+Szene
+	ID:	2122
+	Beschreibung:	Kassandra flieht zum Kultbild der Athena, Aias naht von links. Alle Figuren en face. Neoptolemos seizes Priamos to kill him. Menelaos and Helene. Aeneas carrying Anchises. Kreousa, Askanios and Aeneas. In the background the walls of Troy.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/2122X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/2122X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/2122X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/2122X007.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/2122X008.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/2122X009.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/2122X203.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/2122X204.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/2122X205.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Ilioupersis (S)
+	Katalognummer:	45
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aias II
+	Katalognummer:	85
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aineias
+	Katalognummer:	127
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helene
+	Katalognummer:	227
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kassandra I (vol. VII)
+	Katalognummer:	189
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kreousa III
+	Katalognummer:	40
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Priamos
+	Katalognummer:	113
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	5673
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	7533

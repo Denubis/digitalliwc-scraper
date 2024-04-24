@@ -1,0 +1,59 @@
+http://ark.dasch.swiss/ark:/72163/080e-73f77e41aaa59-2
+Venti_11_0_0
+Dioskouroi/Castores_149_0_0
+Dioskouroi/Castores_155_0_0
+
+
+
+Monument
+	ID:	5920
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Via Salaria
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Venti Dioskouroi/Castores
+	Beschreibung:	In the corners of the lid are bearded blowing heads depicting Venti (Winds). 
+	Museums-URL:	https://art.thewalters.org/detail/37126/sarcophagus-depicting-castor-and-pollux-seizing-the-daughters-of-leucippus/
+	Monument-URL:	
+Szene
+	ID:	6024
+	Szenerieangabe:	couvercle
+	Beschreibung:	In the corners of the lid are bearded blowing heads depicting Venti (Winds).
+	Sequenznummer:	20
+	Monument-URL:	Walters Art Museum: http://art.thewalters.org/detail/37126/sarcophagus-depicting-castor-and-pollux-seizing-the-daughters-of-leucippus/
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/baltimore/walters_art_museum/6024X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Venti
+	Katalognummer:	11
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dioskouroi/Castores
+	Katalognummer:	149
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dioskouroi/Castores
+	Katalognummer:	155
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	23.32
+Museum
+	Land:	US
+	Stadt:	Baltimore
+	Name:	Walters Art Museum
+	Direktor:	Mrs. Kate Lau
+	Adresse:	600 North Charles Street
+	Postleitzahl:	USA-
+	Kontaktzenter:	Walters Art Museum - Photo Services
+	Stadt des Kontaktzenters:	Baltimore MD 21201-5185
+	Rechteinhaber der Fotos:	© Walters Art Museum, Baltimore
+	Kommentar:	Vorher Walters Art Gallery. Neuer Name vor 2003. Eingetragen 15.9.06.
+	Hat die Fotorechte:	1

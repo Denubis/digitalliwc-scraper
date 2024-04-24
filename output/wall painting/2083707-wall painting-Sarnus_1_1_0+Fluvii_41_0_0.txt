@@ -1,0 +1,73 @@
+http://ark.dasch.swiss/ark:/72163/080e-745dd79b5026c-4
+Sarnus_1_1_0
+Fluvii_41_0_0
+
+
+
+Monument
+	ID:	13142
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 15,1 (Casa del Larario del Sarno)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Sarnus Fluvii
+	Beschreibung:	Im oberen Teil der gemauerten Ädikula öffnet sich eine tiefe Nische mit spitzem Giebel. An der Rückwand ein opfernder Genius an einem Rundaltar (libatio), flankiert von zwei grünen Pflanzen. On the base of the aedicula Sarnus reclining on a rock.
+	Bibliographie:	Fröhlich, Lararien 262-263 Nr. L 33 Taf. 6. Abb. 3.
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	13473
+	Beschreibung:	Im oberen Teil der gemauerten Ädikula öffnet sich eine tiefe Nische mit spitzem Giebel. An der Rückwand ein opfernder Genius an einem Rundaltar (libatio), flankiert von zwei grünen Pflanzen. On the base of the aedicula Sarnus reclining on a rock.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/13473X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/13473X203.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/13473X204.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	132
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 2.a. Opfer, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	220
+	Bandnummer:	1
+Catalog LIMC
+	Artikel:	Sarnus
+	Katalognummer:	1
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Fluvii
+	Katalognummer:	41
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	I 14,6-7
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa del Larario del Sarno

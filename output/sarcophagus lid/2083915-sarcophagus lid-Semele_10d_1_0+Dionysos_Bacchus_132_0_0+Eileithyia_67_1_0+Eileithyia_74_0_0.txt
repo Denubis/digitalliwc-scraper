@@ -1,0 +1,58 @@
+http://ark.dasch.swiss/ark:/72163/080e-7460d0de9b27c-6
+Semele_10d_1_0
+Dionysos/Bacchus_132_0_0
+Eileithyia_67_1_0
+Eileithyia_74_0_0
+
+
+
+Monument
+	ID:	13352
+	Entdeckungsort:	Corcolle, Querquetula
+	Objekt:	sarcophagus lid
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dionysos/Bacchus Eileithyia Semele Zeus
+	Beschreibung:	Sarcophagus lid in a chapel in Corcolle (ancient Querquetula) on the via Praenestina, near Rome. Three scenes are divided by columns: 1) The birth of Dionysos from Zeus. A woman wearing a sakkos and cloak around the waist (Eileithyia) tends the wound on Zeus' thigh while Hermes takes the child Dionysos to Nysa. Another woman behind him. 2) Depiction of the death of Semele with three further figures, probably Eileithyia, Harmonia and Apollon. 3) Dionysos in Nysa.
+Szene
+	ID:	13695
+	Beschreibung:	Three scenes are divided by columns: 1) The birth of Dionysos from Zeus. A woman wearing a sakkos and cloak around the waist (Eileithyia) tends the wound on Zeus' thigh while Hermes takes the child Dionysos to Nysa. Another woman behind him. 2) Depiction of the death of Semele with three further figures, probably Eileithyia, Harmonia and Apollon. 3) Dionysos in Nysa.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/corcolle/cappella/13695X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/corcolle/cappella/13695X101.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Semele
+	Katalognummer:	10d
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	132
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eileithyia
+	Katalognummer:	67
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eileithyia
+	Katalognummer:	74
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Corcolle
+	Name:	Cappella
+	Rechteinhaber der Fotos:	© Corcolle
+	Hat die Fotorechte:	0

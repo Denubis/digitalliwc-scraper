@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-75d61951824f2-2
+Artemis/Diana_303_1_0
+
+
+
+Monument
+	ID:	39686
+	Objekt:	sarcophagus lid
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Artemis/Diana
+Szene
+	ID:	41734
+	Szenerieangabe:	couvercle
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/canada/roma/royal_ontario_museum/41734X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	303
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	Ehem. A.O.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Collezione L. Curtius (già)
+	Rechteinhaber der Fotos:	© Collection L. Curtius (once)
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	595.17.22
+Museum
+	Land:	CA
+	Stadt:	Toronto
+	Name:	Royal Ontario Museum
+	Direktor:	Director William Thorsell 
+	Adresse:	100 Queen's Park 
+	Kontaktzenter:	Royal Ontario Museum
+	Stadt des Kontaktzenters:	Toronto, Ontario M5S 2C6 Canada
+	Rechteinhaber der Fotos:	© Royal Ontario Museum
+	Hat die Fotorechte:	0

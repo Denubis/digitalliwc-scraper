@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-74dae890e2a48-2
+Herakles_2649_1_0
+
+
+
+Monument
+	ID:	21969
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Piazzale del Verano
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Herakles
+	Beschreibung:	Herakles and Kerberos in the central panel.
+Szene
+	ID:	22977
+	Beschreibung:	Herakles and Kerberos in the central panel.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/22977X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2649
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1394
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Musei Capitolini
+	Direktor:	Dirigente Dott. Claudio Parisi Presicce
+	Adresse:	Via delle Tre Pile, 1
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Sovraintendenza ai Beni Culturali                     del Comune di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Archivio fotografico Musei Capitolini
+	Hat die Fotorechte:	1

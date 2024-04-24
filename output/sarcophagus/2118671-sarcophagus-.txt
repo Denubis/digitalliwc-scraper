@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-7651b4f750050-b
+
+
+
+Monument
+	ID:	51701
+	Entdeckungsort:	Chiusi, Camars, Clevsin, Clusium
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	relief
+	Beschreibung:	Rilievo chiusino. Sarcophagus showing a banqueting scene on the long side: seven recumbent figures on the ground, amid them a woman and a frontally depicted aulete; to the left a young servant with simpula (dat. 510-500 BC)
+	Bibliographie:	Jannot, J.-R., Les reliefs archaïques de Chiusi (1984) C II 43 fig. 308.
+Szene
+	ID:	56914
+	Beschreibung:	Rilievo chiusino. Sarcophagus showing a banqueting scene on the long side: seven recumbent figures on the ground, amid them a woman and a frontally depicted aulete; to the left a young servant with simpula (dat. 510-500 BC)
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	26
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 4.a. Bankett, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	1420
+	Bandnummer:	2
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2273
+Museum
+	Land:	IT
+	Stadt:	Chiusi
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Soprintendente Dott.ssa Fulvia Lo Schiavo
+	Adresse:	Via della Pergola 65
+	Postleitzahl:	I-50121
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici della Toscana
+	Stadt des Kontaktzenters:	Firenze
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici della Toscana
+	Hat die Fotorechte:	1

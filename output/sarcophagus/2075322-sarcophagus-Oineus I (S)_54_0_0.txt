@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e5f732908e7-9
+Oineus I (S)_54_0_0
+
+
+
+Monument
+	ID:	4685
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Oineus I
+	Beschreibung:	Oineus leads the procession with the dead Meleagros wearing a cuirass.
+Szene
+	ID:	4753
+	Beschreibung:	Oineus leads the procession with the dead Meleagros wearing a cuirass.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/genova/civico_museo_di_archeologia_ligure/4753X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/genova/civico_museo_di_archeologia_ligure/4753X102.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Oineus I (S)
+	Katalognummer:	54
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Genova
+	Name:	Civico Museo di Archeologia Ligure
+	Rechteinhaber der Fotos:	© Civico Museo di Archeologia Ligure, Genova
+	Hat die Fotorechte:	1

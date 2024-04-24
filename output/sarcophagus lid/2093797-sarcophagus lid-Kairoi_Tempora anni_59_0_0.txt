@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ee182ce68fe-3
+Kairoi/Tempora anni_59_0_0
+
+
+
+Monument
+	ID:	23316
+	Objekt:	sarcophagus lid
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kairoi/Tempora anni
+	Beschreibung:	On both sides three bigae driven by nude Erotes (Seasons?)
+Datierung
+	Periode:	275 
+Szene
+	ID:	24459
+	Szenerieangabe:	couvercle
+	Beschreibung:	On both sides three bigae driven by nude Erotes (Seasons?)
+	Sequenznummer:	20
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	59
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	3267
+Museum
+	Land:	IT
+	Stadt:	Treviso
+	Name:	Museo Civico "Luigi Bailo"
+	Direktor:	Dott. Emilio Lippi
+	Adresse:	Borgo Cavour 24
+	Postleitzahl:	I-31100
+	Kontaktzenter:	Museo Civico "Luigi Bailo"
+	Stadt des Kontaktzenters:	Treviso
+	Rechteinhaber der Fotos:	© Museo Civico "Luigi Bailo", Treviso
+	Hat die Fotorechte:	0

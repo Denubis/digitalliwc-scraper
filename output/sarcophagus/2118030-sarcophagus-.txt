@@ -1,0 +1,49 @@
+http://ark.dasch.swiss/ark:/72163/080e-76488af578e0b-d
+
+
+
+Monument
+	ID:	51023
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Grössenangabe:	L 218 cm, H 100 cm, T 130 cm
+	Beschreibung:	Grosser Wannensarkophag mit dionysischen Darstellungen.
+	Bibliographie:	Bildkatalog der Skulpturen des Vatikanischen Museums. Museo Chiaramonti 3 (1995) Taf. 870-875; Turcan, R., Les sarcophages romains à représentation dionysiaque (1966) 524-525 tav. 43a; Matz, SarkRel IV, 1, 135-138 n. 37 tav. 35.
+Datierung
+	Periode:	230 - 250 
+Epoche
+	Name:	2. Drittel 3. Jh. n. Chr.
+	Periode:	233 - 266 
+	Sequenznummer:	3390
+Szene
+	ID:	56183
+	Beschreibung:	Dionysos ancien dans un petit édicule devant le- quel brûle le foyer enflammé: berger poussant un ovin, femme tenant à deux mains un plateau où se trouvent une pigne et des fruits. Sur l’oπrande des akrodrua – noix et noisettes – au dieu
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	272
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 5. Kultbilder
+	Sequenznummer:	1800
+	Bandnummer:	2
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1926
+Museum
+	Land:	VA
+	Stadt:	Vaticano
+	Name:	Musei Vaticani
+	Direktor:	Direttore Dott. Antonio Paolucci
+	Anrede:	Chiarissimo Direttore,
+	Postleitzahl:	I-00120
+	Kontaktzenter:	Monumenti, Musei e Gallerie Pontificie
+	Stadt des Kontaktzenters:	Città del Vaticano
+	Rechteinhaber der Fotos:	© Musei Vaticani
+	Kommentar:	Sont réunis sous cette dénomination générique - compte tenu à la fois de leur numérotation unique et de leurs déplacements à l'intérieur des musées - les monuments conservés dans le Museo Chiaramonti, le Museo Gregoriano Etrusco, le Museo Gregoriano Profano, le Museo Pio Clementino et le Museo Pio Cristiano.  En revanche, la localisation spécifique a été conservée dans les cas suivants: Basilica San Pietro, Biblioteca Apostolica Vaticana (et Museo Profano, Museo Sacro, Sala delle Nozze Aldobrandine), Camposanto Teutonico, Giardini, Medagliere Vaticano, Museo Gregoriano Egizio, Necropoli sotto San Pietro.
+	Hat die Fotorechte:	0

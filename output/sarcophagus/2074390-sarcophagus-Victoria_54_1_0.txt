@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d8a427807b3-2
+Victoria_54_1_0
+
+
+
+Monument
+	ID:	3750
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Victoria
+	Beschreibung:	Depiction of a chariot race in the circus. On a pillar Victoria with wreath and palm branch.
+Szene
+	ID:	3790
+	Beschreibung:	Depiction of a chariot race in the circus. On a pillar Victoria with wreath and palm branch.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/3790X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/3790X301.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Victoria
+	Katalognummer:	54
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1544
+Museum
+	Land:	VA
+	Stadt:	Vaticano
+	Name:	Musei Vaticani
+	Direktor:	Direttore Dott. Antonio Paolucci
+	Anrede:	Chiarissimo Direttore,
+	Postleitzahl:	I-00120
+	Kontaktzenter:	Monumenti, Musei e Gallerie Pontificie
+	Stadt des Kontaktzenters:	Città del Vaticano
+	Rechteinhaber der Fotos:	© Musei Vaticani
+	Kommentar:	Sont réunis sous cette dénomination générique - compte tenu à la fois de leur numérotation unique et de leurs déplacements à l'intérieur des musées - les monuments conservés dans le Museo Chiaramonti, le Museo Gregoriano Etrusco, le Museo Gregoriano Profano, le Museo Pio Clementino et le Museo Pio Cristiano.  En revanche, la localisation spécifique a été conservée dans les cas suivants: Basilica San Pietro, Biblioteca Apostolica Vaticana (et Museo Profano, Museo Sacro, Sala delle Nozze Aldobrandine), Camposanto Teutonico, Giardini, Medagliere Vaticano, Museo Gregoriano Egizio, Necropoli sotto San Pietro.
+	Hat die Fotorechte:	0

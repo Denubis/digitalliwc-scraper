@@ -1,0 +1,72 @@
+http://ark.dasch.swiss/ark:/72163/080e-73cc514e29a5d-1
+Kentauroi et Kentaurides (S)_209_0_0
+Nekyia (S)_11_1_0
+Aiakos_4_1_0
+Hermes_600_0_0
+Rhadamanthys_3_0_0
+
+
+
+Monument
+	ID:	2884
+	Entdeckungsort:	Lefkandi (Euboea)
+	Entdeckungsort Details:	tomb
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	stone stick, cane centaur
+	Name:	Aiakos Hermes Rhadamanthys Nekyia Kentauroi and Kentaurides
+	Beschreibung:	The main panels on the facade show Hermes, the dead man, Rhadamanthys and Aiakos. Aiakos is seated on a block, wearing himation and shoes, holding a crooked staff. Several opponents: centaur and Lapith.
+	Bibliographie:	Petsas, P. M., O Tafos ton Lefkadion (1966) pl. A. H. 7. 9; Robertson, M., History of Greek Art (1975) pl. 182a; Bruno, V. J., Form and Colour in Greek Painting (1977) pl. 7.
+Datierung
+	Periode:	-300 - -290 
+Epoche
+	Name:	Anfang 3. Jh. v. Chr.
+	Periode:	-300 - -290 
+	Sequenznummer:	2580
+Szene
+	ID:	2906
+	Beschreibung:	The main panels on the facade show Hermes, the dead man, Rhadamanthys and Aiakos. Aiakos is seated on a block, wearing himation and shoes, holding a crooked staff. Several opponents: centaur and Lapith.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/lefkadia/tombeaux/2906X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	209
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Nekyia (S)
+	Katalognummer:	11
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aiakos
+	Katalognummer:	4
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hermes
+	Katalognummer:	600
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Rhadamanthys
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	GR
+	Stadt:	Lefkadia
+	Name:	Tombeaux
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Lefkadia
+	Hat die Fotorechte:	0

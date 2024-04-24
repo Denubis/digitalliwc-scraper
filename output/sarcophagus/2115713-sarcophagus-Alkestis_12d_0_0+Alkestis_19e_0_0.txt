@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-76276aee0560a-4
+Alkestis_12d_0_0
+Alkestis_19e_0_0
+
+
+
+Monument
+	ID:	45429
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Name:	Admetos II Alkestis
+	Bibliographie:	Von G. Koch, AA (1974) 297 fig. 6.
+Szene
+	ID:	47822
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	12d
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	19e
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Poli
+	Rechteinhaber der Fotos:	© Roma
+	Hat die Fotorechte:	1

@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-745c206aa4e14-9
+Psyche_ad 67_0_0
+
+
+
+Monument
+	ID:	13021
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Psyche
+Szene
+	ID:	13345
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	ad 67
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Vaccari-Bacchettoni (già)
+	Rechteinhaber der Fotos:	© Palazzo Vaccari-Bacchettoni (once)
+	Hat die Fotorechte:	1

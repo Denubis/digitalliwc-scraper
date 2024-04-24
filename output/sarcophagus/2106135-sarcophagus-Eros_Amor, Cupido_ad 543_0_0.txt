@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-759e7c3d27978-3
+Eros/Amor, Cupido_ad 543_0_0
+
+
+
+Monument
+	ID:	35758
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido
+Szene
+	ID:	37594
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 543
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	590
+Museum
+	Land:	IT
+	Stadt:	Torino
+	Name:	Museo di Antichità
+	Direktor:	Sopr.  Dott.ssa Luisa Brecciaroli
+	Adresse:	Piazza S. Giovanni, 2
+	Postleitzahl:	I-10122
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici del Piemonte
+	Stadt des Kontaktzenters:	Torino
+	Rechteinhaber der Fotos:	© Musei Reali di Torino
+	Hat die Fotorechte:	1

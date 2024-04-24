@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-745272a700c1b-f
+Mousa, Mousai/Musae (vol. VII)_105_0_0
+
+
+
+Monument
+	ID:	12342
+	Entdeckungsort:	Sabratha
+	Entdeckungsort Details:	theatre
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Mousa, Mousai
+Szene
+	ID:	12642
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	105
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	LY
+	Stadt:	Sabratha
+	Name:	Musée
+	Rechteinhaber der Fotos:	© Musée Sabratha
+	Hat die Fotorechte:	1

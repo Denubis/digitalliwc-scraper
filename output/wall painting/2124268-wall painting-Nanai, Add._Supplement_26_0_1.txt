@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-76a1b98662461-b
+Nanai, Add._Supplement_26_0_1
+
+
+
+Monument
+	ID:	201313
+	Entdeckungsort:	Kalai-Kahkakha (ancient Shahristan, Tajikistan)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	lion crescent of the moon
+	Name:	Nanai
+	Beschreibung:	Fragmentary scene showing a female figure with four arms (interpreted as Nana) riding a lion pacing to the right, with long oriental garment and headdress with crescent; in two of her four hands she holds the sun and the moon
+	Bibliographie:	Azarpay, G., Iranian Divinities in Sogdian Painting, in: Monumentum H. S. Nyberg, I (1975) fig. 5; Tanabe, K., Nana on Lion. East and West in Sogdian Art, Orient 30/31 (1995) fig. 1, 6. 
+Datierung
+	Periode:	600 - 800 
+Szene
+	ID:	98241
+	Beschreibung:	Fragmentary scene showing a female figure with four arms (interpreted as Nana) riding a lion pacing to the right, with long oriental garment and headdress with crescent; in two of her four hands she holds the sun and the moon
+Catalog LIMC
+	Artikel:	Nanai, Add.
+	Band:	Supplement
+	Katalognummer:	26
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	TJ
+	Stadt:	Kalai-Kahkakha (ancien Shahristan, Tadjikistan)
+	Rechteinhaber der Fotos:	© Kalai-Kahkakha
+	Hat die Fotorechte:	1

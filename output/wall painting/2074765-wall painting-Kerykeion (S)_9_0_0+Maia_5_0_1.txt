@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-73de009f97b46-d
+Kerykeion (S)_9_0_0
+Maia_5_0_1
+
+
+
+Monument
+	ID:	4125
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	thermal baths
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Maia Kerykeion
+	Beschreibung:	Mural painting, once in the Baths of Constantine in Rome. Maia in frontal view, standing on a flower, wearing chiton and belted himation, holding winged kerykeion. In one hand a vase with flowers.
+Datierung
+	Periode:	300 - 400 
+Szene
+	ID:	4169
+	Beschreibung:	Mural painting, once in the Baths of Constantine in Rome. Maia in frontal view, standing on a flower, wearing chiton and belted himation, holding winged kerykeion. In one hand a vase with flowers.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Kerykeion (S)
+	Katalognummer:	9
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Maia
+	Katalognummer:	5
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Terme di Costantino (già)
+	Rechteinhaber der Fotos:	© Roma
+	Hat die Fotorechte:	1

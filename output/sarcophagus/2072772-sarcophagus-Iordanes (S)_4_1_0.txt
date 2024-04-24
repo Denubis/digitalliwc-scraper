@@ -1,0 +1,52 @@
+http://ark.dasch.swiss/ark:/72163/080e-73c1826859099-9
+Iordanes (S)_4_1_0
+
+
+
+Monument
+	ID:	2123
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Iordanes
+	Beschreibung:	Ascension of Elias: Below Elias in his quadriga the river-god Iordanus reclining to the left.
+Datierung
+	Periode:	380 - 400 
+Szene
+	ID:	2135
+	Beschreibung:	Ascension of Elias: Below Elias in his quadriga the river-god Iordanus reclining to the left.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/arles/musee_de_l_arles_et_de_la_provence_antiques/2135X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/arles/musee_de_l_arles_et_de_la_provence_antiques/2135X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/arles/musee_de_l_arles_et_de_la_provence_antiques/2135X103.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Iordanes (S)
+	Katalognummer:	4
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	92.00.2527
+Museum
+	Land:	FR
+	Stadt:	Arles
+	Name:	Musée de l'Arles et de la Provence antiques
+	Direktor:	M. le Directeur Claude Sintes
+	Adresse:	Presqu'Ile du Cirque Romain
+	Postfach:	BP 205
+	Postleitzahl:	F-13635
+	Kontaktzenter:	Musée de l'Arles et de la Provence antiques
+	Stadt des Kontaktzenters:	Arles cedex
+	Rechteinhaber der Fotos:	© Musée de l'Arles et de la Provence antiques
+	Hat die Fotorechte:	1

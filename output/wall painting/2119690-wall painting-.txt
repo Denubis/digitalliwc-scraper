@@ -1,0 +1,51 @@
+http://ark.dasch.swiss/ark:/72163/080e-7660466c0f777-2
+
+
+
+Monument
+	ID:	52818
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	Temple of Isis
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	priest lamp
+	Grössenangabe:	H: 44 cm; B: 30,3 cm
+	Beschreibung:	Ein Isispriester in langem, oberkörperfreiem Gewand mit rasiertem Kopf hält in der rechten Hand eine Kette, an der eine zweischnäuzige Goldlampe hängt. Im Hintergrund eine kleine Mauer und eine Säule. 
+	Bibliographie:	Pozzi, E. et al., Le Collezioni del Museo Nazionale di Napoli (1986) 122; Cantilena, R. / Prisco, G. (ed.), Alla ricerca di Iside. Analisi,  Studi e restauri dell’Isaeo pompeiano nel  Museo di Napoli (1992) 48 Nr. 1.30. 
+	Kommentar:	Möglicherweise handelt es sich bei dem Priester um den bei Apuleius (Metamorph.XI.10.) für den Isiskult erwähnten lychnophoros, der das sogenannte aureum cymbium trägt, eine Schale in Schiffsform. Zu anderen Darstellungen im Isistempel siehe ID: 10175; 21619; 28263; 45813; 50195; 52591; 52812; 52837. 
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	58135
+	Beschreibung:	Ein Isispriester in langem, oberkörperfreiem Gewand mit rasiertem Kopf hält in der rechten Hand eine Kette, an der eine zweischnäuzige Goldlampe hängt. Im Hintergrund eine kleine Mauer und eine Säule. 
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	1384
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8969
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

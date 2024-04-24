@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-74a95ef3912db-4
+Odysseus_162_0_0
+
+
+
+Monument
+	ID:	18483
+	Entdeckungsort:	Ostia
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Odysseus
+Szene
+	ID:	19318
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/museo_ostiense/19318X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Odysseus
+	Katalognummer:	162
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	10107
+Museum
+	Land:	IT
+	Stadt:	Ostia
+	Name:	Museo Ostiense
+	Direktor:	Dott.ssa Elvira Angeloni
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Viale dei Romagnoli 717
+	Postleitzahl:	I-00119
+	Kontaktzenter:	Soprintendenza archeologica di Ostia
+	Stadt des Kontaktzenters:	Ostia Antica - Roma
+	Rechteinhaber der Fotos:	Archivio Fotografico della Soprintendenza Archeologica per i beni archeologici di Ostia
+	Hat die Fotorechte:	1

@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-7552cca292992-a
+Gorgo, Gorgones_120_0_0
+
+
+
+Monument
+	ID:	30418
+	Entdeckungsort:	Hadra
+	Entdeckungsort Details:	necropolis
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Gorgo, Gorgones
+Szene
+	ID:	31884
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Gorgo, Gorgones
+	Katalognummer:	120
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	19440
+Museum
+	Land:	EG
+	Stadt:	Alexandrie
+	Name:	Musée Gréco-Romain
+	Kontaktzenter:	Musée Gréco-Romain
+	Stadt des Kontaktzenters:	Alexandrie
+	Rechteinhaber der Fotos:	© Musée Gréco-Romain Alexandria
+	Hat die Fotorechte:	1

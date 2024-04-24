@@ -1,0 +1,59 @@
+http://ark.dasch.swiss/ark:/72163/080e-73f50c691cfc2-7
+Pan (S)_221_1_0
+Dionysos/Bacchus_246_1_0
+Herakles_1431_0_0
+
+
+
+Monument
+	ID:	5748
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dionysos/Bacchus Herakles Pan
+	Beschreibung:	Procession of Dionysos who is in a chariot drawn by elephants at the left. At the right Herakles stands in a chariot drawn by acentaur with lyre and centauress with tympanon.
+Szene
+	ID:	5849
+	Beschreibung:	Procession of Dionysos who is in a chariot drawn by elephants at the left. At the right Herakles stands in a chariot drawn by acentaur with lyre and centauress with tympanon.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/woburn_abbey_bedfordshire/woburn_abbey_art_gallery/5849X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/woburn_abbey_bedfordshire/woburn_abbey_art_gallery/5849X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/woburn_abbey_bedfordshire/woburn_abbey_art_gallery/5849X301.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/woburn_abbey_bedfordshire/woburn_abbey_art_gallery/5849X303.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Pan (S)
+	Katalognummer:	221
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	246
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	1431
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Cat. 62 (Michaelis 144)
+Museum
+	Land:	GB
+	Stadt:	Woburn Abbey (Bedfordshire)
+	Name:	Woburn Abbey Art Gallery
+	Rechteinhaber der Fotos:	© Woburn Abbey Art Gallery
+	Kommentar:	Numéros d'après Angelicoussis, E., The Woburn Abbey Collection of Classical Antiquities (1992); les numéros entre parenthèses sont ceux de Michaelis, A., Ancient Marbles in Great Britain (1882).
+	Hat die Fotorechte:	1

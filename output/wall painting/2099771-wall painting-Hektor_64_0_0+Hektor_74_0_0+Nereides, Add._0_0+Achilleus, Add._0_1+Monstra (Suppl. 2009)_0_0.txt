@@ -1,0 +1,66 @@
+http://ark.dasch.swiss/ark:/72163/080e-75438085f0c2c-2
+Hektor_64_0_0
+Hektor_74_0_0
+Nereides, Add._0_0
+Achilleus, Add._0_1
+Monstra (Suppl. 2009)_0_0
+
+
+
+Monument
+	ID:	29339
+	Entdeckungsort:	Beit-Ras, Capitolias
+	Entdeckungsort Details:	Tomb of Prometheus
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	wall, Town wall corpse
+	Name:	Achilleus Hektor Triton Nereides
+	Beschreibung:	Duel Achilleus against Hektor and in a second depiction Achilleus who is dragging the corps of Hektor with his chariot; nereid riding on a monster
+	Bibliographie:	Zayadine, F., in: Kahil, L./Augé, C./Linant de Bellefonds, P. (eds.), Iconographies classiques et identités régionales, BCH Suppl. 14 (1986) 411-143 fig. 5; Barbet, A., in: Les peintures des nécropoles romaines d'Abila et du Nord de la Jordanie (1994) 233. 320 fig. D3-D4 pl. 113; Barbet, A., in: I temi figurativi nelle pittura parientale (Kongress Bologna 1997) 33. 319 fig. 5.
+	Monument-URL:	http://www.limc-france.fr/objet/945
+Datierung
+	Periode:	200 - 300 
+Epoche
+	Name:	3. Jh. n. Chr.
+	Periode:	200 - 300 
+	Sequenznummer:	3280
+Szene
+	ID:	30782
+	Beschreibung:	Duel Achilleus against Hektor and in a second depiction Achilleus who is dragging the corps of Hektor with his chariot; nereid riding on a monster
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Hektor
+	Katalognummer:	64
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hektor
+	Katalognummer:	74
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Nereides, Add.
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus, Add.
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Monstra (Suppl. 2009)
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	JO
+	Stadt:	Beit-Râs (Capitolias, Jordanie)
+	Name:	Tombeau de Prométhée
+	Direktor:	M. le Dr. Fawzi Zayadine, Conseiller d'Archéologie
+	Adresse:	P.O.Box 88
+	Kontaktzenter:	Département des Antiquités
+	Stadt des Kontaktzenters:	Amman / Jordanie
+	Rechteinhaber der Fotos:	© Tombeau de Prométhée, Beit-Râs
+	Hat die Fotorechte:	0

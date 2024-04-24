@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-76194e9751783-4
+Aineias_175_0_0
+
+
+
+Monument
+	ID:	44424
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Domus Transitoria
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	helmet knife shield spear blood youth warrior, soldier wound physician
+	Name:	Aineias Aphrodite Askanios Iapyx
+	Beschreibung:	Wall painting showing four central figures: a female figure standing (Aphrodite), in the centre a wounded warrior (Aineias?) getting healed by a crouching male figure (Iapyx?) to his right, and being supported by a child to his left (Askanios?); perhaps a representation of the Latium war?   
+	Bibliographie:	Bulas, K., AJA 54, 1950, 116.
+Szene
+	ID:	46721
+	Beschreibung:	Wall painting showing four central figures: a female figure standing (Aphrodite), in the centre a wounded warrior (Aineias?) getting healed by a crouching male figure (Iapyx?) to his right, and being supported by a child to his left (Askanios?); perhaps a representation of the Latium war?   
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Aineias
+	Katalognummer:	175
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Domus Transitoria
+	Rechteinhaber der Fotos:	© Roma
+	Hat die Fotorechte:	1

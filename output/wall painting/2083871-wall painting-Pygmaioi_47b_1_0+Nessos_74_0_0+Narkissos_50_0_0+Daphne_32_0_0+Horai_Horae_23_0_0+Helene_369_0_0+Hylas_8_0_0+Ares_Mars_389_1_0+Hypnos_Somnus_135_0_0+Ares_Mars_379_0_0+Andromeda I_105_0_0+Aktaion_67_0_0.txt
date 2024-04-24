@@ -1,0 +1,202 @@
+http://ark.dasch.swiss/ark:/72163/080e-74602fd54b4a0-4
+Pygmaioi_47b_1_0
+Nessos_74_0_0
+Narkissos_50_0_0
+Daphne_32_0_0
+Horai/Horae_23_0_0
+Helene_369_0_0
+Hylas_8_0_0
+Ares/Mars_389_1_0
+Hypnos/Somnus_135_0_0
+Ares/Mars_379_0_0
+Andromeda I_105_0_0
+Aktaion_67_0_0
+
+
+
+Monument
+	ID:	13308
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	I 7,11 (Casa di P. Cornelius Teges) I 7,10-12
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	dog
+	Name:	Aktaion Andromeda I Perseus Horai/Horae Hylas Helene Hypnos/Somnus Narkissos Nessos Pygmaioi
+	Beschreibung:	Mural painting.
+	Bibliographie:	Schefold, WP 32, 34; NotSc (1927) 37 Abb.13.
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Datierung
+	Periode:	69 - 79 
+	Kommentar:	I 7,10-12 (d)
+Epoche
+	Name:	vespasianisch
+	Periode:	69 - 79 
+	Sequenznummer:	1185
+Szene
+	ID:	13648
+	Szenerieangabe:	p
+	Sequenznummer:	1150
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/13648X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Pygmaioi
+	Katalognummer:	47b
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	16614
+	Szenerieangabe:	e
+	Sequenznummer:	1040
+Catalog LIMC
+	Artikel:	Nessos
+	Katalognummer:	74
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	20279
+	Szenerieangabe:	h
+	Beschreibung:	Daphne stands on the right in full back view, her face in profile to the left, uncovering herself before Apollon who sits on the left, nearly naked, wearing a quiver, offering her a laurel twig. Narkissos and Echo.
+	Sequenznummer:	1070
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/20279X201.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/20279X202.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Narkissos
+	Katalognummer:	50
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Daphne
+	Katalognummer:	32
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	26521
+	Szenerieangabe:	k
+	Beschreibung:	The Hora of Summer with ears of corn and sickle.
+	Sequenznummer:	1100
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	23
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helene
+	Katalognummer:	369
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	26537
+	Szenerieangabe:	c
+	Beschreibung:	Hylas with a jug in his left hand attempts to move right, but he is restrained by three nymphs who surround him. The head and shoulder of a male onlooker (Polyphemus or Herakles) apperas on the upper left above the wall of rock behind them.
+	Sequenznummer:	1020
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/26537X301.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hylas
+	Katalognummer:	8
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ares/Mars
+	Katalognummer:	389
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	26559
+	Szenerieangabe:	n
+	Sequenznummer:	1130
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	135
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ares/Mars
+	Katalognummer:	379
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	47910
+	Szenerieangabe:	d
+	Beschreibung:	Wandmalerei; Perseus und Andromeda, Zerstört.Pompeji I 7,10-12 (d)
+	Bibliographie:	NotSc (1927) 37 Abb. 13; Schefold, WP 32.
+	Sequenznummer:	1030
+	Name:	Andromeda I Perseus
+Datierung
+	Periode:	69 - 79 
+Catalog LIMC
+	Artikel:	Andromeda I
+	Katalognummer:	105
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49428
+	Szenerieangabe:	m
+	Bibliographie:	Schefold, WP 34m.
+	Sequenznummer:	1120
+	Name:	Aktaion
+	Stichwort:	dog
+Catalog LIMC
+	Artikel:	Aktaion
+	Katalognummer:	67
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	59246
+	Szenerieangabe:	l
+	Beschreibung:	Lararium:Zwischen zwei grossen Schlangen steht ein Bronze-Altärchen vom Sanduhr-Typ auf drei kleinen Füssen und mit beweglichen Henkeln. Auf ihm liegen Früchte und Ähren (und Flammen?).
+	Bibliographie:	Fröhlich, Lararien 251 f. L 6 Taf. 27, 2.
+	Sequenznummer:	1020
+	Stichwort:	altar snake ear of corn fire (on altar) lararium fruit altar in shape of hour-glass
+Datierung
+	Periode:	50 - 75 
+Epoche
+	Name:	3. Viertel 1. Jh. n. Chr.
+	Periode:	50 - 75 
+	Sequenznummer:	3080
+Catalog Thes CRA
+	Indexnummer:	555
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	I 7,10-12
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa di P. Cornelius Teges
+Inventar
+	Spezifikation:	3. Inv.
+	Nummer:	Casa dell'Efebo

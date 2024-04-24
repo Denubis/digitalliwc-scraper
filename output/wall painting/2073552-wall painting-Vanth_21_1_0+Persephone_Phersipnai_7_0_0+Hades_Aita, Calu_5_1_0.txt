@@ -1,0 +1,82 @@
+http://ark.dasch.swiss/ark:/72163/080e-73cca924b24d5-6
+Vanth_21_1_0
+Persephone/Phersipnai_7_0_0
+Hades/Aita, Calu_5_1_0
+
+
+
+Monument
+	ID:	2909
+	Entdeckungsort:	Orvieto
+	Entdeckungsort Details:	Tomba Golini I
+	Objekt:	wall painting
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	phiale, phiale mesomphalos, patera oinochoe thymiaterion, turibulum, incense-burner candelabrum banquet, symposium
+	Name:	Hades/Aita, Calu Persephone/Phersipnai Vanth
+	Beschreibung:	Tomba a tramezzo. Aita (Hades) und Phersipnai (Persephone) in Gelageszene. Nackter Jüngling mit Oinochoe und Schale oder Phiale; Kandelaber mit Kerzen; Tisch, darauf Gefässe und Thymiaterion mit Flamme; banqueting scene preparations: on the back and right wall klinai with recumbent figures long inscriptions state their cursus honorum. Winged Vanth next to a chariot.
+	Bibliographie:	Krauskopf, Todesdämonen 59. 61-64; Massa, F.-H., Problemi di lettura della pittura funeraria di Orvieto, DdA s. III 1 (1983) 19-31; Steingräber, S., Catalogo ragionato della scultura etrusca (1984) n. 32 fig. 43.
+Datierung
+	Periode:	-360 - -340 
+Epoche
+	Name:	Mitte 4. Jh. v. Chr.
+	Periode:	-360 - -340 
+	Sequenznummer:	2450
+Szene
+	ID:	2932
+	Beschreibung:	Tomba a tramezzo. Aita (Hades) und Phersipnai (Persephone) in Gelageszene. Nackter Jüngling mit Oinochoe und Schale oder Phiale; Kandelaber mit Kerzen; Tisch, darauf Gefässe und Thymiaterion mit Flamme; banqueting scene preparations: on the back and right wall klinai with recumbent figures long inscriptions state their cursus honorum. Winged Vanth next to a chariot.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/orvieto/museo_archeologico_nazionale/2932X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/orvieto/museo_archeologico_nazionale/2932X101.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	46
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 4.a. Bankett, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	1420
+	Bandnummer:	2
+Catalog Thes CRA
+	Indexnummer:	36
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VI. 1.e. Tod, etr.
+	Bandnummer:	6
+Catalog LIMC
+	Artikel:	Vanth
+	Katalognummer:	21
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Persephone/Phersipnai
+	Katalognummer:	7
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hades/Aita, Calu
+	Katalognummer:	5
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba Golini I (o dei Velii)
+Museum
+	Land:	IT
+	Stadt:	Orvieto
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Soprintendente Dott. Gabriele Baldelli
+	Adresse:	Piazza Partigiani 9
+	Postleitzahl:	I-06121
+	Kontaktzenter:	Soprintendenza Archeologica per l'Umbria
+	Stadt des Kontaktzenters:	Perugia
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica per l'Umbria
+	Hat die Fotorechte:	1

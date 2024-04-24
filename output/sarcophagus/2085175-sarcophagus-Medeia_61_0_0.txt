@@ -1,0 +1,31 @@
+http://ark.dasch.swiss/ark:/72163/080e-7472d45da1818-9
+Medeia_61_0_0
+
+
+
+Monument
+	ID:	14621
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Medeia
+	Beschreibung:	Medeia on her snake-drawn chariot.
+Szene
+	ID:	15061
+	Beschreibung:	Medeia on her snake-drawn chariot.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Medeia
+	Katalognummer:	61
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Ald. 56
+Museum
+	Land:	IT
+	Stadt:	Ostia
+	Name:	Tenuta Aldobrandini
+	Rechteinhaber der Fotos:	© Tenuta Aldobrandini, Ostia
+	Hat die Fotorechte:	1

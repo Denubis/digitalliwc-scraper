@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-7580d1e8eb5b1-6
+Daidalos et Ikaros_42_1_0
+
+
+
+Monument
+	ID:	33664
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Daidalos and Ikaros Ikaros
+	Beschreibung:	To the top left a walled city with amphitheatre. To the top right sketchy buildings, below which Ikaros plummets toward the sea (seen from rear with winged arms outstretched). At the centre winged Daidalos flies right toward a rocky crag on which recline two draped women, one with arm raised toward Daidalos. Below Daidalos, on the sea, a boat with two oarsmen, one pointing toward Ikaros. At the lower right on the shore a gesticulating goatherd and goats. At the lower left an elaborate temple seems to float on the water. Scrawled across the moddle of the painting is DONATOS.
+Szene
+	ID:	35395
+	Beschreibung:	To the top left a walled city with amphitheatre. To the top right sketchy buildings, below which Ikaros plummets toward the sea (seen from rear with winged arms outstretched). At the centre winged Daidalos flies right toward a rocky crag on which recline two draped women, one with arm raised toward Daidalos. Below Daidalos, on the sea, a boat with two oarsmen, one pointing toward Ikaros. At the lower right on the shore a gesticulating goatherd and goats. At the lower left an elaborate temple seems to float on the water. Scrawled across the moddle of the painting is DONATOS.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/british_museum/35395X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Daidalos et Ikaros
+	Katalognummer:	42
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	28
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	British Museum
+	Direktor:	Dr. Charles Arnold
+	Adresse:	Great Russell Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	British Museum - Greek and Roman Antiquities
+	Stadt des Kontaktzenters:	London WC 1B 3DG
+	Rechteinhaber der Fotos:	© British Museum, London
+	Hat die Fotorechte:	1

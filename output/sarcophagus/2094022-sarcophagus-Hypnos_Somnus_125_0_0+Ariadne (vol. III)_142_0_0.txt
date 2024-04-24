@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-74f14fa827b23-a
+Hypnos/Somnus_125_0_0
+Ariadne (vol. III)_142_0_0
+
+
+
+Monument
+	ID:	23545
+	Entdeckungsort:	Torre Nova
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Ariadne Hypnos/Somnus
+Szene
+	ID:	24714
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	125
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ariadne (vol. III)
+	Katalognummer:	142
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel IV 3, 223
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Borghese
+	Direktor:	Direttore Dott.ssa Alba Costamagna
+	Anrede:	Gentile Dott.ssa Alba Costamagna,
+	Adresse:	Palazzo Scipione Borghese
+	Postleitzahl:	I-00197
+	Kontaktzenter:	Museo e Galleria Borghese
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Palazzo Borghese, Roma
+	Hat die Fotorechte:	1

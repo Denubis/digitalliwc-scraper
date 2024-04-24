@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-7519e9d2a7c9b-4
+Gorgones Romanae_98_0_0
+
+
+
+Monument
+	ID:	26412
+	Objekt:	sarcophagus
+	Material:	lead
+	Herkunft:	Syria
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Gorgo, Gorgones
+	Beschreibung:	Circles with gorgoneia inside them, around them dolphins and kraters.
+Szene
+	ID:	27740
+	Beschreibung:	Circles with gorgoneia inside them, around them dolphins and kraters.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Gorgones Romanae
+	Katalognummer:	98
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	A 927
+Museum
+	Land:	BE
+	Stadt:	Bruxelles
+	Name:	Musées Royaux d'Art et d'Histoire
+	Direktor:	Mme. le Prof. Cécile Evers, Conservateur Ant. étrusques et romaines 
+	Anrede:	Monsieur le Professeur,
+	Adresse:	Parc du Cinquantenaire 10
+	Postleitzahl:	B-1000
+	Kontaktzenter:	Musées Royaux d'Art et d'Histoire - Département Antiquités grecques et romaines
+	Stadt des Kontaktzenters:	Bruxelles
+	Rechteinhaber der Fotos:	© Musées Royaux d'Art et d'Histoire, Bruxelles
+	Hat die Fotorechte:	0

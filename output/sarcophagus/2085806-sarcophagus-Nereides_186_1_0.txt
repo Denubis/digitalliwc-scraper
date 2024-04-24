@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-747bd9c6150ab-4
+Nereides_186_1_0
+
+
+
+Monument
+	ID:	15258
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Nereides
+Szene
+	ID:	15742
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/15742X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Nereides
+	Katalognummer:	186
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 322
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

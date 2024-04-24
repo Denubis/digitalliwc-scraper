@@ -1,0 +1,56 @@
+http://ark.dasch.swiss/ark:/72163/080e-7430b53f2dc03-1
+Perseus_205_1_0
+Andromeda I_72_0_0
+
+
+
+Monument
+	ID:	9964
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Antiquarium Comunale
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	bracelet
+	Name:	Andromeda I Perseus
+	Beschreibung:	Perseus frees Andromeda from the rocks.
+	Bibliographie:	Schauenburg, K., Perseus in der Kunst des Altertums (1960) 73 Anm. 488; Mielsch, H., RM 85 (1978) 193-195 Taf. 97,1; Battaglia, G., Capitolium 9 (1933) 456-463.
+Datierung
+	Periode:	350 - 400 
+Epoche
+	Name:	2. Hälfte 4. Jh. n. Chr.
+	Periode:	350 - 400 
+	Sequenznummer:	3470
+Szene
+	ID:	10178
+	Beschreibung:	Perseus frees Andromeda from the rocks.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/antiquarium_comunale/10178X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Perseus
+	Katalognummer:	205
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Andromeda I
+	Katalognummer:	72
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	4478
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Antiquarium Comunale
+	Direktor:	Dirigente Dott. Claudio Parisi Presicce
+	Adresse:	Via delle Tre Pile, 1
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza ai Beni Culturali del Comune di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	Archivio fotografico dei Musei Capitolini
+	Hat die Fotorechte:	1

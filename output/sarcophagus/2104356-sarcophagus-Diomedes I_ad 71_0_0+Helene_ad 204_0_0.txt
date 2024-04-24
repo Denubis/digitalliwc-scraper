@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-75850d3ed6179-3
+Diomedes I_ad 71_0_0
+Helene_ad 204_0_0
+
+
+
+Monument
+	ID:	33966
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Odysseus Helene
+	Beschreibung:	Odysseus with pilos, chlamys, chitoniskos in a niche.
+Szene
+	ID:	35716
+	Beschreibung:	Odysseus with pilos, chlamys, chitoniskos in a niche.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Diomedes I
+	Katalognummer:	ad 71
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helene
+	Katalognummer:	ad 204
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	40.39
+Museum
+	Land:	US
+	Stadt:	Oberlin
+	Name:	Allen Memorial Art Museum, Oberlin College
+	Rechteinhaber der Fotos:	© Allen Memorial Art Museum, Oberlin College
+	Hat die Fotorechte:	0

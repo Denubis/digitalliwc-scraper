@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-76bd2c91169e1-3
+
+
+
+Monument
+	ID:	203164
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Three women behind the kline with the deceased woman.
+	Bibliographie:	Pontrandolfo, A./ Rouveret, A., Le tombe dipinte di Paestum (1992) 299-301. 402; .Andreae, B. et al., Malerei für die Ewigkeit, Die Gräber von Paestum (2007) 146-147 no. 15.
+Datierung
+	Periode:	-325 - -300 
+Epoche
+	Name:	4. Viertel 4. Jh. v. Chr.
+	Periode:	-325 - -300 
+	Sequenznummer:	2520
+Szene
+	ID:	100202
+	Beschreibung:	Three women behind the kline with the deceased woman.
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	51
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VI. 1.e. Tod, gr.
+	Bandnummer:	6
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	s. n. 
+Museum
+	Land:	IT
+	Stadt:	Paestum
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Sopr. Dott. ssa Maria Luisa Nava
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Via Trotula de' Ruggiero 6/7
+	Postleitzahl:	I-84121
+	Kontaktzenter:	Soprintendenza archeologica per le Provincie di Salerno, Avellino, Benevento e Caserta
+	Stadt des Kontaktzenters:	Salerno
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologia, Belle Arti e Paesaggio Salerno e Avellino
+	Hat die Fotorechte:	0

@@ -1,0 +1,55 @@
+http://ark.dasch.swiss/ark:/72163/080e-764d724f848fe-8
+
+
+
+Monument
+	ID:	51382
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Six men on three banquet beds; on one of the beds a seated woman playing the kithara; on the left a woman playing the flute, behind her a young servant; kylikeion; the left part of the frieze shows the arrival of a komos: three equestrians and their servants; the right part of the frieze shows eight young macedonian warriors
+	Bibliographie:	Tsibidou-Avloniti, M., in Stamatopoulou, M. / Yeroulanou, M. (es.), Excavating Classical Culture (2002) 91-97 pl. 22-27; Tsibidou-Avloniti, M., in Pontrandolfo, A., La pittura parietale in Macedonia e Magna Grecia (2002) 37-42 pl. 6-7; Brécoulaki, H., La peinture funéraire de Macédoine. Emplois en fonction de la couleur. IVe-IIe s. av. J.-C. (2006) 263-303 pl. 90-102.
+Datierung
+	Periode:	-325 - -300 
+Epoche
+	Name:	4. Viertel 4. Jh. v. Chr.
+	Periode:	-325 - -300 
+	Sequenznummer:	2520
+Szene
+	ID:	56557
+	Beschreibung:	Six men on three banquet beds; on one of the beds a seated woman playing the kithara; on the left a woman playing the flute, behind her a young servant; kylikeion; the left part of the frieze shows the arrival of a komos: three equestrians and their servants; the right part of the frieze shows eight young macedonian warriors
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	248
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 4.a. Bankett, gr.
+	Kurzname:	Gr.
+	Sequenznummer:	1410
+	Bandnummer:	2
+Catalog Thes CRA
+	Indexnummer:	69
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VI. 1.e. Tod, gr.
+	Bandnummer:	6
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	GR
+	Stadt:	Agios Athanasios
+	Name:	Tombe macédonienne
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athènes
+	Rechteinhaber der Fotos:	© Macedonian Tomb, Agios Athanasios
+	Hat die Fotorechte:	0

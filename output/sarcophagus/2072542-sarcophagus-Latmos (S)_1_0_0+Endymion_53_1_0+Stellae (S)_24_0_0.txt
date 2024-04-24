@@ -1,0 +1,60 @@
+http://ark.dasch.swiss/ark:/72163/080e-73be38a06619b-d
+Latmos (S)_1_0_0
+Endymion_53_1_0
+Stellae (S)_24_0_0
+
+
+
+Monument
+	ID:	1891
+	Entdeckungsort:	Castellorizo
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Endymion Latmos Stellae
+	Beschreibung:	On the left next to a tree a huge rock on which a putto (depiction of Latmos) sits. Luna descends from her chariot to visit the sleeping Endymion, she is preceded by Hesperos.
+	Museums-URL:	http://cartelfr.louvre.fr/cartelfr/visite?srv=car_not_frame&idNotice=17182&langue=fr
+Datierung
+	Periode:	150 
+Szene
+	ID:	4868
+	Beschreibung:	On the left next to a tree a huge rock on which a putto (depiction of Latmos) sits. Luna descends from her chariot to visit the sleeping Endymion, she is preceded by Hesperos.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/4868X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Latmos (S)
+	Katalognummer:	1
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	53
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Stellae (S)
+	Katalognummer:	24
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 3184
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	MND 936

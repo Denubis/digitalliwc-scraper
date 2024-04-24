@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-74d01d5402649-b
+Hippolytos I_59_0_0
+
+
+
+Monument
+	ID:	21206
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hippolytos I
+Szene
+	ID:	22147
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/san_clemente/22147X301.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	59
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	San Clemente
+	Rechteinhaber der Fotos:	© Roma
+	Hat die Fotorechte:	0

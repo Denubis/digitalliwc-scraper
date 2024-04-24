@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-7651890c0bb14-a
+
+
+
+Monument
+	ID:	51689
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Bibliographie:	Steingräber, S., Catalogo ragionato della pittura etrusca (1984) n. 114.
+Szene
+	ID:	56902
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	82085 (Tomba della Tarantola)
+Museum
+	Land:	IT
+	Stadt:	Firenze
+	Name:	Museo Archeologico
+	Direktor:	Soprintendente Dott.ssa Fulvia Lo Schiavo
+	Anrede:	Chiarissimo Soprintendente
+	Adresse:	Via della Pergola 65
+	Postleitzahl:	I-50121
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici della Toscana
+	Stadt des Kontaktzenters:	Firenze
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici della Toscana
+	Hat die Fotorechte:	1

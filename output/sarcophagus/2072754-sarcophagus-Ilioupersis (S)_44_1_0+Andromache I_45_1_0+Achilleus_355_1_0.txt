@@ -1,0 +1,70 @@
+http://ark.dasch.swiss/ark:/72163/080e-73c14087728bf-4
+Ilioupersis (S)_44_1_0
+Andromache I_45_1_0
+Achilleus_355_1_0
+
+
+
+Monument
+	ID:	2105
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	wreath, crown, stephane, corona altar sword helmet shield fire (on altar) column spear child horse architecture tower fight, battle Ilioupersis gesture: one arm extended forward
+	Name:	Achilleus Andromache I Astyanax I Hekabe Priamos Troilos Ilioupersis
+	Beschreibung:	Auf der Langseite des Sarkophages die Eroberung Trojas: Im Hintergrund ein Tempel mit einer Säule im Eingang und einem Kranz im Giebel sowie ein Turm (Teil der Stadtmauer?), drei Frauen versuchen, ihre Kinder zu schützen, außenrum drei Krieger in voller Rüstung, ein Gefallener, ein unbekleideter Krieger, der einen bärtigen Mann am Haar greift, ganz rechts am Boden ein Altar, auf dem ein Feuer brennt. 
+	Bibliographie:	SarkRel II 71 pl. 26, 63; Sichtermann/Koch, MythSark 37 no. 32 pl. 72-74; Koch/Sichtermann, RömSark 154-155 no. 19 fig. 165..
+Datierung
+	Periode:	180 
+Epoche
+	Name:	4. Viertel 2. Jh. n. Chr.
+	Periode:	175 - 200 
+	Sequenznummer:	3230
+Szene
+	ID:	2117
+	Beschreibung:	Auf der Langseite des Sarkophages die Eroberung Trojas: Im Hintergrund ein Tempel mit einer Säule im Eingang und einem Kranz im Giebel sowie ein Turm (Teil der Stadtmauer?), drei Frauen versuchen, ihre Kinder zu schützen, außenrum drei Krieger in voller Rüstung, ein Gefallener, ein unbekleideter Krieger, der einen bärtigen Mann am Haar greift, ganz rechts am Boden ein Altar, auf dem ein Feuer brennt. 
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/mantova/galleria_e_museo_di_palazzo_ducale/2117X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/mantova/galleria_e_museo_di_palazzo_ducale/2117X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/mantova/galleria_e_museo_di_palazzo_ducale/2117X101.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Ilioupersis (S)
+	Katalognummer:	44
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Andromache I
+	Katalognummer:	45
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	355
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Levi 192
+Museum
+	Land:	IT
+	Stadt:	Mantova
+	Name:	Galleria e Museo di Palazzo Ducale
+	Direktor:	Soprintendente Dott.ssa Giuliana Algeri
+	Adresse:	Piazza Paccagnini 3
+	Postleitzahl:	I-46100
+	Kontaktzenter:	(All'attenzione del Dott. G. Rodella) Sopr. Patrimonio Storico ed Artistico Mantova, Cremona e Brescia
+	Stadt des Kontaktzenters:	Mantova
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali
+	Kommentar:	Levi: numeri di catalogo di Levi, A., Sculture greche e romane del Palazzo Ducale di Mantova (1930).
+	Hat die Fotorechte:	0

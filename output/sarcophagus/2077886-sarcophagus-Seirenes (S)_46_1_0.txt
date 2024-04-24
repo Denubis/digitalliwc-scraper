@@ -1,0 +1,48 @@
+http://ark.dasch.swiss/ark:/72163/080e-740a9f39ed1fb-b
+Seirenes (S)_46_1_0
+
+
+
+Monument
+	ID:	7270
+	Entdeckungsort:	Alexandria
+	Entdeckungsort Details:	Gabbari, necropolis of Suk-el-Wardian
+	Objekt:	sarcophagus
+	Material:	stucco
+	Land:	CH
+	Kategorie:	painting
+	Stichwort:	thymiaterion, turibulum, incense-burner siren
+	Name:	Seirenes
+	Beschreibung:	Thymiaterion mit zwei um den Fuss geringelten Uraeus-Schlangen, auf Sockel. Links Sirene (rechts eine antithetische zu ergänzen).
+	Bibliographie:	Venit, M.S., JARCE 25 (1988) 78-79 Abb. 13.
+	Kommentar:	Gemauerter Sarkophag mit Malerei.
+Datierung
+	Periode:	-110 - -90 
+Epoche
+	Name:	um 100 v. Chr.
+	Periode:	-110 - -90 
+	Sequenznummer:	2840
+Szene
+	ID:	7418
+	Beschreibung:	Thymiaterion mit zwei um den Fuss geringelten Uraeus-Schlangen, auf Sockel. Links Sirene (rechts eine antithetische zu ergänzen).
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/egypt/alexandrie/musee_greco-romain/7418X102.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Seirenes (S)
+	Katalognummer:	46
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	27031
+Museum
+	Land:	EG
+	Stadt:	Alexandrie
+	Name:	Musée Gréco-Romain
+	Kontaktzenter:	Musée Gréco-Romain
+	Stadt des Kontaktzenters:	Alexandrie
+	Rechteinhaber der Fotos:	© Musée Gréco-Romain Alexandria
+	Hat die Fotorechte:	1

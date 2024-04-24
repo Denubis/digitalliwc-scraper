@@ -1,0 +1,61 @@
+http://ark.dasch.swiss/ark:/72163/080e-7407b49a638ff-b
+Persephone (S)_240_1_0
+Hades/Pluto_41_0_0
+Hades/Pluto_51_0_0
+Artemis/Diana_319_0_0
+
+
+
+Monument
+	ID:	7064
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hades/Pluto Artemis/Diana Persephone
+	Beschreibung:	Rape of Persephone: Persephone in Hades' chariot.
+Szene
+	ID:	7211
+	Beschreibung:	Rape of Persephone: Persephone in Hades' chariot.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/sir_john_soane_s_museum/7211X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/sir_john_soane_s_museum/7211X203.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Persephone (S)
+	Katalognummer:	240
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	41
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	51
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	319
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 3, 394
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	Sir John Soane's Museum
+	Direktor:	Dir. Tim Knox
+	Anrede:	Dear Director,
+	Adresse:	13 Lincoln's Inn Fields
+	Postleitzahl:	GB-
+	Kontaktzenter:	Sir John Soane's Museum
+	Stadt des Kontaktzenters:	London WC2A 3BP
+	Rechteinhaber der Fotos:	By courtesy of the Trustees of Sir John Soane's Museum
+	Hat die Fotorechte:	0

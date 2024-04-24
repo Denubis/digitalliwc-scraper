@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-7520cde735985-9
+Hades/Pluto_44_0_0
+Hades/Pluto_62_0_0
+
+
+
+Monument
+	ID:	26899
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hades/Pluto
+Szene
+	ID:	28257
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	44
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	62
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	A 10 int.
+Museum
+	Land:	IT
+	Stadt:	Pisa
+	Name:	Camposanto Monumentale
+	Rechteinhaber der Fotos:	© Camposanto Monumentale, Pisa
+	Kommentar:	Numéros d'après Camposanto monumentale di Pisa. Le antichità I-II (1977-1984).
+	Hat die Fotorechte:	0

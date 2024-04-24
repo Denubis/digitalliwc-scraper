@@ -1,0 +1,115 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a81e64d89e9-5
+Meleagros_128_1_0
+Meleagros_133_0_0
+Meleagros_144_0_0
+Meleagros_139_0_0
+Thestiadai_8_0_0
+Althaia_5_1_0
+Oineus I (S)_50_0_0
+Apollon/Apollo_483_1_0
+Atalante_56_1_0
+
+
+
+Monument
+	ID:	315
+	Entdeckungsort:	Durazzo
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	horse
+	Name:	Althaia Apollon/Apollo Atalante Meleagros Oineus I Thestiadai
+	Beschreibung:	Althaia approaching the dead Meleagros, in front of her Oineus. Atalante reclines at the left of the feast wearing a short chiton and holding a drinking horn and wreath. Other secene: Meleagros charging three Thestiadai.
+	Bibliographie:	Koch, G., SarkRel XII 6 no. 81 pl.68, 1. 69. 72.
+Datierung
+	Periode:	138 - 150 
+Epoche
+	Name:	antoninisch
+	Periode:	138 - 192 
+	Sequenznummer:	1210
+Szene
+	ID:	4442
+	Szenerieangabe:	couvercle
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/turkey/istanbul/musee_archeologique/4442X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	128
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	15149
+	Beschreibung:	Althaia approaching the dead Meleagros, in front of her Oineus. Atalante reclines at the left of the feast wearing a short chiton and holding a drinking horn and wreath. Other secene: Meleagros charging three Thestiadai.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/turkey/istanbul/musee_archeologique/15149X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/turkey/istanbul/musee_archeologique/15149X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/turkey/istanbul/musee_archeologique/15149X201.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	133
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	144
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	139
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Thestiadai
+	Katalognummer:	8
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Althaia
+	Katalognummer:	5
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Oineus I (S)
+	Katalognummer:	50
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	483
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Atalante
+	Katalognummer:	56
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2100
+Museum
+	Land:	TR
+	Stadt:	Istanbul
+	Name:	Musée Archéologique
+	Direktor:	Mme le Dr  Pascale Linant de Bellefonds
+	Anrede:	Sehr geehrter Herr Dr. Posamentir,
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-92023
+	Kontaktzenter:	Université Paris X - Nanterre Maison de l'Archéologie / Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Archaeological Museum Istanbul
+	Hat die Fotorechte:	1

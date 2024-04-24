@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-754a315d59850-e
+Helene_144_0_1
+
+
+
+Monument
+	ID:	29809
+	Entdeckungsort:	Ercolano, Herculaneum, Herculanum
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Helene
+Szene
+	ID:	31265
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Helene
+	Katalognummer:	144
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Helbig 1289
+Museum
+	Land:	IT
+	Stadt:	Ercolano
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

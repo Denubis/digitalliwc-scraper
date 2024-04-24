@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-74f758245fde1-4
+Kairoi/Tempora anni_113_0_0
+Kairoi/Tempora anni_219_0_0
+
+
+
+Monument
+	ID:	23973
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kairoi/Tempora anni
+	Beschreibung:	Lost. On the lid: Depiction of the Seasons in chariots.
+Datierung
+	Periode:	180 
+Szene
+	ID:	25153
+	Szenerieangabe:	couvercle
+	Beschreibung:	Lost. On the lid: Depiction of the Seasons in chariots.
+	Sequenznummer:	20
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	113
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	219
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Cod. Coburgensis fol. 198
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Corsini (Galleria Nazionale d'Arte Antica di Palazzo Corsini)
+	Direktor:	Direttore Dr. Alloise Sivigliano
+	Adresse:	Via della Lungara, 10
+	Postleitzahl:	I-00165
+	Kontaktzenter:	Palazzo Corsini
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprindentenza SPSAE e Polo Museale della Città di Roma
+	Hat die Fotorechte:	0

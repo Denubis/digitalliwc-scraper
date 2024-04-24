@@ -1,0 +1,60 @@
+http://ark.dasch.swiss/ark:/72163/080e-75290a04054c5-9
+Herakles_278_1_0
+Herakles_571_0_0
+Herakles_733_0_0
+Herakles_1471_0_0
+
+
+
+Monument
+	ID:	27475
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Herakles
+	Beschreibung:	Herakles holds out apples. With other Herakles types: Herakles wearing lionskin over head and holding cornucopia.
+Szene
+	ID:	28858
+	Beschreibung:	Herakles holds out apples. With other Herakles types: Herakles wearing lionskin over head and holding cornucopia.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_mattei_di_giove/28858X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	278
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	571
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	733
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	1471
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	53
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Mattei di Giove
+	Direktor:	Soprintendente Arch. Costantino Centroni
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Cavalletti 2
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza per i Beni Ambientali Architettonici del Lazio
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Ambientali Architettonici del Lazio
+	Kommentar:	Numéros d'après Guerrini, L. (éd.), Palazzo Mattei di Giove. Le antichità (1982).
+	Hat die Fotorechte:	1

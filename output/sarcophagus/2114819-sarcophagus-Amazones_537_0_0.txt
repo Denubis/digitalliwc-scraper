@@ -1,0 +1,60 @@
+http://ark.dasch.swiss/ark:/72163/080e-761aa2f6a3014-d
+Amazones_537_0_0
+
+
+
+Monument
+	ID:	44520
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	helmet spear weapon warrior, soldier Amazon fight, battle
+	Name:	Amazones
+	Beschreibung:	Between two groups of warriors and Amazones are two Amazones.
+	Bibliographie:	Rodenwaldt, G., JdI 45, 1930, 133 fig. 12; Redlich, R., Die Amazonensarkophage des 2. und 3. Jh. (1942), 116 no. 239 pl. 10; Kαλλιπολίτης, B. G., Χρονολογικη κατα ταξις...(1958) no. 172.
+Datierung
+	Periode:	200 - 210 
+Epoche
+	Name:	Anfang 3. Jh. n. Chr.
+	Periode:	200 - 210 
+	Sequenznummer:	3290
+Szene
+	ID:	46818
+	Beschreibung:	Between two groups of warriors and Amazones are two Amazones.
+	Sequenznummer:	10
+Foto
+	Neues Foto:	1
+	Rechteinhaber der Fotos:	Rita Gautschy
+	Hat die Fotorechte:	1
+Foto
+	Neues Foto:	1
+	Rechteinhaber der Fotos:	Rita Gautschy
+	Hat die Fotorechte:	1
+Foto
+	Neues Foto:	1
+	Rechteinhaber der Fotos:	Rita Gautschy
+	Hat die Fotorechte:	1
+Foto
+	Neues Foto:	1
+	Rechteinhaber der Fotos:	Rita Gautschy
+	Hat die Fotorechte:	1
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	537
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	S 887
+Museum
+	Land:	IL
+	Stadt:	Jerusalem
+	Name:	Rockefeller Museum
+	Direktor:	Prof. Dr. Gideon Foerster
+	Adresse:	Mount Scopus
+	Postleitzahl:	IL-91905
+	Kontaktzenter:	Head, Institute of Archaeology - The Hebrew University of Jerusalem
+	Stadt des Kontaktzenters:	Jerusalem / Israel
+	Rechteinhaber der Fotos:	© Rockefeller Museum, Jerusalem
+	Hat die Fotorechte:	0

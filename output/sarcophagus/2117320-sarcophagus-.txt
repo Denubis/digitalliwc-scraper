@@ -1,0 +1,22 @@
+http://ark.dasch.swiss/ark:/72163/080e-763e646ad8dad-9
+
+
+
+Monument
+	ID:	50277
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	altar phiale, phiale mesomphalos, patera fire (on altar) torch libation
+	Beschreibung:	Im 3. Feld v. Links: Opferszene: Links Togatus, der aus Spendeschale in die Flammen eines Altars giesst; in der Rechten ein stabartiger Gegenstand. Rechts eine Frau, frontal, den Kopf zum Togatus gewendet, die eine brennende Fackel (oder zwei?) auf einen zweiten, kleineren Altar vor ihr senkt. Die beiden Figuren vermutlich nicht zusammengehörig.
+	Bibliographie:	Matz/Duhn II Nr. 3302.
+	Kommentar:	In die Fassade des Casino eingemauert (s. dazu Matz/Duhn III 313-314). Pasticcio aus mehreren, nicht zusammengehörigen Sarkophagfragmenten, sodass sich vier durch Säulen getrennte Felder ergaben. Z.T. stark ergänzt.Neg. DAI Rom 71.107.
+Inventar
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Giustiniani Massimo
+	Rechteinhaber der Fotos:	© Villa Giustiniani Massimo, Roma
+	Hat die Fotorechte:	1

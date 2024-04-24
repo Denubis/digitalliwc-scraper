@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-74fc3f7e6b8d4-f
+Hermaphroditos_90_0_0
+
+
+
+Monument
+	ID:	24319
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hermaphroditos
+	Beschreibung:	The nude, dancing(?) figure in the corner was identified as Hermaphroditos.
+Datierung
+	Periode:	225 - 250 
+Szene
+	ID:	25520
+	Beschreibung:	The nude, dancing(?) figure in the corner was identified as Hermaphroditos.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Hermaphroditos
+	Katalognummer:	90
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1884
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Musei Capitolini
+	Direktor:	Dirigente Dott. Claudio Parisi Presicce
+	Adresse:	Via delle Tre Pile, 1
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Sovraintendenza ai Beni Culturali                     del Comune di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Archivio fotografico Musei Capitolini
+	Hat die Fotorechte:	1

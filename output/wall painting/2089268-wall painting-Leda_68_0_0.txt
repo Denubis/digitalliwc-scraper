@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ad5868956c9-d
+Leda_68_0_0
+
+
+
+Monument
+	ID:	18762
+	Entdeckungsort:	Soluntum
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Leda
+Szene
+	ID:	19629
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Leda
+	Katalognummer:	68
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Casa di Leda
+Museum
+	Land:	IT
+	Stadt:	Solunto (Santa Flavia)
+	Rechteinhaber der Fotos:	© Solunto
+	Hat die Fotorechte:	0

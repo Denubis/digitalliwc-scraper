@@ -1,0 +1,57 @@
+http://ark.dasch.swiss/ark:/72163/080e-74061ab13b2cf-e
+Polyphemos I (S)_54_1_0
+Galateia (vol. V)_8_0_1
+Nereides_463_0_0
+
+
+
+Monument
+	ID:	6951
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Palatine
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Galateia Nereides Polyphemos I
+	Beschreibung:	At the bottom the sea and the shore are represented. At the top ist the mountain Etna. Galateia and Polyphemos are in the centre. Far away are the Nereides. Eros rides on Polyphemos' shoulders. Galateia is riding an hippocamp in the sea.
+	Monument-URL:	http://www.limc-france.fr/objet/14320
+Szene
+	ID:	7097
+	Beschreibung:	At the bottom the sea and the shore are represented. At the top ist the mountain Etna. Galateia and Polyphemos are in the centre. Far away are the Nereides. Eros rides on Polyphemos' shoulders. Galateia is riding an hippocamp in the sea.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palatino/casa_di_livia/7097X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palatino/casa_di_livia/7097X201.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Polyphemos I (S)
+	Katalognummer:	54
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Galateia (vol. V)
+	Katalognummer:	8
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Nereides
+	Katalognummer:	463
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palatino, Casa di Livia
+	Direktor:	Soprintendente Prof. Adriano La Regina
+	Adresse:	Piazza delle Finanze 1
+	Postleitzahl:	I-0015
+	Kontaktzenter:	Soprintendenza alle Antichità
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza alle Antichità, Roma
+	Hat die Fotorechte:	1

@@ -1,0 +1,82 @@
+http://ark.dasch.swiss/ark:/72163/080e-74965b42d1961-9
+Lykomedes I_10_0_0
+Achilleus_177_1_0
+Agamemnon_8_0_0
+Achilleus_477a_1_0
+
+
+
+Monument
+	ID:	17134
+	Entdeckungsort:	Tyre
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	stick, cane seat, chair, sedes, sedile horse
+	Name:	Achilleus Agamemnon Lykomedes I
+	Beschreibung:	In the centre Achilleus with horse, surrounded by Greeks. The scene is flanked by two aged men, probably Lykomedes (I) on the left and Agamemnon on the right.
+	Bibliographie:	Chehab, M. H., Sarcophages à reliefs de Tyr, BullMusBeyrouth 21, 1968, 28-33 pl. 11. 13. 14c. 15-16; MEFRA 86, 1974, 2, 784; Linant de Bellefonds, P., Sarcophages attiques de la Nécropole de Tyr (1985) 77-79 pl. 2, 1. 22, 1.
+Datierung
+	Periode:	225 - 250 
+Epoche
+	Name:	2. Viertel 3. Jh. n. Chr.
+	Periode:	225 - 250 
+	Sequenznummer:	3350
+Szene
+	ID:	17823
+	Beschreibung:	In the centre Achilleus with horse, surrounded by Greeks. The scene is flanked by two aged men, probably Lykomedes (I) on the left and Agamemnon on the right.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/lebanon/beyrouth/musee_national/17823X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/lebanon/beyrouth/musee_national/17823X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/lebanon/beyrouth/musee_national/17823X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/lebanon/beyrouth/musee_national/17823X303.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/lebanon/beyrouth/musee_national/17823X304.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Lykomedes I
+	Katalognummer:	10
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	177
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Agamemnon
+	Katalognummer:	8
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	477a
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	328
+Museum
+	Land:	LB
+	Stadt:	Beyrouth
+	Name:	Musée National
+	Direktor:	Mme le Dr. Pascale Linant de Bellefonds
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-92023
+	Kontaktzenter:	Université Paris X - Nanterre - Maison de l'Archéologie / Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Musée National Beyrouth
+	Hat die Fotorechte:	1

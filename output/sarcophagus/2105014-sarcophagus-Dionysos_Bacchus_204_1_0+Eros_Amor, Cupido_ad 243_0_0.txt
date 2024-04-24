@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-758e7578a35d3-a
+Dionysos/Bacchus_204_1_0
+Eros/Amor, Cupido_ad 243_0_0
+
+
+
+Monument
+	ID:	34635
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dionysos/Bacchus Ariadne Eros/Amor, Cupido
+	Beschreibung:	Bacchus with Ariadne at his side in the centre of the thiasos, watching the fight between Pan and Eros.
+Szene
+	ID:	36438
+	Beschreibung:	Bacchus with Ariadne at his side in the centre of the thiasos, watching the fight between Pan and Eros.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/newby_hall_north_yorkshire/36438X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	204
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 243
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	GB
+	Stadt:	Newby Hall (North Yorkshire)
+	Rechteinhaber der Fotos:	© Newby Hall
+	Hat die Fotorechte:	0

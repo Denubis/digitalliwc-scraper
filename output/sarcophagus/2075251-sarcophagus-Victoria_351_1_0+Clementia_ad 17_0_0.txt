@@ -1,0 +1,79 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e4f357e6f44-7
+Victoria_351_1_0
+Clementia_ad 17_0_0
+
+
+
+Monument
+	ID:	4612
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	wreath, crown, stephane, corona throne palm branch chariot child ferculum, lectica trophy sitting, seated leogriffin warrior, soldier hamaxa, apene, carpentum gesture: both arms extended forward gesture: crowning with wreath captive triumph mule gesture: touching someone's foot gesture: one arm extended forward
+	Name:	Victoria
+	Grössenangabe:	L: 2,41 m; H: 0,78 m; T: 1,02 m
+	Beschreibung:	Feldherren-Sarkophag. Auf der Hauptseite ist der Feldherr in Tunika, Mantel und Fellstiefeln auf einem Greifenthron sitzend dargestellt, hinter ihm eine ihn bekränzende Victoria mit Palmwedel. Vor dem Feldherren werden gefangene Sarmaten vorgeführt, darunter ein Kind und ein knieender Gefangener, der die Füße des Feldherren berührt. Im Hintergrund Soldaten, an den Ecken jeweils ein Tropaion und knieende Gefangene. Auf den Schmalseiten jeweils Teil eines Triumpfzuges: auf der einen tragen vier Männer ein ferculum mit drei Gefangenen (ein sitzender Mann, eine Frau mit aufgestütztem Kopf und eine kauernde Frau), die Männer tragen außerdem Stäbe, auf denen das ferculum abgestellt werden kann; auf der anderen ein von zwei Maultieren gezogener einfacher Karren mit Scheibenrädern, auf dem eine Gefangene mit Kind sitzt, die ihren Kopf auf die rechte Hand stützt. Vor und neben dem Wagen schreiten zwei Soldaten mit Schild und Speer.  
+	Bibliographie:	Ronke, J., Magistratische Repräsentation im römischen Relief (1987) 134 n. 184 fig.  194-195; Bildkatalog der Skulpturen des vatikanischen Museums II. Museo Pio Clementino, Cortile Ottagono (1998) 264-268.
+Datierung
+	Periode:	138 - 192 
+Epoche
+	Name:	antoninisch
+	Periode:	138 - 192 
+	Sequenznummer:	1210
+Szene
+	ID:	4671
+	Beschreibung:	Feldherren-Sarkophag. Auf der Hauptseite ist der Feldherr in Tunika, Mantel und Fellstiefeln auf einem Greifenthron sitzend dargestellt, hinter ihm eine ihn bekränzende Victoria mit Palmwedel. Vor dem Feldherren werden gefangene Sarmaten vorgeführt, darunter ein Kind und ein knieender Gefangener, der die Füße des Feldherren berührt. Im Hintergrund Soldaten, an den Ecken jeweils ein Tropaion und knieende Gefangene. Auf den Schmalseiten jeweils Teil eines Triumpfzuges: auf der einen tragen vier Männer ein ferculum mit drei Gefangenen (ein sitzender Mann, eine Frau mit aufgestütztem Kopf und eine kauernde Frau), die Männer tragen außerdem Stäbe, auf denen das ferculum abgestellt werden kann; auf der anderen ein von zwei Maultieren gezogener einfacher Karren mit Scheibenrädern, auf dem eine Gefangene mit Kind sitzt, die ihren Kopf auf die rechte Hand stützt. Vor und neben dem Wagen schreiten zwei Soldaten mit Schild und Speer.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/4671X002.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	32
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 1. Prozessionen, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	100
+	Bandnummer:	1
+Catalog Thes CRA
+	Indexnummer:	954
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Catalog LIMC
+	Artikel:	Victoria
+	Katalognummer:	351
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Clementia
+	Katalognummer:	ad 17
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	942
+Museum
+	Land:	VA
+	Stadt:	Vaticano
+	Name:	Musei Vaticani
+	Direktor:	Direttore Dott. Antonio Paolucci
+	Anrede:	Chiarissimo Direttore,
+	Postleitzahl:	I-00120
+	Kontaktzenter:	Monumenti, Musei e Gallerie Pontificie
+	Stadt des Kontaktzenters:	Città del Vaticano
+	Rechteinhaber der Fotos:	© Musei Vaticani
+	Kommentar:	Sont réunis sous cette dénomination générique - compte tenu à la fois de leur numérotation unique et de leurs déplacements à l'intérieur des musées - les monuments conservés dans le Museo Chiaramonti, le Museo Gregoriano Etrusco, le Museo Gregoriano Profano, le Museo Pio Clementino et le Museo Pio Cristiano.  En revanche, la localisation spécifique a été conservée dans les cas suivants: Basilica San Pietro, Biblioteca Apostolica Vaticana (et Museo Profano, Museo Sacro, Sala delle Nozze Aldobrandine), Camposanto Teutonico, Giardini, Medagliere Vaticano, Museo Gregoriano Egizio, Necropoli sotto San Pietro.
+	Hat die Fotorechte:	0

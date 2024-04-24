@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-761166a81a0f6-d
+Achilleus_163_0_0
+
+
+
+Monument
+	ID:	43863
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	weapon kneeling (not ritually)
+	Name:	Achilleus Odysseus Deidameia II
+	Beschreibung:	Fragment.
+	Bibliographie:	SarkRel no. 31; Pollack, L., Collezione Prospero Sarti (1906)  no. 18 pl. 5; Koch, G., AA (1976) 103 no. 2 fig. 2.
+Szene
+	ID:	46140
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	163
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel II 31
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Carpegna
+	Rechteinhaber der Fotos:	© Villa Carpegna, Roma
+	Hat die Fotorechte:	1

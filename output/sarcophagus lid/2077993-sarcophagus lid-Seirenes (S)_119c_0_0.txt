@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-740c26d663b52-2
+Seirenes (S)_119c_0_0
+
+
+
+Monument
+	ID:	7377
+	Objekt:	sarcophagus lid
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Seirenes
+	Beschreibung:	Muses attacking Seirenes.
+	Monument-URL:	http://www.limc-france.fr/objet/15653
+Szene
+	ID:	7527
+	Beschreibung:	Muses attacking Seirenes.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Seirenes (S)
+	Katalognummer:	119c
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Cabinet des Médailles et Antiques de la Bibliothèque Nationale de France
+	Direktor:	Dr. M. Amandry, Conservateur en Chef
+	Adresse:	58, Rue de Richelieu
+	Postleitzahl:	F-75084
+	Kontaktzenter:	Cabinet des Médailles de la Bibliothèque Nationale de France
+	Stadt des Kontaktzenters:	Paris cedex 02
+	Rechteinhaber der Fotos:	© Cabinet des Médailles et Antiques de la Bibliothèque Nationale de France
+	Kommentar:	Intailles: les numéros d'inventaire sont les numéros du catalogue de Chabouillet, BiblNatCamées.  Camées: les numéros d'inventaire sont les numéros du catalogue de Babelon, BiblNatCamées.  Bronzes: les numéros d'inventaire sont les numéros du catalogue de Babelon/Blanchet, BiblNatBronzes précédés de Br.
+	Hat die Fotorechte:	1

@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ed6fd1b5f98-2
+Kairoi/Tempora anni_3_1_0
+
+
+
+Monument
+	ID:	23270
+	Entdeckungsort:	Patras, Patrai, Patrae, Colonia Augusta Aroe Patrensis (Achaia)
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kairoi/Tempora anni
+	Beschreibung:	From left to right: Eros holding pedum and a plate of fruit; another Eros is dancing; two Erotes closely entangled, holding torch and wreath; another dancing Eros; another Eros is nude, with pedum and dead hare. On the minor side an Eros each, holding an animal and a pedum.
+Szene
+	ID:	24412
+	Beschreibung:	From left to right: Eros holding pedum and a plate of fruit; another Eros is dancing; two Erotes closely entangled, holding torch and wreath; another dancing Eros; another Eros is nude, with pedum and dead hare. On the minor side an Eros each, holding an animal and a pedum.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/athens/national_archaeological_museum/24412X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	3
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1187
+Museum
+	Land:	GR
+	Stadt:	Athens
+	Name:	National Archaeological Museum
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Anrede:	Dear Director,
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© National Archaeological Museum, Athens
+	Kommentar:	Pour les intailles de la collection Karapanos voir Musée Numismatique.  Inv. VS = ancienne collection Vlastos-Serpieri.
+	Hat die Fotorechte:	1

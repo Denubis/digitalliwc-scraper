@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-7420a728c8cd4-d
+Omphale_12_0_0
+
+
+
+Monument
+	ID:	8824
+	Entdeckungsort:	Scafati
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Omphale
+	Beschreibung:	Herakles naked but for skin on left shoulder and club, puts his right hand on the shoulder of a seated dressed woman. Herakles and Omphale?
+Szene
+	ID:	9025
+	Beschreibung:	Herakles naked but for skin on left shoulder and club, puts his right hand on the shoulder of a seated dressed woman. Herakles and Omphale?
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/providence/museum_of_art/rhode_island_school_of_design/9025X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Omphale
+	Katalognummer:	12
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1938.058.10
+Museum
+	Land:	US
+	Stadt:	Providence
+	Name:	Museum of Art, Rhode Island School of Design
+	Direktor:	Gina Borromeo, Curator 
+	Adresse:	224 Benefit Street
+	Postleitzahl:	USA-
+	Kontaktzenter:	Museum of Art, Rhode Island School of Design
+	Stadt des Kontaktzenters:	Providence, RI 02903
+	Rechteinhaber der Fotos:	Photography by Erik Gould, courtesy of the Museum of Art, Rhode Island School of Design, Providence
+	Hat die Fotorechte:	1

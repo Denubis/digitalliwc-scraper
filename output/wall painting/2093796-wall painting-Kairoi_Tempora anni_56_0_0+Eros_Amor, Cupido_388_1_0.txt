@@ -1,0 +1,51 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ee1483f6339-2
+Kairoi/Tempora anni_56_0_0
+Eros/Amor, Cupido_388_1_0
+
+
+
+Monument
+	ID:	23315
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	tomb
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Eros/Amor, Cupido Kairoi/Tempora anni
+	Beschreibung:	In an arena four bigae driven by four unwinged Erotes (Seasons?).
+Datierung
+	Periode:	100 - 200 
+Szene
+	ID:	24458
+	Beschreibung:	In an arena four bigae driven by four unwinged Erotes (Seasons?).
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/biblioteca_apostolica_vaticana/sala_delle_nozze_aldobrandine/24458X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/biblioteca_apostolica_vaticana/sala_delle_nozze_aldobrandine/24458X302.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	56
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	388
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba di Vigna dei Pupazzi
+Museum
+	Land:	VA
+	Stadt:	Vaticano
+	Name:	Biblioteca Apostolica Vaticana, Sala delle Nozze Aldobrandine
+	Direktor:	Prefetto Raffaele Farina, S. D. B.
+	Anrede:	Reverendissimo Prefetto
+	Postleitzahl:	I-00120
+	Kontaktzenter:	Biblioteca Apostolica Vaticana
+	Stadt des Kontaktzenters:	Città del Vaticano
+	Rechteinhaber der Fotos:	© Biblioteca Apostolica Vaticana
+	Hat die Fotorechte:	1

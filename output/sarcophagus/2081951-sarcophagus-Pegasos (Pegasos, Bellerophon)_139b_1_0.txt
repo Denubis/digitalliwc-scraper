@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-7444bcca96f20-c
+Pegasos (Pegasos, Bellerophon)_139b_1_0
+
+
+
+Monument
+	ID:	11376
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Pegasos
+Szene
+	ID:	11650
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/catania/museo_civico_del_castello_ursino/11650X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Pegasos (Pegasos, Bellerophon)
+	Katalognummer:	139b
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1505
+Museum
+	Land:	IT
+	Stadt:	Catania
+	Name:	Museo Civico del Castello Ursino
+	Direktor:	Dir. Dott.ssa Anna Quartarone
+	Adresse:	Piazza Federico di Svevia
+	Postleitzahl:	I-95100
+	Kontaktzenter:	Museo Civico del Castello Ursino
+	Stadt des Kontaktzenters:	Catania
+	Rechteinhaber der Fotos:	© Museo Civico del Castello Ursino, Catania
+	Hat die Fotorechte:	1

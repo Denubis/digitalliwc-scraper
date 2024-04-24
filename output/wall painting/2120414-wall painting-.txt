@@ -1,0 +1,53 @@
+http://ark.dasch.swiss/ark:/72163/080e-766aa033d489b-2
+
+
+
+Monument
+	ID:	53583
+	Entdeckungsort:	Rome
+	Objekt:	wall painting
+	Herkunft:	Rome
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	throne table, mensa, trapeza torch cock branch sacrificial animal sacrificial assistant plate pig sheep candelabrum cake, offering cake, pelanos meat initiation cave halo, nimbus globe krater in the cult of Mithras neat, cattle, bovine gesture: one arm extended forward
+	Name:	Helios/Sol Mithras Liber pater
+	Grössenangabe:	H: 1,3 m
+	Beschreibung:	Wandmalerei in drei Tafeln an den Langseiten des Mithräums (zwei an der linken, eine längere an der rechten Seite). Dargestellt ist eine Prozession von Anhängern des Mithraskultes in der Funktion als Opferdiener in kurzer Tunika (alle sind mit der Beischrift LEONIS versehen, wobei es sich wohl um eine Amtsbezeichnung handelt), die verschiedene Gegenstände als Weihgaben tragen (teilweise nicht mehr identifizierbar, erkennbar sind Kratere, runde Opferkuchen, Kandelaber, ein Zweig und ein Globus) und von Opfertieren begleitet werden (Schwein, Rind, Schaf, Hahn). Vermutlich handelt es sich um eine Initiation in die nächsthöhere Rangstellung im Kult. Das Ziel auf der linken Wandseite bildet ein Thronender mit phrygischer Mütze und zum Gruß erhobener Rechter (vermutlich Liber pater). Ganz am Ende der rechten Wandszene sitzen in einer Grotte Mithras und Sol an einem Tisch, zwei Diener (in Form eines Raben und eines Menschen) bringen Teller mit Fleischstücken. Sol hat einen goldenen Strahlennimbus um das Haupt, Mithras einen goldenen Nimbus ohne Strahlenkranz. 
+	Inschrift:	Alle Personen tragen Beischriften, die teilweise nur noch schwer zu entziffern sind. Sie bestehen in der Regel aus der Formel NAMA, gefolgt von einem Name (auch Personifikationen) bzw. einer Rangbezeichnung im Kult, z.B. NICE, THEODORO, HELIODORO, GELASIO, PHOEBO, HELIODROMIS, PERSIS, NYMPHIS, MILITIBUS. Anschließend folgt das Attribut LEONI bzw. LEONIBUS, in manchen Fällen weitere Angaben in Form von TUTELA und dem Namen einer Gottheit (MERCURIS, MARTIS, IOVIS, SOLIS, SATURNI, VENERIS). Weitere Inschriften: NOVIS ET MULTIS ANNIS; SIT NEMINI ... SALUTEM OMNIUM; ICIT ... UCTA REDDITE CANTU... sind vermutlich Aufforderung zu kultischen Aktivitäten, Teilnahme an Feiern oder Charakteristika des Status der beschriebenen Person. 
+	Bibliographie:	Vermaseren, M. J., Corpus Inscriptionum et Monumentorum Religionis Mithriacae I (1956), Nr. 480-484; Ferrua, A., Bullettino della Commissione Archeologica Comunale di Roma 68 (1940) 71 Abb. 9, 81; 
+Datierung
+	Periode:	190 - 200 
+Epoche
+	Name:	Ende 2. Jh. n. Chr.
+	Periode:	190 - 200 
+	Sequenznummer:	3170
+Szene
+	ID:	58963
+	Beschreibung:	Wandmalerei in drei Tafeln an den Langseiten des Mithräums (zwei an der linken, eine längere an der rechten Seite). Dargestellt ist eine Prozession von Anhängern des Mithraskultes in der Funktion als Opferdiener in kurzer Tunika (alle sind mit der Beischrift LEONIS versehen, wobei es sich wohl um eine Amtsbezeichnung handelt), die verschiedene Gegenstände als Weihgaben tragen (teilweise nicht mehr identifizierbar, erkennbar sind Kratere, runde Opferkuchen, Kandelaber, ein Zweig und ein Globus) und von Opfertieren begleitet werden (Schwein, Rind, Schaf, Hahn). Vermutlich handelt es sich um eine Initiation in die nächsthöhere Rangstellung im Kult. Das Ziel auf der linken Wandseite bildet ein Thronender mit phrygischer Mütze und zum Gruß erhobener Rechter (vermutlich Liber pater). Ganz am Ende der rechten Wandszene sitzen in einer Grotte Mithras und Sol an einem Tisch, zwei Diener (in Form eines Raben und eines Menschen) bringen Teller mit Fleischstücken. Sol hat einen goldenen Strahlennimbus um das Haupt, Mithras einen goldenen Nimbus ohne Strahlenkranz. 
+	Inschrift:	Alle Personen tragen Beischriften, die teilweise nur noch schwer zu entziffern sind. Sie bestehen in der Regel aus der Formel NAMA, gefolgt von einem Name (auch Personifikationen) bzw. einer Rangbezeichnung im Kult, z.B. NICE, THEODORO, HELIODORO, GELASIO, PHOEBO, HELIODROMIS, PERSIS, NYMPHIS, MILITIBUS. Anschließend folgt das Attribut LEONI bzw. LEONIBUS, in manchen Fällen weitere Angaben in Form von TUTELA und dem Namen einer Gottheit (MERCURIS, MARTIS, IOVIS, SOLIS, SATURNI, VENERIS). Weitere Inschriften: NOVIS ET MULTIS ANNIS; SIT NEMINI ... SALUTEM OMNIUM; ICIT ... UCTA REDDITE CANTU... sind vermutlich Aufforderung zu kultischen Aktivitäten, Teilnahme an Feiern oder Charakteristika des Status der beschriebenen Person. 
+Catalog Thes CRA
+	Indexnummer:	274
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.a. Kultpersonal, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	4700
+	Bandnummer:	5
+Catalog Thes CRA
+	Indexnummer:	1385
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Santa Prisca, Mitreo
+	Rechteinhaber der Fotos:	© Santa Prisca, Mitreo, Roma
+	Hat die Fotorechte:	1

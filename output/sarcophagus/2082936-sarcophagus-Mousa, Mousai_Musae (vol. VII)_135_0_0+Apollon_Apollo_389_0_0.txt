@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-7452d1cf6a21d-2
+Mousa, Mousai/Musae (vol. VII)_135_0_0
+Apollon/Apollo_389_0_0
+
+
+
+Monument
+	ID:	12368
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Mousa, Mousai Apollon/Apollo
+Szene
+	ID:	12668
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/12668X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	135
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	389
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1914.129
+Museum
+	Land:	IT
+	Stadt:	Firenze
+	Name:	Galleria degli Uffizi
+	Adresse:	Via della Ninna 5
+	Postleitzahl:	I-50122
+	Kontaktzenter:	Soprintendenza Speciale per il Polo Museale Fiorentino
+	Stadt des Kontaktzenters:	Firenze
+	Rechteinhaber der Fotos:	Su concessione del Ministero dei beni e delle attività culturali e del turismo
+	Hat die Fotorechte:	1

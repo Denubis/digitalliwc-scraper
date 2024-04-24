@@ -1,0 +1,85 @@
+http://ark.dasch.swiss/ark:/72163/080e-7472b36d2e42b-2
+Medeia_56_0_0
+Kreousa II_4_1_0
+Kreousa II_20_0_0
+Hypnos/Somnus_142a_0_0
+Iason_66_1_0
+
+
+
+Monument
+	ID:	14612
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Stichwort:	chiton throne altar snake herm chariot diptych bird (undetermined) building veiling of the head wet-nurse bride
+	Name:	Hypnos/Somnus Iason Kreousa I Medeia
+	Beschreibung:	Kreousa (II) ist auf einem Altar sitzend und im Chiton (der wie bei Aphrodite von der linken Schulter gleitet) gekleidet dargestellt. Ihr Hinterkopf ist mit einem Mantel verhüllt. Sie schaut zu den ankommenden Kindern der Medea, die von ihrer Amme und Iason begleitet werden. Hinter den Kindern steht Hymenaeus-Somnus mit gesenkter Fackel. Unter dem Thron der Kreousa liegt ein geöffnetes Diptychon, der Begleitbrief der Medea an Kreousa (?).
+	Bibliographie:	SarkRel II I, 210-211 Nr. 196 Taf. 62
+Datierung
+	Periode:	150 
+Epoche
+	Name:	1. Hälfte 2. Jh. n. Chr.
+	Periode:	100 - 150 
+	Sequenznummer:	3180
+Szene
+	ID:	15053
+	Beschreibung:	Kreousa (II) ist auf einem Altar sitzend und im Chiton (der wie bei Aphrodite von der linken Schulter gleitet) gekleidet dargestellt. Ihr Hinterkopf ist mit einem Mantel verhüllt. Sie schaut zu den ankommenden Kindern der Medea, die von ihrer Amme und Iason begleitet werden. Hinter den Kindern steht Hymenaeus-Somnus mit gesenkter Fackel. Unter dem Thron der Kreousa liegt ein geöffnetes Diptychon, der Begleitbrief der Medea an Kreousa (?).
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/mantova/galleria_e_museo_di_palazzo_ducale/15053X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/mantova/galleria_e_museo_di_palazzo_ducale/15053X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/mantova/galleria_e_museo_di_palazzo_ducale/15053X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/mantova/galleria_e_museo_di_palazzo_ducale/15053X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/mantova/galleria_e_museo_di_palazzo_ducale/15053X102.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Medeia
+	Katalognummer:	56
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kreousa II
+	Katalognummer:	4
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kreousa II
+	Katalognummer:	20
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	142a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iason
+	Katalognummer:	66
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Levi 189
+Museum
+	Land:	IT
+	Stadt:	Mantova
+	Name:	Galleria e Museo di Palazzo Ducale
+	Direktor:	Soprintendente Dott.ssa Giuliana Algeri
+	Adresse:	Piazza Paccagnini 3
+	Postleitzahl:	I-46100
+	Kontaktzenter:	(All'attenzione del Dott. G. Rodella) Sopr. Patrimonio Storico ed Artistico Mantova, Cremona e Brescia
+	Stadt des Kontaktzenters:	Mantova
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali
+	Kommentar:	Levi: numeri di catalogo di Levi, A., Sculture greche e romane del Palazzo Ducale di Mantova (1930).
+	Hat die Fotorechte:	0

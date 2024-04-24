@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-762b7e019c25b-b
+Aktaion_116e_0_0
+
+
+
+Monument
+	ID:	45717
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	relief
+	Name:	Aktaion
+	Bibliographie:	SarkRel III 6 fig. 2, 1; Grassinger, D., Die mythologischen Sarkophage Teil 1. Achill bis Amazonen, ASR XII Teil 1 (1999) 225 Kat. 73.
+Szene
+	ID:	48125
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Aktaion
+	Katalognummer:	116e
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	10323
+Museum
+	Land:	IT
+	Stadt:	Ostia
+	Name:	Museo Ostiense
+	Direktor:	Dott.ssa Elvira Angeloni
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Viale dei Romagnoli 717
+	Postleitzahl:	I-00119
+	Kontaktzenter:	Soprintendenza archeologica di Ostia
+	Stadt des Kontaktzenters:	Ostia Antica - Roma
+	Rechteinhaber der Fotos:	Archivio Fotografico della Soprintendenza Archeologica per i beni archeologici di Ostia
+	Hat die Fotorechte:	1

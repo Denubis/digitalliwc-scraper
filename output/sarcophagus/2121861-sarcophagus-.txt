@@ -1,0 +1,48 @@
+http://ark.dasch.swiss/ark:/72163/080e-767f501a6e51e-1
+
+
+
+Monument
+	ID:	90083
+	Entdeckungsort:	unknown
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	GR
+	Kategorie:	relief
+	Stichwort:	ram lion tree bull boar horse griffin
+	Beschreibung:	Γρύπες, σφίγγα
+	Bibliographie:	Willemsen, Olym. Forschungen IV πίν. 104.Rodenwaldt, G., JdI 48, 1933, εικ. 13.
+	Kommentar:	2887
+Szene
+	ID:	55221
+	Szenerieangabe:	face principale
+	Beschreibung:	Δύο έφιπποι νέοι εκατέρωθεν δέντρου, έτοιμοι να ρίξουν τα ακόντιά τους εναντίον λιονταριού και κάπρου. Eκατέρωθεν αυτών, δέντρο.
+Szene
+	ID:	55222
+	Szenerieangabe:	B
+	Beschreibung:	Γρύπες εκατέρωθεν δέντρου.
+Szene
+	ID:	55223
+	Szenerieangabe:	à g.
+	Beschreibung:	Σφίγγα. Aνάμεσα στα πόδια της κεφάλι κριαριού.
+Szene
+	ID:	55224
+	Szenerieangabe:	à dr.
+	Beschreibung:	Λιοντάρι κατασπαράσσει βόδι.
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1177
+Museum
+	Land:	GR
+	Stadt:	Athens
+	Name:	National Archaeological Museum
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Anrede:	Dear Director,
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© National Archaeological Museum, Athens
+	Kommentar:	Pour les intailles de la collection Karapanos voir Musée Numismatique.  Inv. VS = ancienne collection Vlastos-Serpieri.
+	Hat die Fotorechte:	1

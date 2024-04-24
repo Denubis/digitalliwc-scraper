@@ -1,0 +1,54 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a500882a027-8
+Hermes/Al-Kutbay (S)_16_0_0
+Psyche_73_0_0
+Prometheus_107_0_1
+Nike (in per. or.) (S)_25a_0_0
+
+
+
+Monument
+	ID:	80
+	Entdeckungsort:	Beit-Ras, Capitolias
+	Entdeckungsort Details:	tomb
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Hermes/Al-Kutbay Prometheus Psyche Nike
+	Beschreibung:	Eastern arcosolium: Creation of the first man by Prometheus. A young man, inscribed Plasma, is lying on his back while Prometheus is standing by his head. Opposite Prometheus is Hermes Psychopompos: Hermes/Al-Kutbay with caduceus, extends his right hand to drag a person identified as Psyche, the soul to bei introduced into the body being modelled by the creator.
+Datierung
+	Periode:	100 - 200 
+Szene
+	ID:	326
+	Beschreibung:	Eastern arcosolium: Creation of the first man by Prometheus. A young man, inscribed Plasma, is lying on his back while Prometheus is standing by his head. Opposite Prometheus is Hermes Psychopompos: Hermes/Al-Kutbay with caduceus, extends his right hand to drag a person identified as Psyche, the soul to bei introduced into the body being modelled by the creator.
+Catalog LIMC
+	Artikel:	Hermes/Al-Kutbay (S)
+	Katalognummer:	16
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	73
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Prometheus
+	Katalognummer:	107
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Nike (in per. or.) (S)
+	Katalognummer:	25a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	JO
+	Stadt:	Beit-Râs (Capitolias, Jordanie)
+	Name:	Tombeau de Prométhée
+	Direktor:	M. le Dr. Fawzi Zayadine, Conseiller d'Archéologie
+	Adresse:	P.O.Box 88
+	Kontaktzenter:	Département des Antiquités
+	Stadt des Kontaktzenters:	Amman / Jordanie
+	Rechteinhaber der Fotos:	© Tombeau de Prométhée, Beit-Râs
+	Hat die Fotorechte:	0

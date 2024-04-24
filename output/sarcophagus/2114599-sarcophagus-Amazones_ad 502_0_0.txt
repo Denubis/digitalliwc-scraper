@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-76177dc813ac8-a
+Amazones_ad 502_0_0
+
+
+
+Monument
+	ID:	44291
+	Entdeckungsort:	Sparta (Laconia)
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	Amazon
+	Name:	Amazones
+	Beschreibung:	Fragment.
+	Bibliographie:	Kallipolitis, B. G., Χρονολογικη κατα ταξις...(1958) no. 22-23; Giuliano, A., Il commercio dei sarcofagi attici (1962) 35.
+Datierung
+	Periode:	160 
+	Kommentar:	about
+Epoche
+	Name:	3. Viertel 2. Jh. n. Chr.
+	Periode:	150 - 175 
+	Sequenznummer:	3220
+Szene
+	ID:	46576
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	ad 502
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	4302
+Museum
+	Land:	GR
+	Stadt:	Sparte
+	Name:	Musée Archéologique
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Anrede:	Dear Director,
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athènes
+	Rechteinhaber der Fotos:	© Archaeological Museum of Sparta
+	Hat die Fotorechte:	0

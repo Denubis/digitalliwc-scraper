@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-74aaf8dcb990b-1
+Moirai_38_1_0
+
+
+
+Monument
+	ID:	18596
+	Entdeckungsort:	Agrigento
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Moirai
+Szene
+	ID:	19449
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/agrigento/duomo/19449X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Moirai
+	Katalognummer:	38
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Agrigento
+	Name:	Duomo
+	Rechteinhaber der Fotos:	© Duomo, Agrigento
+	Hat die Fotorechte:	1

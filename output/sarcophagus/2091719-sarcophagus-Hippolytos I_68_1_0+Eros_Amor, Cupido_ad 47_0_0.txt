@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-74d062ddd93e8-e
+Hippolytos I_68_1_0
+Eros/Amor, Cupido_ad 47_0_0
+
+
+
+Monument
+	ID:	21225
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido Hippolytos I
+Szene
+	ID:	22166
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	68
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 47
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 2294
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

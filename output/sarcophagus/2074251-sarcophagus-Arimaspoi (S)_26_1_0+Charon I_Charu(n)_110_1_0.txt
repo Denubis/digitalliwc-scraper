@@ -1,0 +1,61 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d6a76cfe5bc-9
+Arimaspoi (S)_26_1_0
+Charon I/Charu(n)_110_1_0
+
+
+
+Monument
+	ID:	3609
+	Entdeckungsort:	Tarquinia
+	Objekt:	sarcophagus
+	Material:	nenfro
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	relief
+	Name:	Charon I/Charu(n) Arimaspoi
+	Bibliographie:	Helbig, EtrSark 52-53 no. 96 pl.7a.
+Datierung
+	Periode:	-350 - -300 
+Epoche
+	Name:	2. Hälfte 4. Jh. v. Chr.
+	Periode:	-350 - -300 
+	Sequenznummer:	2480
+Szene
+	ID:	3646
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/museo_nazionale_di_tarquinia/3646X001.jpg
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	29
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VI. 2.d. Jagd und Fischerei, etr.
+	Bandnummer:	6
+Catalog LIMC
+	Artikel:	Arimaspoi (S)
+	Katalognummer:	26
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Charon I/Charu(n)
+	Katalognummer:	110
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9874
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Museo Nazionale di Tarquinia
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

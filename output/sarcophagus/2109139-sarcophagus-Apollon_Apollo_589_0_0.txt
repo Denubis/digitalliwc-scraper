@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-75c96ea1a2d24-9
+Apollon/Apollo_589_0_0
+
+
+
+Monument
+	ID:	38788
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+Szene
+	ID:	40801
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	589
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	23.1849.1
+Museum
+	Land:	HU
+	Stadt:	Budapest
+	Name:	Musée National Hongrois (Magyar Nemzeti Múzeum)
+	Direktor:	Dir. Dr. Tibor Kovács
+	Anrede:	Dear Dr. Kovács
+	Adresse:	Múzeum Krt. 14-16
+	Postleitzahl:	H-1088
+	Kontaktzenter:	Musée National Hongrois (Magyar Nemzeti Múzeum)
+	Stadt des Kontaktzenters:	Budapest
+	Rechteinhaber der Fotos:	© Magyar Nemzeti Múzeum, Budapest
+	Hat die Fotorechte:	1

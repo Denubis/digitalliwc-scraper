@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-754e6cb344418-9
+Gigantes_560_0_0
+
+
+
+Monument
+	ID:	30109
+	Entdeckungsort:	Pompei
+	Objekt:	relief
+	Material:	bronze
+	Land:	CH
+	Kategorie:	relief_metal
+	Name:	Gigantes
+Szene
+	ID:	31568
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Gigantes
+	Katalognummer:	560
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

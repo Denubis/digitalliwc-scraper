@@ -1,0 +1,55 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ff61040a85b-2
+Alkestis_54d_0_0
+Horai/Horae_18_0_0
+Kallisto_15c_0_0
+
+
+
+Monument
+	ID:	24538
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 12,28
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Alkestis Horai/Horae Kallisto
+	Beschreibung:	A figure in short tunic and leather boots, holding two spears, stands before a seated woman who has a quiver on the ground beside her and an Eros leaning against her lap. In the background are three women. Curtius suggests the scene represents the discovery of Kallisto's pregnancy by Artemis.
+	Bibliographie:	Schefold, WP 203; Helbig, Wandgemälde no. 1161.
+Szene
+	ID:	47878
+	Beschreibung:	A figure in short tunic and leather boots, holding two spears, stands before a seated woman who has a quiver on the ground beside her and an Eros leaning against her lap. In the background are three women. Curtius suggests the scene represents the discovery of Kallisto's pregnancy by Artemis.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	54d
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	18
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kallisto
+	Katalognummer:	15c
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VII 12,28
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa del Balcone pensile

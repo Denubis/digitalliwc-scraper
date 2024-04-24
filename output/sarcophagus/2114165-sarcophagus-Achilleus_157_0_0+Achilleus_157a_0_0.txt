@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-76114960972ce-f
+Achilleus_157_0_0
+Achilleus_157a_0_0
+
+
+
+Monument
+	ID:	43848
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Name:	Achilleus
+	Bibliographie:	Abramic, M., Vjesnikza arkeoligiju historiju dalmatinsku. Bulletin d'archéologie et d'histoire dalmates 45 (1922) 58-63 pl. 3; Gabelmann, H., Die Werkstattgruppen der oberitalienischen Sarkophage (1973) 34 n. 150.
+	Monument-URL:	http://www.limc-france.fr/objet/7757
+Szene
+	ID:	46125
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	157
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	157a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	D 456
+Museum
+	Land:	HR
+	Stadt:	Split
+	Name:	Musée Archéologique de Split
+	Rechteinhaber der Fotos:	© Musée Archéologique de Split
+	Hat die Fotorechte:	1

@@ -1,0 +1,72 @@
+http://ark.dasch.swiss/ark:/72163/080e-742f2da2b72ac-8
+Perseus_169_1_0
+Gorgo, Gorgones_310_0_0
+
+
+
+Monument
+	ID:	9856
+	Entdeckungsort:	Golgoi
+	Objekt:	sarcophagus
+	Material:	limestone
+	Herkunft:	Cyprus
+	Land:	CH
+	Kategorie:	relief
+	Name:	Gorgo, Gorgones Perseus
+	Beschreibung:	On one of the long sides four banquet beds with draped men and on three of them seated women; on the left under a tree a krater; in the centre a woman playing the flute; on the right a young cupbearer. Perseus with gorgoneion in kibisis, Medusa.
+	Bibliographie:	Dentzer, J.-M.,  Le motif du banquet couché dans le proche-orient et le monde grec du VII au IV  s. av. J.-C. (1982) 240-243 R 6 fig. 185-188; Karageorgis, Ancient Art from Cyprus. The Cesnola Collection (2000) 204-206 n. 331.
+	Museums-URL:	http://www.metmuseum.org/art/collection/search/242004
+Datierung
+	Periode:	-475 - -450 
+Epoche
+	Name:	2. Viertel 5. Jh. v. Chr.
+	Periode:	-475 - -450 
+	Sequenznummer:	2360
+Szene
+	ID:	10063
+	Beschreibung:	On one of the long sides four banquet beds with draped men and on three of them seated women; on the left under a tree a krater; in the centre a woman playing the flute; on the right a young cupbearer. Perseus with gorgoneion in kibisis, Medusa.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/new_york/metropolitan_museum_of_art/10063X001.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	249
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 4.a. Bankett, gr.
+	Kurzname:	Gr.
+	Sequenznummer:	1410
+	Bandnummer:	2
+Catalog LIMC
+	Artikel:	Perseus
+	Katalognummer:	169
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Gorgo, Gorgones
+	Katalognummer:	310
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	74.51.2451
+Museum
+	Land:	US
+	Stadt:	New York
+	Name:	Metropolitan Museum of Art
+	Direktor:	Eileen Sullivan, Assistant Museum Librarian
+	Anrede:	Dear Ms Sullivan,
+	Adresse:	1000 Fifth Avenue at 82nd Street
+	Postleitzahl:	USA-
+	Kontaktzenter:	The Metropolitan Museum of Art                          The Photograph Library
+	Stadt des Kontaktzenters:	New York, NY 10028-0198
+	Rechteinhaber der Fotos:	© Metropolitan Museum of Art
+	Hat die Fotorechte:	1

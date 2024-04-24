@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-740eb24d83e4c-e
+Skylla I (S)_83_0_0
+Glaukos I_4_0_1
+Ares/Mars_408_0_0
+
+
+
+Monument
+	ID:	7556
+	Entdeckungsort:	Tivoli
+	Entdeckungsort Details:	Hadrians Villa
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Glaukos I Skylla I
+	Beschreibung:	Glaukos (I) and Skylla. In the background a seated woman.
+Szene
+	ID:	7712
+	Beschreibung:	Glaukos (I) and Skylla. In the background a seated woman.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Skylla I (S)
+	Katalognummer:	83
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Glaukos I
+	Katalognummer:	4
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Ares/Mars
+	Katalognummer:	408
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Tivoli
+	Name:	Villa Hadriana
+	Rechteinhaber der Fotos:	© Villa Hadriana, Tivoli
+	Hat die Fotorechte:	1

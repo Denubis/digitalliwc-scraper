@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-7617f68f0f92d-9
+Amazones_515_0_1
+
+
+
+Monument
+	ID:	44309
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	architectural relief
+	Stichwort:	helmet horse Amazon rider
+	Name:	Amazones
+	Beschreibung:	Fragment.
+	Bibliographie:	SarkRel II no. 74; Kallipolitis, B. G., Χρονολογικη κατα ταξις...(1958) no. 68; Giuliano, A., Il commercio dei sarcofagi attici (1962) 70 no. 462; Giuliano, A./ Palma, B., La maniera ateniese di età romana, StudMisc 24 (1978) 21 IV b no. 1.
+Datierung
+	Periode:	175 - 180 
+Epoche
+	Name:	4. Viertel 2. Jh. n. Chr.
+	Periode:	175 - 200 
+	Sequenznummer:	3230
+Szene
+	ID:	46596
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	515
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	63
+Museum
+	Land:	TR
+	Stadt:	Istanbul
+	Name:	Musée Archéologique
+	Direktor:	Mme le Dr  Pascale Linant de Bellefonds
+	Anrede:	Sehr geehrter Herr Dr. Posamentir,
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-92023
+	Kontaktzenter:	Université Paris X - Nanterre Maison de l'Archéologie / Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Archaeological Museum Istanbul
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	15

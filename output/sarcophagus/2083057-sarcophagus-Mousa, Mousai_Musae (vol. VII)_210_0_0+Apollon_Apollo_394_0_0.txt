@@ -1,0 +1,48 @@
+http://ark.dasch.swiss/ark:/72163/080e-74548ca905c3a-9
+Mousa, Mousai/Musae (vol. VII)_210_0_0
+Apollon/Apollo_394_0_0
+
+
+
+Monument
+	ID:	12489
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Apollon/Apollo Mousa, Mousai
+Szene
+	ID:	12790
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_doria_pamphilj/12790X301.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_doria_pamphilj/12790X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_doria_pamphilj/12790X303.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	210
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	394
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Calza 267
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Doria Pamphilj
+	Rechteinhaber der Fotos:	© Villa Doria Pamphilj, Roma
+	Kommentar:	Numéros d'après Calza, R. (éd.), Antichità di Villa Doria Pamphilj (1977).
+	Hat die Fotorechte:	1

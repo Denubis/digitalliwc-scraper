@@ -1,0 +1,83 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e67af45d89b-3
+Vulcanus_59_0_0
+Antilochos I_14_1_0
+Kyklops, Kyklopes_38_1_0
+Athena/Minerva_359_1_0
+Thetis_ad 33_0_0
+
+
+
+Monument
+	ID:	4721
+	Objekt:	sarcophagus lid
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	weapon warrior, soldier
+	Name:	Achilleus Antilochos I Hephaistos Thetis Vulcanus Kyklopes
+	Beschreibung:	Sarcophagus lid with Minerva giving the sword to Achilleus, in the centre Vulcanus and four Kyklopes forging the rest of his weapons; to the right Antilochos (?), Achilleus and Thetis.
+	Bibliographie:	Robert, SarkRel II no. 43 Taf. 21; Helbig4 II no. 1418; Sichtermann/Koch, MythSark 17 no. 4 Taf. 9.
+	Monument-URL:	http://www.limc-france.fr/objet/15171
+Datierung
+	Periode:	193 - 235 
+Epoche
+	Name:	severisch
+	Periode:	193 - 235 
+	Sequenznummer:	1230
+Szene
+	ID:	4794
+	Szenerieangabe:	couvercle
+	Beschreibung:	Sarcophagus lid with Minerva giving the sword to Achilleus, in the centre Vulcanus and four Kyklopes forging the rest of his weapons; to the right Antilochos (?), Achilleus and Thetis.
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4794X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4794X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4794X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4794X303.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Vulcanus
+	Katalognummer:	59
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Antilochos I
+	Katalognummer:	14
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kyklops, Kyklopes
+	Katalognummer:	38
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	359
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Thetis
+	Katalognummer:	ad 33
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1959
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Musei Capitolini
+	Direktor:	Dirigente Dott. Claudio Parisi Presicce
+	Adresse:	Via delle Tre Pile, 1
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Sovraintendenza ai Beni Culturali                     del Comune di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Archivio fotografico Musei Capitolini
+	Hat die Fotorechte:	1

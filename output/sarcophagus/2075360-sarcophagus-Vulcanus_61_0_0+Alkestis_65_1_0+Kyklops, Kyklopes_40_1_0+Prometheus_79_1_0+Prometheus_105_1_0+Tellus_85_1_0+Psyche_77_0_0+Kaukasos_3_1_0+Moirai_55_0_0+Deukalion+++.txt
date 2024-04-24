@@ -1,0 +1,235 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e682463e425-d
+Vulcanus_61_0_0
+Alkestis_65_1_0
+Kyklops, Kyklopes_40_1_0
+Prometheus_79_1_0
+Prometheus_105_1_0
+Tellus_85_1_0
+Psyche_77_0_0
+Kaukasos_3_1_0
+Moirai_55_0_0
+Deukalion I_2_0_0
+Mercurius_336_0_0
+Athena/Minerva_402_1_0
+Helios/Sol_346_0_0
+
+
+
+Monument
+	ID:	4724
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	base helmet chariot branch basket child statue horse winged figure rudder
+	Name:	Alkestis Athena/Minerva Deukalion I Helios/Sol Kaukasos Kyklopes Hermes/Mercurius Moirai Prometheus Psyche Tellus Vulcanus Luna Mercurius
+	Beschreibung:	The front side shows a depiction of the creation of mankind by Prometheus; aiding him is Minerva; Sol and Luna on chariots framing the scene. Mercurius approaching with Anima. On the minor sides are Hephaistos and three Cyclopes and under a tree the first human couple: either Deukalion (I) and Pyrrha or Atlas and a Hesperid.
+	Bibliographie:	Helbig(4) II no. 1257; Sichtermann,/ Koch, MythSark no. 68 pl. 165; Sichtermann, H., Zwei Darstellungen des Hermes als Seelenführer, RM 77 (1970) pl. 55; Schuhmacher, W. N., Die Katakombe an der Via Dino Compagni und römische Grabkammern, Rivista di Archeologia cristiana 50 (1974) 350-351.
+Datierung
+	Periode:	300 - 310 
+Epoche
+	Name:	Anfang 4. Jh. n. Chr.
+	Periode:	300 - 310 
+	Sequenznummer:	3430
+Szene
+	ID:	4796
+	Beschreibung:	The front side shows a depiction of the creation of mankind by Prometheus; aiding him is Minerva; Sol and Luna on chariots framing the scene. Mercurius approaching with Anima. On the minor sides are Hephaistos and three Cyclopes and under a tree the first human couple: either Deukalion (I) and Pyrrha or Atlas and a Hesperid.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4796X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4796X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4796X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4796X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4796X005.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4796X006.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4796X007.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4796X008.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4796X009.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4796X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4796X103.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4796X104.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4796X105.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4796X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4796X303.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4796X304.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4796X305.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4796X306.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4796X307.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4796X308.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4796X309.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4796X310.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4796X311.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4796X312.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4796X313.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4796X314.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4796X315.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4796X316.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4796X317.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4796X318.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4796X319.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4796X320.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4796X321.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4796X322.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4796X323.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4796X324.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Vulcanus
+	Katalognummer:	61
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	65
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kyklops, Kyklopes
+	Katalognummer:	40
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Prometheus
+	Katalognummer:	79
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Prometheus
+	Katalognummer:	105
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Tellus
+	Katalognummer:	85
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	77
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kaukasos
+	Katalognummer:	3
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Moirai
+	Katalognummer:	55
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Deukalion I
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	336
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	402
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	346
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	329
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Musei Capitolini
+	Direktor:	Dirigente Dott. Claudio Parisi Presicce
+	Adresse:	Via delle Tre Pile, 1
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Sovraintendenza ai Beni Culturali                     del Comune di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Archivio fotografico Musei Capitolini
+	Hat die Fotorechte:	1

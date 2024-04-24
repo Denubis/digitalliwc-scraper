@@ -1,0 +1,70 @@
+http://ark.dasch.swiss/ark:/72163/080e-73da072a93758-5
+Kentauroi et Kentaurides (S)_469_1_0
+Pan (S)_225_0_0
+Eros/Amor, Cupido_630_1_0
+Dionysos/Bacchus, Add._Supplement_1_0
+
+
+
+Monument
+	ID:	3847
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Name:	Eros/Amor, Cupido Kentauroi and Kentaurides Pan
+	Beschreibung:	Bacchus as neonate lying in a liknon; carried by a young satyr; bearded satyr. Pan lifted by two Erotes. Centaur and centauress.
+	Bibliographie:	SarkRel IV 2, 263-267 no. 129 pl. 157.
+	Museums-URL:	http://data.fitzmuseum.cam.ac.uk/id/object/65460
+Szene
+	ID:	3889
+	Beschreibung:	Bacchus as neonate lying in a liknon; carried by a young satyr; bearded satyr. Pan lifted by two Erotes. Centaur and centauress.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/cambridge/fitzwilliam_museum/3889X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/cambridge/fitzwilliam_museum/3889X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/cambridge/fitzwilliam_museum/3889X101.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	469
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Pan (S)
+	Katalognummer:	225
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	630
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus, Add.
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	GR 1.1835
+Museum
+	Land:	GB
+	Stadt:	Cambridge
+	Name:	Fitzwilliam Museum
+	Direktor:	Dr. Lucilla Burn, Keeper of Antiquities
+	Adresse:	Trumpington Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	The Fitzwilliam Museum
+	Stadt des Kontaktzenters:	Cambridge CB2 1RB
+	Rechteinhaber der Fotos:	© Fitzwilliam Museum, Cambridge
+	Hat die Fotorechte:	1

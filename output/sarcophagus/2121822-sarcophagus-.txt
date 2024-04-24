@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-767ec15dd041b-e
+
+
+
+Monument
+	ID:	90053
+	Entdeckungsort:	Athens
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	GR
+	Kategorie:	relief
+	Stichwort:	altar vine knife column torch dance music sacrifice pipe, flute, aulos, tibiae sacrificial animal he-goat kanoun, offering basket sacrificial instrument Dionysiac scene youth griffin satyr, silen maenad
+	Name:	Eros
+	Beschreibung:	Nέος, Έρωτας, Mαινάδαγρύπεςθαλάσσιος ίπποςΣάτυρος
+	Bibliographie:	Arch. Zeit. 12, 476.Πιττάκης, K.Σ., AE 1853, 922 αρ. 1511.Kαλλιπολίτης, 18 αρ. 45.
+	Kommentar:	2832
+Datierung
+	Periode:	160 - 190 
+Epoche
+	Name:	Jahr 1
+	Periode:	1 
+Szene
+	ID:	55164
+	Szenerieangabe:	face principale
+	Beschreibung:	Στο κέντρο, γυμνός νέος οδηγεί σε βωμό τράγο προς θυσία. Στα δ., γυμνός καθιστός νέος παίζει αυλό. Στα α. του βωμού, γυναίκα φέρει στην κεφαλή της κάλαθο, στο δ. χέρι κρατά δάδα. Στα α. της, Mαινάδα κρατά στο α. χέρι μαχαίρι. Στη δ. και α. άκρη της παράστασης, Έρωτας κρατά δάδα.
+Szene
+	ID:	55165
+	Beschreibung:	Γρύπες εκατέρωθεν κίονα.
+Szene
+	ID:	55166
+	Beschreibung:	Θαλάσσιος ίππος.
+Szene
+	ID:	55167
+	Beschreibung:	Γυναίκα προτείνει το δ. χέρι σε καθιστό Σάτυρος (ιμάτιο) που βρίσκεται μπροστά της. Πίσω από το Σάτυρο, άμπελος.
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1185
+Museum
+	Land:	GR
+	Stadt:	Athens
+	Name:	National Archaeological Museum
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Anrede:	Dear Director,
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© National Archaeological Museum, Athens
+	Kommentar:	Pour les intailles de la collection Karapanos voir Musée Numismatique.  Inv. VS = ancienne collection Vlastos-Serpieri.
+	Hat die Fotorechte:	1

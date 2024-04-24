@@ -1,0 +1,65 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a9766d1a83f-f
+Thoas II_6_0_0
+Iphigeneia_67_1_0
+
+
+
+Monument
+	ID:	413
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	altar temple cult image, cult statue branch priestess fruit female sacrificial assistant tray, lanx, catinus
+	Name:	Iphigeneia Thoas II
+	Beschreibung:	A gauche Thoas assis, accompagné de deux gardes taures. A droite Iphigeneia debout, devant le temple, près de l’autel. Dans le creux du bras gauche elle tient la statuette d’Artemis alors que de la main droite elle lève un rameau. A sa droite une servante avec une corbeille ou un plat de fruits.
+	Bibliographie:	Robert, SarkRel III 1 n. 36;Ashmole, B., dans Essays in Memory of K. Lehmann (1964) 25-26 fig. 1;Koch / Sichtermann, RömSark 402.
+Datierung
+	Periode:	150 - 160 
+Epoche
+	Name:	3. Viertel 2. Jh. n. Chr.
+	Periode:	150 - 175 
+	Sequenznummer:	3220
+Szene
+	ID:	198
+	Beschreibung:	A gauche Thoas assis, accompagné de deux gardes taures. A droite Iphigeneia debout, devant le temple, près de l’autel. Dans le creux du bras gauche elle tient la statuette d’Artemis alors que de la main droite elle lève un rameau. A sa droite une servante avec une corbeille ou un plat de fruits.
+	Sequenznummer:	10
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	73
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 5. Kultbilder
+	Sequenznummer:	1800
+	Bandnummer:	2
+Catalog LIMC
+	Artikel:	Thoas II
+	Katalognummer:	6
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iphigeneia
+	Katalognummer:	67
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Michaelis 105 + 117
+Museum
+	Land:	GB
+	Stadt:	Oxford
+	Name:	Ashmolean Museum of Art and Archaeology
+	Direktor:	Ms. Katherine Wodehouse, Picture Library Manager
+	Anrede:	Dear Dr. Vickers,
+	Adresse:	Beaumont Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	Ashmolean Museum of Art and Archaeology
+	Stadt des Kontaktzenters:	Oxford OX1 2PH
+	Rechteinhaber der Fotos:	© Ashmolean Museum of Art and Archaeology, Oxford
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Chandler 118 + 122

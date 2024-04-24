@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-7453fa4377572-d
+Mousa, Mousai/Musae (vol. VII)_189_0_0
+
+
+
+Monument
+	ID:	12449
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Mousa, Mousai
+Szene
+	ID:	12750
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	189
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Sesto Fiorentino
+	Name:	Villa Corsi Salviati
+	Rechteinhaber der Fotos:	© Villa Corsi Salviati, Sesto Fiorentino
+	Hat die Fotorechte:	0

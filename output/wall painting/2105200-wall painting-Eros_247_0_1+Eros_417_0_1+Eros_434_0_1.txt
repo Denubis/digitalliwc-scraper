@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-75911e37466f5-3
+Eros_247_0_1
+Eros_417_0_1
+Eros_434_0_1
+
+
+
+Monument
+	ID:	34821
+	Entdeckungsort:	Delos (Cyclades)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Eros
+Szene
+	ID:	36636
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Eros
+	Katalognummer:	247
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Eros
+	Katalognummer:	417
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Eros
+	Katalognummer:	434
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Maison des dauphins
+Museum
+	Land:	GR
+	Stadt:	Délos
+	Name:	Musée Archéologique
+	Direktor:	Dir. Prof. Dominique Mulliez
+	Anrede:	Monsieur le Directeur,
+	Adresse:	6, rue Didotou
+	Postleitzahl:	GR-106 80
+	Kontaktzenter:	Ecole Française d'Athènes
+	Stadt des Kontaktzenters:	Athènes
+	Rechteinhaber der Fotos:	© Archaeological Museum of Delos
+	Hat die Fotorechte:	1

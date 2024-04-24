@@ -1,0 +1,107 @@
+http://ark.dasch.swiss/ark:/72163/080e-741cd99f08e22-9
+Hippolytos I_18_1_0
+Hippolytos I_61_1_0
+Artemis/Diana_65a_0_0
+Eros/Amor, Cupido_1_1_0
+Virtus_46_0_0
+
+
+
+Monument
+	ID:	8558
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Rome
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	altar phiale, phiale mesomphalos, patera fire (on altar) garland cult image, cult statue libation altar: monolithic block cult statue: archaizing
+	Name:	Artemis Hippolytos I Phaidra Eros/Amor, Cupido Virtus
+	Beschreibung:	Vorderseite: Virtus, Hippolytos und Phaidra.Linke Nebenseite: Hippolytos gießt aus Phiale auf rechteckigen Blockaltar (schmal, hoch, auf Basis, Girlande auf Deckplatte, Flamme) vor Artmisstatue auf Felsen (archaisierend; Kopf und Oberkörper nicht erhalten).
+	Bibliographie:	SarkRel III 2 Nr. 171.Mansuelli, ScultUff I Nr. 255 Abb. 255.Sichtermann/Koch, MythSark Nr. 29 Taf. 59, 1; 62-64.Koch/Sichtermann, RömSark 151.
+Datierung
+	Periode:	230 - 240 
+Epoche
+	Name:	2. Viertel 3. Jh. n. Chr.
+	Periode:	225 - 250 
+	Sequenznummer:	3350
+Szene
+	ID:	22098
+	Beschreibung:	Vorderseite: Virtus, Hippolytos und Phaidra.Linke Nebenseite: Hippolytos gießt aus Phiale auf rechteckigen Blockaltar (schmal, hoch, auf Basis, Girlande auf Deckplatte, Flamme) vor Artmisstatue auf Felsen (archaisierend; Kopf und Oberkörper nicht erhalten).
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/22098X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/22098X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/22098X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/22098X103.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/22098X104.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/22098X105.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/22098X106.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/22098X107.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/22098X108.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/22098X109.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/22098X110.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/22098X111.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	18
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	61
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	65a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	1
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Virtus
+	Katalognummer:	46
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	98
+Museum
+	Land:	IT
+	Stadt:	Firenze
+	Name:	Galleria degli Uffizi
+	Adresse:	Via della Ninna 5
+	Postleitzahl:	I-50122
+	Kontaktzenter:	Soprintendenza Speciale per il Polo Museale Fiorentino
+	Stadt des Kontaktzenters:	Firenze
+	Rechteinhaber der Fotos:	Su concessione del Ministero dei beni e delle attività culturali e del turismo
+	Hat die Fotorechte:	1

@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-757995fdd4e4f-d
+Charis, Charites/Gratiae_23_1_0
+Eros/Amor, Cupido_168_0_0
+
+
+
+Monument
+	ID:	33155
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Via Laurentina
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Charis, Charites/Gratiae Eros/Amor, Cupido
+Szene
+	ID:	34824
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Charis, Charites/Gratiae
+	Katalognummer:	23
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	168
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	135930
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Romano
+	Direktor:	Soprintendente Dott. Giuseppe Proietti
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali - Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

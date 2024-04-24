@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-74417dfd75171-a
+Pegasos (Pegasos, Bellerophon)_31e_1_0
+
+
+
+Monument
+	ID:	11146
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Pegasos
+Szene
+	ID:	11419
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_salviati/11419X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Pegasos (Pegasos, Bellerophon)
+	Katalognummer:	31e
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Salviati
+	Rechteinhaber der Fotos:	© Palazzo Salviati, Roma
+	Hat die Fotorechte:	1

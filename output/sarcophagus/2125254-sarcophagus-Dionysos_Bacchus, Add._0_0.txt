@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-76afd23425d23-f
+Dionysos/Bacchus, Add._0_0
+
+
+
+Monument
+	ID:	202311
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Beschreibung:	triumph of Bacchus and Ariane in a chariot pulled by two centaurs; Bacchus naked with thyrsos staff; Ariane wearing long chiton
+Datierung
+	Periode:	100 - 200 
+Epoche
+	Name:	2. Jh. n. Chr.
+	Periode:	100 - 200 
+	Sequenznummer:	3140
+Szene
+	ID:	99308
+	Beschreibung:	triumph of Bacchus and Ariane in a chariot pulled by two centaurs; Bacchus naked with thyrsos staff; Ariane wearing long chiton
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus, Add.
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	81.03.0001
+Museum
+	Land:	US
+	Stadt:	Ann Arbor
+	Name:	Kelsey Museum of Archaeology, University of Michigan
+	Direktor:	Michelle Fontenot, Registrar
+	Adresse:	434 South State Street
+	Postleitzahl:	USA-
+	Kontaktzenter:	Kelsey Museum of Archaeology - University of Michigan
+	Stadt des Kontaktzenters:	Ann Arbor, Michigan 48109-1390
+	Rechteinhaber der Fotos:	© Kelsey Museum of Archaeology, University of Michigan
+	Hat die Fotorechte:	1

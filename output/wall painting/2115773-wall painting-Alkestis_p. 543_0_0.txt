@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-762846865b036-1
+Alkestis_p. 543_0_0
+
+
+
+Monument
+	ID:	45490
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Via Latina
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Alkestis
+	Bibliographie:	Kötzsche-Breitenbruch, L., Die neue Katakombe an der Via Latina in Rom, Jahrbuch f, Antike u. Christentum, Ergänzungsband 4 (1976) 42-45 pl. 1a.
+Szene
+	ID:	47888
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	p. 543
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Cub. M
+Museum
+	Land:	IT
+	Stadt:	Roma, Via Latina
+	Name:	Catacomba di Via Latina
+	Rechteinhaber der Fotos:	© Catacomba di Via Latina, Roma
+	Hat die Fotorechte:	1

@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-747722003e0b9-b
+Meleagros_ad 92_0_0
+Atalante_ad 35_0_0
+
+
+
+Monument
+	ID:	14924
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Atalante Meleagros
+	Beschreibung:	Atalante leans against a pillar, wearing petasos, long chiton, chlamys, sandals and holding two spears. Meleager is seated. The dead boar before them.
+Szene
+	ID:	15397
+	Beschreibung:	Atalante leans against a pillar, wearing petasos, long chiton, chlamys, sandals and holding two spears. Meleager is seated. The dead boar before them.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	ad 92
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Atalante
+	Katalognummer:	ad 35
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VII 3,13-15
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa del Doppio Larario

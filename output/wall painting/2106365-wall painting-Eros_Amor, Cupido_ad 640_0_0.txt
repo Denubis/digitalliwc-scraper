@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-75a1c6051a876-d
+Eros/Amor, Cupido_ad 640_0_0
+
+
+
+Monument
+	ID:	35992
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Eros/Amor, Cupido
+Szene
+	ID:	37832
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 640
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	127 B 73
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	Victoria and Albert Museum
+	Direktor:	Dir. Mark Jones
+	Anrede:	Dear Director,
+	Adresse:	Cromwell Rd, South  Kensington
+	Postleitzahl:	GB-
+	Kontaktzenter:	Victoria and Albert Museum
+	Stadt des Kontaktzenters:	London SW7 2RL
+	Rechteinhaber der Fotos:	© V&A Picture Library
+	Hat die Fotorechte:	1

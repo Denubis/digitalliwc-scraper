@@ -1,0 +1,76 @@
+http://ark.dasch.swiss/ark:/72163/080e-7433b97d49d62-e
+Osiris_31_0_0
+Isis_77_1_0
+Agathodaimon_7_1_0
+
+
+
+Monument
+	ID:	10175
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	Temple of Isis
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	crescent of the moon cista, kiste pschent
+	Name:	Agathodaimon Isis Osiris
+	Beschreibung:	Auffindung des Osiris. Cista zwischen zwei Schlangen.
+	Bibliographie:	Tran Tam Tinh, V., Le culte d'Isis à Pompéi (1964) no. 47 pl. 10, 1; Cantilena, R./Prisco, G. (Hsg.), Alla ricerca di Iside. Analisi, studi e restauri dell’Iseo pompejano nel Museo di Napoli (1992), 610, 60 Nr. 1.74; Merkelbach, R., Isis regina – Zeus Sarapis. (1995) 507 Abb. 26.
+	Kommentar:	Zu anderen Darstellungen im Isistempel siehe ID: 21619; 28263; 45813; 50195; 52591; 52812; 52818; 52837. 
+Datierung
+	Periode:	63 - 79 
+Epoche
+	Name:	2. Hälfte 1. Jh. n. Chr.
+	Periode:	50 - 100 
+	Sequenznummer:	3050
+Szene
+	ID:	10396
+	Beschreibung:	Auffindung des Osiris. Cista zwischen zwei Schlangen.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/10396X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/10396X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/10396X399.jpg
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	827
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Catalog LIMC
+	Artikel:	Osiris
+	Katalognummer:	31
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Isis
+	Katalognummer:	77
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Agathodaimon
+	Katalognummer:	7
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8929
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

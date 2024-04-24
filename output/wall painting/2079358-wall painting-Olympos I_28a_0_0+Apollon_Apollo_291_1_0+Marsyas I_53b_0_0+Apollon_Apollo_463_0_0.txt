@@ -1,0 +1,58 @@
+http://ark.dasch.swiss/ark:/72163/080e-741faa9fffebb-9
+Olympos I_28a_0_0
+Apollon/Apollo_291_1_0
+Marsyas I_53b_0_0
+Apollon/Apollo_463_0_0
+
+
+
+Monument
+	ID:	8755
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Olympos I Marsyas I
+	Beschreibung:	Olympos (I) pleads for Marsyas' life: Olympos (I) depicted as small boy, kneeling at Apollon's feet.
+Szene
+	ID:	8955
+	Beschreibung:	Olympos (I) pleads for Marsyas' life: Olympos (I) depicted as small boy, kneeling at Apollon's feet.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/8955X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Olympos I
+	Katalognummer:	28a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	291
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Marsyas I
+	Katalognummer:	53b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	463
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9539
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

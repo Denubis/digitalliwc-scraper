@@ -1,0 +1,66 @@
+http://ark.dasch.swiss/ark:/72163/080e-758e632bf18fa-5
+Eros/Amor, Cupido_96_1_0
+Adonis_39d_1_0
+
+
+
+Monument
+	ID:	34630
+	Entdeckungsort:	Blera
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	tree pillar boar basin dog hunt
+	Name:	Adonis Eros/Amor, Cupido Aphrodite/Venus
+	Bibliographie:	SarkRel III 1, 16 no. 14.
+Datierung
+	Periode:	190 - 210 
+Epoche
+	Name:	um 200 n. Chr.
+	Periode:	190 - 210 
+	Sequenznummer:	3270
+Szene
+	ID:	36431
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/blera/chiesa_santa_maria/36431X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/blera/chiesa_santa_maria/36431X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/blera/chiesa_santa_maria/36431X103.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/blera/chiesa_santa_maria/36431X104.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/blera/chiesa_santa_maria/36431X105.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/blera/chiesa_santa_maria/36431X201.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	96
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Adonis
+	Katalognummer:	39d
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Blera
+	Name:	Chiesa Santa Maria
+	Rechteinhaber der Fotos:	© Blera
+	Hat die Fotorechte:	0

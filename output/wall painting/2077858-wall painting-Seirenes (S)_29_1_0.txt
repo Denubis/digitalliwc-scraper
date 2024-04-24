@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-740a38bfa306f-d
+Seirenes (S)_29_1_0
+
+
+
+Monument
+	ID:	7242
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Seirenes
+	Beschreibung:	Seirenes as bases of candelabra.
+Szene
+	ID:	7391
+	Beschreibung:	Seirenes as bases of candelabra.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/providence/museum_of_art/rhode_island_school_of_design/7391X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/providence/museum_of_art/rhode_island_school_of_design/7391X299.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Seirenes (S)
+	Katalognummer:	29
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1938.058.2a.b
+Museum
+	Land:	US
+	Stadt:	Providence
+	Name:	Museum of Art, Rhode Island School of Design
+	Direktor:	Gina Borromeo, Curator 
+	Adresse:	224 Benefit Street
+	Postleitzahl:	USA-
+	Kontaktzenter:	Museum of Art, Rhode Island School of Design
+	Stadt des Kontaktzenters:	Providence, RI 02903
+	Rechteinhaber der Fotos:	Photography by Erik Gould, courtesy of the Museum of Art, Rhode Island School of Design, Providence
+	Hat die Fotorechte:	1

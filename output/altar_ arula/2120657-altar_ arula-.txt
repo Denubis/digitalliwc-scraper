@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-766e198ffc29a-4
+
+
+
+Monument
+	ID:	53840
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	I 4,5 (Casa del Citarista)
+	Objekt:	altar: arula
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	varia
+	Stichwort:	phiale, phiale mesomphalos, patera garland laurel branch bird altar: arula, portable altar guttus, gutus, guturnium, urceus
+	Name:	Eros
+	Grössenangabe:	H. 25,5 cm
+	Beschreibung:	Arula mit quadratischem Grundriss und  profilierter Stand- und Deckplatte mit pulvini sowie Reliefs an allen vier Seiten: Eroten mit Girlande, schnäbelnde Vögel, gekreuzte Lorbeerzweige, patera und gutus. Auf der Oberseite befinden sich rechteckige Eintiefungen zur Aufnahme von feuerfestem Material. 
+	Bibliographie:	Spinazzola, Pompei 299 Abb. 343. 357; Dräger, O., Religionem significare. Studien zu reich verzierten römischen Altären und Basen aus Marmor (1994)23 Anm. 61. 
+Datierung
+	Periode:	-60 - -40 
+Epoche
+	Name:	Mitte 1. Jh. v. Chr.
+	Periode:	-60 - -40 
+	Sequenznummer:	2870
+Szene
+	ID:	59239
+	Beschreibung:	Arula mit quadratischem Grundriss und profilierter Stand- und Deckplatte mit pulvini sowie Reliefs an allen vier Seiten: Eroten mit Girlande, schnäbelnde Vögel, gekreuzte Lorbeerzweige, patera und gutus. Auf der Oberseite befinden sich rechteckige Eintiefungen zur Aufnahme von feuerfestem Material.
+Catalog Thes CRA
+	Indexnummer:	536
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	110022
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

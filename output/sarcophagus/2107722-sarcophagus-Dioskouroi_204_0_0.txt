@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-75b52c8733db7-6
+Dioskouroi_204_0_0
+
+
+
+Monument
+	ID:	37362
+	Entdeckungsort:	Kul-Oba
+	Objekt:	sarcophagus
+	Material:	wood
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dioskouroi
+Szene
+	ID:	39274
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Dioskouroi
+	Katalognummer:	204
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	к-о 114
+Museum
+	Land:	RU
+	Stadt:	St. Petersburg
+	Name:	The State Hermitage Museum
+	Direktor:	Ms. Anastasia Mikliaeva, Head Rights & Reproductions
+	Adresse:	Dvortsovaya Nabereznaja 34
+	Postleitzahl:	190 000
+	Kontaktzenter:	The State Hermitage Museum
+	Stadt des Kontaktzenters:	St. Petersburg / Russia
+	Rechteinhaber der Fotos:	© The State Hermitage Museum, St. Petersburg
+	Kommentar:	Pour la céramique, les chiffres avec la lettre B se rapportent au catalogue d'O. Waldhauer (1914).
+	Hat die Fotorechte:	1

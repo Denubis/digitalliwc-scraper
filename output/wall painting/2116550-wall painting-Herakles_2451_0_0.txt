@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-76336247e3323-2
+Herakles_2451_0_0
+
+
+
+Monument
+	ID:	46274
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Via Latina
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Herakles
+	Beschreibung:	Herakles stands near a prostrate body of a man (Diomedes?).
+Szene
+	ID:	49170
+	Beschreibung:	Herakles stands near a prostrate body of a man (Diomedes?).
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2451
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Cub. N, sin.
+Museum
+	Land:	IT
+	Stadt:	Roma, Via Latina
+	Name:	Catacomba di Via Latina
+	Rechteinhaber der Fotos:	© Catacomba di Via Latina, Roma
+	Hat die Fotorechte:	1

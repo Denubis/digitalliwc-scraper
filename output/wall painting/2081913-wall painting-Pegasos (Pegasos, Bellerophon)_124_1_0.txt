@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-744431b6e93e2-a
+Pegasos (Pegasos, Bellerophon)_124_1_0
+
+
+
+Monument
+	ID:	11337
+	Entdeckungsort:	Ostia
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Pegasos
+Szene
+	ID:	11611
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/11611X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Pegasos (Pegasos, Bellerophon)
+	Katalognummer:	124
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	III, V, 1
+Museum
+	Land:	IT
+	Stadt:	Ostia
+	Direktor:	Dott.ssa Elvira Angeloni, Archivio Fotografico
+	Adresse:	Viale dei Romagnoli 717
+	Postleitzahl:	I-00119
+	Kontaktzenter:	Soprintendenza archeologica di Ostia
+	Stadt des Kontaktzenters:	Ostia Antica - Roma
+	Rechteinhaber der Fotos:	© Soprintendenza archeologica di Ostia
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Insula delle Volte dipinte

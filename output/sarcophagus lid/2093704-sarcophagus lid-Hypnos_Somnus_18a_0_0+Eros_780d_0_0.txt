@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ecc3cd9506d-4
+Hypnos/Somnus_18a_0_0
+Eros_780d_0_0
+
+
+
+Monument
+	ID:	23223
+	Objekt:	sarcophagus lid
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros Hypnos/Somnus
+Szene
+	ID:	24365
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	18a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros
+	Katalognummer:	780d
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	7873
+Museum
+	Land:	IT
+	Stadt:	Sassari
+	Name:	Museo Archeologico "Giovanni Antonio Sanna"
+	Rechteinhaber der Fotos:	© Polo Museale della Sardegna
+	Hat die Fotorechte:	1

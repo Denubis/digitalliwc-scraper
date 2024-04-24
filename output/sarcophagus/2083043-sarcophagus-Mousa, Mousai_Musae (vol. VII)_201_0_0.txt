@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-7454596be0b74-d
+Mousa, Mousai/Musae (vol. VII)_201_0_0
+
+
+
+Monument
+	ID:	12475
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Mousa, Mousai
+Szene
+	ID:	12776
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	201
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Catacomba di Pretestato
+	Rechteinhaber der Fotos:	© Catacomba di Pretestato, Roma
+	Hat die Fotorechte:	0

@@ -1,0 +1,30 @@
+http://ark.dasch.swiss/ark:/72163/080e-7589ab661a908-b
+Eros/Amor, Cupido_108_0_0
+
+
+
+Monument
+	ID:	34295
+	Entdeckungsort:	Ostia
+	Entdeckungsort Details:	Via Ostiense
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido
+Szene
+	ID:	36052
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	108
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Ostia
+	Name:	Necropoli della Via Ostiense
+	Rechteinhaber der Fotos:	© Necropoli della Via Ostiense
+	Hat die Fotorechte:	1

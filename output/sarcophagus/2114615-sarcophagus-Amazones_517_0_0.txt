@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-7617b85719718-2
+Amazones_517_0_0
+
+
+
+Monument
+	ID:	44312
+	Entdeckungsort:	Sparta (Laconia)
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	helmet double-axe, bipennis, labrys horse warrior, soldier Amazon fight, battle rider
+	Name:	Amazones
+	Beschreibung:	Fragment.
+	Bibliographie:	SarkRel II pl. 47 no. 113; Smith, BMSculpture III 314 fig. 42; Kallipolitis, B. G., Χρονολογικη κατα ταξις...(1958) no. 2; Giuliano, A., Il commercio dei sarcofagi attici (1962) 35 no. 100; Giuliano, A./ Palma, B., La maniera ateniese di età romana, StudMisc 24 (1978) 2 B VIII no. 2 pl. 21 52.
+	Museums-URL:	http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=459859&partId=1&searchText=2304&from=bc&fromDate=800&to=ad&toDate=400&page=1
+Datierung
+	Periode:	180 
+	Kommentar:	about
+Epoche
+	Name:	4. Viertel 2. Jh. n. Chr.
+	Periode:	175 - 200 
+	Sequenznummer:	3230
+Szene
+	ID:	46598
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	517
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2304
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	British Museum
+	Direktor:	Dr. Charles Arnold
+	Adresse:	Great Russell Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	British Museum - Greek and Roman Antiquities
+	Stadt des Kontaktzenters:	London WC 1B 3DG
+	Rechteinhaber der Fotos:	© British Museum, London
+	Hat die Fotorechte:	1

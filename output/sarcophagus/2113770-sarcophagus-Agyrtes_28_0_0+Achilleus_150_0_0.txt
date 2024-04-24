@@ -1,0 +1,55 @@
+http://ark.dasch.swiss/ark:/72163/080e-760ba3b5b8bd7-6
+Agyrtes_28_0_0
+Achilleus_150_0_0
+
+
+
+Monument
+	ID:	43454
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Porta Maggiore
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	helmet corselet trumpet, tuba, salpinx
+	Name:	Achilleus Agyrtes Eros/Amor, Cupido Odysseus Deidameia II
+	Bibliographie:	SarkRel II no. 39; Amelung,  SkulptVatMus II 310-312 no. 102 pl. 24; Baratte, F., MélRome 86 (1974) 794 fig. 11.
+Datierung
+	Periode:	270 - 280 
+Epoche
+	Name:	4. Viertel 3. Jh. n. Chr.
+	Periode:	275 - 300 
+	Sequenznummer:	3370
+Szene
+	ID:	45692
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/45692X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Agyrtes
+	Katalognummer:	28
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	150
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1078
+Museum
+	Land:	VA
+	Stadt:	Vaticano
+	Name:	Musei Vaticani
+	Direktor:	Direttore Dott. Antonio Paolucci
+	Anrede:	Chiarissimo Direttore,
+	Postleitzahl:	I-00120
+	Kontaktzenter:	Monumenti, Musei e Gallerie Pontificie
+	Stadt des Kontaktzenters:	Città del Vaticano
+	Rechteinhaber der Fotos:	© Musei Vaticani
+	Kommentar:	Sont réunis sous cette dénomination générique - compte tenu à la fois de leur numérotation unique et de leurs déplacements à l'intérieur des musées - les monuments conservés dans le Museo Chiaramonti, le Museo Gregoriano Etrusco, le Museo Gregoriano Profano, le Museo Pio Clementino et le Museo Pio Cristiano.  En revanche, la localisation spécifique a été conservée dans les cas suivants: Basilica San Pietro, Biblioteca Apostolica Vaticana (et Museo Profano, Museo Sacro, Sala delle Nozze Aldobrandine), Camposanto Teutonico, Giardini, Medagliere Vaticano, Museo Gregoriano Egizio, Necropoli sotto San Pietro.
+	Hat die Fotorechte:	0

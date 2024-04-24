@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-75336b1dab173-9
+Herakles_1117_1_0
+
+
+
+Monument
+	ID:	28208
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Herakles
+	Beschreibung:	Front side: Drunken Erotes, a herm of Herakles at each end.
+Szene
+	ID:	29613
+	Beschreibung:	Front side: Drunken Erotes, a herm of Herakles at each end.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/aquileia/museo_archeologico_nazionale/29613X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/aquileia/museo_archeologico_nazionale/29613X102.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	1117
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	185
+Museum
+	Land:	IT
+	Stadt:	Aquileia
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Soprintendente Dott.ssa Franca Maselli Scotti
+	Adresse:	Piazza della Libertà 72
+	Postleitzahl:	I-34132
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici del Friuli Venezia Giulia
+	Stadt des Kontaktzenters:	Trieste
+	Rechteinhaber der Fotos:	© Polo Museale del Friuli Venezia Giulia
+	Kommentar:	Les objets sans numéro d'inventaire sont cités d'après les numéros des catalogues de Sena Chiesa, G., Gemme del Museo Nazionale di Aquileia (1966)  et de Santa Maria Scrinari, V., Museo Archeologico di Aquileia. Catalogo delle sculture romane (1972).
+	Hat die Fotorechte:	1

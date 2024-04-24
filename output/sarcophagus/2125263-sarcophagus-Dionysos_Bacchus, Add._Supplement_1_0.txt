@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-76aff32499110-9
+Dionysos/Bacchus, Add._Supplement_1_0
+
+
+
+Monument
+	ID:	202310
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Beschreibung:	Bacchus and Ariane laying next to each other; Bacchus with thyrsos staff; Pan approaching; theater mask
+Szene
+	ID:	99307
+	Beschreibung:	Bacchus and Ariane laying next to each other; Bacchus with thyrsos staff; Pan approaching; theater mask
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus, Add.
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 3478
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-7624421685af9-f
+Amphion_14_1_0
+Achilleus_504_0_0
+
+
+
+Monument
+	ID:	45200
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 7,3
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	wreath, crown, stephane, corona phiale, phiale mesomphalos, patera jug bull sacrifice sacrificial assistant thymiaterion, turibulum, incense-burner seat, chair, sedes, sedile door horse youth
+	Name:	Achilleus Amphion Patroklos Zethos
+	Bibliographie:	Helbig, Wandgemälde no. 1389. 1411; Schefold, WP 99; Schefold, VergP 94. 195 pl. 55, 2. 57, 1.
+	Kommentar:	Schefold als Amphionund Zethos mit Stier gedeutet, falsch.
+Szene
+	ID:	47562
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/47562X002.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Amphion
+	Katalognummer:	14
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	504
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VI 7,3
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1

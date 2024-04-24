@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-74dbe170bb29c-e
+Horai/Horae_105_0_0
+
+
+
+Monument
+	ID:	22037
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Via Latina
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Horai/Horae
+	Beschreibung:	In the corners the heads of the Horae that grow out of acanthus leaf calyxes. Two of them remian: Summer, crowned with ears of corn and two young bulls alongside, and Autumn, with vine leaves and two panthers by her side.
+Datierung
+	Periode:	100 - 200 
+Szene
+	ID:	23049
+	Beschreibung:	In the corners the heads of the Horae that grow out of acanthus leaf calyxes. Two of them remian: Summer, crowned with ears of corn and two young bulls alongside, and Autumn, with vine leaves and two panthers by her side.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	105
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma, Via Latina
+	Name:	Tomba dei Pancratii ("Buntes Grab")
+	Rechteinhaber der Fotos:	© Roma
+	Hat die Fotorechte:	1

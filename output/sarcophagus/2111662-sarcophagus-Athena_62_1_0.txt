@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-75ed809a809ab-a
+Athena_62_1_0
+
+
+
+Monument
+	ID:	41330
+	Objekt:	sarcophagus
+	Material:	clay
+	Herkunft:	Klazomenai
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Athena
+	Museums-URL:	http://www.smb-digital.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=708246&viewType=detailView
+Szene
+	ID:	43431
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/berlin/staatliche_museen_zu_berlin/antikensammlung/43431X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Athena
+	Katalognummer:	62
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	V.I. 4824
+Museum
+	Land:	DE
+	Stadt:	Berlin
+	Name:	Staatliche Museen zu Berlin, Antikensammlung
+	Direktor:	Dir. Prof. Dr. Andreas Scholl
+	Anrede:	Sehr geehrter Herr Professor,
+	Adresse:	Bodestrasse 1-3
+	Postleitzahl:	D-10178
+	E-Mail:	ant@smb.spk-berlin.de
+	Kontaktzenter:	Antikensammlung, Staatliche Museen zu Berlin - Preussischer Kulturbesitz
+	Stadt des Kontaktzenters:	Berlin
+	Rechteinhaber der Fotos:	© Staatliche Museen zu Berlin, Antikensammlung
+	Hat die Fotorechte:	1

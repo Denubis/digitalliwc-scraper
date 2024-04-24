@@ -1,0 +1,214 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e5c79e5bde6-c
+Pygmaioi_47g_1_0
+Eros/Amor, Cupido_304_0_0
+Victoria_182_1_0
+Horai/Horae_21_0_0
+Gigantes_584_0_0
+Aktaion_114a_0_0
+Branchos_1_0_0
+Apollon/Apollo_281_1_0
+Apollon/Apollo_442_0_0
+Amphion_15b_0_0
+Zeus/Iuppiter_258_1_0
+Leda_72_0_0
+Achilleus_113a_0_0
+Achilleus_430_0_0
+Mercurius_223_0_1
+Galateia (vol. V)_14_0_1
+Hekate (vol. VI)_61_0_0
+Apollon/Apollo_293_0_0
+
+
+
+Monument
+	ID:	4672
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 4,48 (Casa della Caccia antica)
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	kerykeion, caduceus wreath, crown, stephane, corona altar lyre tripod temple lamb round temple dog liknon, vannus, winnowing-fan statue sacellum cow Giant
+	Name:	Achilleus Agamemnon Aktaion Amphion Apollon/Apollo Artemis Branchos Eros/Amor, Cupido Galateia Hekate Horai/Horae Leda Hermes/Mercurius Polyphemos I Pygmaioi Victoria Zeus/Iuppiter Argos I Gigantes Mercurius
+	Beschreibung:	Mural painting from Pompeji.
+	Bibliographie:	Schefold, WP 180-182; Herrmann, P., Text pag. 251 zu HBr Taf. 184; Dilthey, C., BdI (1869) 150.
+Datierung
+	Periode:	69 - 79 
+Epoche
+	Name:	vespasianisch
+	Periode:	69 - 79 
+	Sequenznummer:	1185
+Szene
+	ID:	13657
+	Szenerieangabe:	10
+	Beschreibung:	Flying Victoria, holding tropaeum.
+	Sequenznummer:	200
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/13657X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/13657X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/13657X204.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Pygmaioi
+	Katalognummer:	47g
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	304
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Victoria
+	Katalognummer:	182
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	26519
+	Szenerieangabe:	2
+	Beschreibung:	Two Horae. Autumn holding a basket and a wreath. Winter with a pole from which three ducks are suspended and a jar.
+	Sequenznummer:	120
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	21
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	32402
+	Szenerieangabe:	15
+	Beschreibung:	Branchos sitting on a rock and Apollon.
+	Bibliographie:	Schefold, WP 182, 15; Peters, W. J., Landscape in Romano-campanian Mural Painting (1963) 140 fig. 123.
+	Sequenznummer:	250
+	Name:	Aktaion Amphion Apollon/Apollo Artemis Branchos
+	Stichwort:	dog Giant
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/32402X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Gigantes
+	Katalognummer:	584
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aktaion
+	Katalognummer:	114a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Branchos
+	Katalognummer:	1
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	281
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	442
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amphion
+	Katalognummer:	15b
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49421
+	Szenerieangabe:	4
+	Sequenznummer:	140
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49421X002.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	258
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Leda
+	Katalognummer:	72
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49422
+	Szenerieangabe:	6
+	Beschreibung:	Mercurius with caduceus and mantle of Iuppiter.
+	Bibliographie:	RépPeint 96, 6; Helbig, Wandgemälde no. 360; Curtius, WP fig. 110; Schefold, WP 180-181; Kemp-Lindemann, D., Darstellungen des Achilleus in griechischer und römischer Kunst (1975) 129 Mooormann, E., La pittura parietale romana come fonte di conoscenza per la scultura antica (1988) no. 245, 2.
+	Sequenznummer:	160
+	Name:	Achilleus Agamemnon Hermes/Mercurius
+	Stichwort:	kerykeion, caduceus
+Datierung
+	Periode:	54 - 68 
+	Kommentar:	(Achilleus 430)
+Epoche
+	Name:	neronisch
+	Periode:	54 - 68 
+	Sequenznummer:	1170
+Datierung
+	Periode:	69 - 79 
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	113a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	430
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	223
+	Asterix:	0
+	Dot:	1
+Szene
+	ID:	49423
+	Szenerieangabe:	12
+	Beschreibung:	a. (W-Wand, Süd) Diverse Heiligtümer in Uferlandschaft. Polyphemos und Galateia.b. (W-Wand, Nord) Sakrallandschaft mit Isis-Rundtempel, vannus mystica, Apollo- und Dianastatue; im Vordergrund bekränzter, mit Fell umgürteter Jüngling, der ein Lamm zu einem Altar führt.
+	Bibliographie:	a. Schefold, WP 182;Dawson, C.M., Romano-Campanian Mythological Landscape Painting (YaleClSt 9, 1944) 111 Nr. 64 Taf. 24;PompPittMos VII (1997) 33-35; 46.b. Helbig, Wandmalerei Nr. 1555;Reinach, RepPeint 392, 5;Schefold, WP 181-182;PompPittMos VII (1997) 33-35, 47 (andere Deutung: "una tholos, pastore con capre").
+	Kommentar:	a. Neg. DAI Rom w 24 (besser als Reinach-Zeichnung im LIMC).
+	Sequenznummer:	220
+Catalog LIMC
+	Artikel:	Galateia (vol. V)
+	Katalognummer:	14
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Hekate (vol. VI)
+	Katalognummer:	61
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	293
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VII 4,48
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa della Caccia antica

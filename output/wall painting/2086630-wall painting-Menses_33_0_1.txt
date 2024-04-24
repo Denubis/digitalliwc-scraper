@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-7487a18bbe2c3-3
+Menses_33_0_1
+
+
+
+Monument
+	ID:	16087
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	house
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Menses
+	Beschreibung:	Fragmentary fresco calendar from a porticoed building under the Church of Santa Maria Maggiore in Rome. Painted frieze in which each month had not only a panel of fasti and brief notations of appropriate agricultural operations, but was also illustrated by zodiacal signs and a tableau of rural scenes. The scenes of two Menses are sufficiently preserved to identify them partially: September picking apples and November gathering olives and ploughing fields.
+Datierung
+	Periode:	225 - 300 
+Szene
+	ID:	16697
+	Beschreibung:	Painted frieze in which each month had not only a panel of fasti and brief notations of appropriate agricultural operations, but was also illustrated by zodiacal signs and a tableau of rural scenes. The scenes of two Menses are sufficiently preserved to identify them partially: September picking apples and November gathering olives and ploughing fields.
+	Sequenznummer:	1
+Catalog Thes CRA
+	Indexnummer:	1
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VI. 2.a. Ackerbau, röm.
+	Bandnummer:	6
+Catalog LIMC
+	Artikel:	Menses
+	Katalognummer:	33
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Santa Maria Maggiore
+	Rechteinhaber der Fotos:	© Soprindentenza SPSAE e Polo Museale della Città di Roma
+	Hat die Fotorechte:	0

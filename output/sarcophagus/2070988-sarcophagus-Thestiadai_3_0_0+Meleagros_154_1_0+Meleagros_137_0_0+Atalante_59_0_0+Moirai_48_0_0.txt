@@ -1,0 +1,61 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a8011d55bc1-8
+Thestiadai_3_0_0
+Meleagros_154_1_0
+Meleagros_137_0_0
+Atalante_59_0_0
+Moirai_48_0_0
+
+
+
+Monument
+	ID:	304
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Atalante Meleagros Thestiadai Moirai
+	Beschreibung:	Atalante stands behind Meleager's bier, facing away from it, her hand raised to her head. She wears a short chiton, chlamys and boots, and a dog is at her feet. The scene to the far left has a male figure between Melegaros and attacking Thestiadai.
+Datierung
+	Periode:	180 
+Szene
+	ID:	94
+	Beschreibung:	Atalante stands behind Meleager's bier, facing away from it, her hand raised to her head. She wears a short chiton, chlamys and boots, and a dog is at her feet. The scene to the far left has a male figure between Melegaros and attacking Thestiadai.
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/wilton_house/94X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Thestiadai
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	154
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	137
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Atalante
+	Katalognummer:	59
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Moirai
+	Katalognummer:	48
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Michaelis 61
+Museum
+	Land:	GB
+	Stadt:	Wilton House
+	Rechteinhaber der Fotos:	© Wilton House
+	Hat die Fotorechte:	1

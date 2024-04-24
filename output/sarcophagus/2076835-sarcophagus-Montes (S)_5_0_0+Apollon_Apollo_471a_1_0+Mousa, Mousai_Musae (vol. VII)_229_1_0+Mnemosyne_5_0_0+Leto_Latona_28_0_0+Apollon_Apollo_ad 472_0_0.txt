@@ -1,0 +1,82 @@
+http://ark.dasch.swiss/ark:/72163/080e-73fb98a722234-3
+Montes (S)_5_0_0
+Apollon/Apollo_471a_1_0
+Mousa, Mousai/Musae (vol. VII)_229_1_0
+Mnemosyne_5_0_0
+Leto/Latona_28_0_0
+Apollon/Apollo_ad 472_0_0
+
+
+
+Monument
+	ID:	6213
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Via Aurelia
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Apollon/Apollo Montes Mousa, Mousai Leto/Latona
+	Beschreibung:	Main side: Musical competition between Apollon and Marsyas in the presence of a river-god and of a mountain-god (Mons); on the left side: seated Apollo with kythara and Mnemosyne. Latona frontal.
+	Monument-URL:	http://www.limc-france.fr/objet/13780
+Datierung
+	Periode:	290 - 300 
+Szene
+	ID:	6337
+	Beschreibung:	Main side: Musical competition between Apollon and Marsyas in the presence of a river-god and of a mountain-god (Mons); on the left side: seated Apollo with kythara and Mnemosyne. Latona frontal.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/6337X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/6337X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/6337X007.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/6337X203.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Montes (S)
+	Katalognummer:	5
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	471a
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	229
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mnemosyne
+	Katalognummer:	5
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Leto/Latona
+	Katalognummer:	28
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	ad 472
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 2347
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

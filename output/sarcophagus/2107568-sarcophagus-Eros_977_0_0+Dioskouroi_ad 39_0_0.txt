@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-75b2f8e69c535-e
+Eros_977_0_0
+Dioskouroi_ad 39_0_0
+
+
+
+Monument
+	ID:	37207
+	Entdeckungsort:	Konya
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dioskouroi Eros
+Szene
+	ID:	39106
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Eros
+	Katalognummer:	977
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dioskouroi
+	Katalognummer:	ad 39
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1179
+Museum
+	Land:	TR
+	Stadt:	Istanbul
+	Name:	Musée Archéologique
+	Direktor:	Mme le Dr  Pascale Linant de Bellefonds
+	Anrede:	Sehr geehrter Herr Dr. Posamentir,
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-92023
+	Kontaktzenter:	Université Paris X - Nanterre Maison de l'Archéologie / Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Archaeological Museum Istanbul
+	Hat die Fotorechte:	1

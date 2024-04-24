@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-744444039b0bb-d
+Pegasos (Pegasos, Bellerophon)_126_0_0
+
+
+
+Monument
+	ID:	11342
+	Entdeckungsort:	Athens
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Pegasos
+Szene
+	ID:	11617
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/athens/national_archaeological_museum/11617X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/athens/national_archaeological_museum/11617X102.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Pegasos (Pegasos, Bellerophon)
+	Katalognummer:	126
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	5701
+Museum
+	Land:	GR
+	Stadt:	Athens
+	Name:	National Archaeological Museum
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Anrede:	Dear Director,
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© National Archaeological Museum, Athens
+	Kommentar:	Pour les intailles de la collection Karapanos voir Musée Numismatique.  Inv. VS = ancienne collection Vlastos-Serpieri.
+	Hat die Fotorechte:	1

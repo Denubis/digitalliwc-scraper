@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ee391d59ceb-e
+Kairoi/Tempora anni_70_1_0
+
+
+
+Monument
+	ID:	23325
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kairoi/Tempora anni
+	Beschreibung:	Couple in clipeus, below masks. Left and right four Erotes (Seasons) with seasonal attributes.
+Datierung
+	Periode:	200 
+Szene
+	ID:	24469
+	Beschreibung:	Couple in clipeus, below masks. Left and right four Erotes (Seasons) with seasonal attributes.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pisa/camposanto_monumentale/24469X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pisa/camposanto_monumentale/24469X204.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pisa/camposanto_monumentale/24469X298.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pisa/camposanto_monumentale/24469X299.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	70
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	B 2 est.
+Museum
+	Land:	IT
+	Stadt:	Pisa
+	Name:	Camposanto Monumentale
+	Rechteinhaber der Fotos:	© Camposanto Monumentale, Pisa
+	Kommentar:	Numéros d'après Camposanto monumentale di Pisa. Le antichità I-II (1977-1984).
+	Hat die Fotorechte:	0

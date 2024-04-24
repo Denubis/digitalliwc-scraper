@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-73f38123b60a6-b
+Melqart (S)_16_0_0
+
+
+
+Monument
+	ID:	5640
+	Entdeckungsort:	Tyre
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Melqart
+Szene
+	ID:	5736
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Melqart (S)
+	Katalognummer:	16
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	TR
+	Stadt:	Istanbul
+	Name:	Musée Archéologique
+	Direktor:	Mme le Dr  Pascale Linant de Bellefonds
+	Anrede:	Sehr geehrter Herr Dr. Posamentir,
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-92023
+	Kontaktzenter:	Université Paris X - Nanterre Maison de l'Archéologie / Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Archaeological Museum Istanbul
+	Hat die Fotorechte:	1

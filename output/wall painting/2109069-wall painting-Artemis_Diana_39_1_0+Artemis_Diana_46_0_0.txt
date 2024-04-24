@@ -1,0 +1,65 @@
+http://ark.dasch.swiss/ark:/72163/080e-75c86e6fe9946-8
+Artemis/Diana_39_1_0
+Artemis/Diana_46_0_0
+
+
+
+Monument
+	ID:	38718
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Palatine
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	tree garland cult image, cult statue ram head baluster exedra stag head boar head
+	Name:	Artemis/Diana
+	Beschreibung:	Dianaheiligtum: An einem Baluster sind Köpfe von Hirsch, Steinbock und Keiler befestigt, Rundscheibe an der Spitze. Auf der Exedra dahinter drei kleine (aus Bronze ?) Diana-Statuen, jede mit Fackeln in den Händen. Im Vordergrund unter einer Brücke schwimmende Enten.
+	Bibliographie:	Rizzo, G. E., Le pitture della “Casa di Livia” MonPitt III Roma III (1936) 57-58 Abb. 35.37; Nash, TopRom I Abb. 373; Simon, Götter 167 Abb. 149; Fehrentz, V., JdI 108,1993, 159 Abb.17; Reeder, J.C., Agyieus and Baluster. Aniconic Monuments in Roman Art (1995) 59-60,. 267 Abb. 7.
+Datierung
+	Kommentar:	um v. Chr.
+Epoche
+	Name:	Jahr 1
+	Periode:	1 
+Szene
+	ID:	40729
+	Beschreibung:	Dianaheiligtum: An einem Baluster sind Köpfe von Hirsch, Steinbock und Keiler befestigt, Rundscheibe an der Spitze. Auf der Exedra dahinter drei kleine (aus Bronze ?) Diana-Statuen, jede mit Fackeln in den Händen. Im Vordergrund unter einer Brücke schwimmende Enten.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palatino/casa_di_livia/40729X201.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	119
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	IV. 1.b. Kultorte (Darstellungen)
+	Sequenznummer:	4500
+	Bandnummer:	4
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	39
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	46
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palatino, Casa di Livia
+	Direktor:	Soprintendente Prof. Adriano La Regina
+	Adresse:	Piazza delle Finanze 1
+	Postleitzahl:	I-0015
+	Kontaktzenter:	Soprintendenza alle Antichità
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza alle Antichità, Roma
+	Hat die Fotorechte:	1

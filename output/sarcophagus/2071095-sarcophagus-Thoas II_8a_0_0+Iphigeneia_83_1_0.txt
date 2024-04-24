@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a988b9cc518-1
+Thoas II_8a_0_0
+Iphigeneia_83_1_0
+
+
+
+Monument
+	ID:	415
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Iphigeneia Thoas II
+	Beschreibung:	Scene on the right: Thoas (II) seated, with sceptre, looking at Iphigeneia, Orestes and Pylades.
+	Monument-URL:	arachne.dainst.org/entity/1120951
+Szene
+	ID:	200
+	Beschreibung:	Scene on the right: Thoas (II) seated, with sceptre, looking at Iphigeneia, Orestes and Pylades.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Thoas II
+	Katalognummer:	8a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iphigeneia
+	Katalognummer:	83
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Sk 845
+Museum
+	Land:	DE
+	Stadt:	Berlin
+	Name:	Staatliche Museen zu Berlin, Antikensammlung
+	Direktor:	Dir. Prof. Dr. Andreas Scholl
+	Anrede:	Sehr geehrter Herr Professor,
+	Adresse:	Bodestrasse 1-3
+	Postleitzahl:	D-10178
+	E-Mail:	ant@smb.spk-berlin.de
+	Kontaktzenter:	Antikensammlung, Staatliche Museen zu Berlin - Preussischer Kulturbesitz
+	Stadt des Kontaktzenters:	Berlin
+	Rechteinhaber der Fotos:	© Staatliche Museen zu Berlin, Antikensammlung
+	Hat die Fotorechte:	1

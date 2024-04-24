@@ -1,0 +1,79 @@
+http://ark.dasch.swiss/ark:/72163/080e-74950e3560c5a-8
+Herakles_1756a_1_0
+Herakles_1985_0_0
+Herakles_2213_0_0
+Herakles_2521_0_0
+Amazones_152_0_0
+
+
+
+Monument
+	ID:	17042
+	Entdeckungsort:	Pompei
+	Objekt:	cup
+	Material:	silver
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	toreutics
+	Stichwort:	club horse rider
+	Name:	Herakles Amazones
+	Beschreibung:	Labours of Herakles: Lion, Geryoneus, Antaios, Deer, Amazon, Hydra.
+	Bibliographie:	Maiuri, A., La casa di Menandro (1933) no. 3 pl. 27.
+Datierung
+	Periode:	-100 - -1 
+Epoche
+	Name:	1. Jh. v. Chr.
+	Periode:	-100 - -1 
+	Sequenznummer:	2850
+Szene
+	ID:	17727
+	Beschreibung:	Labours of Herakles: Lion, Geryoneus, Antaios, Deer, Amazon, Hydra.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/17727X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/17727X002.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	1756a
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	1985
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2213
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2521
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	152
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	145507
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

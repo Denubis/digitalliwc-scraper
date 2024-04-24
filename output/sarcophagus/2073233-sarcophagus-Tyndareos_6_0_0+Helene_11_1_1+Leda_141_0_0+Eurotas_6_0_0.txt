@@ -1,0 +1,55 @@
+http://ark.dasch.swiss/ark:/72163/080e-73c819a12f45a-2
+Tyndareos_6_0_0
+Helene_11_1_1
+Leda_141_0_0
+Eurotas_6_0_0
+
+
+
+Monument
+	ID:	2588
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eurotas Helene Leda Tyndareos
+	Beschreibung:	Leda and the swan. Depiction of the birth of Helene. Tyndareos standing in front of the bed of Leda. To the left, below, reclined Eurotas watching the scene with surprise. In the background a ship.
+Szene
+	ID:	2609
+	Beschreibung:	Leda and the swan. Depiction of the birth of Helene. Tyndareos standing in front of the bed of Leda. To the left, below, reclined Eurotas watching the scene with surprise. In the background a ship.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Tyndareos
+	Katalognummer:	6
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helene
+	Katalognummer:	11
+	Asterix:	1
+	Dot:	1
+Catalog LIMC
+	Artikel:	Leda
+	Katalognummer:	141
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eurotas
+	Katalognummer:	6
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	FR
+	Stadt:	Aix-en-Provence
+	Name:	Musée Granet
+	Direktor:	M. le Directeur
+	Adresse:	Pl. Saint-Jean-de-Malte
+	Postleitzahl:	F-13100
+	Kontaktzenter:	Musée Granet
+	Stadt des Kontaktzenters:	Aix-en-Provence
+	Rechteinhaber der Fotos:	© Musée Granet, Aix-en-Provence
+	Hat die Fotorechte:	0

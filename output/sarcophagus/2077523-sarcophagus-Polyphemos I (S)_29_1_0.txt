@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-74056ead1a3a4-3
+Polyphemos I (S)_29_1_0
+
+
+
+Monument
+	ID:	6904
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Polyphemos I
+	Kommentar:	Gleich wie Odysseus 98, Fiche 18400.
+Szene
+	ID:	7050
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/catania/museo_civico_del_castello_ursino/7050X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/catania/museo_civico_del_castello_ursino/7050X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/catania/museo_civico_del_castello_ursino/7050X103.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Polyphemos I (S)
+	Katalognummer:	29
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Catania
+	Name:	Museo Civico del Castello Ursino
+	Direktor:	Dir. Dott.ssa Anna Quartarone
+	Adresse:	Piazza Federico di Svevia
+	Postleitzahl:	I-95100
+	Kontaktzenter:	Museo Civico del Castello Ursino
+	Stadt des Kontaktzenters:	Catania
+	Rechteinhaber der Fotos:	© Museo Civico del Castello Ursino, Catania
+	Hat die Fotorechte:	1

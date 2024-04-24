@@ -1,0 +1,80 @@
+http://ark.dasch.swiss/ark:/72163/080e-73bfcee09e206-e
+Zeus/Iuppiter_327_0_0
+Mercurius_343_1_0
+Rea Silvia_16_0_0
+Vulcanus_68a_0_0
+Ares/Mars_401a_0_0
+Artemis/Diana_302_0_0
+Hypnos/Somnus_129_1_0
+
+
+
+Monument
+	ID:	2002
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Ares/Mars Artemis/Diana Hypnos/Somnus Mercurius Rea Silvia Vulcanus Zeus/Iuppiter Mercurius
+	Beschreibung:	Mars approaching the sleeping Rea Silvia. Scene watched by a series of gods: Mercurius with caduceus, Venus, Vulcanus, Iuppiter.
+Szene
+	ID:	1952
+	Beschreibung:	Mars approaching the sleeping Rea Silvia. Scene watched by a series of gods: Mercurius with caduceus, Venus, Vulcanus, Iuppiter.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_mattei_di_giove/1952X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_mattei_di_giove/1952X002.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	327
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	343
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Rea Silvia
+	Katalognummer:	16
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Vulcanus
+	Katalognummer:	68a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ares/Mars
+	Katalognummer:	401a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	302
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	129
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	60
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Mattei di Giove
+	Direktor:	Soprintendente Arch. Costantino Centroni
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Cavalletti 2
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza per i Beni Ambientali Architettonici del Lazio
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Ambientali Architettonici del Lazio
+	Kommentar:	Numéros d'après Guerrini, L. (éd.), Palazzo Mattei di Giove. Le antichità (1982).
+	Hat die Fotorechte:	1

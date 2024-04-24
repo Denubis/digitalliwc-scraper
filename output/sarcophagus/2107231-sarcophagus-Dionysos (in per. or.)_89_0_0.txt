@@ -1,0 +1,27 @@
+http://ark.dasch.swiss/ark:/72163/080e-75ae278232ce0-7
+Dionysos (in per. or.)_89_0_0
+
+
+
+Monument
+	ID:	36863
+	Objekt:	sarcophagus
+	Material:	lead
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dionysos
+Szene
+	ID:	38753
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Dionysos (in per. or.)
+	Katalognummer:	89
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IL
+	Stadt:	Galilée
+	Rechteinhaber der Fotos:	© Galilée
+	Hat die Fotorechte:	0

@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-747b525b57b32-f
+Nereides_152_0_0
+
+
+
+Monument
+	ID:	15221
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Nereides
+Szene
+	ID:	15704
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Nereides
+	Katalognummer:	152
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Catacomba di Pretestato
+	Rechteinhaber der Fotos:	© Catacomba di Pretestato, Roma
+	Hat die Fotorechte:	0

@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-766c5eb66087d-a
+
+
+
+Monument
+	ID:	53714
+	Entdeckungsort:	Palmyra, Tadmur
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	altar phiale, phiale mesomphalos, patera jug knife fire (on altar) pillar libation priest sacrificial assistant volumen, scroll kanoun, offering basket camillus incense box, libanotis, acerra fruit towel, mantele, mappa modius bowl bird pollubrum, trulleum neat, cattle, bovine chest, small box
+	Beschreibung:	-Vs.: Opferszene. Zwei bärtige Männer mit Schriftrollen libieren aus Kannen auf niedrigen Altar; dahinter zwei auf Tüchern ruhende Priester-Modii auf einem Pfeiler. Weiterhin zwei ruhig stehende Frauen; an den Seiten zwei langlockige Opferdiener in Chiton mit Reif auf Untersatz/Kästchen bzw. Schüssel voller Früchte. -Rs.: Opferdarstellung. Zentral libiert ein Mann mit Schriftrolle capite  mit Phiale auf einen brennenden Altar. Links und rechts davon stehen zwei Pfeilern mit modii. Auf der r. Seite bringen zwei Opferdiener Opfergut herbei, zum beispiel ein flaches Kanoun mit Früchten und einen Wasservogel. Ganz r. ein weiterer Opferdiener mit  Kanne und Mantele über der linken Schulter. Links neben dem Altar steht weiterer Gehilfe mit Acerra, gefolgt von einem Opferdiener mit Kanne und Griffschale. Ganz l. ein Diener mit Messer, ein Rind am Horn führend.
+	Bibliographie:	Rumscheid, J., Kranz und Krone, IstFors 43 (2000) Kat. 271 Taf. 64, 2; 65, 1; Kaizer, T., The Religious Life of Palmyra. A Study of the Social Patterns of Worship in the Roman Period (2002) 180 f. Taf. 5. 6; Schmidt-Colinet, A., JRA 16 (2003) 672.
+	Kommentar:	Sollte bald mal publiziert werden.
+Datierung
+	Periode:	200 - 250 
+Epoche
+	Name:	1. Hälfte 3. Jh. n. Chr.
+	Periode:	200 - 250 
+	Sequenznummer:	3320
+Szene
+	ID:	59107
+	Beschreibung:	-Vs.: Opferszene. Zwei bärtige Männer mit Schriftrollen libieren aus Kannen auf niedrigen Altar; dahinter zwei auf Tüchern ruhende Priester-Modii auf einem Pfeiler. Weiterhin zwei ruhig stehende Frauen; an den Seiten zwei langlockige Opferdiener in Chiton mit Reif auf Untersatz/Kästchen bzw. Schüssel voller Früchte. -Rs.: Opferdarstellung. Zentral libiert ein Mann mit Schriftrolle capite mit Phiale auf einen brennenden Altar. Links und rechts davon stehen zwei Pfeilern mit modii. Auf der r. Seite bringen zwei Opferdiener Opfergut herbei, zum beispiel ein flaches Kanoun mit Früchten und einen Wasservogel. Ganz r. ein weiterer Opferdiener mit Kanne und Mantele über der linken Schulter. Links neben dem Altar steht weiterer Gehilfe mit Acerra, gefolgt von einem Opferdiener mit Kanne und Griffschale. Ganz l. ein Diener mit Messer, ein Rind am Horn führend.
+Catalog Thes CRA
+	Indexnummer:	49
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2723B/9160
+Museum
+	Land:	SY
+	Stadt:	Palmyre
+	Name:	Musée Archéologique
+	Direktor:	Mme le Dr. Pascale Linant de Bellefonds
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-92023
+	Kontaktzenter:	Université Paris X - Nanterre Maison de l'Archéologie / Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Musée Archéologique Palmyra
+	Hat die Fotorechte:	1

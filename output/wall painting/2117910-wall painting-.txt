@@ -1,0 +1,73 @@
+http://ark.dasch.swiss/ark:/72163/080e-7646d3c4cd9b3-3
+
+
+
+Monument
+	ID:	50896
+	Entdeckungsort:	Boscoreale
+	Entdeckungsort Details:	Villa of P. Fannius Synistor
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	column round temple sanctuary thymiaterion, turibulum, incense-burner pine tree pomegranate offering rotunda, tholos roofed colonade (stoa, porticus) stemma, infula, band of wool propylaia, propylon, gateway, entrance laurel wreath architecture capital: Corinthian
+	Name:	Hekate Luna
+	Beschreibung:	Cubiculum der Villa von Boscoreale: Propylon gibt über Scherwände hinweg Durchblick auf Sakralbezirk mit Kolonnaden und Tholos (goldverzierte Säulen mit korinthischen Kapitellen, reichgeschmücktes Gebälk, pagodenartiges Dach. Hier re Seitenwand des Alkovens mit Opfer an Luna (Loerbeerkranz, Granatäpfel);auf der linken Seite des Alkovens ähnliche Darstellung eines Monopteros in einem Säulenhof, dort Opfer an Hekate (Wollbinde, Granatäpfel, Pinien).
+	Bibliographie:	Bieber, M., The History of the Greek and Roman Theater (1967 [2]) 124 fig. 471. Lehmann, Ph. W., Roman Wall Paintings from Boscoreale in the Metropolitan Museum of Art (1953) 89-90. 118-125. 157 Taf. 18. 33A , Taf. 19. 33B; Engemann, J., Architekturdarstellungen des frühen zweiten Stils. Illusionistische römische Wandmalerei der ersten Phase und ihre Vorbilder in der realen Architektur, RM Erg.-H. 12 (1967) Taf. 36 (gegen den Einfluss von Skenographie); Ross Holloway, R., RendPontACC 62 (1989/90) 108-111 Abb. 3; Weber, M. Baldachine und Statuenschreine (1990) 108. 221 M 9 Taf. 54, 203.
+	Museums-URL:	http://www.metmuseum.org/art/collection/search/247017
+Datierung
+	Periode:	-50 
+Epoche
+	Name:	Mitte 1. Jh. v. Chr.
+	Periode:	-60 - -40 
+	Sequenznummer:	2870
+Szene
+	ID:	56057
+	Szenerieangabe:	cubiculum
+	Beschreibung:	Rechte Seitenwand: Propylon mit Durchblick auf Sakralbezirk mit Kolonnaden und Tholos (Säulen mit korinthischen Kapitellen, reiches Gebälk, pagodenartiges Dach).Linke Seitenwand: Monopteros in einem Säulenhof.
+	Bibliographie:	Lehmann, a.O. 27d, 89-90. 118-125. 157 Taf. 19.33; Engemann Taf. 36; Ross Holloway, R., RendPontAcc 62 (1989/90) 108-111; Weber 108. 221 M 9 Taf. 54, 203.
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	56
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 2.c. Rauchopfer
+	Sequenznummer:	400
+	Bandnummer:	1
+Catalog Thes CRA
+	Indexnummer:	28
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	IV. 1.b. Kultorte (Darstellungen)
+	Sequenznummer:	4500
+	Bandnummer:	4
+Catalog Thes CRA
+	Indexnummer:	28
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA
+	Indexnummer:	472
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	03.14.13
+Museum
+	Land:	US
+	Stadt:	New York
+	Name:	Metropolitan Museum of Art
+	Direktor:	Eileen Sullivan, Assistant Museum Librarian
+	Anrede:	Dear Ms Sullivan,
+	Adresse:	1000 Fifth Avenue at 82nd Street
+	Postleitzahl:	USA-
+	Kontaktzenter:	The Metropolitan Museum of Art                          The Photograph Library
+	Stadt des Kontaktzenters:	New York, NY 10028-0198
+	Rechteinhaber der Fotos:	© Metropolitan Museum of Art
+	Hat die Fotorechte:	1

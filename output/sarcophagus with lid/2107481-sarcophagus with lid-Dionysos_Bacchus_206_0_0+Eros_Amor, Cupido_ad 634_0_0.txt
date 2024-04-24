@@ -1,0 +1,66 @@
+http://ark.dasch.swiss/ark:/72163/080e-75b1ba7cecf42-4
+Dionysos/Bacchus_206_0_0
+Eros/Amor, Cupido_ad 634_0_0
+
+
+
+Monument
+	ID:	37119
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Vigna Casali
+	Objekt:	sarcophagus with lid
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dionysos/Bacchus Ariadne Eros/Amor, Cupido
+	Beschreibung:	Knieende Frau, die gerade den Deckel einer cista mystica anhebt. Szene flankiert von einer ein Liknon enthüllenden Frau und einem Satyr im Gestus des Aposkopein.  Bacchus and Ariadne watching the fight between Pan and Eros, a second Eros and a silen as jugdes, on the left of Bacchus Hermes Enagonios.
+	Bibliographie:	Ostergaard, J. S., Catalogue Imperial Rome (1996) 96-97 no. 42
+Szene
+	ID:	39017
+	Beschreibung:	Knieende Frau, die gerade den Deckel einer cista mystica anhebt. Szene flankiert von einer ein Liknon enthüllenden Frau und einem Satyr im Gestus des Aposkopein.  Bacchus and Ariadne watching the fight between Pan and Eros, a second Eros and a silen as jugdes, on the left of Bacchus Hermes Enagonios.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/denmark/copenhague/glyptotheque_ny_carlsberg/39017X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/denmark/copenhague/glyptotheque_ny_carlsberg/39017X102.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	825
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	206
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 634
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	843
+Museum
+	Land:	DK
+	Stadt:	Copenhague
+	Name:	Glyptothèque Ny Carlsberg
+	Direktor:	Curator Claus Grønne
+	Anrede:	Dear Curator,
+	Adresse:	Dantes Pl. 7
+	Postleitzahl:	DK-1556
+	Kontaktzenter:	Archives and Library. Glyptothèque Ny Carlsberg
+	Stadt des Kontaktzenters:	Copenhague V
+	Rechteinhaber der Fotos:	© Ny Carlsberg Glyptothek
+	Hat die Fotorechte:	1

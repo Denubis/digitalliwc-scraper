@@ -1,0 +1,57 @@
+http://ark.dasch.swiss/ark:/72163/080e-73efa14d4451b-4
+Tritones_ad 33_0_0
+Pan (S)_140_1_0
+
+
+
+Monument
+	ID:	5364
+	Entdeckungsort:	Pompei
+	Objekt:	oscillum
+	Material:	marble
+	Herkunft:	Italy
+	Land:	CH
+	Künstler:	unknown
+	Kategorie:	relief
+	Stichwort:	altar fire (on altar) fruit Triton
+	Name:	Pan Tritones
+	Grössenangabe:	D: 24,2 cm
+	Beschreibung:	(A): Pan walking to the right: He carries a basket with fruit. In the lowered right hand an apple. He is approching an altar on which a fire is burning.(B): Triton
+	Bibliographie:	Guides to the National Museum, Greece, Italy and the Roman Empire (1968) 109
+Datierung
+	Periode:	1 - 100 
+Epoche
+	Name:	1. Jh. n. Chr.
+	Periode:	1 - 100 
+	Sequenznummer:	3000
+Szene
+	ID:	5456
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/denmark/copenhague/musee_national/5456X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Tritones
+	Katalognummer:	ad 33
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Pan (S)
+	Katalognummer:	140
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Chr VIII 801
+Museum
+	Land:	DK
+	Stadt:	Copenhague
+	Name:	Musée National
+	Anrede:	Dear Curator,
+	Adresse:	Frederiksholms Kanal 12
+	Postleitzahl:	DK-1220
+	Kontaktzenter:	The National Museum of Danemark
+	Stadt des Kontaktzenters:	Copenhague
+	Rechteinhaber der Fotos:	© The National Museum of Danemark
+	Hat die Fotorechte:	1

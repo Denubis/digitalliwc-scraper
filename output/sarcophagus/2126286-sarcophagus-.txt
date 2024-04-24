@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-76be933d19f4b-3
+
+
+
+Monument
+	ID:	203262
+	Entdeckungsort:	Chiusi, Camars, Clevsin, Clusium
+	Objekt:	sarcophagus
+	Material:	pietra fetida
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	relief
+	Beschreibung:	A: Three men sitting on a podium, judges rewarding the winning athletes of the competitions; before the podium male figures (the athletes), an armed dancer, musicians, a javelin thrower. Date: second quarter of the 5th c. BC.
+	Bibliographie:	Jannot, J.-R., Les reliefs archaïques de Chiusi (1984) 48-49 C1 8b fig. 171-173.
+Szene
+	ID:	100306
+	Beschreibung:	A: Three men sitting on a podium, judges rewarding the winning athletes of the competitions; before the podium male figures (the athletes), an armed dancer, musicians, a javelin thrower. Date: second quarter of the 5th c. BC.
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	15
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VII. 3. Feste und Spiele, etr.
+	Bandnummer:	7
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8385
+Museum
+	Land:	IT
+	Stadt:	Palermo
+	Name:	Museo Archeologico Regionale "A. Salinas"
+	Direktor:	Dir. Dott.ssa Giuseppina Favara
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Piazza Olivella 24
+	Postleitzahl:	I-90100
+	Kontaktzenter:	Museo Archeologico Regionale "A. Salinas"
+	Stadt des Kontaktzenters:	Palermo
+	Rechteinhaber der Fotos:	© Polo Regionale di Palermo per i Parchi e i Musei Archeologici
+	Hat die Fotorechte:	1

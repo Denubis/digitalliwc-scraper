@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-76a65404b662b-7
+Narkissos, Add._1_0
+
+
+
+Monument
+	ID:	201718
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	parapetasma, velum, curtain
+	Name:	Narkissos
+	Beschreibung:	Fragment. Narkissos looking down to the right with arms interlaced above his head
+	Bibliographie:	Koch, G., AA (1993) 418-419 fig. 16.
+Datierung
+	Periode:	200 - 300 
+Epoche
+	Name:	3. Jh. n. Chr.
+	Periode:	200 - 300 
+	Sequenznummer:	3280
+Szene
+	ID:	98696
+	Beschreibung:	Narkissos looking down to the right with arms interlaced above his head
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Narkissos, Add.
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Trevi
+	Name:	Palazzo Prosperi
+	Direktor:	Dr. Sylvia Diebner
+	Adresse:	Via Sardegna 79
+	Postleitzahl:	I-00187
+	Kontaktzenter:	Deutsches Archäologisches Institut
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Deutsches Archäologisches Institut
+	Hat die Fotorechte:	0

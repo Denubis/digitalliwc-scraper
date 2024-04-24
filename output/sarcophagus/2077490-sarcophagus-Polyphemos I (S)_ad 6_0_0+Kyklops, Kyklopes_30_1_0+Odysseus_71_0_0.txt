@@ -1,0 +1,53 @@
+http://ark.dasch.swiss/ark:/72163/080e-7404f5e61e53f-1
+Polyphemos I (S)_ad 6_0_0
+Kyklops, Kyklopes_30_1_0
+Odysseus_71_0_0
+
+
+
+Monument
+	ID:	6871
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kyklopes Odysseus Polyphemos I
+Szene
+	ID:	7017
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/7017X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/7017X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Polyphemos I (S)
+	Katalognummer:	ad 6
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kyklops, Kyklopes
+	Katalognummer:	30
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Odysseus
+	Katalognummer:	71
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	6580
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-74d06a2fb9f72-a
+Hippolytos I_71_0_0
+
+
+
+Monument
+	ID:	21227
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hippolytos I
+Szene
+	ID:	22168
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/lebanon/tyr/22168X301.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/lebanon/tyr/22168X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/lebanon/tyr/22168X303.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	71
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	LB
+	Stadt:	Tyr
+	Rechteinhaber der Fotos:	© Tyr
+	Hat die Fotorechte:	1

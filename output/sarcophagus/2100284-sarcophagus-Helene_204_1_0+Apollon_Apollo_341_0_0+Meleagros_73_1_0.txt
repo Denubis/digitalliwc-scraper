@@ -1,0 +1,56 @@
+http://ark.dasch.swiss/ark:/72163/080e-754ad60f99bf1-1
+Helene_204_1_0
+Apollon/Apollo_341_0_0
+Meleagros_73_1_0
+
+
+
+Monument
+	ID:	29856
+	Entdeckungsort:	Melfi
+	Entdeckungsort Details:	Via Appia
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Meleagros Helene
+	Beschreibung:	Column sarcophagus. Meleagros with the boar at his feet. Atalante in intercolumniation to the left.
+Datierung
+	Periode:	165 - 170 
+Szene
+	ID:	31314
+	Beschreibung:	Meleagros with the boar at his feet. Atalante in intercolumniation to the left.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/melfi/museo_archeologico_nazionale_del_melfese/31314X002.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Helene
+	Katalognummer:	204
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	341
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	73
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Melfi
+	Name:	Museo Archeologico Nazionale del Melfese
+	Direktor:	Soprintendente Dott. Antonio De Siena
+	Adresse:	Via Andrea Serrao 11
+	Postleitzahl:	I-85100
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici della Basilicata
+	Stadt des Kontaktzenters:	Potenza
+	Rechteinhaber der Fotos:	© Polo Museale della Basilicata
+	Hat die Fotorechte:	0

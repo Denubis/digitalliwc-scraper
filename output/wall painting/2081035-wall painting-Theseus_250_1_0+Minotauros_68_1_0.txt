@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-7437a44e8ca3c-e
+Theseus_250_1_0
+Minotauros_68_1_0
+
+
+
+Monument
+	ID:	10450
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 2,16 (House of Gavius Rufus)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Minotauros Theseus
+	Beschreibung:	Minotauros lies on his back with head and chest in the arched doorway to the labyrinth, his right arm thrown over his chest. In the centre Theseus thanked by a child to the left and the crowd to the right.
+Datierung
+	Periode:	1 - 20 
+Szene
+	ID:	10678
+	Beschreibung:	Minotauros lies on his back with head and chest in the arched doorway to the labyrinth, his right arm thrown over his chest. In the centre Theseus thanked by a child to the left and the crowd to the right.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/10678X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Theseus
+	Katalognummer:	250
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Minotauros
+	Katalognummer:	68
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9043
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

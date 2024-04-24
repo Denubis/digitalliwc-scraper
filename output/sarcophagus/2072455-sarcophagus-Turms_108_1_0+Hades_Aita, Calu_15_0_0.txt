@@ -1,0 +1,49 @@
+http://ark.dasch.swiss/ark:/72163/080e-73bcfa36b6ba8-2
+Turms_108_1_0
+Hades/Aita, Calu_15_0_0
+
+
+
+Monument
+	ID:	1803
+	Entdeckungsort:	Tarquinia
+	Objekt:	sarcophagus
+	Material:	nenfro
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hades/Aita, Calu Turms
+Szene
+	ID:	1715
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/museo_archeologico/1715X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/museo_archeologico/1715X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Turms
+	Katalognummer:	108
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hades/Aita, Calu
+	Katalognummer:	15
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	5882
+Museum
+	Land:	IT
+	Stadt:	Firenze
+	Name:	Museo Archeologico
+	Direktor:	Soprintendente Dott.ssa Fulvia Lo Schiavo
+	Anrede:	Chiarissimo Soprintendente
+	Adresse:	Via della Pergola 65
+	Postleitzahl:	I-50121
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici della Toscana
+	Stadt des Kontaktzenters:	Firenze
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici della Toscana
+	Hat die Fotorechte:	1

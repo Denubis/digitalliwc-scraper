@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-74edd9f4f06e9-b
+Endymion_84_0_0
+
+
+
+Monument
+	ID:	23299
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Endymion
+Szene
+	ID:	32959
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	84
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Sassari
+	Name:	Museo Archeologico "Giovanni Antonio Sanna"
+	Rechteinhaber der Fotos:	© Polo Museale della Sardegna
+	Hat die Fotorechte:	1

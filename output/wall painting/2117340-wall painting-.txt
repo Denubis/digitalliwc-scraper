@@ -1,0 +1,27 @@
+http://ark.dasch.swiss/ark:/72163/080e-763ead9da0111-6
+
+
+
+Monument
+	ID:	50272
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 4,59 (Casa della Parete nera / Casa dei Bronzi)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Siehe ID Denkmal 6318 (Raum f, Opfer an Mars).
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	17719
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Antiquarium
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via villa dei Misteri 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei (NA)
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

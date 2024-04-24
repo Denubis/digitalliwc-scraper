@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-7675f684627d8-f
+
+
+
+Monument
+	ID:	54401
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	tomb
+	Objekt:	sepulcrum
+	Land:	CH
+	Kategorie:	architecture
+	Beschreibung:	Necropoli di Porta Ercolano, tomb of Naevoleia Tyche
+Szene
+	ID:	59830
+	Beschreibung:	Necropoli di Porta Ercolano, tomb of Naevoleia Tyche
+Catalog Thes CRA
+	Indexnummer:	24
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Sepulcrum, Rom.
+	Lemata:	Sepulcrum, Rom.
+	Sequenznummer:	4064
+	Bandnummer:	4
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba di Naevoleia Tyche
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Necropoli di Porta di Ercolano
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei (NA)
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

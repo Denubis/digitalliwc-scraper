@@ -1,0 +1,71 @@
+http://ark.dasch.swiss/ark:/72163/080e-761960e40345c-5
+Amazones_560_0_0
+Achilleus_793_0_0
+
+
+
+Monument
+	ID:	44432
+	Entdeckungsort:	Pompei
+	Objekt:	vase
+	Material:	silver
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	toreutics
+	Stichwort:	warrior, soldier Amazon Phrygian cap fight, battle
+	Name:	Achilleus Aias I Kassandra I Penthesileia
+	Bibliographie:	Spinazzola, V., Le arti decorative in Pompei e nel Museo Nazionale di Napoli (1928) Nr. 237; Pesce, G., Il Museo Nazionale di Napoli, oreficeria - toreutica - gliptica - vitriaria - ceramica (1932) 16 Abb. 21; Künzl, E., BonnJbb 169, 1969, 330 Anm. 15c.
+Datierung
+	Periode:	41 - 54 
+Epoche
+	Name:	claudisch
+	Periode:	41 - 54 
+	Sequenznummer:	1160
+Szene
+	ID:	46836
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/46836X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/46836X203.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/46836X204.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/46836X205.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/46836X206.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	560
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	793
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	111140
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

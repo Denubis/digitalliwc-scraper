@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-7478b49785b5f-c
+Meleagros_158_0_0
+
+
+
+Monument
+	ID:	15037
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Beschreibung:	Merowingischer Sarkophag; Deutung als kalydonische Jagd unsicher
+	Bibliographie:	AA 1975, 533 fig. 4
+Datierung
+	Periode:	550 - 600 
+Epoche
+	Name:	2. Hälfte 6. Jh. n. Chr.
+	Periode:	550 - 600 
+	Sequenznummer:	3750
+Szene
+	ID:	15513
+	Beschreibung:	Merowingischer Sarkophag; Deutung als kalydonische Jagd unsicher
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/toulouse/musee_des_augustins/15513X301.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	158
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	505
+Museum
+	Land:	FR
+	Stadt:	Toulouse
+	Name:	Musée des Augustins
+	Rechteinhaber der Fotos:	© Musée des Augustins, Toulouse
+	Hat die Fotorechte:	0

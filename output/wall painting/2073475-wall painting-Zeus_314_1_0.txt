@@ -1,0 +1,48 @@
+http://ark.dasch.swiss/ark:/72163/080e-73cb8f5466894-3
+Zeus_314_1_0
+
+
+
+Monument
+	ID:	2830
+	Entdeckungsort:	Eleusis (Attica)
+	Objekt:	wall painting
+	Herkunft:	Attica
+	Land:	GR
+	Kategorie:	wall painting
+	Stichwort:	throne
+	Name:	Nike Zeus
+	Beschreibung:	Zευς, Nίκη. Zeus seated on a throne, with Nike and sceptre.
+	Bibliographie:	Kουρουνιώτης, Oδηγός Eλευσίνος (1934) 56, Eικ. 27.Richter, Sculpture and Sculpturs Fig. 612.Φίλιος, Δ., ArchEph (1888) 76-82 Pl. 4.5.Krause, B.S., TrwPr 5 (1983) 17.47 Pl. 15,5.
+	Kommentar:	4311
+Datierung
+	Periode:	-27 - 395 
+Epoche
+	Name:	kaiserzeitlich
+	Periode:	-27 - 476 
+	Sequenznummer:	1100
+Szene
+	ID:	2850
+	Beschreibung:	Zeus seated on a throne, with Nike and sceptre.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/eleusis/2850X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Zeus
+	Katalognummer:	314
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	GR
+	Stadt:	Eleusis
+	Direktor:	Dr. Photini Balla
+	Adresse:	Odos Panepistimiou 22
+	Postleitzahl:	GR-10672
+	Kontaktzenter:	Bureau LIMC Société Archéologique d'Athènes
+	Stadt des Kontaktzenters:	Athènes
+	Rechteinhaber der Fotos:	© Eleusis
+	Hat die Fotorechte:	0

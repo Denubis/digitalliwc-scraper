@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-7610960a95819-4
+Achilleus_146_0_0
+
+
+
+Monument
+	ID:	43806
+	Entdeckungsort:	Paros (Cyclades)
+	Objekt:	sarcophagus
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	horse
+	Name:	Achilleus Diomedes I Odysseus
+	Beschreibung:	Fragment.
+	Bibliographie:	SarkRel II 220 no. 22, Giulinano, A., Il commercio dei sarcofagi attici (1962) 34 no. 79.
+	Museums-URL:	https://www.harvardartmuseums.org/collections/object/291710
+Szene
+	ID:	46080
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	146
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1949.47.151
+Museum
+	Land:	US
+	Stadt:	Cambridge (Mass.)
+	Name:	Arthur M. Sackler Museum, Harvard University Art Museums (formerly Fogg Art Museum)
+	Direktor:	Curator Dr Susanne Ebbinghaus
+	Anrede:	Dear Curator,
+	Adresse:	32 Quincy St.
+	Postleitzahl:	USA-
+	Kontaktzenter:	Arthur M. Sackler Museum, Harvard University Art Museums (formerly Fogg Art Museum)
+	Stadt des Kontaktzenters:	Cambridge (Mass.) 02138
+	Rechteinhaber der Fotos:	© Arthur M. Sackler Museum, Harvard University Art Museums 
+	Hat die Fotorechte:	1

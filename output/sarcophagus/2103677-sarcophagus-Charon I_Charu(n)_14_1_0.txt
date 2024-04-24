@@ -1,0 +1,55 @@
+http://ark.dasch.swiss/ark:/72163/080e-757b5829513f6-3
+Charon I/Charu(n)_14_1_0
+
+
+
+Monument
+	ID:	33278
+	Objekt:	sarcophagus
+	Material:	nenfro
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Charon I/Charu(n)
+Szene
+	ID:	34960
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/barbarano_romano/museo_archeologico_delle_necropoli_rupestri/34960X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/barbarano_romano/museo_archeologico_delle_necropoli_rupestri/34960X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/barbarano_romano/museo_archeologico_delle_necropoli_rupestri/34960X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/barbarano_romano/museo_archeologico_delle_necropoli_rupestri/34960X103.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/barbarano_romano/museo_archeologico_delle_necropoli_rupestri/34960X104.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/barbarano_romano/museo_archeologico_delle_necropoli_rupestri/34960X199.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Charon I/Charu(n)
+	Katalognummer:	14
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	75408-75412
+Museum
+	Land:	IT
+	Stadt:	Barbarano Romano
+	Name:	Museo Archeologico delle Necropoli Rupestri
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici del Lazio, Sezione Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Museo Archeologico delle Necropoli Rupestri
+	Hat die Fotorechte:	1

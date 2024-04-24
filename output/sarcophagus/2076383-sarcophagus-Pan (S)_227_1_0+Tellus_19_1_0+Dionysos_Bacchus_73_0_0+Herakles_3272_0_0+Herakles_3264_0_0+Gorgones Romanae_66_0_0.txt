@@ -1,0 +1,129 @@
+http://ark.dasch.swiss/ark:/72163/080e-73f5225ebf260-7
+Pan (S)_227_1_0
+Tellus_19_1_0
+Dionysos/Bacchus_73_0_0
+Herakles_3272_0_0
+Herakles_3264_0_0
+Gorgones Romanae_66_0_0
+
+
+
+Monument
+	ID:	5754
+	Entdeckungsort:	Bolsena, Volsinii
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Stichwort:	wreath, crown, stephane, corona palm branch snake cornucopia lagobolon, pedum table, mensa, trapeza gorgoneion purse cup pipe, flute, aulos, tibiae cista mystica he-goat liknon, vannus, winnowing-fan cista, kiste phallos lion head satyrisk satyr, silen maenad
+	Name:	Ariadne Dionysos/Bacchus Ge Pan Herakles/Hercules Tellus
+	Beschreibung:	VS: Dionysos zwischen Herakles und Pan, sowei einem Satyr mit Lagobolon und zwei Mänaden. Zwischen Dionysos und Herakles am Boden steht eine Ciste, die von einem Satyriskos - fast nicht mehr erhalten - geöffnet wird. Eine Schlange kriecht heraus. Rechts und links der Gesamtszene befinden sich große Löwenköpfe. Unter dem linken lagert Gaia mit Füllhorn. Unter dem rechten Kopf liegt die schlafende Ariadne. Über sie beugt sich Pan. r. NS: Ein tanzender Satyr mit Lagobolon, daneben Dionysos umringt von versch. Satyrn. Herakles taumelt auf eine Frau zu.RS: Die Rückseite ist von zwei Gorgoneia flankiert, die nun die Löwenköpfe der VS ersetzen. Unter dem linken Gorgoneion ein Bock, der auf einen Pan zuspringt. Darunter auf dem Boden liegt ein Pedum, daneben steht ein kleiner Tisch mit Kranz darauf, zudem ein gefüllter Geldbeutel. Hinter dem Pan ein Knabe als Kampfrichter mit Palmzweig. Unter dem rechten Gorgoneion kniet eine Frau. Sie hält auf ihrer Linken einen Schale mit Früchten und nimmt mit der Rechten eine Decke von einem weiteren Korb (Liknon), in dem sich ein Phallos befindet. Mittig steht ein Satyr mit Lagobolon, zwischen seinen Füßen eine Ciste aus der sich eine Schlange herausringelt. Rechts des Satyrs eine Doppelflötenspielerin.
+	Bibliographie:	SarkRel IV 1, 46.
+Datierung
+	Periode:	190 - 200 
+Epoche
+	Name:	Ende 2. Jh. n. Chr.
+	Periode:	190 - 200 
+	Sequenznummer:	3170
+Szene
+	ID:	5855
+	Beschreibung:	VS: Dionysos zwischen Herakles und Pan, sowei einem Satyr mit Lagobolon und zwei Mänaden. Zwischen Dionysos und Herakles am Boden steht eine Ciste, die von einem Satyriskos - fast nicht mehr erhalten - geöffnet wird. Eine Schlange kriecht heraus. Rechts und links der Gesamtszene befinden sich große Löwenköpfe. Unter dem linken lagert Gaia mit Füllhorn. Unter dem rechten Kopf liegt die schlafende Ariadne. Über sie beugt sich Pan. r. NS: Ein tanzender Satyr mit Lagobolon, daneben Dionysos umringt von versch. Satyrn. Herakles taumelt auf eine Frau zu.RS: Die Rückseite ist von zwei Gorgoneia flankiert, die nun die Löwenköpfe der VS ersetzen. Unter dem linken Gorgoneion ein Bock, der auf einen Pan zuspringt. Darunter auf dem Boden liegt ein Pedum, daneben steht ein kleiner Tisch mit Kranz darauf, zudem ein gefüllter Geldbeutel. Hinter dem Pan ein Knabe als Kampfrichter mit Palmzweig. Unter dem rechten Gorgoneion kniet eine Frau. Sie hält auf ihrer Linken einen Schale mit Früchten und nimmt mit der Rechten eine Decke von einem weiteren Korb (Liknon), in dem sich ein Phallos befindet. Mittig steht ein Satyr mit Lagobolon, zwischen seinen Füßen eine Ciste aus der sich eine Schlange herausringelt. Rechts des Satyrs eine Doppelflötenspielerin.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/bolsena/municipio/5855X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/bolsena/municipio/5855X005.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/bolsena/municipio/5855X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/bolsena/municipio/5855X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/bolsena/municipio/5855X103.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/bolsena/municipio/5855X104.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/bolsena/municipio/5855X105.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/bolsena/municipio/5855X106.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/bolsena/municipio/5855X107.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/bolsena/municipio/5855X109.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/bolsena/municipio/5855X110.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/bolsena/municipio/5855X111.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/bolsena/municipio/5855X112.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	825
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Catalog LIMC
+	Artikel:	Pan (S)
+	Katalognummer:	227
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Tellus
+	Katalognummer:	19
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	73
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	3272
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	3264
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Gorgones Romanae
+	Katalognummer:	66
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel IV 1, 46
+Museum
+	Land:	IT
+	Stadt:	Bolsena
+	Name:	Municipio
+	Rechteinhaber der Fotos:	© Bolsena
+	Hat die Fotorechte:	1

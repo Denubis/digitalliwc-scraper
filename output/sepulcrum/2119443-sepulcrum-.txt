@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-765cbe6c26664-f
+
+
+
+Monument
+	ID:	52533
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	necropolis
+	Objekt:	sepulcrum
+	Land:	CH
+	Kategorie:	architecture
+	Beschreibung:	Porta di Ercolano necropoleis; tomb of M. Porcius
+	Bibliographie:	Kockel, V., Die Grabbauten vor dem Herculaner Tor im Pompeij (1983) 53-57 fig.  I.2 tav.1.6-8.14a.
+Szene
+	ID:	57788
+	Beschreibung:	Porta di Ercolano necropoleis; tomb of M. Porcius
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	7
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Sepulcrum, Rom.
+	Lemata:	Sepulcrum, Rom.
+	Sequenznummer:	4064
+	Bandnummer:	4
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba di M. Porcius
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Necropoli di Porta di Ercolano
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei (NA)
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

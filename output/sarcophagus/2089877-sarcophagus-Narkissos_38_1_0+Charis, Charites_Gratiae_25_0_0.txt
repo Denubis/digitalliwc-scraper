@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-74b60d4c6106e-a
+Narkissos_38_1_0
+Charis, Charites/Gratiae_25_0_0
+
+
+
+Monument
+	ID:	19375
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Via Appia
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Name:	Charis, Charites/Gratiae Narkissos
+	Beschreibung:	Narkissos and Eros.
+	Bibliographie:	Hüneke, S. u. a., Kurfürstliche und königliche Erwerbungen für die Schlösser und Gärten Brandenburg-Preussens vom 17. bis zum 19. Jahrhundert, Bestandskataloge der Kunstsammlungen, Stiftung Preussische Schlösser und Gärten Berlin-Brandenburg. Skulpturen, Antiken I (2009) Nr. 68
+Szene
+	ID:	20270
+	Beschreibung:	Narkissos and Eros.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/potsdam/schloss_sanssouci/20270X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Narkissos
+	Katalognummer:	38
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Charis, Charites/Gratiae
+	Katalognummer:	25
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	320
+Museum
+	Land:	DE
+	Stadt:	Potsdam
+	Name:	Schloss Sanssouci
+	Rechteinhaber der Fotos:	© Schloss Sanssouci, Potsdam
+	Hat die Fotorechte:	0

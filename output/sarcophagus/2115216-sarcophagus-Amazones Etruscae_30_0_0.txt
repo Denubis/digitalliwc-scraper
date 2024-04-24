@@ -1,0 +1,59 @@
+http://ark.dasch.swiss/ark:/72163/080e-76204ff362295-4
+Amazones Etruscae_30_0_0
+
+
+
+Monument
+	ID:	44919
+	Entdeckungsort:	Tarquinia
+	Objekt:	sarcophagus
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	warrior, soldier Amazon fight, battle
+	Name:	Amazones
+	Beschreibung:	Man dressed with tunic, coat and bonnet carrying a roll in his hand
+	Bibliographie:	Herbig, EtrSark 64 n. 126 tav. 17a; Pallottino, M., MonAnt 36 (1937) 439 Abb. 111, NotSc (1943) 225 Abb. 11.
+Datierung
+	Periode:	-310 - -300 
+Epoche
+	Name:	Ende 4. Jh. v. Chr.
+	Periode:	-310 - -300 
+	Sequenznummer:	2460
+Szene
+	ID:	47266
+	Beschreibung:	Man dressed with tunic, coat and bonnet carrying a roll in his hand
+	Sequenznummer:	10
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	10
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.a. Kultpersonal, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	4700
+	Bandnummer:	5
+Catalog LIMC
+	Artikel:	Amazones Etruscae
+	Katalognummer:	30
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1898
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Museo Nazionale di Tarquinia
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

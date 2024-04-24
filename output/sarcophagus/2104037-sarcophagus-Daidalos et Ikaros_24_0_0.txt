@@ -1,0 +1,30 @@
+http://ark.dasch.swiss/ark:/72163/080e-75807dbb530fe-0
+Daidalos et Ikaros_24_0_0
+
+
+
+Monument
+	ID:	33641
+	Objekt:	sarcophagus
+	Herkunft:	Asia Minor
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Daidalos and Ikaros Ikaros
+	Beschreibung:	Daidalos and Ikaros flank a sheperd.
+Szene
+	ID:	35370
+	Beschreibung:	Daidalos and Ikaros flank a sheperd.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Daidalos et Ikaros
+	Katalognummer:	24
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	TR
+	Stadt:	Myra (Demre)
+	Name:	Eglise St-Nicolas
+	Rechteinhaber der Fotos:	© Demre
+	Hat die Fotorechte:	1

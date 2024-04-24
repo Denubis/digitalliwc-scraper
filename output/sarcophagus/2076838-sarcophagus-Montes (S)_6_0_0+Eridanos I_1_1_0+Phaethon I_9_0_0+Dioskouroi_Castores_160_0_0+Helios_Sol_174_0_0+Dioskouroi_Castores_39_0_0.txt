@@ -1,0 +1,92 @@
+http://ark.dasch.swiss/ark:/72163/080e-73fba3a1f3383-b
+Montes (S)_6_0_0
+Eridanos I_1_1_0
+Phaethon I_9_0_0
+Dioskouroi/Castores_160_0_0
+Helios/Sol_174_0_0
+Dioskouroi/Castores_39_0_0
+
+
+
+Monument
+	ID:	6215
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eridanos I Phaethon I Dioskouroi/Castores Helios/Sol Montes
+	Beschreibung:	On the right Helios saying goodbye to Phaethon (I). Phosphoros or one of the Dioskouroi tries to stop the chariot of Phaethon (I). Phaethon (I) falling into the womb of Eridanos (I), in the presence of a paidagogus and a topographical personification. Sol (?) calming the shying horses. On the left Kyknos and three Heliades. Two Victories frame the panel. On the minor sides are the Dioskouroi.
+Szene
+	ID:	6339
+	Beschreibung:	On the right Helios saying goodbye to Phaethon (I). Phosphoros or one of the Dioskouroi tries to stop the chariot of Phaethon (I). Phaethon (I) falling into the womb of Eridanos (I), in the presence of a paidagogus and a topographical personification. Sol (?) calming the shying horses. On the left Kyknos and three Heliades. Two Victories frame the panel. On the minor sides are the Dioskouroi.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/6339X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/6339X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/6339X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/6339X103.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/6339X104.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/6339X105.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/6339X106.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Montes (S)
+	Katalognummer:	6
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eridanos I
+	Katalognummer:	1
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Phaethon I
+	Katalognummer:	9
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dioskouroi/Castores
+	Katalognummer:	160
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	174
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dioskouroi/Castores
+	Katalognummer:	39
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	181
+Museum
+	Land:	IT
+	Stadt:	Firenze
+	Name:	Galleria degli Uffizi
+	Adresse:	Via della Ninna 5
+	Postleitzahl:	I-50122
+	Kontaktzenter:	Soprintendenza Speciale per il Polo Museale Fiorentino
+	Stadt des Kontaktzenters:	Firenze
+	Rechteinhaber der Fotos:	Su concessione del Ministero dei beni e delle attività culturali e del turismo
+	Hat die Fotorechte:	1

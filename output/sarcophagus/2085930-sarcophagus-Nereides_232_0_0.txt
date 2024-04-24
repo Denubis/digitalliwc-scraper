@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-747d9f9a81c17-4
+Nereides_232_0_0
+
+
+
+Monument
+	ID:	15382
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Nereides
+Szene
+	ID:	15875
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/palazzo_vescovile/15875X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/palazzo_vescovile/15875X299.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Nereides
+	Katalognummer:	232
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Ostia
+	Name:	Palazzo Vescovile
+	Rechteinhaber der Fotos:	© Palazzo Vescovile
+	Hat die Fotorechte:	1

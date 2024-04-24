@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-7432a6fedecab-5
+Phaidra_1_1_0
+
+
+
+Monument
+	ID:	10098
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Phaidra
+	Beschreibung:	Phaidra seated to the right, turning back to her nurse. On the right a servant.
+Szene
+	ID:	10315
+	Beschreibung:	Phaidra seated to the right, turning back to her nurse. On the right a servant.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/10315X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Phaidra
+	Katalognummer:	1
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	114322
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

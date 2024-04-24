@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-74fbeb50d3421-2
+Hermaphroditos_69_1_0
+
+
+
+Monument
+	ID:	24295
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	IX 1,22 (Domus M. Epidii Sabini)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Hermaphroditos
+	Beschreibung:	Hermaphroditos with erect phallus, seated, pulls back the edge of his drapery to expose his torso. He grasps the beard od a draped Silenus.
+Szene
+	ID:	25494
+	Beschreibung:	Hermaphroditos with erect phallus, seated, pulls back the edge of his drapery to expose his torso. He grasps the beard od a draped Silenus.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/25494X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hermaphroditos
+	Katalognummer:	69
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	27875
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

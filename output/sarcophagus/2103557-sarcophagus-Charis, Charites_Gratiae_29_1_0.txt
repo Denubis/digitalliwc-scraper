@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-7579a0f8a5f9e-5
+Charis, Charites/Gratiae_29_1_0
+
+
+
+Monument
+	ID:	33158
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Charis, Charites/Gratiae
+Szene
+	ID:	34827
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/brocklesby_park_lincolnshire/34827X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Charis, Charites/Gratiae
+	Katalognummer:	29
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	GB
+	Stadt:	Brocklesby Park (Lincolnshire)
+	Direktor:	Prof. Dr. Reinhard Förtsch
+	Anrede:	Sehr geehrter Herr Professor,
+	Adresse:	Albertus-Magnus-Platz
+	Postleitzahl:	D-50923
+	Kontaktzenter:	Forschungsarchiv für Antike Plastik am Archäologischen Institut der Universität zu Köln
+	Stadt des Kontaktzenters:	Köln
+	Rechteinhaber der Fotos:	© Forschungsarchiv für Antike Plastik am Archäologischen Institut der Universität zu Köln
+	Hat die Fotorechte:	0

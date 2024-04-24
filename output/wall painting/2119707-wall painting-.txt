@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-766084a40598c-3
+
+
+
+Monument
+	ID:	52837
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VIII 7,28 (formerly 8,28) (Temple of Isis)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	tree column tablet, pinax sacral-idyllic landscape balustrade
+	Beschreibung:	Baum, Votivsäule, Porta sacra mit Götterstatue, davor Balustrade mit angelehntem Pinax.
+	Bibliographie:	De Cazanove, O., in: Les bois sacrés (Kongr. Centre Jean Bérard, Neapel, 1989) (1993) 117 Abb. 4; Elia, O., Le Pitture del tempio di Iside (1941) MonPittScop Italia III Pompeii III-IV, 32.
+	Kommentar:	Zu anderen Darstellungen im Isistempel siehe ID: 10175; 21619; 28263; 45813; 50195; 52591; 52812; 52818. 
+Szene
+	ID:	58161
+	Beschreibung:	Baum, Votivsäule, Porta sacra mit Götterstatue, davor Balustrade mit angelehntem Pinax.
+Catalog Thes CRA
+	Indexnummer:	128
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	IV. 1.b. Kultorte (Darstellungen)
+	Sequenznummer:	4500
+	Bandnummer:	4
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9486
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

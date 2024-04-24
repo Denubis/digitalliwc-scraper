@@ -1,0 +1,56 @@
+http://ark.dasch.swiss/ark:/72163/080e-749b723111f55-2
+Niobe_8b_0_0
+Niobidai_32b_0_0
+Amphion_8b_1_0
+
+
+
+Monument
+	ID:	17491
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	helmet shield corselet child death
+	Name:	Amphion Niobe Niobidai
+	Beschreibung:	Amphion in armour and raised shield holding his dying son; he is the pendant to the group of Niobe and one of her daughters. 
+	Bibliographie:	Sichtermann, H., JdI 83 (1968) 180-220; Sichtermann, H./Koch, MythSark 49-50 nrn. 48-49 Taf. 122-128; Robert, C., SarkRel III 3 (1919) no. 315-320 Taf. C-CII. 
+Szene
+	ID:	18210
+	Beschreibung:	Amphion in armour and raised shield holding his dying son; he is the pendant to the group of Niobe and one of her daughters. 
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/venezia/museo_archeologico_nazionale/18210X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Niobe
+	Katalognummer:	8b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Niobidai
+	Katalognummer:	32b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amphion
+	Katalognummer:	8b
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	24
+Museum
+	Land:	IT
+	Stadt:	Venezia
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Soprintendente Dott.ssa Caterina Bon Valsassina
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Piazza S. Marco 63
+	Postleitzahl:	I-30124
+	Kontaktzenter:	Soprintendenza Speciale Polo Museale Veneziano
+	Stadt des Kontaktzenters:	Venezia
+	Rechteinhaber der Fotos:	© Polo Museale del Veneto
+	Hat die Fotorechte:	0

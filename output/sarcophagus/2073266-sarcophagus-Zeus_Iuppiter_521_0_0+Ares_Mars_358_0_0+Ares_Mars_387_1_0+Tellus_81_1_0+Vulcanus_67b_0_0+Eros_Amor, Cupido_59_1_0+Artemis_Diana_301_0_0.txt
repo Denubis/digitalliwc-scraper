@@ -1,0 +1,67 @@
+http://ark.dasch.swiss/ark:/72163/080e-73c892682b2bf-2
+Zeus/Iuppiter_521_0_0
+Ares/Mars_358_0_0
+Ares/Mars_387_1_0
+Tellus_81_1_0
+Vulcanus_67b_0_0
+Eros/Amor, Cupido_59_1_0
+Artemis/Diana_301_0_0
+
+
+
+Monument
+	ID:	2620
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Ares/Mars Eros/Amor, Cupido Artemis/Diana Tellus Vulcanus Zeus/Iuppiter
+	Beschreibung:	Vulcanus showing Venus und Mars to Iuppiter and other gods.
+Szene
+	ID:	2643
+	Beschreibung:	Vulcanus showing Venus und Mars to Iuppiter and other gods.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	521
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ares/Mars
+	Katalognummer:	358
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ares/Mars
+	Katalognummer:	387
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Tellus
+	Katalognummer:	81
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Vulcanus
+	Katalognummer:	67b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	59
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	301
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 2, 193a
+Museum
+	Land:	IT
+	Stadt:	Amalfi
+	Name:	Duomo
+	Rechteinhaber der Fotos:	© Duomo, Amalfi
+	Hat die Fotorechte:	1

@@ -1,0 +1,60 @@
+http://ark.dasch.swiss/ark:/72163/080e-74223617201b5-2
+Penthesileia_55f_1_0
+Amazones_523_1_0
+
+
+
+Monument
+	ID:	8935
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	shield horse warrior, soldier Amazon fight, battle
+	Name:	Penthesileia Amazones
+	Beschreibung:	Penthesileia and Achilleus.
+	Bibliographie:	SarrkRel II pl. 46 no. 111; Helbig(4) II 300 no. 1478; Redlich, Die Amazonensarkophage des 2. und 3. Jahrhunderts v. Chr. (1973) 30; Stuart Jones SculptMusCap153 no. 38 pl. 48.
+Datierung
+	Periode:	190 
+	Kommentar:	about
+Epoche
+	Name:	4. Viertel 2. Jh. n. Chr.
+	Periode:	175 - 200 
+	Sequenznummer:	3230
+Szene
+	ID:	9137
+	Beschreibung:	Penthesileia and Achilleus.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/9137X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/9137X003.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Penthesileia
+	Katalognummer:	55f
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	523
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1027 + 1028 + 1142
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Musei Capitolini
+	Direktor:	Dirigente Dott. Claudio Parisi Presicce
+	Adresse:	Via delle Tre Pile, 1
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Sovraintendenza ai Beni Culturali                     del Comune di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Archivio fotografico Musei Capitolini
+	Hat die Fotorechte:	1

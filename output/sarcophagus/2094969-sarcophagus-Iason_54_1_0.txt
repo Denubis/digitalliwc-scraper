@@ -1,0 +1,66 @@
+http://ark.dasch.swiss/ark:/72163/080e-74fed9994d2e2-0
+Iason_54_1_0
+
+
+
+Monument
+	ID:	24501
+	Entdeckungsort:	Marino, Bovillae
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Iason
+	Beschreibung:	From left to right: Meeting of Iason and Medeia. Iason and Medeia in the palace in Kolchis. Dismemberment of Apsyrtos by Medeia. Flight of Medeia and Iason toward the Argo. Marriage of iason and Medeia.
+	Monument-URL:	http://www.limc-france.fr/objet/14834
+Datierung
+	Periode:	170 - 180 
+Szene
+	ID:	48716
+	Szenerieangabe:	couvercle
+	Beschreibung:	From left to right: Meeting of Iason and Medeia. Iason and Medeia in the palace in Kolchis. Dismemberment of Apsyrtos by Medeia. Flight of Medeia and Iason toward the Argo. Marriage of iason and Medeia.
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/48716X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/48716X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/48716X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/48716X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/48716X005.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/48716X399.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Iason
+	Katalognummer:	54
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	113195
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Romano
+	Direktor:	Soprintendente Dott. Giuseppe Proietti
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali - Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

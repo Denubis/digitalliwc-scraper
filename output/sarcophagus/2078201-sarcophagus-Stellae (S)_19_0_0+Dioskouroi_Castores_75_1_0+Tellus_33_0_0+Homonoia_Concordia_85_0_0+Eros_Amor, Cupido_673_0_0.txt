@@ -1,0 +1,74 @@
+http://ark.dasch.swiss/ark:/72163/080e-740f2019aeb62-6
+Stellae (S)_19_0_0
+Dioskouroi/Castores_75_1_0
+Tellus_33_0_0
+Homonoia/Concordia_85_0_0
+Eros/Amor, Cupido_673_0_0
+
+
+
+Monument
+	ID:	7586
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Via Appia
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dioskouroi/Castores Stellae Eros/Amor, Cupido Homonoia/Concordia Tellus
+	Beschreibung:	Castor and Phosphoros on the left, Pollux and Hesperos on the right.
+Datierung
+	Periode:	200 - 220 
+Szene
+	ID:	7768
+	Beschreibung:	Castor and Phosphoros on the left, Pollux and Hesperos on the right.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/7768X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/7768X398.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/7768X399.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Stellae (S)
+	Katalognummer:	19
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dioskouroi/Castores
+	Katalognummer:	75
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Tellus
+	Katalognummer:	33
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Homonoia/Concordia
+	Katalognummer:	85
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	673
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	203
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Romano
+	Direktor:	Soprintendente Dott. Giuseppe Proietti
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali - Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

@@ -1,0 +1,52 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d96d7324506-d
+Kentauroi et Kentaurides (S)_458b_1_0
+Eros/Amor, Cupido_ad 467_0_0
+Eros/Amor, Cupido_ad 628_0_0
+
+
+
+Monument
+	ID:	3805
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido Kentauroi and Kentaurides
+	Beschreibung:	Centauress with baby. Centaur with lagobolon. Amores on their backs.
+Szene
+	ID:	3846
+	Beschreibung:	Centauress with baby. Centaur with lagobolon. Amores on their backs.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/3846X003.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	458b
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 467
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 628
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 286
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

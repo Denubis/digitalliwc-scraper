@@ -1,0 +1,53 @@
+http://ark.dasch.swiss/ark:/72163/080e-74285f83cb860-4
+Perseus_21_0_0
+Andromeda I_124_0_0
+Kepheus I_33_0_0
+
+
+
+Monument
+	ID:	9372
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	I 2,6
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	mask protome ketos, sea monster
+	Name:	Andromeda I Kassiepeia Kepheus I Perseus
+	Beschreibung:	Masks of Kepheus, Perseus, Andromeda, Kassiopeia, Ketos and satyrs.
+	Bibliographie:	Robert, C., AZ (1878) 13-20 Taf. 3; Bieber, Theaterwesen 125, 63 Taf. 64; Biber, Theater 228 Abb. 760.
+Szene
+	ID:	9575
+	Beschreibung:	Masks of Kepheus, Perseus, Andromeda, Kassiopeia, Ketos and satyrs.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Perseus
+	Katalognummer:	21
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Andromeda I
+	Katalognummer:	124
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kepheus I
+	Katalognummer:	33
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	I 2,6
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1

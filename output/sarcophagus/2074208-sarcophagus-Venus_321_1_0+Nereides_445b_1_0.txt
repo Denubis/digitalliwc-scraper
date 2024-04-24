@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d60a0c9eda5-2
+Venus_321_1_0
+Nereides_445b_1_0
+
+
+
+Monument
+	ID:	3566
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Venus Nereides
+	Beschreibung:	Venus in a shell held by Tritones. Amores. Thiasos of sea creatures.
+Szene
+	ID:	3602
+	Beschreibung:	Venus in a shell held by Tritones. Amores. Thiasos of sea creatures.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_borghese_museo_e_galleria_borghese/3602X002.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Venus
+	Katalognummer:	321
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Nereides
+	Katalognummer:	445b
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	LXXXI
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Borghese (Museo e Galleria Borghese)
+	Direktor:	Soprintendente Prof. Claudio Strinati
+	Adresse:	Piazza San Marco 49
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza Speciale del Polo Museale Romano
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza Speciale del Polo Museale Romano
+	Hat die Fotorechte:	1

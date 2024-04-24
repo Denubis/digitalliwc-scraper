@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-76243ac4a4f6f-4
+Amphion_8e_0_0
+
+
+
+Monument
+	ID:	45198
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	helmet shield corselet child death
+	Name:	Amphion Niobe
+	Beschreibung:	Amphion in armour and raised shield holding his dying son; he is the pendant to the group of Niobe and one of her daughters. 
+	Bibliographie:	Sichtermann, H., JdI 83 (1968) 180-220; Sichtermann, H./Koch, MythSark 49-50 nrn. 48-49 Taf. 122-128; Robert, C., SarkRel III 3 (1919) no. 315-320 Taf. C-CII. 
+Szene
+	ID:	47560
+	Beschreibung:	Amphion in armour and raised shield holding his dying son; he is the pendant to the group of Niobe and one of her daughters. 
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Amphion
+	Katalognummer:	8e
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1543
+Museum
+	Land:	VA
+	Stadt:	Vaticano
+	Name:	Musei Vaticani
+	Direktor:	Direttore Dott. Antonio Paolucci
+	Anrede:	Chiarissimo Direttore,
+	Postleitzahl:	I-00120
+	Kontaktzenter:	Monumenti, Musei e Gallerie Pontificie
+	Stadt des Kontaktzenters:	Città del Vaticano
+	Rechteinhaber der Fotos:	© Musei Vaticani
+	Kommentar:	Sont réunis sous cette dénomination générique - compte tenu à la fois de leur numérotation unique et de leurs déplacements à l'intérieur des musées - les monuments conservés dans le Museo Chiaramonti, le Museo Gregoriano Etrusco, le Museo Gregoriano Profano, le Museo Pio Clementino et le Museo Pio Cristiano.  En revanche, la localisation spécifique a été conservée dans les cas suivants: Basilica San Pietro, Biblioteca Apostolica Vaticana (et Museo Profano, Museo Sacro, Sala delle Nozze Aldobrandine), Camposanto Teutonico, Giardini, Medagliere Vaticano, Museo Gregoriano Egizio, Necropoli sotto San Pietro.
+	Hat die Fotorechte:	0

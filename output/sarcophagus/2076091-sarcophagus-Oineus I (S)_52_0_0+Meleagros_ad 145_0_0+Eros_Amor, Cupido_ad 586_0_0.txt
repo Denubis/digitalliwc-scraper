@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-73f0f5ac95dac-f
+Oineus I (S)_52_0_0
+Meleagros_ad 145_0_0
+Eros/Amor, Cupido_ad 586_0_0
+
+
+
+Monument
+	ID:	5457
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Meleagros Eros/Amor, Cupido Oineus I
+	Beschreibung:	Children impersonating homecoming of Meleagros. At the far right stands Thestios. Oineus at the top.
+Szene
+	ID:	5549
+	Beschreibung:	Children impersonating homecoming of Meleagros. At the far right stands Thestios. Oineus at the top.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Oineus I (S)
+	Katalognummer:	52
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	ad 145
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 586
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	GB
+	Stadt:	West Wycombe (Buckinghamshire)
+	Name:	West Wycombe Park
+	Rechteinhaber der Fotos:	© West Wycombe Park
+	Hat die Fotorechte:	0

@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-76277991c6d1e-8
+Alkestis_12b_0_1
+
+
+
+Monument
+	ID:	45425
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Name:	Alkestis
+	Bibliographie:	SarkRel III 1 no. 28.
+Szene
+	ID:	47818
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	12b
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 1, 28
+Museum
+	Land:	IT
+	Stadt:	Firenze
+	Name:	Palazzo Aldobrandini (Antinori Aldobrandini)
+	Direktor:	Soprintendente Dott.ssa Fulvia Lo Schiavo
+	Adresse:	Via della Pergola 65
+	Postleitzahl:	I-50121
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici della Toscana
+	Stadt des Kontaktzenters:	Firenze
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici della Toscana
+	Hat die Fotorechte:	1

@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-76a0826e939f8-b
+Nanai, Add._Supplement_24_0_1
+
+
+
+Monument
+	ID:	201311
+	Entdeckungsort:	Penjikent (Tajikistan)
+	Entdeckungsort Details:	Temple II
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	procession: funeral procession halo, nimbus corpse
+	Name:	Demeter Nanai Persephone
+	Beschreibung:	Scene depicting a funeral cortege. In the foreground a standing female figure with four arms (interpreted as Nana), with long garment and nimbus; on her right numerous figures mourning and the deceased (interpreted as Persephone/Geštinanna); on her left two female figures (one interpreted as Demetra/Drēmat)
+	Bibliographie:	Azarpay, G., Sogdian Painting. The Pictorial Epic in the Oriental Art (1981) fig. 56; Grenet, F. / Marshak, B., Le mythe de Nana dans l'art de Sogdiane, Arts Asiatiques 53 (1998) fig. 1.
+Datierung
+	Periode:	500 - 600 
+Epoche
+	Name:	6. Jh. n. Chr.
+	Periode:	500 - 600 
+	Sequenznummer:	3700
+Szene
+	ID:	98239
+	Beschreibung:	Scene depicting a funeral cortege. In the foreground a standing female figure with four arms (interpreted as Nana), with long garment and nimbus; on her right numerous figures mourning and the deceased (interpreted as Persephone/Geštinanna); on her left two female figures (one interpreted as Demetra/Drēmat)
+Catalog LIMC
+	Artikel:	Nanai, Add.
+	Band:	Supplement
+	Katalognummer:	24
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	TJ
+	Stadt:	Pendjikent
+	Rechteinhaber der Fotos:	© Pendjikent
+	Hat die Fotorechte:	1

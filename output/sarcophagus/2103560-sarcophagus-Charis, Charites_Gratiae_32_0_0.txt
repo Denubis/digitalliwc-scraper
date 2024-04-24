@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-7579abf3770ed-0
+Charis, Charites/Gratiae_32_0_0
+
+
+
+Monument
+	ID:	33161
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Charis, Charites/Gratiae
+Szene
+	ID:	34830
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Charis, Charites/Gratiae
+	Katalognummer:	32
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Merolli
+	Rechteinhaber der Fotos:	© Palazzo Merolli, Roma
+	Hat die Fotorechte:	1

@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-755d908d92207-8
+Charis, Charites/Gratiae_20_0_0
+
+
+
+Monument
+	ID:	31176
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Charis, Charites/Gratiae
+Szene
+	ID:	39174
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Charis, Charites/Gratiae
+	Katalognummer:	20
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Frascati
+	Name:	Villa Taverna (oggi Parisi)
+	Direktor:	Dr. Silvia Diebner
+	Anrede:	Sehr geehrte Frau Dr. Diebner,
+	Adresse:	Via Sardegna 79
+	Postleitzahl:	I-00187
+	Kontaktzenter:	Deutsches Archäologisches Institut Photothek
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Villa Taverna, Frascati
+	Hat die Fotorechte:	0

@@ -1,0 +1,54 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ebcaedbc819-b
+Herakles_3265_1_0
+Dionysos/Bacchus, Add._Supplement_1_0
+
+
+
+Monument
+	ID:	23154
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Name:	Herakles
+	Beschreibung:	Bacchus and Ariane in a chariot pulled by two elephants; two panthers; Bacchus with himation and crown; in front of them festive procession. Herakles supported by two satyrs, another one behind him holds his club.
+	Bibliographie:	Sculpture in Stone (MFA) no. 244.
+	Museums-URL:	http://www.mfa.org/collections/object/sarcophagus-with-triumph-of-dionysos-151242
+Datierung
+	Periode:	200 - 250 
+Szene
+	ID:	24291
+	Beschreibung:	Bacchus and Ariane in a chariot pulled by two elephants; two panthers; Bacchus with himation and crown; in front of them festive procession. Herakles supported by two satyrs, another one behind him holds his club.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/boston/museum_of_fine_arts/24291X001.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	3265
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus, Add.
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1972.650
+Museum
+	Land:	US
+	Stadt:	Boston
+	Name:	Museum of Fine Arts
+	Direktor:	Digital Image Resources
+	Anrede:	Dear Curator,
+	Adresse:	465 Huntington Avenue
+	Postleitzahl:	USA-
+	Kontaktzenter:	Museum of Fine Arts, Classical Art
+	Stadt des Kontaktzenters:	Boston, MA 02115-5597
+	Rechteinhaber der Fotos:	© Museum of Fine Arts, Boston
+	Hat die Fotorechte:	1

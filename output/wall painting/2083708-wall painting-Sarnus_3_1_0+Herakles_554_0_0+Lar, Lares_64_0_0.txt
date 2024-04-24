@@ -1,0 +1,62 @@
+http://ark.dasch.swiss/ark:/72163/080e-745ddb4440831-1
+Sarnus_3_1_0
+Herakles_554_0_0
+Lar, Lares_64_0_0
+
+
+
+Monument
+	ID:	13144
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	wreath, crown, stephane, corona altar fire (on altar) garland music sacrifice piper, fluteplayer, auletes, tibicen plant incense offering
+	Name:	Herakles Sarnus Lar, Lares
+	Beschreibung:	Partie supérieure: au milieu un autel (rechteckig, Basis, Altarkörper nach oben verjüngend und buntmarmorartig bemalt, Deckplatte, Feuer) sur lequel un Genius accomplit une offrande. En face de celui-ci un tibicen. La scène est encadrée par deux Lares. Au-dessus des quatre personnages une guirlande.Partie inférieure: grand serpent s’approchant d’un autel rond sur la droite. Statue of aged Herakles on a column. Sarnus wearing white mantle reclining on a rock.
+	Bibliographie:	Boyce, G. K., MAAR 14, 1937 n. 99;Fröhlich, Lararien 267-268 pl. 31, 2.
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	13475
+	Beschreibung:	Partie supérieure: au milieu un autel (rechteckig, Basis, Altarkörper nach oben verjüngend und buntmarmorartig bemalt, Deckplatte, Feuer) sur lequel un Genius accomplit une offrande. En face de celui-ci un tibicen. La scène est encadrée par deux Lares. Au-dessus des quatre personnages une guirlande.Partie inférieure: grand serpent s’approchant d’un autel rond sur la droite. Statue of aged Herakles on a column. Sarnus wearing white mantle reclining on a rock.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/13475X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Sarnus
+	Katalognummer:	3
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	554
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Lar, Lares
+	Katalognummer:	64
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	V 2,b.c
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1

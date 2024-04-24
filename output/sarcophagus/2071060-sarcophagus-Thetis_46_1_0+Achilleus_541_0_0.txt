@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a908a0efb29-6
+Thetis_46_1_0
+Achilleus_541_0_0
+
+
+
+Monument
+	ID:	380
+	Entdeckungsort:	Myra, Demre (Lykia)
+	Entdeckungsort Details:	church
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Achilleus Thetis
+	Beschreibung:	Horse, veiled Thetis, Achilleus.
+Szene
+	ID:	168
+	Beschreibung:	Horse, veiled Thetis, Achilleus.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Thetis
+	Katalognummer:	46
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	541
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	TR
+	Stadt:	Myra (Demre)
+	Name:	Eglise St-Nicolas
+	Rechteinhaber der Fotos:	© Demre
+	Hat die Fotorechte:	1

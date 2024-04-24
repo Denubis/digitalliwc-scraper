@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-74fb1ab34eb44-f
+Hermaphroditos_53_0_0
+
+
+
+Monument
+	ID:	24238
+	Entdeckungsort:	Pompei
+	Objekt:	herm
+	Material:	marble
+	Land:	CH
+	Kategorie:	sculpture in the round of stone
+	Name:	Hermaphroditos
+	Beschreibung:	Herm of Hermaphroditos anasyromenos: Hermaphroditos wears garment draped to reveal his erect phallus.
+Szene
+	ID:	25432
+	Beschreibung:	Herm of Hermaphroditos anasyromenos: Hermaphroditos wears garment draped to reveal his erect phallus.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Hermaphroditos
+	Katalognummer:	53
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Antiquarium
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via villa dei Misteri 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei (NA)
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

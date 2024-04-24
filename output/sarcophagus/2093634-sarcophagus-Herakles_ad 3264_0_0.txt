@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ebc39bdbc8f-0
+Herakles_ad 3264_0_0
+
+
+
+Monument
+	ID:	23152
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Herakles
+	Beschreibung:	Herakles supported by a satyr. Satyriskos before him holds his club.
+Szene
+	ID:	24289
+	Beschreibung:	Herakles supported by a satyr. Satyriskos before him holds his club.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	ad 3264
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Calza 205
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Doria Pamphilj
+	Rechteinhaber der Fotos:	© Villa Doria Pamphilj, Roma
+	Kommentar:	Numéros d'après Calza, R. (éd.), Antichità di Villa Doria Pamphilj (1977).
+	Hat die Fotorechte:	1

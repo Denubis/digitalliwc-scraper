@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-74442a6508858-e
+Pegasos (Pegasos, Bellerophon)_123_1_0
+
+
+
+Monument
+	ID:	11336
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	I 8,8 (Thermopolium)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Pegasos
+Szene
+	ID:	11610
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/antiquarium/11610X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/antiquarium/11610X202.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Pegasos (Pegasos, Bellerophon)
+	Katalognummer:	123
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1174/4
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Antiquarium
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via villa dei Misteri 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei (NA)
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

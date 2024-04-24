@@ -1,0 +1,85 @@
+http://ark.dasch.swiss/ark:/72163/080e-742f3fef68f85-f
+Perseus_178a_1_0
+Andromeda I_32_1_0
+Echo_5a_0_0
+Kepheus I_34_0_0
+Kassiepeia (S)_5_0_0
+Perseus_185_0_0
+
+
+
+Monument
+	ID:	9861
+	Entdeckungsort:	Boscotrecase
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	rock, cliff palace ketos, sea monster captive
+	Name:	Andromeda I Kassiepeia Kepheus I Perseus Echo
+	Beschreibung:	The woman sitting on a rock may be Echo. Perseus arrives at the rock where Andromeda is tied. Perseus confers with Kepheus.
+	Bibliographie:	Alexander, Chr., MetrMusSt I (1928/29) 176-186 Abb. 7-8; Dawson, Ch., Romano-Campanian Mythological Landscape Painting (1944) 100, 41; v. Blanckenhagen, P., The Paintings from Boscotrecase, RM Erg. H 6 (1962) 43-46 Taf. 44-46.
+	Museums-URL:	http://www.metmuseum.org/art/collection/search/250945
+Datierung
+	Periode:	-15 - 63 
+Epoche
+	Name:	3. pompejanischer Stil
+	Periode:	-15 - 63 
+	Sequenznummer:	1340
+Szene
+	ID:	10068
+	Beschreibung:	Perseus arrives at the rock where Andromeda is tied. Perseus confers with Kepheus. The woman sitting on a rock may be Echo.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/new_york/metropolitan_museum_of_art/10068X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/new_york/metropolitan_museum_of_art/10068X002.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Perseus
+	Katalognummer:	178a
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Andromeda I
+	Katalognummer:	32
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Echo
+	Katalognummer:	5a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kepheus I
+	Katalognummer:	34
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kassiepeia (S)
+	Katalognummer:	5
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Perseus
+	Katalognummer:	185
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	20.192.16
+Museum
+	Land:	US
+	Stadt:	New York
+	Name:	Metropolitan Museum of Art
+	Direktor:	Eileen Sullivan, Assistant Museum Librarian
+	Anrede:	Dear Ms Sullivan,
+	Adresse:	1000 Fifth Avenue at 82nd Street
+	Postleitzahl:	USA-
+	Kontaktzenter:	The Metropolitan Museum of Art                          The Photograph Library
+	Stadt des Kontaktzenters:	New York, NY 10028-0198
+	Rechteinhaber der Fotos:	© Metropolitan Museum of Art
+	Hat die Fotorechte:	1

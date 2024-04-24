@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-758aba3b953fa-8
+Eros/Amor, Cupido_188_0_0
+
+
+
+Monument
+	ID:	34372
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido
+Szene
+	ID:	36131
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/palermo/museo_archeologico_regionale_a_salinas/36131X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	188
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	993
+Museum
+	Land:	IT
+	Stadt:	Palermo
+	Name:	Museo Archeologico Regionale "A. Salinas"
+	Direktor:	Dir. Dott.ssa Giuseppina Favara
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Piazza Olivella 24
+	Postleitzahl:	I-90100
+	Kontaktzenter:	Museo Archeologico Regionale "A. Salinas"
+	Stadt des Kontaktzenters:	Palermo
+	Rechteinhaber der Fotos:	© Polo Regionale di Palermo per i Parchi e i Musei Archeologici
+	Hat die Fotorechte:	1

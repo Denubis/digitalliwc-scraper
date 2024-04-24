@@ -1,0 +1,30 @@
+http://ark.dasch.swiss/ark:/72163/080e-74b94fc2733e2-d
+Heros equitans (vol. VI)_452_1_0
+
+
+
+Monument
+	ID:	19603
+	Entdeckungsort:	Viminacium
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Heros equitans
+	Monument-URL:	http://www.limc-france.fr/objet/7180
+Szene
+	ID:	20502
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Heros equitans (vol. VI)
+	Katalognummer:	452
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	CS
+	Stadt:	Pozarevac
+	Name:	Musée National
+	Rechteinhaber der Fotos:	© Musée National, Pozarevac
+	Hat die Fotorechte:	0

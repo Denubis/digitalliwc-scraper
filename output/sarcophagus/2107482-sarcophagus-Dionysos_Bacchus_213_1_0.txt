@@ -1,0 +1,48 @@
+http://ark.dasch.swiss/ark:/72163/080e-75b1be25dd507-1
+Dionysos/Bacchus_213_1_0
+
+
+
+Monument
+	ID:	37120
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dionysos/Bacchus Ariadne
+	Beschreibung:	Old Bacchus and Ariadne on a carriage drawn by centaurs, in front of them satyrs and maenads.
+Szene
+	ID:	39018
+	Beschreibung:	Old Bacchus and Ariadne on a carriage drawn by centaurs, in front of them satyrs and maenads.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/verona/museo_lapidario_maffeiano/39018X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/verona/museo_lapidario_maffeiano/39018X301.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	213
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	114
+Museum
+	Land:	IT
+	Stadt:	Verona
+	Name:	Museo Lapidario Maffeiano
+	Adresse:	PIazza Bra 28
+	Postleitzahl:	I-37121
+	Kontaktzenter:	Museo Lapidario Maffeiano
+	Stadt des Kontaktzenters:	Verona
+	Rechteinhaber der Fotos:	© Museo Lapidario Maffeiano, Verona
+	Hat die Fotorechte:	0

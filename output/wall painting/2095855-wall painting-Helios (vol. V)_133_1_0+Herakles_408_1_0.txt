@@ -1,0 +1,53 @@
+http://ark.dasch.swiss/ark:/72163/080e-750b84492cab0-6
+Helios (vol. V)_133_1_0
+Herakles_408_1_0
+
+
+
+Monument
+	ID:	25394
+	Entdeckungsort:	Delos (Cyclades)
+	Entdeckungsort Details:	house
+	Objekt:	wall painting
+	Herkunft:	Delos
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Herakles Helios
+	Beschreibung:	Fresco in House IC. Herakles, wreathed. In the tondo Helios, nimbated.
+Szene
+	ID:	26664
+	Beschreibung:	Herakles, wreathed. In the tondo Helios, nimbated.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/delos/musee_archeologique/26664X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/delos/musee_archeologique/26664X002.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Helios (vol. V)
+	Katalognummer:	133
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	408
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Maison IC
+Museum
+	Land:	GR
+	Stadt:	Délos
+	Name:	Musée Archéologique
+	Direktor:	Dir. Prof. Dominique Mulliez
+	Anrede:	Monsieur le Directeur,
+	Adresse:	6, rue Didotou
+	Postleitzahl:	GR-106 80
+	Kontaktzenter:	Ecole Française d'Athènes
+	Stadt des Kontaktzenters:	Athènes
+	Rechteinhaber der Fotos:	© Archaeological Museum of Delos
+	Hat die Fotorechte:	1

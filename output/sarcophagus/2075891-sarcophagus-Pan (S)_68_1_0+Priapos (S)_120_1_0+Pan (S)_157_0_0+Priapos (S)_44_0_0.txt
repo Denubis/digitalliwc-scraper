@@ -1,0 +1,102 @@
+http://ark.dasch.swiss/ark:/72163/080e-73ee19b0cdbc4-b
+Pan (S)_68_1_0
+Priapos (S)_120_1_0
+Pan (S)_157_0_0
+Priapos (S)_44_0_0
+
+
+
+Monument
+	ID:	5256
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	altar herm tree sacrifice herm cult liknon, vannus, winnowing-fan incense pomegranate plane parapetasma, velum, curtain pine cone, fir cone satyr, silen maenad
+	Name:	Dionysos Pan Priapos
+	Beschreibung:	Vorderseite: links erotische Gruppe von Pansherme und Paniske; rechts erotische Gruppe von Pan und Paniske vor Pansherme.Linke Nebenseite: Mänade vor Pansherme auf Säule; sie streut Weihrauch aus Büchse in Feuer auf Felsaltar (auf Altar Pinienzapfen und Granatapfel). Satyr.Rechte Nebenseite: junger Satyr, Kind (Dionysos) in Liknon tragend; bärtiger Satyr.
+	Bibliographie:	Matz, SarkRel IV 3 Nr. 176 tav. 196-200; Turcan, R., Religion romaine II. Le culte. IconRel XVII1, 2 (1988) 36 n. 85  tav. 46, 85.
+Datierung
+	Periode:	138 - 161 
+	Kommentar:	1. Datierung
+Epoche
+	Name:	antoninisch
+	Periode:	138 - 192 
+	Sequenznummer:	1210
+Datierung
+	Periode:	150 - 200 
+	Kommentar:	2. Datierung
+Epoche
+	Name:	2. Hälfte 2. Jh. n. Chr.
+	Periode:	150 - 200 
+	Sequenznummer:	3190
+Szene
+	ID:	5345
+	Beschreibung:	Vorderseite: links erotische Gruppe von Pansherme und Paniske; rechts erotische Gruppe von Pan und Paniske vor Pansherme.Linke Nebenseite: Mänade vor Pansherme auf Säule; sie streut Weihrauch aus Büchse in Feuer auf Felsaltar (auf Altar Pinienzapfen und Granatapfel). Satyr.Rechte Nebenseite: junger Satyr, Kind (Dionysos) in Liknon tragend; bärtiger Satyr.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/5345X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/5345X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/5345X005.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/5345X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/5345X203.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/5345X204.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	268
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 5. Kultbilder
+	Sequenznummer:	1800
+	Bandnummer:	2
+Catalog LIMC
+	Artikel:	Pan (S)
+	Katalognummer:	68
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Priapos (S)
+	Katalognummer:	120
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Pan (S)
+	Katalognummer:	157
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Priapos (S)
+	Katalognummer:	44
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	27710
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

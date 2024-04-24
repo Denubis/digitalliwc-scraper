@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-75a39a7d48af6-7
+Eros/Amor, Cupido_708_0_0
+
+
+
+Monument
+	ID:	36120
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus lid
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Künstler:	unknown
+	Kategorie:	relief
+	Stichwort:	altar fire (on altar) torch faggot incense box, libanotis, acerra
+	Name:	Eros Eros/Amor, Cupido
+	Beschreibung:	On either side of the inscription two groups of Erotes. On the left: the middle Eros gathers faggots for a fire, the third one holds a torch. On the right, the two middle ones pour (?) incense on a flaming altar (with garland). The other Erotes do not participate directly to the principal scenes.
+	Bibliographie:	Vermeule, C. C. et al., Sculpture in the Isabella Stewart Gardner Museum (1977) 49 no. 64; Vermeule, C. C., Greek and Roman Sculpture in America (1981) 48 no. 64.
+Datierung
+	Periode:	300 
+	Kommentar:	ca.
+Epoche
+	Name:	Jahr 1
+	Periode:	1 
+Szene
+	ID:	37976
+	Szenerieangabe:	couvercle
+	Sequenznummer:	20
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	708
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	S23w1
+Museum
+	Land:	US
+	Stadt:	Boston
+	Name:	Isabella Stewart Gardner Museum
+	Rechteinhaber der Fotos:	© Isabella Stewart Gardner Museum
+	Hat die Fotorechte:	1

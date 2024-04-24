@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-7473be99b8958-e
+Kerberos_50_0_1
+
+
+
+Monument
+	ID:	14685
+	Objekt:	sarcophagus
+	Material:	terracotta
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kerberos
+	Beschreibung:	Kerberos sitting by the side of a daemon holding torch and sword.
+Szene
+	ID:	15131
+	Beschreibung:	Kerberos sitting by the side of a daemon holding torch and sword.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/volterra/museo_etrusco_guarnacci/15131X301.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kerberos
+	Katalognummer:	50
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Volterra
+	Name:	Museo Etrusco Guarnacci
+	Direktor:	Direttore Dott. Alessandro Furiesi
+	Anrede:	Gentilissimo Direttore,
+	Adresse:	Via Don Minzoni 15
+	Postleitzahl:	I-56048
+	Kontaktzenter:	Museo Etrusco Guarnacci
+	Stadt des Kontaktzenters:	Volterra
+	Rechteinhaber der Fotos:	© Museo Etrusco Guarnacci, Volterra
+	Hat die Fotorechte:	0

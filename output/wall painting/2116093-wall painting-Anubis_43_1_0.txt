@@ -1,0 +1,60 @@
+http://ark.dasch.swiss/ark:/72163/080e-762cd9b2ce676-3
+Anubis_43_1_0
+
+
+
+Monument
+	ID:	45813
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	Temple of Isis
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	altar mask sandal personification
+	Name:	Anubis
+	Beschreibung:	Priest with a mask of Anubis.
+	Bibliographie:	Elia, O., Le pitture del tempio d' Iside, Monumenti della pittura antica scoperti in Italia III, 4 (1941) 14 fig. 19; Tran Tam Tinh, V., Essai sur le culte d'Isis à Pompei (1964) 136 no. 31 pl. V3.
+	Kommentar:	Zu anderen Darstellungen im Isistempel siehe ID: 10175; 21619; 28263; 50195; 52591; 52812; 52818; 52837. 
+Datierung
+	Periode:	50 - 100 
+Epoche
+	Name:	2. Hälfte 1. Jh. n. Chr.
+	Periode:	50 - 100 
+	Sequenznummer:	3050
+Szene
+	ID:	48220
+	Beschreibung:	Priest with a mask of Anubis.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/48220X001.jpg
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	264
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.a. Kultpersonal, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	4700
+	Bandnummer:	5
+Catalog LIMC
+	Artikel:	Anubis
+	Katalognummer:	43
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8920
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

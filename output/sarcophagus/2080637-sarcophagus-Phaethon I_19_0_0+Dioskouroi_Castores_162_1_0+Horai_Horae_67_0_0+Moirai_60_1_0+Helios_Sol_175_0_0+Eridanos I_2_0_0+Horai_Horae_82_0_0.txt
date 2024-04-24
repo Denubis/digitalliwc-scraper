@@ -1,0 +1,90 @@
+http://ark.dasch.swiss/ark:/72163/080e-7431f3a8dd1f6-d
+Phaethon I_19_0_0
+Dioskouroi/Castores_162_1_0
+Horai/Horae_67_0_0
+Moirai_60_1_0
+Helios/Sol_175_0_0
+Eridanos I_2_0_0
+Horai/Horae_82_0_0
+
+
+
+Monument
+	ID:	10051
+	Entdeckungsort:	Ostia
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eridanos I Phaethon I Dioskouroi/Castores Horai/Horae Moirai Helios/Sol
+	Beschreibung:	On the extreme left Phaethon (I) begging Helios for his chariot in the presence of the four Horai, the Winds and Aurora. Then the fall of Phaethon (I) is depicted: Eridanos (I) to the right of Phaethon (I) who is hitting his head on the ground in the presence of a paidagogus, Kyknos and the Dioskouroi or Phosphoros and Hesperos. On the right Hermes, three Heliades, Klymene and a genius (or: the mourning Sol receiving the sad news from Mercurius).
+Szene
+	ID:	10269
+	Beschreibung:	On the extreme left Phaethon (I) begging Helios for his chariot in the presence of the four Horai, the Winds and Aurora. Then the fall of Phaethon (I) is depicted: Eridanos (I) to the right of Phaethon (I) who is hitting his head on the ground in the presence of a paidagogus, Kyknos and the Dioskouroi or Phosphoros and Hesperos. On the right Hermes, three Heliades, Klymene and a genius (or: the mourning Sol receiving the sad news from Mercurius).
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/denmark/copenhague/glyptotheque_ny_carlsberg/10269X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/denmark/copenhague/glyptotheque_ny_carlsberg/10269X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/denmark/copenhague/glyptotheque_ny_carlsberg/10269X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/denmark/copenhague/glyptotheque_ny_carlsberg/10269X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/denmark/copenhague/glyptotheque_ny_carlsberg/10269X299.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Phaethon I
+	Katalognummer:	19
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dioskouroi/Castores
+	Katalognummer:	162
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	67
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Moirai
+	Katalognummer:	60
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	175
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eridanos I
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	82
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	847
+Museum
+	Land:	DK
+	Stadt:	Copenhague
+	Name:	Glyptothèque Ny Carlsberg
+	Direktor:	Curator Claus Grønne
+	Anrede:	Dear Curator,
+	Adresse:	Dantes Pl. 7
+	Postleitzahl:	DK-1556
+	Kontaktzenter:	Archives and Library. Glyptothèque Ny Carlsberg
+	Stadt des Kontaktzenters:	Copenhague V
+	Rechteinhaber der Fotos:	© Ny Carlsberg Glyptothek
+	Hat die Fotorechte:	1

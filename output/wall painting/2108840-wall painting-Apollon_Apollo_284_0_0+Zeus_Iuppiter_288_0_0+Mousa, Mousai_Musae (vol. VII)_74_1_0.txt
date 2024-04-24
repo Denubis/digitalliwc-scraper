@@ -1,0 +1,92 @@
+http://ark.dasch.swiss/ark:/72163/080e-75c52850e700d-4
+Apollon/Apollo_284_0_0
+Zeus/Iuppiter_288_0_0
+Mousa, Mousai/Musae (vol. VII)_74_1_0
+
+
+
+Monument
+	ID:	38488
+	Entdeckungsort:	Ostia
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Mousa, Mousai Zeus/Iuppiter
+Szene
+	ID:	40473
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/40473X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/40473X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/40473X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/40473X005.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/40473X006.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/40473X007.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/40473X008.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/40473X009.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/40473X210.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/40473X211.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/40473X212.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	284
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	288
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	74
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Insula delle Muse
+Museum
+	Land:	IT
+	Stadt:	Ostia
+	Direktor:	Dott.ssa Elvira Angeloni, Archivio Fotografico
+	Adresse:	Viale dei Romagnoli 717
+	Postleitzahl:	I-00119
+	Kontaktzenter:	Soprintendenza archeologica di Ostia
+	Stadt des Kontaktzenters:	Ostia Antica - Roma
+	Rechteinhaber der Fotos:	© Soprintendenza archeologica di Ostia
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	III, IX, 22

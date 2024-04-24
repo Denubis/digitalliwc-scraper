@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-7486a8abe5a6f-8
+Nessos_76_1_0
+Hyllos I_2_0_0
+
+
+
+Monument
+	ID:	16019
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 9,3-6 (House of the Centaur)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Hyllos I Nessos
+	Beschreibung:	Deianeira holding the child Hyllos (I), standing in a biga. She watches the duel between Herakles and Nessos.
+Szene
+	ID:	16617
+	Beschreibung:	Deianeira holding the child Hyllos (I), standing in a biga. She watches the duel between Herakles and Nessos.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/16617X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/16617X302.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Nessos
+	Katalognummer:	76
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hyllos I
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9001
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

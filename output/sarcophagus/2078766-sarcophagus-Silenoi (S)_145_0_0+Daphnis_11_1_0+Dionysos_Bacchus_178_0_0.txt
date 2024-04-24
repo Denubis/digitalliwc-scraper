@@ -1,0 +1,62 @@
+http://ark.dasch.swiss/ark:/72163/080e-741733f42a72b-e
+Silenoi (S)_145_0_0
+Daphnis_11_1_0
+Dionysos/Bacchus_178_0_0
+
+
+
+Monument
+	ID:	8159
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	herm base tree kantharos cult image, cult statue child grapes laurel branch plant pardalis, pantherskin satyr, silen nymph
+	Name:	Daphnis Dionysos/Bacchus Silenoi
+	Beschreibung:	Verschiedene Satyrn und eine Nymphe stellen eine Dionysos-Herme auf (bärtig, bekränzt, gewandet, mit Armen, die einen kantharos halten). Als Knabe in Pantherfell mit einem großen Ast in der Rechten und Trauben in der Linken schaut ihnen Dionysos dabei zu. Eventuell ist einer der Satyrn (auf der Basis knieend mit Fell um die Hüften geknotet) als Daphnis zu deuten. 
+	Bibliographie:	Matz, F., SarkRel IV 3 n. 202 tav. 211, 2; Simon, E., RM 69 (1962) 136-158 tav. 43-49; Turcan, R., Les sarcophages romains (1966) 412 n.5. 416 n.5-6; Schefold, SB III 40 fig. 42. 
+Datierung
+	Periode:	138 - 161 
+Epoche
+	Name:	antoninisch
+	Periode:	138 - 192 
+	Sequenznummer:	1210
+Szene
+	ID:	8345
+	Beschreibung:	Verschiedene Satyrn und eine Nymphe stellen eine Dionysos-Herme auf (bärtig, bekränzt, gewandet, mit Armen, die einen kantharos halten). Als Knabe in Pantherfell mit einem großen Ast in der Rechten und Trauben in der Linken schaut ihnen Dionysos dabei zu. Eventuell ist einer der Satyrn (auf der Basis knieend mit Fell um die Hüften geknotet) als Daphnis zu deuten. 
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/princeton_new_jersey/princeton_university_art_museum/8345X003.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Silenoi (S)
+	Katalognummer:	145
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Daphnis
+	Katalognummer:	11
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	178
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1949-110
+Museum
+	Land:	US
+	Stadt:	Princeton (New Jersey)
+	Name:	Princeton University Art Museum
+	Direktor:	J. Michael Padgett, Curator of Ancient Art
+	Anrede:	Dear Director,
+	Postleitzahl:	USA-
+	Kontaktzenter:	Princeton University Art Museum
+	Stadt des Kontaktzenters:	Princeton NJ 08544-1018
+	Rechteinhaber der Fotos:	© Trustees of Princeton University
+	Hat die Fotorechte:	1

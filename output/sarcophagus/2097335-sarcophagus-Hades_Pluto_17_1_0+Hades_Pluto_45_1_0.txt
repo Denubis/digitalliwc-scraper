@@ -1,0 +1,55 @@
+http://ark.dasch.swiss/ark:/72163/080e-7520acf6c2598-e
+Hades/Pluto_17_1_0
+Hades/Pluto_45_1_0
+
+
+
+Monument
+	ID:	26890
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hades/Pluto
+Szene
+	ID:	28248
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/salerno/duomo/28248X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/salerno/duomo/28248X203.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/salerno/duomo/28248X204.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/salerno/duomo/28248X205.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/salerno/duomo/28248X299.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	17
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	45
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 3, 406
+Museum
+	Land:	IT
+	Stadt:	Salerno
+	Name:	Duomo
+	Rechteinhaber der Fotos:	© Duomo Salerno
+	Hat die Fotorechte:	1

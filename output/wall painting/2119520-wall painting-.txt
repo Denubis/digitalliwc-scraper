@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-765dd83c722a5-2
+
+
+
+Monument
+	ID:	52620
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Isiac priest (prophetes?) with shaven head holding an ureus and a crown. Behind him a palm and a base on which is lying a lion (?).
+	Bibliographie:	Tran Tam Tinh, V., Essais sur le culte d’Isis à Pompéi (1964) 94.137 n. 34 tav. IV, 1; Sampaolo, V., La decorazione pittorica in: Alla ricerca di Iside. Analisi, studi e  restauri dell’Iseo pompeiano nel Museo di Napoli (1992) 23-39. 42 n.1,8 tav. 7.
+Szene
+	ID:	57873
+	Beschreibung:	siac priest (prophetes?) with shaven head holding an ureus and a crown. Behind him a palm and a base on which is lying a lion (?).
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	259
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.a. Kultpersonal, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	4700
+	Bandnummer:	5
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8922
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

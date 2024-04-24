@@ -1,0 +1,117 @@
+http://ark.dasch.swiss/ark:/72163/080e-74551f0e94302-9
+Mousa, Mousai/Musae (vol. VII)_230_1_0
+Apollon/Apollo_462a_1_0
+Marsyas I_28_0_0
+Rhea_ad 18_0_0
+Artemis/Diana_293c_0_0
+Leto/Latona_25_0_0
+Mercurius_337_0_0
+Attis_394_1_0
+
+
+
+Monument
+	ID:	12529
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Via Aurelia
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Apollon/Apollo Attis Kybele Marsyas I Rhea Artemis/Diana Leto/Latona Mercurius Mousa, Mousai
+	Beschreibung:	The frieze contains three episodes from the myth of Marsyas (I). The contest between Apollon and Marsyas. They are surrounded by Mousai and other divinities (Kybele, Latona, Mercurius). Flanking this scene are others of Marsyas spying on Athena and the punishment of Marsyas. Other scenes: Kybele and Attis with pedum and syrinx. Rhea, seated, framed by lions.
+Datierung
+	Periode:	210 - 230 
+Szene
+	ID:	12831
+	Beschreibung:	The frieze contains three episodes from the myth of Marsyas (I). The contest between Apollon and Marsyas. They are surrounded by Mousai and other divinities (Kybele, Latona, Mercurius). Flanking this scene are others of Marsyas spying on Athena and the punishment of Marsyas. Other scenes: Kybele and Attis with pedum and syrinx. Rhea, seated, framed by lions.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_e_galleria_doria_pamphilj/12831X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_e_galleria_doria_pamphilj/12831X007.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_e_galleria_doria_pamphilj/12831X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_e_galleria_doria_pamphilj/12831X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_e_galleria_doria_pamphilj/12831X301.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_e_galleria_doria_pamphilj/12831X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_e_galleria_doria_pamphilj/12831X303.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_e_galleria_doria_pamphilj/12831X304.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_e_galleria_doria_pamphilj/12831X305.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_e_galleria_doria_pamphilj/12831X306.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_e_galleria_doria_pamphilj/12831X307.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	230
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	462a
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Marsyas I
+	Katalognummer:	28
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Rhea
+	Katalognummer:	ad 18
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	293c
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Leto/Latona
+	Katalognummer:	25
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	337
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Attis
+	Katalognummer:	394
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 2, 208
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo e Galleria Doria Pamphilj
+	Rechteinhaber der Fotos:	© Palazzo e Galleria Doria Pamphilj
+	Hat die Fotorechte:	1

@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-75149fa7425e1-f
+Gorgones Romanae_64_1_0
+
+
+
+Monument
+	ID:	26037
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Gorgo, Gorgones
+	Beschreibung:	Gorgoneion on the short side of the sarcophagus.
+Szene
+	ID:	27338
+	Beschreibung:	Gorgoneion on the short side of the sarcophagus.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/palermo/museo_archeologico_regionale_a_salinas/27338X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Gorgones Romanae
+	Katalognummer:	64
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	989
+Museum
+	Land:	IT
+	Stadt:	Palermo
+	Name:	Museo Archeologico Regionale "A. Salinas"
+	Direktor:	Dir. Dott.ssa Giuseppina Favara
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Piazza Olivella 24
+	Postleitzahl:	I-90100
+	Kontaktzenter:	Museo Archeologico Regionale "A. Salinas"
+	Stadt des Kontaktzenters:	Palermo
+	Rechteinhaber der Fotos:	© Polo Regionale di Palermo per i Parchi e i Musei Archeologici
+	Hat die Fotorechte:	1

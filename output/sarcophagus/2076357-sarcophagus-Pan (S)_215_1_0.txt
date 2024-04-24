@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-73f4c33655c5e-4
+Pan (S)_215_1_0
+
+
+
+Monument
+	ID:	5728
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Pan
+	Beschreibung:	Pan supporting Dionysos.
+Szene
+	ID:	5829
+	Beschreibung:	Pan supporting Dionysos.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/denmark/copenhague/glyptotheque_ny_carlsberg/5829X001.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Pan (S)
+	Katalognummer:	215
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	846
+Museum
+	Land:	DK
+	Stadt:	Copenhague
+	Name:	Glyptothèque Ny Carlsberg
+	Direktor:	Curator Claus Grønne
+	Anrede:	Dear Curator,
+	Adresse:	Dantes Pl. 7
+	Postleitzahl:	DK-1556
+	Kontaktzenter:	Archives and Library. Glyptothèque Ny Carlsberg
+	Stadt des Kontaktzenters:	Copenhague V
+	Rechteinhaber der Fotos:	© Ny Carlsberg Glyptothek
+	Hat die Fotorechte:	1

@@ -1,0 +1,30 @@
+http://ark.dasch.swiss/ark:/72163/080e-7520dc8af7099-f
+Hades/Pluto_63_0_0
+
+
+
+Monument
+	ID:	26903
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hades/Pluto
+Szene
+	ID:	28261
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	63
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Cat. 55
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Rondanini (Rondinini)
+	Rechteinhaber der Fotos:	© Palazzo Rondanini, Roma
+	Kommentar:	Numéros d'après Salerno, L./Paribeni, E., Palazzo Rondinini (1965).
+	Hat die Fotorechte:	1

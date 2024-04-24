@@ -1,0 +1,63 @@
+http://ark.dasch.swiss/ark:/72163/080e-7496c1bd1baed-6
+Lykomedes I_19_0_0
+Achilleus_134_0_0
+Agyrtes_18_1_0
+
+
+
+Monument
+	ID:	17161
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Mausoleum Vigna Jacobini
+	Objekt:	sarcophagus
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	helmet shield trumpet, tuba, salpinx seat, chair, sedes, sedile
+	Name:	Achilleus Agyrtes Lykomedes I Odysseus Deidameia II
+	Beschreibung:	Recognition of Achilleus in Skyros. Only the left part with the family of Lykomedes (I) and the Greeks is preserved.
+	Bibliographie:	SarkRel II no. 24a; Giuliano, A., Il commercio dei sarcofagi attici (1962) no. 356; Poulsen, F., Catalogue of Ancient Sculpture in the Ny Carlsberg Glyptotek (1951) 540-541 no. 776; Hommages à Marcel Renard III, Coll. Latomus 103 (1969) 545 pl.  195. 5.
+Datierung
+	Periode:	200 - 225 
+Epoche
+	Name:	1. Viertel 3. Jh. n. Chr.
+	Periode:	200 - 225 
+	Sequenznummer:	3340
+Szene
+	ID:	17850
+	Beschreibung:	Recognition of Achilleus in Skyros. Only the left part with the family of Lykomedes (I) and the Greeks is preserved.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/denmark/copenhague/glyptotheque_ny_carlsberg/17850X002.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Lykomedes I
+	Katalognummer:	19
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	134
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Agyrtes
+	Katalognummer:	18
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	845
+Museum
+	Land:	DK
+	Stadt:	Copenhague
+	Name:	Glyptothèque Ny Carlsberg
+	Direktor:	Curator Claus Grønne
+	Anrede:	Dear Curator,
+	Adresse:	Dantes Pl. 7
+	Postleitzahl:	DK-1556
+	Kontaktzenter:	Archives and Library. Glyptothèque Ny Carlsberg
+	Stadt des Kontaktzenters:	Copenhague V
+	Rechteinhaber der Fotos:	© Ny Carlsberg Glyptothek
+	Hat die Fotorechte:	1

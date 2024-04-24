@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-76197330b5135-9
+Aineias_207_0_0
+
+
+
+Monument
+	ID:	44436
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	spear
+	Name:	Aineias
+	Beschreibung:	Fragments of a wall painting, one showing a standing male figure, the other bearing the inscription "bina manu", perhaps a citation of a passage of the Aeneid?
+	Bibliographie:	Toynbee, J. M. C., Art in Britain Under the Romans (1964) 220; Taylor, M. V./ Collingwood, R. G., JRS 16, 1926; 238. 244 no. 216 fig. 68.
+Datierung
+	Periode:	300 - 400 
+Epoche
+	Name:	4. Jh. n. Chr.
+	Periode:	300 - 400 
+	Sequenznummer:	3420
+Szene
+	ID:	46733
+	Beschreibung:	Fragments of a wall painting, one showing a standing male figure, the other bearing the inscription "bina manu", perhaps a citation of a passage of the Aeneid?
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Aineias
+	Katalognummer:	207
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	84
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	British Museum
+	Direktor:	Dr. Charles Arnold
+	Adresse:	Great Russell Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	British Museum - Greek and Roman Antiquities
+	Stadt des Kontaktzenters:	London WC 1B 3DG
+	Rechteinhaber der Fotos:	© British Museum, London
+	Hat die Fotorechte:	1

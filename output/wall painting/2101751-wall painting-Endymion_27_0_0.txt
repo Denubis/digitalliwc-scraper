@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-755fcf28fabd8-c
+Endymion_27_0_0
+
+
+
+Monument
+	ID:	31334
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	IX 2,10. 14 (Casa del Gallo II)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Endymion
+Szene
+	ID:	32905
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	27
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9247
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

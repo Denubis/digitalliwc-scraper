@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-7442efa44982a-0
+Populus, Populus Romanus_6_0_0
+Herakles_1948_1_0
+
+
+
+Monument
+	ID:	11249
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Agia Paraskevi
+	Objekt:	wall painting
+	Material:	stone
+	Land:	CH
+	Kategorie:	engraving
+	Name:	Herakles Populus, Populus Romanus
+	Beschreibung:	Graffito on the Temple of Faustina in Rome. Herakles fighting against the Nemean Lion.
+Szene
+	ID:	11521
+	Beschreibung:	Herakles fighting against the Nemean Lion.
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/foro_romano/11521X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Populus, Populus Romanus
+	Katalognummer:	6
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	1948
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tempio di Antonino e Faustina
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Foro Romano
+	Direktor:	Soprintendente Dott. Angelo Bottini
+	Adresse:	Piazza S. Maria Nova 53
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza Archeologica di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

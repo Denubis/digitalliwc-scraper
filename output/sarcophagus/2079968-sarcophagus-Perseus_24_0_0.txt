@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-7428632cbbe25-2
+Perseus_24_0_0
+
+
+
+Monument
+	ID:	9373
+	Entdeckungsort:	Laodiceia (Lykos)
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Perseus
+	Beschreibung:	Masks of Perseus, Medusa, Hermes, Apollon, Dionysos, Herakles, satyr and silen on a garland sarcophagus.
+Szene
+	ID:	9576
+	Beschreibung:	Masks of Perseus, Medusa, Hermes, Apollon, Dionysos, Herakles, satyr and silen on a garland sarcophagus.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/denmark/copenhague/glyptotheque_ny_carlsberg/9576X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Perseus
+	Katalognummer:	24
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	856
+Museum
+	Land:	DK
+	Stadt:	Copenhague
+	Name:	Glyptothèque Ny Carlsberg
+	Direktor:	Curator Claus Grønne
+	Anrede:	Dear Curator,
+	Adresse:	Dantes Pl. 7
+	Postleitzahl:	DK-1556
+	Kontaktzenter:	Archives and Library. Glyptothèque Ny Carlsberg
+	Stadt des Kontaktzenters:	Copenhague V
+	Rechteinhaber der Fotos:	© Ny Carlsberg Glyptothek
+	Hat die Fotorechte:	1

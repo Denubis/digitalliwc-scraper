@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-743eb7f74f227-5
+Kassandra I (vol. VII)_34_0_0
+Equus Troianus_10_0_0
+
+
+
+Monument
+	ID:	10951
+	Entdeckungsort:	Rome
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Equus Troianus Kassandra I
+Szene
+	ID:	11196
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Kassandra I (vol. VII)
+	Katalognummer:	34
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Equus Troianus
+	Katalognummer:	10
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Sepolcro Corsini
+	Rechteinhaber der Fotos:	© Roma
+	Hat die Fotorechte:	0

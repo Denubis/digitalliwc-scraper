@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-740f276b8f6ec-4
+Stellae (S)_23_0_0
+
+
+
+Monument
+	ID:	7588
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Stellae
+	Beschreibung:	Phosphoros accompanies a chariot during an apotheose.
+Szene
+	ID:	7770
+	Beschreibung:	Phosphoros accompanies a chariot during an apotheose.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Stellae (S)
+	Katalognummer:	23
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Torlonia
+	Adresse:	Via della Conciliazione 30
+	Postleitzahl:	I-00193
+	Kontaktzenter:	Amministrazione Principe Torlonia
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Museo Torlonia, Roma
+	Hat die Fotorechte:	1

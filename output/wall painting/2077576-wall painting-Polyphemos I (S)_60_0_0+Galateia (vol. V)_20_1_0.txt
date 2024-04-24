@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-740630a6dd56d-e
+Polyphemos I (S)_60_0_0
+Galateia (vol. V)_20_1_0
+
+
+
+Monument
+	ID:	6957
+	Entdeckungsort:	Ercolano, Herculaneum, Herculanum
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Galateia Polyphemos I
+	Beschreibung:	Galateia and Polyphemos.
+Szene
+	ID:	7103
+	Beschreibung:	Galateia and Polyphemos.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/7103X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/7103X302.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Polyphemos I (S)
+	Katalognummer:	60
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Galateia (vol. V)
+	Katalognummer:	20
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8983
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

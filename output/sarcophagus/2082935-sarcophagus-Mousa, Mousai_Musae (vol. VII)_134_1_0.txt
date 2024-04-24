@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-7452ce2679c58-5
+Mousa, Mousai/Musae (vol. VII)_134_1_0
+
+
+
+Monument
+	ID:	12367
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Mousa, Mousai
+Szene
+	ID:	12667
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_cardelli/12667X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	134
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Cardelli
+	Rechteinhaber der Fotos:	© Palazzo Cardelli, Roma
+	Hat die Fotorechte:	1

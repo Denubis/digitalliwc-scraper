@@ -1,0 +1,71 @@
+http://ark.dasch.swiss/ark:/72163/080e-7456cb446e60b-b
+Nestor (vol. VII)_12_0_0
+Achilleus_429_1_0
+Athena/Minerva_354_0_0
+Agamemnon_48a_0_0
+
+
+
+Monument
+	ID:	12646
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 9,6 (House of the Dioskouroi)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	sword shield spear
+	Name:	Achilleus Agamemnon Athena/Minerva Nestor
+	Beschreibung:	Mural painting with Achilleus in the act of lunging at Agamemnon, Minerva holding him back. The man between Achilleus and Agamemnon is Nestor.
+	Bibliographie:	Helbig, Wandgemälde 285 no. 1307; Schefold, WP 117; Reinach, RépPeint 167, 4; Rizzo, PER pl. 56; Richardson, L., The Casa dei Dioscuri and its Painters, MAAR 23 (1955) pl. 33; Teolato Maiuri, B., Museo Nazionale Napoli (1971) fig. 74.  
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	12949
+	Beschreibung:	Mural painting with Achilleus in the act of lunging at Agamemnon, Minerva holding him back. The man between Achilleus and Agamemnon is Nestor.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/12949X301.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/12949X302.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Nestor (vol. VII)
+	Katalognummer:	12
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	429
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	354
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Agamemnon
+	Katalognummer:	48a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9104
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-7452fa11be194-8
+Mousa, Mousai/Musae (vol. VII)_147_0_0
+Apollon/Apollo_375b_0_0
+
+
+
+Monument
+	ID:	12379
+	Entdeckungsort:	Cagliari
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Apollon/Apollo Mousa, Mousai
+Szene
+	ID:	12679
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	147
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	375b
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Agliè
+	Name:	Castello Ducale
+	Rechteinhaber der Fotos:	© Castello Ducale Agliè
+	Hat die Fotorechte:	0

@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ee3cc64a2b0-b
+Kairoi/Tempora anni_73_1_0
+
+
+
+Monument
+	ID:	23326
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kairoi/Tempora anni
+	Beschreibung:	Above a scene where Erotes form garlands is the central clipeus. The Erotes are depicted as Seasons.
+	Monument-URL:	arachne.dainst.org/entity/1127079
+Szene
+	ID:	24470
+	Beschreibung:	Above a scene where Erotes form garlands is the central clipeus. The Erotes are depicted as Seasons.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/agrigento/museo_archeologico_regionale/24470X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	73
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Agrigento
+	Name:	Museo Archeologico Regionale
+	Direktor:	Direttore Dott. Giuseppe Castellana
+	Anrede:	Chiarissimo Direttore,
+	Adresse:	Contrada S. Nicola
+	Postleitzahl:	I-92100
+	Kontaktzenter:	Museo Archeologico Regionale
+	Stadt des Kontaktzenters:	Agrigento
+	Rechteinhaber der Fotos:	© Sopritendenza per i Beni Culturali ed Ambientali di Agrigento
+	Hat die Fotorechte:	1

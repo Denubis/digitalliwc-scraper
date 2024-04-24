@@ -1,0 +1,146 @@
+http://ark.dasch.swiss/ark:/72163/080e-73aa0529b8942-e
+Hippolytos I_41_0_1
+Hesione (S)_10_0_1
+Telamon_13_0_0
+Antaios I_73_0_0
+Artemis/Diana_334_0_1
+Aktaion_93_0_0
+Thrake_1_0_0
+Herakles_927_0_0
+Orpheus_5_1_0
+Mousa, Mousai/Musae (vol. VII)_93_0_0
+Mousa, Mousai_269_0_0
+Herakles_1478_0_0
+
+
+
+Monument
+	ID:	451
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	IX 1,22 (Domus M. Epidii Sabini)
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	dog fight, battle
+	Name:	Aktaion Antaios I Artemis/Diana Herakles Hesione Hippolytos I Mousa, Mousai Orpheus Telamon Thrake
+	Beschreibung:	Mural pinting with various scenes.
+	Bibliographie:	Schefold, WP 238; Brommer, Denkmälerlisten I 25,2.
+	Monument-URL:	http://www.limc-france.fr/objet/934
+Datierung
+	Periode:	-15 - 63 
+Epoche
+	Name:	3. pompejanischer Stil
+	Periode:	-15 - 63 
+	Sequenznummer:	1340
+Szene
+	ID:	26507
+	Szenerieangabe:	x
+	Beschreibung:	Hesione, Telamon, Herakles and the dead Ketos.
+	Sequenznummer:	1230
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	41
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Hesione (S)
+	Katalognummer:	10
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Telamon
+	Katalognummer:	13
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49605
+	Szenerieangabe:	a'
+	Sequenznummer:	1005
+Catalog LIMC
+	Artikel:	Antaios I
+	Katalognummer:	73
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49606
+	Szenerieangabe:	t'
+	Beschreibung:	Herakles holds club between his legs, himation draped over lower part of the torso. With Orpheus and Muses. Between them the remains of another figure whose name may be amended to Thrake.
+	Inschrift:	[THRHI]KH
+	Bibliographie:	Schefold, WP 238 t; Peters, W. J., Landscape in Roman-campanian Mural Painting (1963) 87 fig. 73
+	Sequenznummer:	1195
+	Name:	Aktaion Artemis/Diana Herakles Mousa, Mousai Orpheus Thrake
+	Stichwort:	dog
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49606X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49606X208.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49606X209.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	334
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Aktaion
+	Katalognummer:	93
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Thrake
+	Katalognummer:	1
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	927
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Orpheus
+	Katalognummer:	5
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	93
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mousa, Mousai
+	Katalognummer:	269
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	1478
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	IX 1,22
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Domus Cuspiorum Pansae et Proculi
+Inventar
+	Spezifikation:	3. Inv.
+	Nummer:	Casa di M. Epidius Sabinus

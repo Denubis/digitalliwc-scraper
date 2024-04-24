@@ -1,0 +1,30 @@
+http://ark.dasch.swiss/ark:/72163/080e-74b9a0471b2d0-6
+Heros equitans (vol. VI)_473_0_0
+
+
+
+Monument
+	ID:	19624
+	Entdeckungsort:	Philippoi, Philippi (Kavala, Macedonia/Thrace)
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Heros equitans
+Szene
+	ID:	20523
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Heros equitans (vol. VI)
+	Katalognummer:	473
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	λ 209
+Museum
+	Land:	GR
+	Stadt:	Philippi
+	Name:	Musée Archéologique
+	Rechteinhaber der Fotos:	© Archaeological Museum of Philippi
+	Hat die Fotorechte:	0

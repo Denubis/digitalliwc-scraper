@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e6022d61a36-2
+Vulcanus_10_1_0
+
+
+
+Monument
+	ID:	4688
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Vulcanus
+	Beschreibung:	Vulcanus with pliers.
+Szene
+	ID:	4755
+	Beschreibung:	Vulcanus with pliers.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/antiquarium/4755X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/antiquarium/4755X202.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Vulcanus
+	Katalognummer:	10
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	21631
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Antiquarium
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via villa dei Misteri 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei (NA)
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

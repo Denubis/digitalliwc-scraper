@@ -1,0 +1,58 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ab16243c733-f
+Althaia_2_1_0
+Moirai_ad 50_0_0
+
+
+
+Monument
+	ID:	18604
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Rome
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	chiton fire (on altar) garland pillar log altar: monolithic block
+	Name:	Althaia Erinys Moirai
+	Grössenangabe:	H. 0,68. L. 0,77.
+	Beschreibung:	Althaia eilt mit wehendem Gewand von r. zum Altar (rechteckiger Block in Übereckansicht, profilierte Basis und Deckplatte, Girlande, Feuer), um das Scheit ins Feuer zu werfen. Hinter dem Altar eine weitere Frau, wohl Rachegöttin. Im Hintergrund drei Pilaster mit Kompositkapitellen als Träger für vielfach abgestuftes Gebälk.
+	Bibliographie:	Koch, G., SarkRel XII 6 Nr. 118 Taf. 102, 3.
+	Kommentar:	1911 aus Villa Marmagliano (dann Klein-Chevalier) in Maiano, bei Fiesole.
+Datierung
+	Periode:	170 - 180 
+Epoche
+	Name:	3. Drittel 2. Jh. n. Chr.
+	Periode:	166 - 200 
+	Sequenznummer:	3260
+Szene
+	ID:	19457
+	Beschreibung:	Althaia eilt mit wehendem Gewand von r. zum Altar (rechteckiger Block in Übereckansicht, profilierte Basis und Deckplatte, Girlande, Feuer), um das Scheit ins Feuer zu werfen. Hinter dem Altar eine weitere Frau, wohl Rachegöttin. Im Hintergrund drei Pilaster mit Kompositkapitellen als Träger für vielfach abgestuftes Gebälk.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/museo_archeologico/19457X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Althaia
+	Katalognummer:	2
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Moirai
+	Katalognummer:	ad 50
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	85197
+Museum
+	Land:	IT
+	Stadt:	Firenze
+	Name:	Museo Archeologico
+	Direktor:	Soprintendente Dott.ssa Fulvia Lo Schiavo
+	Anrede:	Chiarissimo Soprintendente
+	Adresse:	Via della Pergola 65
+	Postleitzahl:	I-50121
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici della Toscana
+	Stadt des Kontaktzenters:	Firenze
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici della Toscana
+	Hat die Fotorechte:	1

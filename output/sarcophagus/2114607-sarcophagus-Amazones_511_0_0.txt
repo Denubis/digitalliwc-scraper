@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-76179b0f968f0-7
+Amazones_511_0_0
+
+
+
+Monument
+	ID:	44303
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	horse Amazon fight, battle rider
+	Name:	Amazones
+	Bibliographie:	Koch, G., AA 89 (1974) 303 no. 8 fig. 16.
+Datierung
+	Periode:	160 
+	Kommentar:	about
+Epoche
+	Name:	3. Viertel 2. Jh. n. Chr.
+	Periode:	150 - 175 
+	Sequenznummer:	3220
+Szene
+	ID:	46589
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	511
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	A 3602
+Museum
+	Land:	TR
+	Stadt:	Antalya
+	Name:	Musée Archéologique
+	Direktor:	Prof. Kutalmis Görkay
+	Adresse:	Dil ve Tarih, Cografya Fakültesi
+	Postleitzahl:	TR-06100
+	Kontaktzenter:	Ankara Üniversitesi
+	Stadt des Kontaktzenters:	Sihhiye Ankara / Türkei
+	Rechteinhaber der Fotos:	© Archaeological Museum Antalya
+	Hat die Fotorechte:	1

@@ -1,0 +1,78 @@
+http://ark.dasch.swiss/ark:/72163/080e-7416cd79e059f-4
+Sterope I_8_0_0
+Oinomaos_35_1_0
+Myrtilos_19_0_0
+Pelops_43_0_0
+
+
+
+Monument
+	ID:	8131
+	Entdeckungsort Details:	Via Prenestina
+	Objekt:	sarcophagus lid
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Oinomaos Sterope I Myrtilos Pelops
+	Beschreibung:	Sterope (I) mourning over the corpse of Oinomaos. Sterope (I) is supported by two other women.
+Datierung
+	Periode:	150 - 180 
+Szene
+	ID:	8317
+	Szenerieangabe:	couvercle
+	Beschreibung:	Sterope (I) mourning over the corpse of Oinomaos. Sterope (I) is supported by two other women.
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/8317X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/8317X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/8317X397.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/8317X398.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/8317X399.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Sterope I
+	Katalognummer:	8
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Oinomaos
+	Katalognummer:	35
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Myrtilos
+	Katalognummer:	19
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Pelops
+	Katalognummer:	43
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	108407
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Romano
+	Direktor:	Soprintendente Dott. Giuseppe Proietti
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali - Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

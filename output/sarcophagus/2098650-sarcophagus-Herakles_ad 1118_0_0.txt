@@ -1,0 +1,30 @@
+http://ark.dasch.swiss/ark:/72163/080e-753379c16c887-e
+Herakles_ad 1118_0_0
+
+
+
+Monument
+	ID:	28212
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Herakles
+	Beschreibung:	Herm of Herakles.
+Szene
+	ID:	29616
+	Beschreibung:	Herm of Herakles.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	ad 1118
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	LY
+	Stadt:	Tolmeita
+	Name:	Musée
+	Rechteinhaber der Fotos:	© Musée Tolmeita
+	Hat die Fotorechte:	1

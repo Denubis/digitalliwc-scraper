@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-762a29a24a9ca-e
+Aktaion_99_0_0
+
+
+
+Monument
+	ID:	45623
+	Entdeckungsort:	Castellammare di Stabia
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	dog
+	Name:	Aktaion
+	Bibliographie:	Elia, O., Pitture di Stabia (1957) 40 pl. 14.
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	48030
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Aktaion
+	Katalognummer:	99
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2439
+Museum
+	Land:	IT
+	Stadt:	Castellammare di Stabia
+	Name:	Antiquarium Stabiano
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

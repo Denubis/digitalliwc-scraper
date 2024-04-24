@@ -1,0 +1,73 @@
+http://ark.dasch.swiss/ark:/72163/080e-74955b1118583-6
+Herakles_1718_1_0
+Herakles_2151_0_0
+Herakles_2294_0_0
+Herakles_ad 2388_0_0
+Amazones_132_1_0
+
+
+
+Monument
+	ID:	17063
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	club belt fight, battle
+	Name:	Herakles Amazones
+	Beschreibung:	Labours of Herakles: Lion, Hydra, Boar, Deer, Birds, Amazon, Augeias, Bull, Horses of Diomedes, Hesperides. Geryoneus and Kerberos missing.
+	Bibliographie:	SarkRel III no. 104 pl. 29; Sichtermann/ Koch 32 no. 23 pl. 48, 2.
+Datierung
+	Periode:	200 
+	Kommentar:	about
+Epoche
+	Name:	um 200 n. Chr.
+	Periode:	190 - 210 
+	Sequenznummer:	3270
+Szene
+	ID:	17749
+	Beschreibung:	Labours of Herakles: Lion, Hydra, Boar, Deer, Birds, Amazon, Augeias, Bull, Horses of Diomedes, Hesperides. Geryoneus and Kerberos missing.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/17749X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	1718
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2151
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2294
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	ad 2388
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	132
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	145
+Museum
+	Land:	IT
+	Stadt:	Firenze
+	Name:	Galleria degli Uffizi
+	Adresse:	Via della Ninna 5
+	Postleitzahl:	I-50122
+	Kontaktzenter:	Soprintendenza Speciale per il Polo Museale Fiorentino
+	Stadt des Kontaktzenters:	Firenze
+	Rechteinhaber der Fotos:	Su concessione del Ministero dei beni e delle attività culturali e del turismo
+	Hat die Fotorechte:	1

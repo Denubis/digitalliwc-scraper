@@ -1,0 +1,51 @@
+http://ark.dasch.swiss/ark:/72163/080e-74f10a1e50d84-9
+Hypnos/Somnus_107_1_0
+Endymion_82_0_0
+
+
+
+Monument
+	ID:	23526
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Endymion Hypnos/Somnus
+	Monument-URL:	arachne.dainst.org/entity/1120943
+Szene
+	ID:	24695
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/berlin/staatliche_museen_zu_berlin/antikensammlung/24695X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/berlin/staatliche_museen_zu_berlin/antikensammlung/24695X101.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	107
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	82
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Sk 846
+Museum
+	Land:	DE
+	Stadt:	Berlin
+	Name:	Staatliche Museen zu Berlin, Antikensammlung
+	Direktor:	Dir. Prof. Dr. Andreas Scholl
+	Anrede:	Sehr geehrter Herr Professor,
+	Adresse:	Bodestrasse 1-3
+	Postleitzahl:	D-10178
+	E-Mail:	ant@smb.spk-berlin.de
+	Kontaktzenter:	Antikensammlung, Staatliche Museen zu Berlin - Preussischer Kulturbesitz
+	Stadt des Kontaktzenters:	Berlin
+	Rechteinhaber der Fotos:	© Staatliche Museen zu Berlin, Antikensammlung
+	Hat die Fotorechte:	1

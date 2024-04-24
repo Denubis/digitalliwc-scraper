@@ -1,0 +1,112 @@
+http://ark.dasch.swiss/ark:/72163/080e-749ebfa1f5418-d
+Herakles_1721_1_0
+Herakles_ad 2151_0_0
+Herakles_ad 2388_0_0
+Amazones_129_0_0
+
+
+
+Monument
+	ID:	17729
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	fight, battle
+	Name:	Herakles Amazones
+	Beschreibung:	Labours of Herakles: Lion, Hydra, Boar, Deer, Birds, Amazon, Augeias, Bull, Horses of Diomedes, Geryoneus, Kerberos and Hesperides.
+	Bibliographie:	SarkRel III 1, 130 no. 107 pl. 30.
+Datierung
+	Periode:	200 - 300 
+Epoche
+	Name:	3. Jh. n. Chr.
+	Periode:	200 - 300 
+	Sequenznummer:	3280
+Szene
+	ID:	18474
+	Beschreibung:	Labours of Herakles: Lion, Hydra, Boar, Deer, Birds, Amazon, Augeias, Bull, Horses of Diomedes, Geryoneus, Kerberos and Hesperides.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/giardino_di_boboli/18474X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/giardino_di_boboli/18474X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/giardino_di_boboli/18474X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/giardino_di_boboli/18474X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/giardino_di_boboli/18474X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/giardino_di_boboli/18474X103.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/giardino_di_boboli/18474X104.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/giardino_di_boboli/18474X105.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/giardino_di_boboli/18474X106.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/giardino_di_boboli/18474X107.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/giardino_di_boboli/18474X108.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/giardino_di_boboli/18474X109.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/giardino_di_boboli/18474X110.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/giardino_di_boboli/18474X111.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/giardino_di_boboli/18474X112.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/giardino_di_boboli/18474X199.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	1721
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	ad 2151
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	ad 2388
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	129
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 1, 107
+Museum
+	Land:	IT
+	Stadt:	Firenze
+	Name:	Giardino di Boboli
+	Rechteinhaber der Fotos:	© Giardino di Boboli, Firenze
+	Hat die Fotorechte:	0

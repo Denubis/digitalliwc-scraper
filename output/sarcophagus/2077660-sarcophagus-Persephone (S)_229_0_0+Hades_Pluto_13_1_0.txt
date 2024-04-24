@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-74076415bba11-0
+Persephone (S)_229_0_0
+Hades/Pluto_13_1_0
+
+
+
+Monument
+	ID:	7042
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hades/Pluto Persephone
+	Beschreibung:	Hades seizing Persephone.
+Szene
+	ID:	7188
+	Beschreibung:	Hades seizing Persephone.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/museo_archeologico/7188X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Persephone (S)
+	Katalognummer:	229
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	13
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	3729
+Museum
+	Land:	IT
+	Stadt:	Firenze
+	Name:	Museo Archeologico
+	Direktor:	Soprintendente Dott.ssa Fulvia Lo Schiavo
+	Anrede:	Chiarissimo Soprintendente
+	Adresse:	Via della Pergola 65
+	Postleitzahl:	I-50121
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici della Toscana
+	Stadt des Kontaktzenters:	Firenze
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici della Toscana
+	Hat die Fotorechte:	1

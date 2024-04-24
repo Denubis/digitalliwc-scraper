@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-761c7ec0b1e1e-0
+Amazones_681_0_0
+
+
+
+Monument
+	ID:	44650
+	Entdeckungsort:	Sabratha
+	Entdeckungsort Details:	Maison  de l'acteur tragique
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	Amazon boots
+	Name:	Amazones
+Datierung
+	Periode:	100 - 300 
+Szene
+	ID:	46962
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	681
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Maison de l'acteur tragique
+Museum
+	Land:	LY
+	Stadt:	Sabratha
+	Rechteinhaber der Fotos:	© Sabratha
+	Hat die Fotorechte:	1

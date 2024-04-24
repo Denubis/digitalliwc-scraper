@@ -1,0 +1,49 @@
+http://ark.dasch.swiss/ark:/72163/080e-73f49af401ce7-0
+Pan (S)_205_1_0
+Hermaphroditos_65_0_0
+
+
+
+Monument
+	ID:	5717
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 9,2 (House of Meleager)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Hermaphroditos Pan
+	Beschreibung:	Hermaphroditos leans against a pillar revealing female breasts and male genitals. Pan moves left, looking back at hermaphroditos and gestures with both hands.
+Szene
+	ID:	5818
+	Beschreibung:	Hermaphroditos leans against a pillar revealing female breasts and male genitals. Pan moves left, looking back at hermaphroditos and gestures with both hands.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/5818X002.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Pan (S)
+	Katalognummer:	205
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hermaphroditos
+	Katalognummer:	65
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9264
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

@@ -1,0 +1,60 @@
+http://ark.dasch.swiss/ark:/72163/080e-760f7fe33a19d-4
+Achilleus_55_1_0
+Achilleus_122_0_0
+
+
+
+Monument
+	ID:	43723
+	Entdeckungsort:	Pompei
+	Objekt:	mosaic
+	Material:	opus tessellatum
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	mosaic
+	Stichwort:	mirror shield spear dagger
+	Name:	Achilleus Cheiron Odysseus Deidameia II
+	Bibliographie:	Reinach, RépPeint 166, 3; Schefold, WP 103; Sear, F. B., Roman Wall and Vault Mosaics, RM 23. Erg.-H. (1977) 68 no. 29 pl. 17, 1.
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	45971
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/45971X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/45971X302.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	55
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	122
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VI 7,23
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa di Apollo

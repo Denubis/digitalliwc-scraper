@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-74d036f294eac-9
+Hippolytos I_65_0_0
+
+
+
+Monument
+	ID:	21213
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hippolytos I
+Szene
+	ID:	22154
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	65
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	513
+Museum
+	Land:	IT
+	Stadt:	Benevento
+	Name:	Museo del Sannio
+	Direktor:	Al Direttore
+	Adresse:	Piazza Santa Sofia
+	Postleitzahl:	I-82100
+	Kontaktzenter:	Museo del Sannio
+	Stadt des Kontaktzenters:	Benevento
+	Rechteinhaber der Fotos:	© Museo del Sannio, Benevento
+	Hat die Fotorechte:	0

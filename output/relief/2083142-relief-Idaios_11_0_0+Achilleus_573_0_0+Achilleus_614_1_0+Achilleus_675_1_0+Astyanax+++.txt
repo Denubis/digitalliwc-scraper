@@ -1,0 +1,154 @@
+http://ark.dasch.swiss/ark:/72163/080e-7455c3c0d46a3-9
+Idaios_11_0_0
+Achilleus_573_0_0
+Achilleus_614_1_0
+Achilleus_675_1_0
+Astyanax I_1_0_1
+Deiphobos_18_0_1
+Hektor_101_0_0
+Automedon_6_0_1
+Automedon_27_0_1
+Endymion_44_0_0
+Hekabe_18_0_0
+Mercurius_306_0_0
+Idaios_6_0_0
+Priamos_53_1_0
+Ganymedes_206_0_0
+
+
+
+Monument
+	ID:	12574
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	I 6,2 (Casa del Criptoportico)
+	Objekt:	relief
+	Material:	stucco
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	stuccowork
+	Stichwort:	helmet shield spear gate wall, Town wall seat, chair, sedes, sedile door war-chariot, harma, currus corpse fight, battle
+	Name:	Achilleus Aphrodite Astyanax I Athena Automedon Deiphobos Hekabe Hektor Hera Hermes Idaios Moirai Priamos Endymion Ganymedes Mercurius
+	Beschreibung:	Priamos, Achilleus, Hermes and chariot with Trojan man (Idaios?). On the left the city gate and another Trojan carrying a vessel.
+	Bibliographie:	Aurigemma, F., in: Spinazzola, V., Pompei alla luce degli scavi nuovi di via dell'Abbondanza (Anni 1910-1923) 1953, 874-885 Abb. 871-881; Mielsch, H., Römische Stückreliefs (21. RM Erg.-H. 1975) 156 K 75 Taf. 69, 2.
+Datierung
+	Periode:	69 - 79 
+Epoche
+	Name:	vespasianisch
+	Periode:	69 - 79 
+	Sequenznummer:	1185
+Szene
+	ID:	49530
+	Szenerieangabe:	Sacello Iliaco [e]
+	Beschreibung:	Priamos, Achilleus, Hermes and chariot with Trojan man (Idaios?). On the left the city gate and another Trojan carrying a vessel.
+	Sequenznummer:	905
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49530X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49530X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49530X216.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49530X217.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49530X301.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Idaios
+	Katalognummer:	11
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	573
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	614
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	675
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Astyanax I
+	Katalognummer:	1
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Deiphobos
+	Katalognummer:	18
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Hektor
+	Katalognummer:	101
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Automedon
+	Katalognummer:	6
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Automedon
+	Katalognummer:	27
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	44
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hekabe
+	Katalognummer:	18
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	306
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Idaios
+	Katalognummer:	6
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Priamos
+	Katalognummer:	53
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ganymedes
+	Katalognummer:	206
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	I 6,4
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa del Sacello Iliaco

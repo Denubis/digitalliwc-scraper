@@ -1,0 +1,31 @@
+http://ark.dasch.swiss/ark:/72163/080e-754041b8cee7d-1
+Herakles_ad 1431_0_0
+
+
+
+Monument
+	ID:	29111
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Herakles
+	Beschreibung:	Procession of Dionysos who is in a chariot at the left. At the right Herakles stands in a chariot drawn by acentaur with lyre and centauress with tympanon. Accompanied by a small satyr and Eros.
+Szene
+	ID:	30534
+	Beschreibung:	Procession of Dionysos who is in a chariot at the left. At the right Herakles stands in a chariot drawn by acentaur with lyre and centauress with tympanon. Accompanied by a small satyr and Eros.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	ad 1431
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel IV 2, 273
+Museum
+	Land:	IT
+	Stadt:	Salerno
+	Name:	Duomo
+	Rechteinhaber der Fotos:	© Duomo Salerno
+	Hat die Fotorechte:	1

@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-756b00e025163-c
+Athena/Minerva_361_0_0
+
+
+
+Monument
+	ID:	32120
+	Entdeckungsort:	Ercolano, Herculaneum, Herculanum
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Athena/Minerva
+	Beschreibung:	Mural painting with Minerva helping with the construction of the Argo.
+Szene
+	ID:	49332
+	Beschreibung:	Mural painting with Minerva helping with the construction of the Argo.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	361
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9522
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

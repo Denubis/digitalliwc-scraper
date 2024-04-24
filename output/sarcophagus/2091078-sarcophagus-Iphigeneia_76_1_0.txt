@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-74c738dc021a3-f
+Iphigeneia_76_1_0
+
+
+
+Monument
+	ID:	20580
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Iphigeneia
+	Monument-URL:	http://www.limc-france.fr/objet/9905
+Szene
+	ID:	21493
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Iphigeneia
+	Katalognummer:	76
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 1607
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

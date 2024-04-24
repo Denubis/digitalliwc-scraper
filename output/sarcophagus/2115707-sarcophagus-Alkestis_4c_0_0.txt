@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-762754f86336c-2
+Alkestis_4c_0_0
+
+
+
+Monument
+	ID:	45421
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Name:	Admetos II Alkestis
+	Bibliographie:	SarkRel III 1, 34  pl. 7 no. 30.
+Datierung
+	Periode:	138 - 192 
+Epoche
+	Name:	antoninisch
+	Periode:	138 - 192 
+	Sequenznummer:	1210
+Szene
+	ID:	47811
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	4c
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 1, 30
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Camuccini
+	Rechteinhaber der Fotos:	© Palazzo Camuccini, Roma
+	Hat die Fotorechte:	1

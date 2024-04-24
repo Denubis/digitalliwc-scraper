@@ -1,0 +1,65 @@
+http://ark.dasch.swiss/ark:/72163/080e-73f5a2779bc4f-f
+Vanth_8_0_0
+Vanth_55_0_0
+Lasa_45_0_0
+
+
+
+Monument
+	ID:	5789
+	Entdeckungsort:	Orvieto
+	Entdeckungsort Details:	tomb
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Vanth Lasa
+	Beschreibung:	Tomba degli Hescanas. Painting on the left wall: symposion-depictions (badly preserved); on the entrance wall, to the left big symposion vases, on and around a table flanked by two figures; similar representations are known from the Tomba del Triclinio (ID 54849) 
+	Bibliographie:	Steingräber, S.,  Catalogo ragionato della pittura etrusca (1984) n. 34.
+Datierung
+	Periode:	-300 - -290 
+Epoche
+	Name:	Anfang 3. Jh. v. Chr.
+	Periode:	-300 - -290 
+	Sequenznummer:	2580
+Szene
+	ID:	5892
+	Beschreibung:	Tomba degli Hescanas. Painting on the left wall: symposion-depictions (badly preserved); on the entrance wall, to the left big symposion vases, on and around a table flanked by two figures; similar representations are known from the Tomba del Triclinio (ID 54849). Vanth with the deceased.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/orvieto_localita_molinella_o_paterazzo/5892X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/orvieto_localita_molinella_o_paterazzo/5892X203.jpg
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	48
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 4.a. Bankett, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	1420
+	Bandnummer:	2
+Catalog LIMC
+	Artikel:	Vanth
+	Katalognummer:	8
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Vanth
+	Katalognummer:	55
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Lasa
+	Katalognummer:	45
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba degli Hescanas
+Museum
+	Land:	IT
+	Stadt:	Orvieto (località Molinella o Paterazzo)
+	Rechteinhaber der Fotos:	© Orvieto
+	Hat die Fotorechte:	1

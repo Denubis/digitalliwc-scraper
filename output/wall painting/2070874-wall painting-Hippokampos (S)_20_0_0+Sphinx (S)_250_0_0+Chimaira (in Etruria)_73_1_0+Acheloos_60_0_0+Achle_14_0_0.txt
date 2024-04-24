@@ -1,0 +1,100 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a65fe24ca07-f
+Hippokampos (S)_20_0_0
+Sphinx (S)_250_0_0
+Chimaira (in Etruria)_73_1_0
+Acheloos_60_0_0
+Achle_14_0_0
+
+
+
+Monument
+	ID:	181
+	Entdeckungsort:	Tarquinia
+	Entdeckungsort Details:	tomb
+	Objekt:	wall painting
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	sphinx hippocamp
+	Name:	Acheloos Achilleus/Achle Chimaira Sphinx (Thebana) Hippokampos
+	Beschreibung:	On the threshold of the door two bulls; another scene can perhaps be interpreted as a representation of Achilles'/Achles ambush to Troilus. In the pediment Chimaira and Sphinx.
+	Bibliographie:	Steibgräber, EtrWma 358 no. 120 pl. 157; SBH, Etrusker pl. 76; Isler, H. P., Acheloos (1970) 311; Banti, L., StEtr 24 (1955/56) 143-181 pl. 4c; Banti, L., Die Welt der Etrusker (1965) 289-290 pl. 66.
+Datierung
+	Periode:	-530 
+	Kommentar:	ca.
+Szene
+	ID:	1862
+	Beschreibung:	On the threshold of the door two bulls; another scene can perhaps be interpreted as a representation of Achilles'/Achles ambush to Troilus.  In the pediment Chimaira and Sphinx.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/necropoli/1862X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/necropoli/1862X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/necropoli/1862X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/necropoli/1862X394.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/necropoli/1862X395.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/necropoli/1862X396.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/necropoli/1862X397.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	12
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VIII. Tiere und Pflanzen, etr.
+	Bandnummer:	8
+Catalog LIMC
+	Artikel:	Hippokampos (S)
+	Katalognummer:	20
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Sphinx (S)
+	Katalognummer:	250
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Chimaira (in Etruria)
+	Katalognummer:	73
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Acheloos
+	Katalognummer:	60
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achle
+	Katalognummer:	14
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba dei Tori
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Necropoli
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

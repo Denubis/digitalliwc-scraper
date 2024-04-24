@@ -1,0 +1,97 @@
+http://ark.dasch.swiss/ark:/72163/080e-7451b0ad3da52-3
+Peleus_43_0_0
+Achilleus_82_1_0
+Argonautai_5_0_0
+Cheiron_73_1_0
+Cheiron_93_1_0
+Achilleus_62_0_0
+
+
+
+Monument
+	ID:	12289
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	lyre child centaur reed
+	Name:	Achilleus Apollon/Apollo Argonautai Cheiron Dioskouroi/Castores Peleus
+	Beschreibung:	On the front side depiction of the ship Argo with five men: the steersman, the Dioskouroi (?), a bearded (Peleus) and a youthful Argonautai. On the right Cheiron, the small Achilleus and Peleus.
+	Bibliographie:	Gütschow, M., RM 43 (1928) 256-277 fig. 3; Turcan, R., Chiron le mystagogue, Mélanges offerts à J. Carcopino (1966) 927-937. 938  fig. 1. 939 fig. 2; Koch/Sichtermann, RömSark 86 no. 26; 127 pl. 40. 
+Datierung
+	Periode:	284 - 305 
+Epoche
+	Name:	tetrarchisch
+	Periode:	284 - 305 
+	Sequenznummer:	1250
+Datierung
+	Periode:	310 - 330 
+	Kommentar:	(Peleus, Argonautai)
+Epoche
+	Name:	1. Drittel 4. Jh. n. Chr.
+	Periode:	300 - 333 
+	Sequenznummer:	3520
+Szene
+	ID:	12588
+	Beschreibung:	On the front side depiction of the ship Argo with five men: the steersman, the Dioskouroi (?), a bearded (Peleus) and a youthful Argonautai. On the right Cheiron, the small Achilleus and Peleus.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/san_paolo_fuori_le_mura/12588X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/san_paolo_fuori_le_mura/12588X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/san_paolo_fuori_le_mura/12588X301.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/san_paolo_fuori_le_mura/12588X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/san_paolo_fuori_le_mura/12588X303.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/san_paolo_fuori_le_mura/12588X304.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Peleus
+	Katalognummer:	43
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	82
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Argonautai
+	Katalognummer:	5
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Cheiron
+	Katalognummer:	73
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Cheiron
+	Katalognummer:	93
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	62
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	San Paolo fuori le Mura
+	Rechteinhaber der Fotos:	© Soprindentenza SPSAE e Polo Museale della Città di Roma
+	Hat die Fotorechte:	0

@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-7490e52c27d6b-0
+Leda_132_1_0
+
+
+
+Monument
+	ID:	16749
+	Objekt:	sarcophagus
+	Material:	lead
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Leda
+Szene
+	ID:	17410
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Leda
+	Katalognummer:	132
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	63.390-392
+Museum
+	Land:	FR
+	Stadt:	Clermont-Ferrand
+	Name:	Musée Bargoin
+	Adresse:	45, rue Ballainvilliers
+	Postleitzahl:	F-63000
+	Kontaktzenter:	Musée Bargoin
+	Stadt des Kontaktzenters:	Clermont-Ferrand
+	Rechteinhaber der Fotos:	© Musée Bargoin, Clermont-Ferrand
+	Hat die Fotorechte:	0

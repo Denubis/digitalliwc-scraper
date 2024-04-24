@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-74c74ed1a4441-f
+Iphigeneia_81a_0_0
+
+
+
+Monument
+	ID:	20586
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Iphigeneia
+Szene
+	ID:	21499
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Iphigeneia
+	Katalognummer:	81a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	205
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Albani
+	Adresse:	Via della Conciliazione 30
+	Postleitzahl:	I-00193
+	Kontaktzenter:	Amministrazione Torlonia
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Phot. proprietà Principe Torlonia
+	Hat die Fotorechte:	0

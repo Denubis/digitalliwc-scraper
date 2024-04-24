@@ -1,0 +1,78 @@
+http://ark.dasch.swiss/ark:/72163/080e-74dd89fda4fe0-4
+Horai/Horae_174_1_0
+Aion_10_0_0
+Kairoi/Tempora anni_171_0_0
+
+
+
+Monument
+	ID:	22155
+	Entdeckungsort:	Ostia
+	Entdeckungsort Details:	Isola Sacra
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	spear funerary scene winged figure
+	Name:	Aion Horai/Horae Kairoi/Tempora anni Victoria
+	Beschreibung:	Painted vault. A central circle with Aion inside the zodiakos and four quarters of circles at the corners with the busts of the Horae. Autumn is missing. 
+	Bibliographie:	Calza, G., La necropoli del Porto di Roma nell'Isola sacra (1940) 140-141 pl. 1 fig. 67-69, Alföldi, A., Aion in Mérida und Aphrodisias, Madrider Beiträge 6, 1979.
+Datierung
+	Periode:	190 - 200 
+Epoche
+	Name:	Ende 2. Jh. n. Chr.
+	Periode:	190 - 200 
+	Sequenznummer:	3170
+Datierung
+	Periode:	250 
+Szene
+	ID:	23174
+	Beschreibung:	A central circle with Aion inside the zodiakos and four quarters of circles at the corners with the busts of the Horae. Autumn is missing. 
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/museo_ostiense/23174X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/museo_ostiense/23174X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/museo_ostiense/23174X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/museo_ostiense/23174X303.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	174
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aion
+	Katalognummer:	10
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	171
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	41-42
+Museum
+	Land:	IT
+	Stadt:	Ostia
+	Name:	Museo Ostiense
+	Direktor:	Dott.ssa Elvira Angeloni
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Viale dei Romagnoli 717
+	Postleitzahl:	I-00119
+	Kontaktzenter:	Soprintendenza archeologica di Ostia
+	Stadt des Kontaktzenters:	Ostia Antica - Roma
+	Rechteinhaber der Fotos:	Archivio Fotografico della Soprintendenza Archeologica per i beni archeologici di Ostia
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	10042-10043

@@ -1,0 +1,57 @@
+http://ark.dasch.swiss/ark:/72163/080e-762065e904533-4
+Amazones Etruscae_35_1_0
+
+
+
+Monument
+	ID:	44925
+	Entdeckungsort:	Vulci
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	shield axe, hatchet, pelekys, sacena, securis warrior, soldier Amazon Phrygian cap fight, battle
+	Name:	Amazones
+	Beschreibung:	The lid of the sarcophagus shows the deceased couple liying nacked in the bed, embracing unter a mantle; one of the long sides of the sarcophagus shows an amazonomachy
+	Bibliographie:	Camporeale, G., L'amazzonomachia in Etruria In: StEtr 27 (1959) Taf. 17; Comstock, M.,/Vermeule, C., Sculpture in Stone, The Greek, Roman and Etruscan Coll. of the Mus. of Fine Arts Boston (1976) 244 abb. 383; Spreger, M./ Bartoloni, G., Gli Etruschi. L'arte (1981) no. 209.
+	Museums-URL:	http://www.mfa.org/collections/object/sarcophagus-and-lid-with-husband-and-wife-151377
+Datierung
+	Periode:	-350 - -300 
+Epoche
+	Name:	2. Hälfte 4. Jh. v. Chr.
+	Periode:	-350 - -300 
+	Sequenznummer:	2480
+Szene
+	ID:	47272
+	Beschreibung:	The lid of the sarcophagus shows the deceased couple liying nacked in the bed, embracing unter a mantle; one of the long sides of the sarcophagus shows an amazonomachy
+	Sequenznummer:	10
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	8
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VI. 1.c. Heirat, etr.
+	Bandnummer:	6
+Catalog LIMC
+	Artikel:	Amazones Etruscae
+	Katalognummer:	35
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	86.145
+Museum
+	Land:	US
+	Stadt:	Boston
+	Name:	Museum of Fine Arts
+	Direktor:	Digital Image Resources
+	Anrede:	Dear Curator,
+	Adresse:	465 Huntington Avenue
+	Postleitzahl:	USA-
+	Kontaktzenter:	Museum of Fine Arts, Classical Art
+	Stadt des Kontaktzenters:	Boston, MA 02115-5597
+	Rechteinhaber der Fotos:	© Museum of Fine Arts, Boston
+	Hat die Fotorechte:	1

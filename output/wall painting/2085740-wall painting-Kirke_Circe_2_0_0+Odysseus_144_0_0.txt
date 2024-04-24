@@ -1,0 +1,48 @@
+http://ark.dasch.swiss/ark:/72163/080e-747ae8381d3e1-8
+Kirke/Circe_2_0_0
+Odysseus_144_0_0
+
+
+
+Monument
+	ID:	15192
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	V 2,14
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Kirke Odysseus
+	Beschreibung:	Odysseus getting up from his seat and drawing his sword to threaten Kirke. A female servant looks surprised. In a small window the head of a horse.
+Szene
+	ID:	15673
+	Beschreibung:	Odysseus getting up from his seat and drawing his sword to threaten Kirke. A female servant looks surprised. In a small window the head of a horse.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/15673X202.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kirke/Circe
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Odysseus
+	Katalognummer:	144
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	119689
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

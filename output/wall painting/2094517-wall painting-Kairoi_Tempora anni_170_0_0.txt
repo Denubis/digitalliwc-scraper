@@ -1,0 +1,31 @@
+http://ark.dasch.swiss/ark:/72163/080e-74f86350ea30e-e
+Kairoi/Tempora anni_170_0_0
+
+
+
+Monument
+	ID:	24047
+	Entdeckungsort:	Rome
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Kairoi/Tempora anni
+	Beschreibung:	Mural painting in a house along the Via de'Cerchi. In the fields between the pillars are nimbated busts emerging from akanthus calyxes (Seasons?).
+Szene
+	ID:	25230
+	Beschreibung:	Mural painting in a house along the Via de'Cerchi. In the fields between the pillars are nimbated busts emerging from akanthus calyxes (Seasons?).
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	170
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Via de' Cerchi
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Vie
+	Rechteinhaber der Fotos:	© Roma
+	Hat die Fotorechte:	1

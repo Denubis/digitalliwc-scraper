@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-76a2a76b69b66-e
+Antaios (in Aegypto) (Suppl. 2009)_Supplement_3_0_0
+
+
+
+Monument
+	ID:	201425
+	Entdeckungsort:	Kom Madi (Fayoum)
+	Entdeckungsort Details:	tomb
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	protome boots animal
+	Name:	Antaios I
+	Beschreibung:	Antaios?
+	Bibliographie:	Bresciani, E., Kom Madi 1977 e 1978. Le pitture murali del cenotafio di Alessandro Magno (1980) 42 fig. 15 pl. 28-29; Kiss, Z., Antaios et Kronos, IconogrCl, 336; Seyfried, J., Zu einer Darstellung des Gottes Antaios, in: Studien zur altägyptischen Kultur 11 (1984) 469 fig. 8.
+Szene
+	ID:	98361
+	Beschreibung:	Antaios?
+Catalog LIMC
+	Artikel:	Antaios (in Aegypto) (Suppl. 2009)
+	Band:	Supplement
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	EG
+	Stadt:	Kom Madi (Fayoum)
+	Rechteinhaber der Fotos:	© Kom Madi 
+	Hat die Fotorechte:	0

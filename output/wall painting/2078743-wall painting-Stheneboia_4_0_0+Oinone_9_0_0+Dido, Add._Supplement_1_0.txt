@@ -1,0 +1,63 @@
+http://ark.dasch.swiss/ark:/72163/080e-7416dfc692278-6
+Stheneboia_4_0_0
+Oinone_9_0_0
+Dido, Add._Supplement_1_0
+
+
+
+Monument
+	ID:	8136
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	IX 5,14
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	sceptre sword spear
+	Name:	Aineias Dido Oinone Stheneboia Aphrodite/Venus
+	Beschreibung:	Woman with sceptre (Stheneboia?) sitting on a throne, three women behind her; in front of her two men (one of them Bellerophon); over one of them Venus. 
+	Bibliographie:	Strocka, V. M., Aeneas, nicht Alexander, JdI 121 (2006) 292-295 fig. 19; Hodske, J., Mythologische Bildthemen in den Häusern Pompejis (2007) 266 pl. 184, 1.
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	8322
+	Beschreibung:	Woman with sceptre (Stheneboia?) sitting on a throne, three women behind her; in front of her two men (one of them Bellerophon); over one of them Venus. 
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/8322X302.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Stheneboia
+	Katalognummer:	4
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Oinone
+	Katalognummer:	9
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dido, Add.
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	111480
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

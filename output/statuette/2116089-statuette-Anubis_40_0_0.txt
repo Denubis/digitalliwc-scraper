@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-762ccb0f0cf62-e
+Anubis_40_0_0
+
+
+
+Monument
+	ID:	45809
+	Entdeckungsort:	Pompei
+	Objekt:	statuette
+	Material:	bronze
+	Land:	CH
+	Kategorie:	sculpture in the round
+	Name:	Anubis
+	Bibliographie:	Tran Tam Tinh, V., Essai sur le culte d'Isis ä Pompei (1964) no. 113.  
+Datierung
+	Periode:	-100 - -1 
+Epoche
+	Name:	1. Jh. v. Chr.
+	Periode:	-100 - -1 
+	Sequenznummer:	2850
+Szene
+	ID:	48216
+Catalog LIMC
+	Artikel:	Anubis
+	Katalognummer:	40
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	110606
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

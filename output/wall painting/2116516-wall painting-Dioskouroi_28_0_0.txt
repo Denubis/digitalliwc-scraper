@@ -1,0 +1,27 @@
+http://ark.dasch.swiss/ark:/72163/080e-7632e5d7f6ef9-6
+Dioskouroi_28_0_0
+
+
+
+Monument
+	ID:	46239
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Dioskouroi
+Szene
+	ID:	49046
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Dioskouroi
+	Katalognummer:	28
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Temple des Dioscures
+Museum
+	Land:	AF
+	Stadt:	Dilberdjin (Bactriane)
+	Rechteinhaber der Fotos:	© Dilberdjin
+	Hat die Fotorechte:	0

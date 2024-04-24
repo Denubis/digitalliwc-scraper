@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-7579ba9738801-4
+Charis, Charites/Gratiae_39_0_0
+
+
+
+Monument
+	ID:	33165
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Charis, Charites/Gratiae
+Szene
+	ID:	34834
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Charis, Charites/Gratiae
+	Katalognummer:	39
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Manziana
+	Name:	Villa G. Tittoni
+	Rechteinhaber der Fotos:	© Villa G. Tittoni, Manziana
+	Hat die Fotorechte:	0

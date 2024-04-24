@@ -1,0 +1,51 @@
+http://ark.dasch.swiss/ark:/72163/080e-7660d17fbd2b5-4
+
+
+
+Monument
+	ID:	52859
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	altar lyre lagobolon, pedum panther, leopard thyrsos staff offering bell, small bell, tintinnabulum donkey fruit satyr, silen
+	Name:	Dionysos
+	Grössenangabe:	H: 0,7 m; L: 2,10 m; T: 0,65 m
+	Beschreibung:	Sarkophag mit dionysischer Szene: auf der rechten Seite der sogenannte Schellenmann, an dessen Brust drei Reihen von Glöckchen hängen. In der rechten trägt er ein pedum, in der linken einen gewundenen Stab. Links neben ihn ein nackter, bärtiger Mann (Silen?) mit über den Armen hängendem Mantel und Leier. Zwischen den beiden ein kleiner eckiger Altar, auf dem Früchte liegen. Auf der Langseite der nackte Dionysos auf einem Panther reitend mit thyrsos in der Rechten, ihn begleiten mehrere Silene, unter dem Panther ein Kabe mit Esel und Hirtenstab sowie weitere kleine Personen. 
+	Bibliographie:	Pease, A. S.,  Notes on some uses of bells among the Greeks and Romans, HSCP (Harvard Studies in Classical Philology) 15 (1904) fig. 16-18; Turcan, R., Sarcophages romains à représentation dionysiaque (1966) 324f. Taf. 47. 
+Datierung
+	Periode:	225 - 250 
+Epoche
+	Name:	2. Viertel 3. Jh. n. Chr.
+	Periode:	225 - 250 
+	Sequenznummer:	3350
+Szene
+	ID:	58189
+	Beschreibung:	Sarkophag mit dionysischer Szene: auf der rechten Seite der sogenannte Schellenmann, an dessen Brust drei Reihen von Glöckchen hängen. In der rechten trägt er ein pedum, in der linken einen gewundenen Stab. Links neben ihn ein nackter, bärtiger Mann (Silen?) mit über den Armen hängendem Mantel und Leier. Zwischen den beiden ein kleiner eckiger Altar, auf dem Früchte liegen. Auf der Langseite der nackte Dionysos auf einem Panther reitend mit thyrsos in der Rechten, ihn begleiten mehrere Silene, unter dem Panther ein Kabe mit Esel und Hirtenstab sowie weitere kleine Personen.
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	1451
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1140
+Museum
+	Land:	IT
+	Stadt:	Ostia
+	Name:	Museo Ostiense
+	Direktor:	Dott.ssa Elvira Angeloni
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Viale dei Romagnoli 717
+	Postleitzahl:	I-00119
+	Kontaktzenter:	Soprintendenza archeologica di Ostia
+	Stadt des Kontaktzenters:	Ostia Antica - Roma
+	Rechteinhaber der Fotos:	Archivio Fotografico della Soprintendenza Archeologica per i beni archeologici di Ostia
+	Hat die Fotorechte:	1

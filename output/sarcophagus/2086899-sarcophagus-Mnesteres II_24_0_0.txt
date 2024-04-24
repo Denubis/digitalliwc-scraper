@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-748b7a104f2c4-3
+Mnesteres II_24_0_0
+
+
+
+Monument
+	ID:	16356
+	Objekt:	sarcophagus
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Mnesteres II
+	Beschreibung:	Two Mnesteres (II), one falling on the ground.
+Szene
+	ID:	19389
+	Beschreibung:	Two Mnesteres (II), one falling on the ground.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Mnesteres II
+	Katalognummer:	24
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2019
+Museum
+	Land:	GR
+	Stadt:	Athens
+	Name:	National Archaeological Museum
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Anrede:	Dear Director,
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© National Archaeological Museum, Athens
+	Kommentar:	Pour les intailles de la collection Karapanos voir Musée Numismatique.  Inv. VS = ancienne collection Vlastos-Serpieri.
+	Hat die Fotorechte:	1

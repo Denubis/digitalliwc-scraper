@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-76503fa78b3d2-8
+
+
+
+Monument
+	ID:	51591
+	Entdeckungsort:	Praeneste, Palestrina
+	Objekt:	sarcophagus lid
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Grössenangabe:	H 26 cm, L 45 cm, T 9cm
+	Beschreibung:	Fragment eines Sarkophagdeckels.
+	Bibliographie:	Himmelmann, N., Typologische Untersuchungen an römischen Sarkophagreliefs des 3.  und 4. Jahrhunderts n. Chr. (1973) 39 pl. 60; Mingazzini, P., Due interessanti rilievi puteolani, BullCom 62 (1934) 29-32 Taf. 1.
+Szene
+	ID:	56771
+	Beschreibung:	soldier with vexillum and front part of a carrier; ascending horses of a quadriga
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	34
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 1. Prozessionen, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	100
+	Bandnummer:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-73f64729dbff0-4
+Pan (S)_253_0_0
+
+
+
+Monument
+	ID:	5834
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Pan
+	Beschreibung:	Pan drives a cart drawn by two mules.
+	Museums-URL:	http://www.smb-digital.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=699332&viewType=detailView
+	Monument-URL:	arachne.dainst.org/entity/1121605
+Szene
+	ID:	5937
+	Beschreibung:	Pan drives a cart drawn by two mules.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Pan (S)
+	Katalognummer:	253
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Sk 851
+Museum
+	Land:	DE
+	Stadt:	Berlin
+	Name:	Staatliche Museen zu Berlin, Antikensammlung
+	Direktor:	Dir. Prof. Dr. Andreas Scholl
+	Anrede:	Sehr geehrter Herr Professor,
+	Adresse:	Bodestrasse 1-3
+	Postleitzahl:	D-10178
+	E-Mail:	ant@smb.spk-berlin.de
+	Kontaktzenter:	Antikensammlung, Staatliche Museen zu Berlin - Preussischer Kulturbesitz
+	Stadt des Kontaktzenters:	Berlin
+	Rechteinhaber der Fotos:	© Staatliche Museen zu Berlin, Antikensammlung
+	Hat die Fotorechte:	1

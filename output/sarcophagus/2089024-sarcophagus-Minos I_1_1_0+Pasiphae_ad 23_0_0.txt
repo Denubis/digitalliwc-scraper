@@ -1,0 +1,59 @@
+http://ark.dasch.swiss/ark:/72163/080e-74a9db637d705-2
+Minos I_1_1_0
+Pasiphae_ad 23_0_0
+
+
+
+Monument
+	ID:	18517
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	tree column temple cult image, cult statue gesture of prayer plate podium fruit pediment
+	Name:	Eros/Amor, Cupido Minos I
+	Beschreibung:	Vor einem Tempel stehen ein bärtiger Mann, der betend die Rechte erhebt, und eine alte Frau, die eine Fruchtschale hält. Der Tempel (Podium, Freitreppe, zwei Säulen an der Front) ist wahrscheinlich einer Seegottheit geweiht: innerhalb des Giebels ist ein Triton angebracht. Vor der Säule eine Erotenfigur.
+	Bibliographie:	Robert, SarkRel III 1 Nr. 35 pl. 10.11;Helbig(4) II 1955.
+	Kommentar:	Rest des Sarkophages: Paris, Louvre Ma 1033 und 1390.
+Datierung
+	Periode:	150 
+	Kommentar:	um
+Epoche
+	Name:	Jahr 1
+	Periode:	1 
+Szene
+	ID:	19355
+	Szenerieangabe:	côté dr.
+	Beschreibung:	On the right side Minos (I) in front of a temple with a statue of Eros with his right hand outstretched and a woman with an offering tray. Left side: Three sons of Minos (I). Front: Daidalos making a wooden cow for Pasiphae.
+	Sequenznummer:	60
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_borghese_museo_e_galleria_borghese/19355X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_borghese_museo_e_galleria_borghese/19355X302.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Minos I
+	Katalognummer:	1
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Pasiphae
+	Katalognummer:	ad 23
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 1, 35
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Borghese (Museo e Galleria Borghese)
+	Direktor:	Soprintendente Prof. Claudio Strinati
+	Adresse:	Piazza San Marco 49
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza Speciale del Polo Museale Romano
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza Speciale del Polo Museale Romano
+	Hat die Fotorechte:	1

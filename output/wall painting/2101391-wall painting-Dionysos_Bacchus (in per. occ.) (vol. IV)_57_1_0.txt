@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-755aa996f8ed0-b
+Dionysos/Bacchus (in per. occ.) (vol. IV)_57_1_0
+
+
+
+Monument
+	ID:	30973
+	Entdeckungsort:	Cologne
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Dionysos/Bacchus
+Szene
+	ID:	32490
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/koeln/roemisch-germanisches_museum/32490X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus (in per. occ.) (vol. IV)
+	Katalognummer:	57
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	DE
+	Stadt:	Köln
+	Name:	Römisch-Germanisches Museum
+	Direktor:	Direktor Prof. Dr. Hansgerd Hellenkemper
+	Adresse:	Roncallipl. 4
+	Postleitzahl:	D-50667
+	Kontaktzenter:	Römisch-Germanisches Museum
+	Stadt des Kontaktzenters:	Köln
+	Rechteinhaber der Fotos:	© Römisch-Germanisches Museum Köln
+	Hat die Fotorechte:	1

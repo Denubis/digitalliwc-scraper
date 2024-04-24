@@ -1,0 +1,91 @@
+http://ark.dasch.swiss/ark:/72163/080e-741c4e8b5b2e4-9
+Oinomaos_42_0_0
+Alpheios_12_1_0
+Hippodameia I_37_1_0
+Myrtilos_22_0_0
+Pelops_49_0_0
+
+
+
+Monument
+	ID:	8520
+	Entdeckungsort:	Kyme (Aeolis)
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	wreath, crown, stephane, corona throne branch horse
+	Name:	Alpheios Hippodameia I Myrtilos Oinomaos Pelops
+	Beschreibung:	Pelops and warrior looking at heads of suitors hanging over the palace gate. Pelops talking to Oinomaos seated on throne flanked by servants. The chariot race with Oinomaos lying under his chariot led by Myrtilos, spectators, Pelops in his chariot. Alpheios reclining unter Pelops' team, half-draped, covering his face with his left hand, right hand raised. Pelops and Hippodameia (I) embracing after the race.
+	Bibliographie:	Säflund, M. The East Pediment of the Temple of Zeus at Olympia, Studies in Mediterranean Archaeology 27 (1970) fig. 96; SarkRel III 3 no. 328; Sichtermann/ Koch, MythSark 56 no. 58 pl. 144, 1. 145.
+Datierung
+	Periode:	290 - 300 
+Epoche
+	Name:	Ende 3. Jh. n. Chr.
+	Periode:	290 - 300 
+	Sequenznummer:	3310
+Szene
+	ID:	8715
+	Beschreibung:	Pelops and warrior looking at heads of suitors hanging over the palace gate. Pelops talking to Oinomaos seated on throne flanked by servants. The chariot race with Oinomaos lying under his chariot led by Myrtilos, spectators, Pelops in his chariot. Alpheios reclining unter Pelops' team, half-draped, covering his face with his left hand, right hand raised. Pelops and Hippodameia (I) embracing after the race.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/8715X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/8715X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/8715X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/8715X206.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/8715X207.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/8715X208.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Oinomaos
+	Katalognummer:	42
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Alpheios
+	Katalognummer:	12
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippodameia I
+	Katalognummer:	37
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Myrtilos
+	Katalognummer:	22
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Pelops
+	Katalognummer:	49
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	6711
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

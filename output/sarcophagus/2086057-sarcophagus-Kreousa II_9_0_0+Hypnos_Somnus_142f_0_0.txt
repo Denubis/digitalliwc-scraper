@@ -1,0 +1,51 @@
+http://ark.dasch.swiss/ark:/72163/080e-747f7069bf8d2-0
+Kreousa II_9_0_0
+Hypnos/Somnus_142f_0_0
+
+
+
+Monument
+	ID:	15509
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hypnos/Somnus Kreousa II
+	Beschreibung:	The children of Medeia handing over presents to Kreousa (II).
+Szene
+	ID:	16017
+	Beschreibung:	The children of Medeia handing over presents to Kreousa (II).
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Kreousa II
+	Katalognummer:	9
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	142f
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	ex Vigna Casali
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Musei Capitolini
+	Direktor:	Dirigente Dott. Claudio Parisi Presicce
+	Adresse:	Via delle Tre Pile, 1
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Sovraintendenza ai Beni Culturali                     del Comune di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Archivio fotografico Musei Capitolini
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	Ehem. A.O.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Vigna Casali
+	Rechteinhaber der Fotos:	© Vigna Casali, Roma
+	Hat die Fotorechte:	1

@@ -1,0 +1,98 @@
+http://ark.dasch.swiss/ark:/72163/080e-740f61fa9533c-9
+Teiresias (S)_13_0_0
+Ares/Laran_15_1_0
+Epigonoi_5_0_0
+Manto_4_0_0
+Agamemnon_40_1_0
+Iphigeneia (in Etruria)_2_0_0
+Kalchas_25_0_0
+
+
+
+Monument
+	ID:	7604
+	Entdeckungsort:	Tuscania, Tuscana
+	Objekt:	sarcophagus
+	Material:	nenfro
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	altar knife suppliant, supplication, hikesia pedagogue sacrificial assistant spit, obelos meat obelisk
+	Name:	Agamemnon Ares/Laran Iphigeneia Kalchas Manto Teiresias
+	Beschreibung:	Côté long : Laran er Turan debout près de l’autel. Sur les côtés de celui-ci sont assis en suppliants, une femme et un homme barbu: sur la gauche la femme est saisie par les cheveux par un homme se tenant derrière elle. Depuis la gauche s’avance un homme avec des broches. Sur la droite deux autres personnages s’avancent avec des morceaux de viande. On one of the short sides bearded man (Kalchas?) with knife, on his right a woman seated on an altar (Iphigeneia?), on the right a mourning bearded man (Agamemnon?).
+	Bibliographie:	Herbig, EtrSark n. 85 pl. 31-32; Helbig(4) III no. 2495.
+Datierung
+	Periode:	-300 - -200 
+Epoche
+	Name:	3. Jh. v. Chr.
+	Periode:	-300 - -200 
+	Sequenznummer:	2570
+Szene
+	ID:	7787
+	Beschreibung:	Côté long : Laran er Turan debout près de l’autel. Sur les côtés de celui-ci sont assis en suppliants, une femme et un homme barbu: sur la gauche la femme est saisie par les cheveux par un homme se tenant derrière elle. Depuis la gauche s’avance un homme avec des broches. Sur la droite deux autres personnages s’avancent avec des morceaux de viande. On one of the short sides bearded man (Kalchas?) with knife, on his right a woman seated on an altar (Iphigeneia?), on the right a mourning bearded man (Agamemnon?).
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_etrusco_di_villa_giulia/7787X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_etrusco_di_villa_giulia/7787X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_etrusco_di_villa_giulia/7787X301.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_etrusco_di_villa_giulia/7787X302.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Teiresias (S)
+	Katalognummer:	13
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ares/Laran
+	Katalognummer:	15
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Epigonoi
+	Katalognummer:	5
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Manto
+	Katalognummer:	4
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Agamemnon
+	Katalognummer:	40
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iphigeneia (in Etruria)
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kalchas
+	Katalognummer:	25
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	15531
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Etrusco di Villa Giulia
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Kommentar:	Alcuni dei numeri riportati qui sotto, senza distinzione particolare, sono tratti da pubblicazioni di materiale di scavo e da considerarsi quindi come provvisori.
+	Hat die Fotorechte:	1

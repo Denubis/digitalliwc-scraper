@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-759f6a222f07d-4
+Eros/Amor, Cupido_580_1_0
+
+
+
+Monument
+	ID:	35824
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido
+Szene
+	ID:	37660
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	580
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Foligno
+	Name:	Museo Archeologico
+	Rechteinhaber der Fotos:	© Museo Archeologico Foligno
+	Hat die Fotorechte:	0

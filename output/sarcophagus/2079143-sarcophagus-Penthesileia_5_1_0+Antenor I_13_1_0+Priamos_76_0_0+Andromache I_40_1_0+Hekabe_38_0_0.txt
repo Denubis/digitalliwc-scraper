@@ -1,0 +1,85 @@
+http://ark.dasch.swiss/ark:/72163/080e-741c97be22648-4
+Penthesileia_5_1_0
+Antenor I_13_1_0
+Priamos_76_0_0
+Andromache I_40_1_0
+Hekabe_38_0_0
+
+
+
+Monument
+	ID:	8540
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	child urn warrior, soldier
+	Name:	Andromache I Antenor I Hekabe Penthesileia Priamos Amazones
+	Beschreibung:	Antenor? standing with Priamos as the king welcomes Penthesileia.
+	Bibliographie:	SarkRel II 66 no. 59 pl. 24; Helbig 4 II no. 1961; Schefold, K., Bilderbücher als Vorlagen römischer Sarkophage, MEFRA 88 (1976) 759-798 fig. 20-22.
+Datierung
+	Periode:	100 - 200 
+Epoche
+	Name:	2. Jh. n. Chr.
+	Periode:	100 - 200 
+	Sequenznummer:	3140
+Szene
+	ID:	8956
+	Szenerieangabe:	couvercle
+	Beschreibung:	Antenor? standing with Priamos as the king welcomes Penthesileia.
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_borghese_museo_e_galleria_borghese/8956X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_borghese_museo_e_galleria_borghese/8956X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_borghese_museo_e_galleria_borghese/8956X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_borghese_museo_e_galleria_borghese/8956X004.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Penthesileia
+	Katalognummer:	5
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Antenor I
+	Katalognummer:	13
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Priamos
+	Katalognummer:	76
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Andromache I
+	Katalognummer:	40
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hekabe
+	Katalognummer:	38
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	LXXX
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Borghese (Museo e Galleria Borghese)
+	Direktor:	Soprintendente Prof. Claudio Strinati
+	Adresse:	Piazza San Marco 49
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza Speciale del Polo Museale Romano
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza Speciale del Polo Museale Romano
+	Hat die Fotorechte:	1

@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-7439f18db6b21-3
+Theseus/These_11_0_0
+
+
+
+Monument
+	ID:	10616
+	Entdeckungsort:	Tarquinia
+	Entdeckungsort Details:	necropolis
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Theseus/These
+	Beschreibung:	Youth with helmet and shield pointing his swort at a nude man sitting on a rock. These and Sinis?
+Szene
+	ID:	10851
+	Beschreibung:	Youth with helmet and shield pointing his swort at a nude man sitting on a rock. These and Sinis?
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Theseus/These
+	Katalognummer:	11
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba Querciola I
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Necropoli
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

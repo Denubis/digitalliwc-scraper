@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-75b169f845054-9
+Dionysos/Bacchus_150_1_0
+
+
+
+Monument
+	ID:	37096
+	Objekt:	sarcophagus lid
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dionysos/Bacchus Nysa I
+	Beschreibung:	Nysa holding the little Bacchus, around her nymphs and a silen.
+Szene
+	ID:	38994
+	Szenerieangabe:	couvercle
+	Beschreibung:	Nysa holding the little Bacchus, around her nymphs and a silen.
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_albani/38994X001.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	150
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	624
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Albani
+	Adresse:	Via della Conciliazione 30
+	Postleitzahl:	I-00193
+	Kontaktzenter:	Amministrazione Torlonia
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Phot. proprietà Principe Torlonia
+	Hat die Fotorechte:	0

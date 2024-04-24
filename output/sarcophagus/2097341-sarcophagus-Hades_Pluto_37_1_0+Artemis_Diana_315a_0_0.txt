@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-7520c2ec64836-f
+Hades/Pluto_37_1_0
+Artemis/Diana_315a_0_0
+
+
+
+Monument
+	ID:	26896
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Artemis/Diana Hades/Pluto
+Szene
+	ID:	28254
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/amalfi/duomo/28254X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/amalfi/duomo/28254X203.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	37
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	315a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 3, 374
+Museum
+	Land:	IT
+	Stadt:	Amalfi
+	Name:	Duomo
+	Rechteinhaber der Fotos:	© Duomo, Amalfi
+	Hat die Fotorechte:	1

@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-755571b8454ef-8
+Demeter (vol. IV)_126_0_0
+
+
+
+Monument
+	ID:	30603
+	Entdeckungsort:	Pompei
+	Objekt:	relief
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief_stone
+	Name:	Demeter
+	Beschreibung:	Demeter (?) seated on a rock, wearing peplos and himation, sceptre resting on her shoulders, receiving gifts from her followers.
+Szene
+	ID:	32077
+	Beschreibung:	Demeter (?) seated on a rock, wearing peplos and himation, sceptre resting on her shoulders, receiving gifts from her followers.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Demeter (vol. IV)
+	Katalognummer:	126
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	126174
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

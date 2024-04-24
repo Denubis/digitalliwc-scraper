@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-7674d5623600d-f
+
+
+
+Monument
+	ID:	54321
+	Entdeckungsort:	Pompei
+	Objekt:	augusteum
+	Land:	CH
+	Kategorie:	cultual installations
+	Beschreibung:	Forum, so-called "tempio di Mercurio" and "tempio di Vespasiano". Augusteum, cult place for the emperor and his family
+Szene
+	ID:	59748
+	Beschreibung:	Forum, so-called "tempio di Mercurio" and "tempio di Vespasiano". Augusteum, cult place for the emperor and his family
+Catalog Thes CRA
+	Indexnummer:	5
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Augusteum
+	Lemata:	Augusteum
+	Sequenznummer:	3360
+	Bandnummer:	4
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Foro, Tempio del Genius Augusti (c.d. Tempio di Vespasiano)
+	Rechteinhaber der Fotos:	© Pompei
+	Hat die Fotorechte:	1

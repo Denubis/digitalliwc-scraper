@@ -1,0 +1,92 @@
+http://ark.dasch.swiss/ark:/72163/080e-74cf490d8d7a7-e
+Hippolytos I_55_1_0
+Hippolytos I_9a_1_0
+Hippolytos I_9b_1_0
+Eros/Amor, Cupido_ad 47_0_0
+
+
+
+Monument
+	ID:	21147
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido Hippolytos I
+	Monument-URL:	http://www.limc-france.fr/objet/15123
+Szene
+	ID:	22083
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pisa/camposanto_monumentale/22083X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pisa/camposanto_monumentale/22083X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pisa/camposanto_monumentale/22083X204.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pisa/camposanto_monumentale/22083X205.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pisa/camposanto_monumentale/22083X206.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pisa/camposanto_monumentale/22083X207.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pisa/camposanto_monumentale/22083X208.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pisa/camposanto_monumentale/22083X209.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pisa/camposanto_monumentale/22083X210.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pisa/camposanto_monumentale/22083X211.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pisa/camposanto_monumentale/22083X212.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pisa/camposanto_monumentale/22083X213.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pisa/camposanto_monumentale/22083X214.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	55
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	9a
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	9b
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 47
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	C 9 est.
+Museum
+	Land:	IT
+	Stadt:	Pisa
+	Name:	Camposanto Monumentale
+	Rechteinhaber der Fotos:	© Camposanto Monumentale, Pisa
+	Kommentar:	Numéros d'après Camposanto monumentale di Pisa. Le antichità I-II (1977-1984).
+	Hat die Fotorechte:	0

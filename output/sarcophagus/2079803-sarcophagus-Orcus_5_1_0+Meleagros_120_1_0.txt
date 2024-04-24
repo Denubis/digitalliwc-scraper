@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-74260749d062c-4
+Orcus_5_1_0
+Meleagros_120_1_0
+
+
+
+Monument
+	ID:	9205
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Meleagros
+	Beschreibung:	Two scenes: 1) Oineus, Meleagros and  Atalante. 2) Boar hunt with Meleagros, dogs, Atalante, Orcus and other hunters.
+Szene
+	ID:	9406
+	Beschreibung:	Two scenes: 1) Oineus, Meleagros and  Atalante. 2) Boar hunt with Meleagros, dogs, Atalante, Orcus and other hunters.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/woburn_abbey_bedfordshire/woburn_abbey_art_gallery/9406X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/woburn_abbey_bedfordshire/woburn_abbey_art_gallery/9406X002.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Orcus
+	Katalognummer:	5
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	120
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Cat. 60 (Michaelis 81)
+Museum
+	Land:	GB
+	Stadt:	Woburn Abbey (Bedfordshire)
+	Name:	Woburn Abbey Art Gallery
+	Rechteinhaber der Fotos:	© Woburn Abbey Art Gallery
+	Kommentar:	Numéros d'après Angelicoussis, E., The Woburn Abbey Collection of Classical Antiquities (1992); les numéros entre parenthèses sont ceux de Michaelis, A., Ancient Marbles in Great Britain (1882).
+	Hat die Fotorechte:	1

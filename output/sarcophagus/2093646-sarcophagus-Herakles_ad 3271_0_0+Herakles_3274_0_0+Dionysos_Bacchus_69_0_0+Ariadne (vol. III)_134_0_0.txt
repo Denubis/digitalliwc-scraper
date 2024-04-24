@@ -1,0 +1,63 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ebef87201cb-3
+Herakles_ad 3271_0_0
+Herakles_3274_0_0
+Dionysos/Bacchus_69_0_0
+Ariadne (vol. III)_134_0_0
+
+
+
+Monument
+	ID:	23164
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Herakles Dionysos/Bacchus Ariadne
+	Beschreibung:	Front: Herakles carries thyrsos and cup, following a dancer. He imitates the pose of a satyr. Side: Herakles, holding kantharos, is supported by the small Pan; to his left Bacchus with thyrsos, a female figure (Semele?) filling his kantharos.
+Datierung
+	Periode:	170 - 200 
+Szene
+	ID:	24302
+	Beschreibung:	Front: Herakles carries thyrsos and cup, following a dancer. He imitates the pose of a satyr. Side: Herakles, holding kantharos, is supported by the small Pan; to his left Bacchus with thyrsos, a female figure (Semele?) filling his kantharos.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/russian_federation/moscow/the_pushkin_state_museum_of_fine_arts/24302X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	ad 3271
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	3274
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	69
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ariadne (vol. III)
+	Katalognummer:	134
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	II 1a 231
+Museum
+	Land:	RU
+	Stadt:	Moscow
+	Name:	The Pushkin State Museum of Fine Arts
+	Direktor:	Dr. Olga Vassilieva, Dir. Dept. Oriental Antiquities
+	Anrede:	Dear Director,
+	Adresse:	Ul. Vokhonka 12
+	Postleitzahl:	121019
+	E-Mail:	Finearts@artsmuseum.ru
+	Kontaktzenter:	Musée des Beaux-Arts Pouchkine
+	Stadt des Kontaktzenters:	Moscou / Russia
+	Rechteinhaber der Fotos:	© The Pushkin State Museum of Fine Arts
+	Hat die Fotorechte:	1

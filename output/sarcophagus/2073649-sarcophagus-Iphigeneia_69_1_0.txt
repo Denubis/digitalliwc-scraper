@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-73ce0c27c547a-9
+Iphigeneia_69_1_0
+
+
+
+Monument
+	ID:	3006
+	Entdeckungsort:	Aquincum
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Stichwort:	sword sanctuary ship, boat Taurian door: double-door
+	Name:	Iphigeneia Orestes Pylades
+	Beschreibung:	Orest (oder Pylades) am Heck des Schiffes ergreift die auf's Schiff eilende Iphigenie an den Armen. Pylades (oder Orest) steht mit gezücktem Schwert neben einem gefallenen Taurer. Links im Hintergrund Artemisheiligtum (kleiner Schrein in Hausform, Dach mit Ziegeln gedeckt, doppelflügelige Tür beidseitig geöffnet).
+	Bibliographie:	Robert, SarkRel III 3 n° 311; Goddard King, G., AJA 37, 1933, 72 pl. 13, 2; Erdélyi, G., A Romai Köfaragas és Köszobrászat Magyarországon (1974) fig. 75b.
+Datierung
+	Periode:	100 - 200 
+	Kommentar:	?
+Epoche
+	Name:	2. Jh. n. Chr.
+	Periode:	100 - 200 
+	Sequenznummer:	3140
+Szene
+	ID:	23179
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Iphigeneia
+	Katalognummer:	69
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	62.84.2
+Museum
+	Land:	HU
+	Stadt:	Budapest
+	Name:	Musée National Hongrois (Magyar Nemzeti Múzeum)
+	Direktor:	Dir. Dr. Tibor Kovács
+	Anrede:	Dear Dr. Kovács
+	Adresse:	Múzeum Krt. 14-16
+	Postleitzahl:	H-1088
+	Kontaktzenter:	Musée National Hongrois (Magyar Nemzeti Múzeum)
+	Stadt des Kontaktzenters:	Budapest
+	Rechteinhaber der Fotos:	© Magyar Nemzeti Múzeum, Budapest
+	Hat die Fotorechte:	1

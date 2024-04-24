@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-7627a57d0b25a-d
+Alkestis_31_0_0
+
+
+
+Monument
+	ID:	45443
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	San Paolo Fuori le Mura
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Alkestis
+	Bibliographie:	Lugli, G., Scavi di un sepolcreto romano presso la Basilica di San Paolo, NotSc (1919) 297 fig. 6; Andreae, B., Studien zur römischen Grabkunst, RM 9. Ergh. (1963) 35 no. 2.
+Datierung
+	Periode:	100 - 200 
+Epoche
+	Name:	2. Jh. n. Chr.
+	Periode:	100 - 200 
+	Sequenznummer:	3140
+Szene
+	ID:	47835
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	31
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba 3
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Necropoli della Via Ostiense (presso San Paolo fuori le Mura)
+	Rechteinhaber der Fotos:	© Roma
+	Hat die Fotorechte:	1

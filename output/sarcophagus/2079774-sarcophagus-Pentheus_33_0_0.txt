@@ -1,0 +1,30 @@
+http://ark.dasch.swiss/ark:/72163/080e-74259d2695edb-c
+Pentheus_33_0_0
+
+
+
+Monument
+	ID:	9176
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Pentheus
+	Beschreibung:	Pentheus attacked by maenads.
+Szene
+	ID:	9377
+	Beschreibung:	Pentheus attacked by maenads.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Pentheus
+	Katalognummer:	33
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Ariccia
+	Name:	Palazzo Chigi
+	Rechteinhaber der Fotos:	© Palazzo Chigi, Ariccia
+	Hat die Fotorechte:	0

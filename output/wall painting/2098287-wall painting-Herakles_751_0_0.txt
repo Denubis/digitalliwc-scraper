@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-752e493499a30-6
+Herakles_751_0_0
+
+
+
+Monument
+	ID:	27846
+	Entdeckungsort:	Ras el Tin
+	Objekt:	wall painting
+	Herkunft:	Egypt
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Herakles
+	Beschreibung:	Herakles, holds downturned club in lowered left hand, lionskin pendent from left forearm, weight on left leg.
+Szene
+	ID:	29250
+	Beschreibung:	Herakles, holds downturned club in lowered left hand, lionskin pendent from left forearm, weight on left leg.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	751
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	26961
+Museum
+	Land:	EG
+	Stadt:	Alexandrie
+	Name:	Musée Gréco-Romain
+	Kontaktzenter:	Musée Gréco-Romain
+	Stadt des Kontaktzenters:	Alexandrie
+	Rechteinhaber der Fotos:	© Musée Gréco-Romain Alexandria
+	Hat die Fotorechte:	1

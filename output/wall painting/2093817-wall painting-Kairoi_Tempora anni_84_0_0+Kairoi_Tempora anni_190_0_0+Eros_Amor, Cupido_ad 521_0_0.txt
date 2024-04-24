@@ -1,0 +1,52 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ee615fadc62-2
+Kairoi/Tempora anni_84_0_0
+Kairoi/Tempora anni_190_0_0
+Eros/Amor, Cupido_ad 521_0_0
+
+
+
+Monument
+	ID:	23336
+	Entdeckungsort:	Ercolano, Herculaneum, Herculanum
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Kairoi/Tempora anni Eros/Amor, Cupido
+	Beschreibung:	Spring: Two nude putti collect roses. One of them carries a quiver, the other one a vessel. Between them a huge vessel with roses.
+Datierung
+	Periode:	50 - 75 
+Szene
+	ID:	24480
+	Beschreibung:	Spring: Two nude putti collect roses. One of them carries a quiver, the other one a vessel. Between them a huge vessel with roses.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	84
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	190
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 521
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	V 34-35
+Museum
+	Land:	IT
+	Stadt:	Ercolano
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Casa del Gran Portale

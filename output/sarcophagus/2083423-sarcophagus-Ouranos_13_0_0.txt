@@ -1,0 +1,30 @@
+http://ark.dasch.swiss/ark:/72163/080e-7459c830a9be0-b
+Ouranos_13_0_0
+
+
+
+Monument
+	ID:	12855
+	Entdeckungsort:	Goudargues (Gard)
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Ouranos
+	Beschreibung:	Fragment. Ouranos, torso nude.
+Szene
+	ID:	13166
+	Beschreibung:	Ouranos, torso nude.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Ouranos
+	Katalognummer:	13
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	FR
+	Stadt:	Goudargues (Gard)
+	Rechteinhaber der Fotos:	© Goudargues 
+	Hat die Fotorechte:	0

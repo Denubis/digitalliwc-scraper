@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-756370c77654e-b
+Helios/Sol_274_0_0
+Helios/Sol_302a_0_0
+
+
+
+Monument
+	ID:	31590
+	Entdeckungsort:	Doura-Europos
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	engraving
+	Name:	Helios/Sol Luna
+	Beschreibung:	Busts of Sol and the other Planetary Gods; Busts of Sol and Luna.
+Szene
+	ID:	33198
+	Beschreibung:	Busts of Sol and the other Planetary Gods; Busts of Sol and Luna.
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	274
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	302a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	EA 23
+Museum
+	Land:	SY
+	Stadt:	Dura-Europos
+	Direktor:	Mme le Dr. Pascale Linant de Bellefonds
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-92023
+	Kontaktzenter:	Université Paris X - Nanterre Maison de l'Archéologie / Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Dura-Europos
+	Hat die Fotorechte:	1

@@ -1,0 +1,48 @@
+http://ark.dasch.swiss/ark:/72163/080e-74caf0701fdb7-3
+Hesperides_10_0_0
+Herakles_2713_1_0
+
+
+
+Monument
+	ID:	20841
+	Entdeckungsort:	Pompei
+	Objekt:	ring
+	Material:	gold
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	gem
+	Name:	Herakles Hesperides
+	Beschreibung:	Herakles faces the tree with Ladon. Three Hesperides run away.
+Szene
+	ID:	21761
+	Beschreibung:	Herakles faces the tree with Ladon. Three Hesperides run away.
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/21761X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hesperides
+	Katalognummer:	10
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2713
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	25132
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

@@ -1,0 +1,345 @@
+http://ark.dasch.swiss/ark:/72163/080e-73c0f3abbaf96-9
+Pygmaioi_47c_0_0
+Eros/Amor, Cupido_ad 589_0_0
+Aktaion_84_0_0
+Kassandra I (vol. VII)_35_0_0
+Equus Troianus_9_1_0
+Laokoon_4_1_0
+Ilioupersis (S)_41_1_0
+Aias II_83_1_0
+Helene_368_1_0
+Kassandra I (vol. VII)_190_0_0
+Priamos_84_0_0
+Eros/Amor, Cupido_613_0_0
+Europe I_139_0_0
+Andromeda I_106_0_0
+Kentauroi et Kentaurides (S)_383_1_0
+Eros/Amor, Cupido_271_0_0
+Minotauros_55_0_0
+Eros/Amor, Cupido_5_0_0
+Marsyas I_38_0_0
+Pasiphae_2_0_0
+Epithymia I_1_0_1
+Europe I_226_0_0
+Nessos_86_0_0
+Eros/Amor, Cupido_ad 593_0_0
+Eros/Amor, Cupido_658_0_0
+Dirke_16_0_0
+Kepheus I_37_0_0
+Andromeda I_129_0_0
+Kassiepeia (S)_7_0_0
+Andromeda I_35_1_0
+Mousa, Mousai/Musae (vol. VII)_68_0_0
+
+
+
+Monument
+	ID:	2085
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	I 10,4 (Casa del Menandro)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	phiale, phiale mesomphalos, patera oinochoe helmet shield table, mensa, trapeza Palladion spear bull naiskos, aedicula cult image, cult statue suppliant, supplication, hikesia sacrificial animal dog warrior, soldier ketos, sea monster Equus Troianus captive
+	Name:	Aias II Andromeda I Athena Helene Kassandra I Kepheus I Menelaos Perseus Priamos Europe I Laokoon Epithymia I Pasiphae Minotauros Marsyas I Dirke Equus Troianus Eros/Amor, Cupido Ilioupersis Kentauroi and Kentaurides Nessos Pygmaioi Mousa, Mousai Kassiepeia
+	Beschreibung:	Mural painting
+	Bibliographie:	Maiuri, A., La Casa del Menandro (1932); Schefold, WP 38-46; Bonacas, N., ArchCl 11, 1959, 211-217 tav. 68; Dawson, C. M., Romano-Campanian Mytholocial Landscape Painting, YaleClSt 9, 1944, 114 n. 72b.
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	49686
+	Szenerieangabe:	atrium  [b]
+	Sequenznummer:	981
+Catalog LIMC
+	Artikel:	Pygmaioi
+	Katalognummer:	47c
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49687
+	Szenerieangabe:	peristylium [c]
+	Beschreibung:	Venus und Amor: Sakrallandschaft mit offener Aedicula, darin Venus, auf Pfeiler gestützt, und Amor.
+	Bibliographie:	(Venus und Amor:) Maiuri, A., La Casa del Menandro (1932) 89-96 Nr. 24 Abb. 45-46 Taf. 10; (Aktaion): Maiuri, A., La Casa del Menandro (1932) 89 fig. 43; Schefold, WP 42, 11.
+	Sequenznummer:	982
+	Name:	Aktaion Eros/Amor, Cupido
+	Stichwort:	dog
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 589
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aktaion
+	Katalognummer:	84
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49688
+	Szenerieangabe:	ala [4]
+	Beschreibung:	Rückwand: Kassandras Warnung.Rechte Wand: Das durch die Schlangen gestörte Opfer des Laokoon: links offenbar ein Altar; umgestürzter Opfertisch, am Boden Utensilien (Oinochoe, Phialen, Spiesse oder Holz?), wegspringender Opferstier. Im Hintergrund rechts und links Zuschauer (Opferdiener?).Linke Wand: Rechts im Vordergrund umfasst Kassandra das Palladion, Aias ergreift sie am Arm. In der Mitte Priamos. Links im Mittelgrund ergreift Menelaos Helena am Haar.
+	Bibliographie:	Maiuri a. O. 20. 22 Abb. 17 Taf 4;Laokoon: Simon, E., AA (1984) 649-650 Abb. 3; Schefold, WP 40; Davreux, J., La légende de la prophétesse Cassandre d’après les textes et les monuments (1942) 168 no. 109 fig. 69; Moret, Ilioupersis 58 no. 3.
+	Sequenznummer:	983
+	Name:	Aias II Athena Eros/Amor, Cupido Helene Kassandra I Laokoon Priamos
+	Stichwort:	helmet shield spear cult image, cult statue suppliant, supplication, hikesia Ilioupersis Equus Troianus
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49688X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49688X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49688X207.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Datierung
+	Periode:	69 - 79 
+Catalog Thes CRA
+	Indexnummer:	429
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 5. Kultbilder
+	Sequenznummer:	1800
+	Bandnummer:	2
+Catalog LIMC
+	Artikel:	Kassandra I (vol. VII)
+	Katalognummer:	35
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Equus Troianus
+	Katalognummer:	9
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Laokoon
+	Katalognummer:	4
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ilioupersis (S)
+	Katalognummer:	41
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aias II
+	Katalognummer:	83
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helene
+	Katalognummer:	368
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kassandra I (vol. VII)
+	Katalognummer:	190
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Priamos
+	Katalognummer:	84
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	613
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49689
+	Szenerieangabe:	tablinum [8]
+	Sequenznummer:	984
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49689X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49689X299.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Europe I
+	Katalognummer:	139
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49690
+	Szenerieangabe:	oecus verde [11]
+	Beschreibung:	Perseus sitzt neben der halb nackten Andromeda. Centaurs pursuing women.
+	Bibliographie:	Schefold, WP 41; Brommer, Denkmälerlisten III 383,12.
+	Sequenznummer:	985
+	Name:	Andromeda I Perseus
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49690X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49690X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49690X005.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49690X006.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49690X007.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Datierung
+	Periode:	69 - 79 
+	Kommentar:	Vesp. Imitation 3. Stil nach Brommer
+Epoche
+	Name:	vespasianisch
+	Periode:	69 - 79 
+	Sequenznummer:	1185
+Catalog LIMC
+	Artikel:	Andromeda I
+	Katalognummer:	106
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	383
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	271
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49691
+	Szenerieangabe:	atriolo del bagno [46; Schefold a]
+	Beschreibung:	Epithymia (I) looking at Pasiphae, pointing with her arm towards Daidalos and Aphrodite. Only the heads of the persons and the inscriptions remaining. Europe (I) with Eros. Theseus shown as misshapen dwarf beating Minotauros whom he holds by one horn. A dwarf-like Athena stands between Apollon and Marsyas (I).
+	Inschrift:	[ΘH]ΣEYΣ, MEI[NΩ]TAYPOΣ
+	Sequenznummer:	988
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49691X206.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Minotauros
+	Katalognummer:	55
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	5
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Marsyas I
+	Katalognummer:	38
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Pasiphae
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Epithymia I
+	Katalognummer:	1
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Europe I
+	Katalognummer:	226
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49692
+	Szenerieangabe:	tepidarium [47; Schefold b]
+	Sequenznummer:	989
+Catalog LIMC
+	Artikel:	Nessos
+	Katalognummer:	86
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49693
+	Szenerieangabe:	caldarium [48; Schefold c]
+	Sequenznummer:	990
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 593
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49694
+	Szenerieangabe:	ambiente 19
+	Sequenznummer:	987
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	658
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49695
+	Szenerieangabe:	ambiente 15 [Maiuri 16; Schefold 14]
+	Beschreibung:	Perseus wirbt um Andromeda bei Kepheus und Kassiopeia. Perseus spricht mit gefesselter Andromeda.
+	Bibliographie:	Schefold, WP 42, Brommer, Denkmälerlisten III 387,2; Maiuri, A., La Casa del Menandro (1932) 162.
+	Kommentar:	Pompeji, I 10,4 Casa del Meandro (14)
+	Sequenznummer:	986
+	Name:	Andromeda I Kassiepeia Kepheus I Perseus
+	Stichwort:	ketos, sea monster
+Datierung
+	Periode:	45 - 79 
+Catalog LIMC
+	Artikel:	Dirke
+	Katalognummer:	16
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kepheus I
+	Katalognummer:	37
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Andromeda I
+	Katalognummer:	129
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kassiepeia (S)
+	Katalognummer:	7
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Andromeda I
+	Katalognummer:	35
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	68
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	I 10,4
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa del Menandro

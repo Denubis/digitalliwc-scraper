@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-764ffdc6a4bf8-4
+
+
+
+Monument
+	ID:	51569
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Bibliographie:	Feraudi-Gruénais, F., Ubi diutius nobis habitandum est. Die Innendekoration der kaiserzeitlichen Gräber Roms. Palilia 9 (2001) 102 fig. 102.
+Szene
+	ID:	56749
+Foto
+	Neues Foto:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	P 37 + P 64 + P 65
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

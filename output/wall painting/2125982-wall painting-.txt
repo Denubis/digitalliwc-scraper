@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-76ba3a9fac55b-c
+
+
+
+Monument
+	ID:	202957
+	Entdeckungsort:	Chiusi, Camars, Clevsin, Clusium
+	Objekt:	wall painting
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Child depicted on a wall painting.
+	Bibliographie:	Bianchi Bandinelli, R., Monumenti della pittura antica scoperti in Italia, 1, Chiusi 1 (1939) fig. 11; Steingräber, S., Catalogo ragionato della pittura etrusca (1984) 279-281 no. 25.
+Datierung
+	Periode:	-510 - -500 
+Epoche
+	Name:	Ende 6. Jh. v. Chr.
+	Periode:	-510 - -500 
+	Sequenznummer:	2180
+Szene
+	ID:	99985
+	Beschreibung:	Child depicted on a wall painting.
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	3
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VI. 1.b. Kindheit und Adoleszenz, etr.
+	Bandnummer:	6
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Chiusi
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Soprintendente Dott.ssa Fulvia Lo Schiavo
+	Adresse:	Via della Pergola 65
+	Postleitzahl:	I-50121
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici della Toscana
+	Stadt des Kontaktzenters:	Firenze
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici della Toscana
+	Hat die Fotorechte:	1

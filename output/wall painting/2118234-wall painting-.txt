@@ -1,0 +1,30 @@
+http://ark.dasch.swiss/ark:/72163/080e-764b759502707-a
+
+
+
+Monument
+	ID:	51234
+	Entdeckungsort:	Rome
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Bibliographie:	Dekkers, J. G. / Seeliger, H. R. / Mietke, G., Die Katakombe dei Santi Marcellino e Pietro. Repertorium der Malereien, vol. 2 (1987) tav. 30, b n. 45; Dölger, J., Ichthus. Die Fisch-Denkmäler in der frühchristlichen Plastik, Malerei und Kleinkunst (1922-1945), IV, tav. 262, 2.
+Szene
+	ID:	56407
+Foto
+	Neues Foto:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Camera del tricliniarca
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Catacombe dei SS. Marcellino e Pietro
+	Direktor:	Dott.ssa Barbara Mazzei
+	Adresse:	Via Napoleone III 1
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Pontificia Commissione di Archeologia Sacra
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Pontificia Commissione di Archeologia Sacra
+	Hat die Fotorechte:	0

@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-7497be45e4906-c
+Lykos I_7_1_0
+Dirke_14_1_0
+
+
+
+Monument
+	ID:	17230
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 2, 25
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Dirke Lykos I
+	Beschreibung:	Zethos threatening Lykos (I), Amphion being hold back by Hermes. In the background the punishment of Dirke.
+Szene
+	ID:	17921
+	Beschreibung:	Zethos threatening Lykos (I), Amphion being hold back by Hermes. In the background the punishment of Dirke.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/17921X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/17921X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Lykos I
+	Katalognummer:	7
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dirke
+	Katalognummer:	14
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

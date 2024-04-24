@@ -1,0 +1,93 @@
+http://ark.dasch.swiss/ark:/72163/080e-73ebdb15651f3-c
+Tyche/Fortuna_75_0_0
+Abundantia_5_1_0
+Homonoia/Concordia_79_1_0
+Iuno_190_0_0
+Honos_29_0_0
+
+
+
+Monument
+	ID:	5099
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	altar cornucopia phiale, phiale mesomphalos, patera ram garland libation dove sacrificial animal pig basket volumen, scroll flower camillus capite velato sacrificial assistant (boy) gesture: dextrarum iunctio, dexiosis
+	Name:	Abundantia Homonoia/Concordia Honos Horai/Horae Hera/Iuno Pietas Tyche/Fortuna Aphrodite/Venus Iuno
+	Beschreibung:	Sacrifice pour un mariage: homme barbu (l’époux) debout tenant une patère (perdue) dans la droite et un rotulus dans la gauche. Devant lui se tiennent deux garçons qui assurent le service; l’un d’eux amène l’animal pour le sacrifice. Au milieu de ces personnages une corbeille avec des fleurs. En arrière-plan une plaque avec inscription posée sur quatre colonnes. Depuis la gauche s’avancent quatre figures féminines (Venus, Hora avec guirlande, Genius (?), Fortuna). On the right the dextrarum iunctio, behind the bridal pair stands Concordia (or Iuno Pronuba).
+	Bibliographie:	Koch / Sichtermann, RömSark 101 fig. 97; Scott Ryberg, I., “Rites of the State Religion in Roman Art”, MAAR 22, 22, 1955, 166-167 fig. 95; Matz, F., Ein römisches Meisterwerk, JdI 19. Erg.-H. (1958) 151-153 pl. 28b; Rodenwalt, G., Die Kunst der Antike (1927) pl. 613.
+Datierung
+	Periode:	140 - 160 
+Epoche
+	Name:	Mitte 2. Jh. n. Chr.
+	Periode:	140 - 160 
+	Sequenznummer:	3160
+Szene
+	ID:	5188
+	Beschreibung:	Sacrifice pour un mariage: homme barbu (l’époux) debout tenant une patère (perdue) dans la droite et un rotulus dans la gauche. Devant lui se tiennent deux garçons qui assurent le service; l’un d’eux amène l’animal pour le sacrifice. Au milieu de ces personnages une corbeille avec des fleurs. En arrière-plan une plaque avec inscription posée sur quatre colonnes. Depuis la gauche s’avancent quatre figures féminines (Venus, Hora avec guirlande, Genius (?), Fortuna). On the right the dextrarum iunctio, behind the bridal pair stands Concordia (or Iuno Pronuba).
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/san_lorenzo_fuori_le_mura/5188X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/san_lorenzo_fuori_le_mura/5188X303.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	104
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 2.a. Opfer, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	220
+	Bandnummer:	1
+Catalog Thes CRA
+	Indexnummer:	285
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.a. Kultpersonal, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	4700
+	Bandnummer:	5
+Catalog LIMC
+	Artikel:	Tyche/Fortuna
+	Katalognummer:	75
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Abundantia
+	Katalognummer:	5
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Homonoia/Concordia
+	Katalognummer:	79
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iuno
+	Katalognummer:	190
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Honos
+	Katalognummer:	29
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	San Lorenzo fuori le Mura
+	Kontaktzenter:	San Lorenzo fuori le Mura
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprindentenza SPSAE e Polo Museale della Città di Roma
+	Hat die Fotorechte:	0

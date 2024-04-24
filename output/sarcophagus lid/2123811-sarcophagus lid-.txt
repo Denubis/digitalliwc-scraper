@@ -1,0 +1,30 @@
+http://ark.dasch.swiss/ark:/72163/080e-769b30f14d7b4-c
+
+
+
+Monument
+	ID:	200606
+	Objekt:	sarcophagus lid
+	Material:	nenfro
+	Land:	DE
+	Kategorie:	relief
+	Beschreibung:	Liegende Deckelfigur mit der linkenden Hand unter dem Kopf und ein Messer in der Rechten. Auf der Materatze eine Axt.Auf der Sarkofagkasse Charun und Vanth
+	Bibliographie:	G. Colonna, E. Colonna di Paolo,  Norchia (1978), S. 375; G. Colonna, Sarcofagi chiusini di età ellenistica, in La civiltà di Chiusi e del suo territorio, Atti Chianciano Terme 1989 (1993), S. 341, Abb. 1
+Datierung
+Epoche
+	Name:	4. Jh. n. Chr.
+	Periode:	300 - 400 
+	Sequenznummer:	3420
+Inventar
+	Nummer:	Inv. 76365
+Museum
+	Land:	IT
+	Stadt:	Barbarano Romano
+	Name:	Museo Archeologico delle Necropoli Rupestri
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici del Lazio, Sezione Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Museo Archeologico delle Necropoli Rupestri
+	Hat die Fotorechte:	1

@@ -1,0 +1,57 @@
+http://ark.dasch.swiss/ark:/72163/080e-7430f37723e18-5
+Perseus_224c_0_0
+Andromeda I_102_0_0
+Dionysos/Bacchus_183_0_0
+Hypnos/Somnus_126_0_0
+
+
+
+Monument
+	ID:	9981
+	Entdeckungsort:	Castellammare di Stabia
+	Entdeckungsort Details:	Villa di Arianna
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Andromeda I Perseus Ariadne Eros Hypnos Dionysos/Bacchus Hypnos/Somnus
+	Beschreibung:	Sleeping Ariadne, Hypnos watching over her, from the right Bacchus approaching, guided by Eros. Perseus and Andromeda by the sea.
+	Bibliographie:	Brommer, Denkmälerlisten III 383,I; Allroggen-Bedel, A., RM 84 (1977) 52 Taf. 19,1,22.
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	10196
+	Beschreibung:	Sleeping Ariadne, Hypnos watching over her, from the right Bacchus approaching, guided by Eros. Perseus and Andromeda by the sea.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Perseus
+	Katalognummer:	224c
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Andromeda I
+	Katalognummer:	102
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	183
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	126
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Castellammare di Stabia
+	Name:	Villa di Arianna
+	Rechteinhaber der Fotos:	© Villa di Arianna, Castellammare di Stabia
+	Hat die Fotorechte:	1

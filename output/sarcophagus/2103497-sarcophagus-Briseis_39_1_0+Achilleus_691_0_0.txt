@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-7578c56050572-8
+Briseis_39_1_0
+Achilleus_691_0_0
+
+
+
+Monument
+	ID:	33096
+	Objekt:	sarcophagus
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	relief
+	Name:	Achilleus Briseis Hermes Priamos
+	Bibliographie:	SarkRel II Nr. 54; Kallipolitis, B., Chronologiki kataxis ton meta mythologikon parastaseon attokin sarkophagon tis romaikis epochis (1958) Nr. 167; Giuliano, A., Il commercio dei sarcofagi attici (1962) 49 Nr. 265; Budde, L., Festschrift Mercklin (1964) 17 Taf. 10,2. 11.
+Szene
+	ID:	34766
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/turkey/antalya/musee_regional/34766X002.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Briseis
+	Katalognummer:	39
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	691
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	A 118
+Museum
+	Land:	TR
+	Stadt:	Antalya
+	Name:	Musée Archéologique
+	Direktor:	Prof. Kutalmis Görkay
+	Adresse:	Dil ve Tarih, Cografya Fakültesi
+	Postleitzahl:	TR-06100
+	Kontaktzenter:	Ankara Üniversitesi
+	Stadt des Kontaktzenters:	Sihhiye Ankara / Türkei
+	Rechteinhaber der Fotos:	© Archaeological Museum Antalya
+	Hat die Fotorechte:	1

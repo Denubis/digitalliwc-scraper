@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-7628d8ebe96fe-1
+Andromeda I_132_0_0
+
+
+
+Monument
+	ID:	45530
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Andromeda I Perseus
+	Bibliographie:	BullCom 8 (1880) 284,4; Brommer, Denkmälerlisten III 384 no. 32.
+Szene
+	ID:	47932
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Andromeda I
+	Katalognummer:	132
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Musei Capitolini
+	Direktor:	Dirigente Dott. Claudio Parisi Presicce
+	Adresse:	Via delle Tre Pile, 1
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Sovraintendenza ai Beni Culturali                     del Comune di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Archivio fotografico Musei Capitolini
+	Hat die Fotorechte:	1

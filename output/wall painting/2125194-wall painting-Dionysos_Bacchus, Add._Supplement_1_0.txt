@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-76aef69bd02f7-4
+Dionysos/Bacchus, Add._Supplement_1_0
+
+
+
+Monument
+	ID:	202304
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Bacchus with kithara; silen
+	Bibliographie:	Borda, MemAccLinc 8.1, 1948; Baldassare, I. et al., La peinture romaine de l'époque hellénistique à l'antiquité tardive (2002) 176-178.
+Szene
+	ID:	99301
+	Beschreibung:	Bacchus with kithara; silen
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus, Add.
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Colombario di Pomponius Hylas
+	Direktor:	Att. Dott.ssa Elisa Tritoni
+	Adresse:	Piazza Lovatelli, 35
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Sovraintendenza ai Beni Culturali del Comune di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Sovraintendenza ai Beni Culturali del Comune di Roma
+	Hat die Fotorechte:	1

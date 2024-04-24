@@ -1,0 +1,49 @@
+http://ark.dasch.swiss/ark:/72163/080e-74f83765a5dd2-d
+Kairoi/Tempora anni_155_1_0
+Eros/Amor, Cupido_ad 569_0_0
+
+
+
+Monument
+	ID:	24035
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kairoi/Tempora anni Eros/Amor, Cupido
+	Beschreibung:	In the centre Dionysos on a tiger surrounded by Erotes and animals. The four Seasons frame the scene.
+Datierung
+	Periode:	250 
+Szene
+	ID:	25217
+	Beschreibung:	In the centre Dionysos on a tiger surrounded by Erotes and animals. The four Seasons frame the scene.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/kassel/staatliche_museen_kassel/antikensammlung/25217X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	155
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 569
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Sk 46
+Museum
+	Land:	DE
+	Stadt:	Kassel
+	Name:	Staatliche Museen Kassel, Antikensammlung
+	Direktor:	Dr. Rüdiger Splitter
+	Anrede:	Sehr geehrter Herr Dr. Splitter,
+	Adresse:	Schloss  Wilhelmshöhe
+	Postleitzahl:	D-34131
+	Kontaktzenter:	Staatliche Museen Kassel, Antikensammlung
+	Stadt des Kontaktzenters:	Kassel
+	Rechteinhaber der Fotos:	© Staatliche Museen Kassel, Antikensammlung
+	Hat die Fotorechte:	1

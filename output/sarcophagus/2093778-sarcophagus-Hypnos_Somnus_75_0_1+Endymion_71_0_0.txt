@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-74edd2a30fb5f-f
+Hypnos/Somnus_75_0_1
+Endymion_71_0_0
+
+
+
+Monument
+	ID:	23297
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Endymion Hypnos/Somnus
+Szene
+	ID:	24439
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	75
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	71
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Frascati
+	Name:	Villa Aldobrandini
+	Direktor:	Amministrazione Aldobrandini
+	Anrede:	Gentili Signore, Gentili Signori,
+	Adresse:	Via Cardinal Guglielmo Massaia 18
+	Postleitzahl:	I-00044
+	Kontaktzenter:	Villa Aldobrandini
+	Stadt des Kontaktzenters:	Frascati (Roma)
+	Rechteinhaber der Fotos:	© Villa Aldobrandini, Frascati
+	Hat die Fotorechte:	0

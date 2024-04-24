@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-76b6dae2173bf-c
+
+
+
+Monument
+	ID:	202723
+	Entdeckungsort:	Pompei
+	Objekt:	kantharos
+	Material:	silver
+	Land:	DE
+	Kategorie:	toreutics
+	Stichwort:	herm table, mensa, trapeza cock cult instrument libation priest branch priestess priestess of Isis altar: monolithic block idol
+	Name:	Osiris
+	Beschreibung:	Herme mit Portraitkopf des Octavian (Übereckansicht, Armbosse, Zweig), davor ein Priester; Louterion; (Isis-)Priesterin libiert an rechteckigem Blockaltar (auf Basis mit Deckplatte), auf dem ein Hahn sitzt (l.), Tisch mit Kultzubehör, Osiris-Idol.
+	Bibliographie:	Guzzo, P.G. (Hg.), Argenti a Pompei (2006) 236 Kat. Nr. 410 Abb. S. 37 (Detail). S. 237.
+	Kommentar:	Vgl. ID-Denkmal 202721 (Pompei, Soprintendenza Inv. 86776)
+Datierung
+Epoche
+	Name:	Mitte 1. Jh. v. Chr.
+	Periode:	-60 - -40 
+	Sequenznummer:	2870
+Szene
+	ID:	99743
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	86775
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Soprintendenza
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

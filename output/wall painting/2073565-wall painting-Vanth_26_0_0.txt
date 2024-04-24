@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-73ccd8b8e6fd6-7
+Vanth_26_0_0
+
+
+
+Monument
+	ID:	2922
+	Entdeckungsort:	Tarquinia
+	Entdeckungsort Details:	necropolis
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Vanth
+	Beschreibung:	Charun and Vanth.
+Szene
+	ID:	2940
+	Beschreibung:	Charun and Vanth.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Vanth
+	Katalognummer:	26
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba Giglioli
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Necropoli
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

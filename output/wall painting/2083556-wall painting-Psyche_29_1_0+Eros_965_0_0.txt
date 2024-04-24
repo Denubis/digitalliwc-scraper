@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-745baef589b39-5
+Psyche_29_1_0
+Eros_965_0_0
+
+
+
+Monument
+	ID:	12990
+	Entdeckungsort:	Tyre
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Eros Psyche
+Szene
+	ID:	13308
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/lebanon/beyrouth/musee_national/13308X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	29
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros
+	Katalognummer:	965
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	LB
+	Stadt:	Beyrouth
+	Name:	Musée National
+	Direktor:	Mme le Dr. Pascale Linant de Bellefonds
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-92023
+	Kontaktzenter:	Université Paris X - Nanterre - Maison de l'Archéologie / Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Musée National Beyrouth
+	Hat die Fotorechte:	1

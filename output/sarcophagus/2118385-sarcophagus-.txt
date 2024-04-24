@@ -1,0 +1,51 @@
+http://ark.dasch.swiss/ark:/72163/080e-764d9e3ac8e3a-a
+
+
+
+Monument
+	ID:	51395
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Beschreibung:	Banquette scene of the deceased with allusion to his profession and a representation of the rites of Kybele (?)
+	Inschrift:	FVERIT POST ME ET POST GAVDENIA NICENE/ VETO ALIVM QUISQUIS HUNC TITVLVM LEGERIT/MI ET ILLEI FECI; under the bed: T. AELIO EVANGELO/HOMINI PATIENTI MERUM PROFVNDAT
+	Bibliographie:	Koch, G., Roman Funerary Sculpture. Catalogue of the Collection (1988) 24 n. 9; Amedick, R., Vita Privata auf Sarkophagen (1991) n. 68 pls. 1, 2; 2, 1;  3, 3.
+	Museums-URL:	http://www.getty.edu/art/collection/objects/12845/unknown-maker-front-panel-from-a-sarcophagus-roman-about-180/
+Datierung
+	Periode:	180 - 190 
+Epoche
+	Name:	4. Viertel 2. Jh. n. Chr.
+	Periode:	175 - 200 
+	Sequenznummer:	3230
+Szene
+	ID:	56570
+	Beschreibung:	Banquette scene of the deceased with allusion to his profession and a representation of the rites of Kybele (?)
+	Inschrift:	FVERIT POST ME ET POST GAVDENIA NICENE/ VETO ALIVM QUISQUIS HUNC TITVLVM LEGERIT/MI ET ILLEI FECI; under the bed: T. AELIO EVANGELO/HOMINI PATIENTI MERUM PROFVNDAT
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	138
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 4.a. Bankett, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	1430
+	Bandnummer:	2
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	86.AA.701
+Museum
+	Land:	US
+	Stadt:	Malibu
+	Name:	J. Paul Getty Museum
+	Direktor:	Dr. Jackie Burns
+	Adresse:	1200 Getty Center Drive Suite 1000
+	Postleitzahl:	USA-
+	E-Mail:	jburns@getty.edu
+	Kontaktzenter:	Registrars Office, J. Paul Getty Museum
+	Stadt des Kontaktzenters:	Los Angeles, CA 90049
+	Rechteinhaber der Fotos:	© J. Paul Getty Museum
+	Hat die Fotorechte:	1

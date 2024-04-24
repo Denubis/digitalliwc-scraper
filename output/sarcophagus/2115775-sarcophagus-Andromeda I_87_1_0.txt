@@ -1,0 +1,49 @@
+http://ark.dasch.swiss/ark:/72163/080e-76284dd83bbc0-e
+Andromeda I_87_1_0
+
+
+
+Monument
+	ID:	45492
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	ketos, sea monster
+	Name:	Andromeda I Perseus
+	Beschreibung:	Fragment.
+	Bibliographie:	Robert, SarkRel III 3 402 Fig. 330; Brommer, Denkmälerlisten III 381,4.
+Datierung
+	Periode:	193 - 235 
+Epoche
+	Name:	severisch
+	Periode:	193 - 235 
+	Sequenznummer:	1230
+Szene
+	ID:	47890
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/47890X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/47890X302.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Andromeda I
+	Katalognummer:	87
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2681
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Musei Capitolini
+	Direktor:	Dirigente Dott. Claudio Parisi Presicce
+	Adresse:	Via delle Tre Pile, 1
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Sovraintendenza ai Beni Culturali                     del Comune di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Archivio fotografico Musei Capitolini
+	Hat die Fotorechte:	1

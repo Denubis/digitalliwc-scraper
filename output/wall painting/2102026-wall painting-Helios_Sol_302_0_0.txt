@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-7563bda32de77-9
+Helios/Sol_302_0_0
+
+
+
+Monument
+	ID:	31611
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Villa della Farnesina
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Helios/Sol Luna
+	Beschreibung:	Sol and Luna as Statues on basis.
+Szene
+	ID:	33219
+	Beschreibung:	Sol and Luna as Statues on basis.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	302
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1174 E 1
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Romano
+	Direktor:	Soprintendente Dott. Giuseppe Proietti
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali - Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-745397721d9ab-e
+Mousa, Mousai/Musae (vol. VII)_176_1_0
+
+
+
+Monument
+	ID:	12422
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Mousa, Mousai
+Szene
+	ID:	12723
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/verona/museo_lapidario_maffeiano/12723X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	176
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Verona
+	Name:	Museo Lapidario Maffeiano
+	Adresse:	PIazza Bra 28
+	Postleitzahl:	I-37121
+	Kontaktzenter:	Museo Lapidario Maffeiano
+	Stadt des Kontaktzenters:	Verona
+	Rechteinhaber der Fotos:	© Museo Lapidario Maffeiano, Verona
+	Hat die Fotorechte:	0

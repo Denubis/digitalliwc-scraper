@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-76bd75c3ddd45-2
+
+
+
+Monument
+	ID:	203184
+	Entdeckungsort:	Vergina (Macedonia)
+	Objekt:	wall painting
+	Herkunft:	Greek
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Chariot race.
+	Bibliographie:	Andronikos, M., Vergina. The Royal Tombs and the Ancient City (1984) 206 fig. 166-168; Brécoulaki, H., La peinture funéraire de Macédoine. Emplois et fonctions de la couleur. IVe-IIe s. av. J.-Chr. (2006) 133-149 pl. 50-52.
+Datierung
+	Periode:	-310 - -300 
+Epoche
+	Name:	Ende 4. Jh. v. Chr.
+	Periode:	-310 - -300 
+	Sequenznummer:	2460
+Szene
+	ID:	100223
+	Beschreibung:	Chariot race.
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	72
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VI. 1.e. Tod, gr.
+	Bandnummer:	6
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tombe III
+Museum
+	Land:	GR
+	Stadt:	Vergina
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-105 61
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Vergina
+	Hat die Fotorechte:	0

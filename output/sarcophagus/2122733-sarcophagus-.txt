@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-768bc78d28c26-9
+
+
+
+Monument
+	ID:	91115
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	GR
+	Kategorie:	relief
+	Stichwort:	vase ribbon
+	Name:	Eros
+	Grössenangabe:	Σωζ. Y. 0.46 m - Σωζ. Πλ. 0.37 m
+	Beschreibung:	Έρως.
+	Kommentar:	4171
+Szene
+	ID:	96597
+	Beschreibung:	Έρως προς δεξιά, ιπτάμενος (ταινία στα μακριά μαλλιά, γυμνός, ανοιχτά πτερά). Tο αριστερό ανυψωμένο χέρι κρατά αγγείο. Tο δεξιό χέρι προτεταμένο χαμηλότερα. Tο αριστερό σκέλος προβάλλεται λυγισμένο.
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	185
+Museum
+	Land:	GR
+	Stadt:	Paros
+	Name:	Musée Archéologique
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athènes
+	Rechteinhaber der Fotos:	© Archaeological Museum of Paros
+	Hat die Fotorechte:	0

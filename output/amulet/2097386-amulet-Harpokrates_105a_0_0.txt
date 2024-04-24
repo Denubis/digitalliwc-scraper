@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-7521679ea4bd7-3
+Harpokrates_105a_0_0
+
+
+
+Monument
+	ID:	26941
+	Entdeckungsort:	Pompei
+	Objekt:	amulet
+	Material:	glass(-paste)
+	Land:	CH
+	Kategorie:	glas
+	Name:	Harpokrates
+Szene
+	ID:	28300
+Catalog LIMC
+	Artikel:	Harpokrates
+	Katalognummer:	105a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	158743
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

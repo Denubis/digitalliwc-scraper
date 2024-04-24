@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-76ac936703f74-b
+Daemones anonymi (in Etruria) (Suppl. 2009)_Supplement_0_0
+
+
+
+Monument
+	ID:	202073
+	Entdeckungsort:	Tarquinia
+	Entdeckungsort Details:	Tomba della Pulcella
+	Objekt:	wall painting
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	cloth, textile ashes demon
+	Beschreibung:	two flying naked demons holding a blanket over a spot where presumably the ash of a deceased was deposited
+	Bibliographie:	Steingräber, EtrWmal 344 no. 103; Krauskopf, Todesdämonen 28 pl. 3a; Rendeli, M., Prospettiva 83-84 (1996) 13 fig. 4.
+Szene
+	ID:	99061
+	Beschreibung:	two flying naked demons holding a blanket over a spot where presumably the ash of a deceased was deposited
+Catalog LIMC
+	Artikel:	Daemones anonymi (in Etruria) (Suppl. 2009)
+	Band:	Supplement
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba della Pulcella
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Necropoli
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

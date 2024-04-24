@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-7454471f2ee9b-b
+Mousa, Mousai/Musae (vol. VII)_197_1_0
+
+
+
+Monument
+	ID:	12470
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Mousa, Mousai
+	Museums-URL:	http://www.getty.edu/art/collection/objects/6939/unknown-maker-large-sarcophagus-with-the-muses-fragmentary-right-half-roman-mid-3rd-century/
+Szene
+	ID:	12771
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/malibu/j_paul_getty_museum/12771X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	197
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	72.AA.90
+Museum
+	Land:	US
+	Stadt:	Malibu
+	Name:	J. Paul Getty Museum
+	Direktor:	Dr. Jackie Burns
+	Adresse:	1200 Getty Center Drive Suite 1000
+	Postleitzahl:	USA-
+	E-Mail:	jburns@getty.edu
+	Kontaktzenter:	Registrars Office, J. Paul Getty Museum
+	Stadt des Kontaktzenters:	Los Angeles, CA 90049
+	Rechteinhaber der Fotos:	© J. Paul Getty Museum
+	Hat die Fotorechte:	1

@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-751bd440781b9-d
+Gorgones Romanae_178_0_0
+
+
+
+Monument
+	ID:	26546
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Gorgo, Gorgones
+	Beschreibung:	Head of the Medusa on either side of a funerary banquet.
+Szene
+	ID:	27881
+	Beschreibung:	Head of the Medusa on either side of a funerary banquet.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Gorgones Romanae
+	Katalognummer:	178
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1718
+Museum
+	Land:	GR
+	Stadt:	Thessalonique
+	Name:	Musée Archéologique
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Archaeological Museum of Thessaloniki
+	Hat die Fotorechte:	0

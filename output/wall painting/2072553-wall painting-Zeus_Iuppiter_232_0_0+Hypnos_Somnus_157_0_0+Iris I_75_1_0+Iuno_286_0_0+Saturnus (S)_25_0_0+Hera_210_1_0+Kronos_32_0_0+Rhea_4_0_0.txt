@@ -1,0 +1,86 @@
+http://ark.dasch.swiss/ark:/72163/080e-73be60e2ba112-1
+Zeus/Iuppiter_232_0_0
+Hypnos/Somnus_157_0_0
+Iris I_75_1_0
+Iuno_286_0_0
+Saturnus (S)_25_0_0
+Hera_210_1_0
+Kronos_32_0_0
+Rhea_4_0_0
+
+
+
+Monument
+	ID:	1902
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 8,3-8 (Casa del Poeta Tragico)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Hera Hypnos/Somnus Iris I Iuno Kronos Rhea Zeus/Iuppiter Saturnus
+	Beschreibung:	Kronos is seated at the right turning to the left. He wears himation covering his lower body, the garment is pulled across his shoulders, covering the lower part of his head. Rhea on the left. Alternative interpretation: Zeus and Hera meat on the mount Ida, Zeus reclining on the right, Hera standing on the left, behind her Iris or Hypnos.
+Szene
+	ID:	1814
+	Beschreibung:	Kronos is seated at the right turning to the left. He wears himation covering his lower body, the garment is pulled across his shoulders, covering the lower part of his head. Rhea on the left. Alternative interpretation: Zeus and Hera meat on the mount Ida, Zeus reclining on the right, Hera standing on the left, behind her Iris or Hypnos.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/1814X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/1814X302.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	232
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	157
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iris I
+	Katalognummer:	75
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iuno
+	Katalognummer:	286
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Saturnus (S)
+	Katalognummer:	25
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hera
+	Katalognummer:	210
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kronos
+	Katalognummer:	32
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Rhea
+	Katalognummer:	4
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9559
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

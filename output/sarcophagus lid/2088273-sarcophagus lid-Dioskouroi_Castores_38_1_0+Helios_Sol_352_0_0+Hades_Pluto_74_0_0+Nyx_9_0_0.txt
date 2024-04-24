@@ -1,0 +1,58 @@
+http://ark.dasch.swiss/ark:/72163/080e-749f1eca5ea1a-0
+Dioskouroi/Castores_38_1_0
+Helios/Sol_352_0_0
+Hades/Pluto_74_0_0
+Nyx_9_0_0
+
+
+
+Monument
+	ID:	17755
+	Objekt:	sarcophagus lid
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Nyx Dioskouroi Apollon/Apollo Okeanos Selene Luna Nyx Helios/Sol Dioskouroi/Castores Hades/Pluto
+	Beschreibung:	In the centre the Capitoline Triade. The Dioskouroi with their horses at either side. On the left Apollon (or rather Sol) on his chariot, Aura is flying near him. Underneath Okeanos. On the right Selene on her chariot. At the right corner the winged Nyx is holding out a cloth before her.
+Szene
+	ID:	48866
+	Szenerieangabe:	couvercle
+	Beschreibung:	In the centre the Capitoline Triade. The Dioskouroi with their horses at either side. On the left Apollon (or rather Sol) on his chariot, Aura is flying near him. Underneath Okeanos. On the right Selene on her chariot. At the right corner the winged Nyx is holding out a cloth before her.
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/san_lorenzo_fuori_le_mura/48866X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/san_lorenzo_fuori_le_mura/48866X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Dioskouroi/Castores
+	Katalognummer:	38
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	352
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	74
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Nyx
+	Katalognummer:	9
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	San Lorenzo fuori le Mura
+	Kontaktzenter:	San Lorenzo fuori le Mura
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprindentenza SPSAE e Polo Museale della Città di Roma
+	Hat die Fotorechte:	0

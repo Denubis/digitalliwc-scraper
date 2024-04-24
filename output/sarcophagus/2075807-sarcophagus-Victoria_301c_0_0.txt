@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-73ece641ef720-8
+Victoria_301c_0_0
+
+
+
+Monument
+	ID:	5172
+	Entdeckungsort:	Laodiceia (Lykos)
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Victoria
+	Beschreibung:	On each corner a Victoria holding garlands. Erotes.
+Szene
+	ID:	17682
+	Beschreibung:	On each corner a Victoria holding garlands. Erotes.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Victoria
+	Katalognummer:	301c
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	79
+Museum
+	Land:	TR
+	Stadt:	Izmir
+	Name:	Musée Archéologique
+	Direktor:	Mme le Dr. Pascale Linant de Bellefonds
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-92023
+	Kontaktzenter:	Université Paris X-Nanterre; Maison de l'Archéologie/Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Archaeological Museum Izmir
+	Hat die Fotorechte:	1

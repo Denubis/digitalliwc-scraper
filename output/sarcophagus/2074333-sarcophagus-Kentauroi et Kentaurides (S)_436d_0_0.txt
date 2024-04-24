@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d7d389fbed6-f
+Kentauroi et Kentaurides (S)_436d_0_0
+
+
+
+Monument
+	ID:	3692
+	Entdeckungsort:	Athens
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	GR
+	Kategorie:	relief
+	Stichwort:	panther, leopard lion boar centaur
+	Name:	Kentauroi and Kentaurides
+	Beschreibung:	Kένταυροι.
+	Bibliographie:	Kekulé 146.
+	Kommentar:	5538
+Szene
+	ID:	3730
+	Beschreibung:	Centaur with rock against a lioness.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	436d
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1184
+Museum
+	Land:	GR
+	Stadt:	Athens
+	Name:	National Archaeological Museum
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Anrede:	Dear Director,
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© National Archaeological Museum, Athens
+	Kommentar:	Pour les intailles de la collection Karapanos voir Musée Numismatique.  Inv. VS = ancienne collection Vlastos-Serpieri.
+	Hat die Fotorechte:	1

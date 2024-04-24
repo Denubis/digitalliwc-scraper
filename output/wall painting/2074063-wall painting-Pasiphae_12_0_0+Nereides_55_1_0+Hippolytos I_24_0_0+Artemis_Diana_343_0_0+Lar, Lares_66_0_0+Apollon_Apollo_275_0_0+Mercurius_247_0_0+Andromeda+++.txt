@@ -1,0 +1,223 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d3f75c7a910-3
+Pasiphae_12_0_0
+Nereides_55_1_0
+Hippolytos I_24_0_0
+Artemis/Diana_343_0_0
+Lar, Lares_66_0_0
+Apollon/Apollo_275_0_0
+Mercurius_247_0_0
+Andromeda I_108_0_0
+Opora_10_0_0
+Venus_170_0_1
+Mercurius_302_0_0
+Paridis iudicium_73_0_0
+Ariadne (vol. III)_43_0_0
+Antiope I_11_0_0
+Leda_76_0_1
+Telephos_33_0_0
+Nereides_55_1_0
+Meleagros_93_1_0
+Atalante_35_0_0
+Demeter/Ceres (vol. IV)_152_0_1
+
+
+
+Monument
+	ID:	3421
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	V 9 2 (Casa di Meleagro)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	snake satyr, silen maenad
+	Name:	Andromeda I Antiope I Perseus Phokos II Opora Pasiphae Meleagros Ariadne Hippolytos I Mercurius Paridis iudicium Telephos Venus Lar, Lares Leda Nereides
+	Beschreibung:	Mural painting in the Casa di Meleagro.
+	Bibliographie:	Helbig, Wandgemälde no. 1201 (ev. identisch mit Helbig, 1202); Matz, F. MarbWPr (1947) 9; Schefold, WP 112.
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	11206
+	Szenerieangabe:	2
+	Beschreibung:	Daidalos presenting the mechanical cow to Pasiphae.
+	Sequenznummer:	120
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/11206X301.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Pasiphae
+	Katalognummer:	12
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Nereides
+	Katalognummer:	55
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	26505
+	Szenerieangabe:	38
+	Sequenznummer:	480
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	24
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	343
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Lar, Lares
+	Katalognummer:	66
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	45084
+	Szenerieangabe:	29
+	Beschreibung:	Seated Mercurius with caducaeus listening to Apollo.
+	Sequenznummer:	390
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	275
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	247
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	47912
+	Szenerieangabe:	16
+	Beschreibung:	Perseus und Andromeda, Oberkörper A. entblösst. Venus and Amor.
+	Bibliographie:	Helbig, Wandgemälde no. 1201 (ev. identisch mit Helbig, 1202); Matz, F. MarbWPr (1947) 9; Schefold, WP 112.
+	Sequenznummer:	260
+	Name:	Andromeda I Perseus
+Datierung
+	Periode:	45 - 79 
+Catalog LIMC
+	Artikel:	Andromeda I
+	Katalognummer:	108
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Opora
+	Katalognummer:	10
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Venus
+	Katalognummer:	170
+	Asterix:	0
+	Dot:	1
+Szene
+	ID:	49697
+	Szenerieangabe:	27
+	Beschreibung:	Judgment of Paris: Paris discussing with Mercurius. Hera, Athena and Aphrodite.
+	Sequenznummer:	370
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49697X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	302
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Paridis iudicium
+	Katalognummer:	73
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49698
+	Szenerieangabe:	24
+	Beschreibung:	Satyr und Mänade/Antiope und Phokos
+	Bibliographie:	Helbig, Wandgemälde no. 541; Schefold, WP 113, Panofka, Th., Phokos und Antiope, 15 BerlWPr 1855.
+	Kommentar:	Panofka Falsche Deutung
+	Sequenznummer:	340
+	Name:	Antiope I Phokos II
+	Stichwort:	snake satyr, silen maenad
+Catalog LIMC
+	Artikel:	Ariadne (vol. III)
+	Katalognummer:	43
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Antiope I
+	Katalognummer:	11
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49699
+	Szenerieangabe:	14
+	Beschreibung:	Herakles with Telephos and the hind.
+	Sequenznummer:	240
+Catalog LIMC
+	Artikel:	Leda
+	Katalognummer:	76
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Telephos
+	Katalognummer:	33
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49700
+	Szenerieangabe:	8
+	Sequenznummer:	180
+Catalog LIMC
+	Artikel:	Nereides
+	Katalognummer:	55
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	49701
+	Szenerieangabe:	1
+	Beschreibung:	Atalante leans against a pillar, wearing petasos, long chiton, chlamys, sandals and holding two spears. Meleager is seated. The dead boar before them.
+	Sequenznummer:	110
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49701X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	93
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Atalante
+	Katalognummer:	35
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Demeter/Ceres (vol. IV)
+	Katalognummer:	152
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VI 9,2
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa di Meleagro

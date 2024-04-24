@@ -1,0 +1,65 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a972c42a27a-0
+Thoas II_3_0_0
+Iphigeneia_59_1_0
+
+
+
+Monument
+	ID:	410
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	I 4,5 (Casa del Citarista)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	wreath, crown, stephane, corona altar temple torch cult image, cult statue hydria human sacrifice priestess altar: monolithic block
+	Name:	Iphigeneia Orestes Pylades Thoas II
+	Beschreibung:	Orestes und Pylades gefesselt vor Thoas, dazwischen quadratischer Block-Altar in Übereckansicht auf Basis; dahinter auf Tempelpodium Iphigeneia mit Kultbild auf Arm.
+	Bibliographie:	Guida Ruesch n. 1314; PompPittMos I (1990) 134, Abb. 31.
+Datierung
+	Periode:	65 
+	Kommentar:	ca.
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	195
+	Beschreibung:	Orestes und Pylades gefesselt vor Thoas, dazwischen quadratischer Block-Altar in Übereckansicht auf Basis; dahinter auf Tempelpodium Iphigeneia mit Kultbild auf Arm.
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/195X302.jpg
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	55
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	IV. 1.b. Kultorte (Darstellungen)
+	Sequenznummer:	4500
+	Bandnummer:	4
+Catalog LIMC
+	Artikel:	Thoas II
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iphigeneia
+	Katalognummer:	59
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9111
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

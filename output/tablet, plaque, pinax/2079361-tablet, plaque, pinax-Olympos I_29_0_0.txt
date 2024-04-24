@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-741fb59ad100a-d
+Olympos I_29_0_0
+
+
+
+Monument
+	ID:	8758
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 17,42-44 (Insula occidentalis)
+	Objekt:	tablet, plaque, pinax
+	Material:	terracotta
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief_terracotta
+	Name:	Olympos I
+	Beschreibung:	Olympos (I) pleads for Marsyas' life: Olympos (I), kneeling at Apollon's feet.
+Szene
+	ID:	8959
+	Beschreibung:	Olympos (I) pleads for Marsyas' life: Olympos (I), kneeling at Apollon's feet.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Olympos I
+	Katalognummer:	29
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	40632
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Antiquarium
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via villa dei Misteri 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei (NA)
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

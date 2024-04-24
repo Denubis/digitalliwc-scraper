@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-73dd1db561590-6
+Zeus/Iuppiter_471_0_0
+Dioskouroi/Castores_102_0_0
+
+
+
+Monument
+	ID:	4063
+	Objekt:	sarcophagus lid
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dioskouroi/Castores Zeus/Iuppiter
+Szene
+	ID:	4107
+	Szenerieangabe:	couvercle
+	Sequenznummer:	20
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	471
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dioskouroi/Castores
+	Katalognummer:	102
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	303.312
+Museum
+	Land:	IT
+	Stadt:	Perugia
+	Name:	Soprintendenza Archeologica
+	Direktor:	Soprintendente Dott.ssa Mariarosaria Salvatore
+	Adresse:	Piazza Partigiani 9
+	Postleitzahl:	I-06121
+	Kontaktzenter:	Soprintendenza Archeologica per l'Umbria
+	Stadt des Kontaktzenters:	Perugia
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica per l'Umbria
+	Hat die Fotorechte:	1

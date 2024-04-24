@@ -1,0 +1,27 @@
+http://ark.dasch.swiss/ark:/72163/080e-75cd5972e59fe-d
+Ares/Mars_24e_0_0
+
+
+
+Monument
+	ID:	39064
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+Szene
+	ID:	41098
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Ares/Mars
+	Katalognummer:	24e
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Via Amba Aradam
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Vie
+	Rechteinhaber der Fotos:	© Roma
+	Hat die Fotorechte:	1

@@ -1,0 +1,110 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a80fc1172d5-f
+Oineus I (S)_53_0_0
+Meleagros_147_0_0
+Althaia_6_1_0
+Meleagros_121_1_0
+Thestios_1_0_0
+Thestiadai_5_1_0
+Meleagros_121_1_0
+Orcus_4_0_0
+Artemis/Diana_347a_0_0
+
+
+
+Monument
+	ID:	308
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	chariot horse dagger old man
+	Name:	Althaia Artemis/Diana Meleagros Oineus I Orcus Thestiadai Thestios
+	Beschreibung:	Arrival of the dead Meleagros, approaching of Althaia and her suicide are depicted on the sarcophagus lid. Thestios, feebly leaning on a stick. Between Oineus and Atalanta enters Orcus with his double axe.
+	Bibliographie:	Robert, C., SarkRel III 2 no. 231 pl. 79; Koch, G., SarRel XII 6 no. 8 pl. 83, 2.
+Datierung
+	Periode:	161 - 192 
+Epoche
+	Name:	antoninisch
+	Periode:	138 - 192 
+	Sequenznummer:	1210
+Szene
+	ID:	4738
+	Szenerieangabe:	couvercle
+	Beschreibung:	Arrival of the dead Meleagros, approaching of Althaia and her suicide are depicted on the sarcophagus lid. Thestios, feebly leaning on a stick. Between Oineus and Atalanta enters Orcus with his double axe.
+	Bibliographie:	Robert, C., SarkRel III 2 no. 231 pl. 79; Koch, G., SarRel XII 6 no. 8 pl. 83, 2.
+	Sequenznummer:	20
+	Name:	Althaia Meleagros Oineus I Theseus
+	Stichwort:	chariot horse dagger
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_e_galleria_doria_pamphilj/4738X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_e_galleria_doria_pamphilj/4738X005.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_e_galleria_doria_pamphilj/4738X202.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Oineus I (S)
+	Katalognummer:	53
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	147
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Althaia
+	Katalognummer:	6
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	121
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Thestios
+	Katalognummer:	1
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	4808
+	Beschreibung:	Left side panel: The attacking Thestiadai shown in back view, advancing towards Meleagros.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_e_galleria_doria_pamphilj/4808X376.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Thestiadai
+	Katalognummer:	5
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	121
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Orcus
+	Katalognummer:	4
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	347a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel XII 6, 8
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo e Galleria Doria Pamphilj
+	Rechteinhaber der Fotos:	© Palazzo e Galleria Doria Pamphilj
+	Hat die Fotorechte:	1

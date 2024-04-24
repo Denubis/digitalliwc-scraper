@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-7520f28099337-e
+Halimedes_ad 7_0_0
+
+
+
+Monument
+	ID:	26909
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Halimedes
+	Beschreibung:	Halimedes in colourful dress, with white beard and hair, sitting on a thakos.
+	Museums-URL:	http://www.mfa.org/collections/object/sarcophagus-rim-with-animals-and-warriors-151471
+Szene
+	ID:	28268
+	Beschreibung:	Halimedes in colourful dress, with white beard and hair, sitting on a thakos.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Halimedes
+	Katalognummer:	ad 7
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	04.285
+Museum
+	Land:	US
+	Stadt:	Boston
+	Name:	Museum of Fine Arts
+	Direktor:	Digital Image Resources
+	Anrede:	Dear Curator,
+	Adresse:	465 Huntington Avenue
+	Postleitzahl:	USA-
+	Kontaktzenter:	Museum of Fine Arts, Classical Art
+	Stadt des Kontaktzenters:	Boston, MA 02115-5597
+	Rechteinhaber der Fotos:	© Museum of Fine Arts, Boston
+	Hat die Fotorechte:	1

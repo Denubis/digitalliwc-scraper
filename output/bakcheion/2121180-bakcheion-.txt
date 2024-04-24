@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-767593b308c11-f
+
+
+
+Monument
+	ID:	54374
+	Entdeckungsort:	Pompei
+	Objekt:	bakcheion
+	Land:	CH
+	Kategorie:	cultual installations
+	Beschreibung:	Bakcheion, place where cult and celebrations for Bacchus took place (perhaps also very similar to the dionysiac thiasos); complex dedicated to Dionysos; Triclinia and schola
+Szene
+	ID:	59802
+	Beschreibung:	Bakcheion, place where cult and celebrations for Bacchus took place (perhaps also very similar to the dionysiac thiasos); complex dedicated to Dionysos; Triclinia and schola
+Catalog Thes CRA
+	Indexnummer:	2
+	Asterix:	0
+	Dot:	1
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Bakcheion
+	Lemata:	Bakcheion
+	Sequenznummer:	3370
+	Bandnummer:	4
+Catalog Thes CRA
+	Indexnummer:	88
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 4.a. Bankett, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	1430
+	Bandnummer:	2
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Santuario dionisiaco
+Museum
+	Land:	IT
+	Stadt:	Pompei (contrada Sant'Abbondio)
+	Rechteinhaber der Fotos:	© Pompei
+	Hat die Fotorechte:	1

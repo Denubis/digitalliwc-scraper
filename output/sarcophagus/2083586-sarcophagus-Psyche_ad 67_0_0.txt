@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-745c1cc1b484f-b
+Psyche_ad 67_0_0
+
+
+
+Monument
+	ID:	13020
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Psyche
+Szene
+	ID:	13344
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	ad 67
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	CH
+	Stadt:	Schweiz
+	Name:	Privatsammlungen
+	Direktor:	Prof. Dr. K. Schauenburg
+	Adresse:	Feldstrasse 75
+	Postleitzahl:	D-24105
+	Kontaktzenter:	 
+	Stadt des Kontaktzenters:	Kiel
+	Rechteinhaber der Fotos:	© Private Collection
+	Kommentar:	Numéros d'après Dörig, J. (éd.), Collections privées de Suisse romande (1975) (= Suisse romande) ou d'après Kunst der Antike aus Privatbesitz Bern-Biel-Solothurn (1967) (= Bern-Biel-Solothurn).
+	Hat die Fotorechte:	0

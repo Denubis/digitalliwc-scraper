@@ -1,0 +1,49 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ee0989251ea-c
+Kairoi/Tempora anni_33_0_0
+
+
+
+Monument
+	ID:	23312
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kairoi/Tempora anni
+	Beschreibung:	Two Victories holding a clipeus with the portrait of the deceased. Below Erotes, treading grapes (Seasons). 
+Datierung
+	Periode:	300 - 320 
+Szene
+	ID:	24454
+	Beschreibung:	Two Victories holding a clipeus with the portrait of the deceased. Below Erotes, treading grapes (Seasons). 
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/cagliari/museo_archeologico_nazionale/24454X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/cagliari/museo_archeologico_nazionale/24454X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/cagliari/museo_archeologico_nazionale/24454X103.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	33
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	5936
+Museum
+	Land:	IT
+	Stadt:	Cagliari
+	Name:	Museo Archeologico Nazionale
+	Adresse:	Piazza Indipendenza 7
+	Postleitzahl:	I-09100
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici per le Province di Cagliari e Oristano
+	Stadt des Kontaktzenters:	Cagliari
+	Rechteinhaber der Fotos:	© Polo Museale della Sardegna
+	Hat die Fotorechte:	1

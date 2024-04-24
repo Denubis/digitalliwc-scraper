@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-743ed53ed204f-0
+Pasiphae_13_1_0
+
+
+
+Monument
+	ID:	10959
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 4,48 (Casa della Caccia antica)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Pasiphae
+	Beschreibung:	Daidalos presenting the mechanical cow to Pasiphae.
+Szene
+	ID:	11207
+	Beschreibung:	Daidalos presenting the mechanical cow to Pasiphae.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/11207X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Pasiphae
+	Katalognummer:	13
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8979
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

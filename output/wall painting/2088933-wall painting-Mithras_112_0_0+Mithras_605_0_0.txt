@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-74a88e560c9fe-1
+Mithras_112_0_0
+Mithras_605_0_0
+
+
+
+Monument
+	ID:	18426
+	Entdeckungsort:	Rome
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Mithras
+	Beschreibung:	Mithras killing the bull. He is accompanied by a serpent, Cautes on the left and a river-god on the right. Above, raven and the quadriga of Sol.
+Szene
+	ID:	19259
+	Beschreibung:	Mithras killing the bull. He is accompanied by a serpent, Cautes on the left and a river-god on the right. Above, raven and the quadriga of Sol.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Mithras
+	Katalognummer:	112
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mithras
+	Katalognummer:	605
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Casa di Tito
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Direktor:	Soprintendente Prof. Adriano La Regina
+	Adresse:	Piazza S. Maria Nova 53
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza Archeologica di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	0

@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-76a9a8c77a678-f
+Skylla I, Add._Supplement_0_0
+
+
+
+Monument
+	ID:	201978
+	Entdeckungsort:	Carthage
+	Entdeckungsort Details:	necropolis
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	rudder, oar dolphin wings
+	Name:	Skylla I
+	Beschreibung:	between two dolphins a winged Skylla with two dogs and the legs in the form of a Ketos; holding a rod or a staff
+	Bibliographie:	Delattre, A., CRAI (1906) 10-21 fig. p. 16; Hitzl, I., Die griechischen Sarkophage der archaischen und klassischen Zeit (1991) 195 no. 32; Dridi, H., Sarcophages en bois de Carthage, in: Bol, R. / Kreikenbom, D. (ed.), Sepulkral-und Votivdenkmäler östlicher Mittelmeergebiete (7. Jh. v. Chr.-1. Jh. n. Chr.) (2004) 146 pl. 5a.
+	Monument-URL:	http://www.limc-france.fr/objet/496
+Datierung
+	Periode:	-350 - -300 
+Epoche
+	Name:	2. Hälfte 4. Jh. v. Chr.
+	Periode:	-350 - -300 
+	Sequenznummer:	2480
+Szene
+	ID:	98965
+	Beschreibung:	between two dolphins a winged Skylla with two dogs and the legs in the form of a Ketos; holding a rod or a staff
+Catalog LIMC
+	Artikel:	Skylla I, Add.
+	Band:	Supplement
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	03.02.18.656
+Museum
+	Land:	TN
+	Stadt:	Carthage
+	Name:	Musée de Carthage
+	Direktor:	M. le Dr. Fathi Bejaoui
+	Adresse:	4, Place du Château
+	Postleitzahl:	TN-1008
+	Kontaktzenter:	Directeur de la Division de l'Inventaire Général et de la Recherche - Institut National du Patrimoine
+	Stadt des Kontaktzenters:	Tunis
+	Rechteinhaber der Fotos:	© Institut National du Patrimoine, Tunis
+	Hat die Fotorechte:	1

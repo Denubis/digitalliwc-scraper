@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-7429d4d3904de-9
+Tellus_57_0_0
+
+
+
+Monument
+	ID:	9475
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Tellus
+Szene
+	ID:	9680
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Tellus
+	Katalognummer:	57
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo e Galleria Colonna
+	Rechteinhaber der Fotos:	© Palazzo e Galleria Colonna, Roma
+	Hat die Fotorechte:	1

@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-7613a54382ac7-a
+Aigisthos_34a_1_0
+
+
+
+Monument
+	ID:	44034
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	relief
+	Name:	Aigisthos
+	Beschreibung:	Fragment. Left: Orestes and Pylades at the grave of Agamemnon. Centre: Orestes or Pylades has toppled Aigisthos from his throne with the force of his attack and now pulls away his mantle to reveal him to the old nurse who recoils in horror. To the right Orestes, sword still raised, stands over the body of Klytaimnestra. Right: Orestes is pursued by the Furies.
+Szene
+	ID:	46314
+	Beschreibung:	Left: Orestes and Pylades at the grave of Agamemnon. Centre: Orestes or Pylades has toppled Aigisthos from his throne with the force of his attack and now pulls away his mantle to reveal him to the old nurse who recoils in horror. To the right Orestes, sword still raised, stands over the body of Klytaimnestra. Right: Orestes is pursued by the Furies.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/erlangen/antikensammlung_der_friedrich-alexander-universitaet/46314X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Aigisthos
+	Katalognummer:	34a
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	I 472
+Museum
+	Land:	DE
+	Stadt:	Erlangen
+	Name:	Antikensammlung der Friedrich-Alexander-Universität
+	Direktor:	Dr. Martin Boss, Kurator
+	Adresse:	Kochstr. 4/19
+	Postleitzahl:	D-91054
+	Kontaktzenter:	Antikensammlung der Friedrich-Alexander-Universität
+	Stadt des Kontaktzenters:	Erlangen
+	Rechteinhaber der Fotos:	© Antikensammlung der Friedrich-Alexander-Universität Erlangen
+	Hat die Fotorechte:	1

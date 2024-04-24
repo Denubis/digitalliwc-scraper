@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-75b203afb42a6-2
+Dionysos/Bacchus_243_0_0
+
+
+
+Monument
+	ID:	37140
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dionysos/Bacchus
+	Beschreibung:	Bacchus supported by a satyr on a chariot drawn by elephants, in front of them his court with Indian prisoners.
+Szene
+	ID:	39038
+	Beschreibung:	Bacchus supported by a satyr on a chariot drawn by elephants, in front of them his court with Indian prisoners.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	243
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	59
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Medici
+	Direktor:	Responsable Chargé de Mission Olivier Bonfait
+	Adresse:	Viale Trinità dei Monti 1
+	Postleitzahl:	I-00187
+	Kontaktzenter:	Dipartimento di Storia dell'Arte Accademia di Francia a Roma / Villa Medici
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	Académie de France à Rome
+	Kommentar:	Numéros d'après Cagiano de Azevedo, M., Le antichità di Villa Medici (1951).
+	Hat die Fotorechte:	1

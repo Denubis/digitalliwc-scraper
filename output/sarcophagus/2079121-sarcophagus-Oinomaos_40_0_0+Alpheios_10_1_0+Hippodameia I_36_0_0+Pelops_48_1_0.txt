@@ -1,0 +1,83 @@
+http://ark.dasch.swiss/ark:/72163/080e-741c47397a75a-c
+Oinomaos_40_0_0
+Alpheios_10_1_0
+Hippodameia I_36_0_0
+Pelops_48_1_0
+
+
+
+Monument
+	ID:	8518
+	Entdeckungsort:	Mons
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	column vase naiskos, aedicula quadriga horse architecture
+	Name:	Alpheios Hippodameia I Oinomaos Pelops
+	Beschreibung:	Pelops and follower standing at the gate of Oinomaos' palace, Eros on the right, Hippodameia (I) seated in a loggia talking to Oinomaos, a nurse behind her. The chariot race with Oinomaos lying under his horses. Alpheios reclining unter Pelops' team, half-draped, covering his face with his left hand, right hand raised. Pelops standing victorious in his chariot, a wreathed figure and a figure with a palm branch. Pelops helping Hippodameia (I) who is holding a wreath down from the loggia after the race.
+	Bibliographie:	SarkRel III 3 (1919) no. 329.
+Datierung
+	Periode:	140 - 160 
+Epoche
+	Name:	Mitte 2. Jh. n. Chr.
+	Periode:	140 - 160 
+	Sequenznummer:	3160
+Szene
+	ID:	8713
+	Beschreibung:	Pelops and follower standing at the gate of Oinomaos' palace, Eros on the right, Hippodameia (I) seated in a loggia talking to Oinomaos, a nurse behind her. The chariot race with Oinomaos lying under his horses. Alpheios reclining unter Pelops' team, half-draped, covering his face with his left hand, right hand raised. Pelops standing victorious in his chariot, a wreathed figure and a figure with a palm branch. Pelops helping Hippodameia (I) who is holding a wreath down from the loggia after the race.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/belgium/bruxelles/musees_royaux_d_art_et_d_histoire/8713X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/belgium/bruxelles/musees_royaux_d_art_et_d_histoire/8713X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/belgium/bruxelles/musees_royaux_d_art_et_d_histoire/8713X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/belgium/bruxelles/musees_royaux_d_art_et_d_histoire/8713X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/belgium/bruxelles/musees_royaux_d_art_et_d_histoire/8713X103.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Oinomaos
+	Katalognummer:	40
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Alpheios
+	Katalognummer:	10
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippodameia I
+	Katalognummer:	36
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Pelops
+	Katalognummer:	48
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	A 888
+Museum
+	Land:	BE
+	Stadt:	Bruxelles
+	Name:	Musées Royaux d'Art et d'Histoire
+	Direktor:	Mme. le Prof. Cécile Evers, Conservateur Ant. étrusques et romaines 
+	Anrede:	Monsieur le Professeur,
+	Adresse:	Parc du Cinquantenaire 10
+	Postleitzahl:	B-1000
+	Kontaktzenter:	Musées Royaux d'Art et d'Histoire - Département Antiquités grecques et romaines
+	Stadt des Kontaktzenters:	Bruxelles
+	Rechteinhaber der Fotos:	© Musées Royaux d'Art et d'Histoire, Bruxelles
+	Hat die Fotorechte:	0

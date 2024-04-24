@@ -1,0 +1,128 @@
+http://ark.dasch.swiss/ark:/72163/080e-753e240dd9899-d
+Hekabe_34_1_0
+Achilleus_706_1_0
+Andromache I_36_0_0
+Astyanax I_2_1_0
+Hektor_120_0_0
+Automedon_46_0_0
+Achilleus_630_1_0
+Achilleus_477_0_0
+Antilochos I_15_1_0
+Antilochos I_18_0_0
+
+
+
+Monument
+	ID:	28963
+	Entdeckungsort:	Ephesos (Ionia)
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	helmet shield spear skin chariot gesture of supplication stick, cane balance, scales seat, chair, sedes, sedile horse warrior, soldier old man corpse
+	Name:	Achilleus Andromache I Antilochos I Astyanax I Automedon Hekabe Hektor Odysseus Priamos
+	Bibliographie:	SarkRel II 60 no. 47 fig. 47c; Giuliano, A., Il commercio dei sarcofagi attici (1962) no. 250; Kemp-Lindemann, D., Darstellungen des Achilleus in griechischer und römischer Kunst (1975)142-143 with fig.; Giuliano, A./Palma, B., StudMisc 24 (1978) 49 no. 4 pl. 57. 141; Linant de Bellefonds, P., Sarcophages attiques de la nécropole de Tyr (1985) 68-70 pl. 18.
+Datierung
+	Periode:	200 - 233 
+Epoche
+	Name:	1. Drittel 3. Jh. n. Chr.
+	Periode:	200 - 233 
+	Sequenznummer:	3380
+Szene
+	ID:	30379
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/woburn_abbey_bedfordshire/woburn_abbey_art_gallery/30379X006.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/woburn_abbey_bedfordshire/woburn_abbey_art_gallery/30379X007.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/woburn_abbey_bedfordshire/woburn_abbey_art_gallery/30379X008.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/woburn_abbey_bedfordshire/woburn_abbey_art_gallery/30379X009.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/woburn_abbey_bedfordshire/woburn_abbey_art_gallery/30379X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/woburn_abbey_bedfordshire/woburn_abbey_art_gallery/30379X203.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/woburn_abbey_bedfordshire/woburn_abbey_art_gallery/30379X206.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/woburn_abbey_bedfordshire/woburn_abbey_art_gallery/30379X303.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/woburn_abbey_bedfordshire/woburn_abbey_art_gallery/30379X306.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hekabe
+	Katalognummer:	34
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	706
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Andromache I
+	Katalognummer:	36
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Astyanax I
+	Katalognummer:	2
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hektor
+	Katalognummer:	120
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Automedon
+	Katalognummer:	46
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	630
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	477
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Antilochos I
+	Katalognummer:	15
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Antilochos I
+	Katalognummer:	18
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Cat. 63 (Michaelis 219)
+Museum
+	Land:	GB
+	Stadt:	Woburn Abbey (Bedfordshire)
+	Name:	Woburn Abbey Art Gallery
+	Rechteinhaber der Fotos:	© Woburn Abbey Art Gallery
+	Kommentar:	Numéros d'après Angelicoussis, E., The Woburn Abbey Collection of Classical Antiquities (1992); les numéros entre parenthèses sont ceux de Michaelis, A., Ancient Marbles in Great Britain (1882).
+	Hat die Fotorechte:	1

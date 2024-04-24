@@ -1,0 +1,69 @@
+http://ark.dasch.swiss/ark:/72163/080e-7429bb34fdc7b-c
+Orestes_62_0_0
+Aletes_2_1_0
+Minos I_33_0_0
+Rhadamanthys_4_0_0
+Perilaos_p. 324_0_0
+
+
+
+Monument
+	ID:	9468
+	Entdeckungsort:	Tyre
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	throne table, mensa, trapeza vase
+	Name:	Aiakos Aletes Dike Minos I Orestes Perilaos Rhadamanthys
+	Beschreibung:	Court in the Underworld: In the centre three judges, one of them is probably Rhadamanthys, the others are Minos (I) and Aiakos. They sit in the judgement on Orestes(?). Behind Minos' throne is Dike. At the left and the right sides are Minos(?) and a goddess (Dike?) and Minos(?) on horseback as a hunter.
+	Bibliographie:	Hafner, G., Iudicium Orestis, 113. BerlWPr (1958) 19 fig. 10; Kallipolitis, B., Chronologiki katataxis ton meta mythologikon parataseon attikon sarkophagon tis romaikis epochis (1958) 15 no. 15; Giuliano, A., Il commercio dei sarcophagi attici (1962) 51 no. 293.
+Datierung
+	Periode:	150 - 200 
+Epoche
+	Name:	2. Hälfte 2. Jh. n. Chr.
+	Periode:	150 - 200 
+	Sequenznummer:	3190
+Szene
+	ID:	9673
+	Beschreibung:	Court in the Underworld: In the centre three judges, one of them is probably Rhadamanthys, the others are Minos (I) and Aiakos. They sit in the judgement on Orestes(?). Behind Minos' throne is Dike. At the left and the right sides are Minos(?) and a goddess (Dike?) and Minos(?) on horseback as a hunter.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Orestes
+	Katalognummer:	62
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aletes
+	Katalognummer:	2
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Minos I
+	Katalognummer:	33
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Rhadamanthys
+	Katalognummer:	4
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Perilaos
+	Katalognummer:	p. 324
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	LB
+	Stadt:	Beyrouth
+	Name:	Musée National
+	Direktor:	Mme le Dr. Pascale Linant de Bellefonds
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-92023
+	Kontaktzenter:	Université Paris X - Nanterre - Maison de l'Archéologie / Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Musée National Beyrouth
+	Hat die Fotorechte:	1

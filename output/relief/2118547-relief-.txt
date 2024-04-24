@@ -1,0 +1,63 @@
+http://ark.dasch.swiss/ark:/72163/080e-764fef22e34e4-f
+
+
+
+Monument
+	ID:	51565
+	Entdeckungsort:	Pompei
+	Objekt:	relief
+	Material:	marble
+	Herkunft:	Italy
+	Land:	CH
+	Kategorie:	architectural relief
+	Stichwort:	palm branch helmet shield bull procession boar stag dog deer hunting spear, venabulum lictor ferculum, lectica horse musician (man) toga fasces tabula ansata hunt gladiator
+	Grössenangabe:	H: 1,5 m; B: 4,23 m
+	Beschreibung:	Grabrelief mit pompa circensis, Gladiatoren-Spielen und venatio, geteilt in drei Reliefzonen. In der oberen ist eine Prozession nach rechts dargestellt, angeführt von zwei Liktoren mit fasces, einem Trompeter und zwei Tubaspielern sowie einem ferculum mit vier Trägern. Auf dem ferculum zwei kauernde Gestalten, bei denen es sich laut Felletti Maj um Schmiede handelt, die auf einen Amboss schlagen). Dahinter ein frontal stehender togatus (eventuell der Spielegeber) gefolgt von zwei Trägern (der erste mit tabula, der zweite mit Palmzweig) und sechs Gladiatoren mit Helm und Rundschild in den Händen. Abschließend ein weiterer Musikant sowie zwei Pferde mit Pferdeführer. Das mittlere Relief zeigt Gladiatoren in drei Zweikampfgruppen (die Unterlegenen jeweils auf der rechten Seite, deutlich als solche gekennzeichnet), unterbrochen von einer Ausstattungsszene und einer Szene mit Gladiatorentrainer (lanista). Die venatio in der unteren Reliefzone beinhaltet v.l.n.r. ein Reh, das von einem Hund angefallen wird; einen venator, der einen Stier angreift; einen venator, der mit einem Spieß ein Wildschwein erlegt; einen Hirsch; einen Stier; einen Eber, der von einem Hund angefallen wird; ein venator, der gegen einen Bären oder Wolf unterliegt sowie einen venator, der durch eine Tür flüchtet (vermutlich aus der Arena). 
+	Bibliographie:	Ronke, J., Magistratische Repräsentation im römischen Relief (1987) 205-247 n. 6 fig. 20-28; Schäfer, Th., Imperii Insignia, 29 Ergh. RM (1989) 389 n. C 15 tav. 95, 1. Maiuri, B., RendLinc 8. ser. 2 (1947) 491–510; Scott Ryberg, I., Rites of the State Religion in Roman Art, MAAR 22 (1955) 101–102 Abb. 50b; Felletti Maj, B., La tradizione italica nell’arte romana (1977) 341–343. 
+	Kommentar:	vermutlich gehört eine in der Nähe gefundene Inschrift zu dem Grab: [C]n(aeo) Clovatio Cn(aei) filio IIvir(o) i(ure) d(icundo) tr(ibuno) mil(itum) loc(us) [datus est]. 
+Datierung
+	Periode:	40 - 60 
+Epoche
+	Name:	Mitte 1. Jh. n. Chr.
+	Periode:	40 - 60 
+	Sequenznummer:	3020
+Szene
+	ID:	56745
+	Beschreibung:	Grabrelief mit pompa circensis, Gladiatoren-Spielen und venatio, geteilt in drei Reliefzonen. In der oberen ist eine Prozession nach rechts dargestellt, angeführt von zwei Liktoren mit fasces, einem Trompeter und zwei Tubaspielern sowie einem ferculum mit vier Trägern. Auf dem ferculum zwei kauernde Gestalten, bei denen es sich laut Felletti Maj um Schmiede handelt, die auf einen Amboss schlagen). Dahinter ein frontal stehender togatus (eventuell der Spielegeber) gefolgt von zwei Trägern (der erste mit tabula, der zweite mit Palmzweig) und sechs Gladiatoren mit Helm und Rundschild in den Händen. Abschließend ein weiterer Musikant sowie zwei Pferde mit Pferdeführer. Das mittlere Relief zeigt Gladiatoren in drei Zweikampfgruppen (die Unterlegenen jeweils auf der rechten Seite, deutlich als solche gekennzeichnet), unterbrochen von einer Ausstattungsszene und einer Szene mit Gladiatorentrainer (lanista). Die venatio in der unteren Reliefzone beinhaltet v.l.n.r. ein Reh, das von einem Hund angefallen wird; einen venator, der einen Stier angreift; einen venator, der mit einem Spieß ein Wildschwein erlegt; einen Hirsch; einen Stier; einen Eber, der von einem Hund angefallen wird; ein venator, der gegen einen Bären oder Wolf unterliegt sowie einen venator, der durch eine Tür flüchtet (vermutlich aus der Arena). 
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	84
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 1. Prozessionen, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	100
+	Bandnummer:	1
+Catalog Thes CRA
+	Indexnummer:	978
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	350
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	6704

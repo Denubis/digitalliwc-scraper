@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-7580b0f8781c4-c
+Daidalos et Ikaros_29a_0_0
+
+
+
+Monument
+	ID:	33655
+	Entdeckungsort:	Pompei
+	Objekt:	intaglio, gem
+	Material:	agate
+	Land:	CH
+	Kategorie:	gem
+	Name:	Daidalos and Ikaros Ikaros
+	Beschreibung:	At right Daidalos attaches the left wing to Ikaros. Ikaros nude, standing frontal, with right wing already attached. In the centre a leafy tree. At left two women, one standing, robed, holds a third wing, the other seated, half draped, with left hand on dagger propped on left thigh. Of Daidalos only the right hand and a part of his left hand is preserved.
+Szene
+	ID:	35386
+	Beschreibung:	At right Daidalos attaches the left wing to Ikaros. Ikaros nude, standing frontal, with right wing already attached. In the centre a leafy tree. At left two women, one standing, robed, holds a third wing, the other seated, half draped, with left hand on dagger propped on left thigh. Of Daidalos only the right hand and a part of his left hand is preserved.
+Catalog LIMC
+	Artikel:	Daidalos et Ikaros
+	Katalognummer:	29a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	158799
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-75932243a9476-7
+Eros/Amor, Cupido_384_0_0
+
+
+
+Monument
+	ID:	34963
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido
+	Museums-URL:	https://samlinger.natmus.dk/AS/asset/8559
+	Monument-URL:	arachne.dainst.org/entity/1138591
+Szene
+	ID:	36779
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/denmark/copenhague/musee_national/36779X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	384
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	ABb 280b
+Museum
+	Land:	DK
+	Stadt:	Copenhague
+	Name:	Musée National
+	Anrede:	Dear Curator,
+	Adresse:	Frederiksholms Kanal 12
+	Postleitzahl:	DK-1220
+	Kontaktzenter:	The National Museum of Danemark
+	Stadt des Kontaktzenters:	Copenhague
+	Rechteinhaber der Fotos:	© The National Museum of Danemark
+	Hat die Fotorechte:	1

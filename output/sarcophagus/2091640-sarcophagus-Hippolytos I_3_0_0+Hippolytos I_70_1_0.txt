@@ -1,0 +1,62 @@
+http://ark.dasch.swiss/ark:/72163/080e-74cf41bbacc1d-f
+Hippolytos I_3_0_0
+Hippolytos I_70_1_0
+
+
+
+Monument
+	ID:	21145
+	Entdeckungsort:	Salona
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hippolytos I
+	Monument-URL:	http://www.limc-france.fr/objet/7689
+Szene
+	ID:	22081
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/croatia/split/musee_archeologique_de_split/22081X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/croatia/split/musee_archeologique_de_split/22081X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/croatia/split/musee_archeologique_de_split/22081X396.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/croatia/split/musee_archeologique_de_split/22081X397.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/croatia/split/musee_archeologique_de_split/22081X398.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/croatia/split/musee_archeologique_de_split/22081X399.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	70
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	D 29
+Museum
+	Land:	HR
+	Stadt:	Split
+	Name:	Musée Archéologique de Split
+	Rechteinhaber der Fotos:	© Musée Archéologique de Split
+	Hat die Fotorechte:	1

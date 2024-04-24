@@ -1,0 +1,27 @@
+http://ark.dasch.swiss/ark:/72163/080e-7650f2fd8ce87-f
+
+
+
+Monument
+	ID:	51648
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	relief
+	Bibliographie:	Museo Nazionale Romano I 8, 306-310 n. VI 16.
+Szene
+	ID:	56828
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	124712
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Romano
+	Direktor:	Soprintendente Dott. Giuseppe Proietti
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali - Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

@@ -1,0 +1,58 @@
+http://ark.dasch.swiss/ark:/72163/080e-741749e9cc9c9-1
+Silenoi (S)_148_1_0
+Ares/Mars_295_1_0
+Hermaphroditos_83_0_0
+
+
+
+Monument
+	ID:	8165
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hermaphroditos Silenoi
+	Beschreibung:	Garland sarcophagus with semi-draped figure reclining on a rocky ledge (Hermaphroditos?). The drapery reveals male genitals, but female breasts are not ecident. Pan stands gesturing to the right.
+Datierung
+	Periode:	100 - 125 
+Szene
+	ID:	8351
+	Beschreibung:	Garland sarcophagus with semi-draped figure reclining on a rocky ledge (Hermaphroditos?). The drapery reveals male genitals, but female breasts are not ecident. Pan stands gesturing to the right.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pisa/camposanto_monumentale/8351X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pisa/camposanto_monumentale/8351X204.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pisa/camposanto_monumentale/8351X301.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Silenoi (S)
+	Katalognummer:	148
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ares/Mars
+	Katalognummer:	295
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hermaphroditos
+	Katalognummer:	83
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	B 4 est.
+Museum
+	Land:	IT
+	Stadt:	Pisa
+	Name:	Camposanto Monumentale
+	Rechteinhaber der Fotos:	© Camposanto Monumentale, Pisa
+	Kommentar:	Numéros d'après Camposanto monumentale di Pisa. Le antichità I-II (1977-1984).
+	Hat die Fotorechte:	0

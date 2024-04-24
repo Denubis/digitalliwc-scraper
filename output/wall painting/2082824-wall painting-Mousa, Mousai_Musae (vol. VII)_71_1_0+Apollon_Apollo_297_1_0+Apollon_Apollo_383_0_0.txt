@@ -1,0 +1,86 @@
+http://ark.dasch.swiss/ark:/72163/080e-745137e641bed-4
+Mousa, Mousai/Musae (vol. VII)_71_1_0
+Apollon/Apollo_297_1_0
+Apollon/Apollo_383_0_0
+
+
+
+Monument
+	ID:	12256
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Material:	
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Apollon/Apollo Mousa, Mousai
+	Monument-URL:	http://www.limc-france.fr/objet/5187 http://www.limc-france.fr/objet/5183 http://www.limc-france.fr/objet/5184 http://www.limc-france.fr/objet/5185 http://www.limc-france.fr/objet/5186 http://www.limc-france.fr/objet/5188 http://www.limc-france.fr/objet/5189 http://www.limc-france.fr/objet/5190 http://www.limc-france.fr/objet/5191
+Szene
+	ID:	12552
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/12552X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/12552X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/12552X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/12552X005.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/12552X006.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/12552X007.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/12552X008.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/12552X009.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/12552X010.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	71
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	297
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	383
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	P 4-12
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

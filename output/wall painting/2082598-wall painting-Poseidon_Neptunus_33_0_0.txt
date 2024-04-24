@@ -1,0 +1,55 @@
+http://ark.dasch.swiss/ark:/72163/080e-744dfcc210403-d
+Poseidon/Neptunus_33_0_0
+
+
+
+Monument
+	ID:	12026
+	Entdeckungsort:	Ercolano, Herculaneum, Herculanum
+	Objekt:	wall painting
+	Material:	marble
+	Land:	CH
+	Kategorie:	painting
+	Stichwort:	altar base pillar cult image, cult statue altar with protection against wind altar with pulvini altar: monolithic block
+	Name:	Eros Poseidon Poseidon/Neptunus
+	Beschreibung:	Fragmentarisch. Vorne: Übereck und perspektivisch verkürzt ein A. mit Malerei (archaistischer Mädchenreigen); mehrstufige Basis. Deckplatte, pulvini, Windschutz. Dahinter Pfeiler mit Götterstatue des Poseidon; Eros.
+	Inschrift:	Signatur Alexandros Athenaios egraphenBeischrift EROS
+	Bibliographie:	Dohrn, T., in: Aparchai (Festschrift P. E. Arias) II 1982, 623-629  tav. 177.
+Datierung
+	Periode:	-27 - 14 
+Epoche
+	Name:	augusteisch
+	Periode:	-27 - 14 
+	Sequenznummer:	1130
+Szene
+	ID:	12314
+	Beschreibung:	Fragmentarisch. Vorne: Übereck und perspektivisch verkürzt ein A. mit Malerei (archaistischer Mädchenreigen); mehrstufige Basis. Deckplatte, pulvini, Windschutz. Dahinter Pfeiler mit Götterstatue des Poseidon; Eros.
+	Inschrift:	Signatur Alexandros Athenaios egraphen; Beischrift EROS
+Catalog Thes CRA
+	Indexnummer:	63
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	IV. 1.b. Kultorte (Darstellungen)
+	Sequenznummer:	4500
+	Bandnummer:	4
+Catalog LIMC
+	Artikel:	Poseidon/Neptunus
+	Katalognummer:	33
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	152899
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

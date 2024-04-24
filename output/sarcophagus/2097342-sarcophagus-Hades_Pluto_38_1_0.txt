@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-7520c69554dfb-d
+Hades/Pluto_38_1_0
+
+
+
+Monument
+	ID:	26897
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hades/Pluto
+Szene
+	ID:	28255
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/israel/ascalon/parc_national/28255X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	38
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IL
+	Stadt:	Ascalon
+	Name:	Parc National
+	Rechteinhaber der Fotos:	© Ascalon
+	Hat die Fotorechte:	1

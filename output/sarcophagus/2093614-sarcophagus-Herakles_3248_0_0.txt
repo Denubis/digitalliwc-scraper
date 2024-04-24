@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-74eb7a691492b-1
+Herakles_3248_0_0
+
+
+
+Monument
+	ID:	23132
+	Objekt:	sarcophagus
+	Herkunft:	Egypt
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Herakles
+	Beschreibung:	Herakles with club and lionskin between garlands. Dionysos. At the corners maenads.
+Datierung
+	Periode:	100 - 300 
+Szene
+	ID:	24266
+	Beschreibung:	Herakles with club and lionskin between garlands. Dionysos. At the corners maenads.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	3248
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	25781
+Museum
+	Land:	EG
+	Stadt:	Alexandrie
+	Name:	Musée Gréco-Romain
+	Kontaktzenter:	Musée Gréco-Romain
+	Stadt des Kontaktzenters:	Alexandrie
+	Rechteinhaber der Fotos:	© Musée Gréco-Romain Alexandria
+	Hat die Fotorechte:	1

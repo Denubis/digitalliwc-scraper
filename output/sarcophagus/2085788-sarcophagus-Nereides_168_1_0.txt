@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-747b97e52e8d1-1
+Nereides_168_1_0
+
+
+
+Monument
+	ID:	15240
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Nereides
+Szene
+	ID:	15724
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_massimo_alle_colonne/15724X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Nereides
+	Katalognummer:	168
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Massimo alle Colonne
+	Rechteinhaber der Fotos:	© Palazzo Massimo alle Colonne, Roma
+	Hat die Fotorechte:	1

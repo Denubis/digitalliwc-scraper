@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-76b1318e48703-4
+Dionysos/Bacchus, Add._Supplement_1_0
+
+
+
+Monument
+	ID:	202293
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	bust of Bacchus, bearded and with long hair dressed to a bun; holding thyrsos staff
+	Bibliographie:	Baldassarre, I. et al., La peinture romaine de l'epoque hellénistique à l'époque tardive (2002) 118-127; Kenner, Die römischen Wandmalereien des Magdalensberg (1985).  
+Szene
+	ID:	99290
+	Beschreibung:	bust of Bacchus, bearded and with long hair dressed to a bun; holding thyrsos staff
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus, Add.
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	AT
+	Stadt:	Klagenfurt
+	Name:	Landesmuseum für Kärnten
+	Direktor:	Mag. Caroline Leirer (Bildmaterial, Reprorechte)
+	Adresse:	Museumgasse 2
+	Postleitzahl:	A-9021
+	Kontaktzenter:	Landesmuseum für Kärnten
+	Stadt des Kontaktzenters:	Klagenfurt
+	Rechteinhaber der Fotos:	© Regional museum of Carinthia, Austria
+	Hat die Fotorechte:	1

@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-7425922bc4d8c-2
+Dionysos/Bacchus_228_0_0
+Dirke_44_0_0
+Pentheus_31_0_1
+
+
+
+Monument
+	ID:	9173
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dionysos/Bacchus Pentheus Dirke
+	Beschreibung:	In the centre Pentheus being attacked by four maenads, on the left a seated maenad with a serpent, Bacchus (bust and head modern) moving in the direction of Theseus.
+Szene
+	ID:	49751
+	Beschreibung:	In the centre Pentheus being attacked by four maenads, on the left a seated maenad with a serpent, Bacchus (bust and head modern) moving in the direction of Theseus.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	228
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dirke
+	Katalognummer:	44
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Pentheus
+	Katalognummer:	31
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel IV 3, 231
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Giustiniani
+	Rechteinhaber der Fotos:	© Palazzo Giustiniani, Roma
+	Hat die Fotorechte:	1

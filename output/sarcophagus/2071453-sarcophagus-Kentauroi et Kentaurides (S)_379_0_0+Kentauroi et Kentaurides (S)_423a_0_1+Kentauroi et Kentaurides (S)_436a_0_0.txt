@@ -1,0 +1,64 @@
+http://ark.dasch.swiss/ark:/72163/080e-73aea6f9ed696-8
+Kentauroi et Kentaurides (S)_379_0_0
+Kentauroi et Kentaurides (S)_423a_0_1
+Kentauroi et Kentaurides (S)_436a_0_0
+
+
+
+Monument
+	ID:	784
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Name:	Kentauroi and Kentaurides
+	Beschreibung:	Left minor side: Two gesticulating centaurs. Several scenes of centaurs fighting with Lapiths.
+	Bibliographie:	Roman Sculpture in the Art Museum (2001) 140-147 Nr. 41.
+Szene
+	ID:	3411
+	Beschreibung:	Left minor side: Two gesticulating centaurs. Several scenes of centaurs fighting with Lapiths.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	379
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	423a
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	436a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	Ehem. A.O.
+Museum
+	Land:	CH
+	Stadt:	Marché de l'art (sans localisation)
+	Rechteinhaber der Fotos:	© Art market
+	Hat die Fotorechte:	0
+Inventar
+	Spezifikation:	Ehem. A.O.
+Museum
+	Land:	IT
+	Stadt:	Firenze
+	Name:	Palazzo Peruzzi
+	Rechteinhaber der Fotos:	© Palazzo Peruzzi, Firenze
+	Hat die Fotorechte:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1996-10
+Museum
+	Land:	US
+	Stadt:	Princeton (New Jersey)
+	Name:	Princeton University Art Museum
+	Direktor:	J. Michael Padgett, Curator of Ancient Art
+	Anrede:	Dear Director,
+	Postleitzahl:	USA-
+	Kontaktzenter:	Princeton University Art Museum
+	Stadt des Kontaktzenters:	Princeton NJ 08544-1018
+	Rechteinhaber der Fotos:	© Trustees of Princeton University
+	Hat die Fotorechte:	1

@@ -1,0 +1,60 @@
+http://ark.dasch.swiss/ark:/72163/080e-74cf5f032fa45-e
+Hippolytos I_14a_0_0
+Hippolytos I_53_0_0
+Hippolytos I_99_0_0
+Hippolytos I_14b_0_0
+Eros/Amor, Cupido_3_0_0
+
+
+
+Monument
+	ID:	21153
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido Hippolytos I
+Szene
+	ID:	22089
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	14a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	53
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	99
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	14b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	92.00.541
+Museum
+	Land:	FR
+	Stadt:	Arles
+	Name:	Musée de l'Arles et de la Provence antiques
+	Direktor:	M. le Directeur Claude Sintes
+	Adresse:	Presqu'Ile du Cirque Romain
+	Postfach:	BP 205
+	Postleitzahl:	F-13635
+	Kontaktzenter:	Musée de l'Arles et de la Provence antiques
+	Stadt des Kontaktzenters:	Arles cedex
+	Rechteinhaber der Fotos:	© Musée de l'Arles et de la Provence antiques
+	Hat die Fotorechte:	1

@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-762cb1707a6ff-e
+Anubis_33_0_0
+Harpokrates_398_0_0
+
+
+
+Monument
+	ID:	45802
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Baths of Caracalla
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	ear of corn torch
+	Name:	Anubis Demeter/Ceres Harpokrates Sarapis
+	Bibliographie:	Lafaye, G., Histoire du culte des divinités d' Alexandrie hors de l'Egypte (1883) 331 no. 229; Malaise, M., Inventaire préliminaire des documents égyptiens découverts en Italie, EPRO 21 (1972) 224 no. 409.
+Szene
+	ID:	48208
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Anubis
+	Katalognummer:	33
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Harpokrates
+	Katalognummer:	398
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Vigna Guidi
+	Rechteinhaber der Fotos:	© Vigna Guidi, Roma
+	Hat die Fotorechte:	1

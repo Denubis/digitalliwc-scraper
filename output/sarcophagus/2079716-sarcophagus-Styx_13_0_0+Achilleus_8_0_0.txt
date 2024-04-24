@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-7424c8e021039-7
+Styx_13_0_0
+Achilleus_8_0_0
+
+
+
+Monument
+	ID:	9116
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	child
+	Name:	Achilleus Styx Thetys I
+	Beschreibung:	Die Deutung auf Thetis und Achilleus ist nach der Beschreibung bei Matz-Duhn (eine stehende Frau fasst ein Kind am Bein und hält es mit dem Kopf nach unten) möglich.
+	Bibliographie:	Matz, Fr./Duhn, F., Antike Bildwerke in rom (1881) II no. 3344; Staehlin, F., Die Thensa Capitolina, RM 21 (1906) 336 no. 5; SarkRel XII, 1 (1999) no. 1.
+Szene
+	ID:	9330
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Styx
+	Katalognummer:	13
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	8
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	Ehem. A.O.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Castellani (già)
+	Rechteinhaber der Fotos:	© Palazzo Castellani (once)
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Manziana
+	Name:	Villa G. Tittoni
+	Rechteinhaber der Fotos:	© Villa G. Tittoni, Manziana
+	Hat die Fotorechte:	0

@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-7617fde0f04b7-4
+Amazones_524_1_0
+
+
+
+Monument
+	ID:	44333
+	Entdeckungsort:	Tyre
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	helmet horse warrior, soldier Amazon fight, battle rider
+	Name:	Amazones
+	Bibliographie:	Chehab, M. BullMusBeyrouth 21 (1968) 35. 82 pl. 18-19. 21; Giuliano, A./ Palma, B., La maniera ateniese di età romana, StudMisc 24 (1978) 34 B I  9 pl. 37, 87.
+Datierung
+	Periode:	190 
+	Kommentar:	about
+Epoche
+	Name:	4. Viertel 2. Jh. n. Chr.
+	Periode:	175 - 200 
+	Sequenznummer:	3230
+Szene
+	ID:	46621
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	524
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2772
+Museum
+	Land:	LB
+	Stadt:	Beyrouth
+	Name:	Musée National
+	Direktor:	Mme le Dr. Pascale Linant de Bellefonds
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-92023
+	Kontaktzenter:	Université Paris X - Nanterre - Maison de l'Archéologie / Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Musée National Beyrouth
+	Hat die Fotorechte:	1

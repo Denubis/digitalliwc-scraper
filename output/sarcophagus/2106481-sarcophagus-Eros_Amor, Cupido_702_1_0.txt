@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-75a36e92045ba-2
+Eros/Amor, Cupido_702_1_0
+
+
+
+Monument
+	ID:	36108
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	altar herm oinochoe tree cult image, cult statue libation sacrificial animal goat fruit tray, lanx, catinus chest, small box
+	Name:	Eros/Amor, Cupido
+	Beschreibung:	Partie gauche de la face principale: scène de sacrifice devant un hermès de Priapos.Partie droite de la face principale: scènes de vendange.
+	Bibliographie:	Koch / Sichtermann, RömSark 70.209 fig. 251;Bonanno, M., Prospettiva 13, 1978, 43-49 fig.
+	Monument-URL:	arachne.dainst.org/entity/1125753
+Datierung
+	Periode:	100 - 200 
+Epoche
+	Name:	2. Jh. n. Chr.
+	Periode:	100 - 200 
+	Sequenznummer:	3140
+Szene
+	ID:	37963
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_venezia/37963X001.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	702
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Venezia
+	Rechteinhaber der Fotos:	© Palazzo Venezia, Roma
+	Hat die Fotorechte:	1

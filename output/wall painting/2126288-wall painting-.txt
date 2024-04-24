@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-76be9a8efaad5-0
+
+
+
+Monument
+	ID:	203264
+	Entdeckungsort:	Tarquinia
+	Objekt:	wall painting
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Tomba dei Giocolieri. Paintings of the chamber: Male person watching jugglers; female dancer with a candelabrum on her head, doing acrobatics
+	Bibliographie:	Steingräber, EtrMal 318-319 no. 70 pl. 86-87.
+Szene
+	ID:	100308
+	Beschreibung:	Paintings of the chamber: Male person watching jugglers; female dancer with a candelabrum on her head, doing acrobatics
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	17
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VII. 3. Feste und Spiele, etr.
+	Bandnummer:	7
+Catalog Thes CRA
+	Indexnummer:	9
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VIII. 5.a. Männlich / weiblich, etr.
+	Bandnummer:	8
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba dei Giocolieri
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Necropoli
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

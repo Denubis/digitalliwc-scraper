@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-745d0aa6bbf54-e
+Psyche_119_1_0
+
+
+
+Monument
+	ID:	13086
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Psyche
+Szene
+	ID:	13414
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/sant_agnese_fuori_le_mura/13414X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	119
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Sant'Agnese fuori le Mura
+	Rechteinhaber der Fotos:	© Soprindentenza SPSAE e Polo Museale della Città di Roma
+	Hat die Fotorechte:	0

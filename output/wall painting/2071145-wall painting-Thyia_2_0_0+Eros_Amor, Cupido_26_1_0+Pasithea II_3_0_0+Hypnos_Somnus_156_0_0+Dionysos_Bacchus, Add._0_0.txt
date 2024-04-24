@@ -1,0 +1,65 @@
+http://ark.dasch.swiss/ark:/72163/080e-73aa3fb8be592-a
+Thyia_2_0_0
+Eros/Amor, Cupido_26_1_0
+Pasithea II_3_0_0
+Hypnos/Somnus_156_0_0
+Dionysos/Bacchus, Add._0_0
+
+
+
+Monument
+	ID:	466
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 10,11 (Casa del Naviglio)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Eros/Amor, Cupido Pasithea II Thyia Hypnos/Somnus
+	Beschreibung:	Bacchus carried by two Erotes descending to the sleeping Ariane. Other interpretation: Pasithea (II) and Hypnos. Thyia (or Aura? or Aphrodite?) seated on a rock, left of Zephyros and Chloris.
+Szene
+	ID:	256
+	Beschreibung:	Bacchus carried by two Erotes descending to the sleeping Ariane. Other interpretation: Pasithea (II) and Hypnos. Thyia (or Aura? or Aphrodite?) seated on a rock, left of Zephyros and Chloris.
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/256X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Thyia
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	26
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Pasithea II
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	156
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus, Add.
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9202
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

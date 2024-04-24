@@ -1,0 +1,93 @@
+http://ark.dasch.swiss/ark:/72163/080e-74d5f29315841-3
+Isis_265_0_0
+Aigyptos_12_0_0
+Io I_65_1_0
+Hermanubis_p. 268_0_0
+Hekatoncheires_2b_0_0
+
+
+
+Monument
+	ID:	21619
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	Temple of Isis
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Aigyptos Hekatoncheires Hermanubis Io I Isis
+	Beschreibung:	Arrival of Io (I) in Egypt: a woman is carried over the water by a bearded giant (Aigaion).
+	Bibliographie:	Reinach, RépPeint pl. 16, 1; Elia, O., Pompei. Le pitture del tempiodi Iside. La pittura ellenistico-romana, III-IV (1941) 27-30 pl. B; Tran Tam Tinh, Essai sur le culte d'Isis à Pompéi (1964) no. 40 pl. 6.
+	Kommentar:	Zu anderen Darstellungen im Isistempel siehe ID: 10175; 28263; 45813; 50195; 52591; 52812; 52818; 52837. 
+	Monument-URL:	http://www.limc-france.fr/objet/14697
+Datierung
+	Periode:	1 - 100 
+Epoche
+	Name:	1. Jh. n. Chr.
+	Periode:	1 - 100 
+	Sequenznummer:	3000
+Szene
+	ID:	22595
+	Beschreibung:	Arrival of Io (I) in Egypt: a woman is carried over the water by a bearded giant (Aigaion).
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/22595X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/22595X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/22595X103.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	24
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Iseum et Serapeum
+	Lemata:	Iseum et Serapeum
+	Sequenznummer:	3680
+	Bandnummer:	4
+Catalog LIMC
+	Artikel:	Isis
+	Katalognummer:	265
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aigyptos
+	Katalognummer:	12
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Io I
+	Katalognummer:	65
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hermanubis
+	Katalognummer:	p. 268
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hekatoncheires
+	Katalognummer:	2b
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9558
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

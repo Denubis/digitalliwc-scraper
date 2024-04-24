@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-747bc779633d2-2
+Nereides_181_0_0
+
+
+
+Monument
+	ID:	15253
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Nereides
+Szene
+	ID:	15737
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Nereides
+	Katalognummer:	181
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel V 126
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Giustiniani
+	Rechteinhaber der Fotos:	© Palazzo Giustiniani, Roma
+	Hat die Fotorechte:	1

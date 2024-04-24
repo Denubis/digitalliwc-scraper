@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-73db41eb52786-4
+Victoria_242_0_0
+
+
+
+Monument
+	ID:	3934
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Victoria
+	Beschreibung:	Two flying Victories holding wreath with the tomb inscription. In the corners each an Amor.
+Szene
+	ID:	3976
+	Beschreibung:	Two flying Victories holding wreath with the tomb inscription. In the corners each an Amor.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Victoria
+	Katalognummer:	242
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	125891
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Romano
+	Direktor:	Soprintendente Dott. Giuseppe Proietti
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali - Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

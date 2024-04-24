@@ -1,0 +1,89 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a600b9e3405-c
+Zeus/Iuppiter_220_0_1
+Dionysos/Bacchus_28_1_0
+Iuno_217_0_0
+Omphale_11_0_0
+Hesione (S)_60_0_0
+Herakles_1693_0_0
+Priamos_3_0_1
+
+
+
+Monument
+	ID:	155
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 10,11 (Casa del Naviglio)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Herakles Omphale Iuno Priamos Hesione Zeus/Iuppiter
+	Beschreibung:	Herakles seated before a woman and a child wearing a Phrygian cap (Hesione and Priamos?). Herakles and Omphale? Four deities enthroned, preserved Iuppiter, Ceres and Bacchus, the fourth maybe Iuno?
+Szene
+	ID:	3109
+	Beschreibung:	Herakles seated before a woman and a child wearing a Phrygian cap (Hesione and Priamos?). Herakles and Omphale? Four deities enthroned, preserved Iuppiter, Ceres and Bacchus, the fourth maybe Iuno?
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/3109X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/3109X203.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/3109X204.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	220
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	28
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iuno
+	Katalognummer:	217
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Omphale
+	Katalognummer:	11
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hesione (S)
+	Katalognummer:	60
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	1693
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Priamos
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VI 10,11
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa del Naviglio

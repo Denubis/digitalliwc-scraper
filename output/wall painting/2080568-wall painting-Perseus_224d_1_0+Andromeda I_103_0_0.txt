@@ -1,0 +1,60 @@
+http://ark.dasch.swiss/ark:/72163/080e-7430f720143dd-4
+Perseus_224d_1_0
+Andromeda I_103_0_0
+
+
+
+Monument
+	ID:	9982
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 10,2
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Andromeda I Perseus
+	Beschreibung:	Perseus and Andromeda by the sea.
+	Bibliographie:	Helbig, Wandgemälde no. 1197; Museo Borbonico XII Taf. 52; Reinach, RépPeint 206,1.
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	10197
+	Beschreibung:	Perseus and Andromeda by the sea.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/10197X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/10197X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/10197X303.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Perseus
+	Katalognummer:	224d
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Andromeda I
+	Katalognummer:	103
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8995
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

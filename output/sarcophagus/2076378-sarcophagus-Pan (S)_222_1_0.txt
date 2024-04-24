@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-73f510120d587-2
+Pan (S)_222_1_0
+
+
+
+Monument
+	ID:	5749
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Pan
+	Beschreibung:	Pan carried by two Erotes and a satyr.
+Szene
+	ID:	5850
+	Beschreibung:	Pan carried by two Erotes and a satyr.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/subiaco/monastero_santa_scolastica/5850X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Pan (S)
+	Katalognummer:	222
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Subiaco
+	Name:	Monastero Santa Scolastica
+	Rechteinhaber der Fotos:	© Monastero Santa Scolastica, Subiaco
+	Hat die Fotorechte:	0

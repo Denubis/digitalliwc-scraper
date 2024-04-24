@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-7640aa5822308-0
+
+
+
+Monument
+	ID:	50423
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Beschreibung:	Fackel-Reinigung und Anfang der Opferszene.
+	Bibliographie:	Rizzo, E., “Il sarcofago di Terra Nova”, RM 25, 1910, 104 fig. 5; Cook, A. B., Zeus I (1914) 426; Bianchi, U., The Greek Mysteries, IconRel XVII 3 (1977) fig. 49.
+Szene
+	ID:	55578
+	Beschreibung:	Fackel-Reinigung und Anfang der Opferszene.
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	39
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 3.c. Initiation
+	Sequenznummer:	1200
+	Bandnummer:	2
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	6679
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

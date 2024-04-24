@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-740183dbd76ca-e
+Phoinix III (S)_31_1_0
+
+
+
+Monument
+	ID:	6629
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Phoinix III
+	Beschreibung:	Phoinix (III) on a palm tree.
+Datierung
+	Periode:	400 
+Szene
+	ID:	6765
+	Beschreibung:	Phoinix (III) on a palm tree.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/arles/musee_de_l_arles_et_de_la_provence_antiques/6765X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/arles/musee_de_l_arles_et_de_la_provence_antiques/6765X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/arles/musee_de_l_arles_et_de_la_provence_antiques/6765X103.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Phoinix III (S)
+	Katalognummer:	31
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	FR
+	Stadt:	Arles
+	Name:	Musée de l'Arles et de la Provence antiques
+	Direktor:	M. le Directeur Claude Sintes
+	Adresse:	Presqu'Ile du Cirque Romain
+	Postfach:	BP 205
+	Postleitzahl:	F-13635
+	Kontaktzenter:	Musée de l'Arles et de la Provence antiques
+	Stadt des Kontaktzenters:	Arles cedex
+	Rechteinhaber der Fotos:	© Musée de l'Arles et de la Provence antiques
+	Hat die Fotorechte:	1

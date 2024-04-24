@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-761a97fbd1ec5-7
+Amazones_534_0_0
+
+
+
+Monument
+	ID:	44517
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	horse warrior, soldier Amazon fight, battle rider
+	Name:	Amazones
+	Beschreibung:	Fragment.
+	Bibliographie:	AA 55, 1940, 263 fig. 74; Redlich, R., Die Amazonensarkophage des 2. und 3. Jh. (1942) 64, pl. 4.
+Datierung
+	Periode:	210 
+	Kommentar:	about
+Epoche
+	Name:	1. Viertel 3. Jh. n. Chr.
+	Periode:	200 - 225 
+	Sequenznummer:	3340
+Szene
+	ID:	46815
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	534
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	GR
+	Stadt:	Thessalonique
+	Name:	Musée Archéologique
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Archaeological Museum of Thessaloniki
+	Hat die Fotorechte:	0

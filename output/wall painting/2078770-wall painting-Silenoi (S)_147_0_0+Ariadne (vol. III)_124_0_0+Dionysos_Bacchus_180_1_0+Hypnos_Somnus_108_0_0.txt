@@ -1,0 +1,60 @@
+http://ark.dasch.swiss/ark:/72163/080e-74174297ebe3f-4
+Silenoi (S)_147_0_0
+Ariadne (vol. III)_124_0_0
+Dionysos/Bacchus_180_1_0
+Hypnos/Somnus_108_0_0
+
+
+
+Monument
+	ID:	8163
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	I 4,5 (Casa del Citarista)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Dionysos/Bacchus Ariadne Hypnos/Somnus Silenoi
+	Beschreibung:	On the right reclining Ariadne, just being discovered by Eros; on the left Bacchus followed by Pan, around them satyrs, maenads, silen.
+Szene
+	ID:	8349
+	Beschreibung:	On the right reclining Ariadne, just being discovered by Eros; on the left Bacchus followed by Pan, around them satyrs, maenads, silen.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/8349X002.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Silenoi (S)
+	Katalognummer:	147
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ariadne (vol. III)
+	Katalognummer:	124
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	180
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	108
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9286
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

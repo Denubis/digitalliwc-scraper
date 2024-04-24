@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-75091d6b70168-1
+Hermes_632_0_0
+
+
+
+Monument
+	ID:	25224
+	Entdeckungsort:	Hadra
+	Entdeckungsort Details:	necropolis
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Hermes
+Szene
+	ID:	26469
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Hermes
+	Katalognummer:	632
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	EG
+	Stadt:	Alexandrie
+	Name:	Nécropole de Hadra
+	Rechteinhaber der Fotos:	© Alexandria
+	Hat die Fotorechte:	0

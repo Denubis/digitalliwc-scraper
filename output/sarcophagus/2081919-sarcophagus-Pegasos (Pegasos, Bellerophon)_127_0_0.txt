@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-744447ac8b680-c
+Pegasos (Pegasos, Bellerophon)_127_0_0
+
+
+
+Monument
+	ID:	11343
+	Entdeckungsort:	Chania (Crete)
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Pegasos
+Szene
+	ID:	11618
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Pegasos (Pegasos, Bellerophon)
+	Katalognummer:	127
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9
+Museum
+	Land:	GR
+	Stadt:	Héraklion
+	Name:	Musée Archéologique
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Archaeological Museum of Heraklion
+	Hat die Fotorechte:	0

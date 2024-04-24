@@ -1,0 +1,31 @@
+http://ark.dasch.swiss/ark:/72163/080e-75803f835cee9-9
+Dikaiosyne_2_1_0
+
+
+
+Monument
+	ID:	33623
+	Objekt:	wall painting
+	Herkunft:	Egypt
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Painting in a funerary chapel in the oasis Kharga. Dikaiosyne holding cornucopia and scales.
+	Inschrift:	DIKAIOSYNE
+Szene
+	ID:	35351
+	Beschreibung:	Painting in a funerary chapel in the oasis Kharga. Dikaiosyne holding cornucopia and scales.
+	Inschrift:	DIKAIOSYNE
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Dikaiosyne
+	Katalognummer:	2
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	EG
+	Stadt:	Bagawat (Khargeh)
+	Name:	Chapelle funéraire
+	Rechteinhaber der Fotos:	© Bagawat
+	Hat die Fotorechte:	1

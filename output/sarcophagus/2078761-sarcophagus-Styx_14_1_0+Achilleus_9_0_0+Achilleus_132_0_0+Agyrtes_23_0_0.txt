@@ -1,0 +1,63 @@
+http://ark.dasch.swiss/ark:/72163/080e-741721a778a52-a
+Styx_14_1_0
+Achilleus_9_0_0
+Achilleus_132_0_0
+Agyrtes_23_0_0
+
+
+
+Monument
+	ID:	8154
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	helmet corselet trumpet, tuba, salpinx child
+	Name:	Achilleus Agyrtes Diomedes I Eros/Amor, Cupido Odysseus Styx Thetys I Deidameia II
+	Beschreibung:	Thetis hält Achilleus am Bein und taucht ihn kopfüber in die Styx.
+	Bibliographie:	v.  Duhn, F. AA (1895) 159-160; Robert, SarkRel III 3, 548 no.  33; Dufour-Bozzo, C., Sarcofagi Romani a Genova (1964) no. 34 pl. 22.  
+Datierung
+	Periode:	150 - 200 
+	Kommentar:	(Agyrtes)
+Epoche
+	Name:	2. Hälfte 2. Jh. n. Chr.
+	Periode:	150 - 200 
+	Sequenznummer:	3190
+Datierung
+	Periode:	190 - 210 
+Epoche
+	Name:	um 200 n. Chr.
+	Periode:	190 - 210 
+	Sequenznummer:	3270
+Szene
+	ID:	8340
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Styx
+	Katalognummer:	14
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	9
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	132
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Agyrtes
+	Katalognummer:	23
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Genova
+	Name:	Palazzo Doria (Palazzo Principe)
+	Rechteinhaber der Fotos:	© Palazzo Doria, Genova
+	Hat die Fotorechte:	0

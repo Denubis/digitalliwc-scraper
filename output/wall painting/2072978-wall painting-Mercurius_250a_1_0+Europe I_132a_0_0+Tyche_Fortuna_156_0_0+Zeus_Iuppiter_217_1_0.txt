@@ -1,0 +1,81 @@
+http://ark.dasch.swiss/ark:/72163/080e-73c47459c351f-1
+Mercurius_250a_1_0
+Europe I_132a_0_0
+Tyche/Fortuna_156_0_0
+Zeus/Iuppiter_217_1_0
+
+
+
+Monument
+	ID:	2329
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	V 4,3-5
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	wreath, crown, stephane, corona altar snake phiale, phiale mesomphalos, patera cock owl piglet omphalos bow plant altar: round altar agrenon
+	Name:	Athena/Minerva Hermes Victoria Herakles/Hercules Europe I Mercurius Tyche/Fortuna Zeus/Iuppiter
+	Beschreibung:	Götterversammlung ohne Apollo, der hier nur durch seinen Omphalos vertreten wird (kegelförmig, Agrenon, von Schlange umwunden).
+	Bibliographie:	Pompei. Pitture e mosaici III 1048, Abb.1.
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	49197
+	Beschreibung:	Götterversammlung ohne Apollo, der hier nur durch seinen Omphalos vertreten wird (Agrenon, von Schlange umwunden). Europe (I), naked, mantle trailing from hand, hanging beside bull. Mercurius.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49197X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49197X203.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	115
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	IV. 1.b. Kultorte (Darstellungen)
+	Sequenznummer:	4500
+	Bandnummer:	4
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	250a
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Europe I
+	Katalognummer:	132a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Tyche/Fortuna
+	Katalognummer:	156
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	217
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	V 4,3
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1

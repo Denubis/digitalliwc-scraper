@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-7628ca4827fea-a
+Andromeda I_125_0_0
+
+
+
+Monument
+	ID:	45526
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	mask
+	Name:	Andromeda I Hesione
+	Bibliographie:	Biber, Theater 228 Abb. 760.
+Szene
+	ID:	47927
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Andromeda I
+	Katalognummer:	125
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

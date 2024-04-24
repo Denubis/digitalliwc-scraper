@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-74cfaf87d7933-6
+Hippolytos I_31_0_0
+
+
+
+Monument
+	ID:	21175
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hippolytos I
+Szene
+	ID:	22113
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	31
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	3305
+Museum
+	Land:	GR
+	Stadt:	Athens
+	Name:	Acropolis Museum
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Acropolis Museum, Athens
+	Hat die Fotorechte:	0

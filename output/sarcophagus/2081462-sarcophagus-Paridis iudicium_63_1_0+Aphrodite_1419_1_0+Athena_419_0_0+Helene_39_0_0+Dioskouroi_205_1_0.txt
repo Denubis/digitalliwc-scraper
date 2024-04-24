@@ -1,0 +1,77 @@
+http://ark.dasch.swiss/ark:/72163/080e-743dbf17769d3-c
+Paridis iudicium_63_1_0
+Aphrodite_1419_1_0
+Athena_419_0_0
+Helene_39_0_0
+Dioskouroi_205_1_0
+
+
+
+Monument
+	ID:	10883
+	Entdeckungsort:	Kul-Oba
+	Objekt:	sarcophagus
+	Material:	ivory
+	Land:	CH
+	Kategorie:	ivory, bone
+	Name:	Dioskouroi Helene Athena Paridis iudicium Aphrodite
+	Beschreibung:	Paridis iudicium (Judgement of Paris): Paris, Aphrodite, Athena and Hera.
+Szene
+	ID:	11126
+	Beschreibung:	Paridis iudicium (Judgement of Paris): Paris, Aphrodite, Athena and Hera.
+Foto
+	Monument-URL:	http://www.limc.ch/Images/russian_federation/st_petersburg/the_state_hermitage_museum/11126X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/russian_federation/st_petersburg/the_state_hermitage_museum/11126X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/russian_federation/st_petersburg/the_state_hermitage_museum/11126X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/russian_federation/st_petersburg/the_state_hermitage_museum/11126X103.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Paridis iudicium
+	Katalognummer:	63
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aphrodite
+	Katalognummer:	1419
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena
+	Katalognummer:	419
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helene
+	Katalognummer:	39
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dioskouroi
+	Katalognummer:	205
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	к-о 116
+Museum
+	Land:	RU
+	Stadt:	St. Petersburg
+	Name:	The State Hermitage Museum
+	Direktor:	Ms. Anastasia Mikliaeva, Head Rights & Reproductions
+	Adresse:	Dvortsovaya Nabereznaja 34
+	Postleitzahl:	190 000
+	Kontaktzenter:	The State Hermitage Museum
+	Stadt des Kontaktzenters:	St. Petersburg / Russia
+	Rechteinhaber der Fotos:	© The State Hermitage Museum, St. Petersburg
+	Kommentar:	Pour la céramique, les chiffres avec la lettre B se rapportent au catalogue d'O. Waldhauer (1914).
+	Hat die Fotorechte:	1

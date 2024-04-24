@@ -1,0 +1,61 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e76c8255565-1
+Vulcanus_90_0_0
+Kedalion_1_1_0
+Kyklops, Kyklopes_32_0_0
+Nereides_302_0_0
+
+
+
+Monument
+	ID:	4788
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	IX 1,7
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Kedalion Vulcanus Kyklopes Nereides
+	Beschreibung:	In a workshop Hephaistos showing the shield of Achilleus to Thetis. The shield is held by a man. Behind Thetis another woman, below Hephaistos Kedalion.
+	Monument-URL:	http://www.limc-france.fr/objet/16962
+Szene
+	ID:	4871
+	Beschreibung:	In a workshop Hephaistos showing the shield of Achilleus to Thetis. The shield is held by a man. Behind Thetis another woman, below Hephaistos Kedalion.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/4871X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Vulcanus
+	Katalognummer:	90
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kedalion
+	Katalognummer:	1
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kyklops, Kyklopes
+	Katalognummer:	32
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Nereides
+	Katalognummer:	302
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9529
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

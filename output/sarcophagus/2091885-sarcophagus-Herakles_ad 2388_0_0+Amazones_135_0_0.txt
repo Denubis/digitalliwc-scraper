@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-74d2c269b51a6-7
+Herakles_ad 2388_0_0
+Amazones_135_0_0
+
+
+
+Monument
+	ID:	21396
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Herakles Amazones
+	Beschreibung:	Herakles attacks the Cretan Bull without weapons.
+Szene
+	ID:	22352
+	Beschreibung:	Herakles attacks the Cretan Bull without weapons.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	ad 2388
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	135
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 1, 110
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo del Drago-Albani
+	Rechteinhaber der Fotos:	© Palazzo del Drago-Albani, Roma
+	Hat die Fotorechte:	1

@@ -1,0 +1,76 @@
+http://ark.dasch.swiss/ark:/72163/080e-73dd8b818c2a6-c
+Kentauroi (in Etruria) (S)_63_0_0
+
+
+
+Monument
+	ID:	4093
+	Entdeckungsort:	Tarquinia
+	Entdeckungsort Details:	necropolis of Monterozzi
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Kentauroi (in Etruria)
+	Beschreibung:	Tomba della Nave. Painting, tympanon of the back wall: three couples of recumbent figures (male-female) on klinai; on the left wall a kylikeion (dat. 5 c. BC). On the table a krater with a centauromachy scene. 
+	Bibliographie:	Steingräber, S., Catalogo ragionato della pittura etrusca (1984) n. 91 fig. 236-239.
+Szene
+	ID:	4137
+	Beschreibung:	Tomba della Nave. Painting, tympanon of the back wall: three couples of recumbent figures (male-female) on klinai; on the left wall a kylikeion (dat. 5 c. BC). On the table a krater with a centauromachy scene.  
+	Sequenznummer:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	38
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 4.a. Bankett, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	1420
+	Bandnummer:	2
+Catalog LIMC
+	Artikel:	Kentauroi (in Etruria) (S)
+	Katalognummer:	63
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba della Nave
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Museo Nazionale di Tarquinia
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba della Nave
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Necropoli
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

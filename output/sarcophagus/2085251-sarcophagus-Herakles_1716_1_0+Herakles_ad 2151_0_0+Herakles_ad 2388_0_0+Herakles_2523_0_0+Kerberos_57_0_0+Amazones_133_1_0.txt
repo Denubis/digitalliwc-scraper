@@ -1,0 +1,107 @@
+http://ark.dasch.swiss/ark:/72163/080e-7473ea84fce94-2
+Herakles_1716_1_0
+Herakles_ad 2151_0_0
+Herakles_ad 2388_0_0
+Herakles_2523_0_0
+Kerberos_57_0_0
+Amazones_133_1_0
+
+
+
+Monument
+	ID:	14697
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	club double-axe, bipennis, labrys lionskin horse fight, battle
+	Name:	Herakles Kerberos Amazones
+	Beschreibung:	Labours of Herakles: Lion, Hydra, Boar, Deer, Birds, Amazon, Augeias, Bull, Horses of Diomedes, Geryoneus, Kerberos, Hesperides.
+	Bibliographie:	SarkRel III no. 102 pl. 28; Sichtermann/ Koch 31 no. 22 pl. 48, 1; 51. 53, 1.
+Datierung
+	Periode:	170 
+	Kommentar:	about
+Epoche
+	Name:	3. Viertel 2. Jh. n. Chr.
+	Periode:	150 - 175 
+	Sequenznummer:	3220
+Szene
+	ID:	15143
+	Beschreibung:	Labours of Herakles: Lion, Hydra, Boar, Deer, Birds, Amazon, Augeias, Bull, Horses of Diomedes, Geryoneus, Kerberos, Hesperides.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/mantova/galleria_e_museo_di_palazzo_ducale/15143X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/mantova/galleria_e_museo_di_palazzo_ducale/15143X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/mantova/galleria_e_museo_di_palazzo_ducale/15143X103.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/mantova/galleria_e_museo_di_palazzo_ducale/15143X104.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	1716
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	ad 2151
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	ad 2388
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2523
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kerberos
+	Katalognummer:	57
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	133
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Levi 191
+Museum
+	Land:	IT
+	Stadt:	Mantova
+	Name:	Galleria e Museo di Palazzo Ducale
+	Direktor:	Soprintendente Dott.ssa Giuliana Algeri
+	Adresse:	Piazza Paccagnini 3
+	Postleitzahl:	I-46100
+	Kontaktzenter:	(All'attenzione del Dott. G. Rodella) Sopr. Patrimonio Storico ed Artistico Mantova, Cremona e Brescia
+	Stadt des Kontaktzenters:	Mantova
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali
+	Kommentar:	Levi: numeri di catalogo di Levi, A., Sculture greche e romane del Palazzo Ducale di Mantova (1930).
+	Hat die Fotorechte:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Gl 407
+Museum
+	Land:	DE
+	Stadt:	München
+	Name:	Staatliche Antikensammlungen und Glyptothek
+	Direktor:	Dr. Yvonne Schmuhl
+	Adresse:	Meiserstrasse 10
+	Postleitzahl:	D-80333
+	Kontaktzenter:	Staatliche Antikensammlungen und Glyptothek
+	Stadt des Kontaktzenters:	München
+	Rechteinhaber der Fotos:	© Staatliche Antikensammlungen und Glyptothek, München
+	Hat die Fotorechte:	1

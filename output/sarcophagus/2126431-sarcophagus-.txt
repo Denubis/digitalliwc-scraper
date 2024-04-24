@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-76c0a5ed3e3e0-1
+
+
+
+Monument
+	ID:	203421
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	relief
+	Beschreibung:	Funeral banquet: persons wearing purifying crowns.
+	Bibliographie:	Torelli, M., Gli Etruschi (2000) 596 no. 171.
+Szene
+	ID:	100522
+	Beschreibung:	Funeral banquet: persons wearing purifying crowns.
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	14
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VIII. Tiere und Pflanzen, etr.
+	Bandnummer:	8
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	195
+Museum
+	Land:	IT
+	Stadt:	Perugia
+	Name:	Museo Archeologico Nazionale dell'Umbria
+	Direktor:	Soprintendente Dott. Mario Pagano
+	Adresse:	Piazza Partigiani 9
+	Postleitzahl:	I-06121
+	Kontaktzenter:	Soprintendenza Archeologica per l'Umbria
+	Stadt des Kontaktzenters:	Perugia
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica per l'Umbria
+	Hat die Fotorechte:	1

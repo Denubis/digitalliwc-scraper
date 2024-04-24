@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-760e7c08907fa-1
+Abundantia_17_0_0
+
+
+
+Monument
+	ID:	43654
+	Entdeckungsort:	Tifata
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	cornucopia phiale, phiale mesomphalos, patera libation
+	Name:	Abundantia Lar, Lares
+	Beschreibung:	Standing Abundantia with corcucopia and patera pouring a libation, accompanied by two Lares.
+	Bibliographie:	Reinach, RépPeint 103, 1.
+Datierung
+	Periode:	69 - 79 
+Epoche
+	Name:	vespasianisch
+	Periode:	69 - 79 
+	Sequenznummer:	1185
+Szene
+	ID:	45896
+	Beschreibung:	Standing Abundantia with corcucopia and patera pouring a libation, accompanied by two Lares.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Abundantia
+	Katalognummer:	17
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Temple de Diane
+Museum
+	Land:	IT
+	Stadt:	Tifata
+	Rechteinhaber der Fotos:	© Tifata
+	Hat die Fotorechte:	0

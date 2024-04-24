@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-73f5e0af91e64-5
+Venus_311_0_1
+Eros/Amor, Cupido_ad 665_0_0
+
+
+
+Monument
+	ID:	5806
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Eros/Amor, Cupido Venus
+	Beschreibung:	Birth of Venus: Venus swimming, accompanied by Amores.
+Szene
+	ID:	5909
+	Beschreibung:	Birth of Venus: Venus swimming, accompanied by Amores.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Venus
+	Katalognummer:	311
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 665
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Sepolcro Corsini
+	Rechteinhaber der Fotos:	© Roma
+	Hat die Fotorechte:	0

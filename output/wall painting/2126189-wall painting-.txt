@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-76bd303a06fa6-1
+
+
+
+Monument
+	ID:	203165
+	Entdeckungsort:	Paestum
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Prothesis scene accompanied by a flute-player.
+	Bibliographie:	Pontrandolfo, A./ Rouveret, A., Le tombe dipinte di Paestum (1992) 290-294. 399-400 fig. p. 292 (lastra nord).
+Datierung
+	Periode:	-310 - -300 
+Epoche
+	Name:	Ende 4. Jh. v. Chr.
+	Periode:	-310 - -300 
+	Sequenznummer:	2460
+Szene
+	ID:	100203
+	Beschreibung:	Prothesis scene accompanied by a flute-player.
+Catalog Thes CRA
+	Indexnummer:	52
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VI. 1.e. Tod, gr.
+	Bandnummer:	6
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	31695
+Museum
+	Land:	IT
+	Stadt:	Paestum
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Sopr. Dott. ssa Maria Luisa Nava
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Via Trotula de' Ruggiero 6/7
+	Postleitzahl:	I-84121
+	Kontaktzenter:	Soprintendenza archeologica per le Provincie di Salerno, Avellino, Benevento e Caserta
+	Stadt des Kontaktzenters:	Salerno
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologia, Belle Arti e Paesaggio Salerno e Avellino
+	Hat die Fotorechte:	0

@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-75ad7b7e11db5-d
+Dionysos (in per. or.)_46_0_0
+
+
+
+Monument
+	ID:	36816
+	Entdeckungsort:	Palmyra, Tadmur
+	Entdeckungsort Details:	tomb
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Dionysos
+	Beschreibung:	Dionysos with a cup under vine
+Szene
+	ID:	38706
+	Beschreibung:	Dionysos with a cup under vine
+	Sequenznummer:	1
+Catalog Thes CRA
+	Indexnummer:	24
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 4.a. Bankett, or.
+	Kurzname:	Or.
+	Sequenznummer:	1410
+	Bandnummer:	2
+Catalog LIMC
+	Artikel:	Dionysos (in per. or.)
+	Katalognummer:	46
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Hypogée
+Museum
+	Land:	SY
+	Stadt:	Palmyre
+	Name:	Nécropoles
+	Rechteinhaber der Fotos:	© Palmyra
+	Hat die Fotorechte:	1

@@ -1,0 +1,113 @@
+http://ark.dasch.swiss/ark:/72163/080e-763d2601297ba-d
+Dionysos/Bacchus_72_1_0
+
+
+
+Monument
+	ID:	50183
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	altar herm tree sacrificial animal he-goat log
+	Name:	Dionysos/Bacchus
+	Beschreibung:	Bacchus leaning on a satyr, around them dancing satyrs and maenads.
+	Bibliographie:	SarkRel VI 1 n. 2 pl. 3, 3.4; 77, 1-2;SarkRel IV 1 147-149 n. 44 pl, 44, 2; Oehler, H., Foto + Skulptur (1980) 65 n. 46 pl. 59; Moormann, E. M., Ancient Sculpture in the Allard Pierson Mus. (2000) 161–164 Nr. 221 Taf. 77–79.
+Szene
+	ID:	55042
+	Beschreibung:	Bacchus leaning on a satyr, around them dancing satyrs and maenads.
+Foto
+	Monument-URL:	http://www.limc.ch/Images/netherlands/amsterdam/allard_pierson_museum/55042X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/netherlands/amsterdam/allard_pierson_museum/55042X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/netherlands/amsterdam/allard_pierson_museum/55042X103.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/netherlands/amsterdam/allard_pierson_museum/55042X104.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/netherlands/amsterdam/allard_pierson_museum/55042X105.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/netherlands/amsterdam/allard_pierson_museum/55042X106.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/netherlands/amsterdam/allard_pierson_museum/55042X107.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/netherlands/amsterdam/allard_pierson_museum/55042X108.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+	Rechteinhaber der Fotos:	Rita Gautschy
+	Hat die Fotorechte:	1
+Foto
+	Neues Foto:	1
+	Rechteinhaber der Fotos:	Rita Gautschy
+	Hat die Fotorechte:	1
+Foto
+	Neues Foto:	1
+	Rechteinhaber der Fotos:	Rita Gautschy
+	Hat die Fotorechte:	1
+Foto
+	Neues Foto:	1
+	Rechteinhaber der Fotos:	Rita Gautschy
+	Hat die Fotorechte:	1
+Foto
+	Neues Foto:	1
+	Rechteinhaber der Fotos:	Rita Gautschy
+	Hat die Fotorechte:	1
+Foto
+	Neues Foto:	1
+	Rechteinhaber der Fotos:	Rita Gautschy
+	Hat die Fotorechte:	1
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	72
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	10854
+Museum
+	Land:	NL
+	Stadt:	Amsterdam
+	Name:	Allard Pierson Museum
+	Direktor:	Curator Dra Geralda Jurriaans-Helle
+	Anrede:	Dear Director,
+	Adresse:	Oude Turfmarkt 127
+	Postleitzahl:	NL-1012 GC
+	Kontaktzenter:	Allard Pierson Museum
+	Stadt des Kontaktzenters:	Amsterdam
+	Rechteinhaber der Fotos:	© Allard Pierson Museum
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	Ehem. A.O.
+	Nummer:	11./12.07.1983, 371
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	Sotheby's
+	Direktor:	Mr. Adam Levine
+	Adresse:	34-35 New Bond Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	Sotheby's
+	Stadt des Kontaktzenters:	London, W1A 2AA
+	Rechteinhaber der Fotos:	© Sotheby's, London
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	Ehem. A.O.
+	Nummer:	Astor 75
+Museum
+	Land:	GB
+	Stadt:	Hever Castle (Kent)
+	Rechteinhaber der Fotos:	© Hever Castle
+	Hat die Fotorechte:	1

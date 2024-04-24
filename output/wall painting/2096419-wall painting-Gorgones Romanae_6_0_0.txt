@@ -1,0 +1,55 @@
+http://ark.dasch.swiss/ark:/72163/080e-7513947ab80b4-1
+Gorgones Romanae_6_0_0
+
+
+
+Monument
+	ID:	25963
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Tomb of M. Clodius Hermes
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Gorgo, Gorgones
+	Beschreibung:	Laying out of a deceased who is surrounded by family members; on the vault: gorgoneion.
+	Bibliographie:	Ferrua, A., La basilica e la catacomba di S. Sebastiano (1990) 72 fig. 26, 71 fig. 25.
+Szene
+	ID:	27262
+	Beschreibung:	Laying out of a deceased who is surrounded by family members; on the vault: gorgoneion.
+	Sequenznummer:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	7
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VI. 1.e. Tod, röm.
+	Bandnummer:	6
+Catalog Thes CRA
+	Indexnummer:	8
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Gorgones Romanae
+	Katalognummer:	6
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Sepolcro di M. Clodius Hermes
+	Direktor:	Dottoressa Barbara Mazzei
+	Adresse:	Via Napoleone III, 1
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Pontificia Commissione di Archeologia Sacra
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Pontificia Commissione di Archeologia Sacra
+	Hat die Fotorechte:	0

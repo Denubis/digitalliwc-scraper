@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-74f8ac83b1672-d
+Kairoi/Tempora anni_188_0_0
+
+
+
+Monument
+	ID:	24067
+	Objekt:	sarcophagus lid
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kairoi/Tempora anni
+	Beschreibung:	Fragment of a sarcophagus lid. Mask with sickle, corn ears, grape leaf and grapes. Maybe a figure combining the Seasons Summer and Fall.
+Szene
+	ID:	25249
+	Szenerieangabe:	couvercle
+	Beschreibung:	Mask with sickle, corn ears, grape leaf and grapes. Maybe a figure combining the Seasons Summer and Fall.
+	Sequenznummer:	20
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	188
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 777
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

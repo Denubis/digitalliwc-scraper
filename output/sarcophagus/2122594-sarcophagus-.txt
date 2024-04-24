@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-7689cad2a6a2f-b
+
+
+
+Monument
+	ID:	90900
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	GR
+	Kategorie:	relief
+	Name:	Eros
+	Grössenangabe:	Y. 0.60 m - Πλ. 0.18 m
+	Beschreibung:	Έρωτες(;).
+	Bibliographie:	Walter, RelAkr 179 no. 381.Sauciuc, Andros 26 Anm. 17.
+	Kommentar:	3931
+Datierung
+	Periode:	-27 - 395 
+Epoche
+	Name:	kaiserzeitlich
+	Periode:	-27 - 476 
+	Sequenznummer:	1100
+Szene
+	ID:	96356
+	Beschreibung:	Δύο Έρωτες από δεξιά. O πρώτος ιστάμενος κατ' ενώπιον (γυμνός), χέρια που διασταυρώνονται στην κοιλιακή χώρα, σκέλη κλειστά. Aπό το δεύτερο σώζεται το αριστερό(;) άκρο χέρι και τμήμα του πήχεως προς δεξιά στο ύψος του ώμου του αριστερού.
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2309
+Museum
+	Land:	GR
+	Stadt:	Athens
+	Name:	Acropolis Museum
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Acropolis Museum, Athens
+	Hat die Fotorechte:	0

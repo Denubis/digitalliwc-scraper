@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-7454d5dbccf9e-a
+Mousa, Mousai/Musae (vol. VII)_225_0_0
+Athena/Minerva_420_0_0
+
+
+
+Monument
+	ID:	12509
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Athena/Minerva Marsyas I Mousa, Mousai
+	Beschreibung:	Sarcophagus, in the centre medaillon of the defunct; on the left Bacchus, a Mousa, Marsyas, Diana; on the right Victoria, two Mousai, Apollo, Minerva.
+Szene
+	ID:	12811
+	Beschreibung:	Sarcophagus, in the centre medaillon of the defunct; on the left Bacchus, a Mousa, Marsyas, Diana; on the right Victoria, two Mousai, Apollo, Minerva.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_sforza_cesarini/12811X303.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_sforza_cesarini/12811X304.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	225
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	420
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 2, 209
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Sforza Cesarini
+	Rechteinhaber der Fotos:	© Palazzo Sforza Cesarini, Roma
+	Hat die Fotorechte:	1

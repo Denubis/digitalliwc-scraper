@@ -1,0 +1,49 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a492bbff311-2
+Gryps (S)_15_1_0
+Nereides_112_1_0
+
+
+
+Monument
+	ID:	50
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Gryps Nereides
+	Beschreibung:	Depiction of Gryps, a composite being with winged body of a lion and the head of an eagle.
+Datierung
+	Periode:	140 
+Szene
+	ID:	248
+	Beschreibung:	Depiction of Gryps, a composite being with winged body of a lion and the head of an eagle.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/248X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Gryps (S)
+	Katalognummer:	15
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Nereides
+	Katalognummer:	112
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 1634
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

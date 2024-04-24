@@ -1,0 +1,27 @@
+http://ark.dasch.swiss/ark:/72163/080e-769bb10a2a1a3-6
+
+
+
+Monument
+	ID:	200657
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	DE
+	Kategorie:	relief
+	Stichwort:	cauldron, dinos, lebes fountain, fountain house stibas, stibadion kiln, stove
+	Beschreibung:	Sarkophag mit Darstellungen eines ländlichen Mahls: Vorderseite(von links nach rechts):2 Männer, die ein Parapetasma an einem Baum aufhängen, 2 Männer, die ein Ziege ausnehmen, ein Ziehbrunnen, an diesem ist ein Ofen aufgemauert auf dem ein Kessel steht, den ein weiterer Mann befeuert. Ganz rechts ist eine Gelageszene zu sehen. Auf den beiden Schmalseiten sind liegende Zecher abgebildet.
+	Bibliographie:	Amedick, R., RM 95, 1988, 205-234 Taf. 76-77.
+Datierung
+	Kommentar:	~
+Epoche
+	Name:	2. Viertel 2. Jh. n. Chr.
+	Periode:	125 - 150 
+	Sequenznummer:	3210
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Cava dei Tirreni
+	Name:	Museo della Badia Benedettina della Santissima Trinità di Cava
+	Rechteinhaber der Fotos:	© Museo della Badia Benedettina della Santissima Trinità di Cava
+	Hat die Fotorechte:	0

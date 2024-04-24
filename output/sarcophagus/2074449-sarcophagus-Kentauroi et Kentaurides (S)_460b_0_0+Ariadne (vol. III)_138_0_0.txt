@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d97c16e5c1a-2
+Kentauroi et Kentaurides (S)_460b_0_0
+Ariadne (vol. III)_138_0_0
+
+
+
+Monument
+	ID:	3809
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Ariadne Kentauroi and Kentaurides
+	Beschreibung:	Centaur with kantharos and satyr.
+Szene
+	ID:	3850
+	Beschreibung:	Centaur with kantharos and satyr.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_doria_pamphilj/3850X302.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	460b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ariadne (vol. III)
+	Katalognummer:	138
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Calza 201
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Doria Pamphilj
+	Rechteinhaber der Fotos:	© Villa Doria Pamphilj, Roma
+	Kommentar:	Numéros d'après Calza, R. (éd.), Antichità di Villa Doria Pamphilj (1977).
+	Hat die Fotorechte:	1

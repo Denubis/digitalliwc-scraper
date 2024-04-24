@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-765c99d2c2cb2-4
+
+
+
+Monument
+	ID:	52523
+	Entdeckungsort:	Pompei
+	Objekt:	porticus
+	Land:	CH
+	Kategorie:	architecture
+	Beschreibung:	Temple of Apollo; porticus, place of shelter for the worshipper and for the placement of votive offerings (2nd half 2nd c. BC)
+	Bibliographie:	De Caro, S., Saggi nell’area del tempio di Apollo a Pompei (1986).
+Szene
+	ID:	57778
+	Beschreibung:	Temple of Apollo; porticus, place of shelter for the worshipper and for the placement of votive offerings (2nd half 2nd c. BC)
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	15
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Porticus, Rom.
+	Lemata:	Porticus, Rom.
+	Sequenznummer:	3934
+	Bandnummer:	4
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tempio di Apollo
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Foro
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

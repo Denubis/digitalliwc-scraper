@@ -1,0 +1,52 @@
+http://ark.dasch.swiss/ark:/72163/080e-74fe1b487a6de-0
+Kairoi/Tempora anni_232_0_0
+
+
+
+Monument
+	ID:	24449
+	Entdeckungsort:	Modena
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kairoi/Tempora anni
+	Beschreibung:	Cycle of the Seasons on the sides of the acroterions.
+Datierung
+	Periode:	250 - 300 
+Szene
+	ID:	48495
+	Szenerieangabe:	couvercle
+	Beschreibung:	Cycle of the Seasons on the sides of the acroterions.
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/modena/galleria_e_museo_estense/48495X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/modena/galleria_e_museo_estense/48495X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/modena/galleria_e_museo_estense/48495X103.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/modena/galleria_e_museo_estense/48495X104.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/modena/galleria_e_museo_estense/48495X105.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	232
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Modena
+	Name:	Galleria e Museo Estense
+	Rechteinhaber der Fotos:	© Galleria e Museo Estense, Modena
+	Hat die Fotorechte:	1

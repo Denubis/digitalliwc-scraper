@@ -1,0 +1,78 @@
+http://ark.dasch.swiss/ark:/72163/080e-74347f1ffd4f0-d
+Phaidra_19_1_0
+Kanake_3_1_0
+Myrrha_1_1_0
+Pasiphae_1_0_0
+Skylla II_4_1_0
+
+
+
+Monument
+	ID:	10229
+	Entdeckungsort:	Rome
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Kanake Myrrha Pasiphae Phaidra Skylla II
+	Beschreibung:	Various heroines: Kanake, Myrrha, Pasiphae, Phaidra, Skylla (II). Pasiphae leans against the bull.
+	Inschrift:	All named.
+Szene
+	ID:	10454
+	Beschreibung:	Various heroines: Kanake, Myrrha, Pasiphae, Phaidra, Skylla (II). Pasiphae leans against the bull.
+	Inschrift:	All named.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/biblioteca_apostolica_vaticana/sala_delle_nozze_aldobrandine/10454X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/biblioteca_apostolica_vaticana/sala_delle_nozze_aldobrandine/10454X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/biblioteca_apostolica_vaticana/sala_delle_nozze_aldobrandine/10454X304.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/biblioteca_apostolica_vaticana/sala_delle_nozze_aldobrandine/10454X305.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Phaidra
+	Katalognummer:	19
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kanake
+	Katalognummer:	3
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Myrrha
+	Katalognummer:	1
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Pasiphae
+	Katalognummer:	1
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Skylla II
+	Katalognummer:	4
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	VA
+	Stadt:	Vaticano
+	Name:	Biblioteca Apostolica Vaticana, Sala delle Nozze Aldobrandine
+	Direktor:	Prefetto Raffaele Farina, S. D. B.
+	Anrede:	Reverendissimo Prefetto
+	Postleitzahl:	I-00120
+	Kontaktzenter:	Biblioteca Apostolica Vaticana
+	Stadt des Kontaktzenters:	Città del Vaticano
+	Rechteinhaber der Fotos:	© Biblioteca Apostolica Vaticana
+	Hat die Fotorechte:	1

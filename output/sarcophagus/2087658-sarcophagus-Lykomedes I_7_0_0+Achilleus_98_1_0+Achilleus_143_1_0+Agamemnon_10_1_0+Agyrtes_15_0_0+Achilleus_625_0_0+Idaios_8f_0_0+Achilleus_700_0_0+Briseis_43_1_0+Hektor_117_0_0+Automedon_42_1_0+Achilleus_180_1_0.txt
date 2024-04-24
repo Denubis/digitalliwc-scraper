@@ -1,0 +1,142 @@
+http://ark.dasch.swiss/ark:/72163/080e-749653f0f0dd7-e
+Lykomedes I_7_0_0
+Achilleus_98_1_0
+Achilleus_143_1_0
+Agamemnon_10_1_0
+Agyrtes_15_0_0
+Achilleus_625_0_0
+Idaios_8f_0_0
+Achilleus_700_0_0
+Briseis_43_1_0
+Hektor_117_0_0
+Automedon_42_1_0
+Achilleus_180_1_0
+
+
+
+Monument
+	ID:	17132
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	lyre sceptre helmet trumpet, tuba, salpinx servant seat, chair, sedes, sedile horse war-chariot, harma, currus corpse
+	Name:	Achilleus Agamemnon Agyrtes Automedon Briseis Hektor Idaios Lykomedes I Priamos
+	Beschreibung:	Three scenes: On the right kneeling Priamos asking Achilleus for the corpse of Hektor. In the centre Achilleus on his chariot dragging Hektor. On the left the chariot of Priamos from which Trojans are unloading goods. Other side: In the centre the discovery of Achilleus. On the right Agamemnon. On the left Lykomedes (I).
+	Bibliographie:	SarkRel II no. 26b pl. 17.
+Datierung
+	Periode:	200 - 210 
+Epoche
+	Name:	Anfang 3. Jh. n. Chr.
+	Periode:	200 - 210 
+	Sequenznummer:	3290
+Szene
+	ID:	17821
+	Beschreibung:	Three scenes: On the right kneeling Priamos asking Achilleus for the corpse of Hektor. In the centre Achilleus on his chariot dragging Hektor. On the left the chariot of Priamos from which Trojans are unloading goods. Other side: In the centre the discovery of Achilleus. On the right Agamemnon. On the left Lykomedes (I).
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/17821X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/17821X006.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/17821X007.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/17821X209.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/17821X213.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/17821X301.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/17821X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/17821X399.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Lykomedes I
+	Katalognummer:	7
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	98
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	143
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Agamemnon
+	Katalognummer:	10
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Agyrtes
+	Katalognummer:	15
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	625
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Idaios
+	Katalognummer:	8f
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	700
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Briseis
+	Katalognummer:	43
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hektor
+	Katalognummer:	117
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Automedon
+	Katalognummer:	42
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	180
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 2120
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

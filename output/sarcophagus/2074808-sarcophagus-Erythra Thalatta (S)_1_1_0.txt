@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-73de9dfff735d-6
+Erythra Thalatta (S)_1_1_0
+
+
+
+Monument
+	ID:	4168
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Erythra Thalatta
+	Beschreibung:	Crossing of the Red Sea (Erythra Thalatta): Below the horses of the biga of pharaoh a reclining river-god, leaning on an urn from where water pours out. To the left of the river-god the approaching Egyptians, to the right drowning Egyptians and on secure land Moses and the Israelites.
+	Museums-URL:	http://www.museivaticani.va/content/museivaticani/it/collezioni/musei/museo-pio-cristiano/sarcofagi-_a-colonne/sarcofago-con-la-scena-del-passaggio-del-mar-rosso.html
+Datierung
+	Periode:	380 - 390 
+Szene
+	ID:	4212
+	Beschreibung:	Crossing of the Red Sea (Erythra Thalatta): Below the horses of the biga of pharaoh a reclining river-god, leaning on an urn from where water pours out. To the left of the river-god the approaching Egyptians, to the right drowning Egyptians and on secure land Moses and the Israelites.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/4212X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Erythra Thalatta (S)
+	Katalognummer:	1
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	31434
+Museum
+	Land:	VA
+	Stadt:	Vaticano
+	Name:	Musei Vaticani
+	Direktor:	Direttore Dott. Antonio Paolucci
+	Anrede:	Chiarissimo Direttore,
+	Postleitzahl:	I-00120
+	Kontaktzenter:	Monumenti, Musei e Gallerie Pontificie
+	Stadt des Kontaktzenters:	Città del Vaticano
+	Rechteinhaber der Fotos:	© Musei Vaticani
+	Kommentar:	Sont réunis sous cette dénomination générique - compte tenu à la fois de leur numérotation unique et de leurs déplacements à l'intérieur des musées - les monuments conservés dans le Museo Chiaramonti, le Museo Gregoriano Etrusco, le Museo Gregoriano Profano, le Museo Pio Clementino et le Museo Pio Cristiano.  En revanche, la localisation spécifique a été conservée dans les cas suivants: Basilica San Pietro, Biblioteca Apostolica Vaticana (et Museo Profano, Museo Sacro, Sala delle Nozze Aldobrandine), Camposanto Teutonico, Giardini, Medagliere Vaticano, Museo Gregoriano Egizio, Necropoli sotto San Pietro.
+	Hat die Fotorechte:	0

@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d702ec775f9-b
+Kentauroi et Kentaurides (S)_426b_1_0
+
+
+
+Monument
+	ID:	3634
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kentauroi and Kentaurides
+	Beschreibung:	Centaur fighting a satyr. Attacking Panther.
+Szene
+	ID:	3671
+	Beschreibung:	Centaur fighting a satyr. Attacking Panther.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/cagliari/museo_archeologico_nazionale/3671X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	426b
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	6142
+Museum
+	Land:	IT
+	Stadt:	Cagliari
+	Name:	Museo Archeologico Nazionale
+	Adresse:	Piazza Indipendenza 7
+	Postleitzahl:	I-09100
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici per le Province di Cagliari e Oristano
+	Stadt des Kontaktzenters:	Cagliari
+	Rechteinhaber der Fotos:	© Polo Museale della Sardegna
+	Hat die Fotorechte:	1

@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-7618177f82d1a-2
+Amazones_527_0_0
+Achilleus_780_0_0
+Pegasos (Pegasos, Bellerophon)_31f_0_0
+
+
+
+Monument
+	ID:	44340
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	shield horse warrior, soldier Amazon fight, battle rider
+	Name:	Amazones Pegasos
+	Bibliographie:	SarkRel IIpl. 36, no. 87; SarkRel XII 1 246-247 no. 117 Textabb. 19 (verschollen); Curtius, L., RM 54, (1939), 230-231 fig. 8; Andreae, B., RM 63, (1956), 35 no. 11.
+Datierung
+	Periode:	190 - 210 
+Epoche
+	Name:	um 200 n. Chr.
+	Periode:	190 - 210 
+	Sequenznummer:	3270
+Szene
+	ID:	46627
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	527
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	780
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Pegasos (Pegasos, Bellerophon)
+	Katalognummer:	31f
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel II 87
+Museum
+	Land:	IT
+	Stadt:	Venezia
+	Name:	Collezione L. Seguso (già)
+	Rechteinhaber der Fotos:	© Collection L. Seguso (once)
+	Hat die Fotorechte:	0

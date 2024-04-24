@@ -1,0 +1,88 @@
+http://ark.dasch.swiss/ark:/72163/080e-73ff3a459dbaa-8
+Nymphai (S)_18a_0_0
+Phrixos et Helle_33_1_0
+Ares/Mars_376f_1_0
+Europe I_136_0_1
+Aktaion_94a_0_0
+
+
+
+Monument
+	ID:	6468
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 2,4 (Casa di Sallustio)
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	dog cave
+	Name:	Aktaion Ares/Mars Europe I Helle Phrixos Nymphai
+	Beschreibung:	Europe (I) in back view, naked, mantle in arc behind, hanging beside the bull. They are about to kiss. Eros above.
+	Bibliographie:	Schefold, WP 93, 32; Schefold, K., RM 60-61 (1953/54) 117-118 pl. 48; Peters, W. J., Landscape in Romano-campanian Mural Painting (1963) 140; Dawson, M. C., Romano-campanian Mythological Landscape Painting(2) (1965) 96, 35 pl. 13.
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	6601
+	Beschreibung:	Europe (I) in back view, naked, mantle in arc behind, hanging beside the bull. They are about to kiss. Eros above.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/6601X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/6601X204.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/6601X205.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/6601X301.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Nymphai (S)
+	Katalognummer:	18a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Phrixos et Helle
+	Katalognummer:	33
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ares/Mars
+	Katalognummer:	376f
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Europe I
+	Katalognummer:	136
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Aktaion
+	Katalognummer:	94a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VI 2,4
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa di Sallustio

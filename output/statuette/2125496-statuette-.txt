@@ -1,0 +1,30 @@
+http://ark.dasch.swiss/ark:/72163/080e-76b347e75d15d-0
+
+
+
+Monument
+	ID:	202289
+	Entdeckungsort:	Pompei
+	Objekt:	statuette
+	Material:	marble
+	Land:	CH
+	Kategorie:	sculpture in the round
+	Bibliographie:	PPM VIII 797.
+Szene
+	ID:	99286
+	Name:	Dionysos/Bacchus
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	6312
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

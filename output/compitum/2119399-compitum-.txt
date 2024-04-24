@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-765c1d62d6888-8
+
+
+
+Monument
+	ID:	52486
+	Entdeckungsort:	Pompei
+	Objekt:	compitum
+	Land:	CH
+	Kategorie:	cultual installations wall painting
+	Beschreibung:	VI 1, 19, compitum; the term identifies at once a crossroads and the aediculae which were placed there for the Lares Compitales
+	Bibliographie:	Van Andringa, W., Autels de Carrefour, organisation vicinale et rapports de rapports  de voisinage à Pompei, RStPomp 11 (2000) n.1 fig. 1a-b.
+Szene
+	ID:	57740
+	Beschreibung:	VI 1, 19, compitum; the term identifies at once a crossroads and the aediculae which were placed there for the Lares Compitales
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	7
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Compitum
+	Lemata:	Compitum
+	Sequenznummer:	3490
+	Bandnummer:	4
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VI 1,19
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1

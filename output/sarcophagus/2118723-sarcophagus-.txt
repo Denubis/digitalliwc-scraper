@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-7652734822c54-d
+
+
+
+Monument
+	ID:	51758
+	Objekt:	sarcophagus
+	Material:	nenfro
+	Land:	CH
+	Kategorie:	relief
+	Beschreibung:	Scene showing procession to the right: male figure with spear, two lictors with fasces, togated magistrate on a biga, male figure wearing tunic and mantle holding a writing tablet (processus magistraturalis)
+	Bibliographie:	Herbig, R., Die jüngeretruskischen Steinsarkophagen (1952) n. 81 tav.  43d.
+Szene
+	ID:	56975
+	Beschreibung:	Scene showing procession to the right: male figure with spear, two lictors with fasces, togated magistrate on a biga, male figure wearing tunic and mantle holding a writing tablet (processus magistraturalis)
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	69
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 1. Prozessionen, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	90
+	Bandnummer:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	65
+Museum
+	Land:	VA
+	Stadt:	Vaticano
+	Name:	Musei Vaticani
+	Direktor:	Direttore Dott. Antonio Paolucci
+	Anrede:	Chiarissimo Direttore,
+	Postleitzahl:	I-00120
+	Kontaktzenter:	Monumenti, Musei e Gallerie Pontificie
+	Stadt des Kontaktzenters:	Città del Vaticano
+	Rechteinhaber der Fotos:	© Musei Vaticani
+	Kommentar:	Sont réunis sous cette dénomination générique - compte tenu à la fois de leur numérotation unique et de leurs déplacements à l'intérieur des musées - les monuments conservés dans le Museo Chiaramonti, le Museo Gregoriano Etrusco, le Museo Gregoriano Profano, le Museo Pio Clementino et le Museo Pio Cristiano.  En revanche, la localisation spécifique a été conservée dans les cas suivants: Basilica San Pietro, Biblioteca Apostolica Vaticana (et Museo Profano, Museo Sacro, Sala delle Nozze Aldobrandine), Camposanto Teutonico, Giardini, Medagliere Vaticano, Museo Gregoriano Egizio, Necropoli sotto San Pietro.
+	Hat die Fotorechte:	0

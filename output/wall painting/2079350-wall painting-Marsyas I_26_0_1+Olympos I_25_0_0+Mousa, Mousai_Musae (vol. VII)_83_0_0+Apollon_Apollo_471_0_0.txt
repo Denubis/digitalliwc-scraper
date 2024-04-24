@@ -1,0 +1,72 @@
+http://ark.dasch.swiss/ark:/72163/080e-741f8d587d093-d
+Marsyas I_26_0_1
+Olympos I_25_0_0
+Mousa, Mousai/Musae (vol. VII)_83_0_0
+Apollon/Apollo_471_0_0
+
+
+
+Monument
+	ID:	8747
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	IX 1,20 (Casa di Diadumeno or Epidius Rufus)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Marsyas I Olympos I Apollon/Apollo Mousa, Mousai
+	Beschreibung:	Marsyas flutes, Olympos (I) gestures towards him. Pendant: Apollon.
+Szene
+	ID:	49477
+	Beschreibung:	Marsyas flutes, Olympos (I) gestures towards him. Pendant: Apollon.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49477X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49477X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49477X201.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49477X204.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Marsyas I
+	Katalognummer:	26
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Olympos I
+	Katalognummer:	25
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	83
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	471
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	IX 1,20
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Domus Epidi Rufi

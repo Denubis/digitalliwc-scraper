@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-761033393bc52-9
+Amazones_210_1_0
+
+
+
+Monument
+	ID:	43779
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	helmet shield fight, battle
+	Name:	Achilleus Penthesileia Amazones
+	Beschreibung:	Fragment.
+	Bibliographie:	SarkRel 77; Michon, E., BullSAntF (1906) 392-393; Charbonnneaux, J., Sculpture grecque et romaine du Musée du Louvre (1963) 248 no. 3191.
+Datierung
+	Periode:	200 - 300 
+Epoche
+	Name:	3. Jh. n. Chr.
+	Periode:	200 - 300 
+	Sequenznummer:	3280
+Szene
+	ID:	46049
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/46049X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	210
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 3191
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

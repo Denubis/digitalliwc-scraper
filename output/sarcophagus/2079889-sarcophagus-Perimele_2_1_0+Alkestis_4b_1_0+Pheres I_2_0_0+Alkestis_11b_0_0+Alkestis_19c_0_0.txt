@@ -1,0 +1,71 @@
+http://ark.dasch.swiss/ark:/72163/080e-7427420a8f65a-3
+Perimele_2_1_0
+Alkestis_4b_1_0
+Pheres I_2_0_0
+Alkestis_11b_0_0
+Alkestis_19c_0_0
+
+
+
+Monument
+	ID:	9291
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	kline, bed
+	Name:	Admetos II Alkestis Perimele Pheres I
+	Beschreibung:	Admetos asking his old father Pheres (I) to die instead of him. On the left Alkestis listening who will later sacrifice herself instead of her husband. Alkestis on her deathbed, her daughter Perimele and her son kneeling at the bed. On the right Herakles returning with Alkestis.
+	Bibliographie:	SarkRel III 1 pl. 6 no. 23; Sichtermann/ Koch, MythSark no, 9 pl. 17, 1; Blome, P., Zur Umgestaltung griechischer Mythen in der römischen Sepulkralkunst, RM 85 (1978) pl. 142, 2.
+Datierung
+	Periode:	138 - 192 
+Epoche
+	Name:	antoninisch
+	Periode:	138 - 192 
+	Sequenznummer:	1210
+Szene
+	ID:	9494
+	Beschreibung:	Admetos asking his old father Pheres (I) to die instead of him. On the left Alkestis listening who will later sacrifice herself instead of her husband. Alkestis on her deathbed, her daughter Perimele and her son kneeling at the bed. On the right Herakles returning with Alkestis.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_albani/9494X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Perimele
+	Katalognummer:	2
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	4b
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Pheres I
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	11b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	19c
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	140
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Albani
+	Adresse:	Via della Conciliazione 30
+	Postleitzahl:	I-00193
+	Kontaktzenter:	Amministrazione Torlonia
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Phot. proprietà Principe Torlonia
+	Hat die Fotorechte:	0

@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-758b1d0ceefc1-8
+Eros/Amor, Cupido_216_0_0
+
+
+
+Monument
+	ID:	34399
+	Entdeckungsort:	Sousse (Hadrumetum)
+	Entdeckungsort Details:	hypogeum
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido
+	Monument-URL:	http://www.limc-france.fr/objet/3411
+Szene
+	ID:	36158
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	216
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	DZ
+	Stadt:	Alger
+	Name:	Musée National des Antiquités
+	Direktor:	Mme le Dr. Pascale Linant de Bellefonds
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-92023
+	Kontaktzenter:	Université Paris X - Nanterre Maison de l'Archéologie / Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Musée National des Antiquités Alger
+	Hat die Fotorechte:	1

@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-761881a2bd46b-a
+Aineias_114_1_0
+
+
+
+Monument
+	ID:	44369
+	Entdeckungsort:	Yükseklik
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	cista, kiste old man
+	Name:	Aineias Anchises
+	Beschreibung:	Fragment of a sarcophagus showing an older male figure holding a cist, the old man is carried by a young male figure; scene interpreted as Aineias carrying his father Anchises
+	Bibliographie:	Lawrence, M., MAAR 20, 1951, 152-153 fig. 41.
+Datierung
+	Periode:	175 - 200 
+Epoche
+	Name:	4. Viertel 2. Jh. n. Chr.
+	Periode:	175 - 200 
+	Sequenznummer:	3230
+Szene
+	ID:	46660
+	Beschreibung:	Fragment of a sarcophagus showing an older male figure holding a cist, the old man is carried by a young male figure; scene interpreted as Aineias carrying his father Anchises
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/turkey/ankara/musee_archeologique/46660X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Aineias
+	Katalognummer:	114
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	TR
+	Stadt:	Ankara
+	Name:	Musée Archéologique
+	Direktor:	Mme le Dr Pascale Linant de Bellefonds
+	Adresse:	21 Allée de l'Université
+	Postleitzahl:	F 92023
+	Kontaktzenter:	Università Paris X - Nanterre Maison de l'Archéologie / Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Archaeological Museum Ankara
+	Hat die Fotorechte:	1

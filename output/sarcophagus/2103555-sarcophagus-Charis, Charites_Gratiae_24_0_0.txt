@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-757999a6c5414-a
+Charis, Charites/Gratiae_24_0_0
+
+
+
+Monument
+	ID:	33156
+	Entdeckungsort:	Ostia
+	Entdeckungsort Details:	thermal baths
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Charis, Charites/Gratiae
+Szene
+	ID:	34825
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/museo_ostiense/34825X302.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Charis, Charites/Gratiae
+	Katalognummer:	24
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	632
+Museum
+	Land:	IT
+	Stadt:	Ostia
+	Name:	Museo Ostiense
+	Direktor:	Dott.ssa Elvira Angeloni
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Viale dei Romagnoli 717
+	Postleitzahl:	I-00119
+	Kontaktzenter:	Soprintendenza archeologica di Ostia
+	Stadt des Kontaktzenters:	Ostia Antica - Roma
+	Rechteinhaber der Fotos:	Archivio Fotografico della Soprintendenza Archeologica per i beni archeologici di Ostia
+	Hat die Fotorechte:	1

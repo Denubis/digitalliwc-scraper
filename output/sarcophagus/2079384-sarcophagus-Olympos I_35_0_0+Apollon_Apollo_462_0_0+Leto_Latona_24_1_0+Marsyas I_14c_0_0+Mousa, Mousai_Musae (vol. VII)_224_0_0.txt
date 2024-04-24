@@ -1,0 +1,77 @@
+http://ark.dasch.swiss/ark:/72163/080e-742009c8694bd-7
+Olympos I_35_0_0
+Apollon/Apollo_462_0_0
+Leto/Latona_24_1_0
+Marsyas I_14c_0_0
+Mousa, Mousai/Musae (vol. VII)_224_0_0
+
+
+
+Monument
+	ID:	8781
+	Entdeckungsort:	Sidon, Saida, Sdn, Sidonia, Sidone, Colonia Aurelia Pia Metropolis Sidon
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Stichwort:	throne knife mask torch pipe, flute, aulos, tibiae dog griffin river god Phrygian cap
+	Name:	Apollon/Apollo Athena Leto/Latona Marsyas I Melpomene Olympos I Mousa, Mousai
+	Beschreibung:	Rechts Latona (Chiton, Himation, Diadem), die rechte Hand an der Wange, zwischen Musen neben Apollo sitzend, ihren Kopf zu Melpomene (mit tragischer Maske) zurückgewendet. Latona und Apollo sind Pendants zu Kybele und Dionysos auf der linken Seite. Olympos (I) grieves for Marsyas: Olympos (I) raises handkerchief, either to his face or to Marsyas.
+	Bibliographie:	Poulsen, CatNyCarlsbergGlypt 549-551 Nr. 782SarkRel III 260 Taf. 68 Nr. 208Wegner, M., Musensarkophage (1966) 20, III 208 Taf. 143 c-d.
+Datierung
+	Periode:	138 - 192 
+Epoche
+	Name:	antoninisch
+	Periode:	138 - 192 
+	Sequenznummer:	1210
+Szene
+	ID:	8981
+	Beschreibung:	Rechts Latona (Chiton, Himation, Diadem), die rechte Hand an der Wange, zwischen Musen neben Apollo sitzend, ihren Kopf zu Melpomene (mit tragischer Maske) zurückgewendet. Latona und Apollo sind Pendants zu Kybele und Dionysos auf der linken Seite. Olympos (I) grieves for Marsyas: Olympos (I) raises handkerchief, either to his face or to Marsyas.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/denmark/copenhague/glyptotheque_ny_carlsberg/8981X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/denmark/copenhague/glyptotheque_ny_carlsberg/8981X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Olympos I
+	Katalognummer:	35
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	462
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Leto/Latona
+	Katalognummer:	24
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Marsyas I
+	Katalognummer:	14c
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	224
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	844
+Museum
+	Land:	DK
+	Stadt:	Copenhague
+	Name:	Glyptothèque Ny Carlsberg
+	Direktor:	Curator Claus Grønne
+	Anrede:	Dear Curator,
+	Adresse:	Dantes Pl. 7
+	Postleitzahl:	DK-1556
+	Kontaktzenter:	Archives and Library. Glyptothèque Ny Carlsberg
+	Stadt des Kontaktzenters:	Copenhague V
+	Rechteinhaber der Fotos:	© Ny Carlsberg Glyptothek
+	Hat die Fotorechte:	1

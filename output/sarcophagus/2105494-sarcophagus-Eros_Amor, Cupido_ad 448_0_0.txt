@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-7595523b50733-1
+Eros/Amor, Cupido_ad 448_0_0
+
+
+
+Monument
+	ID:	35117
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido
+Szene
+	ID:	36938
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 448
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	925.13.108
+Museum
+	Land:	CA
+	Stadt:	Toronto
+	Name:	Royal Ontario Museum
+	Direktor:	Director William Thorsell 
+	Adresse:	100 Queen's Park 
+	Kontaktzenter:	Royal Ontario Museum
+	Stadt des Kontaktzenters:	Toronto, Ontario M5S 2C6 Canada
+	Rechteinhaber der Fotos:	© Royal Ontario Museum
+	Hat die Fotorechte:	0

@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-7650d5b60a05f-1
+
+
+
+Monument
+	ID:	51638
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	House of L. Caecilius Secundus
+	Objekt:	relief
+	Land:	CH
+	Kategorie:	relief
+	Beschreibung:	Forum of Pompeji with representation of a bull sacrifice
+	Bibliographie:	Mau, A., Pompeji in Leben und Kunst (1900) 56 ss.; Eschbach, H., Pompeji (1978) fig. 33.
+Szene
+	ID:	56818
+	Beschreibung:	Darstellung des Forums von Pompeji mit sehr einfacher und verkürzter Darstellungsweise eines Stieropfers, das der Opferschlächter (popa) mit dem Opferbeil (dolabra) vollzieht. Das Opfermesser (secespita), mit dem die Eingeweide (exta) zerteilt wurden, und der Eimer (olla) zur Aufnahme der Eingeweide deuten auf das im Anschluss stattfindende Zubereiten der exta hin. Das dem Stieropfer vorausgegangene Voropfer (praefatio/libatio) wird durch die Kanne (urceus) mit dem reinigenden Wasser sowie durch die Griffschale (polybrum) zum Auffangen des Wassers bei der rituellen Handwaschung angedeutet.
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	30
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 2.a. Opfer, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	220
+	Bandnummer:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Antiquarium
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via villa dei Misteri 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei (NA)
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

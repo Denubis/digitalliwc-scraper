@@ -1,0 +1,30 @@
+http://ark.dasch.swiss/ark:/72163/080e-73f5e801729ee-1
+Venus_319_0_0
+
+
+
+Monument
+	ID:	5808
+	Entdeckungsort:	Rome
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Venus
+	Beschreibung:	Venus sitting on an island in the sea. Next to her Bacchus and a female person. Amores.
+Szene
+	ID:	5911
+	Beschreibung:	Venus sitting on an island in the sea. Next to her Bacchus and a female person. Amores.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Venus
+	Katalognummer:	319
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Santi Giovanni e Paolo, Scavi
+	Rechteinhaber der Fotos:	© Soprindentenza SPSAE e Polo Museale della Città di Roma
+	Hat die Fotorechte:	0

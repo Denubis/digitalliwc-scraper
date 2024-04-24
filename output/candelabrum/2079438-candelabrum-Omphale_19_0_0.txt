@@ -1,0 +1,49 @@
+http://ark.dasch.swiss/ark:/72163/080e-7420cf6b1cc4b-3
+Omphale_19_0_0
+
+
+
+Monument
+	ID:	8835
+	Entdeckungsort:	Pompei
+	Objekt:	candelabrum
+	Material:	bronze
+	Land:	CH
+	Kategorie:	sculpture in the round of metal
+	Name:	Omphale
+	Beschreibung:	Addorsed heads on a herm. Herakles and Omphale.
+Szene
+	ID:	9037
+	Beschreibung:	Addorsed heads on a herm. Herakles and Omphale.
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/9037X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/9037X303.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/9037X399.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Omphale
+	Katalognummer:	19
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	61 (?)
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

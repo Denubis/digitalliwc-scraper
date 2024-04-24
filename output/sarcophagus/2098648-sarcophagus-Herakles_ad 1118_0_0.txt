@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-7533726f8bcfd-4
+Herakles_ad 1118_0_0
+
+
+
+Monument
+	ID:	28210
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Herakles
+	Beschreibung:	Herm of Herakles.
+Szene
+	ID:	29615
+	Beschreibung:	Herm of Herakles.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	ad 1118
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	708
+Museum
+	Land:	GR
+	Stadt:	Sparte
+	Name:	Musée Archéologique
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Anrede:	Dear Director,
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athènes
+	Rechteinhaber der Fotos:	© Archaeological Museum of Sparta
+	Hat die Fotorechte:	0

@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-73ea9559d5076-4
+Tritones (in Etruria)_47_0_0
+
+
+
+Monument
+	ID:	5010
+	Entdeckungsort:	Tuscania, Tuscana
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Tritones
+Szene
+	ID:	5099
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Tritones (in Etruria)
+	Katalognummer:	47
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Tuscania
+	Rechteinhaber der Fotos:	© Tuscania
+	Hat die Fotorechte:	1

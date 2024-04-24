@@ -1,0 +1,48 @@
+http://ark.dasch.swiss/ark:/72163/080e-746c35d2ea8cd-9
+Marsyas I_13_0_1
+Mousa, Mousai/Musae (vol. VII)_82_0_0
+
+
+
+Monument
+	ID:	14157
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	V 2,9-12
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Marsyas I Mousa, Mousai
+	Beschreibung:	The panel contains three episodes from the myth of Marsyas (I): Marsyas (I) on a high cliff sees Athena below. Marsyas (I) stealing the flutes. Marsyas (I) fluting.
+Szene
+	ID:	14564
+	Beschreibung:	The panel contains three episodes from the myth of Marsyas (I): Marsyas (I) on a high cliff sees Athena below. Marsyas (I) stealing the flutes. Marsyas (I) fluting.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/14564X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Marsyas I
+	Katalognummer:	13
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	82
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	120626
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

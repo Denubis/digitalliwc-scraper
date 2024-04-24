@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-75336ec69b738-5
+Herakles_1118_1_0
+
+
+
+Monument
+	ID:	28209
+	Entdeckungsort:	Delphi, Delphoi  (Phokis)
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Herakles
+	Beschreibung:	Rear side: a herm of Herakles at each end, no club.
+Szene
+	ID:	29614
+	Beschreibung:	Rear side: a herm of Herakles at each end, no club.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/delphi/archaeological_museum/29614X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	1118
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	GR
+	Stadt:	Delphi
+	Name:	Archaeological Museum
+	Direktor:	Dir. Prof. Dominique Mulliez
+	Anrede:	Monsieur le Directeur,
+	Adresse:	6, rue Didotou
+	Postleitzahl:	GR-106 80
+	Kontaktzenter:	Ecole Française d'Athènes
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Archaeological Museum of Delphi
+	Hat die Fotorechte:	1

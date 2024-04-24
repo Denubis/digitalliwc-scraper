@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e151b96b5ce-6
+Oineus I (S)_46_0_0
+
+
+
+Monument
+	ID:	4358
+	Entdeckungsort:	Ercolano, Herculaneum, Herculanum
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Oineus I
+	Beschreibung:	Oineus, Meleagros and Atalante after the Kalydonian Boar hunt.
+Szene
+	ID:	4410
+	Beschreibung:	Oineus, Meleagros and Atalante after the Kalydonian Boar hunt.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Oineus I (S)
+	Katalognummer:	46
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

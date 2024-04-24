@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e6406557c4b-8
+Vulcanus_42_0_0
+
+
+
+Monument
+	ID:	4705
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Vulcanus
+	Beschreibung:	18 medallion-busts with Planetae and personifications of the months. Saturnus with Sol and Luna. Vulcanus.
+Szene
+	ID:	4775
+	Beschreibung:	18 medallion-busts with Planetae and personifications of the months. Saturnus with Sol and Luna. Vulcanus.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/4775X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Vulcanus
+	Katalognummer:	42
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9520
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

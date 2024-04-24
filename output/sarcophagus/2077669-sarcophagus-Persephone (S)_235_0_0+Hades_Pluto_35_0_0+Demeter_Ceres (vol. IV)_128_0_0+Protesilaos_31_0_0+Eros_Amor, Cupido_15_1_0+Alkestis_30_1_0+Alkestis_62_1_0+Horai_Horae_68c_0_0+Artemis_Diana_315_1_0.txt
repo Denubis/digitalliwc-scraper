@@ -1,0 +1,159 @@
+http://ark.dasch.swiss/ark:/72163/080e-740785062edfe-c
+Persephone (S)_235_0_0
+Hades/Pluto_35_0_0
+Demeter/Ceres (vol. IV)_128_0_0
+Protesilaos_31_0_0
+Eros/Amor, Cupido_15_1_0
+Alkestis_30_1_0
+Alkestis_62_1_0
+Horai/Horae_68c_0_0
+Artemis/Diana_315_1_0
+
+
+
+Monument
+	ID:	7051
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	club fire (on altar) skin winged figure altar: round altar
+	Name:	Alkestis Artemis/Diana Athena/Minerva Demeter Demeter/Ceres Eros/Amor, Cupido Hades/Pluto Horai/Horae Hermes/Mercurius Persephone Protesilaos Aphrodite/Venus
+	Beschreibung:	Representation of the rape of Proserpina. In the corners winged Horae with hitched up garments. Ceres on a chariot drawn by two serpents, in her left a torch. Diana (?) steht frontal zwischen Minerva und Venus, trägt jedoch keinen Köcher. Vor ihr ein Rundaltar (auf Basis mit Deckplatte), auf dem ein Feuer brennt.
+	Bibliographie:	SarkRel III 3 Nr. 372; Mansuelli, G., Galleria degli Uffizi. Le sculture (1958) 238-239 no. 257 fig. 257; Bartoccini, R., Il sarcofago di Velletri, RivArch N. S. 7 (1958) 161-162 fig. 42; Andreae, B., Studien zur römischen Grabkunst RM 9. Ergh. (1963) 37 no. 9; Sichtermann/Koch, MythSark Nr. 60 Taf. 147-148, 2; 151, 1; Lindner, R., Der Raub der Persephone in der antiken Kunst (1984) 77 Nr.94.
+Datierung
+	Periode:	170 - 180 
+Epoche
+	Name:	antoninisch
+	Periode:	138 - 192 
+	Sequenznummer:	1210
+Szene
+	ID:	7197
+	Beschreibung:	Representation of the rape of Proserpina. In the corners winged Horae with hitched up garments. Ceres on a chariot drawn by two serpents, in her left a torch. Diana (?) steht frontal zwischen Minerva und Venus, trägt jedoch keinen Köcher. Vor ihr ein Rundaltar (auf Basis mit Deckplatte), auf dem ein Feuer brennt.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/7197X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/7197X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/7197X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/7197X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/7197X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/7197X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/7197X103.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/7197X104.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/7197X105.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/7197X106.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/7197X107.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/7197X109.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/7197X111.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/7197X112.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/7197X214.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/7197X286.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/7197X287.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/7197X288.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/7197X289.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/7197X290.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Persephone (S)
+	Katalognummer:	235
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	35
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Demeter/Ceres (vol. IV)
+	Katalognummer:	128
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Protesilaos
+	Katalognummer:	31
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	15
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	30
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	62
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	68c
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	315
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	86
+Museum
+	Land:	IT
+	Stadt:	Firenze
+	Name:	Galleria degli Uffizi
+	Adresse:	Via della Ninna 5
+	Postleitzahl:	I-50122
+	Kontaktzenter:	Soprintendenza Speciale per il Polo Museale Fiorentino
+	Stadt des Kontaktzenters:	Firenze
+	Rechteinhaber der Fotos:	Su concessione del Ministero dei beni e delle attività culturali e del turismo
+	Hat die Fotorechte:	1

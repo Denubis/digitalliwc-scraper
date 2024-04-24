@@ -1,0 +1,49 @@
+http://ark.dasch.swiss/ark:/72163/080e-73c17ebf68ad4-f
+Iordanes (S)_3_1_0
+Phoinix III (S)_30_1_0
+
+
+
+Monument
+	ID:	2122
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	necropolis
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Iordanes Phoinix III
+	Beschreibung:	Ascension of Elias: Below Elias in his quadriga the river-god Iordanus reclining to the left. Minor side: Phoinix (III) on a palm tree, to the right.
+Datierung
+	Periode:	380 - 400 
+Szene
+	ID:	2134
+	Beschreibung:	Ascension of Elias: Below Elias in his quadriga the river-god Iordanus reclining to the left. Minor side: Phoinix (III) on a palm tree, to the right.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/basilica_san_pietro/2134X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/basilica_san_pietro/2134X002.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Iordanes (S)
+	Katalognummer:	3
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Phoinix III (S)
+	Katalognummer:	30
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	VA
+	Stadt:	Vaticano
+	Name:	Basilica San Pietro
+	Rechteinhaber der Fotos:	© Vaticano
+	Hat die Fotorechte:	1

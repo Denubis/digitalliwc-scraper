@@ -1,0 +1,30 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d6ecf6d535b-8
+Kentauroi et Kentaurides (S)_424_0_1
+
+
+
+Monument
+	ID:	3628
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kentauroi and Kentaurides
+	Beschreibung:	Wounded centaur, attacking centaur, Herakles, dead centaurs.
+Szene
+	ID:	3665
+	Beschreibung:	Wounded centaur, attacking centaur, Herakles, dead centaurs.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	424
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Salviati
+	Rechteinhaber der Fotos:	© Palazzo Salviati, Roma
+	Hat die Fotorechte:	1

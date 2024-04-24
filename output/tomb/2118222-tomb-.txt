@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-764b49a9be1cb-a
+
+
+
+Monument
+	ID:	51222
+	Entdeckungsort:	Pompei
+	Objekt:	tomb
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Banquette of lovers under a velarium
+	Bibliographie:	Rizzo, G. E., La pittura ellenistico-romana (1929) tav. 141, 2.
+Szene
+	ID:	56395
+	Beschreibung:	Banquette of lovers under a velarium
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	1
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 4.a. Bankett, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	1430
+	Bandnummer:	2
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9193
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

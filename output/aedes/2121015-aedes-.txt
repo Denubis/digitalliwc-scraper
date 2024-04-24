@@ -1,0 +1,51 @@
+http://ark.dasch.swiss/ark:/72163/080e-767337d01d418-4
+
+
+
+Monument
+	ID:	54206
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	temple
+	Objekt:	aedes
+	Land:	CH
+	Kategorie:	cultual installations
+	Beschreibung:	Sanctuary of the Public Lares, temple (Roman-imperial sacred building)
+Szene
+	ID:	59632
+	Beschreibung:	Sanctuary of the Public Lares, temple (Roman-imperial sacred building)
+Catalog Thes CRA
+	Indexnummer:	10
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Aedes, Rom. imp.
+	Lemata:	Aedes, Rom. imp.
+	Sequenznummer:	3250
+	Bandnummer:	4
+Catalog Thes CRA
+	Indexnummer:	11
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Augusteum
+	Lemata:	Augusteum
+	Sequenznummer:	3360
+	Bandnummer:	4
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Santuario dei Lari Pubblici
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Foro
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e7c0afeda18-7
+Latmos (S)_7_1_0
+Endymion_59_0_0
+
+
+
+Monument
+	ID:	4811
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Endymion Latmos
+	Beschreibung:	To the right of the sleeping Endymion is Latmos, holding cornucopia and branch. He looks back at Endymion.
+Datierung
+	Periode:	170 - 200 
+Szene
+	ID:	4897
+	Beschreibung:	To the right of the sleeping Endymion is Latmos, holding cornucopia and branch. He looks back at Endymion.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_rospigliosi_pallavicini/4897X002.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Latmos (S)
+	Katalognummer:	7
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	59
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel XII 2, 59
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Rospigliosi Pallavicini
+	Rechteinhaber der Fotos:	© Palazzo Rospigliosi Pallavicini, Roma
+	Hat die Fotorechte:	1

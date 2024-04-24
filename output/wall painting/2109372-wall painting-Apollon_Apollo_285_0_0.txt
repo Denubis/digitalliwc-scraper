@@ -1,0 +1,26 @@
+http://ark.dasch.swiss/ark:/72163/080e-75ccc36466d71-0
+Apollon/Apollo_285_0_0
+
+
+
+Monument
+	ID:	39023
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+Szene
+	ID:	41564
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	285
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Terme di Costantino (già)
+	Rechteinhaber der Fotos:	© Roma
+	Hat die Fotorechte:	1

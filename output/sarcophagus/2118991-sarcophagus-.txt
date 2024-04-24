@@ -1,0 +1,27 @@
+http://ark.dasch.swiss/ark:/72163/080e-76564823c3690-e
+
+
+
+Monument
+	ID:	52057
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	relief
+	Bibliographie:	Maggiani, A., Secondo congresso internazionale etrusco, Atti III (1989) 1560-1561 tav. II b-c.
+Szene
+	ID:	57295
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Museo Nazionale di Tarquinia
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

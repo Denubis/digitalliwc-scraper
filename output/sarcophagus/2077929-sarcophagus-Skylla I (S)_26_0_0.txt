@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-740b3c9a4ca12-0
+Skylla I (S)_26_0_0
+
+
+
+Monument
+	ID:	7313
+	Entdeckungsort:	Carthage
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Skylla I
+	Monument-URL:	http://www.limc-france.fr/objet/1056
+Szene
+	ID:	7462
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Skylla I (S)
+	Katalognummer:	26
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	898.138
+Museum
+	Land:	TN
+	Stadt:	Carthage
+	Name:	Musée de Carthage
+	Direktor:	M. le Dr. Fathi Bejaoui
+	Adresse:	4, Place du Château
+	Postleitzahl:	TN-1008
+	Kontaktzenter:	Directeur de la Division de l'Inventaire Général et de la Recherche - Institut National du Patrimoine
+	Stadt des Kontaktzenters:	Tunis
+	Rechteinhaber der Fotos:	© Institut National du Patrimoine, Tunis
+	Hat die Fotorechte:	1

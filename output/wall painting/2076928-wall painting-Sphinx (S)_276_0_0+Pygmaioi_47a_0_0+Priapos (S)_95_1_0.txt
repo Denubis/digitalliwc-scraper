@@ -1,0 +1,67 @@
+http://ark.dasch.swiss/ark:/72163/080e-73fced0673ac5-2
+Sphinx (S)_276_0_0
+Pygmaioi_47a_0_0
+Priapos (S)_95_1_0
+
+
+
+Monument
+	ID:	6306
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	altar herm naiskos, aedicula sacral-idyllic landscape
+	Name:	Priapos Sphinx (Thebana) Pygmaioi
+	Beschreibung:	Crouching female Sphinx carrying a water basin. Idol of Priapos on a high base close to a lake. Two women.
+	Bibliographie:	Michel, D., Casa dei Cei, Häuser in Pompeji 3 (1990).
+Szene
+	ID:	8480
+	Beschreibung:	Crouching female Sphinx carrying a water basin.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Sphinx (S)
+	Katalognummer:	276
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Pygmaioi
+	Katalognummer:	47a
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	55066
+	Szenerieangabe:	viridarium h, parete est
+	Beschreibung:	Sakrallandschaft mit kleinen Tempeln, Altar, Gewässer mit Schiff usw. und Priaposidol (Oberkörperherme) auf hohem Sockel mit zwei Frauen.
+	Bibliographie:	Michel a.O. 58. 85 Abb. 265. 274. 277. 279. 280;PompPittMos I (1990) 476-480 Abb. 105-109.
+	Sequenznummer:	1
+Datierung
+	Periode:	69 - 79 
+Epoche
+	Name:	vespasianisch
+	Periode:	69 - 79 
+	Sequenznummer:	1185
+Catalog LIMC
+	Artikel:	Priapos (S)
+	Katalognummer:	95
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	I 6,15
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa dei Cei

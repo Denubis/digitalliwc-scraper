@@ -1,0 +1,79 @@
+http://ark.dasch.swiss/ark:/72163/080e-7406d9020ded3-f
+Persephone (S)_213_0_0
+Demeter (vol. IV)_122_0_0
+Hades_104_1_0
+Okeanides_3_0_0
+Moirai_27_1_0
+Hermes_440_0_0
+
+
+
+Monument
+	ID:	7003
+	Entdeckungsort:	Vergina (Macedonia)
+	Entdeckungsort Details:	Tomb 1
+	Objekt:	wall painting
+	Herkunft:	Greek
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Okeanides Demeter Hades Hermes Persephone Moirai
+	Beschreibung:	Behind a chariot a figure is kneeling, right hand raised, searching for Persephone. Kyane or a daughter of Okeanos? Mourning Demeter, veiled and seated on a rock.
+	Bibliographie:	Andronikos, M., Vergina II. The Tomb of Persephone (1994); Kottaridi, A., L'épiphanie des dieux des Enfers dans la nécropolie royale d'Aigai, in: Deschamps-Lequime, S. (ed.), Peinture et couleur dans le monde grec antique (2007) 27-45 fig. 1-11; Brécoulaki, H., La peinture funéraire de Macédoine. Emplois et fonctions de la couleur. IVe-IIe s. av. J.-C. (2006) 77-100 pl. 11-25.
+Szene
+	ID:	7150
+	Beschreibung:	Behind a chariot a figure is kneeling, right hand raised, searching for Persephone. Kyane or a daughter of Okeanos? Mourning Demeter, veiled and seated on a rock.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/vergina/tombe_i/7150X202.jpg
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	77
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VI. 1.e. Tod, gr.
+	Bandnummer:	6
+Catalog LIMC
+	Artikel:	Persephone (S)
+	Katalognummer:	213
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Demeter (vol. IV)
+	Katalognummer:	122
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hades
+	Katalognummer:	104
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Okeanides
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Moirai
+	Katalognummer:	27
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hermes
+	Katalognummer:	440
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	GR
+	Stadt:	Vergina
+	Name:	Tombe I
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Vergina
+	Hat die Fotorechte:	0

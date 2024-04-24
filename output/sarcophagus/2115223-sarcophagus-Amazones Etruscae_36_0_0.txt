@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-76206991f4af8-1
+Amazones Etruscae_36_0_0
+
+
+
+Monument
+	ID:	44926
+	Entdeckungsort:	Tarquinia
+	Objekt:	sarcophagus
+	Material:	nenfro
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	shield axe, hatchet, pelekys, sacena, securis bow horse arrow warrior, soldier Amazon Phrygian cap fight, battle
+	Name:	Amazones
+	Bibliographie:	MonInst II (1834-1838) Taf. 58; Herbig, EtrSark 62 no. 119 Taf. 28a.
+Datierung
+	Periode:	-310 - -300 
+Epoche
+	Name:	Ende 4. Jh. v. Chr.
+	Periode:	-310 - -300 
+	Sequenznummer:	2460
+Szene
+	ID:	47273
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Amazones Etruscae
+	Katalognummer:	36
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9872
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Museo Nazionale di Tarquinia
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

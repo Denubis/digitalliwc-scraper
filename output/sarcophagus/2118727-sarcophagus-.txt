@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-765281ebe4368-2
+
+
+
+Monument
+	ID:	51762
+	Entdeckungsort:	Musarna (S. Caterina, Viterbo)
+	Entdeckungsort Details:	Tomb II of the Alethna
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	relief
+	Beschreibung:	Scene showing a procession to the left: eight male figures wearing tunic and mantle, magistrate on a biga, in the background behind the horses a winged demon looking back, two servants, one carrying a writing tablet, the other a suppedaneum (?) (processus magistraturalis)
+	Bibliographie:	Herbig, R., Die jüngeretruskischen Steinsarkophagen (1952) n. 112 tav.  70b.
+Szene
+	ID:	56979
+	Beschreibung:	Scene showing a procession to the left: eight male figures wearing tunic and mantle, magistrate on a biga, in the background behind the horses a winged demon looking back, two servants, one carrying a writing tablet, the other a suppedaneum (?) (processus magistraturalis)
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	78
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 1. Prozessionen, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	90
+	Bandnummer:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1415
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Museo Nazionale di Tarquinia
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

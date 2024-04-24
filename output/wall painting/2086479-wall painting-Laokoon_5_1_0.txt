@@ -1,0 +1,61 @@
+http://ark.dasch.swiss/ark:/72163/080e-748578e5f7b90-4
+Laokoon_5_1_0
+
+
+
+Monument
+	ID:	15936
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 14,28.33 (House of Laocoon)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	altar phiale, phiale mesomphalos, patera oinochoe garland bull sacrificial animal altar with protection against wind altar: monolithic block
+	Name:	Laokoon
+	Beschreibung:	Das durch die Schlangen gestörte Opfer des Laokoon: Altar mit Girlanden, Stufen, Opferutensilien (Oinochoe, Phialen), wegspringender Stier; vier Zuschauer hinter dem Altarbau (Opferdiener?). R. girlandengeschmückter Altar in Übereckansicht. Es handelt sich um einen rechteckigen, monolithen Altar mit einem halbkugeligen Schutzdach nach Art eines Bäckerofens.
+	Bibliographie:	Schefold, WP 135; CollNapoli (1986) 134 Nr. 84 Abb. 84; PompPittMos V (1994) 352-355, 15-17.
+	Kommentar:	Fragment
+Datierung
+	Periode:	40 - 60 
+	Kommentar:	spät
+Epoche
+	Name:	3. pompejanischer Stil
+	Periode:	-15 - 63 
+	Sequenznummer:	1340
+Szene
+	ID:	16519
+	Beschreibung:	Das durch die Schlangen gestörte Opfer des Laokoon: Altar mit Girlanden, Stufen, Opferutensilien (Oinochoe, Phialen), wegspringender Stier; vier Zuschauer hinter dem Altarbau (Opferdiener?). R. girlandengeschmückter Altar in Übereckansicht. Es handelt sich um einen rechteckigen, monolithen Altar mit einem halbkugeligen Schutzdach nach Art eines Bäckerofens.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/16519X001.jpg
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	64
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	IV. 1.b. Kultorte (Darstellungen)
+	Sequenznummer:	4500
+	Bandnummer:	4
+Catalog LIMC
+	Artikel:	Laokoon
+	Katalognummer:	5
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	111210
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

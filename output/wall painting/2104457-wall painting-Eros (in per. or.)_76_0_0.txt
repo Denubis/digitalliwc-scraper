@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-75867ee5aa832-b
+Eros (in per. or.)_76_0_0
+
+
+
+Monument
+	ID:	34068
+	Entdeckungsort:	Doura-Europos
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Eros
+	Monument-URL:	http://www.limc-france.fr/objet/10483
+Szene
+	ID:	35822
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Eros (in per. or.)
+	Katalognummer:	76
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	3692
+Museum
+	Land:	SY
+	Stadt:	Damas
+	Name:	Musée National
+	Kontaktzenter:	Musée National
+	Stadt des Kontaktzenters:	Damas
+	Rechteinhaber der Fotos:	© Musée National Damas
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	8439

@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-751ae2b2804ef-d
+Gorgones Romanae_157_1_0
+Eros/Amor, Cupido_544_0_0
+
+
+
+Monument
+	ID:	26480
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Via Salaria
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Gorgo, Gorgones Eros/Amor, Cupido
+	Beschreibung:	Gorgoneia in shields, around them Victoria, Erotes etc.
+	Museums-URL:	https://art.thewalters.org/detail/25710/sarcophagus-with-victories/ 
+Szene
+	ID:	27813
+	Beschreibung:	Gorgoneia in shields, around them Victoria, Erotes etc. For additional images see Walters Art Museum: http://art.thewalters.org/detail/25710/sarcophagus-with-victories/.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/baltimore/walters_art_museum/27813X002.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Gorgones Romanae
+	Katalognummer:	157
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	544
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	23.36
+Museum
+	Land:	US
+	Stadt:	Baltimore
+	Name:	Walters Art Museum
+	Direktor:	Mrs. Kate Lau
+	Adresse:	600 North Charles Street
+	Postleitzahl:	USA-
+	Kontaktzenter:	Walters Art Museum - Photo Services
+	Stadt des Kontaktzenters:	Baltimore MD 21201-5185
+	Rechteinhaber der Fotos:	© Walters Art Museum, Baltimore
+	Kommentar:	Vorher Walters Art Gallery. Neuer Name vor 2003. Eingetragen 15.9.06.
+	Hat die Fotorechte:	1

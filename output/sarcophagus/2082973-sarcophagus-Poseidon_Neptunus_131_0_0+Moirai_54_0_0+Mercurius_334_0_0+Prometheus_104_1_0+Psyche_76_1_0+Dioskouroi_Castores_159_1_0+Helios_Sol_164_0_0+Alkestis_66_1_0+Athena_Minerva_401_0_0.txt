@@ -1,0 +1,106 @@
+http://ark.dasch.swiss/ark:/72163/080e-7453593a27796-a
+Poseidon/Neptunus_131_0_0
+Moirai_54_0_0
+Mercurius_334_0_0
+Prometheus_104_1_0
+Psyche_76_1_0
+Dioskouroi/Castores_159_1_0
+Helios/Sol_164_0_0
+Alkestis_66_1_0
+Athena/Minerva_401_0_0
+
+
+
+Monument
+	ID:	12405
+	Entdeckungsort:	Arles, Arelate
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	helmet pillar child trident winged figure
+	Name:	Alkestis Athena/Minerva Dioskouroi/Castores Helios/Sol Hermes/Mercurius Moirai Poseidon/Neptunus Prometheus Psyche Mercurius
+	Beschreibung:	Sarcophagus, all to the left Minerva putting her hand on Prometheus' shoulder, the latter forming a figurine; to the right Psyche/Alkestis, Mercurius, the Moirai, Neptunus, Luna. In the left upper corner Sol and in front of him Lucifer.
+	Bibliographie:	Sichtermann, H, Zwei Darstellungen des Hermes als Sellenführer, RM 77 (1970) pl. 53, 1.
+Datierung
+	Periode:	200 - 210 
+Epoche
+	Name:	Anfang 3. Jh. n. Chr.
+	Periode:	200 - 210 
+	Sequenznummer:	3290
+Szene
+	ID:	12705
+	Beschreibung:	Sarcophagus, all to the left Minerva putting her hand on Prometheus' shoulder, the latter forming a figurine; to the right Psyche/Alkestis, Mercurius, the Moirai, Neptunus, Luna. In the left upper corner Sol and in front of him Lucifer.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/12705X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/12705X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/12705X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/12705X206.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/12705X208.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Poseidon/Neptunus
+	Katalognummer:	131
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Moirai
+	Katalognummer:	54
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	334
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Prometheus
+	Katalognummer:	104
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	76
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dioskouroi/Castores
+	Katalognummer:	159
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	164
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	66
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	401
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 339
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

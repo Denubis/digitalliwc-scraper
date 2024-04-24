@@ -1,0 +1,65 @@
+http://ark.dasch.swiss/ark:/72163/080e-7430aded4d079-7
+Perseus_204b_0_0
+Andromeda I_67_1_0
+Echo_7a_0_0
+
+
+
+Monument
+	ID:	9962
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 10,2
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	ketos, sea monster
+	Name:	Andromeda I Perseus
+	Beschreibung:	Perseus and Andromeda. On the left on a rock two nymphs, one of them probably Echo.
+	Bibliographie:	Helbig, Wandgemälde no. 1188; Schefold, WP 123; Pfuhl, MuZ Abb. 647.
+Datierung
+	Periode:	-15 - 63 
+Epoche
+	Name:	3. pompejanischer Stil
+	Periode:	-15 - 63 
+	Sequenznummer:	1340
+Datierung
+	Periode:	69 - 79 
+Epoche
+	Name:	vespasianisch
+	Periode:	69 - 79 
+	Sequenznummer:	1185
+Szene
+	ID:	10176
+	Beschreibung:	Perseus and Andromeda. On the left on a rock two nymphs, one of them probably Echo.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Perseus
+	Katalognummer:	204b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Andromeda I
+	Katalognummer:	67
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Echo
+	Katalognummer:	7a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8993
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

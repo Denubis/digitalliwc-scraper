@@ -1,0 +1,51 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d748764e398-d
+Venus_353_1_0
+
+
+
+Monument
+	ID:	3653
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 16,7.38 (Casa degli Amorini dorati)
+	Objekt:	relief
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	incense thymiaterion, turibulum, incense-burner cave incense box, libanotis, acerra
+	Name:	Aphrodite/Venus Venus
+	Beschreibung:	In grottenförmiger Nische: Venus Pompeiana mit Amor. Sie legt Weihrauch in ein Thymiaterion, das links neben ihr steht (in ihrer Linken Weihrauchbüchse?).
+	Bibliographie:	Seiler, F., Casa degli Amorini dorati, Häuser in Pompeji 5 (1992) 120 Kat. 38 Abb. 614;PompPittMos V (1994) 770-771, 104-105 (Zustand in situ).
+	Kommentar:	Neg. DAI Rom 38.23; Neg. DAI Berlin 832080.
+Datierung
+	Periode:	-100 - -1 
+Epoche
+	Name:	1. Jh. v. Chr.
+	Periode:	-100 - -1 
+	Sequenznummer:	2850
+Szene
+	ID:	3690
+	Beschreibung:	Venus with Amor.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/antiquarium/3690X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Venus
+	Katalognummer:	353
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	20469
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Antiquarium
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via villa dei Misteri 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei (NA)
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

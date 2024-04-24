@@ -1,0 +1,31 @@
+http://ark.dasch.swiss/ark:/72163/080e-75871c460a049-2
+Eros (in per. or.)_113_1_0
+
+
+
+Monument
+	ID:	34111
+	Objekt:	sarcophagus
+	Material:	basalt
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros
+	Monument-URL:	http://www.limc-france.fr/objet/10195
+Szene
+	ID:	35865
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Eros (in per. or.)
+	Katalognummer:	113
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	JO
+	Stadt:	Amman
+	Name:	Musée Archéologique de Jordanie
+	Kontaktzenter:	Musée Archéologique de Jordanie
+	Stadt des Kontaktzenters:	Amman
+	Rechteinhaber der Fotos:	© Musée Archéologique de Jordanie
+	Hat die Fotorechte:	1

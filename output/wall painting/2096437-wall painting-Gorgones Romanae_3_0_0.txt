@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-7513d65b9e88e-5
+Gorgones Romanae_3_0_0
+
+
+
+Monument
+	ID:	25981
+	Entdeckungsort:	Castellammare di Stabia
+	Entdeckungsort Details:	Villa di San Marco
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Gorgo, Gorgones
+	Beschreibung:	On the ceiling: Gorgoneion.
+Szene
+	ID:	27281
+	Beschreibung:	On the ceiling: Gorgoneion.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Gorgones Romanae
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Castellammare di Stabia
+	Name:	Antiquarium Stabiano
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

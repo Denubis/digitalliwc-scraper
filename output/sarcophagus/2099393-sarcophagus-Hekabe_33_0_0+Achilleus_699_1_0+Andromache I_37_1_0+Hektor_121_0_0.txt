@@ -1,0 +1,63 @@
+http://ark.dasch.swiss/ark:/72163/080e-753e19130874a-4
+Hekabe_33_0_0
+Achilleus_699_1_0
+Andromache I_37_1_0
+Hektor_121_0_0
+
+
+
+Monument
+	ID:	28960
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	helmet vessel gesture of lamentation, of mourning servant wall, Town wall Phrygian cap corpse
+	Name:	Achilleus Andromache I Astyanax I Hektor Odysseus Priamos Hekabe
+	Bibliographie:	SarkRel II Nr. 57.
+Szene
+	ID:	30376
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/30376X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/30376X301.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hekabe
+	Katalognummer:	33
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	699
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Andromache I
+	Katalognummer:	37
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hektor
+	Katalognummer:	121
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 353
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

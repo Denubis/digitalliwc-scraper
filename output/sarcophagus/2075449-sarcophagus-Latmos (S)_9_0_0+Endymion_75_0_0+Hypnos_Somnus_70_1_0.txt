@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e7c801ce5a2-4
+Latmos (S)_9_0_0
+Endymion_75_0_0
+Hypnos/Somnus_70_1_0
+
+
+
+Monument
+	ID:	4813
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Endymion Hypnos/Somnus Latmos
+	Beschreibung:	Latmos and a nymph. Between them a tree.
+Szene
+	ID:	4899
+	Beschreibung:	Latmos and a nymph. Between them a tree.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Latmos (S)
+	Katalognummer:	9
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	75
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	70
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel XII 2, 75
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Giustiniani
+	Rechteinhaber der Fotos:	© Palazzo Giustiniani, Roma
+	Hat die Fotorechte:	1

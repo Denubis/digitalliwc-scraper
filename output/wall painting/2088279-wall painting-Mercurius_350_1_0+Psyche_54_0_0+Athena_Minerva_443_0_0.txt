@@ -1,0 +1,54 @@
+http://ark.dasch.swiss/ark:/72163/080e-749f34c000cb8-e
+Mercurius_350_1_0
+Psyche_54_0_0
+Athena/Minerva_443_0_0
+
+
+
+Monument
+	ID:	17761
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Hypogeum of the Octavii
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Athena/Minerva Mercurius Psyche
+	Beschreibung:	In the lunette Mercurius psychopompos leading the soul of the defunct girl to the Elysian Fields, one of them could be Minerva.
+Szene
+	ID:	18516
+	Beschreibung:	In the lunette Mercurius psychopompos leading the soul of the defunct girl to the Elysian Fields, one of them could be Minerva.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/18516X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	350
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	54
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	443
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	104480
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Romano
+	Direktor:	Soprintendente Dott. Giuseppe Proietti
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali - Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

@@ -1,0 +1,88 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ee73ac5f93b-5
+Kairoi/Tempora anni_95_1_0
+Gorgones Romanae_65_1_0
+Eros/Amor, Cupido_567_0_0
+
+
+
+Monument
+	ID:	23341
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	San Lorenzo in Panisperna
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Gorgo, Gorgones Eros/Amor, Cupido Kairoi/Tempora anni
+	Beschreibung:	Gorgoneia in three-quarter view. Between the columns depictions of the Seasons.
+Datierung
+	Periode:	170 
+Szene
+	ID:	24490
+	Beschreibung:	Gorgoneia in three-quarter view. Between the columns depictions of the Seasons.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/san_lorenzo_in_panisperna/24490X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/san_lorenzo_in_panisperna/24490X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/san_lorenzo_in_panisperna/24490X390.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/san_lorenzo_in_panisperna/24490X391.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/san_lorenzo_in_panisperna/24490X392.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/san_lorenzo_in_panisperna/24490X393.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/san_lorenzo_in_panisperna/24490X394.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/san_lorenzo_in_panisperna/24490X395.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/san_lorenzo_in_panisperna/24490X396.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/san_lorenzo_in_panisperna/24490X397.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/san_lorenzo_in_panisperna/24490X398.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/san_lorenzo_in_panisperna/24490X399.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	95
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Gorgones Romanae
+	Katalognummer:	65
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	567
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	San Lorenzo in Panisperna
+	Rechteinhaber der Fotos:	© Soprindentenza SPSAE e Polo Museale della Città di Roma
+	Hat die Fotorechte:	0

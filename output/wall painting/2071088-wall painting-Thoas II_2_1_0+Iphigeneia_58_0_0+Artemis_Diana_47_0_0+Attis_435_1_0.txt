@@ -1,0 +1,94 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a96f1b39cb5-6
+Thoas II_2_1_0
+Iphigeneia_58_0_0
+Artemis/Diana_47_0_0
+Attis_435_1_0
+
+
+
+Monument
+	ID:	409
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	III 4,4 (Domus Pinari Cerialis)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	wreath, crown, stephane, corona temple amphora torch cult image, cult statue cup branch human sacrifice offering rotunda, tholos female sacrificial assistant
+	Name:	Artemis Iphigeneia Orestes Pylades Thoas II
+	Beschreibung:	(cubiculum a, Nordwand:) Iphigenie auf Tauris: Iphigenie (Kranz) kommt aus dem Artemistempel mit kleinem Kultbild der Artemis-Hekate (3 Körper, 6 Fackeln) auf dem Arm und Zweig in der Rechten. Zwei Dienerinnen (bekränzt) mit Opferschalen mit Ofergaben darin. Auf den Stufen Amphora. Im Tempelinnern im Hintergrund eine Art Tholos mit Kultbild mit abgewinkelten Armen. Vor dem Tempel Thoas, Orestes und Pylades.
+	Bibliographie:	Schefold, WP 59; Schefold, VergPomp 114 Taf. 78; PompPittMos III (1991) 460-463, 31-35.
+	Kommentar:	Phot. DAI 36.28
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	194
+	Beschreibung:	(cubiculum a, Nordwand:) Iphigenie auf Tauris: Iphigenie (Kranz) kommt aus dem Artemistempel mit kleinem Kultbild der Artemis-Hekate (3 Körper, 6 Fackeln) auf dem Arm und Zweig in der Rechten. Zwei Dienerinnen (bekränzt) mit Opferschalen mit Ofergaben darin. Auf den Stufen Amphora. Im Tempelinnern im Hintergrund eine Art Tholos mit Kultbild mit abgewinkelten Armen. Vor dem Tempel Thoas, Orestes und Pylades.
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/194X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/194X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/194X204.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	80
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	III. 6.c. Verehrung
+	Sequenznummer:	2400
+	Bandnummer:	3
+Catalog Thes CRA
+	Indexnummer:	72
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 5. Kultbilder
+	Sequenznummer:	1800
+	Bandnummer:	2
+Catalog LIMC
+	Artikel:	Thoas II
+	Katalognummer:	2
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iphigeneia
+	Katalognummer:	58
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	47
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Attis
+	Katalognummer:	435
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	III 4,4
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Domus Pinari Cerialis

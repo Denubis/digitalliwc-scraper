@@ -1,0 +1,58 @@
+http://ark.dasch.swiss/ark:/72163/080e-743dd164286ac-e
+Paridis iudicium_71_1_0
+Athena_422_0_0
+Mercurius_300_1_0
+
+
+
+Monument
+	ID:	10888
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	I 4,5 (Casa del Citarista)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Athena Mercurius Paridis iudicium Mercurius
+	Beschreibung:	Judgement of Paris: Paris discussing with Mercurius. Hera, Athena and Aphrodite.
+Szene
+	ID:	11131
+	Beschreibung:	Judgement of Paris: Paris discussing with Mercurius. Hera, Athena and Aphrodite.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/11131X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/11131X203.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/11131X204.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Paridis iudicium
+	Katalognummer:	71
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena
+	Katalognummer:	422
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	300
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	120033
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

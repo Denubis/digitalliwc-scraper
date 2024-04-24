@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-764db4306b0d8-b
+
+
+
+Monument
+	ID:	51402
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Villa Doria Pamphili
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Banquette scene
+	Bibliographie:	Ghedini, F., Raffigurazioni conviviali nei monumenti funerari romani, Rivista di Archeologia, 14, 1990, 48.52 fig. 26.
+Datierung
+	Periode:	-27 - 14 
+Epoche
+	Name:	augusteisch
+	Periode:	-27 - 14 
+	Sequenznummer:	1130
+Szene
+	ID:	56577
+	Beschreibung:	Banquette scene
+Catalog Thes CRA
+	Indexnummer:	149
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 4.a. Bankett, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	1430
+	Bandnummer:	2
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Romano
+	Direktor:	Soprintendente Dott. Giuseppe Proietti
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali - Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

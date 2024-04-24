@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-747f53223caaa-2
+Kreousa II_8_0_0
+Hypnos/Somnus_142e_0_0
+
+
+
+Monument
+	ID:	15501
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Esquiline
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kreousa II Hypnos/Somnus
+	Beschreibung:	The children of Medeia handing over presents to Kreousa (II).
+Szene
+	ID:	16007
+	Beschreibung:	The children of Medeia handing over presents to Kreousa (II).
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Kreousa II
+	Katalognummer:	8
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	142e
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 3, 191
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	collezioni private
+	Direktor:	Dr. Jacques Chamay
+	Adresse:	38, Route de Malagnou
+	Postleitzahl:	CH-1208
+	Kontaktzenter:	-
+	Stadt des Kontaktzenters:	Genève
+	Rechteinhaber der Fotos:	© Private Collection
+	Hat die Fotorechte:	1

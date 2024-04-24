@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-75548b251e974-2
+Hades/Pluto_15_0_0
+
+
+
+Monument
+	ID:	30540
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hades/Pluto
+Szene
+	ID:	32011
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/catacomba_di_s_panfilo/32011X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/catacomba_di_s_panfilo/32011X299.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	15
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Catacomba di S. Panfilo
+	Rechteinhaber der Fotos:	© Catacomba di S. Panfilo, Roma
+	Hat die Fotorechte:	0

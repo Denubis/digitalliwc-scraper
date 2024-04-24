@@ -1,0 +1,62 @@
+http://ark.dasch.swiss/ark:/72163/080e-7499a161d429a-8
+Dionysos/Bacchus_138_1_0
+Ino_4_0_0
+Pentheus_35_0_0
+Achilleus_762_0_0
+
+
+
+Monument
+	ID:	17363
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Asia Minor
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	Amazon
+	Name:	Achilleus Penthesileia Thersites Dionysos/Bacchus Ino Pentheus
+	Beschreibung:	On the left two female figures around a tree, in the centre reclining Ino nursing the little Bacchus, from the left male figures. Pentheus attacked by maenads.
+	Bibliographie:	SarkRel III 3 Nr. 434 a Taf. 139; Wiegartz,  H., Kleinasiatische Säulensarkophage (1965) 61. 155.
+Szene
+	ID:	48718
+	Beschreibung:	On the left two female figures around a tree, in the centre reclining Ino nursing the little Bacchus, from the left male figures. Pentheus attacked by maenads.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/switzerland/geneve/48718X002.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	138
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ino
+	Katalognummer:	4
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Pentheus
+	Katalognummer:	35
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	762
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	GB
+	Stadt:	Hever Castle (Kent)
+	Rechteinhaber der Fotos:	© Hever Castle
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	CH
+	Stadt:	Genève
+	Name:	marché de l'art
+	Rechteinhaber der Fotos:	© Art market
+	Hat die Fotorechte:	0

@@ -1,0 +1,30 @@
+http://ark.dasch.swiss/ark:/72163/080e-73f835409cad3-8
+Pan (S)_165_0_0
+
+
+
+Monument
+	ID:	5973
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Pan
+	Beschreibung:	Pan and a near nude standing Hermaphroditos.
+Szene
+	ID:	6082
+	Beschreibung:	Pan and a near nude standing Hermaphroditos.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Pan (S)
+	Katalognummer:	165
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Sclafani Bagni
+	Name:	Chiesa Madre
+	Rechteinhaber der Fotos:	© Sclafani Bagni
+	Hat die Fotorechte:	0

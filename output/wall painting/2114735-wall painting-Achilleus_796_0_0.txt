@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-76196f87c4b70-d
+Achilleus_796_0_0
+
+
+
+Monument
+	ID:	44433
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 3, 29 (Domus M. Spuri Mesoris)
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	wreath, crown, stephane, corona altar ram sword cup priestess hero
+	Name:	Achilleus
+	Bibliographie:	Heydemann, H., AZ 1870, 67 Taf 36; HBr Taf. 176; Schefold, K., Pompejanische Malerei (1952) 104-105 Taf. 13.
+Datierung
+	Periode:	-10 - 10 
+Epoche
+	Name:	um Chr. Geb.
+	Periode:	-10 - 10 
+	Sequenznummer:	2980
+Szene
+	ID:	46730
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	796
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	120086
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

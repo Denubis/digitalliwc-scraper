@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-74782d2cc85e6-c
+Meleagros_116_1_0
+
+
+
+Monument
+	ID:	15000
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Meleagros
+	Beschreibung:	Meleagros, Atalante and the boar. This central group is flanked by hunters and standing figures in tunics.
+Datierung
+	Periode:	290 - 295 
+Szene
+	ID:	15476
+	Beschreibung:	Meleagros, Atalante and the boar. This central group is flanked by hunters and standing figures in tunics.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pisa/camposanto_monumentale/15476X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	116
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	A 6 est.
+Museum
+	Land:	IT
+	Stadt:	Pisa
+	Name:	Camposanto Monumentale
+	Rechteinhaber der Fotos:	© Camposanto Monumentale, Pisa
+	Kommentar:	Numéros d'après Camposanto monumentale di Pisa. Le antichità I-II (1977-1984).
+	Hat die Fotorechte:	0

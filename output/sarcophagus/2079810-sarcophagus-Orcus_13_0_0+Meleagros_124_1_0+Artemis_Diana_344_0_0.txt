@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-742620e862e8f-3
+Orcus_13_0_0
+Meleagros_124_1_0
+Artemis/Diana_344_0_0
+
+
+
+Monument
+	ID:	9212
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Meleagros Artemis/Diana Orcus
+	Beschreibung:	On the left Oineus. Then a depiction of the Calydonian hunt: Orcus, Artemis, the Dioskouroi with horses, Meleagros spearing the boar, Atalante with dog. Above the cave a man, a fallen hunter and a wounded hunter.
+Datierung
+	Periode:	225 - 250 
+Szene
+	ID:	9413
+	Beschreibung:	On the left Oineus. Then a depiction of the Calydonian hunt: Orcus, Artemis, the Dioskouroi with horses, Meleagros spearing the boar, Atalante with dog. Above the cave a man, a fallen hunter and a wounded hunter.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pisa/camposanto_monumentale/9413X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Orcus
+	Katalognummer:	13
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	124
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	344
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	C 20 est.
+Museum
+	Land:	IT
+	Stadt:	Pisa
+	Name:	Camposanto Monumentale
+	Rechteinhaber der Fotos:	© Camposanto Monumentale, Pisa
+	Kommentar:	Numéros d'après Camposanto monumentale di Pisa. Le antichità I-II (1977-1984).
+	Hat die Fotorechte:	0

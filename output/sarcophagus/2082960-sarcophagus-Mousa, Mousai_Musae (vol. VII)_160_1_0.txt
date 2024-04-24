@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-745329a5f2c95-7
+Mousa, Mousai/Musae (vol. VII)_160_1_0
+
+
+
+Monument
+	ID:	12392
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Mousa, Mousai
+Szene
+	ID:	12692
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/spain/murcia/cathedrale/12692X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	160
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	ES
+	Stadt:	Murcia
+	Name:	Cathédrale
+	Rechteinhaber der Fotos:	© Murcia
+	Hat die Fotorechte:	1

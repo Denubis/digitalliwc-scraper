@@ -1,0 +1,31 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e42db5337b6-d
+Victoria_286_0_0
+
+
+
+Monument
+	ID:	4558
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Victoria
+	Beschreibung:	Bacchus on a chariot, crowned by Victoria.
+Szene
+	ID:	4616
+	Beschreibung:	Bacchus on a chariot, crowned by Victoria.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Victoria
+	Katalognummer:	286
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel IV 2, 96
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Rospigliosi Pallavicini
+	Rechteinhaber der Fotos:	© Palazzo Rospigliosi Pallavicini, Roma
+	Hat die Fotorechte:	1

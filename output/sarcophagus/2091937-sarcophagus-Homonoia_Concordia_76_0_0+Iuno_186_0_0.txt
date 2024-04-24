@@ -1,0 +1,65 @@
+http://ark.dasch.swiss/ark:/72163/080e-74d380ba87daa-6
+Homonoia/Concordia_76_0_0
+Iuno_186_0_0
+
+
+
+Monument
+	ID:	21448
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Name:	Iuno Homonoia/Concordia Venus Roma
+	Beschreibung:	Opferzug, der auf ein Paar zuschreitet, das die dextrarum iunctio, gerahmt von Concordia (oder Iuno Pronuba?), Venus, Roma und einem bärtigen togatus, der auf einer sella curulis sitzt, vollführt. Die durch einen Bogen schreitende Prozession besteht aus einem Opferrind, das von zwei victimarii geführt wird, einem langhaarigen Opferdiener mit Kanne und Weihrauchkästchen, einem Liktor sowie einer Frau mit verhülltem Haupt, die eine Schale mit Opfergaben trägt. Die Architektur markiert das Heiligtum der Venus Felix und der Roma Aeterna auf der Velia.
+	Bibliographie:	Helbig(4) I 72; Wrede, H., Senatorische Sarkophage Roms, MAR XXIX (2001) tav. 7, 1.
+Szene
+	ID:	22406
+	Beschreibung:	Opferzug, der auf ein Paar zuschreitet, das die dextrarum iunctio, gerahmt von Concordia (oder Iuno Pronuba?), Venus, Roma und einem bärtigen togatus, der auf einer sella curulis sitzt, vollführt. Die durch einen Bogen schreitende Prozession besteht aus einem Opferrind, das von zwei victimarii geführt wird, einem langhaarigen Opferdiener mit Kanne und Weihrauchkästchen, einem Liktor sowie einer Frau mit verhülltem Haupt, die eine Schale mit Opfergaben trägt. Die Architektur markiert das Heiligtum der Venus Felix und der Roma Aeterna auf der Velia.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/22406X101.jpg
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	129
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 1. Prozessionen, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	100
+	Bandnummer:	1
+Catalog Thes CRA
+	Indexnummer:	4
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VI. 1.c. Heirat, röm.
+	Bandnummer:	6
+Catalog LIMC
+	Artikel:	Homonoia/Concordia
+	Katalognummer:	76
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iuno
+	Katalognummer:	186
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	268
+Museum
+	Land:	VA
+	Stadt:	Vaticano
+	Name:	Musei Vaticani
+	Direktor:	Direttore Dott. Antonio Paolucci
+	Anrede:	Chiarissimo Direttore,
+	Postleitzahl:	I-00120
+	Kontaktzenter:	Monumenti, Musei e Gallerie Pontificie
+	Stadt des Kontaktzenters:	Città del Vaticano
+	Rechteinhaber der Fotos:	© Musei Vaticani
+	Kommentar:	Sont réunis sous cette dénomination générique - compte tenu à la fois de leur numérotation unique et de leurs déplacements à l'intérieur des musées - les monuments conservés dans le Museo Chiaramonti, le Museo Gregoriano Etrusco, le Museo Gregoriano Profano, le Museo Pio Clementino et le Museo Pio Cristiano.  En revanche, la localisation spécifique a été conservée dans les cas suivants: Basilica San Pietro, Biblioteca Apostolica Vaticana (et Museo Profano, Museo Sacro, Sala delle Nozze Aldobrandine), Camposanto Teutonico, Giardini, Medagliere Vaticano, Museo Gregoriano Egizio, Necropoli sotto San Pietro.
+	Hat die Fotorechte:	0

@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-747f5a741d634-f
+Nereides_16_0_0
+
+
+
+Monument
+	ID:	15503
+	Entdeckungsort:	Ercolano, Herculaneum, Herculanum
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Nereides
+Szene
+	ID:	16011
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Nereides
+	Katalognummer:	16
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Helbig 1041
+Museum
+	Land:	IT
+	Stadt:	Ercolano
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

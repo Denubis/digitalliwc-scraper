@@ -1,0 +1,184 @@
+http://ark.dasch.swiss/ark:/72163/080e-73b6c22649de9-a
+Kentauroi et Kentaurides (S)_430_0_0
+Horai/Horae_17_0_0
+Eros/Amor, Cupido_49_0_0
+Ariadne (vol. III)_64_0_0
+Artemis/Diana_342_0_0
+Gigantes_579_0_0
+Kallisto_15a_0_0
+Europe I_132d_0_0
+Daphne_ad 9_0_0
+Amazones_487_0_0
+Aithra I_18_0_0
+Tritones_70_1_0
+Amphitrite_68_0_0
+Achilleus_431_0_0
+Ariadne (vol. III)_79_0_0
+
+
+
+Monument
+	ID:	1362
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 8,3-8 (Casa del Poeta Tragico)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	snake shield double-axe, bipennis, labrys chariot whip dolphin wedding horse trident Amazon Triton ketos, sea monster fight, battle
+	Name:	Achilleus Agamemnon Aithra I Amphitrite Athena/Minerva Daphne Eros/Amor, Cupido Europe I Poseidon/Neptunus Triton Amazones Kallisto Horai/Horae Ariadne Gigantes Kentauroi and Kentaurides Tritones
+	Beschreibung:	Mural painting
+	Bibliographie:	Schefold, WP 103-106; PompPittMos IV, Helbig, Wandgemälde no. 1092.
+Datierung
+	Periode:	69 - 79 
+Epoche
+	Name:	vespasianisch
+	Periode:	69 - 79 
+	Sequenznummer:	1185
+Szene
+	ID:	3698
+	Szenerieangabe:	15
+	Beschreibung:	A figure in short tunic and leather boots, holding two spears, stands before a seated woman who has a quiver on the ground beside her and an Eros leaning against her lap. In the background are three women (Horae?). Curtius suggests the scene represents the discovery of Kallisto's pregnancy by Artemis. Other scenes show centaurs with wild animals.
+	Sequenznummer:	250
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/3698X205.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/3698X206.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/3698X207.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/3698X208.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/3698X209.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/3698X211.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	430
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	17
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	49
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ariadne (vol. III)
+	Katalognummer:	64
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	342
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Gigantes
+	Katalognummer:	579
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kallisto
+	Katalognummer:	15a
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	32195
+	Szenerieangabe:	6
+	Beschreibung:	Daphne pursued by Apollon: Daphne naked but for a himation draped over her leg and arm, kneels with right arm raised. With her left hand she tries to push Apollon off who seizes her by the waist. He wears a himation round his legs and sandals. A laurel tree grows behind them. Apollon's bow, quiver and spear are placed against a rock. Europe (I), naked, mantle trailing from hand, hanging beside bull.
+	Bibliographie:	Helbig, Wandgemälde no. 1250; Schefold, WP 104 (6).
+	Sequenznummer:	160
+	Name:	Daphne Europe I Amazones
+	Stichwort:	shield double-axe, bipennis, labrys chariot horse Amazon fight, battle rider
+Catalog LIMC
+	Artikel:	Europe I
+	Katalognummer:	132d
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Daphne
+	Katalognummer:	ad 9
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	487
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49187
+	Szenerieangabe:	3
+	Bibliographie:	Reinach, RépPeint 34, 6; Schefold, WP 104; PompPittMos IV 541 color pl., 542 no. 25; Helbig, Wandgemälde no. 1092.
+	Sequenznummer:	130
+	Name:	Achilleus Agamemnon Aithra I Amphitrite Athena Eros/Amor, Cupido Poseidon/Neptunus Triton
+	Stichwort:	snake whip dolphin wedding trident Triton ketos, sea monster
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49187X004.jpg
+Foto
+	Neues Foto:	1
+Datierung
+	Periode:	69 - 79 
+Catalog LIMC
+	Artikel:	Aithra I
+	Katalognummer:	18
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Tritones
+	Katalognummer:	70
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amphitrite
+	Katalognummer:	68
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	431
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49188
+	Szenerieangabe:	7
+	Sequenznummer:	170
+Catalog LIMC
+	Artikel:	Ariadne (vol. III)
+	Katalognummer:	79
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VI 8,3-8
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa del Poeta tragico

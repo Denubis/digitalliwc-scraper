@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-73c79d3143030-4
+Zeus/Iuppiter_493_0_0
+
+
+
+Monument
+	ID:	2552
+	Objekt:	sarcophagus lid
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Zeus/Iuppiter
+Szene
+	ID:	2574
+	Szenerieangabe:	couvercle
+	Sequenznummer:	20
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	493
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Romano
+	Direktor:	Soprintendente Dott. Giuseppe Proietti
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali - Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

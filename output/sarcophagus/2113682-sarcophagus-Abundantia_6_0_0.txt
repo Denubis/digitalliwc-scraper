@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-760a61a31901f-c
+Abundantia_6_0_0
+
+
+
+Monument
+	ID:	43364
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	cornucopia
+	Name:	Abundantia
+	Beschreibung:	Abundantia holding a cornucopia.
+	Bibliographie:	Espérandieu, Recueil no. 7723.
+Szene
+	ID:	45598
+	Beschreibung:	Abundantia holding a cornucopia.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Abundantia
+	Katalognummer:	6
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Espérandieu 7723
+Museum
+	Land:	FR
+	Stadt:	Blanberg
+	Name:	Collection M. Weibel
+	Rechteinhaber der Fotos:	© Collection M. Weibel
+	Hat die Fotorechte:	0

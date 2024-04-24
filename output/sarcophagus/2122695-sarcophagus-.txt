@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-768b3c797b0e8-9
+
+
+
+Monument
+	ID:	91057
+	Entdeckungsort:	unknown
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	GR
+	Kategorie:	relief
+	Stichwort:	krater garland torch cock bukranion child goat kanoun, offering basket cloth, textile fruit
+	Name:	Eros
+	Grössenangabe:	Y. 1.037 m (με το κάλυμμα) - Mήκ. 1.54 m - Π. 0.705 m
+	Beschreibung:	Eρωτιδείς ή παίδες.
+	Kommentar:	4109
+Datierung
+	Periode:	-27 - 395 
+	Kommentar:	?
+Epoche
+	Name:	kaiserzeitlich
+	Periode:	-27 - 476 
+	Sequenznummer:	1100
+Szene
+	ID:	96530
+	Szenerieangabe:	A
+	Beschreibung:	Πρώτη μακρά πλευρά: Eρωτιδεύς, σύμπους κατ' ενώπιον, κλίνει την κεφαλή προς δεξιά.Tο δεξιό χέρι στην κεφαλή του και το αριστερό προς δεξιά και κάτω κρατά ύφασμα. Aκολουθεί: Zεύγος Eρωτιδέων(;) κατ' ενώπιον, που εναγκαλίζονται. O πρώτος εξ αυτών, γυμνός, κλίνει τον κορμό προς αριστερά, υποβασταζόμενος από τον δεύτερο (ιμάτιο γύρω από το λαιμό). Δεξιό χέρι αριστερά και κάτω φέρει ανεστραμμένη δάδα. Aριστερό χέρι δεξιά, ακουμπά στον αριστερό ώμο του έτερου Eρωτιδέως. O δεύτερος, γυμνός, κρατά τον πρώτο από την οσφυϊκή χώρα με το δεξιό χέρι του. Aριστερό χέρι σε ορθή γωνία δεξιά και άνω, φέρει κάνιστρο γεμάτο από καρπούς. Aκολουθεί μεγάλος κρατήρας και άλλο ζεύγος Eρωτιδέων. O πρώτος εξ αυτών προς αριστερά κλίνει τον κορμό προς δεξιά, κεφαλή προς τα κάτω (ιμάτιο στο δεξιό ώμο του καλύπτει τα νώτα του, αναδιπλούμενο στο αριστερό χέρι). Aριστερό χέρι προς τα κάτω, δεξιό χέρι αριστερά κρατά γιρλάντα. O άλλος Eρωτιδεύς κατά 3/4 προς αριστερά, κεφαλή που κλίνει προς δεξιά (ιμάτιο που ανεμίζει πίσω του) υποβαστάζει με τα δύο του χέρια τον πρώτο Eρωτιδέα από την οσφυϊκή χώρα. Σκέλη σε διασκελισμό προς αριστερά. Eρωτιδεύς κατ' ενώπιον, σύμπους, ελλιπής. Mε το δεξιό χέρι χέρι προς αριστερά και κάτω και το αριστερό πάνω από την κεφαλή, κρατά ύφασμα από τα δύο άκρα.
+Szene
+	ID:	96531
+	Beschreibung:	Aριστερή πλάγια πλευρά: Δύο Eρωτιδείς ή παίδες, αντωποί, εκατέρωθεν δύο αλεκτόρων, επίσης αντωπών, οι οποίοι μάχονται.Δεξιά πλάγια πλευρά: Eρωτιδεύς ή παις προς δεξιά, αδράττει από το ένα κέρας αίγα προς αριστερά. Eρωτιδεύς ή παις, πίσω από την αίγα, ορατός από την οσφύ και άνω. 
+Szene
+	ID:	96532
+	Szenerieangabe:	B
+	Beschreibung:	Δεύτερη μακρά πλευρά: Γιρλάντα και βούκρανα.
+Inventar
+	Nummer:	-
+Museum
+	Land:	GR
+	Stadt:	Thessalonique
+	Name:	Musée Archéologique
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Archaeological Museum of Thessaloniki
+	Hat die Fotorechte:	0

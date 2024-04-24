@@ -1,0 +1,60 @@
+http://ark.dasch.swiss/ark:/72163/080e-75621c6824cbd-0
+Attis_46_1_0
+
+
+
+Monument
+	ID:	31496
+	Entdeckungsort:	Pompei
+	Objekt:	handle
+	Material:	bronze
+	Land:	CH
+	Kategorie:	relief
+	Name:	Attis Sabazios
+	Beschreibung:	Attis with crossed legs and hands folded in front of his abdomen. Below Attis a bearded head interpreted as head of Sabazios.
+	Bibliographie:	Guida Ruesch no. 1659 fig. 85; Vermaseren, M. J., The Legend of Attis in Greek and Roman Art (1966) 17 no. 13; Vermaseren, M. J., Corpus Cultus Cybelae Attidisque IV no. 69 pl. 24.
+Datierung
+	Periode:	1 - 100 
+Epoche
+	Name:	1. Jh. n. Chr.
+	Periode:	1 - 100 
+	Sequenznummer:	3000
+Szene
+	ID:	33101
+	Beschreibung:	Attis with crossed legs and hands folded in front of his abdomen. Below Attis a bearded head interpreted as head of Sabazios.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/33101X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/33101X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/33101X303.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/33101X304.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Attis
+	Katalognummer:	46
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	72592
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	5285

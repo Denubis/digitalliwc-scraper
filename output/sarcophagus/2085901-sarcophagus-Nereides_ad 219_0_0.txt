@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-747d3577474c6-e
+Nereides_ad 219_0_0
+
+
+
+Monument
+	ID:	15353
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Nereides
+Szene
+	ID:	15846
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Nereides
+	Katalognummer:	ad 219
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	S.977.21
+Museum
+	Land:	US
+	Stadt:	Hanover (New Hampshire)
+	Name:	Hood Museum of Art, Darmouth College
+	Rechteinhaber der Fotos:	© Hood Museum of Art, Darmouth College
+	Hat die Fotorechte:	0

@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-73c23d103b6d8-e
+Tyche/Fortuna_62_1_0
+Agathodaimon_9_0_0
+
+
+
+Monument
+	ID:	2174
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	IX 7,21-22
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	pschent
+	Name:	Agathodaimon Tyche/Fortuna
+	Bibliographie:	Tran Tam Tinh, V., Le culte d'Isis à Pompéi (1964) no. 61 pl. 7, 3.
+Szene
+	ID:	2186
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Tyche/Fortuna
+	Katalognummer:	62
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Agathodaimon
+	Katalognummer:	9
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	112285
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

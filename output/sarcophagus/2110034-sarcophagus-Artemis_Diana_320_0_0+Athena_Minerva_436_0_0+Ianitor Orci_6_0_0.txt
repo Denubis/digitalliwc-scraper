@@ -1,0 +1,49 @@
+http://ark.dasch.swiss/ark:/72163/080e-75d63a41f58df-c
+Artemis/Diana_320_0_0
+Athena/Minerva_436_0_0
+Ianitor Orci_6_0_0
+
+
+
+Monument
+	ID:	39695
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Athena/Minerva Hades Artemis/Diana Ianitor Orci
+	Beschreibung:	Sarcophagus with the rape of Persephone: Pluto on the quadriga, before him Mercurius and Minerva, behind him Ceres. Ianitor Orci as an old man.
+Szene
+	ID:	41745
+	Beschreibung:	Sarcophagus with the rape of Persephone: Pluto on the quadriga, before him Mercurius and Minerva, behind him Ceres. Sarcophagus with the rape of Persephone: Pluto on the quadriga, before him Mercurius and Minerva, behind him Ceres. Ianitor Orci as an old man.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	320
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	436
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ianitor Orci
+	Katalognummer:	6
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	33-33a
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Medici
+	Direktor:	Responsable Chargé de Mission Olivier Bonfait
+	Adresse:	Viale Trinità dei Monti 1
+	Postleitzahl:	I-00187
+	Kontaktzenter:	Dipartimento di Storia dell'Arte Accademia di Francia a Roma / Villa Medici
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	Académie de France à Rome
+	Kommentar:	Numéros d'après Cagiano de Azevedo, M., Le antichità di Villa Medici (1951).
+	Hat die Fotorechte:	1

@@ -1,0 +1,61 @@
+http://ark.dasch.swiss/ark:/72163/080e-760363eff8ad2-b
+Athena/Minerva_378_0_0
+Antaios I_47_1_0
+
+
+
+Monument
+	ID:	42867
+	Objekt:	sarcophagus lid
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	wreath, crown, stephane, corona shield fight, battle
+	Name:	Antaios I Athena Herakles
+	Beschreibung:	Fragment of sarcophagus lid; from the left fluvial god and Victoria; Hercules kissing the hand of Minerva; Hercules fighting Antaios, Tellus and Minerva to the right.
+	Bibliographie:	Robert, SarkRel III 1 no. 138 p. 161-163, Brommer, Denkmälerlisten I 25,3.
+Datierung
+	Periode:	200 - 300 
+Epoche
+	Name:	3. Jh. n. Chr.
+	Periode:	200 - 300 
+	Sequenznummer:	3280
+Szene
+	ID:	45066
+	Szenerieangabe:	couvercle
+	Beschreibung:	Fragment of sarcophagus lid; from the left fluvial god and Victoria; Hercules kissing the hand of Minerva; Hercules fighting Antaios, Tellus and Minerva to the right.
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/45066X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/45066X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/45066X302.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	378
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Antaios I
+	Katalognummer:	47
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9190
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Romano
+	Direktor:	Soprintendente Dott. Giuseppe Proietti
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali - Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-75a4b44d94737-8
+Ariadne (vol. III)_62_0_0
+
+
+
+Monument
+	ID:	36200
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 4, 51 (Casa dei Capitelli colorati, Casa di Arianna) VII 4, 51 (Casa dei Capitelli colorati, Casa di Arianna)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Ariadne
+Szene
+	ID:	38059
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Ariadne (vol. III)
+	Katalognummer:	62
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9052
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

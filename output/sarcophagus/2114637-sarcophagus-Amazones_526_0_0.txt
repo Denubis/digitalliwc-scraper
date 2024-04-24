@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-761808dbc1606-c
+Amazones_526_0_0
+
+
+
+Monument
+	ID:	44338
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	warrior, soldier Amazon fight, battle
+	Name:	Amazones
+	Beschreibung:	Fragments.
+	Bibliographie:	Kαλλιπολίτης, B. G., Χρονολογικη κατα ταξις...(1958) no.117; Giuliano, A., Il commercio dei sarcofagi attici (1962) 42 no. 196; Giuliano, A./ Palma, B., La maniera ateniese di età romana, StudMisc 24 (1978) 30 A II no. 9.
+Datierung
+	Periode:	195 
+Epoche
+	Name:	Ende 2. Jh. n. Chr.
+	Periode:	190 - 200 
+	Sequenznummer:	3170
+Szene
+	ID:	46625
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	526
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	562-563
+Museum
+	Land:	GR
+	Stadt:	Corfou
+	Name:	Musée Archéologique
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Anrede:	Dear Director,
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athènes
+	Rechteinhaber der Fotos:	© Archaeological Service of Corcyra
+	Hat die Fotorechte:	0

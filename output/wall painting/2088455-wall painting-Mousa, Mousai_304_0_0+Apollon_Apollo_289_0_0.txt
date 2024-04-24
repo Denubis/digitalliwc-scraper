@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-74a1b8e540428-e
+Mousa, Mousai_304_0_0
+Apollon/Apollo_289_0_0
+
+
+
+Monument
+	ID:	17939
+	Entdeckungsort:	Ephesos (Ionia)
+	Entdeckungsort Details:	Hanghaus 2
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Mousa, Mousai
+Szene
+	ID:	23885
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai
+	Katalognummer:	304
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	289
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	12
+Museum
+	Land:	TR
+	Stadt:	Ephèse
+	Name:	Hanghaus 2
+	Rechteinhaber der Fotos:	© Ephesos
+	Hat die Fotorechte:	1

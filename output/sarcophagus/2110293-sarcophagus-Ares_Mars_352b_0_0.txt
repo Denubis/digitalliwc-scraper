@@ -1,0 +1,27 @@
+http://ark.dasch.swiss/ark:/72163/080e-75d9ee2d22f2e-3
+Ares/Mars_352b_0_0
+
+
+
+Monument
+	ID:	39955
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	sarcophagus
+Szene
+	ID:	42019
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Ares/Mars
+	Katalognummer:	352b
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Via Salaria
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Vie
+	Rechteinhaber der Fotos:	© Roma
+	Hat die Fotorechte:	1

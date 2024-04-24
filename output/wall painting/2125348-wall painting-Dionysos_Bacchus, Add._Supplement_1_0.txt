@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-76b12a3c67b79-a
+Dionysos/Bacchus, Add._Supplement_1_0
+
+
+
+Monument
+	ID:	202305
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Bacchus as child, under a rock; with ivy crown; holding a thyrsos staff; kantharos; three women
+	Bibliographie:	Jeunesse de la beauté. La peinture romaine antique (1995) 257-258 fig. 12.
+Szene
+	ID:	99302
+	Beschreibung:	Bacchus as child, under a rock; with ivy crown; holding a thyrsos staff; kantharos; three women
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus, Add.
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	AA
+	Stadt:	Collections privées non spécifiées
+	Direktor:	Herrn Prof. Dr. K. Schauenburg
+	Adresse:	Feldstrasse 75
+	Postleitzahl:	D-24105
+	Kontaktzenter:	 
+	Stadt des Kontaktzenters:	Kiel
+	Rechteinhaber der Fotos:	© Private collection
+	Hat die Fotorechte:	1

@@ -1,0 +1,65 @@
+http://ark.dasch.swiss/ark:/72163/080e-73ab1b5113fbe-5
+Nysa I, Nysai (S)_11b_0_0
+Dionysos/Bacchus_155_0_0
+Nymphai (S)_86b_1_0
+Daphnis_12_0_0
+
+
+
+Monument
+	ID:	532
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Daphnis Dionysos/Bacchus Nymphai Nysa I
+	Beschreibung:	Daphnis on the left side watching the child Dionysos bathing. Front: Nysa (I) enthroned, about to breastfeed Dionysos. Next to her a panther.
+	Museums-URL:	https://art.thewalters.org/detail/16574/sarcophagus-depicting-the-birth-of-dionysus/
+	Monument-URL:	
+Datierung
+	Periode:	145 - 160 
+Szene
+	ID:	363
+	Beschreibung:	Daphnis on the left side watching the child Dionysos bathing. Front: Nysa (I) enthroned, about to breastfeed Dionysos. Next to her a panther.
+	Sequenznummer:	10
+	Monument-URL:	Walters Art Museum: http://art.thewalters.org/detail/16574/sarcophagus-depicting-the-birth-of-dionysus/
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/baltimore/walters_art_museum/363X003.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Nysa I, Nysai (S)
+	Katalognummer:	11b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	155
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Nymphai (S)
+	Katalognummer:	86b
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Daphnis
+	Katalognummer:	12
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	23.33
+Museum
+	Land:	US
+	Stadt:	Baltimore
+	Name:	Walters Art Museum
+	Direktor:	Mrs. Kate Lau
+	Adresse:	600 North Charles Street
+	Postleitzahl:	USA-
+	Kontaktzenter:	Walters Art Museum - Photo Services
+	Stadt des Kontaktzenters:	Baltimore MD 21201-5185
+	Rechteinhaber der Fotos:	© Walters Art Museum, Baltimore
+	Kommentar:	Vorher Walters Art Gallery. Neuer Name vor 2003. Eingetragen 15.9.06.
+	Hat die Fotorechte:	1

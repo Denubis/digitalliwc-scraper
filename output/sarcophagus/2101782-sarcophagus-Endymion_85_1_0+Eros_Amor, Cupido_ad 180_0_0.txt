@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-7560409e15eb3-d
+Endymion_85_1_0
+Eros/Amor, Cupido_ad 180_0_0
+
+
+
+Monument
+	ID:	31365
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Endymion Eros/Amor, Cupido
+Szene
+	ID:	32966
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_braschi/32966X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_braschi/32966X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_braschi/32966X003.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	85
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 180
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Braschi
+	Rechteinhaber der Fotos:	© Palazzo Braschi, Roma
+	Hat die Fotorechte:	1

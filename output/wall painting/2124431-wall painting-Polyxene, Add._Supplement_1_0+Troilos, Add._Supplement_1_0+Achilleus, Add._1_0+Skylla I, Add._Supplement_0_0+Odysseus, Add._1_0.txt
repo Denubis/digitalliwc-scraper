@@ -1,0 +1,86 @@
+http://ark.dasch.swiss/ark:/72163/080e-76a40e176d0d0-0
+Polyxene, Add._Supplement_1_0
+Troilos, Add._Supplement_1_0
+Achilleus, Add._1_0
+Skylla I, Add._Supplement_0_0
+Odysseus, Add._1_0
+
+
+
+Monument
+	ID:	201562
+	Entdeckungsort:	Asgafa El Abiar
+	Entdeckungsort Details:	tomb
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	rudder, oar sword helmet spear kithara sacrifice volumen, scroll horse ship, boat dagger siren corpse
+	Name:	Achilleus Chimaira Hektor Odysseus Polyxene Skylla I Troilos Xanthos Bellerophon Balios
+	Beschreibung:	Three Achilleus-scenes on Achilleus and Troilos; Sacrifice of Polyxena by the son of Achilleus; Achilleus dragging Hektor; Odysseus, his ship and the Sirenes, one of the Sirenes holding a papyrus; below the ship is Skylla attacked by Odysseus with a lance
+	Inschrift:	Σειρhνας, ΠΟΛΥΞΕΝΗ
+	Bibliographie:	Bacchielli, L./Falivene, M. R., Il canto delle Sirene nella tomba di Asgafa El Abiar, QuadLibia 17, 1995, 93-107 fig. 5-7 pl. I. III, 1; Bacchielli, L., in: Ulisse e la memoria. Cat. expo. Rom 1996 (1996) 230-236 fig. 1-12; Bacchielli, L., in: I temi figurativi nella pittura parietale antica (1997) 25-29. 314 fig. 5; Ghedini, F., Scilla nel repertorio greco e romano,  in: Lo stretto di Messina nell'antichità (2005) 51 fig. 6a-b.
+Datierung
+	Periode:	300 - 400 
+Epoche
+	Name:	4. Jh. n. Chr.
+	Periode:	300 - 400 
+	Sequenznummer:	3420
+Datierung
+	Periode:	440 - 460 
+Epoche
+	Name:	Mitte 5. Jh. n. Chr.
+	Periode:	440 - 460 
+	Sequenznummer:	3580
+Szene
+	ID:	98534
+	Beschreibung:	Three Achilleus-scenes: Achilleus and Troilos; Sacrifice of Polyxena by the son of Achilleus; Achilleus dragging Hektor; Odysseus, his ship and the Sirenes, one of the Sirenes holding a papyrus; below the ship is Skylla attacked by Odysseus with a lance
+	Inschrift:	Σειρhνας, ΠΟΛΥΞΕΝΗ
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Polyxene, Add.
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Troilos, Add.
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus, Add.
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Skylla I, Add.
+	Band:	Supplement
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Odysseus, Add.
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	LY
+	Stadt:	Asgafa El Abiar
+	Name:	Tombe
+	Direktor:	Prof. ssa Anna Santucci
+	Adresse:	Via del Balestriere, 2
+	Postleitzahl:	I-61029
+	Kontaktzenter:	Università - Istituto di Archeologia e di Storia dell'Arte Antica
+	Stadt des Kontaktzenters:	Urbino (PU)
+	Rechteinhaber der Fotos:	© Asgafa El Abiar
+	Hat die Fotorechte:	1

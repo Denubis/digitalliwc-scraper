@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-73df131e02bfd-7
+Oceanus (S)_85_0_0
+Nereides_251_1_0
+
+
+
+Monument
+	ID:	4200
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Oceanus Nereides
+	Beschreibung:	Head of Oceanus in the central medallion.
+Szene
+	ID:	4245
+	Beschreibung:	Head of Oceanus in the central medallion.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/museo_ostiense/4245X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Oceanus (S)
+	Katalognummer:	85
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Nereides
+	Katalognummer:	251
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Ostia
+	Name:	Museo Ostiense
+	Direktor:	Dott.ssa Elvira Angeloni
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Viale dei Romagnoli 717
+	Postleitzahl:	I-00119
+	Kontaktzenter:	Soprintendenza archeologica di Ostia
+	Stadt des Kontaktzenters:	Ostia Antica - Roma
+	Rechteinhaber der Fotos:	Archivio Fotografico della Soprintendenza Archeologica per i beni archeologici di Ostia
+	Hat die Fotorechte:	1

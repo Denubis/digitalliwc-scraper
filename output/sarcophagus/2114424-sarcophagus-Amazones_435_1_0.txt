@@ -1,0 +1,58 @@
+http://ark.dasch.swiss/ark:/72163/080e-7614fd4bc491d-5
+Amazones_435_1_0
+
+
+
+Monument
+	ID:	44133
+	Entdeckungsort:	Cyprus
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Greek
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	sword helmet shield horse Amazon fight, battle rider
+	Name:	Amazones
+	Beschreibung:	Lysippos School.
+	Bibliographie:	SarkRel II 78 no. 68 pl. 27; Lippold, GrPl 288 no. 4; Bieber, SculptHell(2) 73-75 fig. 252; Neugebauer, K. A., JdI 56 (1941) 197-199; Von Graeve, V., Der Alexander Sarkophag und seine Werkstatt (1970) 66 no. 29 pl. 79; Bammer, A., RA (1976) 99 no. 2 fig. 10.
+Datierung
+	Periode:	-310 - -300 
+Epoche
+	Name:	Ende 4. Jh. v. Chr.
+	Periode:	-310 - -300 
+	Sequenznummer:	2460
+Szene
+	ID:	46414
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/austria/wien/kunsthistorisches_museum/46414X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/austria/wien/kunsthistorisches_museum/46414X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/austria/wien/kunsthistorisches_museum/46414X003.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	435
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	I 169
+Museum
+	Land:	AT
+	Stadt:	Wien
+	Name:	Kunsthistorisches Museum
+	Direktor:	Prof. Dr. Kurt Gschwantler
+	Anrede:	Sehr geehrter Herr Professor,
+	Adresse:	Burgring 5
+	Postleitzahl:	A-1010
+	Kontaktzenter:	Kunsthistorisches Museum
+	Stadt des Kontaktzenters:	Wien
+	Rechteinhaber der Fotos:	© Kunsthistorisches Museum Wien
+	Hat die Fotorechte:	1

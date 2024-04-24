@@ -1,0 +1,56 @@
+http://ark.dasch.swiss/ark:/72163/080e-74226202646f1-5
+Penthesileia_56g_0_0
+Amazones_520_1_0
+
+
+
+Monument
+	ID:	8947
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	sword helmet horse Amazon fight, battle rider
+	Name:	Penthesileia Amazones
+	Beschreibung:	Penthesileia and Achilleus.
+	Bibliographie:	SarkRel II no. 80; Redlich, Die Amazonensarkophage des 2. und 3. Jahrhunderts v. Chr. (1973) 42 pl. 3; Andreae, B., RM 63 (1956) 34 no. 1.
+Datierung
+	Periode:	170 - 180 
+Epoche
+	Name:	2. Hälfte 2. Jh. n. Chr.
+	Periode:	150 - 200 
+	Sequenznummer:	3190
+Szene
+	ID:	9149
+	Beschreibung:	Penthesileia and Achilleus.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/9149X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Penthesileia
+	Katalognummer:	56g
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	520
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	896
+Museum
+	Land:	VA
+	Stadt:	Vaticano
+	Name:	Musei Vaticani
+	Direktor:	Direttore Dott. Antonio Paolucci
+	Anrede:	Chiarissimo Direttore,
+	Postleitzahl:	I-00120
+	Kontaktzenter:	Monumenti, Musei e Gallerie Pontificie
+	Stadt des Kontaktzenters:	Città del Vaticano
+	Rechteinhaber der Fotos:	© Musei Vaticani
+	Kommentar:	Sont réunis sous cette dénomination générique - compte tenu à la fois de leur numérotation unique et de leurs déplacements à l'intérieur des musées - les monuments conservés dans le Museo Chiaramonti, le Museo Gregoriano Etrusco, le Museo Gregoriano Profano, le Museo Pio Clementino et le Museo Pio Cristiano.  En revanche, la localisation spécifique a été conservée dans les cas suivants: Basilica San Pietro, Biblioteca Apostolica Vaticana (et Museo Profano, Museo Sacro, Sala delle Nozze Aldobrandine), Camposanto Teutonico, Giardini, Medagliere Vaticano, Museo Gregoriano Egizio, Necropoli sotto San Pietro.
+	Hat die Fotorechte:	0

@@ -1,0 +1,63 @@
+http://ark.dasch.swiss/ark:/72163/080e-7478173726348-7
+Meleagros_113_1_0
+Atalante_57_1_0
+Herakles_ad 1578_0_0
+
+
+
+Monument
+	ID:	14986
+	Entdeckungsort:	Arles, Arelate
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Atalante Herakles Meleagros
+	Beschreibung:	Atalante is seated on a rock, naked but for a cloak around her legs, and this she draws up before her body. With her are three hunters with clubs, one with a spear (Meleagros).
+Datierung
+	Periode:	201 - 300 
+Szene
+	ID:	15463
+	Beschreibung:	Atalante is seated on a rock, naked but for a cloak around her legs, and this she draws up before her body. With her are three hunters with clubs, one with a spear (Meleagros).
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/autun/musee_rolin/15463X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/autun/musee_rolin/15463X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/autun/musee_rolin/15463X101.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	113
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Atalante
+	Katalognummer:	57
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	ad 1578
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	66
+Museum
+	Land:	FR
+	Stadt:	Autun
+	Name:	Musée Rolin
+	Adresse:	5 rue des Bancs
+	Postleitzahl:	F-71400
+	Kontaktzenter:	Musée Rolin
+	Stadt des Kontaktzenters:	Autun
+	Rechteinhaber der Fotos:	© Musée Rolin, Autun
+	Hat die Fotorechte:	0

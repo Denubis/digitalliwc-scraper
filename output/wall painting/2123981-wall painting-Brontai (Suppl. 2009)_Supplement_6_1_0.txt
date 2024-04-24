@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-769d9f20eac86-c
+Brontai (Suppl. 2009)_Supplement_6_1_0
+
+
+
+Monument
+	ID:	201118
+	Entdeckungsort:	Agios Athanasios (Thessalonica, Macedonia)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	thunderbolt, lightning shield
+	Beschreibung:	bolt
+	Bibliographie:	Tsimbidou-Avioniti, M., Makedonikoi Taphoi sten Foinika kai sten Agio Atanasio Thessalonikis (2005) 146-147 pl. 41.
+Datierung
+	Periode:	-310 - -290 
+Epoche
+	Name:	um 300 v. Chr.
+	Periode:	-310 - -290 
+	Sequenznummer:	2560
+Szene
+	ID:	97963
+	Beschreibung:	bolt
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Brontai (Suppl. 2009)
+	Band:	Supplement
+	Katalognummer:	6
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	GR
+	Stadt:	Agios Athanasios
+	Name:	Tombe macédonienne
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athènes
+	Rechteinhaber der Fotos:	© Macedonian Tomb, Agios Athanasios
+	Hat die Fotorechte:	0

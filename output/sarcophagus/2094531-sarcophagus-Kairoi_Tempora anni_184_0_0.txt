@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-74f8968e0f3d4-f
+Kairoi/Tempora anni_184_0_0
+
+
+
+Monument
+	ID:	24061
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kairoi/Tempora anni
+	Beschreibung:	Triumph of Dionysos. On the left and the right herms of the Seasons.
+Datierung
+	Periode:	160 - 170 
+Szene
+	ID:	25244
+	Beschreibung:	Triumph of Dionysos. On the left and the right herms of the Seasons.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	184
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Subiaco
+	Name:	Monastero Santa Scolastica
+	Rechteinhaber der Fotos:	© Monastero Santa Scolastica, Subiaco
+	Hat die Fotorechte:	0

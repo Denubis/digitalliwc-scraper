@@ -1,0 +1,83 @@
+http://ark.dasch.swiss/ark:/72163/080e-7649a86eb5011-f
+Menses_30_0_0
+
+
+
+Monument
+	ID:	51102
+	Entdeckungsort:	Ostia
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	vexillum, standard cup child procession: sacrificial procession capite velato mysteries of Isis ship, boat festival (diverse, undetermined) standard representation of the months
+	Name:	Isis Septimius Severus Menses
+	Beschreibung:	In einem Zyklus, in dem die Monate durch von Kindern nachgespielte Feste dargestellt werden, wird der März durch das Fest «Navigium Isidis» repräsentiert. Das Schiff schwimmt bereits auf dem Wasser, ein zweirädriger Wagen mit einem viereckigen, vorne offenen Wagenkorb mit einer niedrigen Brüstung wird von zwei Knaben weggezogen. Ein Segeltuch ist baldachinartig über dem Schiff mit hoher Reling aufgespannt. In der Bildmitte stehen vier Kinder einander zugewandt, im rechten Bildteil fünf weitere, die eine Opferprozession darstellen. Das vorderste Kind hält eine Opferschale, die beiden folgenden mit capite velato sind ihm zugewandt und halten je einen t-förmigen Stab in der Hand. Das fünfte Kind ganz rechts trägt eine Standarte mit drei Kaiserporträtbüsten. Vermutlich handelt es sich um die Feier zum Geburtstag des Kaisers Septimius Severus im April. 
+	Bibliographie:	Deubner, L., Dionysos und die Anthesterien, JdI 42 (1927) 186-188; Stern, H., Journal des Savants (1975) 121-129 fig. 1. 
+	Kommentar:	Vom gleichen Zyklus wie Inv. 79643 (Fiche 16081).
+Datierung
+	Periode:	209 - 211 
+Epoche
+	Name:	1. Viertel 3. Jh. n. Chr.
+	Periode:	200 - 225 
+	Sequenznummer:	3340
+Szene
+	ID:	56264
+	Beschreibung:	In einem Zyklus, in dem die Monate durch von Kindern nachgespielte Feste dargestellt werden, wird der März durch das Fest «Navigium Isidis» repräsentiert. Das Schiff schwimmt bereits auf dem Wasser, ein zweirädriger Wagen mit einem viereckigen, vorne offenen Wagenkorb mit einer niedrigen Brüstung wird von zwei Knaben weggezogen. Ein Segeltuch ist baldachinartig über dem Schiff mit hoher Reling aufgespannt. In der Bildmitte stehen vier Kinder einander zugewandt, im rechten Bildteil fünf weitere, die eine Opferprozession darstellen. Das vorderste Kind hält eine Opferschale, die beiden folgenden mit capite velato sind ihm zugewandt und halten je einen t-förmigen Stab in der Hand. Das fünfte Kind ganz rechts trägt eine Standarte mit drei Kaiserporträtbüsten. Vermutlich handelt es sich um die Feier zum Geburtstag des Kaisers Septimius Severus im April.
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	600
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 5. Kultbilder
+	Sequenznummer:	1800
+	Bandnummer:	2
+Catalog Thes CRA
+	Indexnummer:	944
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Catalog Thes CRA
+	Indexnummer:	4
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VI. 1.b. Kindheit und Adoleszenz, röm.
+	Bandnummer:	6
+Catalog Thes CRA
+	Indexnummer:	2
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VI. 2.a. Ackerbau, röm.
+	Bandnummer:	6
+Catalog Thes CRA
+	Indexnummer:	3
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VII. 3. Feste und Spiele, röm.
+Catalog LIMC
+	Artikel:	Menses
+	Katalognummer:	30
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	41017
+Museum
+	Land:	VA
+	Stadt:	Vaticano
+	Name:	Biblioteca Apostolica Vaticana, Sala delle Nozze Aldobrandine
+	Direktor:	Prefetto Raffaele Farina, S. D. B.
+	Anrede:	Reverendissimo Prefetto
+	Postleitzahl:	I-00120
+	Kontaktzenter:	Biblioteca Apostolica Vaticana
+	Stadt des Kontaktzenters:	Città del Vaticano
+	Rechteinhaber der Fotos:	© Biblioteca Apostolica Vaticana
+	Hat die Fotorechte:	1

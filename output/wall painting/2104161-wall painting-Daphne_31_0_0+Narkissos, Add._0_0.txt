@@ -1,0 +1,52 @@
+http://ark.dasch.swiss/ark:/72163/080e-7582438fbfc6a-f
+Daphne_31_0_0
+Narkissos, Add._0_0
+
+
+
+Monument
+	ID:	33766
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	V 3,6 (Casa di Narciso)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	column torch
+	Name:	Eros Narkissos
+	Beschreibung:	Narkissos sitting and holding two spears like a sceptre in his left hand; his mirror image is visible in the source; next to the mirror image kneeling Eros with a torch. Daphne stands before Apollon who is seated in a marble throne decorated with griffins, a kithara set against it.
+	Bibliographie:	Schefold, WP 81; PompPitt Mos III (1991) 909 fig. 15.
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	49459
+	Beschreibung:	Narkissos sitting and holding two spears like a sceptre in his left hand; his mirror image is visible in the source; next to the mirror image kneeling Eros with a torch. Daphne stands before Apollon who is seated in a marble throne decorated with griffins, a kithara set against it.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Daphne
+	Katalognummer:	31
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Narkissos, Add.
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	V 3,6
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1

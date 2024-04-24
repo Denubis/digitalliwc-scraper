@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-764268daae2ea-9
+
+
+
+Monument
+	ID:	50576
+	Entdeckungsort:	Tivoli
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Painting depicting a sitting Isis holding a sceptre in the right and lifting the left hand; before her stands a crowned female worshipper (or priest) holding an offering in the right hand 
+	Bibliographie:	Tran Tam Tinh, Catalogue des peintures romaines du musée du Louvre (1974) 100 no. 86 fig. 98; De Vos, M., L’egittomania in pitture e mosaici romano-campani della prima età imperiale, EPRO 84 (1980) 26-28 pl. 30.
+Datierung
+	Periode:	130 - 135 
+Epoche
+	Name:	2. Viertel 2. Jh. n. Chr.
+	Periode:	125 - 150 
+	Sequenznummer:	3210
+Szene
+	ID:	55732
+	Beschreibung:	Painting depicting a sitting Isis holding a sceptre in the right and lifting the left hand; before her stands a crowned female worshipper (or priest) holding an offering in the right hand 
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	81
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	III. 6.c. Verehrung
+	Sequenznummer:	2400
+	Bandnummer:	3
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	P 57
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

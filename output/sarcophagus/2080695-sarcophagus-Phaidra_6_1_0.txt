@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-7432c7ef52098-e
+Phaidra_6_1_0
+
+
+
+Monument
+	ID:	10109
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Phaidra
+	Beschreibung:	Phaidra seated to the right. On the right her nurse holds her hand. Eros leans himself against Phaidra's knees.
+Szene
+	ID:	10328
+	Beschreibung:	Phaidra seated to the right. On the right her nurse holds her hand. Eros leans himself against Phaidra's knees.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Phaidra
+	Katalognummer:	6
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 1642
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

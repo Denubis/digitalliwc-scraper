@@ -1,0 +1,126 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a571fd45302-d
+Amazones_483_0_0
+Stheneboia_5_0_1
+Pegasos (Pegasos, Bellerophon)_205_0_0
+Pegasos (Pegasos, Bellerophon)_239_0_0
+Aktaion_90_0_0
+Apollon/Apollo_467_0_0
+Ariadne (vol. III)_58_0_0
+Marsyas I_53a_0_0
+Pelias_22_0_1
+Apollon/Apollo_294_1_0
+Hesione (S)_12_0_0
+
+
+
+Monument
+	ID:	114
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	IX 2,16 (Domus T. D. Pantherae)
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	shield spear axe, hatchet, pelekys, sacena, securis statue horse warrior, soldier Amazon fight, battle
+	Name:	Aktaion Apollon/Apollo Ariadne Artemis Hesione Marsyas I Pelias Sthenaros Stheneboia Pegasos Amazones
+	Inschrift:	Mural painting with various scenes.
+	Bibliographie:	Schefold, WP 242b.
+Datierung
+	Periode:	-15 - 63 
+Epoche
+	Name:	3. pompejanischer Stil
+	Periode:	-15 - 63 
+	Sequenznummer:	1340
+Szene
+	ID:	46543
+	Szenerieangabe:	e
+	Beschreibung:	1) Bellerophon and Stheneboia. 2) Bellerophon sitting on the back of Pegsos while pursuing the Chimaira.
+	Bibliographie:	Schauenburg, A., AA (1958) 24 no. 11; Schefold, K., Vergessenes Pompeji (1962) 76 no. 156 pl. 58, 3.
+	Sequenznummer:	1040
+	Name:	Artemis Stheneboia Pegasos Amazones
+	Stichwort:	shield axe, hatchet, pelekys, sacena, securis statue warrior, soldier Amazon fight, battle rider
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	483
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Stheneboia
+	Katalognummer:	5
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Pegasos (Pegasos, Bellerophon)
+	Katalognummer:	205
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Pegasos (Pegasos, Bellerophon)
+	Katalognummer:	239
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	48238
+	Szenerieangabe:	(b)
+	Beschreibung:	A Peliade accompanying Pelias to the cauldron. Marsyas (I), Apollon, a Skythian and a kneeling figure who pleads for Marsyas' life.
+	Bibliographie:	Schefold, WP 242b; Peters, W. J., Landscape in Romano-campanian Mural Painting (1963) 105 fig. 91; Dawson, M. C., Romano-campanian Mythological Landscape Painting(2) (1965) pl. 1.
+	Sequenznummer:	1010
+	Name:	Aktaion Apollon/Apollo Ariadne Marsyas I Pelias
+Catalog LIMC
+	Artikel:	Aktaion
+	Katalognummer:	90
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	467
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ariadne (vol. III)
+	Katalognummer:	58
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Marsyas I
+	Katalognummer:	53a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Pelias
+	Katalognummer:	22
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	294
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	49543
+	Szenerieangabe:	d
+	Beschreibung:	Herakles with club and bow, of Hesione only parts are preserved.
+	Sequenznummer:	1030
+Catalog LIMC
+	Artikel:	Hesione (S)
+	Katalognummer:	12
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	IX 2,16
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Domus T. Dentati Pantherae

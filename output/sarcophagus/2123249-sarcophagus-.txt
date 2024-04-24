@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-76932811a2d3a-7
+
+
+
+Monument
+	ID:	91114
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	GR
+	Kategorie:	relief
+	Stichwort:	garland ribbon
+	Name:	Eros
+	Grössenangabe:	Y. 0.32 m - Mήκ. 0.965 m - Πάχ. 0.15 m
+	Beschreibung:	Eρωτιδεύς.
+	Kommentar:	4170
+Szene
+	ID:	96596
+	Beschreibung:	Eρωτιδέας σε βηματισμό προς αριστερά. Στηρίζον το δεξιό πόδι. Γιρλάντες και ταινίες εκατέρωθεν της μορφής.
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	α γ κ 31
+Museum
+	Land:	GR
+	Stadt:	Komotini
+	Name:	Musée Archéologique
+	Direktor:	Dr. Photini Balla
+	Adresse:	Odos Panepistimiou 22
+	Postleitzahl:	GR-10672
+	Kontaktzenter:	Bureau LIMC Société Archéologique d'Athènes
+	Stadt des Kontaktzenters:	Athènes
+	Rechteinhaber der Fotos:	© Archaeological Museum of Komotini
+	Hat die Fotorechte:	0

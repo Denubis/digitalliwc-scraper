@@ -1,0 +1,73 @@
+http://ark.dasch.swiss/ark:/72163/080e-73dbf5415423b-a
+Kentauroi et Kentaurides (S)_490_0_0
+Atlas_48_1_0
+Lupa Romana_18_0_0
+
+
+
+Monument
+	ID:	3982
+	Entdeckungsort:	Ostia
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	panther, leopard torch lionskin centaur
+	Name:	Atlas Lupa Romana Romulus Remus Kentauroi and Kentaurides
+	Beschreibung:	Child's sarcophagus: Atlas, kneeling, naked supports the central clipeus, in which the wolf with Romulus and Remus is represented. Two centaurs with fruits.
+	Bibliographie:	Helbig (4) IV no. 3121; Castagnoli, F., EAA IV (1961) 732 fig. 888; Dulière, C., Lupa Romana II (1979) no. 131 fig. 310-311.
+Datierung
+	Periode:	150 - 200 
+Epoche
+	Name:	2. Hälfte 2. Jh. n. Chr.
+	Periode:	150 - 200 
+	Sequenznummer:	3190
+Szene
+	ID:	4026
+	Beschreibung:	Child's sarcophagus: Atlas, kneeling, naked supports the central clipeus, in which the wolf with Romulus and Remus is represented Two centaurs with fruits..
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/museo_ostiense/4026X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/museo_ostiense/4026X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/museo_ostiense/4026X203.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/museo_ostiense/4026X299.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	490
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Atlas
+	Katalognummer:	48
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Lupa Romana
+	Katalognummer:	18
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	106
+Museum
+	Land:	IT
+	Stadt:	Ostia
+	Name:	Museo Ostiense
+	Direktor:	Dott.ssa Elvira Angeloni
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Viale dei Romagnoli 717
+	Postleitzahl:	I-00119
+	Kontaktzenter:	Soprintendenza archeologica di Ostia
+	Stadt des Kontaktzenters:	Ostia Antica - Roma
+	Rechteinhaber der Fotos:	Archivio Fotografico della Soprintendenza Archeologica per i beni archeologici di Ostia
+	Hat die Fotorechte:	1

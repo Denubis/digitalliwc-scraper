@@ -1,0 +1,84 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a9014f0ef9f-e
+Thetis_44_1_0
+Achilleus, Add._1_0
+Achilleus, Add._0_0
+Achilleus, Add._0_0
+
+
+
+Monument
+	ID:	378
+	Entdeckungsort:	Ostia
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	helmet tree column kline, bed greaves mourning ablution, washing urn warrior, soldier funerary monument corpse biga
+	Name:	Achilleus Hektor Patroklos Thetis
+	Beschreibung:	As permanent loan in Ostia. Achilleus is lamenting Patroklos who lays on a cline; professional mourners; companions. Veiled Thetis.
+	Bibliographie:	Grassinger, D., Achill, Adonis, Aeneas, Aktaion, Alkestis, Amazonen, SarkRel XII 1 (1999) 204 no. 27 pl. 29, 1. 3; 30, 1; 31, 2; Zanker, P./Eswald, B. Chr., Mit Mythen leben. Die Bilderwelt römischer Sarkophage (2004) 69 fig. 50; Homer. Der Mythos von Troia in Dichtung und Kunst (Ausstellung Basel/Mannheim 2008) no. 122.
+Datierung
+	Periode:	150 - 175 
+	Kommentar:	about 160 A.D.
+Epoche
+	Name:	3. Viertel 2. Jh. n. Chr.
+	Periode:	150 - 175 
+	Sequenznummer:	3220
+Szene
+	ID:	15996
+	Beschreibung:	Achilleus is lamenting Patroklos who lays on a cline; professional mourners; companions. Veiled Thetis.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/berlin/staatliche_museen_zu_berlin/antikensammlung/15996X001.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Thetis
+	Katalognummer:	44
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus, Add.
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus, Add.
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus, Add.
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	43504
+Museum
+	Land:	IT
+	Stadt:	Ostia
+	Name:	Museo Ostiense
+	Direktor:	Dott.ssa Elvira Angeloni
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Viale dei Romagnoli 717
+	Postleitzahl:	I-00119
+	Kontaktzenter:	Soprintendenza archeologica di Ostia
+	Stadt des Kontaktzenters:	Ostia Antica - Roma
+	Rechteinhaber der Fotos:	Archivio Fotografico della Soprintendenza Archeologica per i beni archeologici di Ostia
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	Ehem. A.O.
+	Nummer:	Inv 1982.1
+Museum
+	Land:	DE
+	Stadt:	Berlin
+	Name:	Staatliche Museen zu Berlin, Antikensammlung
+	Direktor:	Dir. Prof. Dr. Andreas Scholl
+	Anrede:	Sehr geehrter Herr Professor,
+	Adresse:	Bodestrasse 1-3
+	Postleitzahl:	D-10178
+	E-Mail:	ant@smb.spk-berlin.de
+	Kontaktzenter:	Antikensammlung, Staatliche Museen zu Berlin - Preussischer Kulturbesitz
+	Stadt des Kontaktzenters:	Berlin
+	Rechteinhaber der Fotos:	© Staatliche Museen zu Berlin, Antikensammlung
+	Hat die Fotorechte:	1

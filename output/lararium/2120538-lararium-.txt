@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-766c660841407-5
+
+
+
+Monument
+	ID:	53716
+	Entdeckungsort:	Pompei
+	Objekt:	lararium
+	Land:	CH
+	Kategorie:	cultual installations
+	Beschreibung:	I 7, 7; House of the Sacerdos Amandus, niche in a wall used as a lararium
+Szene
+	ID:	59109
+	Beschreibung:	I 7, 7; House of the Sacerdos Amandus, niche in a wall used as a lararium
+Catalog Thes CRA
+	Indexnummer:	4
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Lararium, Rom.
+	Lemata:	Lararium, Rom.
+	Sequenznummer:	3724
+	Bandnummer:	4
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	I 7,7
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa del Sacerdos Amandus

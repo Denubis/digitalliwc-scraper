@@ -1,0 +1,57 @@
+http://ark.dasch.swiss/ark:/72163/080e-7651dd39a3fc7-3
+Daemones anonymi (in Etruria) (Suppl. 2009)_Supplement_1_0
+
+
+
+Monument
+	ID:	51712
+	Entdeckungsort:	Tarquinia
+	Entdeckungsort Details:	Tomba dell'Orco II
+	Objekt:	wall painting
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	phiale, phiale mesomphalos, patera jug demon alabastron
+	Beschreibung:	Painting on the right wall: youth with jug and phiale; next to him a winged youth with alabastron and a small rod for oil or make-up (kylikeion) (part of a banqueting scene) (dat. ca. 350 BC)
+	Bibliographie:	Steingräber PittEtr n. 94 fig. 252-256; Steingräber EtrWmal 337-339 no 94 fig. 252; Krauskopf, Todesdämonen 87 pl. 19b.
+Datierung
+	Periode:	-350 - -325 
+Epoche
+	Name:	3. Viertel 4. Jh. v. Chr.
+	Periode:	-350 - -325 
+	Sequenznummer:	2510
+Szene
+	ID:	56928
+	Beschreibung:	Painting on the right wall: youth with jug and phiale; next to him a winged youth with alabastron and a small rod for oil or make-up (kylikeion) (part of a banqueting scene) (dat. ca. 350 BC)
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	44
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 4.a. Bankett, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	1420
+	Bandnummer:	2
+Catalog LIMC
+	Artikel:	Daemones anonymi (in Etruria) (Suppl. 2009)
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba dell'Orco II
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Necropoli
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

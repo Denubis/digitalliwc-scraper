@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-761020ec89f79-4
+Amazones_207_0_0
+Achilleus_772_0_0
+
+
+
+Monument
+	ID:	43776
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	Amazon fight, battle
+	Name:	Achilleus Penthesileia Amazones
+	Bibliographie:	Matz, F./v. Duhn, F., Antike Bildkunst in Rom II (1881), Nr. 3357; SarkRel II Nr. 100 und 101 Taf. 43; Redlich, R., Die Amazonensarkophage des 2. und 3. Jh. n. Chr. (1942) 93; Vermeule, C. C., The Dal Pozzo Albani Drawings of Classical Antiquities in the Royal Library at Windsor Castle, Transactions of the American Philosophical Society 56 Teil 2 (1966) Nr. 8071 und 8074.
+Datierung
+	Periode:	230 - 240 
+	Kommentar:	about
+Epoche
+	Name:	2. Viertel 3. Jh. n. Chr.
+	Periode:	225 - 250 
+	Sequenznummer:	3350
+Szene
+	ID:	46046
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	207
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	772
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel II 100-101
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Lancellotti
+	Rechteinhaber der Fotos:	© Palazzo Lancellotti, Roma
+	Hat die Fotorechte:	1

@@ -1,0 +1,65 @@
+http://ark.dasch.swiss/ark:/72163/080e-76a7d7f83c9bd-6
+Helene, Add._Supplement_4_0_0
+Menelaos, Add._1_0_0
+Dido, Add._Supplement_1_0
+
+
+
+Monument
+	ID:	201244
+	Entdeckungsort:	Terzigno
+	Entdeckungsort Details:	Villa 6
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	spear seat, chair, sedes, sedile
+	Name:	Africa Dido Eros/Amor, Cupido Helene Hermione Klytaimestra Libye Menelaos Phaidra Aphrodite/Venus Anna
+	Beschreibung:	throning queen in dolorous position surrounded by women; probably Dido; according to Strocka all figures belong to the legend of Dido and Aineias: Ares/Mars, Hermes, Zeus/Iuppiter and Iuno, Dido; other interpretation: Menelaos, Paris, Tyndareus; Leda and Helene
+	Bibliographie:	Cicirelli, C., Il complesso di pitture e pavimenti di II stile della Villa 6 di Terzigno, in: Docter, R. F/Moormann, E. M. (ed.), Proceedings of the XVth International Congress of Classical Archaeology (1999) 118-122 pl. 11a-b; Civale, A., Terzigno, villa 6. in: Guzzo, P. G. (ed.), Storie da un'eruzione. Pompei Ercolano Stabia. Cat. Exh. Pompei (2003) 86-89; Strocka, V. M., Troja, Karthago, Rom. Ein vorvergilisches Bildprogramm in Terzigno bei Pompeji, RM 112, 2005/06, 79-120 fig. 9; Bergmann, B., AJA 110, 2006, 498-499 fig. 5; Moormann, E. M., in: Dossiers d'Archéologie, 318, 2006, 26-29.
+Datierung
+	Periode:	-40 - -30 
+	Kommentar:	Middle of the 1st. cent. B.C.
+Epoche
+	Name:	2. pompejanischer Stil
+	Periode:	-80 - -1 
+	Sequenznummer:	1330
+Szene
+	ID:	98152
+	Beschreibung:	tthroning queen in dolorous position surrounded by women; probably Dido; according to Strocka all figures belong to the legend of Dido and Aineias: Ares/Mars, Hermes, Zeus/Iuppiter and Iuno, Dido; other interpretation: Menelaos, Paris, Tyndareus; Leda and Helene
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Helene, Add.
+	Band:	Supplement
+	Katalognummer:	4
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Menelaos, Add.
+	Katalognummer:	1
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dido, Add.
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Terzigno
+	Name:	Villa 6
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

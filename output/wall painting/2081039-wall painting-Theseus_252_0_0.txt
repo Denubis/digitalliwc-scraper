@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-7437b2f24e150-4
+Theseus_252_0_0
+
+
+
+Monument
+	ID:	10454
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Theseus
+	Beschreibung:	Theseus and the Minotauros.
+Szene
+	ID:	10682
+	Beschreibung:	Theseus and the Minotauros.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Theseus
+	Katalognummer:	252
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	DE
+	Stadt:	Bad Homburg
+	Name:	Saalburgmuseum
+	Direktor:	Herrn Dr. Wolfgang Schmidt
+	Adresse:	Saalburg-Kastell
+	Postleitzahl:	D-61350
+	Kontaktzenter:	Saalburgmuseum
+	Stadt des Kontaktzenters:	Bad Homburg
+	Rechteinhaber der Fotos:	© Saalburgmuseum, Bad Homburg
+	Hat die Fotorechte:	1

@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-74344839e7e65-e
+Phaidra_12_1_0
+
+
+
+Monument
+	ID:	10214
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Phaidra
+	Beschreibung:	Phaidra looking pensive, seated, her hands on her knees. On the right her nurse?
+Szene
+	ID:	10437
+	Beschreibung:	Phaidra looking pensive, seated, her hands on her knees. On the right her nurse?
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Phaidra
+	Katalognummer:	12
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	29
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	British Museum
+	Direktor:	Dr. Charles Arnold
+	Adresse:	Great Russell Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	British Museum - Greek and Roman Antiquities
+	Stadt des Kontaktzenters:	London WC 1B 3DG
+	Rechteinhaber der Fotos:	© British Museum, London
+	Hat die Fotorechte:	1

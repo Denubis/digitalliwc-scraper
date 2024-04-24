@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-74655cb92dd32-e
+Sikelia_6_0_1
+Africa_52_0_0
+
+
+
+Monument
+	ID:	13671
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	III 8,8-9
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	wreath, crown, stephane, corona ear of corn bow quiver proboscis
+	Name:	Africa Aigyptos Sikelia
+	Beschreibung:	Bust of a woman, wearing crown from which corn ears spring. Further corn ears are in her long hair. A leg hangs from either side of her head. Bust of Sikelia. Bust of another personification to the left - either Alexandria or Africa.
+	Bibliographie:	Helbig, W., Wandgemelde Campaniens (1868) no. 1115. 
+Szene
+	ID:	14026
+	Beschreibung:	Bust of a woman, wearing crown from which corn ears spring. Further corn ears are in her long hair. A leg hangs from either side of her head. Bust of Sikelia. Bust of another personification to the left - either Alexandria or Africa.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Sikelia
+	Katalognummer:	6
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Africa
+	Katalognummer:	52
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	III 8,8-9
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1

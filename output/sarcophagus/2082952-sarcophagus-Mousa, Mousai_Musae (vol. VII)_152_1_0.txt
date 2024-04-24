@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-74530c5e6fe6d-e
+Mousa, Mousai/Musae (vol. VII)_152_1_0
+
+
+
+Monument
+	ID:	12384
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Mousa, Mousai
+Szene
+	ID:	12684
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/milano/museo_civico_archeologico/12684X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	152
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Milano
+	Name:	Museo Civico Archeologico
+	Direktor:	Direttore Dott.ssa Caporusso Donatella
+	Adresse:	Via Bernardino Luini 2
+	Postleitzahl:	I-20123
+	Kontaktzenter:	Museo Civico Archeologico
+	Stadt des Kontaktzenters:	Milano
+	Rechteinhaber der Fotos:	© Museo Civico Archeologico, Milano
+	Hat die Fotorechte:	1

@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-74a4320faea49-9
+Mithras_31_0_0
+
+
+
+Monument
+	ID:	18117
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Baths of Caracalla
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Mithras
+	Beschreibung:	Standing Mithras with Phrygian cap, long-sleeved tunic and trousers, holding globe in the mithraeum in the Baths of Caracalla in Rome.
+Szene
+	ID:	18927
+	Beschreibung:	Standing Mithras with Phrygian cap, long-sleeved tunic and trousers, holding globe in the mithraeum in the Baths of Caracalla in Rome.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Mithras
+	Katalognummer:	31
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Mitreo
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Terme di Caracalla
+	Rechteinhaber der Fotos:	© Terme di Caracalla, Roma
+	Hat die Fotorechte:	1

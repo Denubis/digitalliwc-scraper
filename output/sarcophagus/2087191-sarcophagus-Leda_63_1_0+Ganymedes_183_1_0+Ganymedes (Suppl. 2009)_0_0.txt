@@ -1,0 +1,56 @@
+http://ark.dasch.swiss/ark:/72163/080e-748fa6c278778-6
+Leda_63_1_0
+Ganymedes_183_1_0
+Ganymedes (Suppl. 2009)_0_0
+
+
+
+Monument
+	ID:	16662
+	Entdeckungsort:	Aquincum
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Ganymedes Leda
+	Bibliographie:	Burger, A. Sz., CSIR Ungarn VII (1991) 63-64 no. 101 pl. 55.
+Szene
+	ID:	17313
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/hungary/budapest/musee_national_hongrois_magyar_nemzeti_muzeum/17313X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/hungary/budapest/musee_national_hongrois_magyar_nemzeti_muzeum/17313X002.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Leda
+	Katalognummer:	63
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ganymedes
+	Katalognummer:	183
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ganymedes (Suppl. 2009)
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	62.85.1
+Museum
+	Land:	HU
+	Stadt:	Budapest
+	Name:	Musée National Hongrois (Magyar Nemzeti Múzeum)
+	Direktor:	Dir. Dr. Tibor Kovács
+	Anrede:	Dear Dr. Kovács
+	Adresse:	Múzeum Krt. 14-16
+	Postleitzahl:	H-1088
+	Kontaktzenter:	Musée National Hongrois (Magyar Nemzeti Múzeum)
+	Stadt des Kontaktzenters:	Budapest
+	Rechteinhaber der Fotos:	© Magyar Nemzeti Múzeum, Budapest
+	Hat die Fotorechte:	1

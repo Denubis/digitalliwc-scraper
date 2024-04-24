@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-76b340957c5d3-5
+Polyphemos I, Add._Supplement_0_0
+
+
+
+Monument
+	ID:	202436
+	Entdeckungsort:	Neos Marmaras, Galepsos
+	Entdeckungsort Details:	south-necropolis
+	Objekt:	sarcophagus
+	Material:	terracotta
+	Land:	CH
+	Kategorie:	relief
+	Name:	Polyphemos I
+	Beschreibung:	Blinding of Polyphemos (I)
+	Bibliographie:	Koulouli-Chrysanthaki, Ch., ArchDelt 27, 1972, chron. 527; Coulié, A., BCH 124, 2000, 131. 143; Koukouli-Chrysanthaki, Ch., in: Rois, cités, nécropoles. Institution, rites et monuments en Macédoine, ΜΕΛΕΤΗΜΑΤΑ 45 (2006) 182.
+Datierung
+	Periode:	-510 - -500 
+Epoche
+	Name:	Ende 6. Jh. v. Chr.
+	Periode:	-510 - -500 
+	Sequenznummer:	2180
+Szene
+	ID:	99435
+	Beschreibung:	Blinding of Polyphemos (I)
+Catalog LIMC
+	Artikel:	Polyphemos I, Add.
+	Band:	Supplement
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	δ 1192
+Museum
+	Land:	GR
+	Stadt:	Kavala
+	Name:	Musée Archéologique
+	Direktor:	Prof. Dr. V. Lambrinoudakis,
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-105 61
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Archaeological Museum of Kavala
+	Hat die Fotorechte:	0

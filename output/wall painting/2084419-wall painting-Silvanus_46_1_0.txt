@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-74680577d0e54-5
+Silvanus_46_1_0
+
+
+
+Monument
+	ID:	13859
+	Entdeckungsort:	Ostia
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Silvanus
+Szene
+	ID:	14237
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/museo_ostiense/14237X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/museo_ostiense/14237X299.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Silvanus
+	Katalognummer:	46
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	156
+Museum
+	Land:	IT
+	Stadt:	Ostia
+	Name:	Museo Ostiense
+	Direktor:	Dott.ssa Elvira Angeloni
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Viale dei Romagnoli 717
+	Postleitzahl:	I-00119
+	Kontaktzenter:	Soprintendenza archeologica di Ostia
+	Stadt des Kontaktzenters:	Ostia Antica - Roma
+	Rechteinhaber der Fotos:	Archivio Fotografico della Soprintendenza Archeologica per i beni archeologici di Ostia
+	Hat die Fotorechte:	1

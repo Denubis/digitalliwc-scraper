@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e481e2cbc69-1
+Victoria_301a_0_0
+
+
+
+Monument
+	ID:	4581
+	Entdeckungsort:	Ephesos (Ionia)
+	Entdeckungsort Details:	Library of Celsus
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Victoria
+	Beschreibung:	On each corner a Victoria holding garlands. Erotes.
+Szene
+	ID:	4639
+	Beschreibung:	On each corner a Victoria holding garlands. Erotes.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Victoria
+	Katalognummer:	301a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	TR
+	Stadt:	Ephèse
+	Name:	Bibliothèque de Celsus
+	Rechteinhaber der Fotos:	© Ephesos
+	Hat die Fotorechte:	1

@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-74a97c3b14103-1
+Odysseus_176_0_0
+
+
+
+Monument
+	ID:	18491
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Odysseus
+	Monument-URL:	arachne.dainst.org/entity/1408983
+Szene
+	ID:	19327
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Odysseus
+	Katalognummer:	176
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	565
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Albani
+	Adresse:	Via della Conciliazione 30
+	Postleitzahl:	I-00193
+	Kontaktzenter:	Amministrazione Torlonia
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Phot. proprietà Principe Torlonia
+	Hat die Fotorechte:	0

@@ -1,0 +1,82 @@
+http://ark.dasch.swiss/ark:/72163/080e-741c891a60f34-e
+Oinone_7_1_0
+Athena/Minerva_429_1_0
+Ide II_4_0_0
+Skamandros_5_0_0
+Paridis iudicium_79_1_0
+
+
+
+Monument
+	ID:	8536
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Athena/Minerva Ide II Oinone Skamandros Paridis iudicium
+	Beschreibung:	Judgement of Paris: Hera, Athena, Hermes, Aphrodite, Oinoe, Paris and Eros. Ide (II) may be the young woman. Oinone, in the centre, holds a flute of Pan, standing next to Paris and looking sad. From the left three goddesses and Hermes approaching. On the right Ida, Okeanos (Skamandros?), Artemis(?), Helios and Ge.
+Szene
+	ID:	8734
+	Beschreibung:	Judgement of Paris: Hera, Athena, Hermes, Aphrodite, Oinoe, Paris and Eros. Ide (II) may be the young woman. Oinone, in the centre, holds a flute of Pan, standing next to Paris and looking sad. From the left three goddesses and Hermes approaching. On the right Ida, Okeanos (Skamandros?), Artemis(?), Helios and Ge.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/8734X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/8734X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/8734X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/8734X103.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/8734X104.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Oinone
+	Katalognummer:	7
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	429
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ide II
+	Katalognummer:	4
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Skamandros
+	Katalognummer:	5
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Paridis iudicium
+	Katalognummer:	79
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8563
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Romano
+	Direktor:	Soprintendente Dott. Giuseppe Proietti
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali - Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

@@ -1,0 +1,52 @@
+http://ark.dasch.swiss/ark:/72163/080e-7412af6b787ff-7
+Sphinx (S)_293_1_0
+
+
+
+Monument
+	ID:	7838
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	sacrificial stand fruit sphinx
+	Name:	Sphinx (Thebana)
+	Beschreibung:	Sarkophagplatte (Vorder- [Puchstein] oder Rückseite [Giuliano]).Antithetische hockende Sphingen beidseits eines dreiteiligen Ständers (unten quadratisch mit Profilen, darauf zwei runde korbähnliche Aufsätze) mit Früchten. Die Sphingen haben die eine Vorderpfote auf den quadratischen Teil des Ständers gelegt.
+	Bibliographie:	Puchstein, O., AA 7 (1892) 99 Nr. 1454;Kallipolitis, B.G., Chronologiki katataxis ... (1958) Nr. 43;Giuliano, A., Il commercio dei sarcofagi attici (1962) Nr. 398;Koch/Sichtermann, RömSark 444 Abb. 474.
+	Monument-URL:	arachne.dainst.org/entity/1188388
+Datierung
+	Periode:	150 - 175 
+Epoche
+	Name:	3. Viertel 2. Jh. n. Chr.
+	Periode:	150 - 175 
+	Sequenznummer:	3220
+Szene
+	ID:	8021
+	Beschreibung:	Two antithetical crouching Sphinxes.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/berlin/staatliche_museen_zu_berlin/antikensammlung/8021X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Sphinx (S)
+	Katalognummer:	293
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Sk 1454
+Museum
+	Land:	DE
+	Stadt:	Berlin
+	Name:	Staatliche Museen zu Berlin, Antikensammlung
+	Direktor:	Dir. Prof. Dr. Andreas Scholl
+	Anrede:	Sehr geehrter Herr Professor,
+	Adresse:	Bodestrasse 1-3
+	Postleitzahl:	D-10178
+	E-Mail:	ant@smb.spk-berlin.de
+	Kontaktzenter:	Antikensammlung, Staatliche Museen zu Berlin - Preussischer Kulturbesitz
+	Stadt des Kontaktzenters:	Berlin
+	Rechteinhaber der Fotos:	© Staatliche Museen zu Berlin, Antikensammlung
+	Hat die Fotorechte:	1

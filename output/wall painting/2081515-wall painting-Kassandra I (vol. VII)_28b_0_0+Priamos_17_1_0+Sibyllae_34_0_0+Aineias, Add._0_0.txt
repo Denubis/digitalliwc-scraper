@@ -1,0 +1,68 @@
+http://ark.dasch.swiss/ark:/72163/080e-743e811139b9c-7
+Kassandra I (vol. VII)_28b_0_0
+Priamos_17_1_0
+Sibyllae_34_0_0
+Aineias, Add._0_0
+
+
+
+Monument
+	ID:	10936
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 10,2
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	wreath, crown, stephane, corona tree tripod table, mensa, trapeza vase branch divination prophetess urn
+	Name:	Aineias Kassandra I Priamos Sibyllae
+	Beschreibung:	Dans un sanctuaire d’Apollon Kassandra (?) tend son bras droit au-dessus d’une urne posée sur une table près d’elle; elle est ici représentée en tant que prophétesse: Kassandra, couronnée de laurier, prophétise en présence d’un vieillard, d’un jeune homme debout et d’un enfant (Priamos, Hektor, Astyanax ou Troilos [Davreux, Amandry] ou Anchises, Aineias, Askanios [Robert, Simon]).
+	Bibliographie:	Schefold, WP 123; Helbig, Wandgemälde n. 1391b; HBr I 248 pl. 180; Davreux, Cassandre 122 n. 44 fig. 26; Amandry, P., La mantique apollinienne à Delphes (1950) n. 24; EncVirg 4 (1988) 196 s.v. Pompei (E. Simon).
+Datierung
+	Periode:	-15 - 63 
+Epoche
+	Name:	3. pompejanischer Stil
+	Periode:	-15 - 63 
+	Sequenznummer:	1340
+Szene
+	ID:	11179
+	Beschreibung:	Dans un sanctuaire d’Apollon Kassandra (?) tend son bras droit au-dessus d’une urne posée sur une table près d’elle; elle est ici représentée en tant que prophétesse: Kassandra, couronnée de laurier, prophétise en présence d’un vieillard, d’un jeune homme debout et d’un enfant (Priamos, Hektor, Astyanax ou Troilos [Davreux, Amandry] ou Anchises, Aineias, Askanios [Robert, Simon]).
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/11179X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kassandra I (vol. VII)
+	Katalognummer:	28b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Priamos
+	Katalognummer:	17
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Sibyllae
+	Katalognummer:	34
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aineias, Add.
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8999
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

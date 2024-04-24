@@ -1,0 +1,31 @@
+http://ark.dasch.swiss/ark:/72163/080e-7584eff753351-6
+Diomedes I_71_0_0
+
+
+
+Monument
+	ID:	33958
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Odysseus
+	Beschreibung:	Odysseus with pilos, chlamys, chitoniskos in a niche.
+Szene
+	ID:	35708
+	Beschreibung:	Odysseus with pilos, chlamys, chitoniskos in a niche.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Diomedes I
+	Katalognummer:	71
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	112
+Museum
+	Land:	TR
+	Stadt:	Konya
+	Name:	Musée Archéologique
+	Rechteinhaber der Fotos:	© Archaeological Museum Konya
+	Hat die Fotorechte:	1

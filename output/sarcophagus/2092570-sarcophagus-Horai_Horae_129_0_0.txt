@@ -1,0 +1,31 @@
+http://ark.dasch.swiss/ark:/72163/080e-74dc8d74dc1c7-e
+Horai/Horae_129_0_0
+
+
+
+Monument
+	ID:	22084
+	Entdeckungsort:	Ivrea
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief_stone
+	Name:	Horai/Horae
+	Beschreibung:	Sarcophagus of C. Ateius Valerius. The acroteria of the sarcophagus of the tabernacle type are depicted as busts of the four Horae.
+Szene
+	ID:	23099
+	Beschreibung:	The acroteria of the sarcophagus of the tabernacle type are depicted as busts of the four Horae.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	129
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Ivrea
+	Name:	Duomo
+	Rechteinhaber der Fotos:	© Duomo, Ivrea
+	Hat die Fotorechte:	1

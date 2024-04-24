@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-74648872b8e90-a
+Rea Silvia_5_0_0
+Ares/Mars_492_0_0
+
+
+
+Monument
+	ID:	13613
+	Entdeckungsort:	Szöni
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Rea Silvia
+	Beschreibung:	Mars approaching the sleeping Rea Silvia.
+Szene
+	ID:	13966
+	Beschreibung:	Mars approaching the sleeping Rea Silvia.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Rea Silvia
+	Katalognummer:	5
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ares/Mars
+	Katalognummer:	492
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	HU
+	Stadt:	Budapest
+	Name:	Musée National Hongrois (Magyar Nemzeti Múzeum)
+	Direktor:	Dir. Dr. Tibor Kovács
+	Anrede:	Dear Dr. Kovács
+	Adresse:	Múzeum Krt. 14-16
+	Postleitzahl:	H-1088
+	Kontaktzenter:	Musée National Hongrois (Magyar Nemzeti Múzeum)
+	Stadt des Kontaktzenters:	Budapest
+	Rechteinhaber der Fotos:	© Magyar Nemzeti Múzeum, Budapest
+	Hat die Fotorechte:	1

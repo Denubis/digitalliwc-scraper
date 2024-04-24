@@ -1,0 +1,63 @@
+http://ark.dasch.swiss/ark:/72163/080e-7407d933c72b1-3
+Persephone (S)_254_0_0
+Demeter/Ceres (vol. IV)_127_0_0
+Hades/Pluto_36_1_0
+Horai/Horae_68b_0_0
+Hades/Pluto_61_0_0
+Mercurius_ad 322_0_0
+
+
+
+Monument
+	ID:	7076
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Demeter/Ceres Horai/Horae Proserpina Hades/Pluto Persephone
+	Beschreibung:	Representation of the rape of Proserpina; Ceres on a chariot drawn by two serpents, in front of her Caligola with a torch; in the corners two winged Horae with hitched up dress.
+Datierung
+	Periode:	150 
+Szene
+	ID:	7222
+	Beschreibung:	Representation of the rape of Proserpina; Ceres on a chariot drawn by two serpents, in front of her Caligola with a torch; in the corners two winged Horae with hitched up dress.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Persephone (S)
+	Katalognummer:	254
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Demeter/Ceres (vol. IV)
+	Katalognummer:	127
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	36
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	68b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	61
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	ad 322
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 3, 363
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Rospigliosi Pallavicini
+	Rechteinhaber der Fotos:	© Palazzo Rospigliosi Pallavicini, Roma
+	Hat die Fotorechte:	1

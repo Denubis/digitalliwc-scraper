@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-76051777b3965-6
+Apollon_705_0_0
+
+
+
+Monument
+	ID:	42986
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+Szene
+	ID:	45187
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Apollon
+	Katalognummer:	705
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	TR
+	Stadt:	Antalya
+	Name:	Musée Archéologique
+	Direktor:	Prof. Kutalmis Görkay
+	Adresse:	Dil ve Tarih, Cografya Fakültesi
+	Postleitzahl:	TR-06100
+	Kontaktzenter:	Ankara Üniversitesi
+	Stadt des Kontaktzenters:	Sihhiye Ankara / Türkei
+	Rechteinhaber der Fotos:	© Archaeological Museum Antalya
+	Hat die Fotorechte:	1

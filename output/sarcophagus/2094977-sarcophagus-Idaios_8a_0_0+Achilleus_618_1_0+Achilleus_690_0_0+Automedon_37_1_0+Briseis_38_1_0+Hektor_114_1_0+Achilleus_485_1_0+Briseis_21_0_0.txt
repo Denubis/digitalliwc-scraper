@@ -1,0 +1,108 @@
+http://ark.dasch.swiss/ark:/72163/080e-74fef6e0d010a-7
+Idaios_8a_0_0
+Achilleus_618_1_0
+Achilleus_690_0_0
+Automedon_37_1_0
+Briseis_38_1_0
+Hektor_114_1_0
+Achilleus_485_1_0
+Briseis_21_0_0
+
+
+
+Monument
+	ID:	24509
+	Entdeckungsort:	Tarsus
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Greece: oriental Greece
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	kerykeion, caduceus war-chariot, harma, currus corpse
+	Name:	Achilleus Automedon Briseis Hektor Hermes Priamos Idaios
+	Beschreibung:	Three scenes: On the right kneeling Priamos asking Achilleus for the corpse of Hektor. In the centre Achilleus on his chariot dragging Hektor. On the left the chariot of Priamos from which Trojans are unloading goods.
+Szene
+	ID:	25720
+	Beschreibung:	Three scenes: On the right kneeling Priamos asking Achilleus for the corpse of Hektor. In the centre Achilleus on his chariot dragging Hektor. On the left the chariot of Priamos from which Trojans are unloading goods.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/turkey/adana/musee_regional/25720X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/turkey/adana/musee_regional/25720X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/turkey/adana/musee_regional/25720X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/turkey/adana/musee_regional/25720X203.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/turkey/adana/musee_regional/25720X204.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/turkey/adana/musee_regional/25720X205.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/turkey/adana/musee_regional/25720X303.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/turkey/adana/musee_regional/25720X306.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/turkey/adana/musee_regional/25720X399.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Idaios
+	Katalognummer:	8a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	618
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	690
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Automedon
+	Katalognummer:	37
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Briseis
+	Katalognummer:	38
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hektor
+	Katalognummer:	114
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	485
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Briseis
+	Katalognummer:	21
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	3843
+Museum
+	Land:	TR
+	Stadt:	Adana
+	Name:	Musée Régional
+	Rechteinhaber der Fotos:	© Regional Museum Adana
+	Hat die Fotorechte:	1

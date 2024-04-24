@@ -1,0 +1,31 @@
+http://ark.dasch.swiss/ark:/72163/080e-7543006d1423d-b
+Hektor_41_1_0
+
+
+
+Monument
+	ID:	29304
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hektor
+	Monument-URL:	http://www.limc-france.fr/objet/10603
+Szene
+	ID:	30747
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Hektor
+	Katalognummer:	41
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	SY
+	Stadt:	Damas
+	Name:	Musée National
+	Kontaktzenter:	Musée National
+	Stadt des Kontaktzenters:	Damas
+	Rechteinhaber der Fotos:	© Musée National Damas
+	Hat die Fotorechte:	1

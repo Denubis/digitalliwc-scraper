@@ -1,0 +1,61 @@
+http://ark.dasch.swiss/ark:/72163/080e-7555631483ddb-0
+Gorgo, Gorgones_343_1_0
+
+
+
+Monument
+	ID:	30599
+	Entdeckungsort:	Paestum
+	Entdeckungsort Details:	tomb
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Gorgo, Gorgones
+	Beschreibung:	Prothesis scene outside the house.
+	Bibliographie:	Brigger, E./ Giovannini, A., Prothesis: étude sur les rites funéraires chez les Grecs et les étrusques, MEFRA 116 (2004) 220-22 no. 10.1 fig. 22; Pontrandolfo, A./ Rouveret, A., Le tombe dipinte di Paestum (1992) 123-126. 326-328.
+Datierung
+	Periode:	-350 
+	Kommentar:	about
+Epoche
+	Name:	Mitte 4. Jh. v. Chr.
+	Periode:	-360 - -340 
+	Sequenznummer:	2450
+Szene
+	ID:	32072
+	Beschreibung:	Prothesis scene outside the house.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/paestum/museo_archeologico_nazionale/32072X101.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	54
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VI. 1.e. Tod, gr.
+	Bandnummer:	6
+Catalog LIMC
+	Artikel:	Gorgo, Gorgones
+	Katalognummer:	343
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	21506-21509
+Museum
+	Land:	IT
+	Stadt:	Paestum
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Sopr. Dott. ssa Maria Luisa Nava
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Via Trotula de' Ruggiero 6/7
+	Postleitzahl:	I-84121
+	Kontaktzenter:	Soprintendenza archeologica per le Provincie di Salerno, Avellino, Benevento e Caserta
+	Stadt des Kontaktzenters:	Salerno
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologia, Belle Arti e Paesaggio Salerno e Avellino
+	Hat die Fotorechte:	0

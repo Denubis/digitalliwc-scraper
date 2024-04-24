@@ -1,0 +1,88 @@
+http://ark.dasch.swiss/ark:/72163/080e-741dbc893f3d8-3
+Oknos_7_1_0
+Aion_5_1_0
+Chronos_4_0_0
+Danaides_26_1_0
+Kairos_12_0_0
+Hypnos/Somnus_159_0_0
+
+
+
+Monument
+	ID:	8620
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	San Pietro
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	wheel old man architecture
+	Name:	Aion Chronos Danaides Fata, Fatum Hypnos/Somnus Kairos Kerberos Nemesis Oknos Thanatos
+	Beschreibung:	On the front, in seven openings of the arcade, from left to right the Danaides, Oknos and the ass, Kerberos, a nude figure that rests its left foot on a wheel, a nude aged and winged person with scales and a torch, and a skeletal larua leaning on an inverted torch. Le Glay suggests that the figure with the scales may be Chronos, but it could be Hypnos, Thanatos or Kairos as well.
+	Bibliographie:	Guarducci, M., RemdPontAcc 29, 1956-57, 126 fig. 12; Lawrence, M., The Velletri Sarcophagus, AJA 69, 1965, 218 no. 70; Gasparri, C., RendLinc ser. 8, 27, 1972, 95-139 pl. 4.
+Datierung
+	Periode:	1 - 50 
+Epoche
+	Name:	1. Hälfte 1. Jh. n. Chr.
+	Periode:	1 - 50 
+	Sequenznummer:	3040
+Szene
+	ID:	8818
+	Beschreibung:	On the front, in seven openings of the arcade, from left to right the Danaides, Oknos and the ass, Kerberos, a nude figure that rests its left foot on a wheel, a nude aged and winged person with scales and a torch, and a skeletal larua leaning on an inverted torch. Le Glay suggests that the figure with the scales may be Chronos, but it could be Hypnos, Thanatos or Kairos as well.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_etrusco_di_villa_giulia/8818X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_etrusco_di_villa_giulia/8818X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_etrusco_di_villa_giulia/8818X102.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Oknos
+	Katalognummer:	7
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aion
+	Katalognummer:	5
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Chronos
+	Katalognummer:	4
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Danaides
+	Katalognummer:	26
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kairos
+	Katalognummer:	12
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	159
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Etrusco di Villa Giulia
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Kommentar:	Alcuni dei numeri riportati qui sotto, senza distinzione particolare, sono tratti da pubblicazioni di materiale di scavo e da considerarsi quindi come provvisori.
+	Hat die Fotorechte:	1

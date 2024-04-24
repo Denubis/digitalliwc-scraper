@@ -1,0 +1,87 @@
+http://ark.dasch.swiss/ark:/72163/080e-7474251402ae4-a
+Kerberos_69b_0_0
+Alkestis_28_1_0
+Alkestis_4a_1_0
+Alkestis_11a_0_0
+Hades/Pluto_69_0_0
+Alkestis_19b_0_0
+Alkestis_15_1_0
+
+
+
+Monument
+	ID:	14713
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	kline, bed door
+	Name:	Admetos II Alkestis Hades/Pluto Herakles Kerberos Persephone
+	Beschreibung:	Kerberos emerging from a cave, beside Herakles.
+	Bibliographie:	SarkRel III 1 pl. 6 no. 22; Giglioli, G. Q., ArchCl 5 (1953) pl. 107, 1; Blome, P., Zur Umgestaltung griechischer Mythen in der römischen Sepulkralkunst, RM 85 (1978) 436 pl. 142, 1. 
+Datierung
+	Periode:	138 - 192 
+Epoche
+	Name:	antoninisch
+	Periode:	138 - 192 
+	Sequenznummer:	1210
+Szene
+	ID:	15173
+	Beschreibung:	Kerberos emerging from a cave, beside Herakles.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/cannes/villa_faustina/15173X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/cannes/villa_faustina/15173X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/cannes/villa_faustina/15173X005.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kerberos
+	Katalognummer:	69b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	28
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	4a
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	11a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	69
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	19b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	15
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	FR
+	Stadt:	Cannes
+	Name:	Villa Faustina (autrefois)
+	Rechteinhaber der Fotos:	© Cannes
+	Hat die Fotorechte:	1

@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-74da05a6ac492-d
+Horai/Horae_69a_0_0
+
+
+
+Monument
+	ID:	21906
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Horai/Horae
+	Beschreibung:	Representation of the rape of Proserpina. Between the chariots of Pluto and Proserpina are two figures (Horae?) who have baskets with flowers as attributes. One is standing, the other kneeling.
+Szene
+	ID:	22911
+	Beschreibung:	Representation of the rape of Proserpina. Between the chariots of Pluto and Proserpina are two figures (Horae?) who have baskets with flowers as attributes. One is standing, the other kneeling.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	69a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 3, 377
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Giustiniani Massimo
+	Rechteinhaber der Fotos:	© Villa Giustiniani Massimo, Roma
+	Hat die Fotorechte:	1

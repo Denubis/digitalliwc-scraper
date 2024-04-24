@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-74aa542a7956a-1
+Odysseus_197_1_0
+
+
+
+Monument
+	ID:	18550
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Odysseus
+	Monument-URL:	arachne.dainst.org/entity/1834514
+Szene
+	ID:	19396
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_nazionale_di_san_martino/19396X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_nazionale_di_san_martino/19396X202.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Odysseus
+	Katalognummer:	197
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2666
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Nazionale di San Martino
+	Rechteinhaber der Fotos:	© Museo Nazionale di San Martino, Napoli
+	Hat die Fotorechte:	1

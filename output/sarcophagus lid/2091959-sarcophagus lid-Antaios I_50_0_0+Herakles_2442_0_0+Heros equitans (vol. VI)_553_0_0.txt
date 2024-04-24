@@ -1,0 +1,53 @@
+http://ark.dasch.swiss/ark:/72163/080e-74d3d13f2fc98-3
+Antaios I_50_0_0
+Herakles_2442_0_0
+Heros equitans (vol. VI)_553_0_0
+
+
+
+Monument
+	ID:	21470
+	Entdeckungsort:	Landschane
+	Objekt:	sarcophagus lid
+	Material:	limestone
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	krater palm tree fight, battle
+	Name:	Antaios I Herakles Heros equitans
+	Beschreibung:	Fragment.
+	Bibliographie:	Filow, B., AA (1912) 570 fig. II.
+Datierung
+	Periode:	200 - 400 
+Szene
+	ID:	49148
+	Beschreibung:	Herakles and Diomedes.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Antaios I
+	Katalognummer:	50
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2442
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Heros equitans (vol. VI)
+	Katalognummer:	553
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	5040
+Museum
+	Land:	BG
+	Stadt:	Sofia
+	Name:	National Archaeological Museum
+	Direktor:	Dr. Maria Reho
+	Adresse:	Soborna ul. 2
+	Postleitzahl:	BG-1000
+	Kontaktzenter:	Nacionalen Archeologiceski Muzej
+	Stadt des Kontaktzenters:	Sofia
+	Rechteinhaber der Fotos:	© National Archaeological Museum, Sofia
+	Hat die Fotorechte:	1

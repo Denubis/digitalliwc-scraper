@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-74eba65458e67-4
+Herakles_3261_0_0
+
+
+
+Monument
+	ID:	23144
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 4,24
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Herakles
+	Beschreibung:	Herakles supported by a dressed woman standing behind him in a room. Behind her a satyr, also supported by a woman. He pisses at Herakles' leg. Young Dionysos and onlookers through an open door.
+Szene
+	ID:	24281
+	Beschreibung:	Herakles supported by a dressed woman standing behind him in a room. Behind her a satyr, also supported by a woman. He pisses at Herakles' leg. Young Dionysos and onlookers through an open door.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/24281X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	3261
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VII 4,23-25
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1

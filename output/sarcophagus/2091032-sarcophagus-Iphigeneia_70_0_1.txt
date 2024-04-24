@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-74c69080d183d-a
+Iphigeneia_70_0_1
+
+
+
+Monument
+	ID:	20534
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	tree cult image, cult statue statuette priestess ship, boat theft of cult image
+	Name:	Iphigeneia
+	Beschreibung:	Orestes, déjà à bord du bateau, aide Iphigeneia à y monter à son tour. Elle porte la statuette d’Artemis sur l’épaule. Au pied d’un arbre, dans l’angle gauche, gît la tête d’un Taure.
+	Bibliographie:	Robert, SarkRel II n. 174; Espérandieu, Recueil I n. 120; Toynbee, J. M. C., Latomus 36, 1977, 391.
+Szene
+	ID:	21447
+	Beschreibung:	Orestes, déjà à bord du bateau, aide Iphigeneia à y monter à son tour. Elle porte la statuette d’Artemis sur l’épaule. Au pied d’un arbre, dans l’angle gauche, gît la tête d’un Taure
+	Sequenznummer:	10
+Catalog Thes CRA
+	Indexnummer:	650
+	Asterix:	0
+	Dot:	1
+Catalog Thes CRA Kapitel
+	Name:	II. 5. Kultbilder
+	Sequenznummer:	1800
+	Bandnummer:	2
+Catalog LIMC
+	Artikel:	Iphigeneia
+	Katalognummer:	70
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	34
+Museum
+	Land:	FR
+	Stadt:	Marseille
+	Name:	Académie des Sciences, Arts et Lettres
+	Rechteinhaber der Fotos:	© Académie des Sciences, Arts et Lettres Marseille
+	Hat die Fotorechte:	0

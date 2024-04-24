@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-745d48deb2169-4
+Psyche_130_0_0
+
+
+
+Monument
+	ID:	13103
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Psyche
+Szene
+	ID:	13431
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	130
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	645
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Albani
+	Adresse:	Via della Conciliazione 30
+	Postleitzahl:	I-00193
+	Kontaktzenter:	Amministrazione Torlonia
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Phot. proprietà Principe Torlonia
+	Hat die Fotorechte:	0

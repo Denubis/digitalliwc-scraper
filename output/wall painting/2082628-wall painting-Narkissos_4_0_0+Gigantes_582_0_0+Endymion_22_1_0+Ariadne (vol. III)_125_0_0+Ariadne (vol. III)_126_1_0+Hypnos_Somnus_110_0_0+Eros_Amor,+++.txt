@@ -1,0 +1,140 @@
+http://ark.dasch.swiss/ark:/72163/080e-744e6a8e3b119-6
+Narkissos_4_0_0
+Gigantes_582_0_0
+Endymion_22_1_0
+Ariadne (vol. III)_125_0_0
+Ariadne (vol. III)_126_1_0
+Hypnos/Somnus_110_0_0
+Eros/Amor, Cupido_40_0_0
+Ares/Mars_376d_0_0
+Peirithoos_89_1_0
+Herakles_1572_0_0
+Endymion_16_0_0
+
+
+
+Monument
+	ID:	12057
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 16,15 (Casa dell'Ara Massima)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Herakles Endymion Eros/Amor, Cupido Ares/Mars Ariadne Gigantes Hypnos/Somnus Narkissos Peirithoos
+	Beschreibung:	Mural painting showing various scenes.
+Szene
+	ID:	20150
+	Szenerieangabe:	(b)
+	Beschreibung:	Narkissos at the spring.
+	Sequenznummer:	1010
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/20150X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Narkissos
+	Katalognummer:	4
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	32396
+	Szenerieangabe:	(a)
+	Sequenznummer:	1000
+Catalog LIMC
+	Artikel:	Gigantes
+	Katalognummer:	582
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	32891
+	Szenerieangabe:	f
+	Sequenznummer:	1050
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/32891X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/32891X201.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	22
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ariadne (vol. III)
+	Katalognummer:	125
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49441
+	Szenerieangabe:	g
+	Beschreibung:	Herakles at right with club and lionskin converses with a man (Peirithoos?) and a youth in chlamydes with sword and spear. To the right an altar and trees.
+	Sequenznummer:	1060
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49441X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49441X203.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49441X206.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Ariadne (vol. III)
+	Katalognummer:	126
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	110
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	40
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ares/Mars
+	Katalognummer:	376d
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Peirithoos
+	Katalognummer:	89
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	1572
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	16
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VI 16,15
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa dell'Ara Massima

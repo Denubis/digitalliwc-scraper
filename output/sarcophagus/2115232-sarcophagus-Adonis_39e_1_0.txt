@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-76208a8267ee5-c
+Adonis_39e_1_0
+
+
+
+Monument
+	ID:	44936
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	tree spear pillar boar dog horse hunt
+	Name:	Adonis Eros/Amor, Cupido Aphrodite/Venus
+	Bibliographie:	SarkRel III 1, 17 no. 15.
+Datierung
+	Periode:	190 - 200 
+Epoche
+	Name:	Ende 2. Jh. n. Chr.
+	Periode:	190 - 200 
+	Sequenznummer:	3170
+Szene
+	ID:	47283
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_rospigliosi_pallavicini/47283X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Adonis
+	Katalognummer:	39e
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 1, 15
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Rospigliosi Pallavicini
+	Rechteinhaber der Fotos:	© Palazzo Rospigliosi Pallavicini, Roma
+	Hat die Fotorechte:	1

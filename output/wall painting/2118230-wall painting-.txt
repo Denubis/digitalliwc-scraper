@@ -1,0 +1,30 @@
+http://ark.dasch.swiss/ark:/72163/080e-764b66f140ff3-5
+
+
+
+Monument
+	ID:	51230
+	Entdeckungsort:	Rome
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Bibliographie:	Wilper, J., Le pitture delle catacombe romane (1903) tav. 15, 1; Dölger, F. J., Ichthus. Die Fisch-Denkmäler in der frühchristlichen Plastik, Malerei und Kleinkunst (1922-45),  IV pl. 15, 1; De Bruyne, L., La Cappella Greca di Priscilla, in R.A.C. 1970 292-330.
+Szene
+	ID:	56403
+Foto
+	Neues Foto:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	cappella greca
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Catacomba di Priscilla
+	Direktor:	Dott.ssa Barbara Mazzei
+	Adresse:	Via Napoleone III 1
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Pontificia Commissione di Archeologia Sacra
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Pontificia Commissione di Archeologia Sacra
+	Hat die Fotorechte:	0

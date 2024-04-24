@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-73b5ea36e4982-a
+Tritones_32a_1_0
+
+
+
+Monument
+	ID:	1302
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Tritones
+Szene
+	ID:	1208
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/capua/museo_provinciale_campano/1208X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Tritones
+	Katalognummer:	32a
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Capua
+	Name:	Museo Provinciale Campano
+	Anrede:	Chiarissimo Direttore,
+	Adresse:	Via Roma 68
+	Postleitzahl:	I-81043
+	Kontaktzenter:	Museo Provinciale Campano
+	Stadt des Kontaktzenters:	Capua (CE)
+	Rechteinhaber der Fotos:	© Museo Provinciale Campano, Capua
+	Hat die Fotorechte:	1

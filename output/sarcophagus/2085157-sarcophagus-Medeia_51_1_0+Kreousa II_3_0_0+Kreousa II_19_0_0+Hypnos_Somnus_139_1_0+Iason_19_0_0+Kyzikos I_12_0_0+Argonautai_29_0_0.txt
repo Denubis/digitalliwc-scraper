@@ -1,0 +1,92 @@
+http://ark.dasch.swiss/ark:/72163/080e-7472927cbb03e-7
+Medeia_51_1_0
+Kreousa II_3_0_0
+Kreousa II_19_0_0
+Hypnos/Somnus_139_1_0
+Iason_19_0_0
+Kyzikos I_12_0_0
+Argonautai_29_0_0
+
+
+
+Monument
+	ID:	14603
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hypnos/Somnus Iason Kreousa II Kyzikos I Medeia
+	Beschreibung:	Medeasarcophagus: Young warrior on the right minor side is probably Iason. The bearded warrior may be Kyzikos, the king of the Dolions. Kreousa (II), veiled like a bride, enthroned, welcoming the children of Medeia with their presents - peplos and wreath. The children are accompanied by a nurse. In front of Kreousa (II) Hypnos/Somnus. On another side Kreousa (II) and Kreon are both stretching out their hands against Medeia.
+	Monument-URL:	arachne.dainst.org/entity/1062644
+Szene
+	ID:	15044
+	Beschreibung:	Medeasarcophagus: Young warrior on the right minor side is probably Iason. The bearded warrior may be Kyzikos, the king of the Dolions. Kreousa (II), veiled like a bride, enthroned, welcoming the children of Medeia with their presents - peplos and wreath. The children are accompanied by a nurse. In front of Kreousa (II) Hypnos/Somnus. On another side Kreousa (II) and Kreon are both stretching out their hands against Medeia.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/berlin/staatliche_museen_zu_berlin/antikensammlung/15044X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/berlin/staatliche_museen_zu_berlin/antikensammlung/15044X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/berlin/staatliche_museen_zu_berlin/antikensammlung/15044X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/berlin/staatliche_museen_zu_berlin/antikensammlung/15044X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/berlin/staatliche_museen_zu_berlin/antikensammlung/15044X101.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Medeia
+	Katalognummer:	51
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kreousa II
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kreousa II
+	Katalognummer:	19
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	139
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iason
+	Katalognummer:	19
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kyzikos I
+	Katalognummer:	12
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Argonautai
+	Katalognummer:	29
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Sk 843b
+Museum
+	Land:	DE
+	Stadt:	Berlin
+	Name:	Staatliche Museen zu Berlin, Antikensammlung
+	Direktor:	Dir. Prof. Dr. Andreas Scholl
+	Anrede:	Sehr geehrter Herr Professor,
+	Adresse:	Bodestrasse 1-3
+	Postleitzahl:	D-10178
+	E-Mail:	ant@smb.spk-berlin.de
+	Kontaktzenter:	Antikensammlung, Staatliche Museen zu Berlin - Preussischer Kulturbesitz
+	Stadt des Kontaktzenters:	Berlin
+	Rechteinhaber der Fotos:	© Staatliche Museen zu Berlin, Antikensammlung
+	Hat die Fotorechte:	1

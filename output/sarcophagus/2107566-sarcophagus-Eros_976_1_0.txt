@@ -1,0 +1,62 @@
+http://ark.dasch.swiss/ark:/72163/080e-75b2f194bb9ab-1
+Eros_976_1_0
+
+
+
+Monument
+	ID:	37205
+	Entdeckungsort:	Tripoli (Syria)
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Name:	Eros
+	Bibliographie:	Mendel, Sculpt III n. 1169;Rodenwalt, G., JdI 45, 1931, 168 fig. 53-55;Koch/Sichtermann, RömSark  473.567.
+	Monument-URL:	arachne.dainst.org/entity/1138861
+Szene
+	ID:	39104
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/turkey/istanbul/musee_archeologique/39104X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/turkey/istanbul/musee_archeologique/39104X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/turkey/istanbul/musee_archeologique/39104X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/turkey/istanbul/musee_archeologique/39104X004.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Eros
+	Katalognummer:	976
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	510
+Museum
+	Land:	TR
+	Stadt:	Istanbul
+	Name:	Musée Archéologique
+	Direktor:	Mme le Dr  Pascale Linant de Bellefonds
+	Anrede:	Sehr geehrter Herr Dr. Posamentir,
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-92023
+	Kontaktzenter:	Université Paris X - Nanterre Maison de l'Archéologie / Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Archaeological Museum Istanbul
+	Hat die Fotorechte:	1

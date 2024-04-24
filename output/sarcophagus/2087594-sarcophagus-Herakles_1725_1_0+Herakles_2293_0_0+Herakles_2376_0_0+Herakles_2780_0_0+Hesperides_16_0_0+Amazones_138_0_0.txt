@@ -1,0 +1,71 @@
+http://ark.dasch.swiss/ark:/72163/080e-749569b4d9c97-c
+Herakles_1725_1_0
+Herakles_2293_0_0
+Herakles_2376_0_0
+Herakles_2780_0_0
+Hesperides_16_0_0
+Amazones_138_0_0
+
+
+
+Monument
+	ID:	17067
+	Entdeckungsort:	Pappa Tiberiopolis
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Name:	Herakles Hesperides Amazones
+	Beschreibung:	Labours of Herakles, intercolumniated: Lion, Hydra, Boar, Deer, Birds, Amazon, Augeias, Bull, Horses of Diomedes, Geryoneus, Kerberos and Hesperides.
+	Bibliographie:	Wiegartz, H., Kleinasiatische Säulensarkophage, IstForsch 26 (1965) 163; Mellink, M. J., AJA 64 (1960) 65.
+Datierung
+	Periode:	250 - 275 
+	Kommentar:	(After 250 A. D.)
+Epoche
+	Name:	3. Viertel 3. Jh. n. Chr.
+	Periode:	250 - 275 
+	Sequenznummer:	3360
+Szene
+	ID:	17754
+	Beschreibung:	Labours of Herakles, intercolumniated: Lion, Hydra, Boar, Deer, Birds, Amazon, Augeias, Bull, Horses of Diomedes, Geryoneus, Kerberos and Hesperides.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	1725
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2293
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2376
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2780
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hesperides
+	Katalognummer:	16
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	138
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1002
+Museum
+	Land:	TR
+	Stadt:	Konya
+	Name:	Musée Archéologique
+	Rechteinhaber der Fotos:	© Archaeological Museum Konya
+	Hat die Fotorechte:	1

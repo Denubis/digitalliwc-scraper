@@ -1,0 +1,94 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ff01dba1259-1
+Idaios_8c_0_0
+Achilleus_620_1_0
+Achilleus_694_0_0
+Automedon_40_0_0
+Briseis_41_0_0
+Hektor_115_1_0
+Achilleus_486_1_0
+Briseis_22_0_0
+
+
+
+Monument
+	ID:	24512
+	Entdeckungsort:	Tyre
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	sword helmet shield vase horse warrior, soldier war-chariot, harma, currus
+	Name:	Achilleus Automedon Briseis Hektor Priamos Idaios
+	Beschreibung:	Three scenes: On the right kneeling Priamos asking Achilleus for the corpse of Hektor. In the centre Achilleus on his chariot dragging Hektor. On the left the chariot of Priamos from which Trojans are unloading goods.
+	Bibliographie:	EAA Suppl. 1970 (1973) 687 Abb. 691.
+Szene
+	ID:	25723
+	Beschreibung:	Three scenes: On the right kneeling Priamos asking Achilleus for the corpse of Hektor. In the centre Achilleus on his chariot dragging Hektor. On the left the chariot of Priamos from which Trojans are unloading goods.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/lebanon/beyrouth/musee_national/25723X201.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/lebanon/beyrouth/musee_national/25723X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/lebanon/beyrouth/musee_national/25723X203.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Idaios
+	Katalognummer:	8c
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	620
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	694
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Automedon
+	Katalognummer:	40
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Briseis
+	Katalognummer:	41
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hektor
+	Katalognummer:	115
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	486
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Briseis
+	Katalognummer:	22
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	954
+Museum
+	Land:	LB
+	Stadt:	Beyrouth
+	Name:	Musée National
+	Direktor:	Mme le Dr. Pascale Linant de Bellefonds
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-92023
+	Kontaktzenter:	Université Paris X - Nanterre - Maison de l'Archéologie / Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Musée National Beyrouth
+	Hat die Fotorechte:	1

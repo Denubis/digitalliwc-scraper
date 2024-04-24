@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-76bca52659468-d
+
+
+
+Monument
+	ID:	203126
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Beschreibung:	Deceased woman on a kline, her mother sitting on the kline and her father standing at the head end of the kline.
+	Bibliographie:	Amedick, R., Vita Privata. Die Sarkophage mit Darstellungen aus dem Menschenleben, SarkRel 1, 4 (1991) 152 no. 194 pl. 70, 3; Martin-Klicher, S., Mors immatura in the Roman World - A Mirror of Society and Traditions, in: Pearce, J. et al. (eds.), Burial, Society and Context in the Roman World (2000) 69.
+Szene
+	ID:	100164
+	Beschreibung:	Deceased woman on a kline, her mother sitting on the kline and her father standing at the head end of the kline.
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	11
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VI. 1.e. Tod, röm.
+	Bandnummer:	6
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	459
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Musei Capitolini
+	Direktor:	Dirigente Dott. Claudio Parisi Presicce
+	Adresse:	Via delle Tre Pile, 1
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Sovraintendenza ai Beni Culturali                     del Comune di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Archivio fotografico Musei Capitolini
+	Hat die Fotorechte:	1

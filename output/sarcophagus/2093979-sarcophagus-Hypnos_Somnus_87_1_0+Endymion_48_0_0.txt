@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-74f0b247c830c-1
+Hypnos/Somnus_87_1_0
+Endymion_48_0_0
+
+
+
+Monument
+	ID:	23502
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Endymion Hypnos/Somnus
+Szene
+	ID:	24670
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	87
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	48
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 1, 41
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	San Cosimato
+	Rechteinhaber der Fotos:	© Soprindentenza SPSAE e Polo Museale della Città di Roma
+	Hat die Fotorechte:	0

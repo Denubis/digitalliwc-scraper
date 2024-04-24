@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-765dea8923f7e-4
+
+
+
+Monument
+	ID:	52622
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	A spondophoros. Young man or initiate carrying a silver (?) situla. His head is not shaven.
+	Bibliographie:	Tran Tam Tinh, V., Essai sur le culte d’Isis à Pompéi (1964) 94.137 n. 35 tav.  IV, 3; Sampaolo, V., La decorazione pittorica in: Alla ricerca di Iside. Analisi, studi e  restauri dell’Iseo pompeiano nel Museo di Napoli (1992) 47 1.26 tav. 7.
+Szene
+	ID:	57875
+	Beschreibung:	A spondophoros. Young man or initiate carrying a silver (?) situla. His head is not shaven.
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	261
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.a. Kultpersonal, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	4700
+	Bandnummer:	5
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8918
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

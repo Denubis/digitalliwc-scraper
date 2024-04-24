@@ -1,0 +1,199 @@
+http://ark.dasch.swiss/ark:/72163/080e-7406eef7b0171-f
+Persephone (S)_220_0_0
+Alkestis_51_0_1
+Hades/Pluto_57_0_0
+Stheneboia_6_0_1
+Oidipous_63_0_1
+Paridis iudicium_76_0_0
+Athena/Minerva_426_0_1
+Nymphai (S)_67_0_0
+Pegasos (Pegasos, Bellerophon)_43_0_1
+Pegasos (Pegasos, Bellerophon)_72_0_1
+Eurydike I_8_0_0
+Victoria_289_0_1
+Kerberos_59_0_0
+Herakles_2643_0_1
+Mercurius_327_0_0
+Ianitor Orci_2_0_0
+Protesilaos_30_0_0
+Alkestis_25_0_1
+Mercurius_349_0_0
+Horai/Horae_42_0_0
+Hylas_31_0_1
+Hylas_42_0_0
+Europe I_127_0_0
+Athena/Minerva_370_0_0
+Antaios I_39_0_1
+Antigone_20_1_0
+
+
+
+Monument
+	ID:	7009
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Tomba dei Nasonii
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	kerykeion, caduceus wreath, crown, stephane, corona throne sceptre club helmet shield tree spear amphora rock, cliff woman fight, battle
+	Name:	Alkestis Antaios I Antigone Athena/Minerva Europe I Eurydike I Hades/Pluto Haimon Herakles Horai/Horae Hylas Ianitor Orci Ismene I Kerberos Kreon I Hermes/Mercurius Oidipous Paridis iudicium Persephone Protesilaos Stheneboia Victoria Pegasos Nymphai Mercurius
+	Beschreibung:	Man seated on a throne (Kreon), young man (Haimon) looking at him; a woman (Antigone?) holding wreath, she looks at a man with spears; on the left another woman (Ismene?). Girls on the shore are watching Europe (I), half naked, mantle in arc over head, sitting on the bull galloping over the sea to the left. Orpheus bringing back Eurydike (I) from Hades. Minerva assisting at the fight between Hercules and Antaios, Tellus seated. Bellerophon with Pegasos between Philonoe and Stheneboia. The diagonal corners are decorated by Horae and satyrs. Herakles and Kerberos pulling in opposite directions. In front of them Mercurius. Hylas sitting among the nymphs. Nacked seated figure maybe Ianitor Orci. Paridis iudicium (Judgement of Paris): Paris, Hermes, Aphrodite, Hera and Athena. Hades and Persephone.
+	Bibliographie:	Andreae, B., Studien zur römischen Grabkunst, RM 9. Ergh. (1963) 121 pl. 51, 1-2; Schumacher, W. N., Die Katakombe an der Via Dino Compagni und römische Grabkammern, Rivista di Archeologia Cristiana 50 (1974) 340-341 fig. 4; Fink, J., Bildfrömmigkein und Bekenntnis. Das alte Testament, Herakles und die Herrlickeit Christi and der Via Latina in Rom (1978) 96-98.
+Datierung
+	Periode:	160 - 170 
+	Kommentar:	about
+Epoche
+	Name:	3. Viertel 2. Jh. n. Chr.
+	Periode:	150 - 175 
+	Sequenznummer:	3220
+Szene
+	ID:	7156
+	Beschreibung:	Man seated on a throne (Kreon), young man (Haimon) looking at him; a woman (Antigone?) holding wreath, she looks at a man with spears; on the left another woman (Ismene?). Girls on the shore are watching Europe (I), half naked, mantle in arc over head, sitting on the bull galloping over the sea to the left. Orpheus bringing back Eurydike (I) from Hades. Minerva assisting at the fight between Hercules and Antaios, Tellus seated. Bellerophon with Pegasos between Philonoe and Stheneboia. The diagonal corners are decorated by Horae and satyrs. Herakles and Kerberos pulling in opposite directions. In front of them Mercurius. Hylas sitting among the nymphs. Nacked seated figure maybe Ianitor Orci. Paridis iudicium (Judgement of Paris): Paris, Hermes, Aphrodite, Hera and Athena. Hades and Persephone.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/tomba_dei_nasoni/7156X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/tomba_dei_nasoni/7156X222.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Persephone (S)
+	Katalognummer:	220
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	51
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	57
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Stheneboia
+	Katalognummer:	6
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Oidipous
+	Katalognummer:	63
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Paridis iudicium
+	Katalognummer:	76
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	426
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Nymphai (S)
+	Katalognummer:	67
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Pegasos (Pegasos, Bellerophon)
+	Katalognummer:	43
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Pegasos (Pegasos, Bellerophon)
+	Katalognummer:	72
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Eurydike I
+	Katalognummer:	8
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Victoria
+	Katalognummer:	289
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Kerberos
+	Katalognummer:	59
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2643
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	327
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ianitor Orci
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Protesilaos
+	Katalognummer:	30
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	25
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	349
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	42
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hylas
+	Katalognummer:	31
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Hylas
+	Katalognummer:	42
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Europe I
+	Katalognummer:	127
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	370
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Antaios I
+	Katalognummer:	39
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Antigone
+	Katalognummer:	20
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Tomba dei Nasoni
+	Rechteinhaber der Fotos:	© Tomba dei Nasoni, Roma
+	Hat die Fotorechte:	0

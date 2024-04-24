@@ -1,0 +1,49 @@
+http://ark.dasch.swiss/ark:/72163/080e-7490aa9d2211b-6
+Leda_116_0_0
+
+
+
+Monument
+	ID:	16733
+	Entdeckungsort:	Caesarea Maritima
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Leda
+	Beschreibung:	Leda, half reclining, the swan sitting on her thighs.
+Szene
+	ID:	17394
+	Beschreibung:	Leda, half reclining, the swan sitting on her thighs.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/israel/jerusalem/israel_museum/17394X101.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+	Rechteinhaber der Fotos:	Rita Gautschy
+	Hat die Fotorechte:	1
+Foto
+	Neues Foto:	1
+	Rechteinhaber der Fotos:	Rita Gautschy
+	Hat die Fotorechte:	1
+Catalog LIMC
+	Artikel:	Leda
+	Katalognummer:	116
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IL
+	Stadt:	Jerusalem
+	Name:	Israel Museum
+	Direktor:	Prof. Dr. Gideon Foerster
+	Adresse:	Mount Scopus
+	Postleitzahl:	IL-91905
+	Kontaktzenter:	Head, Institute of Archaeology - The Hebrew University of Jerusalem
+	Stadt des Kontaktzenters:	Jerusalem
+	Rechteinhaber der Fotos:	© Israel Museum, Jerusalem
+	Hat die Fotorechte:	1

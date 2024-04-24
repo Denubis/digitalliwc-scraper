@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-75a2f973f8d1a-f
+Eros/Amor, Cupido_ad 691_0_0
+
+
+
+Monument
+	ID:	36076
+	Entdeckungsort:	Pozzuoli, Puteoli
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Eros/Amor, Cupido
+Szene
+	ID:	37928
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 691
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	127 C 73
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	Victoria and Albert Museum
+	Direktor:	Dir. Mark Jones
+	Anrede:	Dear Director,
+	Adresse:	Cromwell Rd, South  Kensington
+	Postleitzahl:	GB-
+	Kontaktzenter:	Victoria and Albert Museum
+	Stadt des Kontaktzenters:	London SW7 2RL
+	Rechteinhaber der Fotos:	© V&A Picture Library
+	Hat die Fotorechte:	1

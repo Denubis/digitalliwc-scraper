@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-742a96cd536a7-a
+Tellus_95_0_0
+Mousa, Mousai/Musae (vol. VII)_205_1_0
+
+
+
+Monument
+	ID:	9530
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Tellus Mousa, Mousai
+Szene
+	ID:	9735
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_torlonia/9735X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Tellus
+	Katalognummer:	95
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	205
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	414
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Torlonia
+	Adresse:	Via della Conciliazione 30
+	Postleitzahl:	I-00193
+	Kontaktzenter:	Amministrazione Principe Torlonia
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Museo Torlonia, Roma
+	Hat die Fotorechte:	1

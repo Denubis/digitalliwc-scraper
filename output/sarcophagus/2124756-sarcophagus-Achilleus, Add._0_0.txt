@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-76a8b390923e9-0
+Achilleus, Add._0_0
+
+
+
+Monument
+	ID:	201894
+	Entdeckungsort:	Ephesos (Ionia)
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	warrior, soldier old man
+	Name:	Achilleus
+	Beschreibung:	Fragment. Two warriors carrying a corps; in the back an old man with a stick; maybe depiction of the recovery of Achilleus
+	Bibliographie:	Rogge, S., Die attischen Sarkophage, 1. Achill und Hippolytos, SarkRel IX 1, 1 (1995) 128-129 no. 11 pl. 72, 3.
+Datierung
+	Periode:	225 - 250 
+Epoche
+	Name:	2. Viertel 3. Jh. n. Chr.
+	Periode:	225 - 250 
+	Sequenznummer:	3350
+Szene
+	ID:	98881
+	Beschreibung:	Two warriors carrying a corps; in the back an old man with a stick; maybe depiction of the recovery of Achilleus
+Catalog LIMC
+	Artikel:	Achilleus, Add.
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Altes Magazin 2264
+Museum
+	Land:	TR
+	Stadt:	Ephèse
+	Direktor:	Bildarchiv
+	Adresse:	Franz Klein-Gasse 1 
+	Postleitzahl:	A-1190
+	Kontaktzenter:	Österreichisches Archäologisches Institut, Ephesosgrabung
+	Stadt des Kontaktzenters:	Wien
+	Rechteinhaber der Fotos:	© Österreichisches Archäologisches Institut
+	Hat die Fotorechte:	1

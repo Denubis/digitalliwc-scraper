@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-76b4e57975d52-b
+Persephone, Add._Supplement_1_0
+
+
+
+Monument
+	ID:	202623
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	three panels: 1) Persephone kneeling, gathering flowers together with a companion; personification of a river god (Neilos?) and of a source; 2) Hades seizing Persephone and putting her on the chariot; Artemis and Athena present; Aphrodite and Eros; 3) Persephone leaving a cave (Eleusis) in the presence of Demeter, Hermes and Hekate
+	Bibliographie:	Guimier-Sorbets, A.-M./ Seif el-Din, M., Les deux tombes de Perséphone dans la Nécropole de Kom el Chougafa à Alexandrie, BCH 121, 1997, 355-410.
+Szene
+	ID:	99642
+	Beschreibung:	three panels: 1) Persephone kneeling, gathering flowers together with a companion; personification of a river god (Neilos?) and of a source; 2) Hades seizing Persephone and putting her on the chariot; Artemis and Athena present; Aphrodite and Eros; 3) Persephone leaving a cave (Eleusis) in the presence of Demeter, Hermes and Hekate
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Persephone, Add.
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	EG
+	Stadt:	Alexandrie
+	Name:	Nécropole de Kôm esh-Shougâfa
+	Rechteinhaber der Fotos:	© Alexandria
+	Hat die Fotorechte:	1

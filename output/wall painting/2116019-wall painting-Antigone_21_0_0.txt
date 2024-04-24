@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-762bcadd53b84-8
+Antigone_21_0_0
+
+
+
+Monument
+	ID:	45737
+	Entdeckungsort:	Ephesos (Ionia)
+	Entdeckungsort Details:	Hanghaus 2
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	sceptre woman actor
+	Name:	Antigone Ismene I Kreon I
+	Beschreibung:	On the left a bearded figure with sceptre (Kreon?) and the remains of two female persons (Antigone and Ismene?).
+	Bibliographie:	Strocka, V.M., Theaterbilder aus Ephesos, Gymnasium 80 (1973) 378-380 Taf. 20; Strocka, V.M., Die Wandmalerei der Hanghäuser in Ephesos. Forschungen in Ephesos VIII I (1977) 129 137 Abb. 344-345.
+Datierung
+	Periode:	440 - 460 
+Epoche
+	Name:	Mitte 5. Jh. n. Chr.
+	Periode:	440 - 460 
+	Sequenznummer:	3580
+Szene
+	ID:	48144
+	Beschreibung:	On the left a bearded figure with sceptre (Kreon?) and the remains of two female persons (Antigone and Ismene?).
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Antigone
+	Katalognummer:	21
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	TR
+	Stadt:	Ephèse
+	Name:	Hanghaus 2
+	Rechteinhaber der Fotos:	© Ephesos
+	Hat die Fotorechte:	1

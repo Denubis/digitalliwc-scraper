@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-751305be19fb1-1
+Achilleus_160_0_0
+
+
+
+Monument
+	ID:	25923
+	Objekt:	sarcophagus
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	relief
+	Name:	Achilleus
+	Beschreibung:	Fragment.
+	Bibliographie:	SarkRel II no. 41; Kalliopolitis, B., Chronologiki Kataxis ton meta mythologikon parastaseon attikon sarkophagon tis romaikis epochis (1958) no. 86;  Giuliano, A., Il commercio dei sarcofagi attici (1962) no. 418.
+Szene
+	ID:	40043
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	160
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Cat. 71 (Michaelis 71)
+Museum
+	Land:	GB
+	Stadt:	Woburn Abbey (Bedfordshire)
+	Name:	Woburn Abbey Art Gallery
+	Rechteinhaber der Fotos:	© Woburn Abbey Art Gallery
+	Kommentar:	Numéros d'après Angelicoussis, E., The Woburn Abbey Collection of Classical Antiquities (1992); les numéros entre parenthèses sont ceux de Michaelis, A., Ancient Marbles in Great Britain (1882).
+	Hat die Fotorechte:	1

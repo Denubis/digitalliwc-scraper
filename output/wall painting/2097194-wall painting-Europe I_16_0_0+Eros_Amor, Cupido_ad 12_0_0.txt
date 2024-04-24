@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-751ea8ea5f817-a
+Europe I_16_0_0
+Eros/Amor, Cupido_ad 12_0_0
+
+
+
+Monument
+	ID:	26746
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Europe I Eros/Amor, Cupido
+	Beschreibung:	Mural painting in the House of Vettii: on the right the forepart of the bull to the left, Eros caressing it. Above, the leg of a second Eros flying to the left (to crown Europe (I)?).
+Szene
+	ID:	28103
+	Beschreibung:	Mural painting in the House of Vettii: on the right the forepart of the bull to the left, Eros caressing it. Above, the leg of a second Eros flying to the left (to crown Europe (I)?).
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Europe I
+	Katalognummer:	16
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 12
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9211
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

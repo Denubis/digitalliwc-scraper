@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-74fceb828c7ff-9
+Iason_20_0_0
+
+
+
+Monument
+	ID:	24366
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Iason
+	Beschreibung:	Iason grasping two bulls by the horns.
+Datierung
+	Periode:	100 - 200 
+Szene
+	ID:	25567
+	Beschreibung:	Iason grasping two bulls by the horns.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Iason
+	Katalognummer:	20
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel II 191
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Direktor:	Soprintendente Prof. Adriano La Regina
+	Adresse:	Piazza S. Maria Nova 53
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza Archeologica di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	0

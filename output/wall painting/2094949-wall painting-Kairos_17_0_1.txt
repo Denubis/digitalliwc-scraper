@@ -1,0 +1,30 @@
+http://ark.dasch.swiss/ark:/72163/080e-74fe906685f7e-d
+Kairos_17_0_1
+
+
+
+Monument
+	ID:	24481
+	Entdeckungsort:	Chios
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Kairos
+	Beschreibung:	Wall painting from 1734, depicting Kairos as Bios.
+Szene
+	ID:	25687
+	Beschreibung:	Wall painting from 1734, depicting Kairos as Bios.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Kairos
+	Katalognummer:	17
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	GR
+	Stadt:	Chios
+	Name:	Panagia Krina
+	Rechteinhaber der Fotos:	© Panagia Krina, Chios
+	Hat die Fotorechte:	0

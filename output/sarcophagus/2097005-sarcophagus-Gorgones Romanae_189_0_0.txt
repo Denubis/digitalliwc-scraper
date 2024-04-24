@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-751bf530eb5a6-8
+Gorgones Romanae_189_0_0
+
+
+
+Monument
+	ID:	26555
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Gorgo, Gorgones Perseus Athena/Minerva
+	Beschreibung:	In the centre Gorgoneion, on the left and right Perseus and Minerva.
+Szene
+	ID:	27891
+	Beschreibung:	In the centre Gorgoneion, on the left and right Perseus and Minerva.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/museo_bardini/27891X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Gorgones Romanae
+	Katalognummer:	189
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	80
+Museum
+	Land:	IT
+	Stadt:	Firenze
+	Name:	Museo Bardini
+	Rechteinhaber der Fotos:	© Museo Bardini, Firenze
+	Hat die Fotorechte:	0

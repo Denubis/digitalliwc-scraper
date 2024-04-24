@@ -1,0 +1,70 @@
+http://ark.dasch.swiss/ark:/72163/080e-75c87218d9f0b-2
+Artemis/Diana_40_0_0
+Aktaion_113_0_0
+
+
+
+Monument
+	ID:	38719
+	Entdeckungsort:	Ercolano, Herculaneum, Herculanum
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	torch baluster baityl, meteoric stone exedra gesture of aposkopein pedestal, socle
+	Name:	Aktaion Artemis Artemis/Diana
+	Beschreibung:	Halbrunde Wand mit Säulen und Architrav (Exedra), darin hoher Baitylos (Baluster) auf Stufensockel und Basis. Links Artemis, weiter im Vordergrund sitzende weibliche Person und Reh, rechts Aktaion (Gestus des Aposkopein).
+	Bibliographie:	Helbig, Wandgemälde Nr. 252b; Dawson, C.M., Romano-Campanian Mythological Landscape Painting (YaleClSt 9, 1944) 95-96 Nr. 33 Taf. 13; Peters, W. J. T., Landscape in Romano-Campanian Mural Painting (1963) 73-74 Taf. 17 Abb. 60; Fehrentz, V., Der antike Agyieus,  JdI 108, 1993, 125 n. 10; 179-180 fig. 31; Reeder, J. C., Aygieus and Baluster Aniconic Monuments in Roman Art (1995) 232-233. 248 Abb.8.
+Datierung
+	Periode:	-15 - 63 
+Epoche
+	Name:	3. pompejanischer Stil
+	Periode:	-15 - 63 
+	Sequenznummer:	1340
+Szene
+	ID:	40730
+	Beschreibung:	Halbrunde Wand mit Säulen und Architrav (Exedra), darin hoher Baitylos (Baluster) auf Stufensockel und Basis. Links Artemis, weiter im Vordergrund sitzende weibliche Person und Reh, rechts Aktaion (Gestus des Aposkopein).
+	Sequenznummer:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	346
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 5. Kultbilder
+	Sequenznummer:	1800
+	Bandnummer:	2
+Catalog Thes CRA
+	Indexnummer:	119
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	IV. 1.b. Kultorte (Darstellungen)
+	Sequenznummer:	4500
+	Bandnummer:	4
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	40
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aktaion
+	Katalognummer:	113
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9413
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

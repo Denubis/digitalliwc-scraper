@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-758252338137e-3
+Daphne_33_1_0
+Apollon/Apollo_299_0_0
+
+
+
+Monument
+	ID:	33773
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Apollon Daphne
+	Beschreibung:	Mural painting from the Casa d'Apolline e Coronide. Daphne stands on the right, frontal, legs draped, bracelets on left wrist and ankle, laurel sprigs growing from her head and shoulders. Apollon is seated on the left, gazing at Daphne, leaning on a kithara, right arm over his head, right leg draped.
+Szene
+	ID:	35507
+	Beschreibung:	Mural painting from the Casa d'Apolline e Coronide. Daphne stands on the right, frontal, legs draped, bracelets on left wrist and ankle, laurel sprigs growing from her head and shoulders. Apollon is seated on the left, gazing at Daphne, leaning on a kithara, right arm over his head, right leg draped.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Daphne
+	Katalognummer:	33
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	299
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VIII 3,24
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa d'Apollo e Coronide

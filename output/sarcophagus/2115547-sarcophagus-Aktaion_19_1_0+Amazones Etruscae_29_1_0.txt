@@ -1,0 +1,107 @@
+http://ark.dasch.swiss/ark:/72163/080e-76250b622984c-9
+Aktaion_19_1_0
+Amazones Etruscae_29_1_0
+
+
+
+Monument
+	ID:	45257
+	Entdeckungsort:	Tarquinia
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	sword shield spear chariot dog bow warrior, soldier shoes Amazon Phrygian cap wound fight, battle
+	Name:	Aktaion Amazones
+	Beschreibung:	Demon crowning a man. Minerva accompanied by an owl.
+	Bibliographie:	De Agostino, A., Il museo di Firenze (1968) 102; Ducati 419-420. 478 pl. 192; Giglioli 44 pl. 239; Helbig, EtrSark 26 no. 27 pl. 35c; Bocci, P., StEtr 28, 1960, 121-123 pl. 1.
+Datierung
+	Periode:	-370 - -360 
+	Kommentar:	about
+Epoche
+	Name:	2. Viertel 4. Jh. v. Chr.
+	Periode:	-375 - -350 
+	Sequenznummer:	2500
+Datierung
+	Periode:	-350 - -325 
+	Kommentar:	Amazones Etruscae 29
+Epoche
+	Name:	3. Viertel 4. Jh. v. Chr.
+	Periode:	-350 - -325 
+	Sequenznummer:	2510
+Szene
+	ID:	47633
+	Szenerieangabe:	couvercle
+	Beschreibung:	Demon crowning a man. Minerva accompanied by an owl.
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/museo_archeologico/47633X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/museo_archeologico/47633X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/museo_archeologico/47633X103.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/museo_archeologico/47633X104.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/museo_archeologico/47633X105.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/museo_archeologico/47633X106.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/museo_archeologico/47633X107.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/museo_archeologico/47633X108.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/museo_archeologico/47633X109.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/museo_archeologico/47633X110.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	27
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VIII. Tiere und Pflanzen, etr.
+	Bandnummer:	8
+Catalog LIMC
+	Artikel:	Aktaion
+	Katalognummer:	19
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amazones Etruscae
+	Katalognummer:	29
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	5811
+Museum
+	Land:	IT
+	Stadt:	Firenze
+	Name:	Museo Archeologico
+	Direktor:	Soprintendente Dott.ssa Fulvia Lo Schiavo
+	Anrede:	Chiarissimo Soprintendente
+	Adresse:	Via della Pergola 65
+	Postleitzahl:	I-50121
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici della Toscana
+	Stadt des Kontaktzenters:	Firenze
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici della Toscana
+	Hat die Fotorechte:	1

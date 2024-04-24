@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-765ee711ecd97-c
+
+
+
+Monument
+	ID:	52706
+	Entdeckungsort:	Musarna (S. Caterina, Viterbo)
+	Entdeckungsort Details:	Tomb II of the Alethna
+	Objekt:	sarcophagus
+	Material:	nenfro
+	Land:	CH
+	Kategorie:	relief
+	Beschreibung:	Corteo a sin.: quattro littori con fascio, figura con corta tunica (servus? demone??) che conduce i cavalli della biga, su cui è il magistrato, servus che reca sulla spalla una sella curule (?) (processus magistraturalis)
+	Bibliographie:	Herbig, EtrSark n° 205 tav. 100d; Lambrechts 128 n° 2 tav. 3; Tassi Scandone 55 n° 2.11.
+Datierung
+	Periode:	-233 - -200 
+Epoche
+	Name:	3. Drittel 3. Jh. v. Chr.
+	Periode:	-233 - -200 
+	Sequenznummer:	2690
+Szene
+	ID:	57981
+	Beschreibung:	Corteo a sin.: quattro littori con fascio, figura con corta tunica (servus? demone??) che conduce i cavalli della biga, su cui è il magistrato, servus che reca sulla spalla una sella curule (?) (processus magistraturalis)
+Catalog Thes CRA
+	Indexnummer:	79
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 1. Prozessionen, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	90
+	Bandnummer:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	232
+Museum
+	Land:	IT
+	Stadt:	Viterbo
+	Name:	Museo Archeologico Nazionale (Rocca Albornoz)
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

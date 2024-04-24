@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-749b0464e723f-c
+Mercurius_220_1_0
+
+
+
+Monument
+	ID:	17461
+	Entdeckungsort:	Ostia
+	Entdeckungsort Details:	Isola Sacra
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Mercurius
+	Beschreibung:	Floating Mercurius with winged head, purse and caduceus.
+Szene
+	ID:	18179
+	Beschreibung:	Floating Mercurius with winged head, purse and caduceus.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/museo_ostiense/18179X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	220
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Isola Sacra
+Museum
+	Land:	IT
+	Stadt:	Ostia
+	Name:	Museo Ostiense
+	Direktor:	Dott.ssa Elvira Angeloni
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Viale dei Romagnoli 717
+	Postleitzahl:	I-00119
+	Kontaktzenter:	Soprintendenza archeologica di Ostia
+	Stadt des Kontaktzenters:	Ostia Antica - Roma
+	Rechteinhaber der Fotos:	Archivio Fotografico della Soprintendenza Archeologica per i beni archeologici di Ostia
+	Hat die Fotorechte:	1

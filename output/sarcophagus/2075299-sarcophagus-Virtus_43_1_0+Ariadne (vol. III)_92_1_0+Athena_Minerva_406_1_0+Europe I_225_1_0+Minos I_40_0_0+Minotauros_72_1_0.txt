@@ -1,0 +1,108 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e5a304f8434-1
+Virtus_43_1_0
+Ariadne (vol. III)_92_1_0
+Athena/Minerva_406_1_0
+Europe I_225_1_0
+Minos I_40_0_0
+Minotauros_72_1_0
+
+
+
+Monument
+	ID:	4662
+	Entdeckungsort:	Fidenae
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Europe I Athena/Minerva Ariadne Minos I Minotauros Virtus
+	Beschreibung:	Sarcophagus relief: Theuseus in Crete. Minos with the body of the Minotaur, Europe (I) standing by. Left scene: Theseus with horse, Virtus and Minos.
+Datierung
+	Periode:	250 
+Szene
+	ID:	4726
+	Beschreibung:	Sarcophagus relief: Theuseus in Crete. Minos with the body of the Minotaur, Europe (I) standing by. Left scene: Theseus with horse, Virtus and Minos.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/cliveden_buckinghamshire/4726X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/cliveden_buckinghamshire/4726X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/cliveden_buckinghamshire/4726X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/cliveden_buckinghamshire/4726X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/cliveden_buckinghamshire/4726X005.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/cliveden_buckinghamshire/4726X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/cliveden_buckinghamshire/4726X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/cliveden_buckinghamshire/4726X103.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/cliveden_buckinghamshire/4726X104.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/cliveden_buckinghamshire/4726X105.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/cliveden_buckinghamshire/4726X106.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/cliveden_buckinghamshire/4726X107.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Virtus
+	Katalognummer:	43
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ariadne (vol. III)
+	Katalognummer:	92
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	406
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Europe I
+	Katalognummer:	225
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Minos I
+	Katalognummer:	40
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Minotauros
+	Katalognummer:	72
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 3, 430
+Museum
+	Land:	GB
+	Stadt:	Cliveden (Buckinghamshire)
+	Rechteinhaber der Fotos:	© Cliveden
+	Hat die Fotorechte:	0

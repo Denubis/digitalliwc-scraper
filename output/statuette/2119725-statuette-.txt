@@ -1,0 +1,59 @@
+http://ark.dasch.swiss/ark:/72163/080e-7660c684ec166-9
+
+
+
+Monument
+	ID:	52856
+	Entdeckungsort:	Pompei
+	Objekt:	statuette
+	Material:	bronze
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sculpture in the round
+	Stichwort:	cornucopia helmet grapes bell, small bell, tintinnabulum capite velato fruit wings aegis acanthus
+	Name:	Athena/Minerva Hera/Iuno Hermes/Mercurius Zeus/Iuppiter
+	Grössenangabe:	H: 34 cm; B: 12 cm
+	Beschreibung:	Merkurbüste mit Flügelhelm. Vor der Brust zwei Akanthusblätter, aus denen seitlich Füllhörner wachsen. In den Füllhörnern Trauben, weitere Früchte und eine Rose, auf dem Füllhorn links die Büste der Minerva mit Helm und Ägis, rechts die Büste der Juno in capite velato. Die kapitolinische Trias wird vervollständigt durch die Jupiterbüste am Schnittpunkt der Akanthusblätter vor Merkurs Brust, mit langen Haaren, Bart und Mantelende über der rechten Schulter. An fünf Ösen sind sieben Kettchen angebracht, an deren Ende runde Glöckchen saßen. Lediglich die größte Glocke in der Mitte ist viereckig, in ihr ist auch noch der Ring erkennbar, an der ehemals der Klöppel angebracht gewesen sein muss. Vermutlich handelt es sich um die Verkleidung einer Waage, die aber in diesem Fall direkt als Votiv gedacht war, da es keine Spuren von Abnutzung gibt und die Glöckchen beim Wiegen stören würden. 
+	Bibliographie:	Pease, A. S., Notes on some uses of bells among the Greeks and Roman, HSCP (Harvard Studies) 15 (1904) 50-51; von Petrokovits, H., BonnJbb 150 (1950) 187 FN 65; Rolland, H., Bronzes antiques de Haute Provence, Gallia Suppl. 18 (1965) 53-55 n. 65 fig. 65. 
+	Kommentar:	Im Bronzekabinett in Paris befinden sich noch weitere Merkurbüsten und -statuetten (z.T. ithyphallisch) mit Glöckchen, darunter eine ithyphallische Darstellung des Merkurs in Bronze mit sieben angehängten Glöckchen aus Herculaneum; eine Hängelampe aus Boscoreale mit Merkurstatuette, unter der ein Tier mit Glöckchen angebracht war; eine Bronzebüste des Merkur in Blattkelch aus Lauriacum, an dessen Ösen vermutlich auch Glöckchen angehängt waren. Beschrieben werden diese allerdings nur in Werken des 19. Jhs. Vgl. Barré, L.; Roux, H., Herculanum et Pompéi 8. Musée Secret, Paris (1877) Taf. 46 und 52; Ménard, Histoire des Antiquités de la Ville de Nismes et de ses environs (Nismes, 1832), pl. opp. p. 93, No. 4. 
+	Museums-URL:	http://www.limc-france.fr/objet/14236
+Datierung
+	Periode:	90 - 100 
+Epoche
+	Name:	Ende 1. Jh. n. Chr.
+	Periode:	90 - 100 
+	Sequenznummer:	3030
+Datierung
+	Periode:	100 - 200 
+Epoche
+	Name:	2. Jh. n. Chr.
+	Periode:	100 - 200 
+	Sequenznummer:	3140
+Szene
+	ID:	58186
+	Beschreibung:	Merkurbüste mit Flügelhelm. Vor der Brust zwei Akanthusblätter, aus denen seitlich Füllhörner wachsen. In den Füllhörnern Trauben, weitere Früchte und eine Rose, auf dem Füllhorn links die Büste der Minerva mit Helm und Ägis, rechts die Büste der Juno in capite velato. Die kapitolinische Trias wird vervollständigt durch die Jupiterbüste am Schnittpunkt der Akanthusblätter vor Merkurs Brust, mit langen Haaren, Bart und Mantelende über der rechten Schulter. An fünf Ösen sind sieben Kettchen angebracht, an deren Ende runde Glöckchen saßen. Lediglich die größte Glocke in der Mitte ist viereckig, in ihr ist auch noch der Ring erkennbar, an der ehemals der Klöppel angebracht gewesen sein muss. Vermutlich handelt es sich um die Verkleidung einer Waage, die aber in diesem Fall direkt als Votiv gedacht war, da es keine Spuren von Abnutzung gibt und die Glöckchen beim Wiegen stören würden. 
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	1444
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Br 363
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Cabinet des Médailles et Antiques de la Bibliothèque Nationale de France
+	Direktor:	Dr. M. Amandry, Conservateur en Chef
+	Adresse:	58, Rue de Richelieu
+	Postleitzahl:	F-75084
+	Kontaktzenter:	Cabinet des Médailles de la Bibliothèque Nationale de France
+	Stadt des Kontaktzenters:	Paris cedex 02
+	Rechteinhaber der Fotos:	© Cabinet des Médailles et Antiques de la Bibliothèque Nationale de France
+	Kommentar:	Intailles: les numéros d'inventaire sont les numéros du catalogue de Chabouillet, BiblNatCamées.  Camées: les numéros d'inventaire sont les numéros du catalogue de Babelon, BiblNatCamées.  Bronzes: les numéros d'inventaire sont les numéros du catalogue de Babelon/Blanchet, BiblNatBronzes précédés de Br.
+	Hat die Fotorechte:	1

@@ -1,0 +1,48 @@
+http://ark.dasch.swiss/ark:/72163/080e-74d26e3c1ccf3-3
+Hippothoon_7_0_0
+Alope_2_1_0
+
+
+
+Monument
+	ID:	21373
+	Entdeckungsort:	Tivoli
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	throne spear kline, bed dog child building horse youth
+	Name:	Alope Hippothoon
+	Beschreibung:	Depiction of the myth of Alope and Hippothoon.
+	Bibliographie:	Robert, C., Archäologische Ermeneutik (1919) 397-405 fig.; SarkRel III 3, 525-528 no 436 fig. 436-436b.
+Datierung
+	Periode:	140 - 160 
+Epoche
+	Name:	Mitte 2. Jh. n. Chr.
+	Periode:	140 - 160 
+	Sequenznummer:	3160
+Szene
+	ID:	22329
+	Beschreibung:	Depiction of the myth of Alope and Hippothoon.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Hippothoon
+	Katalognummer:	7
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Alope
+	Katalognummer:	2
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Calza 198
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Doria Pamphilj
+	Rechteinhaber der Fotos:	© Villa Doria Pamphilj, Roma
+	Kommentar:	Numéros d'après Calza, R. (éd.), Antichità di Villa Doria Pamphilj (1977).
+	Hat die Fotorechte:	1

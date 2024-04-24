@@ -1,0 +1,152 @@
+http://ark.dasch.swiss/ark:/72163/080e-7413a0f9704c9-1
+Sphinx (S)_281_1_0
+Medeia_58_1_0
+Tellus_82_1_0
+Iason_52_1_0
+Iason_68_0_0
+Kreousa II_11_1_0
+Kreousa II_22_1_0
+Merope II_3_0_0
+Hippotes_ad 2_0_0
+Aietes_6_1_0
+Aietes_7_1_0
+
+
+
+Monument
+	ID:	7904
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	sceptre pillar bull chariot rock, cliff
+	Name:	Aietes Hippotes Iason Kreousa II Medeia Merope II Sphinx (Thebana) Tellus
+	Grössenangabe:	L: 217 cm; H vorne: 65 cm; H hinten: 55 cm
+	Beschreibung:	Medea sarcophagus: The wreathed young men is maybe Hippotes, the brother of Kreousa (II). The children of Medeia handing over presents to Kreousa (II). Merope (II) is one of the women in the scene where Kreousa (II) is embellished. Lid: Iason taming the bulls before Aietes and Iason capturing the fleece before Medeia. Minor sides: Crouching female Sphinx.
+	Bibliographie:	Schmidt, M., Der Basler Medeasarkophag (1969) 7-15 pl. 2-9.
+Szene
+	ID:	8087
+	Beschreibung:	Medea sarcophagus: The wreathed young men is maybe Hippotes, the brother of Kreousa (II). The children of Medeia handing over presents to Kreousa (II). Merope (II) is one of the women in the scene where Kreousa (II) is embellished. Lid: Iason taming the bulls before Aietes and Iason capturing the fleece before Medeia. Minor sides: Crouching female Sphinx.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/switzerland/basel/antikenmuseum_und_sammlung_ludwig/8087X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/switzerland/basel/antikenmuseum_und_sammlung_ludwig/8087X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/switzerland/basel/antikenmuseum_und_sammlung_ludwig/8087X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/switzerland/basel/antikenmuseum_und_sammlung_ludwig/8087X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/switzerland/basel/antikenmuseum_und_sammlung_ludwig/8087X009.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/switzerland/basel/antikenmuseum_und_sammlung_ludwig/8087X010.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/switzerland/basel/antikenmuseum_und_sammlung_ludwig/8087X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/switzerland/basel/antikenmuseum_und_sammlung_ludwig/8087X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/switzerland/basel/antikenmuseum_und_sammlung_ludwig/8087X103.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Sphinx (S)
+	Katalognummer:	281
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Medeia
+	Katalognummer:	58
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Tellus
+	Katalognummer:	82
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iason
+	Katalognummer:	52
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iason
+	Katalognummer:	68
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kreousa II
+	Katalognummer:	11
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kreousa II
+	Katalognummer:	22
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Merope II
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippotes
+	Katalognummer:	ad 2
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	46051
+	Szenerieangabe:	couvercle
+	Bibliographie:	Schmidt, M., Der Basler Medeasarkophag (1969) 7-15 pl. 2-9.
+	Sequenznummer:	20
+	Name:	Aietes
+	Stichwort:	sceptre pillar bull chariot rock, cliff
+Foto
+	Monument-URL:	http://www.limc.ch/Images/switzerland/basel/antikenmuseum_und_sammlung_ludwig/46051X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/switzerland/basel/antikenmuseum_und_sammlung_ludwig/46051X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/switzerland/basel/antikenmuseum_und_sammlung_ludwig/46051X003.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Aietes
+	Katalognummer:	6
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aietes
+	Katalognummer:	7
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	BS 203
+Museum
+	Land:	CH
+	Stadt:	Basel
+	Name:	Antikenmuseum und Sammlung Ludwig
+	Direktor:	Frau Dr. Vera Slehofer
+	Adresse:	St. Albangraben 5
+	Postfach:	Postfach
+	Postleitzahl:	CH-4010
+	Kontaktzenter:	Antikenmuseum und Sammlung Ludwig
+	Stadt des Kontaktzenters:	Basel
+	Rechteinhaber der Fotos:	© Antikenmuseum und Sammlung Ludwig, Basel
+	Hat die Fotorechte:	1

@@ -1,0 +1,49 @@
+http://ark.dasch.swiss/ark:/72163/080e-7477eef4d23d1-3
+Meleagros_111_0_0
+Atalante_23_1_0
+
+
+
+Monument
+	ID:	14983
+	Entdeckungsort:	Eleusis (Attica)
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Atalante Meleagros
+	Beschreibung:	The heroes are gathered round the boar on foot, one on horseback. Atalante is at the right, turning away from the boar, holding a bow and drawing an arrow from her quiver. She wears short chiton and boots.
+Datierung
+	Periode:	200 - 225 
+Szene
+	ID:	15459
+	Beschreibung:	The heroes are gathered round the boar on foot, one on horseback. Atalante is at the right, turning away from the boar, holding a bow and drawing an arrow from her quiver. She wears short chiton and boots.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/eleusis/musee_archeologique/15459X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	111
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Atalante
+	Katalognummer:	23
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	GR
+	Stadt:	Eleusis
+	Name:	Musée Archéologique
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Archaeological Museum of Eleusis
+	Hat die Fotorechte:	0

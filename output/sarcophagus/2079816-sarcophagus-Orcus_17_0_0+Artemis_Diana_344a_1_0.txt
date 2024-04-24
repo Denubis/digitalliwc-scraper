@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-742636de0512d-5
+Orcus_17_0_0
+Artemis/Diana_344a_1_0
+
+
+
+Monument
+	ID:	9218
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Artemis/Diana Orcus
+	Beschreibung:	Calydonian hunt, between Oineus and Artemis Orcus with his double axe.
+Szene
+	ID:	9418
+	Beschreibung:	Calydonian hunt, between Oineus and Artemis Orcus with his double axe.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/oxford/ashmolean_museum_of_art_and_archaeology/9418X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Orcus
+	Katalognummer:	17
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	344a
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1947.278
+Museum
+	Land:	GB
+	Stadt:	Oxford
+	Name:	Ashmolean Museum of Art and Archaeology
+	Direktor:	Ms. Katherine Wodehouse, Picture Library Manager
+	Anrede:	Dear Dr. Vickers,
+	Adresse:	Beaumont Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	Ashmolean Museum of Art and Archaeology
+	Stadt des Kontaktzenters:	Oxford OX1 2PH
+	Rechteinhaber der Fotos:	© Ashmolean Museum of Art and Archaeology, Oxford
+	Hat die Fotorechte:	1

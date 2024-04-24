@@ -1,0 +1,30 @@
+http://ark.dasch.swiss/ark:/72163/080e-74a1bc8e309ed-e
+Mousa, Mousai/Musae (vol. VII)_70_0_0
+
+
+
+Monument
+	ID:	17940
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	Temple of Apollon
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Mousa, Mousai
+Szene
+	ID:	23887
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	70
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba nord 6
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Tombe fuori la Porta di Ercolano
+	Rechteinhaber der Fotos:	© Tombe fuori la Porta di Ercolano, Pompei
+	Hat die Fotorechte:	1

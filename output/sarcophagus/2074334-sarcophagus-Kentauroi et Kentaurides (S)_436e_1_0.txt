@@ -1,0 +1,51 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d7d732ec49b-c
+Kentauroi et Kentaurides (S)_436e_1_0
+
+
+
+Monument
+	ID:	3693
+	Entdeckungsort:	Thessalonica (Macedonia)
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	GR
+	Kategorie:	relief
+	Stichwort:	panther, leopard lion tree bull double-axe, bipennis, labrys centaur
+	Name:	Kentauroi and Kentaurides
+	Grössenangabe:	Y. 0.64 μ - M. 2.00 μ - Πάχ. 0.155 μ
+	Beschreibung:	Kένταυροι
+	Bibliographie:	Petsas, Ph. MAKEΔONIKA 9 (1969) Chronica 141 Pl. 21.
+	Kommentar:	5563
+Datierung
+	Periode:	100 - 200 
+Epoche
+	Name:	2. Jh. n. Chr.
+	Periode:	100 - 200 
+	Sequenznummer:	3140
+Szene
+	ID:	3731
+	Beschreibung:	Centaurs fighting lions.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/thessalonique/musee_archeologique/3731X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	436e
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	10234
+Museum
+	Land:	GR
+	Stadt:	Thessalonique
+	Name:	Musée Archéologique
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Archaeological Museum of Thessaloniki
+	Hat die Fotorechte:	0

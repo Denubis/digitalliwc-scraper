@@ -1,0 +1,56 @@
+http://ark.dasch.swiss/ark:/72163/080e-749b7d2be30a4-e
+Niobidai_31b_0_0
+Apollon/Apollo_479a_1_0
+Artemis/Diana_353a_0_0
+
+
+
+Monument
+	ID:	17494
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Apollon/Apollo Artemis/Diana Niobidai
+	Beschreibung:	Artemis and Apollon killing the Niobidai.
+Szene
+	ID:	18213
+	Beschreibung:	Artemis and Apollon killing the Niobidai.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/muenchen/staatliche_antikensammlungen_und_glyptothek/18213X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/muenchen/staatliche_antikensammlungen_und_glyptothek/18213X201.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Niobidai
+	Katalognummer:	31b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	479a
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	353a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Gl 345
+Museum
+	Land:	DE
+	Stadt:	München
+	Name:	Staatliche Antikensammlungen und Glyptothek
+	Direktor:	Dr. Yvonne Schmuhl
+	Adresse:	Meiserstrasse 10
+	Postleitzahl:	D-80333
+	Kontaktzenter:	Staatliche Antikensammlungen und Glyptothek
+	Stadt des Kontaktzenters:	München
+	Rechteinhaber der Fotos:	© Staatliche Antikensammlungen und Glyptothek, München
+	Hat die Fotorechte:	1

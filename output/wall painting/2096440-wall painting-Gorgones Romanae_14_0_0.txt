@@ -1,0 +1,31 @@
+http://ark.dasch.swiss/ark:/72163/080e-7513e1566f9dd-e
+Gorgones Romanae_14_0_0
+
+
+
+Monument
+	ID:	25984
+	Entdeckungsort:	Alexandria
+	Entdeckungsort Details:	necropolis of Kôm esh-Shougâfa
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Gorgo, Gorgones
+	Beschreibung:	Gorgoneion, around it vine branchs with animals.
+Szene
+	ID:	39336
+	Beschreibung:	Gorgoneion, around it vine branchs with animals.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Gorgones Romanae
+	Katalognummer:	14
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	EG
+	Stadt:	Alexandrie
+	Name:	Nécropole de Kôm esh-Shougâfa
+	Rechteinhaber der Fotos:	© Alexandria
+	Hat die Fotorechte:	1

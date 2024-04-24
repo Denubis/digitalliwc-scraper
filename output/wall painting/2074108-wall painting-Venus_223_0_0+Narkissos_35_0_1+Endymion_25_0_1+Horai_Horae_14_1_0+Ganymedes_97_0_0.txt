@@ -1,0 +1,78 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d49c0ebacb1-6
+Venus_223_0_0
+Narkissos_35_0_1
+Endymion_25_0_1
+Horai/Horae_14_1_0
+Ganymedes_97_0_0
+
+
+
+Monument
+	ID:	3466
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 13,4 (House of Ganymede)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Horai/Horae Endymion Ganymedes Narkissos Venus
+	Beschreibung:	Four Horae, depicted frontal: Spring holding a lamb around her neck and a vessel. Summer, nude above the waist, holding sickle. Autumn holding a basket with fruit. Winter holding two ducks. Narkissos and Eros. Venus seated on a rock, fishing. Amor.
+Szene
+	ID:	3501
+	Beschreibung:	Four Horae, depicted frontal: Spring holding a lamb around her neck and a vessel. Summer, nude above the waist, holding sickle. Autumn holding a basket with fruit. Winter holding two ducks. Narkissos and Eros. Venus seated on a rock, fishing. Amor.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/3501X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/3501X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/3501X204.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Venus
+	Katalognummer:	223
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Narkissos
+	Katalognummer:	35
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	25
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	14
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ganymedes
+	Katalognummer:	97
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VII 13,4
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa di Ganimede

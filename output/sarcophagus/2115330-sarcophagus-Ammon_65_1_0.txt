@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-7621f12e6b44f-d
+Ammon_65_1_0
+
+
+
+Monument
+	ID:	45036
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	eagle
+	Name:	Ammon
+	Beschreibung:	Fragmente.
+Szene
+	ID:	47384
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/berkeley/phoebe_apperson_hearst_museum_of_anthropology_formerly_lowie_mus/47384X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Ammon
+	Katalognummer:	65
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8.3421
+Museum
+	Land:	US
+	Stadt:	Berkeley
+	Name:	Phoebe Apperson Hearst Museum of Anthropology (formerly Lowie Museum)
+	Direktor:	Rights and Reproduction Department
+	Anrede:	Dear Director,
+	Adresse:	University of California, 103 Kroeber Hall
+	Postleitzahl:	USA-
+	Kontaktzenter:	Phoebe Apperson Hearst Museum of Anthropology
+	Stadt des Kontaktzenters:	Berkeley CA 94720-3712
+	Rechteinhaber der Fotos:	Courtesy of the Phoebe Apperson Hearst Museum of Anthropology and the Regents of the University of California
+	Hat die Fotorechte:	0

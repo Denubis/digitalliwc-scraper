@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-747b734bcaf1f-9
+Nereides_156_0_0
+
+
+
+Monument
+	ID:	15230
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Nereides
+Szene
+	ID:	15713
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Nereides
+	Katalognummer:	156
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	608
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Corsini (Galleria Nazionale d'Arte Antica di Palazzo Corsini)
+	Direktor:	Direttore Dr. Alloise Sivigliano
+	Adresse:	Via della Lungara, 10
+	Postleitzahl:	I-00165
+	Kontaktzenter:	Palazzo Corsini
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprindentenza SPSAE e Polo Museale della Città di Roma
+	Hat die Fotorechte:	0

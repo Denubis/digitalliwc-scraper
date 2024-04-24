@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-75571a452f233-d
+Europe I_138_0_0
+
+
+
+Monument
+	ID:	30720
+	Entdeckungsort:	Ercolano, Herculaneum, Herculanum
+	Entdeckungsort Details:	Samnite House
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Europe I
+	Beschreibung:	Europe (I) in back view, naked, hanging at the bull's side, kissing.
+Szene
+	ID:	32215
+	Beschreibung:	Europe (I) in back view, naked, hanging at the bull's side, kissing.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Europe I
+	Katalognummer:	138
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Casa Sannitica
+Museum
+	Land:	IT
+	Stadt:	Ercolano
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	V 1-2

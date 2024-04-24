@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-7520a94dd1fd3-2
+Hades/Pluto_12_1_0
+
+
+
+Monument
+	ID:	26889
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hades Hades/Pluto
+Szene
+	ID:	28247
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/venezia/museo_archeologico_nazionale/28247X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	12
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	167
+Museum
+	Land:	IT
+	Stadt:	Venezia
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Soprintendente Dott.ssa Caterina Bon Valsassina
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Piazza S. Marco 63
+	Postleitzahl:	I-30124
+	Kontaktzenter:	Soprintendenza Speciale Polo Museale Veneziano
+	Stadt des Kontaktzenters:	Venezia
+	Rechteinhaber der Fotos:	© Polo Museale del Veneto
+	Hat die Fotorechte:	0

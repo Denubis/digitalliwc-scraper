@@ -1,0 +1,51 @@
+http://ark.dasch.swiss/ark:/72163/080e-7660bf330b5dc-0
+
+
+
+Monument
+	ID:	52854
+	Entdeckungsort:	Pompei
+	Objekt:	gong
+	Material:	bronze
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	varia
+	Stichwort:	musical instruments gong
+	Grössenangabe:	Dm: 25,5 cm
+	Beschreibung:	Bronzene Klangscheibe mit Loch in der Mitte, die von einer Bronzestange hängt, an der auch an einer Kette ein eiserner Klöppel befestigt ist. 
+	Bibliographie:	Daremberg-Saglio, Dictionnaire des Antiquités grecques et romaines  II 1 (1892) fig. 2467 s. v. Discus; Neugebauer, K. A., Bronzegerät des Altertums. Bilderhefte zur Kunst- und Kulturgeschichte II (1927) Taf. 11, 2; ; Jüthner, J., «Die Schelle im Thiasos», OeJh 7 (1904) 150 Abb. 68. 
+	Kommentar:	Wie auch Glocken und tympana konnte der Gong im Kult sowohl Signal- als auch apotropäische sowie reinigende Funktion besitzen. Da es dabei allerdings eher auf den Klang der Bronze als auf die explizite Form ankam, wurden oftmals beliebige andere Gegenstände aus Bronze verwendet (z.B. Kessel und Schilde). Daher sind archäologische Funde (besonders aus dem griechischen Raum) selten. 
+Datierung
+	Periode:	1 - 100 
+Epoche
+	Name:	1. Jh. n. Chr.
+	Periode:	1 - 100 
+	Sequenznummer:	3000
+Szene
+	ID:	58184
+	Beschreibung:	Bronzene Klangscheibe mit Loch in der Mitte, die von einer Bronzestange hängt, an der auch an einer Kette ein eiserner Klöppel befestigt ist.
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	1462
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	78622
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

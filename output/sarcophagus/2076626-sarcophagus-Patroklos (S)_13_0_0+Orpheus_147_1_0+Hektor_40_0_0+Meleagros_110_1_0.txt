@@ -1,0 +1,68 @@
+http://ark.dasch.swiss/ark:/72163/080e-73f89bbae6c5f-3
+Patroklos (S)_13_0_0
+Orpheus_147_1_0
+Hektor_40_0_0
+Meleagros_110_1_0
+
+
+
+Monument
+	ID:	6003
+	Entdeckungsort:	Thessalonica (Macedonia)
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Patroklos Meleagros Hektor Orpheus
+	Beschreibung:	Two young men at the back of their ship, not participating in the battle that is taking place around them. Achilleus and Patroklos? Other face: Hunter with double axe, a boar attacked by three dogs, a fourth lying wounded beneath, another hunter with double axe, Atalante and Meleagros, youth and a man with a dog.
+Datierung
+	Periode:	230 - 240 
+Szene
+	ID:	6113
+	Beschreibung:	Two young men at the back of their ship, not participating in the battle that is taking place around them. Achilleus and Patroklos? Other face: Hunter with double axe, a boar attacked by three dogs, a fourth lying wounded beneath, another hunter with double axe, Atalante and Meleagros, youth and a man with a dog.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/thessalonique/musee_archeologique/6113X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/thessalonique/musee_archeologique/6113X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/thessalonique/musee_archeologique/6113X303.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Patroklos (S)
+	Katalognummer:	13
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Orpheus
+	Katalognummer:	147
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hektor
+	Katalognummer:	40
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	110
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1246
+Museum
+	Land:	GR
+	Stadt:	Thessalonique
+	Name:	Musée Archéologique
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Archaeological Museum of Thessaloniki
+	Hat die Fotorechte:	0

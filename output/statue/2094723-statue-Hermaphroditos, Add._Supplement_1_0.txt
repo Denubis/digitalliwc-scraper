@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-74fb554254794-8
+Hermaphroditos, Add._Supplement_1_0
+
+
+
+Monument
+	ID:	24254
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 7,35 (Temple of Apollo)
+	Objekt:	statue
+	Material:	marble
+	Land:	CH
+	Kategorie:	sculpture in the round
+	Name:	Hermaphroditos
+	Beschreibung:	Hermaphroditos, nude, standing; gesture of defense
+	Bibliographie:	CollNapoli 2, 106 no. 59; Oehmke, St., Das Weib im Manne (2004) 91-92 no. 137
+Datierung
+	Periode:	-27 - 14 
+Epoche
+	Name:	augusteisch
+	Periode:	-27 - 14 
+	Sequenznummer:	1130
+Datierung
+	Periode:	-27 - 100 
+Szene
+	ID:	25453
+	Beschreibung:	Hermaphroditos, nude, standing; gesture of defense
+	Sequenznummer:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hermaphroditos, Add.
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	6352
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

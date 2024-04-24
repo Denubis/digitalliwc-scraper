@@ -1,0 +1,49 @@
+http://ark.dasch.swiss/ark:/72163/080e-745d503092cf3-e
+Psyche_132_0_0
+Charis, Charites/Gratiae_18_1_0
+Eros/Amor, Cupido_ad 103_0_0
+
+
+
+Monument
+	ID:	13105
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Charis, Charites/Gratiae Eros/Amor, Cupido Psyche
+Szene
+	ID:	13433
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/pittsburgh/carnegie_museum_of_art/13433X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/pittsburgh/carnegie_museum_of_art/13433X203.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	132
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Charis, Charites/Gratiae
+	Katalognummer:	18
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 103
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	53.4.2
+Museum
+	Land:	GB
+	Stadt:	Pittsburgh
+	Name:	Carnegie Museum of Art
+	Rechteinhaber der Fotos:	© Carnegie Museum of Art, Pittsburgh
+	Hat die Fotorechte:	0

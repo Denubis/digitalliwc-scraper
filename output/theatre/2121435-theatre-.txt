@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-767938fa74b4c-2
+
+
+
+Monument
+	ID:	54633
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VIII 7,17-20 (Odeum)
+	Objekt:	theatre
+	Land:	CH
+	Kategorie:	architecture
+	Beschreibung:	So-called Teatro Grande; also used for the ludi related to the adjacent cult places
+Szene
+	ID:	60062
+	Beschreibung:	So-called Teatro Grande; also used for the ludi related to the adjacent cult places
+Catalog Thes CRA
+	Indexnummer:	5
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm. 
+	Kurzname:	Theatrum
+	Lemata:	Theatrum
+	Sequenznummer:	4190
+	Bandnummer:	4
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Teatro grande (VIII 7,20)
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Quartiere dei Teatri
+	Rechteinhaber der Fotos:	© Pompei
+	Hat die Fotorechte:	1

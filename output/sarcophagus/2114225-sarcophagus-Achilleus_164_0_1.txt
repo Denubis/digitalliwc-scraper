@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-761224f8eccfa-d
+Achilleus_164_0_1
+
+
+
+Monument
+	ID:	43915
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Via Latina
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Name:	Achilleus Diomedes I Odysseus Phoinix II
+	Beschreibung:	Fragment.
+	Bibliographie:	SarkRel II 220 no. 30; Benndorf, O./Schöne, R., Die antiken Bildwerke des lateranensischen Museums (18867) 243 no. 39; Koch, G., AA 103 no., 3 fig. 3.
+Szene
+	ID:	46192
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	164
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma, Via Latina
+	Name:	Tomba dei Pancratii ("Buntes Grab")
+	Rechteinhaber der Fotos:	© Roma
+	Hat die Fotorechte:	1

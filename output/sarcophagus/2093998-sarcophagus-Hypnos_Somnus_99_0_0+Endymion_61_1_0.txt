@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-74f0f7d19f0ab-4
+Hypnos/Somnus_99_0_0
+Endymion_61_1_0
+
+
+
+Monument
+	ID:	23521
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Endymion Hypnos/Somnus
+	Museums-URL:	http://www.getty.edu/art/collection/objects/7301/unknown-maker-front-of-a-sarcophagus-with-the-myth-of-endymion-roman-about-210/
+Szene
+	ID:	24690
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/malibu/j_paul_getty_museum/24690X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/malibu/j_paul_getty_museum/24690X002.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	99
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	61
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	76.AA.8
+Museum
+	Land:	US
+	Stadt:	Malibu
+	Name:	J. Paul Getty Museum
+	Direktor:	Dr. Jackie Burns
+	Adresse:	1200 Getty Center Drive Suite 1000
+	Postleitzahl:	USA-
+	E-Mail:	jburns@getty.edu
+	Kontaktzenter:	Registrars Office, J. Paul Getty Museum
+	Stadt des Kontaktzenters:	Los Angeles, CA 90049
+	Rechteinhaber der Fotos:	© J. Paul Getty Museum
+	Hat die Fotorechte:	1

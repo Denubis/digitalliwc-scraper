@@ -1,0 +1,58 @@
+http://ark.dasch.swiss/ark:/72163/080e-741eddab6bba3-2
+Penelope_24_1_0
+Eurykleia_12_0_0
+Eurynome II_2_0_0
+
+
+
+Monument
+	ID:	8699
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	Regio VIII
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Eurykleia Eurynome II Penelope
+	Beschreibung:	On the left the kneeling Eurykleia, washing the feet of the seated Odysseus. Two other female persons are present: Penelope and Eurynome (II)?
+Szene
+	ID:	8897
+	Beschreibung:	On the left the kneeling Eurykleia, washing the feet of the seated Odysseus. Two other female persons are present: Penelope and Eurynome (II)?
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/antiquarium/8897X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/antiquarium/8897X204.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Penelope
+	Katalognummer:	24
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eurykleia
+	Katalognummer:	12
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eurynome II
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	14231
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Antiquarium
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via villa dei Misteri 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei (NA)
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

@@ -1,0 +1,296 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d6324ef2d1c-4
+Kentauroi et Kentaurides (S)_406b_0_1
+Kentauroi et Kentaurides (S)_437_0_0
+Phaethon I_1_0_0
+Helios/Sol_170_0_0
+Rea Silvia_4_0_1
+Ares/Mars_392_0_0
+Skylla II_2_0_0
+Helene_130_0_0
+Minos I_13_0_0
+Nereides_51_0_0
+Dionysos/Bacchus_127_0_1
+Eileithyia_62_0_0
+Semele_8_0_0
+Venti_20_0_1
+Psyche_33_0_0
+Nereides_160_0_0
+Hippolytos I_42_0_1
+Hippolytos I_43_0_1
+Horai/Horae_26_0_0
+Horai/Horae_64_0_0
+Apollon/Apollo_419_1_0
+Herakles_3191_0_0
+Athena/Minerva_369_0_0
+Herakles_3346_0_0
+Hypnos/Somnus_128_0_1
+Europe I_128_0_0
+Europe I_129_0_0
+Europe I_143_0_0
+Ganymedes_257_0_0
+Athena/Minerva_417_0_0
+Achilleus_114_0_0
+Amaltheia_5_0_0
+Andromache I_9_1_0
+Ares/Mars_370_0_0
+Athena/Minerva_313_0_0
+Dionysos/Bacchus_145_0_0
+Apollon/Apollo_279_0_1
+Apollon/Apollo_296_0_1
+Ares/Mars_ad 388_0_0
+Dionysos/Bacchus_83_0_0
+
+
+
+Monument
+	ID:	3577
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Domus Aurea
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	wreath, crown, stephane, corona base thyrsos club ear of corn shield garland column spear kithara bull vase vessel torch diadem kline, bed chariot branch rock, cliff basin dog child liknon, vannus, winnowing-fan goat grapes cloth, textile servant gate initiation rotunda, tholos seat, chair, sedes, sedile door horse phallos eagle halo, nimbus sickle centaur Nereid tray, lanx, catinus herdsman architecture Ventus palace velificatio ketos, sea monster feline canopy, baldachin
+	Name:	Achilleus Amaltheia Andromache I Apollon/Apollo Ares/Mars Athena/Minerva Dionysos/Bacchus Eileithyia Europe I Ganymedes Hektor Helene Helios/Sol Hera Hippolytos I Horai/Horae Hypnos/Somnus Hera/Iuno Minos I Phaethon I Psyche Rea Silvia Semele Skylla II Aphrodite/Venus Zeus/Iuppiter Herakles/Hercules Venti Kentauroi and Kentaurides Nereides
+	Beschreibung:	Fresco of the Domus Aurea in Rome, today lost; drawing preserved; two women holding liknon with phallos (?) over small covered person. Amaltheia carries infants (Zeus and Hera?) on her back. Three women around a dying Semele. Two are washing the baby Dionysos, the third standing before Semele and holding her hand, probably Eileithyia (youth of Bacchus). Girls on the shore are watching Europe (I), half naked, mantle in arc over head, reclining on back of the bull galloping over the sea to the right. Hercules kissing the hand of Minerva. Phaethon (I) in front of Helios in the presence of the Horae. Zeus holds the baby Herakles to the breast of the sleeping Hera in the presence of Athena and Hypnos. Dionysos/Bacchus with thyrsos, around him two dancing maenads (or nymphs). Skylla brings the lock of hair to Minos (I). Mars approaching the sleeping Rea Silvia.
+	Bibliographie:	Reinach, RépPeint 9, 6 (Amaltheia 5). 11, 4 (Europe I 143). 13, 4  (Europe I 128). 15, 2 (Athena/Minerva 417). 21, 3 (Herakles 3191).  21, 6 (Athena/Minerva 313). 23, 3 (Apollon/Apollo 279). 24, 11 (Apollon/Apollo 296). 40, 2-3 (Nereides 51). 43, 12 (Nereides 160). 105, 2 (Dionysos/Bacchus 145). 58, 7 (Rea Silvia 4). 109, 6 (Dionysos/Bacchus 83). 168, 2 (Minos I 13). 209, 3-4 (Hippolytos I 42-43). 346, 3 (Kentauroi 406b). 347, 3 (kentauroi 437); Rizzo, PER pl. 29 (Horai/Horae 26); Hanfmann, G. M. A., The Seasons Sarcophagus in Dumbarton Oaks II (1951) 137 no. 18 fig. 82 (Apollon/Apollo 419); Kahil, Hélène 243 no. 195 pl. 41, 5 (Helene 130, Skylla II 2); Nilsson, M. P., The Dionisiac Mysteries of the Hellensitic and Roman Age (1957) 85-86 fig. 16; Borda, M., La pittura romana (1958) 223 fig. (Andromache I 9); Renard, M. in Hommages à J. Bayet (1964) pl. 35, 10 (Herakles 3346); EAA VI (1965) pl. on p. 960 (Achilleus 114); Schwinzer, E., Schwebende Gruppen in der pompejanischen Wandmalerei (1979) 75 pl. 9, 3 (Ares/Mars 370); Sauron, G., La grande fresque de la Villa des Mystères à Pompéi (1998) 124-125 fig. 32 (II 3.c. Initiation 80).
+Datierung
+	Periode:	54 - 68 
+Epoche
+	Name:	neronisch
+	Periode:	54 - 68 
+	Sequenznummer:	1170
+Szene
+	ID:	3613
+	Beschreibung:	Fresco of the Domus Aurea in Rome, today lost; drawing preserved; two women holding liknon with phallos (?) over small covered person. Amaltheia carries infants (Zeus and Hera?) on her back. Three women around a dying Semele. Two are washing the baby Dionysos, the third standing before Semele and holding her hand, probably Eileithyia (youth of Bacchus). Girls on the shore are watching Europe (I), half naked, mantle in arc over head, reclining on back of the bull galloping over the sea to the right. Hercules kissing the hand of Minerva. Phaethon (I) in front of Helios in the presence of the Horae. Zeus holds the baby Herakles to the breast of the sleeping Hera in the presence of Athena and Hypnos. Dionysos/Bacchus with thyrsos, around him two dancing maenads (or nymphs). Skylla brings the lock of hair to Minos (I). Mars approaching the sleeping Rea Silvia.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/domus_aurea/3613X205.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/domus_aurea/3613X206.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	80
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 3.c. Initiation
+	Sequenznummer:	1200
+	Bandnummer:	2
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	406b
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	437
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Phaethon I
+	Katalognummer:	1
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	170
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Rea Silvia
+	Katalognummer:	4
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Ares/Mars
+	Katalognummer:	392
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Skylla II
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helene
+	Katalognummer:	130
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Minos I
+	Katalognummer:	13
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Nereides
+	Katalognummer:	51
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	127
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Eileithyia
+	Katalognummer:	62
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Semele
+	Katalognummer:	8
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Venti
+	Katalognummer:	20
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	33
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Nereides
+	Katalognummer:	160
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	42
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	43
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	26
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	64
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	419
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	3191
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	369
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	3346
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	128
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Europe I
+	Katalognummer:	128
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Europe I
+	Katalognummer:	129
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Europe I
+	Katalognummer:	143
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ganymedes
+	Katalognummer:	257
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	417
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	114
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amaltheia
+	Katalognummer:	5
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Andromache I
+	Katalognummer:	9
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ares/Mars
+	Katalognummer:	370
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	313
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	145
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	279
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	296
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Ares/Mars
+	Katalognummer:	ad 388
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	83
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Domus Aurea
+	Direktor:	To the Director
+	Adresse:	Palacio Real
+	Postleitzahl:	E-28071
+	Kontaktzenter:	Patrimonio Nacional 
+	Stadt des Kontaktzenters:	Madrid
+	Rechteinhaber der Fotos:	© Roma
+	Hat die Fotorechte:	1

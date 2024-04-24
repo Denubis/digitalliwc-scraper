@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-766b4c37f57c6-4
+
+
+
+Monument
+	ID:	53633
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	temple
+	Objekt:	altar
+	Land:	CH
+	Kategorie:	cultual installations
+	Beschreibung:	From the temple of the Fortuna Augusta; rectangular altar, originally cladded with marble slabs
+Szene
+	ID:	59019
+	Beschreibung:	From the temple of the Fortuna Augusta; rectangular altar, originally cladded with marble slabs
+Catalog Thes CRA
+	Indexnummer:	7
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Altare, Rom. imp.
+	Lemata:	Altare, Rom. imp.
+	Sequenznummer:	3296
+	Bandnummer:	4
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Tempio della Fortuna Augusta
+	Rechteinhaber der Fotos:	© Pompei
+	Hat die Fotorechte:	1

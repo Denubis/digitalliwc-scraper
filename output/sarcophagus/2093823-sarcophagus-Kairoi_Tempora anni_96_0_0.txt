@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ee77554ff00-3
+Kairoi/Tempora anni_96_0_0
+
+
+
+Monument
+	ID:	23342
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kairoi/Tempora anni
+	Beschreibung:	In the central niche the portrait of the deceased. In the other niches between the columns are depictions of the Seasons. 
+Datierung
+	Periode:	170 
+Szene
+	ID:	24491
+	Beschreibung:	In the central niche the portrait of the deceased. In the other niches between the columns are depictions of the Seasons. 
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	96
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	CH
+	Stadt:	Zürich
+	Name:	Rehalp-Friedhof
+	Rechteinhaber der Fotos:	© Rehalp-Friedhof
+	Hat die Fotorechte:	0

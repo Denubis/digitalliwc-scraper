@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-73ec503370a93-b
+Erythra Thalatta (S)_5_1_0
+
+
+
+Monument
+	ID:	5131
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Erythra Thalatta
+	Beschreibung:	Crossing of the Red Sea (Erythra Thalatta): Below the horses of the biga of pharaoh a reclining river-god, leaning on an urn from where water pours out. To the left of the river-god the approaching Egyptians, to the right drowning Egyptians and on secure land Moses and the Israelites.
+Datierung
+	Periode:	380 - 400 
+Szene
+	ID:	5218
+	Beschreibung:	Crossing of the Red Sea (Erythra Thalatta): Below the horses of the biga of pharaoh a reclining river-god, leaning on an urn from where water pours out. To the left of the river-god the approaching Egyptians, to the right drowning Egyptians and on secure land Moses and the Israelites.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/nimes/rue_de_l_aspic/5218X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Erythra Thalatta (S)
+	Katalognummer:	5
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	FR
+	Stadt:	Nîmes
+	Name:	Rue de l'Aspic
+	Rechteinhaber der Fotos:	© Nîmes
+	Hat die Fotorechte:	0

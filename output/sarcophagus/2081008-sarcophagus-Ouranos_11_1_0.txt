@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-7437417d32e75-1
+Ouranos_11_1_0
+
+
+
+Monument
+	ID:	10423
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Ouranos
+	Beschreibung:	Christ enthroned, his feet set on Ouranos, handing over the code law to Peter while looking at Paul.
+Szene
+	ID:	10651
+	Beschreibung:	Christ enthroned, his feet set on Ouranos, handing over the code law to Peter while looking at Paul.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/basilica_san_pietro/10651X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Ouranos
+	Katalognummer:	11
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	VA
+	Stadt:	Vaticano
+	Name:	Basilica San Pietro
+	Rechteinhaber der Fotos:	© Vaticano
+	Hat die Fotorechte:	1

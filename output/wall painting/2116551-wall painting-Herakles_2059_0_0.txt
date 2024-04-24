@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-763365f0d38e8-f
+Herakles_2059_0_0
+
+
+
+Monument
+	ID:	46275
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Catacombs of the via Latina
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Herakles
+	Beschreibung:	Herakles and the Lernaean Hydra.
+Szene
+	ID:	49171
+	Beschreibung:	Herakles and the Lernaean Hydra.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/via_latina/catacomba_di_via_latina/49171X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2059
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Cub. N, dest.
+Museum
+	Land:	IT
+	Stadt:	Roma, Via Latina
+	Name:	Catacomba di Via Latina
+	Rechteinhaber der Fotos:	© Catacomba di Via Latina, Roma
+	Hat die Fotorechte:	1

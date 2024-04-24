@@ -1,0 +1,64 @@
+http://ark.dasch.swiss/ark:/72163/080e-7452e7c50c4bb-4
+Mousa, Mousai/Musae (vol. VII)_141_0_0
+Apollon/Apollo_373_1_0
+Athena/Minerva_424_0_0
+
+
+
+Monument
+	ID:	12374
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Athena/Minerva Mousa, Mousai Apollon/Apollo
+	Beschreibung:	Sarcophagus with the nine Mousai, at the centre Minerva.
+Szene
+	ID:	12674
+	Inschrift:	Sarcophagus with the nine Mousai, at the centre Minerva.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/austria/wien/kunsthistorisches_museum/12674X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/austria/wien/kunsthistorisches_museum/12674X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/austria/wien/kunsthistorisches_museum/12674X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/austria/wien/kunsthistorisches_museum/12674X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/austria/wien/kunsthistorisches_museum/12674X005.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	141
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	373
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	424
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	I 171
+Museum
+	Land:	AT
+	Stadt:	Wien
+	Name:	Kunsthistorisches Museum
+	Direktor:	Prof. Dr. Kurt Gschwantler
+	Anrede:	Sehr geehrter Herr Professor,
+	Adresse:	Burgring 5
+	Postleitzahl:	A-1010
+	Kontaktzenter:	Kunsthistorisches Museum
+	Stadt des Kontaktzenters:	Wien
+	Rechteinhaber der Fotos:	© Kunsthistorisches Museum Wien
+	Hat die Fotorechte:	1

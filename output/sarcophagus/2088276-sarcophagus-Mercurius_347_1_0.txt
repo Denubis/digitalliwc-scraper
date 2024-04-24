@@ -1,0 +1,48 @@
+http://ark.dasch.swiss/ark:/72163/080e-749f29c52fb69-8
+Mercurius_347_1_0
+
+
+
+Monument
+	ID:	17758
+	Entdeckungsort:	Ancona
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Italy: North Italy
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	phiale, phiale mesomphalos, patera
+	Name:	Mercurius
+	Beschreibung:	Weinverkauf. Der Mann rechts hält eine Omphalosschale über das Fässchen wie zum Libieren. On the left Bacchus, on the right Mercurius.
+Datierung
+	Periode:	130 - 170 
+Epoche
+	Name:	Mitte 2. Jh. n. Chr.
+	Periode:	140 - 160 
+	Sequenznummer:	3160
+Szene
+	ID:	18513
+	Beschreibung:	Weinverkauf. Der Mann rechts hält eine Omphalosschale über das Fässchen wie zum Libieren. On the left Bacchus, on the right Mercurius.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ancona/museo_archeologico_nazionale_delle_marche/18513X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	347
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Ancona
+	Name:	Museo Archeologico Nazionale delle Marche
+	Direktor:	Soprintendente Dott. Giuliano de Marinis
+	Adresse:	Via Birarelli 18
+	Postleitzahl:	I-60121
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici delle Marche
+	Stadt des Kontaktzenters:	Ancona
+	Rechteinhaber der Fotos:	© Polo Museale delle Marche
+	Hat die Fotorechte:	0

@@ -1,0 +1,51 @@
+http://ark.dasch.swiss/ark:/72163/080e-757c54b21a20f-7
+Charon I/Charu(n)_111_0_1
+
+
+
+Monument
+	ID:	33346
+	Entdeckungsort:	Volterra
+	Objekt:	sarcophagus
+	Material:	tufa
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	relief
+	Name:	Charon I/Charu(n)
+	Beschreibung:	Scene showing a procession to the left: a male figure holding a stick in the left hand and stretching the right arm, three lictors with fasces in the right and rods in the left hand, a magistrate (processus magistraturalis)
+	Bibliographie:	Lambrechts, R., Essai  sur les magistratures des républiques étrusques (1959) 145 n. 18 tav. 15.
+Szene
+	ID:	35028
+	Beschreibung:	Scene showing a procession to the left: a male figure holding a stick in the left hand and stretching the right arm, three lictors with fasces in the right and rods in the left hand, a magistrate (processus magistraturalis)
+	Sequenznummer:	10
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	63
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 1. Prozessionen, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	90
+	Bandnummer:	1
+Catalog LIMC
+	Artikel:	Charon I/Charu(n)
+	Katalognummer:	111
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	124
+Museum
+	Land:	IT
+	Stadt:	Volterra
+	Name:	Museo Etrusco Guarnacci
+	Direktor:	Direttore Dott. Alessandro Furiesi
+	Anrede:	Gentilissimo Direttore,
+	Adresse:	Via Don Minzoni 15
+	Postleitzahl:	I-56048
+	Kontaktzenter:	Museo Etrusco Guarnacci
+	Stadt des Kontaktzenters:	Volterra
+	Rechteinhaber der Fotos:	© Museo Etrusco Guarnacci, Volterra
+	Hat die Fotorechte:	0

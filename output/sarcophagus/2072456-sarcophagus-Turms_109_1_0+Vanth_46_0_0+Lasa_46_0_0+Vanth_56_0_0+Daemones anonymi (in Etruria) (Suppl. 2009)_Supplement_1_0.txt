@@ -1,0 +1,84 @@
+http://ark.dasch.swiss/ark:/72163/080e-73bcfddfa716d-1
+Turms_109_1_0
+Vanth_46_0_0
+Lasa_46_0_0
+Vanth_56_0_0
+Daemones anonymi (in Etruria) (Suppl. 2009)_Supplement_1_0
+
+
+
+Monument
+	ID:	1804
+	Entdeckungsort:	Tarquinia
+	Objekt:	sarcophagus
+	Material:	nenfro
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	cloth, textile demon alabastron
+	Name:	Lasa Hermes/Turms Vanth Turms
+	Beschreibung:	two flying demons; one with alabastron; the other with a blanket
+	Bibliographie:	Krauskopf, Todesdämonen 80-81 pl. 17a-b.
+Szene
+	ID:	1716
+	Beschreibung:	two flying demons; one with alabastron; the other with a blanket
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/museo_archeologico/1716X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/museo_archeologico/1716X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/museo_archeologico/1716X103.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	47
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VIII. Tiere und Pflanzen, etr.
+	Bandnummer:	8
+Catalog LIMC
+	Artikel:	Turms
+	Katalognummer:	109
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Vanth
+	Katalognummer:	46
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Lasa
+	Katalognummer:	46
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Vanth
+	Katalognummer:	56
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Daemones anonymi (in Etruria) (Suppl. 2009)
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	75268
+Museum
+	Land:	IT
+	Stadt:	Firenze
+	Name:	Museo Archeologico
+	Direktor:	Soprintendente Dott.ssa Fulvia Lo Schiavo
+	Anrede:	Chiarissimo Soprintendente
+	Adresse:	Via della Pergola 65
+	Postleitzahl:	I-50121
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici della Toscana
+	Stadt des Kontaktzenters:	Firenze
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici della Toscana
+	Hat die Fotorechte:	1

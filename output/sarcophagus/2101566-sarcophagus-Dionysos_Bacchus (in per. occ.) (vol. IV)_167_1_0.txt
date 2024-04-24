@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-755d2a134807b-f
+Dionysos/Bacchus (in per. occ.) (vol. IV)_167_1_0
+
+
+
+Monument
+	ID:	31148
+	Entdeckungsort:	Lyon
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Name:	Dionysos/Bacchus
+	Bibliographie:	Nouvelle Espérandieu II no. 238
+Szene
+	ID:	32665
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/lyon/musee_des_beaux-arts/32665X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus (in per. occ.) (vol. IV)
+	Katalognummer:	167
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Espérandieu 1770
+Museum
+	Land:	FR
+	Stadt:	Lyon
+	Name:	Musée gallo-romain
+	Adresse:	17 Rue Cléberg
+	Postleitzahl:	F-69005
+	Kontaktzenter:	Musée Gallo-romain
+	Stadt des Kontaktzenters:	Lyon
+	Rechteinhaber der Fotos:	© Cliché Musée gallo-romain, Département du Rhône, Lyon
+	Kommentar:	Anciennement Musée de la Civilisation gallo-romaine.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2001-0-305

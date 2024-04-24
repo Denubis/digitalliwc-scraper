@@ -1,0 +1,112 @@
+http://ark.dasch.swiss/ark:/72163/080e-747299ce9bbc8-3
+Medeia_52_0_0
+Iason_67_0_0
+Kreousa II_5_0_0
+Kreousa II_21_1_0
+Hypnos/Somnus_142b_0_0
+Kyzikos I_ad 12_0_0
+Horai/Horae_93_1_0
+Kairoi/Tempora anni_91_0_0
+
+
+
+Monument
+	ID:	14605
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Porta Maggiore
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hypnos/Somnus Horai/Horae Iason Kreousa II Medeia Kyzikos I Kairoi/Tempora anni
+	Beschreibung:	Kreousa (II) receiving the presents from the children of Medeia. A nurse and Hypnos/Somnus are present. On another side Medeia with sword watching the burning Kreousa (II). On the lid: Horai and Erotes (Seasons). 
+Datierung
+	Periode:	160 
+Szene
+	ID:	15046
+	Beschreibung:	Kreousa (II) receiving the presents from the children of Medeia. A nurse and Hypnos/Somnus are present. On another side Medeia with sword watching the burning Kreousa (II).
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/15046X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/15046X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/15046X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/15046X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/15046X306.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/15046X398.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/15046X399.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Medeia
+	Katalognummer:	52
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iason
+	Katalognummer:	67
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kreousa II
+	Katalognummer:	5
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kreousa II
+	Katalognummer:	21
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	142b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kyzikos I
+	Katalognummer:	ad 12
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	24486
+	Szenerieangabe:	couvercle
+	Beschreibung:	On the lid: Horai and Erotes (Seasons). 
+	Sequenznummer:	20
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	93
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	91
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	75248
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Romano
+	Direktor:	Soprintendente Dott. Giuseppe Proietti
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali - Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

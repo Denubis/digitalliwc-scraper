@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-7459aae926db8-f
+Orpheus_146_1_0
+
+
+
+Monument
+	ID:	12847
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Orpheus
+Szene
+	ID:	13158
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/cimitero_del_campo_verano/13158X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/cimitero_del_campo_verano/13158X102.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Orpheus
+	Katalognummer:	146
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Cimitero del Campo Verano
+	Rechteinhaber der Fotos:	© Roma
+	Hat die Fotorechte:	0

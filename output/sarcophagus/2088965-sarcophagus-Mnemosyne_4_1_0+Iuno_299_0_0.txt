@@ -1,0 +1,56 @@
+http://ark.dasch.swiss/ark:/72163/080e-74a903741829e-1
+Mnemosyne_4_1_0
+Iuno_299_0_0
+
+
+
+Monument
+	ID:	18458
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	lyre pillar seat, chair, sedes, sedile
+	Name:	Apollon/Apollo Hera/Iuno Mnemosyne Zeus/Iuppiter Iuno
+	Beschreibung:	The main side is divided in five panels by pilasters, from the left: Musa,  Apollo playing the kithara, in the centre Iuppiter seated, then Mnemosyne seated and Iuno enthroned; on the sides the Mousai Melpomene and Thalia.
+	Bibliographie:	SarkRel V, 3, 29f. no. 59 pl. 149.
+Datierung
+	Periode:	100 - 150 
+Epoche
+	Name:	1. Hälfte 2. Jh. n. Chr.
+	Periode:	100 - 150 
+	Sequenznummer:	3180
+Szene
+	ID:	19291
+	Beschreibung:	The main side is divided in five panels by pilasters, from the left: Musa,  Apollo playing the kithara, in the centre Iuppiter seated, then Mnemosyne seated and Iuno enthroned; on the sides the Mousai Melpomene and Thalia.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/19291X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mnemosyne
+	Katalognummer:	4
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iuno
+	Katalognummer:	299
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	6756
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

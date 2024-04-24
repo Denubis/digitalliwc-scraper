@@ -1,0 +1,214 @@
+http://ark.dasch.swiss/ark:/72163/080e-73acaa3f6b49f-d
+Tityos_40_0_0
+Nekyia (S)_5_0_0
+Acheron_2_1_0
+Elpenor_8_0_0
+Eurylochos I_4_0_0
+Perimedes_3_0_0
+Danaides_24_1_0
+Orion_5_0_0
+Sisyphos I_29_0_0
+Teiresias (S)_8_0_0
+Eidola (S)_8b_0_0
+Eidola (S)_8a_0_0
+Anchialos_2_1_0
+Laistrygones_1_1_0
+Venti_13_0_0
+Kirke/Circe_1_1_0
+Odysseus_148_0_0
+Aktai_1_1_0
+Eurybates II_1_0_0
+Nomai_1_0_0
+
+
+
+Monument
+	ID:	643
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Esquiline
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	herm ram sword club tree table, mensa, trapeza spear amphora sacrifice rock, cliff trumpet, tuba, salpinx eidolon quadriga goat sheep maid-servant plant fountain, fountain house cave spring door ship, boat vulture nekyia herd of cows Giant Ventus reed palace sea
+	Name:	Acheron Aktai Ananke Anchialos Danaides Elpenor Eurybates II Eurylochos I Kirke Laistrygones Nomai Odysseus Orion Perimedes Poine Sisyphos I Teiresias Tityos Eidola Ariadne Nekyia Phaidra Venti
+	Beschreibung:	Different panels with adventures of Odysseus: Palast der Kirke von innen; Kirke öffnet Odysseus die Türe. Links von der Doppeltüre eine bärtige Hüftherme mit Armstümpfen, auf Sockel. Panel 5: Three women (inscription AKTAI) on the rim of the river seated on rocks. Three panels are dedicated to the meeting of the Greeks with the Laistryngones; one of them shows three Greek men (Anchialos, Antilochos and Eurybates) approaching the daughter of the king of the Laistyngones. Above the ships of Odysseus are three winged Venti (Winds). They refer to the story with the tube of Aiolos which the comrades of Odysseus opened while he was sleeping.  In the Underworld, with others, four Danaids near a kind of trough. Above perhaps another Danaid. Close to the entrance to hell Eurylochos (I) and Perimedes sacrificing an animal. Then Odysseus, Teiresias, Phaidra, Ariadne, Leda and maybe Antikleia. In hell Orion threatening an invisible deer with his club. Below him Sisyphos atop a cliff pushing a stone. Tityos maltreated by two vultures.
+	Bibliographie:	Andreae, B., in Helbig(4) I no. 465; Nogara, B., Le Nozze Aldobrandine (1907) 46-48 pl. 23-25; Gallina, A., Le pitture con paesaggi dell'Odissea dall'Esquilino (1961); Touchefeu, Thèmes odysséens 103. 138 no. 202. 232-233; Schefold, SB III 149. 151 fig. 198-199; Simon, E., Augustus (1986) 195 fig. 253; Kaiser Augustus und die verlorene Republik, Austell. Berlin (1988) 282-283 no. 131-132; Schefold/Jung, SB V 356 fig. 318; Ling, R., Roman Painting (1991) 110 fig. 111; Biering, R., Die Odyssefresken vom Esquilin  (1995) 95-114 pl. 19-24 .
+Datierung
+	Periode:	-50 - -40 
+	Kommentar:	um
+Epoche
+	Name:	3. Viertel 1. Jh. v. Chr.
+	Periode:	-50 - -25 
+	Sequenznummer:	2930
+Datierung
+	Periode:	-30 
+	Kommentar:	ca. (Orion)
+Datierung
+	Periode:	-10 - -1 
+	Kommentar:	(Eidola)
+Epoche
+	Name:	Ende 1. Jh. v. Chr.
+	Periode:	-10 - -1 
+	Sequenznummer:	2880
+Szene
+	ID:	512
+	Beschreibung:	Different panels with adventures of Odysseus: Palast der Kirke von innen; Kirke öffnet Odysseus die Türe. Links von der Doppeltüre eine bärtige Hüftherme mit Armstümpfen, auf Sockel. Panel 5: Three women (inscription AKTAI) on the rim of the river seated on rocks. Three panels are dedicated to the meeting of the Greeks with the Laistryngones; one of them shows three Greek men (Anchialos, Antilochos and Eurybates) approaching the daughter of the king of the Laistyngones. Above the ships of Odysseus are three winged Venti (Winds). They refer to the story with the tube of Aiolos which the comrades of Odysseus opened while he was sleeping. In the Underworld, with others, four Danaids near a kind of trough. Above perhaps another Danaid. Close to the entrance to hell Eurylochos (I) and Perimedes sacrificing an animal. Then Odysseus, Teiresias, Phaidra, Ariadne, Leda and maybe Antikleia. In hell Orion threatening an invisible deer with his club. Below him Sisyphos atop a cliff pushing a stone. Tityos maltreated by two vultures.
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/biblioteca_apostolica_vaticana/sala_delle_nozze_aldobrandine/512X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/biblioteca_apostolica_vaticana/sala_delle_nozze_aldobrandine/512X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/biblioteca_apostolica_vaticana/sala_delle_nozze_aldobrandine/512X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/biblioteca_apostolica_vaticana/sala_delle_nozze_aldobrandine/512X005.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/biblioteca_apostolica_vaticana/sala_delle_nozze_aldobrandine/512X006.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/biblioteca_apostolica_vaticana/sala_delle_nozze_aldobrandine/512X007.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/biblioteca_apostolica_vaticana/sala_delle_nozze_aldobrandine/512X008.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/biblioteca_apostolica_vaticana/sala_delle_nozze_aldobrandine/512X009.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/biblioteca_apostolica_vaticana/sala_delle_nozze_aldobrandine/512X010.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/biblioteca_apostolica_vaticana/sala_delle_nozze_aldobrandine/512X301.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/biblioteca_apostolica_vaticana/sala_delle_nozze_aldobrandine/512X302.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Tityos
+	Katalognummer:	40
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Nekyia (S)
+	Katalognummer:	5
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Acheron
+	Katalognummer:	2
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Elpenor
+	Katalognummer:	8
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eurylochos I
+	Katalognummer:	4
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Perimedes
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Danaides
+	Katalognummer:	24
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Orion
+	Katalognummer:	5
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Sisyphos I
+	Katalognummer:	29
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Teiresias (S)
+	Katalognummer:	8
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eidola (S)
+	Katalognummer:	8b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eidola (S)
+	Katalognummer:	8a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Anchialos
+	Katalognummer:	2
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Laistrygones
+	Katalognummer:	1
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Venti
+	Katalognummer:	13
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kirke/Circe
+	Katalognummer:	1
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Odysseus
+	Katalognummer:	148
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aktai
+	Katalognummer:	1
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eurybates II
+	Katalognummer:	1
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Nomai
+	Katalognummer:	1
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Affreschi dell'Odissea
+Museum
+	Land:	VA
+	Stadt:	Vaticano
+	Name:	Biblioteca Apostolica Vaticana, Sala delle Nozze Aldobrandine
+	Direktor:	Prefetto Raffaele Farina, S. D. B.
+	Anrede:	Reverendissimo Prefetto
+	Postleitzahl:	I-00120
+	Kontaktzenter:	Biblioteca Apostolica Vaticana
+	Stadt des Kontaktzenters:	Città del Vaticano
+	Rechteinhaber der Fotos:	© Biblioteca Apostolica Vaticana
+	Hat die Fotorechte:	1

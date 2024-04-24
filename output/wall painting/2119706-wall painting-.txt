@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-766080fb153c7-8
+
+
+
+Monument
+	ID:	52836
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	tree column table, mensa, trapeza tablet, pinax sacral-idyllic landscape
+	Beschreibung:	Sakrallandschaft: Baum, Votivsäule, Pinax angelehnt; Opfertisch.
+	Bibliographie:	De Cazanove, O., in: Les bois sacrés (Kongr. Centre Jean Bérard, Neapel, 1989) (1993) 119 Abb. 8.
+Szene
+	ID:	58160
+	Beschreibung:	Sakrallandschaft: Baum, Votivsäule, Pinax angelehnt; Opfertisch.
+Catalog Thes CRA
+	Indexnummer:	128
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	IV. 1.b. Kultorte (Darstellungen)
+	Sequenznummer:	4500
+	Bandnummer:	4
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9258
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

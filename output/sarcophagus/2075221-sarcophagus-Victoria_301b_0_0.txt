@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e4858bbc22e-0
+Victoria_301b_0_0
+
+
+
+Monument
+	ID:	4582
+	Entdeckungsort:	Smyrna (Ionia), Izmir, Smyrni
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Victoria
+	Beschreibung:	On each corner a Victoria holding garlands. Erotes.
+Szene
+	ID:	4640
+	Beschreibung:	On each corner a Victoria holding garlands. Erotes.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Victoria
+	Katalognummer:	301b
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	77
+Museum
+	Land:	TR
+	Stadt:	Izmir
+	Name:	Musée Archéologique
+	Direktor:	Mme le Dr. Pascale Linant de Bellefonds
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-92023
+	Kontaktzenter:	Université Paris X-Nanterre; Maison de l'Archéologie/Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Archaeological Museum Izmir
+	Hat die Fotorechte:	1

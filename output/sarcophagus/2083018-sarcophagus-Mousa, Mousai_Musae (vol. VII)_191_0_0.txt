@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-7453fdec67b37-b
+Mousa, Mousai/Musae (vol. VII)_191_0_0
+
+
+
+Monument
+	ID:	12450
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Mousa, Mousai
+Szene
+	ID:	12751
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/san_lorenzo_fuori_le_mura/12751X30.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/san_lorenzo_fuori_le_mura/12751X302.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	191
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	San Lorenzo fuori le Mura
+	Kontaktzenter:	San Lorenzo fuori le Mura
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprindentenza SPSAE e Polo Museale della Città di Roma
+	Hat die Fotorechte:	0

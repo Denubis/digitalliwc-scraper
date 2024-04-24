@@ -1,0 +1,128 @@
+http://ark.dasch.swiss/ark:/72163/080e-7407ce38f6162-b
+Saturnus (S)_59_1_0
+Saturnus (S)_64_0_0
+Mithras_65_1_0
+Mithras_248_0_0
+Mithras_300_1_0
+Mithras_333_0_0
+Mithras_395_1_0
+Mithras_433_1_0
+Gigantes_554_0_0
+Helios/Sol_243_0_0
+Helios/Sol_247a_0_0
+
+
+
+Monument
+	ID:	7073
+	Entdeckungsort:	Doura-Europos
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Gigantes Helios/Sol Mithras Saturnus
+	Beschreibung:	In the first preserved panel a burning rock, in the others Saturnus, Gigantomachy, Iuppiter, Saturnus, Sol and Mithras at the banquette behind a bull skin, two orientally dressed men carrying a bull, admission, Mithras taurophorus, Mithras on the bull, the water miracle. Below two reliefs with Mithras killing the bull.
+Szene
+	ID:	7219
+	Beschreibung:	In the first preserved panel a burning rock, in the others Saturnus, Gigantomachy, Iuppiter, Saturnus, Sol and Mithras at the banquette behind a bull skin, two orientally dressed men carrying a bull, admission, Mithras taurophorus, Mithras on the bull, the water miracle. Below two reliefs with Mithras killing the bull.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/new_haven/yale_university_art_gallery/7219X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/new_haven/yale_university_art_gallery/7219X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/new_haven/yale_university_art_gallery/7219X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/new_haven/yale_university_art_gallery/7219X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/new_haven/yale_university_art_gallery/7219X010.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	19
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 4.a. Bankett, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	1430
+	Bandnummer:	2
+Catalog LIMC
+	Artikel:	Saturnus (S)
+	Katalognummer:	59
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Saturnus (S)
+	Katalognummer:	64
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mithras
+	Katalognummer:	65
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mithras
+	Katalognummer:	248
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mithras
+	Katalognummer:	300
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mithras
+	Katalognummer:	333
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mithras
+	Katalognummer:	395
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mithras
+	Katalognummer:	433
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Gigantes
+	Katalognummer:	554
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	243
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	247a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1935.100g
+Museum
+	Land:	US
+	Stadt:	New Haven
+	Name:	Yale University Art Gallery
+	Direktor:	Director Jock Reynolds
+	Anrede:	Dear Director,
+	Adresse:	1111 Chapel Street
+	Postfach:	 / P.O. Box 208271
+	Postleitzahl:	USA
+	Kontaktzenter:	Yale University Art Gallery
+	Stadt des Kontaktzenters:	New Haven, CT 06520-8271
+	Rechteinhaber der Fotos:	© Yale University Art Gallery
+	Hat die Fotorechte:	1

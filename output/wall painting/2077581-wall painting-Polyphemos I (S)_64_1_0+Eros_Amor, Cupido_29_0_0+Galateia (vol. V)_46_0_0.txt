@@ -1,0 +1,59 @@
+http://ark.dasch.swiss/ark:/72163/080e-740642f38f246-2
+Polyphemos I (S)_64_1_0
+Eros/Amor, Cupido_29_0_0
+Galateia (vol. V)_46_0_0
+
+
+
+Monument
+	ID:	6962
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Galateia Eros/Amor, Cupido Polyphemos I
+	Beschreibung:	Eros delivering a message from Galateia to Polyphemos.
+	Monument-URL:	http://www.limc-france.fr/objet/14459
+Szene
+	ID:	7108
+	Beschreibung:	Eros delivering a message from Galateia to Polyphemos.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/7108X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/7108X204.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Polyphemos I (S)
+	Katalognummer:	64
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	29
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Galateia (vol. V)
+	Katalognummer:	46
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8984
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

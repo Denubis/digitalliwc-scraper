@@ -1,0 +1,49 @@
+http://ark.dasch.swiss/ark:/72163/080e-743cdfd6309e2-0
+Phrixos et Helle_40_1_0
+Nephele II_5_0_0
+Iason_53_0_0
+
+
+
+Monument
+	ID:	10822
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Iason Nephele II Helle Phrixos
+	Beschreibung:	Phrixos riding the ram looking back at Helle who has fallen into the sea. On the left a partly preserved woman who rushes to the sea followed by a man (Ino chased by Athamas?, Nephele (II) and Athamas?). On the right, Iason and the golden fleece.
+Datierung
+	Periode:	100 - 200 
+Szene
+	ID:	11062
+	Beschreibung:	Phrixos riding the ram looking back at Helle who has fallen into the sea. On the left a partly preserved woman who rushes to the sea followed by a man (Ino chased by Athamas?, Nephele (II) and Athamas?). On the right, Iason and the golden fleece.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Phrixos et Helle
+	Katalognummer:	40
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Nephele II
+	Katalognummer:	5
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iason
+	Katalognummer:	53
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Palatino
+	Direktor:	Soprintendente Dott. Angelo Bottini
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza Archeologica di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

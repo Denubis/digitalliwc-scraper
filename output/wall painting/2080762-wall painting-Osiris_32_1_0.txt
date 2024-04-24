@@ -1,0 +1,61 @@
+http://ark.dasch.swiss/ark:/72163/080e-7433bd263a327-b
+Osiris_32_1_0
+
+
+
+Monument
+	ID:	10176
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	altar tree cult image, cult statue priest sacrifice sanctuary coffin mummy tray, lanx, catinus gesture: one forearm raised (worship, prayer, greeting?)
+	Name:	Osiris
+	Beschreibung:	Au centre d’un paysage, dans lequel on entrevoit plusieurs édifices (temples?), un portique surelevé, dont les colonnes (en forme de cercueil anthropoïde) supportent une architrave à palmettes. Sous le portique se dresse la cuve anthropoïde d’un sarcophage sans couvercle. Devant le portique un prêtre se tient près d’un autel levant le bras droit vers le cercueil alors que dans la main gauche il tient un plat d’offrandes
+	Bibliographie:	Tran Tam Tinh, V., Essai sur le culte d’Isis à Pompéi (1964) 65, 142-143 n. 45 pl. 10, 2;Malaise, M., Inventaire préliminaire des documents égyptiens découverts en Italie, EPRO 21 (1972) 280-281 pl. 45.
+Datierung
+	Periode:	1 - 100 
+Epoche
+	Name:	1. Jh. n. Chr.
+	Periode:	1 - 100 
+	Sequenznummer:	3000
+Szene
+	ID:	10397
+	Beschreibung:	Au centre d’un paysage, dans lequel on entrevoit plusieurs édifices (temples?), un portique surelevé, dont les colonnes (en forme de cercueil anthropoïde) supportent une architrave à palmettes. Sous le portique se dresse la cuve anthropoïde d’un sarcophage sans couvercle. Devant le portique un prêtre se tient près d’un autel levant le bras droit vers le cercueil alors que dans la main gauche il tient un plat d’offrandes
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/10397X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/10397X302.jpg
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	265
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.a. Kultpersonal, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	4700
+	Bandnummer:	5
+Catalog LIMC
+	Artikel:	Osiris
+	Katalognummer:	32
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8570
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

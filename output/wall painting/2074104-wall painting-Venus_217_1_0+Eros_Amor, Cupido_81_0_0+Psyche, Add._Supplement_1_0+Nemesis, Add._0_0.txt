@@ -1,0 +1,84 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d48d6af959d-0
+Venus_217_1_0
+Eros/Amor, Cupido_81_0_0
+Psyche, Add._Supplement_1_0
+Nemesis, Add._0_0
+
+
+
+Monument
+	ID:	3462
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 2,23 (Casa del Amore Punito)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	rock, cliff
+	Name:	Eros/Amor, Cupido Nemesis Psyche Aphrodite/Venus Venus
+	Beschreibung:	to the right Venus sitting on a rock with Cupido or Psyche; a second crying Amor lead in reins by a standing woman dressed in sleeveless chiton and himation making the Nemesis-gesture; probably Nemesis
+	Bibliographie:	Kraus, Th. / von Matt, L., Lebendiges Pompeji (1977) fig. 299; Simon, E., Spott zum Schutz vor Nemesis, in Römische Lebenskunst. Kolloquium zum 85. Geburtstag von V. Pöschl (1995) 126 fig. 8; Simon, E., Der bestrafte Cupido und Psyche, Ktema 25 (2000) 143-148 pl. 1.
+Datierung
+	Periode:	-15 - 40 
+Epoche
+	Name:	3. pompejanischer Stil
+	Periode:	-15 - 63 
+	Sequenznummer:	1340
+Szene
+	ID:	3497
+	Beschreibung:	to the right Venus sitting on a rock with Cupido or Psyche; a second crying Amor lead in reins by a standing woman dressed in sleeveless chiton and himation making the Nemesis-gesture; probably Nemesis
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/3497X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/3497X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/3497X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/3497X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/3497X397.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/3497X398.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/3497X399.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Venus
+	Katalognummer:	217
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	81
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Psyche, Add.
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Nemesis, Add.
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9527
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

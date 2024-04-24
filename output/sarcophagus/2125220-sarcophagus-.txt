@@ -1,0 +1,31 @@
+http://ark.dasch.swiss/ark:/72163/080e-76af55c4398f9-4
+
+
+
+Monument
+	ID:	202312
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	relief
+Datierung
+	Periode:	150 - 200 
+Epoche
+	Name:	2. Hälfte 2. Jh. n. Chr.
+	Periode:	150 - 200 
+	Sequenznummer:	3190
+Szene
+	ID:	99309
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	ES
+	Stadt:	Saragosse
+	Name:	Musée
+	Adresse:	Plaza de los Sitios 6
+	Postleitzahl:	E-50001
+	Faxnummer:	0034 976 222 378
+	Kontaktzenter:	Museo de Zaragoza
+	Stadt des Kontaktzenters:	Zaragoza (Zaragoza)
+	Rechteinhaber der Fotos:	© Museo de Zaragoza
+	Hat die Fotorechte:	0

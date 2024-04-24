@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-73dfa583912c5-3
+Oceanus (S)_98_1_0
+Tellus_30_0_0
+
+
+
+Monument
+	ID:	4240
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Oceanus Tellus
+	Beschreibung:	Oceanus and Tellus reclining.
+Szene
+	ID:	4287
+	Beschreibung:	Oceanus and Tellus reclining.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_rondanini_rondinini/4287X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Oceanus (S)
+	Katalognummer:	98
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Tellus
+	Katalognummer:	30
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Cat. 58
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Rondanini (Rondinini)
+	Rechteinhaber der Fotos:	© Palazzo Rondanini, Roma
+	Kommentar:	Numéros d'après Salerno, L./Paribeni, E., Palazzo Rondinini (1965).
+	Hat die Fotorechte:	1

@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-749dbbc74ba75-d
+Moirai_34_1_0
+
+
+
+Monument
+	ID:	17656
+	Entdeckungsort:	Ostia
+	Entdeckungsort Details:	Isola Sacra
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Moirai
+Szene
+	ID:	19448
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/isola_sacra/19448X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Moirai
+	Katalognummer:	34
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba 16
+Museum
+	Land:	IT
+	Stadt:	Ostia
+	Name:	Isola Sacra
+	Direktor:	Sopr. Dott. Anna Gallina Zevi
+	Adresse:	Viale dei Romagnoli 717
+	Postleitzahl:	I-00119
+	Kontaktzenter:	Soprintendenza Archeologica di Ostia
+	Stadt des Kontaktzenters:	Ostia Antica - Roma
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Ostia
+	Hat die Fotorechte:	1

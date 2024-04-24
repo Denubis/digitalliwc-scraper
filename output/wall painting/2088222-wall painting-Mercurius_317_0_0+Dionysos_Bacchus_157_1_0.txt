@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-749e64227c3db-d
+Mercurius_317_0_0
+Dionysos/Bacchus_157_1_0
+
+
+
+Monument
+	ID:	17704
+	Entdeckungsort:	Ercolano, Herculaneum, Herculanum
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Dionysos/Bacchus Mercurius
+	Beschreibung:	On the left silen and nymph playing with young Bacchus, two other figures watching, on the right Mercurius with lyre and Paniscus, mule and panther.
+Szene
+	ID:	18448
+	Beschreibung:	On the left silen and nymph playing with young Bacchus, two other figures watching, on the right Mercurius with lyre and Paniscus, mule and panther.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/18448X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	317
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	157
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9270
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

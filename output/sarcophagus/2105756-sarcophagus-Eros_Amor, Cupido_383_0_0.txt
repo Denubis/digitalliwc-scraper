@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-759911214eed1-1
+Eros/Amor, Cupido_383_0_0
+
+
+
+Monument
+	ID:	35379
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido
+	Monument-URL:	arachne.dainst.org/entity/1139557
+Szene
+	ID:	37215
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	383
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Monreale
+	Name:	Curia Arcivescovile
+	Rechteinhaber der Fotos:	© Curia Arcivescovile, Monreale
+	Hat die Fotorechte:	0

@@ -1,0 +1,52 @@
+http://ark.dasch.swiss/ark:/72163/080e-7431fafabdd80-8
+Phaethon I_20_0_0
+Dioskouroi/Castores_165_0_0
+Eros/Amor, Cupido_234_1_0
+Eros/Amor, Cupido_263_1_0
+
+
+
+Monument
+	ID:	10053
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dioskouroi/Castores Eros/Amor, Cupido
+	Beschreibung:	In the centre the fall of Phaethon (I) from his quadriga. A shepherd watches. On the left and the right are the Dioskouroi.
+Szene
+	ID:	10271
+	Beschreibung:	In the centre the fall of Phaethon (I) from his quadriga. A shepherd watches. On the left and the right are the Dioskouroi.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tortona/cattedrale_santa_maria_assunta_e_san_lorenzo/10271X002.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Phaethon I
+	Katalognummer:	20
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dioskouroi/Castores
+	Katalognummer:	165
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	234
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	263
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Tortona
+	Name:	Cattedrale Santa Maria Assunta e San Lorenzo
+	Rechteinhaber der Fotos:	© Tortona
+	Hat die Fotorechte:	0

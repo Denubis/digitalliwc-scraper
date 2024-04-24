@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-7584fe9b14a65-c
+Diomedes I_ad 71_0_0
+Athena/Minerva_238_0_0
+Achilleus_540_0_0
+
+
+
+Monument
+	ID:	33962
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Asia Minor
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Odysseus Achilleus
+	Beschreibung:	Odysseus with pilos, chlamys, chitoniskos in a niche; another scene shows the theft of the palladion by Diomedes
+Szene
+	ID:	35712
+	Beschreibung:	Odysseus with pilos, chlamys, chitoniskos in a niche; another scene shows the theft of the palladion by Diomedes
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Diomedes I
+	Katalognummer:	ad 71
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	238
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	540
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	190
+Museum
+	Land:	TR
+	Stadt:	Konya
+	Name:	Musée Archéologique
+	Rechteinhaber der Fotos:	© Archaeological Museum Konya
+	Hat die Fotorechte:	1

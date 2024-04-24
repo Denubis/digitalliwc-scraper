@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-74316fe710242-4
+Phaethon I_10_1_0
+
+
+
+Monument
+	ID:	10015
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Phaethon I
+	Beschreibung:	On the extreme right of the main side the fall of Phaethon (I) is depicted: Phaethon (I), Eridanos, Tellus, Hesperos(?), Zeus, female deity (personification of nature) and a male local deity.
+Szene
+	ID:	10233
+	Beschreibung:	On the extreme right of the main side the fall of Phaethon (I) is depicted: Phaethon (I), Eridanos, Tellus, Hesperos(?), Zeus, female deity (personification of nature) and a male local deity.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Phaethon I
+	Katalognummer:	10
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Ostia
+	Name:	Museo Ostiense
+	Direktor:	Dott.ssa Elvira Angeloni
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Viale dei Romagnoli 717
+	Postleitzahl:	I-00119
+	Kontaktzenter:	Soprintendenza archeologica di Ostia
+	Stadt des Kontaktzenters:	Ostia Antica - Roma
+	Rechteinhaber der Fotos:	Archivio Fotografico della Soprintendenza Archeologica per i beni archeologici di Ostia
+	Hat die Fotorechte:	1

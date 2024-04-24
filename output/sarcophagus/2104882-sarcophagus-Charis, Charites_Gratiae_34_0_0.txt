@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-758c925cb3c3f-a
+Charis, Charites/Gratiae_34_0_0
+
+
+
+Monument
+	ID:	34502
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Charis, Charites/Gratiae
+Szene
+	ID:	36296
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Charis, Charites/Gratiae
+	Katalognummer:	34
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Vigna Codini (già)
+	Rechteinhaber der Fotos:	© Vigna Codini (once)
+	Hat die Fotorechte:	1

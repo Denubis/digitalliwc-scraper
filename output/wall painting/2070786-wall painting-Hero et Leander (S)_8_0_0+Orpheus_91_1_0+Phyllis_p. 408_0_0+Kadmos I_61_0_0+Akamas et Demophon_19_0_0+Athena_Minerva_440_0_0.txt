@@ -1,0 +1,99 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a51dcface4f-7
+Hero et Leander (S)_8_0_0
+Orpheus_91_1_0
+Phyllis_p. 408_0_0
+Kadmos I_61_0_0
+Akamas et Demophon_19_0_0
+Athena/Minerva_440_0_0
+
+
+
+Monument
+	ID:	88
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 14,20 (Casa di Orfeo)
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	altar fire (on altar) temple sanctuary woman warrior, soldier
+	Name:	Athena Athena/Minerva Hero Kadmos I Orpheus Phyllis Akamas and Demophon Demophon Leander
+	Beschreibung:	In front of a sanctuary a warrior and a woman hugging each other. On the left another warrior, on the right a girl leaving. Above the afired altar a woman pending. Above the scene Athena. The identification of the figures is contested (Iason and Medeia, Protesilaos and Laodameia, Demophon and Phyllis, Kadmos and Harmonia). In another scene Leander swimming to the left. Hero waits on the other side of the river in a tower. On the right shore a fisherman.
+	Bibliographie:	Reinach, RépPeint 22, 5; HBr 209-210 fig. 61 pl. 152; Dawson, Ch.M., YaleClSt 9, 1944 101 n. 43 pl. 15; Schefold, WP 133;Thompson, M.L., in Essays in Memory of K. Lehmann (1964) 329-343 fig. 1.
+Datierung
+	Periode:	-15 - 63 
+Epoche
+	Name:	3. pompejanischer Stil
+	Periode:	-15 - 63 
+	Sequenznummer:	1340
+Szene
+	ID:	346
+	Beschreibung:	In front of a sanctuary a warrior and a woman hugging each other. On the left another warrior, on the right a girl leaving. Above the afired altar a woman pending. Above the scene Athena. The identification of the figures is contested (Iason and Medeia, Protesilaos and Laodameia, Demophon and Phyllis, Kadmos and Harmonia). In another scene Leander swimming to the left. Hero waits on the other side of the river in a tower. On the right shore a fisherman.
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/346X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/346X206.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/346X207.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/346X208.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/346X299.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hero et Leander (S)
+	Katalognummer:	8
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Orpheus
+	Katalognummer:	91
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Phyllis
+	Katalognummer:	p. 408
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kadmos I
+	Katalognummer:	61
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Akamas et Demophon
+	Katalognummer:	19
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	440
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VI 14,20
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa di Orfeo

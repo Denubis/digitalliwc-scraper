@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-74f77cbdc3793-b
+Kairoi/Tempora anni_127_1_0
+
+
+
+Monument
+	ID:	23983
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kairoi/Tempora anni
+	Beschreibung:	The central group consists of the deceased in front of a parapetasma helb by two Genii. Between them and lions in the corners are Genii of the four Seasons.
+Szene
+	ID:	25162
+	Beschreibung:	The central group consists of the deceased in front of a parapetasma helb by two Genii. Between them and lions in the corners are Genii of the four Seasons.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/frascati/palazzo_vescovile/25162X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	127
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Frascati
+	Name:	Palazzo Vescovile
+	Rechteinhaber der Fotos:	© Palazzo Vescovile, Frascati
+	Hat die Fotorechte:	0

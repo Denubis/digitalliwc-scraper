@@ -1,0 +1,119 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a8d563caa63-9
+Thetis_33_0_0
+Vulcanus_84_1_0
+Achilleus_138_1_0
+Agyrtes_19_0_0
+Achilleus_78d_1_0
+Achilleus_623_1_0
+
+
+
+Monument
+	ID:	364
+	Entdeckungsort:	Hierapetra (Crete)
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	lyre sword helmet shield pillar chariot corselet trumpet, tuba, salpinx seat, chair, sedes, sedile horse hammer, mallet, sphyra, malleus warrior, soldier centaur funerary monument corpse
+	Name:	Achilleus Agamemnon Agyrtes Hektor Odysseus Phoinix II Thetis Vulcanus Deidameia II
+	Beschreibung:	Left minor side: Hephaistos preparing the weapons for Achilleus, Thetis and Achilleus.
+	Bibliographie:	SarkRel II 32-33 no. 23 pl. 11, 23a; Giuliano, A./Palma, B., La maniera ateniese di età romana. I maestri dei sarcofagi attici. StudMisc 24, 1975/76 (1978) 21 no. 21 pl. 13, 1; Gury, F., MEFRA 98 (1986) 431 fig. 3; Walker, S., Cat. of Roman Sarcophagi in the BM (1990) 39-40 no. 44A; SarkRel IX 1, 1 (1995) no. 17. 
+	Museums-URL:	http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=459810&partId=1&searchText=2296&object=20589&page=1
+Datierung
+	Periode:	160 - 170 
+	Kommentar:	(Thetis)
+Epoche
+	Name:	3. Viertel 2. Jh. n. Chr.
+	Periode:	150 - 175 
+	Sequenznummer:	3220
+Datierung
+	Periode:	175 - 200 
+Epoche
+	Name:	4. Viertel 2. Jh. n. Chr.
+	Periode:	175 - 200 
+	Sequenznummer:	3230
+Szene
+	ID:	15159
+	Beschreibung:	Left minor side: Hephaistos preparing the weapons for Achilleus, Thetis and Achilleus.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/british_museum/15159X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/british_museum/15159X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/british_museum/15159X006.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/british_museum/15159X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/british_museum/15159X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/british_museum/15159X103.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/british_museum/15159X104.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/british_museum/15159X203.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/british_museum/15159X302.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Thetis
+	Katalognummer:	33
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Vulcanus
+	Katalognummer:	84
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	138
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Agyrtes
+	Katalognummer:	19
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	78d
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	623
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2296
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	British Museum
+	Direktor:	Dr. Charles Arnold
+	Adresse:	Great Russell Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	British Museum - Greek and Roman Antiquities
+	Stadt des Kontaktzenters:	London WC 1B 3DG
+	Rechteinhaber der Fotos:	© British Museum, London
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	1861.2-20.1

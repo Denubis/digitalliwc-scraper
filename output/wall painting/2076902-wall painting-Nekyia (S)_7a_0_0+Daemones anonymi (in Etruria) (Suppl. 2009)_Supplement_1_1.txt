@@ -1,0 +1,63 @@
+http://ark.dasch.swiss/ark:/72163/080e-73fc8dde0a4c3-3
+Nekyia (S)_7a_0_0
+Daemones anonymi (in Etruria) (Suppl. 2009)_Supplement_1_1
+
+
+
+Monument
+	ID:	6279
+	Entdeckungsort:	Tarquinia
+	Entdeckungsort Details:	Tomba dei Demoni Azzurri
+	Objekt:	wall painting
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	snake rock, cliff demon ship, boat
+	Name:	Nekyia
+	Beschreibung:	Painting on the back wall: four couples of recumbent figures on klinai, only one couple consituted by a man and a woman (maybe the mandant of the paintings and his wife?). Black demon with wings and spout-like nose rushing up a rock; on the other side of the rock a blue demon with snakes in his hands; two further demons pushing a woman to the left; on the left a boat and black ferryman;boy and a woman
+	Bibliographie:	Roncalli, F., Iconographie funéraire et topographie de l’au-delà en  Etrurie, in: Gaultier/Briquel (eds.), Les Etrusques, les plus religieux des hommes (1997) 37-55; Steiner, D., Jenseitsreise und Unterwelt bei den Etruskern. Untersuchungen zur Ikonographie und Bedeutung (2004) 315 M 1 pl. 3; Steingräber, S., Etruskische Wandmalerei (2006) 181.
+Datierung
+	Periode:	-425 - -400 
+Epoche
+	Name:	4. Viertel 5. Jh. v. Chr.
+	Periode:	-425 - -400 
+	Sequenznummer:	2380
+Szene
+	ID:	6404
+	Beschreibung:	Painting on the back wall: four couples of recumbent figures on klinai, only one couple consituted by a man and a woman (maybe the mandant of the paintings and his wife?). Black demon with wings and spout-like nose rushing up a rock; on the other side of the rock a blue demon with snakes in his hands; two further demons pushing a woman to the left; on the left a boat and black ferryman;boy and a woman
+	Sequenznummer:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	37
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 4.a. Bankett, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	1420
+	Bandnummer:	2
+Catalog LIMC
+	Artikel:	Nekyia (S)
+	Katalognummer:	7a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Daemones anonymi (in Etruria) (Suppl. 2009)
+	Band:	Supplement
+	Asterix:	1
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba dei Demoni Azzurri
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Necropoli
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

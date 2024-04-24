@@ -1,0 +1,27 @@
+http://ark.dasch.swiss/ark:/72163/080e-763e9b50ee438-3
+
+
+
+Monument
+	ID:	50278
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	altar libation priest piglet plate pine cone, fir cone hierophant fire basin, eschara
+	Name:	Herakles
+	Beschreibung:	Rechts Herakles (Löwenfell) als Einzuweihender bzw. Mystes, hält ein Ferkel an den Hinterbeinen über einen niederen Felsaltar. Links Priester in langem Gewand, hält in der Linken einen Teller mit Pinienzapfen und anderen Dingen, giesst mit der Rechten aus einem Becher (?) auf das Ferkel. Hinter Herakles Feuerbecken mit hohem, stark gegliedertem Sockel.
+	Bibliographie:	Dütschke, H., Antike Bildwerke in Oberitalien IV (1880) 94 Nr. 177;Rizzo, G.E., RM 25, 1910, 106 Nr. 5; 132 Abb. 10;erwähnt LIMC IV zu Herakles 1410.
+	Kommentar:	Nach Rizzo “di tarda età e di arte cattiva”.Gleiche Szene auf der Urne Lovatelli (LIMC IV Herakles 1410)
+Inventar
+Museum
+	Land:	IT
+	Stadt:	Torino
+	Name:	Museo di Antichità
+	Direktor:	Sopr.  Dott.ssa Luisa Brecciaroli
+	Adresse:	Piazza S. Giovanni, 2
+	Postleitzahl:	I-10122
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici del Piemonte
+	Stadt des Kontaktzenters:	Torino
+	Rechteinhaber der Fotos:	© Musei Reali di Torino
+	Hat die Fotorechte:	1

@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ed981409f0f-6
+Kairoi/Tempora anni_6_0_0
+
+
+
+Monument
+	ID:	23281
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kairoi/Tempora anni
+	Beschreibung:	Clipeus with the portrait of the deceased, below four Erotes (Seasons) during grape harvest.
+Datierung
+	Periode:	250 
+Szene
+	ID:	24423
+	Beschreibung:	Clipeus with the portrait of the deceased, below four Erotes (Seasons) during grape harvest.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	6
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	95
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Mattei di Giove
+	Direktor:	Soprintendente Arch. Costantino Centroni
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Cavalletti 2
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza per i Beni Ambientali Architettonici del Lazio
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Ambientali Architettonici del Lazio
+	Kommentar:	Numéros d'après Guerrini, L. (éd.), Palazzo Mattei di Giove. Le antichità (1982).
+	Hat die Fotorechte:	1

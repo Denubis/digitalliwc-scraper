@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-75b162a6644ca-d
+Dionysos/Bacchus_149_0_0
+Dionysos/Bacchus, Add._0_1
+
+
+
+Monument
+	ID:	37094
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Dionysos/Bacchus
+	Beschreibung:	Bacchus as child, naked with ivy crown; holding a thyrsos staff; to the left a herm; two nymphs.
+	Bibliographie:	MusNazRom II 1, 84 fig. 16.
+Szene
+	ID:	38992
+	Beschreibung:	Bacchus as child, naked with ivy crown; holding a thyrsos staff; to the left a herm; two nymphs.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	149
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus, Add.
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1213
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Romano
+	Direktor:	Soprintendente Dott. Giuseppe Proietti
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali - Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

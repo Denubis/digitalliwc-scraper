@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-74018b2db8254-a
+Phoinix III (S)_35_1_0
+
+
+
+Monument
+	ID:	6631
+	Entdeckungsort:	Grottaferrata
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Phoinix III
+	Beschreibung:	Mural painting in the catacomb ad Decimum. Phoinix (III), nimbated, on a palm tree.
+Datierung
+	Periode:	400 - 420 
+Szene
+	ID:	6767
+	Beschreibung:	Phoinix (III), nimbated, on a palm tree.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/grottaferrata/catacomba_ad_decimum/6767X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Phoinix III (S)
+	Katalognummer:	35
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Grottaferrata
+	Name:	Catacomba ad Decimum
+	Rechteinhaber der Fotos:	© Catacomba ad Decimum, Grottaferrata
+	Hat die Fotorechte:	1

@@ -1,0 +1,24 @@
+http://ark.dasch.swiss/ark:/72163/080e-763d1eaf48c30-3
+
+
+
+Monument
+	ID:	50187
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	snake tripod omphalos laurel-tree
+	Name:	Erinys Orestes
+	Beschreibung:	Rechte Hälfte einer Sarkophagvorderseite. Rechts Orestes in Delphi; heiliger Lorbeerbaum, Dreifuss, Schlange, Omphalos.
+	Bibliographie:	SarkRel II Nr. 159.
+	Kommentar:	Replik von SarkRel II Nr. 156-158.Neg. DAI Rom 72.186; 75.254.
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Firenze
+	Name:	Museo dell'Opera del Duomo
+	Rechteinhaber der Fotos:	© Museo dell'Opera del Duomo, Firenze
+	Hat die Fotorechte:	1

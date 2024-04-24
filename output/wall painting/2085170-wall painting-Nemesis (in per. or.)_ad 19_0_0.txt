@@ -1,0 +1,30 @@
+http://ark.dasch.swiss/ark:/72163/080e-7472c210efb3f-6
+Nemesis (in per. or.)_ad 19_0_0
+
+
+
+Monument
+	ID:	14616
+	Entdeckungsort:	Qweilbeh (Abila)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Nemesis
+	Beschreibung:	Griffin flying to the left, one of the fore-paws put on a wheel. Griffin stands for Nemesis.
+Szene
+	ID:	15057
+	Beschreibung:	Griffin flying to the left, one of the fore-paws put on a wheel. Griffin stands for Nemesis.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Nemesis (in per. or.)
+	Katalognummer:	ad 19
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tombeau 13
+Museum
+	Land:	JO
+	Stadt:	Qweilbeh (Abila)
+	Rechteinhaber der Fotos:	© Qweilbeh
+	Hat die Fotorechte:	0

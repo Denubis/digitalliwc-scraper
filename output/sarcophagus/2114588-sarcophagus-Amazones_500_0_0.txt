@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-76175585bfb51-4
+Amazones_500_0_0
+
+
+
+Monument
+	ID:	44287
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	shield horse warrior, soldier Amazon fight, battle rider
+	Name:	Amazones
+	Bibliographie:	SarkRel II pl. 31 no. 75; Levy, A., Sculture greche e romane del Palazzo ducale di Mantova (1931) 95 no. 193 pl. 113; Redlich, R., Die Amazonensarkophage des 2. und 3. Jahrhunderts (1942) 18 no. 33.
+Datierung
+	Periode:	100 - 150 
+	Kommentar:	(before 150)
+Epoche
+	Name:	1. Hälfte 2. Jh. n. Chr.
+	Periode:	100 - 150 
+	Sequenznummer:	3180
+Szene
+	ID:	46572
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	500
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Levi 193
+Museum
+	Land:	IT
+	Stadt:	Mantova
+	Name:	Galleria e Museo di Palazzo Ducale
+	Direktor:	Soprintendente Dott.ssa Giuliana Algeri
+	Adresse:	Piazza Paccagnini 3
+	Postleitzahl:	I-46100
+	Kontaktzenter:	(All'attenzione del Dott. G. Rodella) Sopr. Patrimonio Storico ed Artistico Mantova, Cremona e Brescia
+	Stadt des Kontaktzenters:	Mantova
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali
+	Kommentar:	Levi: numeri di catalogo di Levi, A., Sculture greche e romane del Palazzo Ducale di Mantova (1930).
+	Hat die Fotorechte:	0

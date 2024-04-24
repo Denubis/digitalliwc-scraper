@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-7560e55056254-e
+Endymion_98_1_0
+Eros/Amor, Cupido_115_0_0
+
+
+
+Monument
+	ID:	31410
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Endymion Eros/Amor, Cupido
+	Museums-URL:	http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=459806&partId=1&searchText=1947,0714.8&from=bc&fromDate=800&to=ad&toDate=400&page=1
+Szene
+	ID:	33012
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/british_museum/33012X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	98
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	115
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1947.7-14.8
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	British Museum
+	Direktor:	Dr. Charles Arnold
+	Adresse:	Great Russell Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	British Museum - Greek and Roman Antiquities
+	Stadt des Kontaktzenters:	London WC 1B 3DG
+	Rechteinhaber der Fotos:	© British Museum, London
+	Hat die Fotorechte:	1

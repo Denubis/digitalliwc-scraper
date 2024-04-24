@@ -1,0 +1,58 @@
+[
+  {
+    "searchtype": "extended",
+    "filter_by_project": "LIMC",
+    "filter_by_restype": "70",
+    "property_id": "375",
+    "compop": "EQ",
+    "searchval": "10648"
+  },
+  {
+    "searchtype": "extended",
+    "filter_by_project": "LIMC",
+    "filter_by_restype": "70",
+    "property_id": "375",
+    "compop": "EQ",
+    "searchval": "4872"
+  },
+  {
+    "searchtype": "extended",
+    "filter_by_project": "LIMC",
+    "filter_by_restype": "70",
+    "property_id": "375",
+    "compop": "EQ",
+    "searchval": "5494"
+  },
+  {
+    "searchtype": "extended",
+    "filter_by_project": "LIMC",
+    "filter_by_restype": "70",
+    "property_id": "375",
+    "compop": "EQ",
+    "searchval": "4892"
+  },
+  {
+    "searchtype": "extended",
+    "filter_by_project": "LIMC",
+    "filter_by_restype": "70",
+    "property_id": "327",
+    "compop": "EQ",
+    "searchval": "1844"
+  },
+  {
+    "searchtype": "extended",
+    "filter_by_project": "LIMC",
+    "filter_by_restype": "70",
+    "property_id": "327",
+    "compop": "EQ",
+    "searchval": "4858"
+  },
+  {
+    "searchtype": "extended",
+    "filter_by_project": "LIMC",
+    "filter_by_restype": "70",
+    "property_id": "327",
+    "compop": "EQ",
+    "searchval": "5526"
+  }
+]

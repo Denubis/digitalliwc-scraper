@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-74136a135ae3e-7
+Sphinx (S)_328_0_0
+
+
+
+Monument
+	ID:	7889
+	Entdeckungsort:	Myra, Demre (Lykia)
+	Entdeckungsort Details:	church
+	Objekt:	sarcophagus
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Sphinx (Thebana)
+	Beschreibung:	Crouching Sphinx holding bull's head.
+Szene
+	ID:	8072
+	Beschreibung:	Crouching Sphinx holding bull's head.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Sphinx (S)
+	Katalognummer:	328
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	TR
+	Stadt:	Myra (Demre)
+	Name:	Eglise St-Nicolas
+	Rechteinhaber der Fotos:	© Demre
+	Hat die Fotorechte:	1

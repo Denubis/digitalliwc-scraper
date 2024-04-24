@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-745a0dba8097f-c
+Prometheus_101_1_0
+
+
+
+Monument
+	ID:	12874
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Prometheus
+	Museums-URL:	https://www.museodelprado.es/en/the-collection/art-work/prometheus-models-the-first-man/2db280ad-234e-465d-a4bc-edb3005d3c09?searchid=e1c46c2a-e5cf-5d9c-d1d6-c4b5f12384c1
+	Monument-URL:	
+Szene
+	ID:	13185
+	Sequenznummer:	10
+	Monument-URL:	Prado: https://www.museodelprado.es/en/the-collection/art-work/prometheus-models-the-first-man/2db280ad-234e-465d-a4bc-edb3005d3c09?searchid=e1c46c2a-e5cf-5d9c-d1d6-c4b5f12384c1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/spain/madrid/museo_nacional_del_prado/13185X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Prometheus
+	Katalognummer:	101
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	140-E
+Museum
+	Land:	ES
+	Stadt:	Madrid
+	Name:	Museo Nacional del Prado
+	Direktor:	Director Miguel Zugaza
+	Adresse:	Calle de Ruiz de Alarcon 23
+	Postleitzahl:	E-28014
+	Kontaktzenter:	Musée National du Prado
+	Stadt des Kontaktzenters:	Madrid
+	Rechteinhaber der Fotos:	© Museo Nacional del Prado
+	Hat die Fotorechte:	0

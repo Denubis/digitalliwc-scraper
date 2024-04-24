@@ -1,0 +1,110 @@
+http://ark.dasch.swiss/ark:/72163/080e-73c632dc4f501-8
+Zeus/Iuppiter_469_1_0
+Moirai_35_1_0
+Homonoia/Concordia_77_1_0
+Hymenaios_7_0_0
+Helios/Sol_351_0_0
+
+
+
+Monument
+	ID:	2451
+	Entdeckungsort:	Monticelli
+	Objekt:	sarcophagus with lid
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	phiale, phiale mesomphalos, patera fire (on altar) tripod bull torch libation axe, hatchet, pelekys, sacena, securis sacrifice branch lictor popa (with ax or hammer) incense box, libanotis, acerra knife case foculus, folding table culter, secespita frontale, lamina
+	Name:	Eros/Amor, Cupido Homonoia/Concordia Aphrodite/Venus Victoria Hymenaios Helios/Sol Luna Moirai Zeus/Iuppiter
+	Beschreibung:	Al centro della scena sul lato principale un uomo e una donna compiono un sacrificio; sullo sfondo tra i due Concordia. Alle spalle dell’uomo Victoria che gli ha posto la corona sul capo. Segue il personale addetto al sacrificio con il toro. Alle spalle della donna Venus, Eros, Hymenaios e le tre Gratiae. On the lid: Sol and Luna on chariots, framing the Capitoline Triad and the Parcae, in front of Sol is Lucifer, in front of Luna Vesper.
+	Bibliographie:	Koch/Sichtermann, RömSark 100-101; Saverkina, I.I., Römische Sarkophage in der Ermitage (1979) 38-42 n. 14 tavv. 28-29 und 34-35; Wrede, H., Senatorische Sarkophage Roms (2001) Taf. 7, 2.
+Datierung
+	Periode:	180 
+	Kommentar:	um
+Epoche
+	Name:	Jahr 1
+	Periode:	1 
+Szene
+	ID:	2469
+	Szenerieangabe:	couvercle
+	Beschreibung:	Al centro della scena sul lato principale un uomo e una donna compiono un sacrificio; sullo sfondo tra i due Concordia. Alle spalle dell’uomo Victoria che gli ha posto la corona sul capo. Segue il personale addetto al sacrificio con il toro. Alle spalle della donna Venus, Eros, Hymenaios e le tre Gratiae. On the lid: Sol and Luna on chariots, framing the Capitoline Triad and the Parcae, in front of Sol is Lucifer, in front of Luna Vesper.
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/russian_federation/st_petersburg/the_state_hermitage_museum/2469X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/russian_federation/st_petersburg/the_state_hermitage_museum/2469X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/russian_federation/st_petersburg/the_state_hermitage_museum/2469X304.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/russian_federation/st_petersburg/the_state_hermitage_museum/2469X311.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	286
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.a. Kultpersonal, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	4700
+	Bandnummer:	5
+Catalog Thes CRA
+	Indexnummer:	451
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Catalog Thes CRA
+	Indexnummer:	2
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VI. 1.c. Heirat, röm.
+	Bandnummer:	6
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	469
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Moirai
+	Katalognummer:	35
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Homonoia/Concordia
+	Katalognummer:	77
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hymenaios
+	Katalognummer:	7
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	351
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	А 433
+Museum
+	Land:	RU
+	Stadt:	St. Petersburg
+	Name:	The State Hermitage Museum
+	Direktor:	Ms. Anastasia Mikliaeva, Head Rights & Reproductions
+	Adresse:	Dvortsovaya Nabereznaja 34
+	Postleitzahl:	190 000
+	Kontaktzenter:	The State Hermitage Museum
+	Stadt des Kontaktzenters:	St. Petersburg / Russia
+	Rechteinhaber der Fotos:	© The State Hermitage Museum, St. Petersburg
+	Kommentar:	Pour la céramique, les chiffres avec la lettre B se rapportent au catalogue d'O. Waldhauer (1914).
+	Hat die Fotorechte:	1

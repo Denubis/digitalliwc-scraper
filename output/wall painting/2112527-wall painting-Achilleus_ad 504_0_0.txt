@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-75f9de6ea8850-9
+Achilleus_ad 504_0_0
+
+
+
+Monument
+	ID:	42198
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Domus Transitoria
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Achilleus
+	Beschreibung:	Achilleus and Patroklos?
+Szene
+	ID:	49553
+	Beschreibung:	Achilleus and Patroklos?
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	ad 504
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Domus Transitoria
+	Rechteinhaber der Fotos:	© Roma
+	Hat die Fotorechte:	1

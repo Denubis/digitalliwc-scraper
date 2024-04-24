@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-749d0fc32ab4a-f
+Niobidai_29_0_0
+
+
+
+Monument
+	ID:	17609
+	Entdeckungsort:	Augsburg
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Niobidai
+	Beschreibung:	Upper body of a Niobid, hit by an arrow.
+Szene
+	ID:	18336
+	Beschreibung:	Upper body of a Niobid, hit by an arrow.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/augsburg/roemisches_museum/18336X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Niobidai
+	Katalognummer:	29
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VF 1670
+Museum
+	Land:	DE
+	Stadt:	Augsburg
+	Name:	Römisches Museum
+	Rechteinhaber der Fotos:	© Römisches Museum Augsburg
+	Hat die Fotorechte:	1

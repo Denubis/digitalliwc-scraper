@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-73deaca3b8a71-a
+Erythra Thalatta (S)_4a_0_0
+
+
+
+Monument
+	ID:	4172
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Erythra Thalatta
+	Beschreibung:	Crossing of the Red Sea (Erythra Thalatta): Below the horses of the biga of pharaoh a reclining river-god, leaning on an urn from where water pours out. To the left of the river-god the approaching Egyptians, to the right drowning Egyptians and on secure land Moses and the Israelites. Two female reclining personifications: Tellus and Aigyptos?
+Datierung
+	Periode:	380 - 390 
+Szene
+	ID:	4216
+	Beschreibung:	Crossing of the Red Sea (Erythra Thalatta): Below the horses of the biga of pharaoh a reclining river-god, leaning on an urn from where water pours out. To the left of the river-god the approaching Egyptians, to the right drowning Egyptians and on secure land Moses and the Israelites. Two female reclining personifications: Tellus and Aigyptos?
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Erythra Thalatta (S)
+	Katalognummer:	4a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Calza 314
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Doria Pamphilj
+	Rechteinhaber der Fotos:	© Villa Doria Pamphilj, Roma
+	Kommentar:	Numéros d'après Calza, R. (éd.), Antichità di Villa Doria Pamphilj (1977).
+	Hat die Fotorechte:	1

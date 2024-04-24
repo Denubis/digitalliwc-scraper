@@ -1,0 +1,333 @@
+http://ark.dasch.swiss/ark:/72163/080e-73b6d81bec087-d
+Poseidon/Neptunus_83_1_0
+Iuno_216_1_0
+Mousa, Mousai/Musae (vol. VII)_42_0_0
+Tritones_ad 83_0_0
+Skylla II_1_1_0
+Minos I_12_0_0
+Arion_p. 603_0_0
+Nymphai (S)_79_0_0
+Myrrha_4_0_0
+Adonis_3_1_0
+Tritones_73b_1_0
+Narkissos_45_0_0
+Echo_10_0_1
+Iphigeneia_63_0_0
+Narkissos_46_0_0
+Echo_11_0_1
+Apollon/Apollo_278_0_0
+Amphion_15a_0_0
+Apollon/Apollo_442_0_0
+Branchos_2_0_0
+Io I_49_0_0
+Hippolytos I_46_0_1
+Europe I_126_0_0
+Ares/Mars_276_0_0
+Phineus II_6_0_0
+Andromeda I_130_0_0
+Daphne_9_0_0
+Apollon/Apollo_444b_1_0
+Mercurius_271_0_1
+
+
+
+Monument
+	ID:	1368
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 9,6 (House of the Dioskouroi)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	tree child nymph fight, battle
+	Name:	Adonis Amphion Andromeda I Perseus Zethos Daphne Echo Europe I Myrrha Phineus I Minos I Hippolytos I Io I Iphigeneia Narkissos Mercurius Poseidon/Neptunus Skylla II Mousa, Mousai Tritones Nymphai
+	Beschreibung:	Mural painting from Pompeji.
+	Bibliographie:	Schefold, WP 116, 118, 119; HBr pl. 127, Rizzo, PER pl. 120; Helbig, W., Untersuchungen (1873) 260-261; Helbig, Wandgemälde no. 1203.
+	Kommentar:	Falsch gedeutet als Amphion und Zethos.
+	Monument-URL:	http://www.limc-france.fr/objet/14510
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Datierung
+	Periode:	54 - 68 
+Epoche
+	Name:	neronisch
+	Periode:	54 - 68 
+	Sequenznummer:	1170
+Szene
+	ID:	12375
+	Szenerieangabe:	35
+	Beschreibung:	Seated Iuno, in frontal view, in her right a patera, in her left the sceptre. Neptunus in an aedicula.
+	Sequenznummer:	450
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/12375X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/12375X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/12375X203.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/12375X204.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/12375X205.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Poseidon/Neptunus
+	Katalognummer:	83
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iuno
+	Katalognummer:	216
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	12547
+	Szenerieangabe:	42
+	Sequenznummer:	520
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	42
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Tritones
+	Katalognummer:	ad 83
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	14508
+	Szenerieangabe:	43
+	Beschreibung:	Myrrha, half transformed into a tree already, giving birth to Adonis who is received by nymphs. Skylla bringing the purple lock to the youthful Minos (I) who sits on a throne. He turns away from her.
+	Bibliographie:	Schefold, WP 118.
+	Sequenznummer:	530
+	Name:	Adonis
+	Stichwort:	tree child nymph
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/14508X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/14508X007.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Skylla II
+	Katalognummer:	1
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Minos I
+	Katalognummer:	12
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Arion
+	Katalognummer:	p. 603
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Nymphai (S)
+	Katalognummer:	79
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Myrrha
+	Katalognummer:	4
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Adonis
+	Katalognummer:	3
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Tritones
+	Katalognummer:	73b
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	20275
+	Szenerieangabe:	38
+	Beschreibung:	Nymph Echo pouring out water for her lover Narkissos. Amor.
+	Sequenznummer:	480
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/20275X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/20275X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Narkissos
+	Katalognummer:	45
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Echo
+	Katalognummer:	10
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Iphigeneia
+	Katalognummer:	63
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	20649
+	Szenerieangabe:	49
+	Beschreibung:	Branchos sitting on a rock and Apollon. Narkissos, his mother Liriope, his lover Echo and Amor.
+	Sequenznummer:	590
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/20649X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/20649X207.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/20649X299.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Narkissos
+	Katalognummer:	46
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Echo
+	Katalognummer:	11
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	278
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amphion
+	Katalognummer:	15a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	442
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Branchos
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	26994
+	Szenerieangabe:	45
+	Sequenznummer:	550
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/26994X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/26994X203.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/26994X299.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Io I
+	Katalognummer:	49
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	46
+	Asterix:	0
+	Dot:	1
+Szene
+	ID:	32181
+	Szenerieangabe:	37
+	Beschreibung:	Perseus und Andromeda. Kampf des P. gegen Freier. Landscape, with Europe (I) on the bull surrounded by Erotes.
+	Bibliographie:	Helbig, Wandgemälde no. 1203; Schefold, WP 116; Richardson, Ch., MAAR 23 (1955) 15.
+	Sequenznummer:	470
+	Name:	Andromeda I Perseus
+	Stichwort:	fight, battle
+Catalog LIMC
+	Artikel:	Europe I
+	Katalognummer:	126
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ares/Mars
+	Katalognummer:	276
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Phineus II
+	Katalognummer:	6
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Andromeda I
+	Katalognummer:	130
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	35473
+	Szenerieangabe:	44
+	Beschreibung:	Daphne pursued by Apollon: Daphne naked but for a himation draped over her leg and arm, kneels with right arm raised. With her left hand she tries to push Apollon off who seizes her by the waist. He wears a himation round his legs and sandals. A laurel tree grows behind them. Apollon's bow, quiver and spear are placed against a rock.
+	Sequenznummer:	540
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/35473X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/35473X299.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Daphne
+	Katalognummer:	9
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	444b
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	49182
+	Szenerieangabe:	33
+	Beschreibung:	Fortuna and Mercurius.
+	Sequenznummer:	430
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49182X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	271
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VI 9,6-9
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa dei Dioscuri

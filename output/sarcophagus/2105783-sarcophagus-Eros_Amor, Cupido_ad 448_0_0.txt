@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-759973f2a8a98-d
+Eros/Amor, Cupido_ad 448_0_0
+
+
+
+Monument
+	ID:	35406
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido
+Szene
+	ID:	37242
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 448
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Antiquarium Forense
+	Direktor:	Soprintendente Dott. Giuseppe Proietti
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici di Roma
+	Hat die Fotorechte:	1

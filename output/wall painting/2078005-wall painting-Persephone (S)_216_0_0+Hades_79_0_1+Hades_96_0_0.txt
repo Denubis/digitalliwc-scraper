@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-740c52c1a808e-4
+Persephone (S)_216_0_0
+Hades_79_0_1
+Hades_96_0_0
+
+
+
+Monument
+	ID:	7389
+	Entdeckungsort:	Kertch, Pantikapaion
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Hades Persephone
+	Beschreibung:	Persephone and Hades in a chariot.
+Szene
+	ID:	7541
+	Beschreibung:	Persephone and Hades in a chariot.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/ukraine/kerch/necropolis_of_pantikapaion/7541X201.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/ukraine/kerch/necropolis_of_pantikapaion/7541X202.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Persephone (S)
+	Katalognummer:	216
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hades
+	Katalognummer:	79
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Hades
+	Katalognummer:	96
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	UA
+	Stadt:	Kerch
+	Name:	Necropolis of Pantikapaion
+	Rechteinhaber der Fotos:	© Kerch
+	Hat die Fotorechte:	1

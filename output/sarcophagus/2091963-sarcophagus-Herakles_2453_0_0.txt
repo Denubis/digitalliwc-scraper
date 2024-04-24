@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-74d3dfe2f13ac-8
+Herakles_2453_0_0
+
+
+
+Monument
+	ID:	21474
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Herakles
+	Beschreibung:	Two reliefs, from sarcophagus ends. A figure each with club restraining a horse. Interpretated as wind gods or Herakles.
+Szene
+	ID:	22432
+	Beschreibung:	Two reliefs, from sarcophagus ends. A figure each with club restraining a horse. Interpretated as wind gods or Herakles.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/liverpool/liverpool_museum/national_museums_and_galleries_on_merseyside_formerly_merseyside/22432X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/liverpool/liverpool_museum/national_museums_and_galleries_on_merseyside_formerly_merseyside/22432X102.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2453
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1959.148.264-265
+Museum
+	Land:	GB
+	Stadt:	Liverpool
+	Name:	Liverpool, National Museums (World Museum)
+	Direktor:	Photographic Services
+	Adresse:	127 Dale Street
+	Postleitzahl:	GB-
+	Stadt des Kontaktzenters:	Liverpool L2 2JH
+	Rechteinhaber der Fotos:	© Liverpool, National Museums 
+	Hat die Fotorechte:	1

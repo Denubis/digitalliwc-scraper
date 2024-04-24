@@ -1,0 +1,62 @@
+http://ark.dasch.swiss/ark:/72163/080e-74c856553e3a9-1
+Iphikles_10_0_0
+Alkmene_16_1_0
+Herakles_1657_0_0
+Amphitryon_10_0_0
+
+
+
+Monument
+	ID:	20657
+	Entdeckungsort:	Ercolano, Herculaneum, Herculanum
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	snake sword child
+	Name:	Alkmene Amphitryon Herakles Iphikles
+	Beschreibung:	Herakles strangling the serpents in the presence of Amphitryon, with the terrified Alkmene and Iphikles beside him.
+	Bibliographie:	Watzinger, C., OeJh 16 (1913) fig. 85; HBr pl. 83; Elia, O., Pitture murali (1932) 113.
+Szene
+	ID:	21574
+	Beschreibung:	Herakles strangling the serpents in the presence of Amphitryon, with the terrified Alkmene and Iphikles beside him.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/21574X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Iphikles
+	Katalognummer:	10
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Alkmene
+	Katalognummer:	16
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	1657
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amphitryon
+	Katalognummer:	10
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9012
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

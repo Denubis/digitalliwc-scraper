@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-760ee282da986-a
+Aias I_ad 102_0_0
+
+
+
+Monument
+	ID:	43682
+	Entdeckungsort:	Pompei
+	Objekt:	patera
+	Material:	bronze
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Name:	Aias I
+	Bibliographie:	RA 1973 II 216 note 1.
+Datierung
+	Periode:	1 - 10 
+Epoche
+	Name:	Anfang 1. Jh. n. Chr.
+	Periode:	1 - 10 
+	Sequenznummer:	3010
+Szene
+	ID:	45924
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Aias I
+	Katalognummer:	ad 102
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	73439
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

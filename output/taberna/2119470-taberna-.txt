@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-765d213d8022b-9
+
+
+
+Monument
+	ID:	52560
+	Entdeckungsort:	Pompei
+	Objekt:	taberna
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	I 8, 10, Taberna vasaria. Taberna, place of business and dedicatory rituals; painted lararium
+	Bibliographie:	Sampaolo, V., Taberna vasaria (I 8,10), Pompei,  Pitture e Mosaici 1 (1990) 826-833.
+Szene
+	ID:	57815
+	Beschreibung:	I 8, 10, Taberna vasaria. Taberna, place of business and dedicatory rituals; painted lararium
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	5
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Taberna
+	Lemata:	Taberna
+	Sequenznummer:	4130
+	Bandnummer:	4
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	I 8,10
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Taberna vasaria

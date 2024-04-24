@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-75b12f693f404-2
+Dionysos/Bacchus_135_0_0
+
+
+
+Monument
+	ID:	37079
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	House of Menander
+	Objekt:	skyphos
+	Material:	silver
+	Land:	CH
+	Kategorie:	relief vase
+	Name:	Dionysos/Bacchus Zeus/Iuppiter Mercurius
+	Beschreibung:	Much destroyed, visible only the legs of Mercurius, Iuppiter seated on a throne and a third figure on the right (Eileithyia?). Maybe birth of Bacchus.
+Szene
+	ID:	38976
+	Beschreibung:	Much destroyed, visible only the legs of Mercurius, Iuppiter seated on a throne and a third figure on the right (Eileithyia?). Maybe birth of Bacchus.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/38976X201.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	135
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	145509
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

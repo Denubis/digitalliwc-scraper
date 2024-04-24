@@ -1,0 +1,69 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a7f279944ad-1
+Thestiadai_4_0_0
+Artemis/Diana_350_1_0
+Meleagros_134_1_0
+Meleagros_150_0_0
+
+
+
+Monument
+	ID:	306
+	Entdeckungsort:	Ostia
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Stichwort:	tree cult image, cult statue rock, cliff dog quiver death
+	Name:	Artemis/Diana Atalante Meleagros Thestiadai
+	Beschreibung:	Tod Meleagers in drei verschiedenen Szenen. In der Mittelszene steht ein Kultbild der Diana im Profil abgewandt vom sterbenden Meleager auf einer hohen Basis in Übereckansicht (langer Peplos, mit der R. zum Köcher am Rücken greifend). Vor ihr sitzt die weinende Atalante.
+	Bibliographie:	Helbig4 IV 3123; Traversari, G., RM 75, 1968, 154-162 Taf. 57, 1; SarkRel XII 6, 119 Nr. 112.
+Datierung
+Epoche
+	Name:	Mitte 2. Jh. n. Chr.
+	Periode:	140 - 160 
+	Sequenznummer:	3160
+Szene
+	ID:	97
+	Beschreibung:	Tod Meleagers in drei verschiedenen Szenen. In der Mittelszene steht ein Kultbild der Diana im Profil abgewandt vom sterbenden Meleager auf einer hohen Basis in Übereckansicht (langer Peplos, mit der R. zum Köcher am Rücken greifend). Vor ihr sitzt die weinende Atalante.
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/museo_ostiense/97X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/museo_ostiense/97X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Thestiadai
+	Katalognummer:	4
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	350
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	134
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	150
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	101
+Museum
+	Land:	IT
+	Stadt:	Ostia
+	Name:	Museo Ostiense
+	Direktor:	Dott.ssa Elvira Angeloni
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Viale dei Romagnoli 717
+	Postleitzahl:	I-00119
+	Kontaktzenter:	Soprintendenza archeologica di Ostia
+	Stadt des Kontaktzenters:	Ostia Antica - Roma
+	Rechteinhaber der Fotos:	Archivio Fotografico della Soprintendenza Archeologica per i beni archeologici di Ostia
+	Hat die Fotorechte:	1

@@ -1,0 +1,54 @@
+http://ark.dasch.swiss/ark:/72163/080e-74f10dc741349-5
+Hypnos/Somnus_112_1_0
+Ariadne (vol. III)_127_0_0
+Dionysos/Bacchus_182_0_0
+
+
+
+Monument
+	ID:	23527
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	Casa dei Capitelli Ionici
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Dionysos/Bacchus Ariadne Hypnos Eros Hypnos/Somnus
+	Beschreibung:	Sleeping Ariadne, Hypnos watching over her, Eros discovering her; from the right Bacchus approaching with his thiasos.
+Szene
+	ID:	24696
+	Beschreibung:	Sleeping Ariadne, Hypnos watching over her, Eros discovering her; from the right Bacchus approaching with his thiasos.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/24696X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	112
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ariadne (vol. III)
+	Katalognummer:	127
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	182
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9278
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

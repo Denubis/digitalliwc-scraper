@@ -1,0 +1,60 @@
+http://ark.dasch.swiss/ark:/72163/080e-74f833bcb580d-d
+Kairoi/Tempora anni_154_1_0
+
+
+
+Monument
+	ID:	24034
+	Entdeckungsort:	Tourmous'aya
+	Entdeckungsort Details:	tomb
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kairoi/Tempora anni
+	Beschreibung:	In the centre Dionysos, then Ge and Okeanos, in front of them the Seasons.
+Datierung
+	Periode:	260 
+Szene
+	ID:	25216
+	Beschreibung:	In the centre Dionysos, then Ge and Okeanos, in front of them the Seasons.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/israel/jerusalem/rockefeller_museum/25216X001.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+	Rechteinhaber der Fotos:	Rita Gautschy
+	Hat die Fotorechte:	1
+Foto
+	Neues Foto:	1
+	Rechteinhaber der Fotos:	Rita Gautschy
+	Hat die Fotorechte:	1
+Foto
+	Neues Foto:	1
+	Rechteinhaber der Fotos:	Rita Gautschy
+	Hat die Fotorechte:	1
+Foto
+	Neues Foto:	1
+	Rechteinhaber der Fotos:	Rita Gautschy
+	Hat die Fotorechte:	1
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	154
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	S 235
+Museum
+	Land:	IL
+	Stadt:	Jerusalem
+	Name:	Rockefeller Museum
+	Direktor:	Prof. Dr. Gideon Foerster
+	Adresse:	Mount Scopus
+	Postleitzahl:	IL-91905
+	Kontaktzenter:	Head, Institute of Archaeology - The Hebrew University of Jerusalem
+	Stadt des Kontaktzenters:	Jerusalem / Israel
+	Rechteinhaber der Fotos:	© Rockefeller Museum, Jerusalem
+	Hat die Fotorechte:	0

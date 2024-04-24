@@ -1,0 +1,53 @@
+http://ark.dasch.swiss/ark:/72163/080e-7654e520b06eb-a
+
+
+
+Monument
+	ID:	51950
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 9,6 (House of the Dioskouroi)
+	Objekt:	wall painting
+	Herkunft:	Italy
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	snake panther, leopard thyrsos rhyton krater garland kantharos basket laurel branch keras, drinking horn kymbalon, kymbala, cymbala, cymbals
+	Beschreibung:	Auf einer Treppe dionysische Attribute: Kymbala, ein Lorbeerzweig, ein silberner Krater und ein geflochtener Korb, in dem ein silbernes Trinkhorn und ein Kantharos sowie ein Thyrsos und eine Weinlaubgirlande liegen. Am Fuß der Treppe ein Panther, der eine Schlange angreift. 
+	Bibliographie:	Ward-Perkins, J. / Claridge, A., Pompeii A.  D. 79. Treasures from the National Archaeological Museum Naples,  Exhibition Cat. Boston (1978) I 67, 182 n. 192; Le collezioni del Museo nazionale di Napoli (1989) 162 Nr. 281 Farbtaf. 67; Riz 53 Nr. 16 Taf. 15, 1. 
+Datierung
+	Periode:	65 - 70 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	57179
+	Beschreibung:	Auf einer Treppe dionysische Attribute: Kymbala, ein Lorbeerzweig, ein silberner Krater und ein geflochtener Korb, in dem ein silbernes Trinkhorn und ein Kantharos sowie ein Thyrsos und eine Weinlaubgirlande liegen. Am Fuß der Treppe ein Panther, der eine Schlange angreift. 
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	882
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Catalog Thes CRA
+	Indexnummer:	1519
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8795
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

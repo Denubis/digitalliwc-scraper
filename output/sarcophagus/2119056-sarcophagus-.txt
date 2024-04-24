@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-76573608cad95-0
+
+
+
+Monument
+	ID:	52128
+	Objekt:	sarcophagus
+	Herkunft:	Chiusi
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	altar sanctuary thymiaterion, turibulum, incense-burner fight, battle
+	Beschreibung:	Kampfgeschehen innerhalb eines Heiligtums. Auf dem Altar steht ein Thymiaterion.
+	Bibliographie:	Herbig, R., Die jugendetruskischen Steinsarkophage (1952) 43 n. 78 tav. 43c; Colonna, G., in La civiltà di Chiusi e del suo territorio. Atti del XVII Convegno di Studi Etruschi ed Italici, Chianciano Terme 1989 (1993) 3351 Taf. 13b; Ambrosini 89 f. Abb. 24.
+Datierung
+	Periode:	-260 - -240 
+Epoche
+	Name:	Mitte 3. Jh. v. Chr.
+	Periode:	-260 - -240 
+	Sequenznummer:	2590
+Szene
+	ID:	57366
+	Beschreibung:	Kampfgeschehen innerhalb eines Heiligtums. Auf dem Altar steht ein Thymiaterion.
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	426
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8470
+Museum
+	Land:	IT
+	Stadt:	Palermo
+	Name:	Museo Archeologico Regionale "A. Salinas"
+	Direktor:	Dir. Dott.ssa Giuseppina Favara
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Piazza Olivella 24
+	Postleitzahl:	I-90100
+	Kontaktzenter:	Museo Archeologico Regionale "A. Salinas"
+	Stadt des Kontaktzenters:	Palermo
+	Rechteinhaber der Fotos:	© Polo Regionale di Palermo per i Parchi e i Musei Archeologici
+	Hat die Fotorechte:	1

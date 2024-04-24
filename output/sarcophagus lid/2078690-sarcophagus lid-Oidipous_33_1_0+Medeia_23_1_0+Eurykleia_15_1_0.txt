@@ -1,0 +1,64 @@
+http://ark.dasch.swiss/ark:/72163/080e-74161dcccf0af-b
+Oidipous_33_1_0
+Medeia_23_1_0
+Eurykleia_15_1_0
+
+
+
+Monument
+	ID:	8082
+	Objekt:	sarcophagus lid
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eurykleia Medeia Oidipous
+	Beschreibung:	Eurykleia with Odysseus and the dog Argos. Minor side: Medeia with sword and her children. Corner: Oidipous and Sphinx.
+	Monument-URL:	http://www.limc-france.fr/objet/6520
+Szene
+	ID:	8268
+	Szenerieangabe:	couvercle
+	Beschreibung:	Eurykleia with Odysseus and the dog Argos. Minor side: Medeia with sword and her children. Corner: Oidipous and Sphinx.
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/marseille/musee_d_archeologie_mediterraneenne_collections_autrefois_au_mus/8268X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/marseille/musee_d_archeologie_mediterraneenne_collections_autrefois_au_mus/8268X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/marseille/musee_d_archeologie_mediterraneenne_collections_autrefois_au_mus/8268X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/marseille/musee_d_archeologie_mediterraneenne_collections_autrefois_au_mus/8268X102.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Oidipous
+	Katalognummer:	33
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Medeia
+	Katalognummer:	23
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eurykleia
+	Katalognummer:	15
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1672
+Museum
+	Land:	FR
+	Stadt:	Marseille
+	Name:	Musée d'Archéologie Méditerranéenne (collections autrefois au Musée Borély)
+	Direktor:	Au Directeur
+	Adresse:	2, Rue de la Charité
+	Postleitzahl:	F-13002
+	Kontaktzenter:	Musée d'Archéologie Méditerranéenne Centre de la Vieille Charité
+	Stadt des Kontaktzenters:	Marseille
+	Rechteinhaber der Fotos:	© Musée d'Archéologie Méditerranéenne, Marseille
+	Hat die Fotorechte:	1

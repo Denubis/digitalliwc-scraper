@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-7412fff0206ed-e
+Sphinx (S)_247_0_0
+Hephaistos/Sethlans_14_0_0
+
+
+
+Monument
+	ID:	7860
+	Entdeckungsort:	Veii
+	Entdeckungsort Details:	Tomba Campana
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Hephaistos/Sethlans Sphinx (Thebana)
+	Beschreibung:	Hunting scene. Sphinx, deer and lion.
+Szene
+	ID:	8043
+	Beschreibung:	Hunting scene. Sphinx, deer and lion.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Sphinx (S)
+	Katalognummer:	247
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hephaistos/Sethlans
+	Katalognummer:	14
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba Campana
+Museum
+	Land:	IT
+	Stadt:	Veio
+	Rechteinhaber der Fotos:	© Veio
+	Hat die Fotorechte:	1

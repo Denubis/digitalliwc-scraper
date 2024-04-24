@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-7454053e486c1-7
+Mousa, Mousai/Musae (vol. VII)_192_1_0
+
+
+
+Monument
+	ID:	12452
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Mousa, Mousai
+Szene
+	ID:	12753
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ravenna/museo_nazionale/12753X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ravenna/museo_nazionale/12753X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ravenna/museo_nazionale/12753X203.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	192
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	411
+Museum
+	Land:	IT
+	Stadt:	Ravenna
+	Name:	Museo Nazionale
+	Direktor:	Sopr. Arch. Annamaria Iannucci
+	Adresse:	Via S. Vitale 17
+	Postleitzahl:	I-48100
+	Kontaktzenter:	Soprintendenza per i Beni Ambienttali ed Architettonici
+	Stadt des Kontaktzenters:	Ravenna
+	Rechteinhaber der Fotos:	su concessione del Museo Nazionale di Ravenna - Minstero Beni e Attività Culturali - Italia
+	Hat die Fotorechte:	1

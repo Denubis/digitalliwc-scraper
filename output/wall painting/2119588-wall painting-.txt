@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-765ed11c4aaf9-b
+
+
+
+Monument
+	ID:	52700
+	Entdeckungsort:	Tarquinia
+	Entdeckungsort Details:	Tomba del Convegno
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Parete sin.: corteo a sin.: tre littori con bastone nodoso, il secondo anche con verghe, magistrato canuto e coronato; tre littori come i precedenti, magistrato coronato, personaggio lacunoso. Parete di fondo: corteo a sin.: dopo una lacuna, littore con bastone nodoso e coppia di verghe, littore con bipenne, littore con due lance, magistrato canuto, servus con mantica (processus magistraturalis))
+	Bibliographie:	Steingräber, PittEtr 307 n° 58; Tassi Scandone 46 s. n° 1.3.
+Datierung
+	Periode:	-300 - -250 
+Epoche
+	Name:	1. Hälfte 3. Jh. v. Chr.
+	Periode:	-300 - -250 
+	Sequenznummer:	2610
+Szene
+	ID:	57975
+	Beschreibung:	Parete sin.: corteo a sin.: tre littori con bastone nodoso, il secondo anche con verghe, magistrato canuto e coronato; tre littori come i precedenti, magistrato coronato, personaggio lacunoso. Parete di fondo: corteo a sin.: dopo una lacuna, littore con bastone nodoso e coppia di verghe, littore con bipenne, littore con due lance, magistrato canuto, servus con mantica (processus magistraturalis)
+Catalog Thes CRA
+	Indexnummer:	61
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 1. Prozessionen, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	90
+	Bandnummer:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba del Convegno
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Necropoli
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

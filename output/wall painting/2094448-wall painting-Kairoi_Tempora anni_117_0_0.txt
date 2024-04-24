@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-74f766c8214f5-9
+Kairoi/Tempora anni_117_0_0
+
+
+
+Monument
+	ID:	23977
+	Entdeckungsort:	Ostia
+	Entdeckungsort Details:	Isola Sacra
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Kairoi/Tempora anni
+	Beschreibung:	Destroyed. In the vault busts of the four Seasons.
+Datierung
+	Periode:	150 
+Szene
+	ID:	25157
+	Beschreibung:	Destroyed. In the vault busts of the four Seasons.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/museo_ostiense/25157X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	117
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	10041
+Museum
+	Land:	IT
+	Stadt:	Ostia
+	Name:	Museo Ostiense
+	Direktor:	Dott.ssa Elvira Angeloni
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Viale dei Romagnoli 717
+	Postleitzahl:	I-00119
+	Kontaktzenter:	Soprintendenza archeologica di Ostia
+	Stadt des Kontaktzenters:	Ostia Antica - Roma
+	Rechteinhaber der Fotos:	Archivio Fotografico della Soprintendenza Archeologica per i beni archeologici di Ostia
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	28

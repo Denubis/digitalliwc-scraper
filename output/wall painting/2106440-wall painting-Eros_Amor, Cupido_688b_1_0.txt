@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-75a2d8838592d-3
+Eros/Amor, Cupido_688b_1_0
+
+
+
+Monument
+	ID:	36067
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 4,59 (Casa della Parete nera / Casa dei Bronzi)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Eros/Amor, Cupido
+	Beschreibung:	Siehe ID Denkmal 6318 (Raum f, Opfer an Iuno).
+Szene
+	ID:	37916
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/antiquarium/37916X001.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	688b
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	20879
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Antiquarium
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via villa dei Misteri 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei (NA)
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

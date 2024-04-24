@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-747d3cc928050-8
+Nereides_221_1_0
+
+
+
+Monument
+	ID:	15355
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Nereides
+Szene
+	ID:	15848
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/venezia/museo_archeologico_nazionale/15848X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Nereides
+	Katalognummer:	221
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	154
+Museum
+	Land:	IT
+	Stadt:	Venezia
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Soprintendente Dott.ssa Caterina Bon Valsassina
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Piazza S. Marco 63
+	Postleitzahl:	I-30124
+	Kontaktzenter:	Soprintendenza Speciale Polo Museale Veneziano
+	Stadt des Kontaktzenters:	Venezia
+	Rechteinhaber der Fotos:	© Polo Museale del Veneto
+	Hat die Fotorechte:	0

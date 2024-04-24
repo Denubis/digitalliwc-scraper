@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d41f9ece887-a
+Agape (S)_1_1_0
+
+
+
+Monument
+	ID:	3433
+	Entdeckungsort:	Rome
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Agape
+	Beschreibung:	Three reclining men, in front of them a table with fish. On the left Eirene, on the right a cupbearer and Agape.
+	Inschrift:	IRENE DA CALDA, AGAPE MISCE MI
+Datierung
+	Periode:	300 - 350 
+Szene
+	ID:	3468
+	Beschreibung:	Three reclining men, in front of them a table with fish. On the left Eirene, on the right a cupbearer and Agape.
+	Inschrift:	IRENE DA CALDA, AGAPE MISCE MI
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/catacombe_dei_ss_marcellino_e_pietro/3468X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Agape (S)
+	Katalognummer:	1
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Cub. 39
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Catacombe dei SS. Marcellino e Pietro
+	Direktor:	Dott.ssa Barbara Mazzei
+	Adresse:	Via Napoleone III 1
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Pontificia Commissione di Archeologia Sacra
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Pontificia Commissione di Archeologia Sacra
+	Hat die Fotorechte:	0

@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-73f89f63d7224-1
+Patroklos (S)_14_0_0
+
+
+
+Monument
+	ID:	6004
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Patroklos
+	Beschreibung:	Two young men at the back of their ship. Achilleus and Patroklos?
+	Museums-URL:	http://www.getty.edu/art/collection/objects/7859/unknown-maker-fragment-of-a-sarcophagus-with-a-naval-battle-roman-mid-3rd-century/
+Datierung
+	Periode:	250 
+Szene
+	ID:	6114
+	Beschreibung:	Two young men at the back of their ship. Achilleus and Patroklos?
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Patroklos (S)
+	Katalognummer:	14
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	77.AA.67
+Museum
+	Land:	US
+	Stadt:	Malibu
+	Name:	J. Paul Getty Museum
+	Direktor:	Dr. Jackie Burns
+	Adresse:	1200 Getty Center Drive Suite 1000
+	Postleitzahl:	USA-
+	E-Mail:	jburns@getty.edu
+	Kontaktzenter:	Registrars Office, J. Paul Getty Museum
+	Stadt des Kontaktzenters:	Los Angeles, CA 90049
+	Rechteinhaber der Fotos:	© J. Paul Getty Museum
+	Hat die Fotorechte:	1

@@ -1,0 +1,88 @@
+http://ark.dasch.swiss/ark:/72163/080e-761e2af68c127-4
+Aithiopes_39_1_0
+
+
+
+Monument
+	ID:	44768
+	Entdeckungsort:	Ercolano, Herculaneum, Herculanum
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	wreath, crown, stephane, corona altar temple vessel dance branch bird (undetermined) pipe, flute, aulos, tibiae child sistrum door black (people) situla of Isis staircase
+	Name:	Aithiopes
+	Beschreibung:	Kulttanz vor einem römischen Podiumstempel mit Freitreppe. Davor ein rechteckiger Blockaltar in Übereckansicht auf einer Basis, Deckplatte mit Akroteren an den vier Ecken. Im Hintergrund, vor der Tempeltür befinden sich zwei Kinder, das eine mit Situla und Sistrum, das andere mit verhüllten Händen ein Gefäss vor der Brust haltend. Kneeling priests before the temple lifting their arms 
+	Bibliographie:	Tran Tam Tinh, V., Essai sur le culte d’Isis à Pompéi (1964) 27-28 pl. 24; Tran Tam Tinh, V., Le culte des divinités orientales à Herculaneum. EPRO 17 (1971) 39-42 n. 59 fig. 41; Arslan, E. A. (ed.), Le collezioni del Museo Nazionale di Napoli, I, 1 (1989) 160 no. 270.
+Datierung
+	Periode:	1 - 100 
+Epoche
+	Name:	1. Jh. n. Chr.
+	Periode:	1 - 100 
+	Sequenznummer:	3000
+Szene
+	ID:	47100
+	Beschreibung:	Kulttanz vor einem römischen Podiumstempel mit Freitreppe. Davor ein rechteckiger Blockaltar in Übereckansicht auf einer Basis, Deckplatte mit Akroteren an den vier Ecken. Im Hintergrund, vor der Tempeltür befinden sich zwei Kinder, das eine mit Situla und Sistrum, das andere mit verhüllten Händen ein Gefäss vor der Brust haltend. Kneeling priests before the temple lifting their arms 
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/47100X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/47100X101.jpg
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	92
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	III. 6.c. Verehrung
+	Sequenznummer:	2400
+	Bandnummer:	3
+Catalog Thes CRA
+	Indexnummer:	611
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Catalog Thes CRA
+	Indexnummer:	255
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.a. Kultpersonal, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	4700
+	Bandnummer:	5
+Catalog Thes CRA
+	Indexnummer:	12
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Iseum et Serapeum
+	Lemata:	Iseum et Serapeum
+	Sequenznummer:	3680
+	Bandnummer:	4
+Catalog LIMC
+	Artikel:	Aithiopes
+	Katalognummer:	39
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8919
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

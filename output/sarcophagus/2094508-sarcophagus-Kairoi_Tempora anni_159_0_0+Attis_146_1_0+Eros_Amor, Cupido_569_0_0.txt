@@ -1,0 +1,61 @@
+http://ark.dasch.swiss/ark:/72163/080e-74f8426076f21-4
+Kairoi/Tempora anni_159_0_0
+Attis_146_1_0
+Eros/Amor, Cupido_569_0_0
+
+
+
+Monument
+	ID:	24038
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	wings
+	Name:	Attis Eros/Amor, Cupido Kairoi/Tempora anni
+	Beschreibung:	Clipeus with the portrait of a couple held by two of the Seasons. Standing winged Attis with denuded abdomen as genius of the winter.
+	Bibliographie:	Hanfmann, G. M. A., The Season Sarcophagus in Dumbarton Oaks I-II (1951); Vermaseren, M. J., The Legend of Attis in Greek and Roman Art (1966) 39; Vermaseren, M. J., Corpus Cultus Cybelae Attidisque III no. 315 pl. 182.
+	Monument-URL:	arachne.dainst.org/entity/1090855
+Datierung
+	Periode:	300 - 350 
+Epoche
+	Name:	1. Hälfte 4. Jh. n. Chr.
+	Periode:	300 - 350 
+	Sequenznummer:	3460
+Szene
+	ID:	25220
+	Beschreibung:	Clipeus with the portrait of a couple held by two of the Seasons. Standing winged Attis with denuded abdomen as genius of the winter.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/washington_dc/dumbarton_oaks_research_library_and_collection/25220X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	159
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Attis
+	Katalognummer:	146
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	569
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	36.65
+Museum
+	Land:	US
+	Stadt:	Washington (DC)
+	Name:	Dumbarton Oaks Research Library and Collection
+	Direktor:	Photographic Services
+	Adresse:	1703 32nd Street, NW
+	Postleitzahl:	USA-
+	Kontaktzenter:	Dumbarton Oaks Research Library and Collection
+	Stadt des Kontaktzenters:	Washington D. C. 20007
+	Rechteinhaber der Fotos:	© Dumbarton Oaks Research Library and Collection
+	Hat die Fotorechte:	1

@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-73df96dfcfbb1-0
+Oceanus (S)_96_1_0
+Kairoi/Tempora anni_158_1_0
+
+
+
+Monument
+	ID:	4236
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kairoi/Tempora anni Oceanus
+	Beschreibung:	In the centre two of the Seasons hold the clipeus with the portrait of a couple, below is a ploughing scene. Between the Seasons are Tellus and Oceanus.
+	Monument-URL:	arachne.dainst.org/entity/1129251
+Datierung
+	Periode:	230 
+Szene
+	ID:	4282
+	Beschreibung:	In the centre two of the Seasons hold the clipeus with the portrait of a couple, below is a ploughing scene. Between the Seasons are Tellus and Oceanus.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pisa/camposanto_monumentale/4282X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Oceanus (S)
+	Katalognummer:	96
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	158
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	A 2 est.
+Museum
+	Land:	IT
+	Stadt:	Pisa
+	Name:	Camposanto Monumentale
+	Rechteinhaber der Fotos:	© Camposanto Monumentale, Pisa
+	Kommentar:	Numéros d'après Camposanto monumentale di Pisa. Le antichità I-II (1977-1984).
+	Hat die Fotorechte:	0

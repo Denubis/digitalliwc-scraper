@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ec1b7264707-6
+Hylas_43_0_0
+
+
+
+Monument
+	ID:	23176
+	Entdeckungsort:	Salamis (Cyprus)
+	Entdeckungsort Details:	Gymnasium
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Hylas
+	Beschreibung:	Hylas(?), with chlamys, chitoniskos and spear, stands on the left. He gestures with his raised right hand to a nymph(?) on the right. Or Aktaion and Artemis?
+Datierung
+	Periode:	300 - 342 
+Szene
+	ID:	24315
+	Beschreibung:	Hylas(?), with chlamys, chitoniskos and spear, stands on the left. He gestures with his raised right hand to a nymph(?) on the right. Or Aktaion and Artemis?
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/cyprus/salamine_chypre/24315X301.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hylas
+	Katalognummer:	43
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Gymnase
+Museum
+	Land:	CY
+	Stadt:	Salamine (Chypre)
+	Rechteinhaber der Fotos:	© Salamine 
+	Hat die Fotorechte:	0

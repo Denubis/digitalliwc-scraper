@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-765edfc00c20d-0
+
+
+
+Monument
+	ID:	52705
+	Entdeckungsort:	Tarquinia
+	Entdeckungsort Details:	Poggio del Cavalluccio
+	Objekt:	sarcophagus
+	Material:	nenfro
+	Land:	CH
+	Kategorie:	relief
+	Beschreibung:	Corteo a d.: due littori con fasci, demone con martello nella sin. tira i cavalli della biga, su cui è il magistrato, due uomini in tunica e mantello, uno con tavola scrittoria, l'altro con corno (processus magistraturalis)
+	Bibliographie:	Herbig, EtrSark n° 158; Lambrechts 140 n° 13 tav. 12; Tassi Scandone 53 n° 2.7.
+Datierung
+	Periode:	-250 - -200 
+Epoche
+	Name:	2. Hälfte 3. Jh. v. Chr.
+	Periode:	-250 - -200 
+	Sequenznummer:	2620
+Szene
+	ID:	57980
+	Beschreibung:	Corteo a d.: due littori con fasci, demone con martello nella sin. tira i cavalli della biga, su cui è il magistrato, due uomini in tunica e mantello, uno con tavola scrittoria, l'altro con corno (processus magistraturalis)
+Catalog Thes CRA
+	Indexnummer:	75
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 1. Prozessionen, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	90
+	Bandnummer:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Museo Nazionale di Tarquinia
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

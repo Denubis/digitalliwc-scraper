@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-7452b830d79ba-2
+Mousa, Mousai/Musae (vol. VII)_128_1_0
+
+
+
+Monument
+	ID:	12361
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Mousa, Mousai
+Szene
+	ID:	12661
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_borghese_museo_e_galleria_borghese/12661X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_borghese_museo_e_galleria_borghese/12661X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_borghese_museo_e_galleria_borghese/12661X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_borghese_museo_e_galleria_borghese/12661X304.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	128
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VI
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Borghese (Museo e Galleria Borghese)
+	Direktor:	Soprintendente Prof. Claudio Strinati
+	Adresse:	Piazza San Marco 49
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza Speciale del Polo Museale Romano
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza Speciale del Polo Museale Romano
+	Hat die Fotorechte:	1

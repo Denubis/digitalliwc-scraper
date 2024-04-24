@@ -1,0 +1,68 @@
+http://ark.dasch.swiss/ark:/72163/080e-7430d9d8915b5-8
+Pygmaioi_ad 23_0_0
+Apollon/Apollo_ad 421b_0_0
+Perseus_219b_0_0
+Andromeda I_92_0_0
+
+
+
+Monument
+	ID:	9974
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 3,13-16 (House of Adonis)
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	ketos, sea monster
+	Name:	Andromeda I Perseus
+	Beschreibung:	Perseus and Andromeda with dead Ketos.
+	Bibliographie:	Helbig, Wandgemälde no. 1191; Schefold WP 221.
+Datierung
+	Periode:	69 - 79 
+Epoche
+	Name:	vespasianisch
+	Periode:	69 - 79 
+	Sequenznummer:	1185
+Szene
+	ID:	13587
+	Beschreibung:	Perseus and Andromeda with dead Ketos.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Pygmaioi
+	Katalognummer:	ad 23
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	ad 421b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Perseus
+	Katalognummer:	219b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Andromeda I
+	Katalognummer:	92
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VIII 3,14-15
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa di Adone

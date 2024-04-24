@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ee5664dcb13-8
+Kairoi/Tempora anni_80_0_0
+Charis, Charites/Gratiae_26_1_0
+
+
+
+Monument
+	ID:	23333
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Charis, Charites/Gratiae Kairoi/Tempora anni
+	Beschreibung:	Main side: Three Charites. Minor sides: Erotes wearing chlamys and carrying a basket with fruit.
+Szene
+	ID:	24477
+	Beschreibung:	Main side: Three Charites. Minor sides: Erotes wearing chlamys and carrying a basket with fruit.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	80
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Charis, Charites/Gratiae
+	Katalognummer:	26
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	Ehem. A.O.
+	Nummer:	Astor 77
+Museum
+	Land:	GB
+	Stadt:	Hever Castle (Kent)
+	Rechteinhaber der Fotos:	© Hever Castle
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	11./12.7.1983, 367
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	Sotheby's
+	Direktor:	Mr. Adam Levine
+	Adresse:	34-35 New Bond Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	Sotheby's
+	Stadt des Kontaktzenters:	London, W1A 2AA
+	Rechteinhaber der Fotos:	© Sotheby's, London
+	Hat die Fotorechte:	1

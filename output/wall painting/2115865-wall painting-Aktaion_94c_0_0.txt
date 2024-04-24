@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-7629973cbc302-0
+Aktaion_94c_0_0
+
+
+
+Monument
+	ID:	45584
+	Entdeckungsort:	Boscotrecase
+	Entdeckungsort Details:	Villa of Agrippa Postumus
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	dog cave
+	Name:	Aktaion
+	Bibliographie:	Della Corte, M., NotSc 1922, 465; Dawson, M. C., Romano-campanian Mythological Landscape Painting(2) (1965) 74.
+Szene
+	ID:	47987
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Aktaion
+	Katalognummer:	94c
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Villa di Agrippa Postumus
+Museum
+	Land:	IT
+	Stadt:	Boscotrecase
+	Rechteinhaber der Fotos:	© Boscotrecase
+	Hat die Fotorechte:	1

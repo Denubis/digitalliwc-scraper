@@ -1,0 +1,59 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a8220dc8fae-2
+Meleagros_132_0_0
+Thestiadai_7_1_0
+Meleagros_140_0_0
+Meleagros_149_0_0
+Apollon/Apollo_483_0_0
+
+
+
+Monument
+	ID:	313
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Meleagros Thestiadai
+	Beschreibung:	Meleagros fights three armed men (Thestiadai), one lying dead at the ground, one on his knees, the third still upright. Above, Meleagros puts a torch to the city. Left: Apollon kills Meleagros. Right: Homecoming of Meleagros.
+Datierung
+	Periode:	190 - 200 
+Szene
+	ID:	15148
+	Beschreibung:	Meleagros fights three armed men (Thestiadai), one lying dead at the ground, one on his knees, the third still upright. Above, Meleagros puts a torch to the city. Left: Apollon kills Meleagros. Right: Homecoming of Meleagros.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	132
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Thestiadai
+	Katalognummer:	7
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	140
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	149
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	483
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Calza 191
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Doria Pamphilj
+	Rechteinhaber der Fotos:	© Villa Doria Pamphilj, Roma
+	Kommentar:	Numéros d'après Calza, R. (éd.), Antichità di Villa Doria Pamphilj (1977).
+	Hat die Fotorechte:	1

@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-75d9e33251ddf-9
+Ares/Mars_352_0_0
+
+
+
+Monument
+	ID:	39952
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	sarcophagus
+Szene
+	ID:	42016
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Ares/Mars
+	Katalognummer:	352
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	B 1 int.
+Museum
+	Land:	IT
+	Stadt:	Pisa
+	Name:	Camposanto Monumentale
+	Rechteinhaber der Fotos:	© Camposanto Monumentale, Pisa
+	Kommentar:	Numéros d'après Camposanto monumentale di Pisa. Le antichità I-II (1977-1984).
+	Hat die Fotorechte:	0

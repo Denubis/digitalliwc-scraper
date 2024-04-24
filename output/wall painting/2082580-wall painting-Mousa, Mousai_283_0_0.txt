@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-744dbae129c29-9
+Mousa, Mousai_283_0_0
+
+
+
+Monument
+	ID:	12008
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Mousa, Mousai
+Szene
+	ID:	12294
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai
+	Katalognummer:	283
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tombeau
+Museum
+	Land:	GR
+	Stadt:	Sparte
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Sparta
+	Hat die Fotorechte:	0

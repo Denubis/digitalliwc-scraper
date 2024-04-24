@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-741b3c0cf022d-d
+Ixion_22_0_0
+Tantalos_15_0_0
+
+
+
+Monument
+	ID:	8443
+	Entdeckungsort:	Stara Zagora (Augusta Trajana)
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Ixion Tantalos
+	Beschreibung:	On the preserved minor side Tantalos and Ixion fixed to the wheel.
+Szene
+	ID:	23697
+	Beschreibung:	On the preserved minor side Tantalos and Ixion fixed to the wheel.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Ixion
+	Katalognummer:	22
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Tantalos
+	Katalognummer:	15
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1079
+Museum
+	Land:	BG
+	Stadt:	Stara Zagora
+	Name:	Musée Régional d'Histoire
+	Direktor:	Director Prof. Dr. Svetla Dimitrova
+	Adresse:	Ruski St. 42
+	Postleitzahl:	BG-6000
+	Kontaktzenter:	Regional Museum of History
+	Stadt des Kontaktzenters:	Stara Zagora
+	Rechteinhaber der Fotos:	© Musée Régional d'Histoire Stara Zagora
+	Hat die Fotorechte:	1

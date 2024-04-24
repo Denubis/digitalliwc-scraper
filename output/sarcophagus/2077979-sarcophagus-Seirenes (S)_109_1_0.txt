@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-740bf3993ea8c-5
+Seirenes (S)_109_1_0
+
+
+
+Monument
+	ID:	7363
+	Entdeckungsort:	Belevi
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Seirenes
+	Beschreibung:	Seirenes with musical instruments.
+Szene
+	ID:	7512
+	Beschreibung:	Seirenes with musical instruments.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Seirenes (S)
+	Katalognummer:	109
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1610
+Museum
+	Land:	TR
+	Stadt:	Selçuk
+	Name:	Musée Archéologique d'Ephèse
+	Direktor:	Mme le Dr. Pascale Linant de Bellefonds
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-92023
+	Kontaktzenter:	Université Paris X - Nanterre Maison de l'Archéologie / Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Archaeological Museum of Ephesos
+	Hat die Fotorechte:	1

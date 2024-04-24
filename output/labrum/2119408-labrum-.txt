@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-765c3e5349c75-4
+
+
+
+Monument
+	ID:	52496
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	Temple of Apollon
+	Objekt:	labrum
+	Land:	CH
+	Kategorie:	varia
+	Beschreibung:	Labrum with marble basis and stone basin from the south-east corner of the porticus
+	Bibliographie:	Pompei I (pubblicazione Banco di Napoli) p. 155.
+Szene
+	ID:	57751
+	Beschreibung:	Labrum with marble basis and stone basin from the south-east corner of the porticus
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	2
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Labrum
+	Lemata:	Labrum
+	Sequenznummer:	3700
+	Bandnummer:	4
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Angolo sud-est del portico
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Tempio di Apollo
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

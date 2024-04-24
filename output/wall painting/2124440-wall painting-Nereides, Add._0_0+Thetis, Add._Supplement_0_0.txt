@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-76a42f07e04bd-8
+Nereides, Add._0_0
+Thetis, Add._Supplement_0_0
+
+
+
+Monument
+	ID:	201541
+	Entdeckungsort:	Ostrusha
+	Entdeckungsort Details:	tomb
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	siren
+	Name:	Achilleus Chimaira Thetys I Bellerophon Nereides
+	Beschreibung:	around a central circle cassettes with Seirenes and nereids riding on marine animals and holding various objects that could be the arms of Achilleus such as shield, helmet and cuirass
+	Bibliographie:	Valeva, J., The Painted Coffers of the Ostrusha Tomb (2005) 42-51.70-78 fig. 1-4 pl. 4-2;  Barov, Z., The Thracian Tomb Ostrasha near Shipka, Bulgaria; Documenation of the Painted Ceiling, DC-Rom, Ethos, California (2005).
+Datierung
+	Periode:	-330 - -310 
+Epoche
+	Name:	3. Drittel 4. Jh. v. Chr.
+	Periode:	-333 - -300 
+	Sequenznummer:	2550
+Szene
+	ID:	98513
+	Beschreibung:	around a central circle cassettes with Seirenes and nereids riding on marine animals and holding various objects that could be the arms of Achilleus such as shield, helmet and cuirass
+Catalog LIMC
+	Artikel:	Nereides, Add.
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Thetis, Add.
+	Band:	Supplement
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	BG
+	Stadt:	Ostroucha (Kazanlak)
+	Name:	Tombeau 
+	Rechteinhaber der Fotos:	© Ostroucha
+	Hat die Fotorechte:	0

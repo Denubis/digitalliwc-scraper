@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-749e46daf95b3-1
+Mercurius_312_0_0
+Io I_36_1_0
+
+
+
+Monument
+	ID:	17696
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VIII 7,28 (formerly 8,28) (Temple of Isis) VIII 7,28 (formerly 8,28) (Temple of Isis)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Io I Mercurius
+	Beschreibung:	Mercurius killing Argus to free Io.
+Szene
+	ID:	18439
+	Beschreibung:	Mercurius killing Argus to free Io.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/18439X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/18439X302.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	312
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Io I
+	Katalognummer:	36
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9548
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

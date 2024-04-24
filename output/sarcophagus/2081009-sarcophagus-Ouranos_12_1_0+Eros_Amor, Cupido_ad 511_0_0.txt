@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-743745262343a-d
+Ouranos_12_1_0
+Eros/Amor, Cupido_ad 511_0_0
+
+
+
+Monument
+	ID:	10424
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Ouranos Eros/Amor, Cupido
+	Beschreibung:	Sarkophagus of Junius Bassus. Various episodes from the life of Christ and the arrest of Peter and Paul. Christ enthroned, his feet on a footstool standing on Ouranos.
+Szene
+	ID:	10652
+	Beschreibung:	Sarkophagus of Junius Bassus. Various episodes from the life of Christ and the arrest of Peter and Paul. Christ enthroned, his feet on a footstool standing on Ouranos.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/basilica_san_pietro/10652X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Ouranos
+	Katalognummer:	12
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 511
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Sarcofago di Junius Bassus
+Museum
+	Land:	VA
+	Stadt:	Vaticano
+	Name:	Basilica San Pietro
+	Rechteinhaber der Fotos:	© Vaticano
+	Hat die Fotorechte:	1

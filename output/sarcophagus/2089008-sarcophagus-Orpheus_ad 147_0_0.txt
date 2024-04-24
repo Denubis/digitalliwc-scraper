@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-74a9a0d477ab5-7
+Orpheus_ad 147_0_0
+
+
+
+Monument
+	ID:	18501
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Orpheus
+Szene
+	ID:	19337
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Orpheus
+	Katalognummer:	ad 147
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	A 12
+Museum
+	Land:	CS
+	Stadt:	Sremska Mitrovica
+	Name:	Musée de Srem
+	Rechteinhaber der Fotos:	© Musée de Srem
+	Hat die Fotorechte:	0

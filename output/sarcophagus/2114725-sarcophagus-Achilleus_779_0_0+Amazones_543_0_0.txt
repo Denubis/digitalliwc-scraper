@@ -1,0 +1,49 @@
+http://ark.dasch.swiss/ark:/72163/080e-76194aee611be-7
+Achilleus_779_0_0
+Amazones_543_0_0
+
+
+
+Monument
+	ID:	44425
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	Amazon
+	Name:	Achilleus Penthesileia Amazones
+	Beschreibung:	Fragmente.
+	Bibliographie:	SarkRel II Nr. 107; Redlich, R., Die Amazonensarkphage des 2. und 3. Jh. n. Chr. (1942) 98-99; Fournet-Pilipenko, H., Karthago 11, 1961/62, 151-152 Nr. 151 Taf. 1; Yacoub, M., Le Musée du Bardo (1970) 28.
+Datierung
+	Periode:	200 - 250 
+Epoche
+	Name:	1. Hälfte 3. Jh. n. Chr.
+	Periode:	200 - 250 
+	Sequenznummer:	3320
+Szene
+	ID:	46722
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	779
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	543
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	C 907
+Museum
+	Land:	TN
+	Stadt:	Tunis
+	Name:	Musée National du Bardo
+	Direktor:	M. le Dr. Fathi Bejaoui
+	Adresse:	4, Place du Château
+	Postleitzahl:	TN-1008
+	Kontaktzenter:	Directeur de la Division de l'Inventaire Général et de la Recherche - Institut National du Patrimoine
+	Stadt des Kontaktzenters:	Tunis
+	Rechteinhaber der Fotos:	© Institut National du Patrimoine, Tunis
+	Hat die Fotorechte:	1

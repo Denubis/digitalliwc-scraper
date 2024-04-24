@@ -1,0 +1,52 @@
+http://ark.dasch.swiss/ark:/72163/080e-76bc634572c8e-9
+
+
+
+Monument
+	ID:	203108
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	DE
+	Kategorie:	relief
+	Stichwort:	syrinx altar snake lagobolon, pedum panther, leopard thyrsos rhyton krater tympanon (tambourine) fire (on altar) amphora pillar mask kantharos pipe, flute, aulos, tibiae fillet, taenia, tainia cista mystica fawn thymiaterion, turibulum, incense-burner cista, kiste kymbalon, kymbala, cymbala, cymbals satyr, silen
+	Name:	Pan
+	Beschreibung:	Von l. NS nach rechts:l. NS.: Tanzende Frau mit Tympanon, vor ihr ein sanduhrförmiges Thymiaterion, dahinter Satyr mit Doppelflöte. Vor diesem ein hoher rechteckiger Pfeiler, auf dem ein Krater steht. Rechts des Pfeilers tanzende Frau mit Kymbala.VS: Nach r. laufender Satyr, neben ihm ein Panther. Davor tanzt eine Frau mit Tympanon und Thyrsos. Neben ihr steht eine große geflochtene Ciste auf viereckigem Untersatz aus der eine Schlange herauskriecht. Davor Tänzer mit Lagobolon und Kantharos. Am Boden liegt eine Syrinx. Vor dem Tänzer befindet sich eine niedrige Basis mit Masken darauf. Auf der anderen Seite der Basis steht eine fast nackte Tympanonspielerin. Links von ihr steht ein entzündeter Altar. Daneben Pan, der Bock hält. Vor ihm erneut eine tanzende Frau mit Kymbala. Vor ihr befindet sich ein betrunkener Silen, der von einem Satyr gestützt wird. Vor dem Satyr steht ein rechteckiger Pfeiler, der mit einer Tänie verziert ist. Darauf steht eine Amphora. Ganz rechts auf der VS eine weitere Tanzende mit Tympanon.r. NS: Tänzer mit Lagobolon und Kantharos, daneben Tänzerin mit Messer in der Rechten und Rehkitz(?) in der Linken. Im Hintergrund ein Panther. Ganz rechts Satyr mit Rhyton und Lagobolon. 
+	Bibliographie:	SarkRel IV 2 Nr. 73 Taf. 81-84.
+Datierung
+	Periode:	130 - 138 
+Epoche
+	Name:	hadrianisch
+	Periode:	117 - 138 
+	Sequenznummer:	1200
+Datierung
+	Periode:	138 - 145 
+Epoche
+	Name:	antoninisch
+	Periode:	138 - 192 
+	Sequenznummer:	1210
+Szene
+	ID:	100145
+	Beschreibung:	Von l. NS nach rechts:l. NS.: Tanzende Frau mit Tympanon, vor ihr ein sanduhrförmiges Thymiaterion, dahinter Satyr mit Doppelflöte. Vor diesem ein hoher rechteckiger Pfeiler, auf dem ein Krater steht. Rechts des Pfeilers tanzende Frau mit Kymbala.VS: Nach r. laufender Satyr, neben ihm ein Panther. Davor tanzt eine Frau mit Tympanon und Thyrsos. Neben ihr steht eine große geflochtene Ciste auf viereckigem Untersatz aus der eine Schlange herauskriecht. Davor Tänzer mit Lagobolon und Kantharos. Am Boden liegt eine Syrinx. Vor dem Tänzer befindet sich eine niedrige Basis mit Masken darauf. Auf der anderen Seite der Basis steht eine fast nackte Tympanonspielerin. Links von ihr steht ein entzündeter Altar. Daneben Pan, der Bock hält. Vor ihm erneut eine tanzende Frau mit Kymbala. Vor ihr befindet sich ein betrunkener Silen, der von einem Satyr gestützt wird. Vor dem Satyr steht ein rechteckiger Pfeiler, der mit einer Tänie verziert ist. Darauf steht eine Amphora. Ganz rechts auf der VS eine weitere Tanzende mit Tympanon.r. NS: Tänzer mit Lagobolon und Kantharos, daneben Tänzerin mit Messer in der Rechten und Rehkitz(?) in der Linken. Im Hintergrund ein Panther. Ganz rechts Satyr mit Rhyton und Lagobolon.
+Catalog Thes CRA
+	Indexnummer:	825
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1303
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Romano, Palazzo Massimo alle Terme
+	Direktor:	Soprintendente Prof. Adriano La Regina
+	Adresse:	Piazza delle Finanze 1
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza alle Antichità
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza alle Antichità, Roma
+	Hat die Fotorechte:	1

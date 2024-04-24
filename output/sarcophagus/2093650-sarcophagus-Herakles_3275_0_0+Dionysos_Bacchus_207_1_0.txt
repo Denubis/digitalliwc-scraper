@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ebfe2ae18df-a
+Herakles_3275_0_0
+Dionysos/Bacchus_207_1_0
+
+
+
+Monument
+	ID:	23168
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dionysos/Bacchus Herakles
+	Beschreibung:	Herakles with kantharos standing next to reclining Dionysos and Ariadne. Satyrs vintaging and a river god.
+Datierung
+	Periode:	230 - 260 
+Szene
+	ID:	24307
+	Beschreibung:	Herakles with kantharos standing next to reclining Dionysos and Ariadne. Satyrs vintaging and a river god.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_doria_pamphilj/24307X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	3275
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	207
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Calza 202
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Doria Pamphilj
+	Rechteinhaber der Fotos:	© Villa Doria Pamphilj, Roma
+	Kommentar:	Numéros d'après Calza, R. (éd.), Antichità di Villa Doria Pamphilj (1977).
+	Hat die Fotorechte:	1

@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-7450d8bdd85eb-5
+Mousa, Mousai/Musae (vol. VII)_67_1_0
+
+
+
+Monument
+	ID:	12230
+	Entdeckungsort:	Boscoreale
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Mousa, Mousai
+	Museums-URL:	http://www.getty.edu/art/collection/objects/6536/unknown-maker-fragment-of-a-yellow-fresco-panel-with-muse-roman-1-75/
+Szene
+	ID:	12523
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/malibu/j_paul_getty_museum/12523X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	67
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	70.AG.92
+Museum
+	Land:	US
+	Stadt:	Malibu
+	Name:	J. Paul Getty Museum
+	Direktor:	Dr. Jackie Burns
+	Adresse:	1200 Getty Center Drive Suite 1000
+	Postleitzahl:	USA-
+	E-Mail:	jburns@getty.edu
+	Kontaktzenter:	Registrars Office, J. Paul Getty Museum
+	Stadt des Kontaktzenters:	Los Angeles, CA 90049
+	Rechteinhaber der Fotos:	© J. Paul Getty Museum
+	Hat die Fotorechte:	1

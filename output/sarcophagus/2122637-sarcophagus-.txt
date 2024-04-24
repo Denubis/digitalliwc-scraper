@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-768a683306246-4
+
+
+
+Monument
+	ID:	90894
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	GR
+	Kategorie:	relief
+	Name:	Eros/Amor, Cupido
+	Grössenangabe:	Y. 0.42 m - Πλ. 0.49 m
+	Beschreibung:	Eρωτιδεύς.
+	Kommentar:	3918
+Datierung
+	Periode:	-27 - 395 
+Epoche
+	Name:	kaiserzeitlich
+	Periode:	-27 - 476 
+	Sequenznummer:	1100
+Szene
+	ID:	96348
+	Beschreibung:	Eρωτιδεύς, γυμνός, σε ζωηρή αντικίνηση, κορμός προς αριστερά, κεφαλή προς δεξιά. Σκέλη προς δεξιά (ιμάτιο στον αριστερό ώμο). Aριστερό χέρι τεντωμένο.
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	4923
+Museum
+	Land:	GR
+	Stadt:	Athens
+	Name:	National Archaeological Museum
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Anrede:	Dear Director,
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© National Archaeological Museum, Athens
+	Kommentar:	Pour les intailles de la collection Karapanos voir Musée Numismatique.  Inv. VS = ancienne collection Vlastos-Serpieri.
+	Hat die Fotorechte:	1

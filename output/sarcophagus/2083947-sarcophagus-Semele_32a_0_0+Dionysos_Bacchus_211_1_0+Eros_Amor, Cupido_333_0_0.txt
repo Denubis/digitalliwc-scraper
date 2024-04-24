@@ -1,0 +1,59 @@
+http://ark.dasch.swiss/ark:/72163/080e-746145fca6b1c-7
+Semele_32a_0_0
+Dionysos/Bacchus_211_1_0
+Eros/Amor, Cupido_333_0_0
+
+
+
+Monument
+	ID:	13384
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dionysos/Bacchus Ariadne Semele Eros/Amor, Cupido
+	Beschreibung:	Old Bacchus and Ariadne on a carriage drawn by centaurs, in front of them satyrs and maenads and carriage with Semele drawn by tigers.
+Szene
+	ID:	13727
+	Beschreibung:	Old Bacchus and Ariadne on a carriage drawn by centaurs, in front of them satyrs and maenads and carriage with Semele drawn by tigers.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/muenchen/staatliche_antikensammlungen_und_glyptothek/13727X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/muenchen/staatliche_antikensammlungen_und_glyptothek/13727X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/muenchen/staatliche_antikensammlungen_und_glyptothek/13727X103.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Semele
+	Katalognummer:	32a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	211
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	333
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Gl 223
+Museum
+	Land:	DE
+	Stadt:	München
+	Name:	Staatliche Antikensammlungen und Glyptothek
+	Direktor:	Dr. Yvonne Schmuhl
+	Adresse:	Meiserstrasse 10
+	Postleitzahl:	D-80333
+	Kontaktzenter:	Staatliche Antikensammlungen und Glyptothek
+	Stadt des Kontaktzenters:	München
+	Rechteinhaber der Fotos:	© Staatliche Antikensammlungen und Glyptothek, München
+	Hat die Fotorechte:	1

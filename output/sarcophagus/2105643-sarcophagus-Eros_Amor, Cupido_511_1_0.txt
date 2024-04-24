@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-7597738f362dc-6
+Eros/Amor, Cupido_511_1_0
+
+
+
+Monument
+	ID:	35266
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido
+	Monument-URL:	arachne.dainst.org/entity/1141012
+Szene
+	ID:	37098
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/poland/varsovie/musee_national/37098X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	511
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	143420
+Museum
+	Land:	PL
+	Stadt:	Varsovie
+	Name:	Musée National
+	Direktor:	Department of Antiquities
+	Anrede:	Dear General Director,
+	Adresse:	Al. Jerozolimkie 3
+	Postleitzahl:	PL 00-495
+	Kontaktzenter:	Museum Narodowe w Warszawie
+	Stadt des Kontaktzenters:	Varsovie
+	Rechteinhaber der Fotos:	© Museum Narodowe w Warszawie
+	Hat die Fotorechte:	1

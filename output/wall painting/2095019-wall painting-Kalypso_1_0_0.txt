@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ff90983f35c-3
+Kalypso_1_0_0
+
+
+
+Monument
+	ID:	24551
+	Entdeckungsort:	Kertch, Pantikapaion
+	Entdeckungsort Details:	tomb
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Kalypso
+	Beschreibung:	Kalypso, frontal, dressed in long chiton and white mantle which covers her head.
+	Inschrift:	KALYPSO
+Szene
+	ID:	25766
+	Beschreibung:	Kalypso, frontal, dressed in long chiton and white mantle which covers her head.
+	Inschrift:	KALYPSO
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Kalypso
+	Katalognummer:	1
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	UA
+	Stadt:	Kerch
+	Name:	Necropolis of Pantikapaion
+	Rechteinhaber der Fotos:	© Kerch
+	Hat die Fotorechte:	1

@@ -1,0 +1,99 @@
+http://ark.dasch.swiss/ark:/72163/080e-73aa67fb12509-c
+Tiberis, Tiberinus_3_0_0
+Ares/Mars_391_1_0
+Lupa Romana_7_0_0
+Rea Silvia_3_0_0
+Helios/Sol_162_0_0
+Rea Silvia_29_0_0
+Mercurius_ad 241_0_0
+
+
+
+Monument
+	ID:	475
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	V 4,13 (House of the Origins of Rome / House of M. Fabius Secundus)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	temple
+	Name:	Lupa Romana Hermes/Mercurius Rea Silvia Tiberis, Tiberinus Aphrodite/Venus Helios/Sol
+	Beschreibung:	"Origins of Rome" painting. Mars descending to Rhea Silvia. In a rocky landscape near the Tiber and the fig-tree is Mercurius pointing out for a female figure (Rhea Silvia?) the location by a cave of the Lupa Romana, facing to the right and suckling the twins. Above Mars Sol on a quadriga.
+	Bibliographie:	Schefold, WP 88.Dawson, C.M., Romano-Campanian Mythological Landscape Painting (YaleClSt 9, 1944) 103-104 Nr. 46;PompPittMos III (1991) 1064-1067, 4-7.
+	Kommentar:	Aufbewahrungsort Neapel in LIMC Mercurius ad 241 und für diesen Eintrag auch in LIMC Index nicht angegeben, sondern Pompei (ID Denkmal 16449).
+Datierung
+	Periode:	-5 - 5 
+	Kommentar:	ca.
+Epoche
+	Name:	3. pompejanischer Stil
+	Periode:	-15 - 63 
+	Sequenznummer:	1340
+Szene
+	ID:	269
+	Beschreibung:	"Origins of Rome" painting. Mars descending to Rhea Silvia. In a rocky landscape near the Tiber and the fig-tree is Mercurius pointing out for a female figure (Rhea Silvia?) the location by a cave of the Lupa Romana, facing to the right and suckling the twins. Above Mars Sol on a quadriga.
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/269X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/269X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/269X103.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/269X301.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Tiberis, Tiberinus
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ares/Mars
+	Katalognummer:	391
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Lupa Romana
+	Katalognummer:	7
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Rea Silvia
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	162
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Rea Silvia
+	Katalognummer:	29
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	ad 241
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

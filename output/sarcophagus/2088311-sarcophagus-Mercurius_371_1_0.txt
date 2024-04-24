@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-749fa9de0c558-3
+Mercurius_371_1_0
+
+
+
+Monument
+	ID:	17794
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Via Salaria
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Mercurius
+	Beschreibung:	Left minor side: Winged putto with trident riding a ketos. Right minor side: Putto riding a ram, with winged hat and caduceus (symbols of Mercurius).
+Szene
+	ID:	18550
+	Beschreibung:	Left minor side: Winged putto with trident riding a ketos. Right minor side: Putto riding a ram, with winged hat and caduceus (symbols of Mercurius).
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/18550X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	371
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	441
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Romano
+	Direktor:	Soprintendente Dott. Giuseppe Proietti
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali - Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

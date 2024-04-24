@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-75b81acfadc78-1
+Dioskouroi/Castores_82_1_0
+
+
+
+Monument
+	ID:	37568
+	Entdeckungsort:	Tipasa
+	Entdeckungsort Details:	necropolis
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dioskouroi/Castores
+Szene
+	ID:	39483
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/algeria/tipasa/parc_archeologique/39483X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/algeria/tipasa/parc_archeologique/39483X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/algeria/tipasa/parc_archeologique/39483X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/algeria/tipasa/parc_archeologique/39483X104.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Dioskouroi/Castores
+	Katalognummer:	82
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	DZ
+	Stadt:	Tipasa
+	Name:	Parc Archéologique
+	Rechteinhaber der Fotos:	© Tipasa
+	Hat die Fotorechte:	1

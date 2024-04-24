@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-7404bf0008eb4-6
+Persephone (S)_181_0_0
+Persephone (S)_232_0_0
+Hades/Pluto_46_1_0
+
+
+
+Monument
+	ID:	6856
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hades/Pluto Persephone
+	Beschreibung:	Hades seizing Persephone.
+Szene
+	ID:	7002
+	Beschreibung:	Hades seizing Persephone.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_giustiniani/7002X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Persephone (S)
+	Katalognummer:	181
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Persephone (S)
+	Katalognummer:	232
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	46
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 3, 390
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Giustiniani
+	Rechteinhaber der Fotos:	© Palazzo Giustiniani, Roma
+	Hat die Fotorechte:	1

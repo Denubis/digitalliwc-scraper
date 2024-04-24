@@ -1,0 +1,31 @@
+http://ark.dasch.swiss/ark:/72163/080e-7472babf0efb5-f
+Nemesis (in per. or.)_19_0_0
+
+
+
+Monument
+	ID:	14614
+	Entdeckungsort:	Sum (Jordan)
+	Entdeckungsort Details:	tomb
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Nemesis
+	Beschreibung:	Griffin flying to the left, one of the fore-paws put on a wheel. Griffin stands for Nemesis.
+Szene
+	ID:	15055
+	Beschreibung:	Griffin flying to the left, one of the fore-paws put on a wheel. Griffin stands for Nemesis.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Nemesis (in per. or.)
+	Katalognummer:	19
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	JO
+	Stadt:	Sum (Jordanie)
+	Name:	Tombe peinte
+	Rechteinhaber der Fotos:	© Sum 
+	Hat die Fotorechte:	0

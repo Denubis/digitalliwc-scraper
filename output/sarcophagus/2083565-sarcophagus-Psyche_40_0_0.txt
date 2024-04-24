@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-745bcfe5fcf26-1
+Psyche_40_0_0
+
+
+
+Monument
+	ID:	12999
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Psyche
+	Monument-URL:	arachne.dainst.org/entity/1141046
+Szene
+	ID:	13317
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	40
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Taormina
+	Name:	Antiquarium del Teatro Greco Romano
+	Rechteinhaber der Fotos:	© Antiquarium del Teatro Greco Romano, Taormina
+	Hat die Fotorechte:	0

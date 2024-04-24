@@ -1,0 +1,53 @@
+http://ark.dasch.swiss/ark:/72163/080e-745c11c6e3700-2
+Psyche_65_1_0
+
+
+
+Monument
+	ID:	13017
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Psyche
+	Beschreibung:	Amor with kithara and Psyche. Around them musicians and dancers.
+Szene
+	ID:	13341
+	Beschreibung:	Amor with kithara and Psyche. Around them musicians and dancers.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/karlsruhe/badisches_landesmuseum/13341X001.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+	Rechteinhaber der Fotos:	Rita Gautschy
+	Hat die Fotorechte:	1
+Foto
+	Neues Foto:	1
+	Rechteinhaber der Fotos:	Rita Gautschy
+	Hat die Fotorechte:	1
+Foto
+	Neues Foto:	1
+	Rechteinhaber der Fotos:	Rita Gautschy
+	Hat die Fotorechte:	1
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	65
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	69/47
+Museum
+	Land:	DE
+	Stadt:	Karlsruhe
+	Name:	Badisches Landesmuseum
+	Direktor:	Dir. Prof. Dr. Harald Siebenmorgen
+	Anrede:	Sehr geehrter Herr Professor,
+	Adresse:	Schlossbezirk 10
+	Postleitzahl:	D-76131
+	Kontaktzenter:	Badisches Landesmuseum
+	Stadt des Kontaktzenters:	Karlsruhe
+	Rechteinhaber der Fotos:	© Badisches Landesmuseum
+	Hat die Fotorechte:	1

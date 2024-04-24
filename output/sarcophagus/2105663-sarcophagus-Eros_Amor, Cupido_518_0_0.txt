@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-7597bcc1fd640-4
+Eros/Amor, Cupido_518_0_0
+
+
+
+Monument
+	ID:	35286
+	Entdeckungsort:	Carnuntum
+	Objekt:	sarcophagus
+	Material:	sandstone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido
+	Beschreibung:	Amor standing in a vine bower, holding scarf with rabbit in front of him.
+Szene
+	ID:	37118
+	Beschreibung:	Amor standing in a vine bower, holding scarf with rabbit in front of him.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/bad_deutsch-altenburg/museum_carnuntinum/37118X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	518
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	3735
+Museum
+	Land:	AT
+	Stadt:	Bad Deutsch-Altenburg
+	Name:	Museum Carnuntinum
+	Rechteinhaber der Fotos:	© Museum Carnuntinum Bad Deutsch-Altenburg
+	Hat die Fotorechte:	0

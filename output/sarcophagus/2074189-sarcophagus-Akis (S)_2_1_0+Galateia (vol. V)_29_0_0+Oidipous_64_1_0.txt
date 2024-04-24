@@ -1,0 +1,56 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d5c482c8006-c
+Akis (S)_2_1_0
+Galateia (vol. V)_29_0_0
+Oidipous_64_1_0
+
+
+
+Monument
+	ID:	3547
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Galateia Oidipous Akis
+	Beschreibung:	On the right are Polyphemos and Galateia. Oidipous and Sphinx.
+Szene
+	ID:	3582
+	Beschreibung:	On the right are Polyphemos and Galateia. Oidipous and Sphinx.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_mattei_di_giove/3582X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_mattei_di_giove/3582X102.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Akis (S)
+	Katalognummer:	2
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Galateia (vol. V)
+	Katalognummer:	29
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Oidipous
+	Katalognummer:	64
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	52
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Mattei di Giove
+	Direktor:	Soprintendente Arch. Costantino Centroni
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Cavalletti 2
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza per i Beni Ambientali Architettonici del Lazio
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Ambientali Architettonici del Lazio
+	Kommentar:	Numéros d'après Guerrini, L. (éd.), Palazzo Mattei di Giove. Le antichità (1982).
+	Hat die Fotorechte:	1

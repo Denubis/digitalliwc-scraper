@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-749ead554373f-b
+Herakles_1715_0_1
+Herakles_2161_0_0
+Herakles_ad 2397_0_0
+
+
+
+Monument
+	ID:	17724
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Herakles
+	Beschreibung:	Labours of Herakles: Lion, Hydra, Boar, Deer, Birds, Amazon, Augeias, Bull, Horses of Diomedes, Geryoneus, Hesperides. Kerberos is missing.
+Szene
+	ID:	18469
+	Beschreibung:	Labours of Herakles: Lion, Hydra, Boar, Deer, Birds, Amazon, Augeias, Bull, Horses of Diomedes, Geryoneus, Hesperides. Kerberos is missing.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	1715
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2161
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	ad 2397
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 1, 101
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Direktor:	Soprintendente Prof. Adriano La Regina
+	Adresse:	Piazza S. Maria Nova 53
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza Archeologica di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	0

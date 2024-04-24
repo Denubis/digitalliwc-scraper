@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-76193c4a9faaa-1
+Achilleus_774_0_0
+Amazones_196_0_0
+
+
+
+Monument
+	ID:	44421
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	Amazon fight, battle
+	Name:	Achilleus Penthesileia Amazones
+	Bibliographie:	Matz, F./v. Duhn, F., Antike Bildwerke in Rom II (1881) Nr. 3359; SarkRel II Nr. 106 Taf. 44; Redlich, R., Die Amazonensarkophage des 2. und 3. Jh. n. Chr. (1942) 71-72.
+Datierung
+	Periode:	180 
+	Kommentar:	about
+Epoche
+	Name:	4. Viertel 2. Jh. n. Chr.
+	Periode:	175 - 200 
+	Sequenznummer:	3230
+Szene
+	ID:	46718
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	774
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	196
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel II 106
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	San Lorenzo fuori le Mura
+	Kontaktzenter:	San Lorenzo fuori le Mura
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprindentenza SPSAE e Polo Museale della Città di Roma
+	Hat die Fotorechte:	0

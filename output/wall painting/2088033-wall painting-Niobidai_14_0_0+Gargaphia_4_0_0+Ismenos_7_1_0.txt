@@ -1,0 +1,64 @@
+http://ark.dasch.swiss/ark:/72163/080e-749bb0690816a-9
+Niobidai_14_0_0
+Gargaphia_4_0_0
+Ismenos_7_1_0
+
+
+
+Monument
+	ID:	17509
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 15,2 (Casa del Marinaio)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Gargaphia Ismenos Niobidai
+	Beschreibung:	Death of the Niobides on the Kithairon: In front of the rock with the temple a seated man with cornucopia and branches and a woman with branches. Both of them are personifications of places. Gargaphia and Kithairon or Dirke and Ismenos?
+Szene
+	ID:	18235
+	Beschreibung:	Death of the Niobides on the Kithairon: In front of the rock with the temple a seated man with cornucopia and branches and a woman with branches. Both of them are personifications of places. Gargaphia and Kithairon or Dirke and Ismenos?
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/18235X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/18235X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/18235X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/18235X103.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Niobidai
+	Katalognummer:	14
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Gargaphia
+	Katalognummer:	4
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ismenos
+	Katalognummer:	7
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	111479
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

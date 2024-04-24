@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-755b8c812f486-4
+Helios/Sol_45_1_0
+
+
+
+Monument
+	ID:	31036
+	Entdeckungsort:	Pompei
+	Objekt:	lamp
+	Material:	terracotta
+	Land:	CH
+	Kategorie:	lamp
+	Name:	Helios/Sol
+	Beschreibung:	Bust of Sol.
+Szene
+	ID:	32553
+	Beschreibung:	Bust of Sol.
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	45
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	859
+Museum
+	Land:	DK
+	Stadt:	Copenhague
+	Name:	Musée National
+	Anrede:	Dear Curator,
+	Adresse:	Frederiksholms Kanal 12
+	Postleitzahl:	DK-1220
+	Kontaktzenter:	The National Museum of Danemark
+	Stadt des Kontaktzenters:	Copenhague
+	Rechteinhaber der Fotos:	© The National Museum of Danemark
+	Hat die Fotorechte:	1

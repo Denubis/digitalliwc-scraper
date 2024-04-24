@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-7586c0c69100c-b
+Eros (in per. or.)_90_1_0
+
+
+
+Monument
+	ID:	34086
+	Entdeckungsort:	Quseir 'Amra (Jordan)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Eros
+Szene
+	ID:	35840
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Eros (in per. or.)
+	Katalognummer:	90
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	JO
+	Stadt:	Qusayr 'Amra (Jordanie)
+	Name:	Résidence omeyyade
+	Rechteinhaber der Fotos:	© Résidence omeyyade Qusayr 'Amra
+	Hat die Fotorechte:	0

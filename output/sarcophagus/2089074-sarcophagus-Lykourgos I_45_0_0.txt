@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-74aa92626f77f-7
+Lykourgos I_45_0_0
+
+
+
+Monument
+	ID:	18568
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Lykourgos I
+Szene
+	ID:	19415
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Lykourgos I
+	Katalognummer:	45
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Aldobrandini
+	Rechteinhaber der Fotos:	© Villa Aldobrandini, Roma
+	Hat die Fotorechte:	1

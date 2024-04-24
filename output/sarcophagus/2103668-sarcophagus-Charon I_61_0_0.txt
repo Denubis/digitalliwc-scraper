@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-757b3738de009-7
+Charon I_61_0_0
+
+
+
+Monument
+	ID:	33269
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Beschreibung:	Depiction of Charon (?) in his boat transporting passengers.
+Szene
+	ID:	34950
+	Beschreibung:	Depiction of Charon (?) in his boat transporting passengers.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Charon I
+	Katalognummer:	61
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Palermo
+	Name:	Museo Archeologico Regionale "A. Salinas"
+	Direktor:	Dir. Dott.ssa Giuseppina Favara
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Piazza Olivella 24
+	Postleitzahl:	I-90100
+	Kontaktzenter:	Museo Archeologico Regionale "A. Salinas"
+	Stadt des Kontaktzenters:	Palermo
+	Rechteinhaber der Fotos:	© Polo Regionale di Palermo per i Parchi e i Musei Archeologici
+	Hat die Fotorechte:	1

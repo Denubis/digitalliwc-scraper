@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-74268762ad01b-e
+Telesphoros_89_1_0
+
+
+
+Monument
+	ID:	9240
+	Entdeckungsort:	Aquincum
+	Objekt:	sarcophagus
+	Material:	limestone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Telesphoros
+	Beschreibung:	Telesphoros wearing long mantle with hood.
+Szene
+	ID:	9441
+	Beschreibung:	Telesphoros wearing long mantle with hood.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/hungary/budapest/musee_d_aquincum/9441X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/hungary/budapest/musee_d_aquincum/9441X102.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Telesphoros
+	Katalognummer:	89
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	HU
+	Stadt:	Budapest
+	Name:	Musée d'Aquincum
+	Direktor:	Dir. Dr. Paula Zsidi
+	Adresse:	Szentendrei ut 135
+	Postleitzahl:	HG-1031
+	Kontaktzenter:	Aquincumi Múzeum (Musée d'Aquicum)
+	Stadt des Kontaktzenters:	Budapest
+	Rechteinhaber der Fotos:	© Aquincumi Múzeum
+	Hat die Fotorechte:	1

@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-742783eb75e34-6
+Tellus_25_1_0
+
+
+
+Monument
+	ID:	9309
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Tellus
+Szene
+	ID:	9512
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/cagliari/cattedrale_santa_maria/9512X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/cagliari/cattedrale_santa_maria/9512X102.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Tellus
+	Katalognummer:	25
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Cagliari
+	Name:	Cattedrale Santa Maria
+	Rechteinhaber der Fotos:	© Cagliari
+	Hat die Fotorechte:	0

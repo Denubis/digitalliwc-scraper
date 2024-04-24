@@ -1,0 +1,30 @@
+http://ark.dasch.swiss/ark:/72163/080e-745b98ffe789b-5
+Psyche_25a_0_0
+
+
+
+Monument
+	ID:	12984
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Psyche
+Szene
+	ID:	13302
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	25a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Castel Sant'Elia
+	Name:	Basilica di Sant'Elia (o Sant'Anastasio)
+	Kontaktzenter:	Basilica Sant'Elia (o Sant'Anastasio)
+	Stadt des Kontaktzenters:	Castel Sant'Elia
+	Rechteinhaber der Fotos:	© Castel Sant'Elia
+	Hat die Fotorechte:	0

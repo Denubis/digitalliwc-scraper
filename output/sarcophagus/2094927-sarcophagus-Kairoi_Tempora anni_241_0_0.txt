@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-74fe3fe1de090-6
+Kairoi/Tempora anni_241_0_0
+
+
+
+Monument
+	ID:	24459
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kairoi/Tempora anni
+	Beschreibung:	Fragment from Borgo S. Spirito. In the centre the deceased. On the left is a krater with oil branches, birds and a Genius with mantle (Winter). On the other side remains of another krater.
+Szene
+	ID:	25662
+	Beschreibung:	In the centre the deceased. On the left is a krater with oil branches, birds and a Genius with mantle (Winter). On the other side remains of another krater.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/25662X301.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	241
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	108677
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Romano
+	Direktor:	Soprintendente Dott. Giuseppe Proietti
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali - Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

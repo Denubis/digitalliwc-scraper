@@ -1,0 +1,60 @@
+http://ark.dasch.swiss/ark:/72163/080e-73aaf30ec0047-f
+Endymion_64_1_0
+Hypnos/Somnus_104_0_0
+Latmos (S)_2_0_0
+
+
+
+Monument
+	ID:	518
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Endymion Hypnos/Somnus Latmos
+	Beschreibung:	Latmos sitting on a rock and touching a tree.
+Szene
+	ID:	25666
+	Beschreibung:	Latmos sitting on a rock and touching a tree.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/mantova/galleria_e_museo_di_palazzo_ducale/25666X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/mantova/galleria_e_museo_di_palazzo_ducale/25666X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/mantova/galleria_e_museo_di_palazzo_ducale/25666X102.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	64
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	104
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Latmos (S)
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Levi 194
+Museum
+	Land:	IT
+	Stadt:	Mantova
+	Name:	Galleria e Museo di Palazzo Ducale
+	Direktor:	Soprintendente Dott.ssa Giuliana Algeri
+	Adresse:	Piazza Paccagnini 3
+	Postleitzahl:	I-46100
+	Kontaktzenter:	(All'attenzione del Dott. G. Rodella) Sopr. Patrimonio Storico ed Artistico Mantova, Cremona e Brescia
+	Stadt des Kontaktzenters:	Mantova
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali
+	Kommentar:	Levi: numeri di catalogo di Levi, A., Sculture greche e romane del Palazzo Ducale di Mantova (1930).
+	Hat die Fotorechte:	0

@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-74d024a5e31d3-6
+Hippolytos I_62_0_0
+
+
+
+Monument
+	ID:	21208
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hippolytos I
+Szene
+	ID:	22149
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	62
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	A 1129
+Museum
+	Land:	IT
+	Stadt:	Milano
+	Name:	Museo Civico Archeologico
+	Direktor:	Direttore Dott.ssa Caporusso Donatella
+	Adresse:	Via Bernardino Luini 2
+	Postleitzahl:	I-20123
+	Kontaktzenter:	Museo Civico Archeologico
+	Stadt des Kontaktzenters:	Milano
+	Rechteinhaber der Fotos:	© Museo Civico Archeologico, Milano
+	Hat die Fotorechte:	1

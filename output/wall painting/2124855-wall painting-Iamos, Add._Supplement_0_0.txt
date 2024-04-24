@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-76aa1de585f18-f
+Iamos, Add._Supplement_0_0
+
+
+
+Monument
+	ID:	201607
+	Entdeckungsort:	Assisi, Asisium
+	Entdeckungsort Details:	Casa di Properzio
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Iamos
+	Beschreibung:	scene from the childhood of Iamos
+	Inschrift:	Iαμε, aγ’ a δύσποτμε, τί σοι φίλος h τί σύναιμος; | aλκαρ aπολλυμένwi Φοiβος, iδού, πόρε, παi
+	Bibliographie:	Guarducci, G., Domus musae, epigrafi greche e latine in un'antica casa di Assisi, MemLinc 8. s., 23, 1979, 269-297; Guarducci, G., La casa di Properzio, nuove riflessioni sulla Domus Musae di Assisi e sulle sue epigrafi, RendLinc 40-41, 5-6 (1985-1986) 163-181; Coarelli, F., Assisi, Roma, Tivoli. I luoghi di Properzio, in: Properzio tra storia, arte e mito. Atti del convetgno internazionale. Assisi, 2002 (2004) 99-115.
+Datierung
+	Periode:	90 - 110 
+Epoche
+	Name:	um 100 n. Chr.
+	Periode:	90 - 110 
+	Sequenznummer:	3130
+Szene
+	ID:	98581
+	Beschreibung:	scene from the childhood of Iamos
+	Inschrift:	Iαμε, aγ’ a δύσποτμε, τί σοι φίλος h τί σύναιμος; | aλκαρ aπολλυμένwi Φοiβος, iδού, πόρε, παi
+Catalog LIMC
+	Artikel:	Iamos, Add.
+	Band:	Supplement
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Assisi
+	Name:	Casa romana detta di Properzio
+	Direktor:	Soprintendente Dott.ssa Mariarosaria Salvatore
+	Adresse:	Piazza Partigiani 9
+	Postleitzahl:	I-06121
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici per l'Umbria
+	Stadt des Kontaktzenters:	Perugia
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici per l'Umbria
+	Hat die Fotorechte:	0

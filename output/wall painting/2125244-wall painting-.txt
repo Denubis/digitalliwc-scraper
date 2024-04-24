@@ -1,0 +1,27 @@
+http://ark.dasch.swiss/ark:/72163/080e-76afad9ac2371-9
+
+
+
+Monument
+	ID:	202303
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Bibliographie:	Barbet, A., La peinture murale en Gaule romaine (2008) 184 fig. 273-274.
+Szene
+	ID:	99300
+	Name:	Dionysos/Bacchus
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	FR
+	Stadt:	Strasbourg
+	Name:	Musée Archéologique
+	Direktor:	Mme Christine Spéroni
+	Adresse:	5 Pl. du Château
+	Postleitzahl:	F-67000
+	Kontaktzenter:	Musées de Strasbourg
+	Stadt des Kontaktzenters:	Strasbourg
+	Rechteinhaber der Fotos:	© Musée Archéologique Strasbourg
+	Hat die Fotorechte:	1

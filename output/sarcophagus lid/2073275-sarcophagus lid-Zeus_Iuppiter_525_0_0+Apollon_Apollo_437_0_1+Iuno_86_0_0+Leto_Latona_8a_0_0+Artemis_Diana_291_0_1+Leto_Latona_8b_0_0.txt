@@ -1,0 +1,62 @@
+http://ark.dasch.swiss/ark:/72163/080e-73c8b3589e6ac-c
+Zeus/Iuppiter_525_0_0
+Apollon/Apollo_437_0_1
+Iuno_86_0_0
+Leto/Latona_8a_0_0
+Artemis/Diana_291_0_1
+Leto/Latona_8b_0_0
+
+
+
+Monument
+	ID:	2629
+	Objekt:	sarcophagus lid
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Iuno Apollon/Apollo Zeus/Iuppiter Artemis/Diana Leto/Latona
+	Beschreibung:	Leto giving birth to Apollo, Diana helping her. The young Apollo is presented to the Capitolina Triad and the other gods: in the centre Iuppiter seated, Minerva by his right side (not preserved), Iuno bis his left.
+Szene
+	ID:	5348
+	Szenerieangabe:	couvercle
+	Beschreibung:	Leto giving birth to Apollo, Diana helping her. The young Apollo is presented to the Capitolina Triad and the other gods: in the centre Iuppiter seated, Minerva by his right side (not preserved), Iuno bis his left.
+	Sequenznummer:	20
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	525
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	437
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Iuno
+	Katalognummer:	86
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Leto/Latona
+	Katalognummer:	8a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	291
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Leto/Latona
+	Katalognummer:	8b
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 1, 33
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Studio Canova (già)
+	Rechteinhaber der Fotos:	© Studio Canova (once), Roma
+	Hat die Fotorechte:	0

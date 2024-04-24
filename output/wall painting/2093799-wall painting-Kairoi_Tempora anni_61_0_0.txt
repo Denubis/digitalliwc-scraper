@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ee1f7ec7488-f
+Kairoi/Tempora anni_61_0_0
+
+
+
+Monument
+	ID:	23318
+	Entdeckungsort:	Ostia
+	Entdeckungsort Details:	Isola Sacra
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Karpoi
+	Beschreibung:	Vault: In the centre Mercurius surrounded by dancing putti (Seasons). Summer is missing.
+Szene
+	ID:	24461
+	Beschreibung:	Vault: In the centre Mercurius surrounded by dancing putti (Seasons). Summer is missing.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/museo_ostiense/24461X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	61
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	10113
+Museum
+	Land:	IT
+	Stadt:	Ostia
+	Name:	Museo Ostiense
+	Direktor:	Dott.ssa Elvira Angeloni
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Viale dei Romagnoli 717
+	Postleitzahl:	I-00119
+	Kontaktzenter:	Soprintendenza archeologica di Ostia
+	Stadt des Kontaktzenters:	Ostia Antica - Roma
+	Rechteinhaber der Fotos:	Archivio Fotografico della Soprintendenza Archeologica per i beni archeologici di Ostia
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	47

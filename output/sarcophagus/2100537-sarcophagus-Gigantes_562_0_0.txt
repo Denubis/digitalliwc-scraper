@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-754e740524fa2-5
+Gigantes_562_0_0
+
+
+
+Monument
+	ID:	30111
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Gigantes
+Szene
+	ID:	31570
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Gigantes
+	Katalognummer:	562
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Salviati
+	Rechteinhaber der Fotos:	© Palazzo Salviati, Roma
+	Hat die Fotorechte:	1

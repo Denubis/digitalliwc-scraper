@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-7401d0b78eff3-b
+Phoinix III (S)_41_0_0
+
+
+
+Monument
+	ID:	6650
+	Entdeckungsort:	Rome
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Phoinix III
+	Beschreibung:	Mural painting in the church S. Felicitas. Felicitas surrounded by her seven sons, above them Christ, on the right Phoinix (III), nimbated, on a palm tree. 
+Datierung
+	Periode:	400 - 700 
+Szene
+	ID:	21818
+	Beschreibung:	Felicitas surrounded by her seven sons, above them Christ, on the right Phoinix (III), nimbated, on a palm tree. 
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Phoinix III (S)
+	Katalognummer:	41
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Santa Felicita
+	Rechteinhaber der Fotos:	© Santa Felicita, Roma
+	Hat die Fotorechte:	0

@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ee7ea730a8a-d
+Kairoi/Tempora anni_98_0_0
+Eros/Amor, Cupido_60_0_0
+
+
+
+Monument
+	ID:	23344
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kairoi/Tempora anni Eros/Amor, Cupido
+	Beschreibung:	In the central niche dextrarum iunctio. In the other niches between the columns are depictions of the Seasons.
+Datierung
+	Periode:	280 - 300 
+Szene
+	ID:	24493
+	Beschreibung:	In the central niche dextrarum iunctio. In the other niches between the columns are depictions of the Seasons.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	98
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	60
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Pisa
+	Name:	Chiesa San Pietro in Vinculis o San Pierino
+	Rechteinhaber der Fotos:	© Pisa
+	Hat die Fotorechte:	0

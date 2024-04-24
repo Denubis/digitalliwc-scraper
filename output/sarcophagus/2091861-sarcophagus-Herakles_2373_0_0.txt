@@ -1,0 +1,31 @@
+http://ark.dasch.swiss/ark:/72163/080e-74d26a932c72e-2
+Herakles_2373_0_0
+
+
+
+Monument
+	ID:	21372
+	Entdeckungsort:	Apamea
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Herakles
+	Beschreibung:	Herakles attacks the Cretan Bull with his club.
+Szene
+	ID:	22328
+	Beschreibung:	Herakles attacks the Cretan Bull with his club.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2373
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	TR
+	Stadt:	Afyon
+	Name:	Musée Archéologique
+	Rechteinhaber der Fotos:	© Archaeological Museum Afyon
+	Hat die Fotorechte:	1

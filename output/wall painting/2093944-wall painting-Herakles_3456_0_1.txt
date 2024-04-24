@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-74f0322eeb91d-8
+Herakles_3456_0_1
+
+
+
+Monument
+	ID:	23465
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 4,26 (Casa di Bacco)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Herakles
+	Beschreibung:	A Lar with a rhyton and situla, Herakles, an altar with a piper beyond, a genius with cornucopia and patera, and another Lar (lost).
+Datierung
+	Periode:	50 
+Szene
+	ID:	24633
+	Beschreibung:	A Lar with a rhyton and situla, Herakles, an altar with a piper beyond, a genius with cornucopia and patera, and another Lar (lost).
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	3456
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VII 4,26-27
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1

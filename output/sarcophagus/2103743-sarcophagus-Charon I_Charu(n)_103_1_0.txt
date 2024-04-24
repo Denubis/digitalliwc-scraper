@@ -1,0 +1,64 @@
+http://ark.dasch.swiss/ark:/72163/080e-757c49b7490c0-1
+Charon I/Charu(n)_103_1_0
+
+
+
+Monument
+	ID:	33344
+	Entdeckungsort:	Tarquinia
+	Objekt:	sarcophagus
+	Material:	nenfro
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	knife torch hammer, mallet, sphyra, malleus winged figure kneeling (hikesia, request, worship?)
+	Name:	Charon I/Charu(n) Vanth
+	Beschreibung:	In der Mitte ein Mann in Toga (wohl der Verstorbene), flankiert von zwei Charun-Figuren in Rock mit Kreuzbandgürtung und Tierohren, die ihren Hammer nach ihm schwingen. Links folgt ein Mann mit Messer und eine geflügelte Vanth mit Fackel, auf der rechten Seite eine weitere Vanth und zwei knieende nackte junge Männer. On the lid a recumbent terracorra figure, Laris Pulenas (name mentioned), unfolding a roll which contains his elogium, where the word haruspex occurs
+	Bibliographie:	Cristofnai, M., in Civiltà degli Etruschi (1985) 350, 15.1.6; Herbig, R., Die jüngeretruskischen Steinsarkophage, SarkRel VII (1952) Nr. 111 Taf. 70a. 
+Datierung
+	Periode:	-300 - -250 
+Epoche
+	Name:	1. Hälfte 3. Jh. v. Chr.
+	Periode:	-300 - -250 
+	Sequenznummer:	2610
+Szene
+	ID:	35026
+	Beschreibung:	In der Mitte ein Mann in Toga (wohl der Verstorbene), flankiert von zwei Charun-Figuren in Rock mit Kreuzbandgürtung und Tierohren, die ihren Hammer nach ihm schwingen. Links folgt ein Mann mit Messer und eine geflügelte Vanth mit Fackel, auf der rechten Seite eine weitere Vanth und zwei knieende nackte junge Männer. On the lid a recumbent terracorra figure, Laris Pulenas (name mentioned), unfolding a roll which contains his elogium, where the word haruspex occurs
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/museo_nazionale_di_tarquinia/35026X301.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	12
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	III. 6.a. Divination, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	1910
+	Bandnummer:	3
+Catalog LIMC
+	Artikel:	Charon I/Charu(n)
+	Katalognummer:	103
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9804
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Museo Nazionale di Tarquinia
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

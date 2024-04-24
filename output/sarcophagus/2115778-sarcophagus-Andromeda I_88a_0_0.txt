@@ -1,0 +1,30 @@
+http://ark.dasch.swiss/ark:/72163/080e-762858d30cd0f-4
+Andromeda I_88a_0_0
+
+
+
+Monument
+	ID:	45495
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Name:	Andromeda I
+	Beschreibung:	Fragment.
+	Bibliographie:	Battaglia, G., Capitolium 9 (1933) 459 Anm. 15. (erwähnt)
+Szene
+	ID:	47892
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Andromeda I
+	Katalognummer:	88a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Pensionato artistico
+	Rechteinhaber der Fotos:	© Palazzo Pensionato artistico, Roma
+	Hat die Fotorechte:	1

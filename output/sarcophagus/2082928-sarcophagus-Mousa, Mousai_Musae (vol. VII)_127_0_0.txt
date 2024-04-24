@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-7452b487e73f5-6
+Mousa, Mousai/Musae (vol. VII)_127_0_0
+
+
+
+Monument
+	ID:	12360
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Asia Minor
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Mousa, Mousai
+Szene
+	ID:	12660
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	127
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	20
+Museum
+	Land:	TR
+	Stadt:	Bursa
+	Name:	Musée Archéologique
+	Direktor:	Mme le Dr. Pascale Linant de Bellefonds
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-92023
+	Kontaktzenter:	Université Paris X - Nanterre Maison de l'Archéologie / Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Archaeological Museum Bursa
+	Hat die Fotorechte:	1

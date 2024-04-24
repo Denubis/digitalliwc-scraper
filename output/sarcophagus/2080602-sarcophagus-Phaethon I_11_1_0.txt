@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-7431739000807-e
+Phaethon I_11_1_0
+
+
+
+Monument
+	ID:	10016
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Phaethon I
+	Beschreibung:	On the right Phaethon (I) in front of Helios, in the presence of Klymene, one of the Winds and a marine deity. On the rest of the panel the fall of Phaethon (I) is depicted: Phaethon (I) falls into Eridanos, accompanied by Keraunos, in the presence of a paidagogus, Kyknos, two Heliades, Helios, several local deities, Eros and the Dioskouroi on the left as well as of Zeus, two Winds and other local deities on the right. Aurora and two Winds stop the horses.
+Szene
+	ID:	10234
+	Beschreibung:	On the right Phaethon (I) in front of Helios, in the presence of Klymene, one of the Winds and a marine deity. On the rest of the panel the fall of Phaethon (I) is depicted: Phaethon (I) falls into Eridanos, accompanied by Keraunos, in the presence of a paidagogus, Kyknos, two Heliades, Helios, several local deities, Eros and the Dioskouroi on the left as well as of Zeus, two Winds and other local deities on the right. Aurora and two Winds stop the horses.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/museo_dell_opera_del_duomo/10234X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Phaethon I
+	Katalognummer:	11
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Firenze
+	Name:	Museo dell'Opera del Duomo
+	Rechteinhaber der Fotos:	© Museo dell'Opera del Duomo, Firenze
+	Hat die Fotorechte:	1

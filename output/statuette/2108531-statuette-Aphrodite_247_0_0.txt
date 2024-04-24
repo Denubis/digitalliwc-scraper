@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-75c0bd66c7944-9
+Aphrodite_247_0_0
+
+
+
+Monument
+	ID:	38177
+	Entdeckungsort:	Pompei
+	Objekt:	statuette
+	Material:	marble
+	Land:	CH
+	Kategorie:	sculpture in the round
+	Name:	Aphrodite
+	Beschreibung:	Fragment.
+	Bibliographie:	Guida Ruesch 456 no. 1925; Lippold, GrPl 200 n. 9; Fuchs, W., in Neue Beiträge..., Festschr. B. Schweitzer (1954) 215 n. 48. 
+Szene
+	ID:	40151
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Aphrodite
+	Katalognummer:	247
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1805
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

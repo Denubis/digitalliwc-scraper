@@ -1,0 +1,74 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d6c85d719a9-1
+Iuno_83_0_0
+Homonoia/Concordia_78_1_0
+Venus_335_0_0
+
+
+
+Monument
+	ID:	3618
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Name:	Dioskouroi Helios/Sol Luna Zeus/Iuppiter Iuno Tyche/Fortuna Athena/Minerva Homonoia/Concordia Venus
+	Beschreibung:	Marriage scene: The bridal couple is depicted as performing a rite on an altar. Venus stands next to the bride. On the lid a cosmogonic composition: in the centre the Dioskouroi and the chariots of Sol and Luna, Iuppiter, Iuno, Fortuna and Minerva, the three Parcae.
+	Bibliographie:	SarkRel I 3 (2006) 116-123.
+Datierung
+	Periode:	190 - 200 
+	Kommentar:	about
+Epoche
+	Name:	4. Viertel 2. Jh. n. Chr.
+	Periode:	175 - 200 
+	Sequenznummer:	3230
+Szene
+	ID:	22998
+	Szenerieangabe:	couvercle
+	Beschreibung:	On the lid a cosmogonic composition: in the centre the Dioskouroi and the chariots of Sol and Luna, Iuppiter, Iuno, Fortuna and Minerva, the three Parcae.
+	Sequenznummer:	20
+Catalog LIMC
+	Artikel:	Iuno
+	Katalognummer:	83
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49984
+	Beschreibung:	Marriage scene: The bridal couple is depicted as performing a rite on an altar. Venus stands next to the bride. 
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/49984X001.jpg
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	3
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VI. 1.c. Heirat, röm.
+	Bandnummer:	6
+Catalog LIMC
+	Artikel:	Homonoia/Concordia
+	Katalognummer:	78
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Venus
+	Katalognummer:	335
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1089
+Museum
+	Land:	VA
+	Stadt:	Vaticano
+	Name:	Musei Vaticani
+	Direktor:	Direttore Dott. Antonio Paolucci
+	Anrede:	Chiarissimo Direttore,
+	Postleitzahl:	I-00120
+	Kontaktzenter:	Monumenti, Musei e Gallerie Pontificie
+	Stadt des Kontaktzenters:	Città del Vaticano
+	Rechteinhaber der Fotos:	© Musei Vaticani
+	Kommentar:	Sont réunis sous cette dénomination générique - compte tenu à la fois de leur numérotation unique et de leurs déplacements à l'intérieur des musées - les monuments conservés dans le Museo Chiaramonti, le Museo Gregoriano Etrusco, le Museo Gregoriano Profano, le Museo Pio Clementino et le Museo Pio Cristiano.  En revanche, la localisation spécifique a été conservée dans les cas suivants: Basilica San Pietro, Biblioteca Apostolica Vaticana (et Museo Profano, Museo Sacro, Sala delle Nozze Aldobrandine), Camposanto Teutonico, Giardini, Medagliere Vaticano, Museo Gregoriano Egizio, Necropoli sotto San Pietro.
+	Hat die Fotorechte:	0

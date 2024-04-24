@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-755d2dbc38640-e
+Dionysos/Bacchus (in per. occ.) (vol. IV)_170_0_0
+
+
+
+Monument
+	ID:	31149
+	Objekt:	sarcophagus lid
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dionysos/Bacchus
+Szene
+	ID:	32666
+	Szenerieangabe:	couvercle
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/frankfurt_am_main/liebieghaus/museum_alter_plastik/32666X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus (in per. occ.) (vol. IV)
+	Katalognummer:	170
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	343
+Museum
+	Land:	DE
+	Stadt:	Frankfurt am Main
+	Name:	Liebieghaus, Museum Alter Plastik
+	Direktor:	Prof. Dr. Vinzenz Brinkmann
+	Adresse:	Schaumainkai 71
+	Postleitzahl:	D-60596
+	Kontaktzenter:	Liebieghaus, Museum Alter Plastik
+	Stadt des Kontaktzenters:	Frankfurt am Main
+	Rechteinhaber der Fotos:	© Liebieghaus
+	Hat die Fotorechte:	1

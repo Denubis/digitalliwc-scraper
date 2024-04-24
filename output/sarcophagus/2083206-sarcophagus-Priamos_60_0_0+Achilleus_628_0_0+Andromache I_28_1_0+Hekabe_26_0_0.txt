@@ -1,0 +1,57 @@
+http://ark.dasch.swiss/ark:/72163/080e-7456adfceb7e3-1
+Priamos_60_0_0
+Achilleus_628_0_0
+Andromache I_28_1_0
+Hekabe_26_0_0
+
+
+
+Monument
+	ID:	12638
+	Entdeckungsort:	Reggio Calabria (Rhegion)
+	Objekt:	sarcophagus
+	Material:	limestone
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	wall, Town wall horse Phrygian cap war-chariot, harma, currus
+	Name:	Achilleus Andromache I Hekabe Ilion Priamos
+	Beschreibung:	Fragment. Priamos on the walls of Troy and a mourning Hekabe watch Achilleus on his chariot dragging the corpse of Hektor. The body of Hektor is not preserved.
+	Bibliographie:	Putorti, N., NotSc 1924, 89-90 Abb. 1; Lehmann-Hartleben, K., AA 1926, 160 Abb. 29; Giuliano, A., Il commercio dei sarcofagi attici (1962), 59 Nr. 367.
+Szene
+	ID:	12942
+	Beschreibung:	Priamos on the walls of Troy and a mourning Hekabe watch Achilleus on his chariot dragging the corpse of Hektor. The body of Hektor is not preserved.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Priamos
+	Katalognummer:	60
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	628
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Andromache I
+	Katalognummer:	28
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hekabe
+	Katalognummer:	26
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Reggio Calabria
+	Name:	Museo Nazionale Archeologico
+	Direktor:	Soprintendente Dott.ssa Caterina Greco
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Piazza De Nava 26
+	Postleitzahl:	I-89122
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici per la Calabria Dott. Giovanni Calafiore, Ufficio Servizi Aggiuntivi
+	Stadt des Kontaktzenters:	Reggio Calabria
+	Rechteinhaber der Fotos:	© Museo Nazionale Archeologico Reggio Calabria
+	Hat die Fotorechte:	1

@@ -1,0 +1,48 @@
+http://ark.dasch.swiss/ark:/72163/080e-7617ef3d2eda3-1
+Amazones_522_0_0
+Achilleus_778_0_0
+
+
+
+Monument
+	ID:	44324
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	helmet horse warrior, soldier Amazon fight, battle
+	Name:	Achilleus Penthesileia
+	Bibliographie:	SarkRel II Nr. 86 Taf 36; Redlich, R. Die Amazonensarkophage des 2. und 3. Jh. n. Chr. (1942) 60-62 Taf 4; Tusa, V., Sarcofagi romani in Sicilia (1967) Nr. 29 Abb. 62-65 pl. 38-40.
+Datierung
+	Periode:	190 - 210 
+Epoche
+	Name:	um 200 n. Chr.
+	Periode:	190 - 210 
+	Sequenznummer:	3270
+Szene
+	ID:	46612
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/mazara_del_vallo/duomo/46612X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	522
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	778
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel II 86
+Museum
+	Land:	IT
+	Stadt:	Mazara del Vallo
+	Name:	Duomo
+	Rechteinhaber der Fotos:	© Duomo, Mazara del Vallo
+	Hat die Fotorechte:	1

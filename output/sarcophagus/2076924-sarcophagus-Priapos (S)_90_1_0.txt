@@ -1,0 +1,52 @@
+http://ark.dasch.swiss/ark:/72163/080e-73fcde62b23b1-b
+Priapos (S)_90_1_0
+
+
+
+Monument
+	ID:	6302
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Rome
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	altar fire (on altar) column cult image, cult statue cock sacrificial animal veil tray, lanx, catinus
+	Name:	Priapos
+	Beschreibung:	Rechts Priaposstatuette auf hoher Säule. Davor Frau in gebückter Haltung mit über den Hinterkopf gezogenem Mantel, die einen Hahn über einen kleinen Altar (Flammen?) hält. Neben ihr stehende Frau, ebenfalls mit verschleiertem Hinterhaupt, mit Opfertablett mit Gegenständen darauf auf dem Kopf. Hinter ihnen männliche Figuren, Theatermaske.
+	Bibliographie:	CSIR Polen II 2 (1992) Nr. 54 Taf. 26.
+	Kommentar:	Fragment.
+Datierung
+	Periode:	200 - 300 
+Epoche
+	Name:	3. Jh. n. Chr.
+	Periode:	200 - 300 
+	Sequenznummer:	3280
+Szene
+	ID:	6427
+	Beschreibung:	Rechts Priaposstatuette auf hoher Säule. Davor Frau in gebückter Haltung mit über den Hinterkopf gezogenem Mantel, die einen Hahn über einen kleinen Altar (Flammen?) hält. Neben ihr stehende Frau, ebenfalls mit verschleiertem Hinterhaupt, mit Opfertablett mit Gegenständen darauf auf dem Kopf. Hinter ihnen männliche Figuren, Theatermaske.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/poland/cracovie/musee_czartoryski/6427X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Priapos (S)
+	Katalognummer:	90
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	DMNKCz 1986
+Museum
+	Land:	PL
+	Stadt:	Cracovie
+	Name:	Musée Czartoryski
+	Direktor:	Director Prof. Dr. Janusz A. Ostrowski
+	Anrede:	Dear Professor,
+	Adresse:	Ul. Sw. Jana19
+	Postleitzahl:	PL-31-017
+	Kontaktzenter:	Musée Czartoryski Muzeum Narodowe w Krakowie
+	Stadt des Kontaktzenters:	Cracovie
+	Rechteinhaber der Fotos:	© Musée Czartoryski, Cracovie
+	Hat die Fotorechte:	0

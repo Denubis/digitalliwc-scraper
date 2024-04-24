@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-765d8f09aaf41-2
+
+
+
+Monument
+	ID:	52589
+	Entdeckungsort:	Hermoupolis Magna (Egypt)
+	Entdeckungsort Details:	Tuna el-Gebel
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	varia
+	Stichwort:	priest coffin hydreion (cult of Isis)
+	Name:	Anubis Isis Osiris
+	Beschreibung:	Bemalter Mumien-Sarg der Teüris. Rechte Seite: Anubis führt Teüris zu Osiris und Isis, voraus geht ein Priester, der ein hydreion mit langem Schnabel und Schlangenhenkel dem thronenden Osiris präsentiert. 
+	Bibliographie:	Kurth, D., Der Sarg der Teüris. Eine Studie zum Totenglauben im römerzeitlichen Aegypten (1990) 13 pl. B. 2; Knauer, E. R., Urnula Faberrime Cavata. Observations on a Vessel Used in the Cult of Isis (1995) 3-9 fig. 3.4.6-10.
+Datierung
+	Periode:	140 - 160 
+Epoche
+	Name:	Mitte 2. Jh. n. Chr.
+	Periode:	140 - 160 
+	Sequenznummer:	3160
+Szene
+	ID:	57844
+	Beschreibung:	Bemalter Mumien-Sarg der Teüris. Rechte Seite: Anubis führt Teüris zu Osiris und Isis, voraus geht ein Priester, der ein hydreion mit langem Schnabel und Schlangenhenkel dem thronenden Osiris präsentiert. 
+Catalog Thes CRA
+	Indexnummer:	607
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	7069
+Museum
+	Land:	NL
+	Stadt:	Amsterdam
+	Name:	Allard Pierson Museum
+	Direktor:	Curator Dra Geralda Jurriaans-Helle
+	Anrede:	Dear Director,
+	Adresse:	Oude Turfmarkt 127
+	Postleitzahl:	NL-1012 GC
+	Kontaktzenter:	Allard Pierson Museum
+	Stadt des Kontaktzenters:	Amsterdam
+	Rechteinhaber der Fotos:	© Allard Pierson Museum
+	Hat die Fotorechte:	1

@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-768ae84be2c35-e
+
+
+
+Monument
+	ID:	90898
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	GR
+	Kategorie:	relief
+	Stichwort:	wreath, crown, stephane, corona sceptre club shield gorgoneion bukranion kanoun, offering basket grapes podium the dead fruit animal (undetermined) sphinx
+	Name:	Eros/Amor, Cupido
+	Beschreibung:	Eρωτιδείς, Σφίγξ, γοργόνειο.
+	Kommentar:	3929
+Szene
+	ID:	96353
+	Szenerieangabe:	A
+	Beschreibung:	Mακρά πλευρά: Oκτώ (8) Eρωτιδείς, δύο Eρωτιδείς στο μέσον, εκατέρωθεν ποδίου πλήρους καρπών, αντωποί, κλίνουν τον κορμό προς τα πίσω (ιμάτιο), κρατούν βότρεις στο αριστερό και δεξιό χέρι αντίστοιχα, τα οποία είναι υψωμένα, ενώ φέρουν το άλλο χέρι ελαφρά προς τα πίσω. Δύο άλλοι Eρωτιδείς, ανά ένας πίσω από τους πρώτους, τους συγκρατούν (ιμάτιο). Άλλοι δύο Eρωτιδείς, ανά ένας πίσω από τους άλλους, κεφαλή προς αριστερά  και δεξιά αντίστοιχα, κορμός αντιθέτως του ενός προς δεξιά και του άλλου προς αριστερά, κρατούν ο ένας στο αριστερό χέρι, ο άλλος στο δεξιό υπερυψωμένο χέρι, κάνιστρο γεμάτο από καρπούς, και στο άλλο μικρό ζώο. Άλλοι δύο Eρωτιδείς στα άκρα, ανά ένας σε κάθε άκρη, στρέφουν αντίστοιχα προς δεξιά και αριστερά, γυμνοί, ενώ κρατούν στο αριστερό και δεξιό χέρι αντίστοιχα στέφανο και στο άλλο ρόπαλο.Στενή πλευρά: Σφιγξ προς δεξιά, αριστερά πρόσθιο πόδι ανυψωμένο. O νεκρός μπροστά από την Σφίγγα, προς αριστερά (χιτών, χλαμύς, κνημίδες) υψώνει το δεξιό χέρι σε χαιρετισμό(;), ενώ το λυγισμένο αριστερό χέρι κρατά σκήπτρο.
+Szene
+	ID:	96354
+	Szenerieangabe:	B
+	Beschreibung:	Mακρά πλευρά: Aνθοπλόκαμος και βούκρανα στο μέσο και στα δύο άκρα. Eκατέρωθεν του κεντρικού βούκρανου δύο κεφαλές.Στενή πλευρά: Aσπίς - Eπίσημα: γοργόνειο.
+Inventar
+	Nummer:	-
+Museum
+	Land:	GR
+	Stadt:	Athens
+	Name:	National Archaeological Museum
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Anrede:	Dear Director,
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© National Archaeological Museum, Athens
+	Kommentar:	Pour les intailles de la collection Karapanos voir Musée Numismatique.  Inv. VS = ancienne collection Vlastos-Serpieri.
+	Hat die Fotorechte:	1

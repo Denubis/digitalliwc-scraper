@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-7510a6323e1f3-7
+Herakles_3508_0_0
+
+
+
+Monument
+	ID:	25756
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Herakles
+	Beschreibung:	Fortuna with staff and wheel holds out a cornucopia to Herakles. Herakles is wreathed, with club, lionskin, bow and sword.
+Datierung
+	Periode:	100 - 200 
+Szene
+	ID:	27038
+	Beschreibung:	Fortuna with staff and wheel holds out a cornucopia to Herakles. Herakles is wreathed, with club, lionskin, bow and sword.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	3508
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	DE
+	Stadt:	Bad Homburg
+	Name:	Saalburgmuseum
+	Direktor:	Herrn Dr. Wolfgang Schmidt
+	Adresse:	Saalburg-Kastell
+	Postleitzahl:	D-61350
+	Kontaktzenter:	Saalburgmuseum
+	Stadt des Kontaktzenters:	Bad Homburg
+	Rechteinhaber der Fotos:	© Saalburgmuseum, Bad Homburg
+	Hat die Fotorechte:	1

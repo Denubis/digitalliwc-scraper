@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e1222536acd-4
+Oineus I (S)_44_1_0
+
+
+
+Monument
+	ID:	4345
+	Objekt:	sarcophagus
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Oineus I
+	Beschreibung:	Depiction of the Kalydonian Boar hunt: At left Oineus with scpetre raises his hand.
+Szene
+	ID:	4396
+	Beschreibung:	Depiction of the Kalydonian Boar hunt: At left Oineus with scpetre raises his hand.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/portici/palazzo_reale_gia/4396X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/portici/palazzo_reale_gia/4396X203.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/portici/palazzo_reale_gia/4396X299.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Oineus I (S)
+	Katalognummer:	44
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Portici
+	Name:	Palazzo Reale (già)
+	Rechteinhaber der Fotos:	© Palazzo Reale (once), Portici
+	Hat die Fotorechte:	0

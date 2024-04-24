@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-75b83f691162a-8
+Dioskouroi/Castores_99_0_0
+
+
+
+Monument
+	ID:	37579
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dioskouroi/Castores
+Szene
+	ID:	39495
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Dioskouroi/Castores
+	Katalognummer:	99
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Catacomba di Pretestato
+	Rechteinhaber der Fotos:	© Catacomba di Pretestato, Roma
+	Hat die Fotorechte:	0

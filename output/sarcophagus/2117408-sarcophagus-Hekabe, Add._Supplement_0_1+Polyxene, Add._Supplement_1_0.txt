@@ -1,0 +1,84 @@
+http://ark.dasch.swiss/ark:/72163/080e-763fa67d78965-2
+Hekabe, Add._Supplement_0_1
+Polyxene, Add._Supplement_1_0
+
+
+
+Monument
+	ID:	50375
+	Entdeckungsort:	Gümüsçay
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Asia Minor
+	Land:	CH
+	Kategorie:	relief
+	Name:	Hekabe Polyxene
+	Beschreibung:	Sur un des longs côtés est figuré en léger relief le sacrifice de Polyxène: à dr., un trépied et le tertre funéraire devant lequel un Grec égorge la jeune fille tenue par trois autres jeunes gens, la gorge tournée vers le haut: à g., deux hommes et quatre femmes pleurent sa mort atroce. On one of the short sides: aged woman wrapped into a himation sitting at the feet of a tree, holding a staff ; behind her two mourners; probably Hekabe lamenting the sacrifice of Polyxena
+	Bibliographie:	Sevinç, N., Studia Troica 6, 1996, 251-264; Sevinç, N., Studia Troica 8 (1998) 314 ff.; Sevinç, N. / Rose, C. B., Studia Troica 9 (1999) 489-509; Oezgen, I./ Oeztürk, J., Heritage Recovered. The Lydian Treasure (1996) 56; Lesky, M., Untersuchungen zur Ikonographie und Bedeutung antiker Waffentänze in Griechenland und Etrurien (2000) 230 s. 274 S 1 fig. 46; Rose, C. B., in Radt, W. (ed.), Stadtgrabungen und Stadtforschung im westlichen Kleinasien, BYZAS 3 (2006) 143-146 fig. 9.
+Datierung
+	Periode:	-540 - -520 
+Epoche
+	Name:	2. Hälfte 6. Jh. v. Chr.
+	Periode:	-550 - -500 
+	Sequenznummer:	2200
+Datierung
+	Periode:	-510 - -490 
+Epoche
+	Name:	um 500 v. Chr.
+	Periode:	-510 - -490 
+	Sequenznummer:	2280
+Szene
+	ID:	55528
+	Beschreibung:	Sur un des longs côtés est figuré en léger relief le sacrifice de Polyxène: à dr., un trépied et le tertre funéraire devant lequel un Grec égorge la jeune fille tenue par trois autres jeunes gens, la gorge tournée vers le haut: à g., deux hommes et quatre femmes pleurent sa mort atroce. On one of the short sides: aged woman wrapped into a himation sitting at the feet of a tree, holding a staff ; behind her two mourners; probably Hekabe lamenting the sacrifice of Polyxena
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	125
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 4.b. Tanz
+	Sequenznummer:	1500
+	Bandnummer:	2
+Catalog Thes CRA
+	Indexnummer:	596
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 2.a. Opfer, gr.
+	Kurzname:	Gr.
+	Sequenznummer:	180
+	Bandnummer:	1
+Catalog Thes CRA
+	Indexnummer:	250
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 4.a. Bankett, gr.
+	Kurzname:	Gr.
+	Sequenznummer:	1410
+	Bandnummer:	2
+Catalog LIMC
+	Artikel:	Hekabe, Add.
+	Band:	Supplement
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Polyxene, Add.
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	TR
+	Stadt:	Çanakkale
+	Name:	Musée
+	Direktor:	Prof. Kutalmis Görkay
+	Adresse:	Dil ve Tarih, Cografya Fakültesi
+	Postleitzahl:	TR-06100
+	Kontaktzenter:	Ankara Üniversitesi
+	Stadt des Kontaktzenters:	Sihhiye Ankara / Türkei
+	Rechteinhaber der Fotos:	© Çanakkale Museum
+	Hat die Fotorechte:	1

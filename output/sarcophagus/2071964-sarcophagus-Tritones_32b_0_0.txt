@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-73b5f531b5ad1-2
+Tritones_32b_0_0
+
+
+
+Monument
+	ID:	1305
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Tritones
+Szene
+	ID:	1211
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Tritones
+	Katalognummer:	32b
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Torlonia
+	Adresse:	Via della Conciliazione 30
+	Postleitzahl:	I-00193
+	Kontaktzenter:	Amministrazione Principe Torlonia
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Museo Torlonia, Roma
+	Hat die Fotorechte:	1

@@ -1,0 +1,82 @@
+http://ark.dasch.swiss/ark:/72163/080e-74c643a519f14-1
+Iphigeneia_56_0_0
+Iphigeneia_75_1_0
+Erinys_80_1_0
+Eros/Amor, Cupido_193_0_0
+
+
+
+Monument
+	ID:	20513
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	altar base sword fire (on altar) tree temple cult image, cult statue altar in shape of hour-glass
+	Name:	Erinys Iphigeneia Eros/Amor, Cupido
+	Beschreibung:	Kleiner sanduhrförmiger Altar im taurischen Artemisheiligtum. Es handelt sich um einen tragbaren, metallenen Altar mir gerippter Wandung und kleinen Füßchen. Feuer.
+	Bibliographie:	SarkRel II n. 167;Koch/Sichtermann, RömSark 171 fig. 195;Parra, M.C., Prospettiva 13, 1978, 53-55 fig. 14-14a.
+Datierung
+	Periode:	140 - 150 
+Epoche
+	Name:	1. Hälfte 2. Jh. n. Chr.
+	Periode:	100 - 150 
+	Sequenznummer:	3180
+Szene
+	ID:	21424
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/muenchen/staatliche_antikensammlungen_und_glyptothek/21424X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/muenchen/staatliche_antikensammlungen_und_glyptothek/21424X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/muenchen/staatliche_antikensammlungen_und_glyptothek/21424X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/muenchen/staatliche_antikensammlungen_und_glyptothek/21424X103.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Iphigeneia
+	Katalognummer:	56
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iphigeneia
+	Katalognummer:	75
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Erinys
+	Katalognummer:	80
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	34216
+	Szenerieangabe:	couvercle
+	Sequenznummer:	20
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	193
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Gl 363
+Museum
+	Land:	DE
+	Stadt:	München
+	Name:	Staatliche Antikensammlungen und Glyptothek
+	Direktor:	Dr. Yvonne Schmuhl
+	Adresse:	Meiserstrasse 10
+	Postleitzahl:	D-80333
+	Kontaktzenter:	Staatliche Antikensammlungen und Glyptothek
+	Stadt des Kontaktzenters:	München
+	Rechteinhaber der Fotos:	© Staatliche Antikensammlungen und Glyptothek, München
+	Hat die Fotorechte:	1

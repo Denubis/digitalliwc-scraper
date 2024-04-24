@@ -1,0 +1,48 @@
+http://ark.dasch.swiss/ark:/72163/080e-75b929a52876a-b
+Eros/Amor, Cupido_ad 317_0_0
+Kairoi/Tempora anni_115_0_0
+Kairoi/Tempora anni_221_0_0
+
+
+
+Monument
+	ID:	37644
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kairoi/Tempora anni Eros/Amor, Cupido
+	Beschreibung:	On the lid: On both sides of a tablet two bigae with the Seasons.
+Szene
+	ID:	39562
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 317
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49619
+	Szenerieangabe:	couvercle
+	Beschreibung:	On the lid: On both sides of a tablet two bigae with the Seasons.
+	Sequenznummer:	20
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	115
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	221
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel V 4, 319
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Catacomba di S. Croce
+	Rechteinhaber der Fotos:	© Roma
+	Hat die Fotorechte:	0

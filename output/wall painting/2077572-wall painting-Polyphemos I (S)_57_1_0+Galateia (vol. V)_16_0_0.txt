@@ -1,0 +1,49 @@
+http://ark.dasch.swiss/ark:/72163/080e-740622031be59-7
+Polyphemos I (S)_57_1_0
+Galateia (vol. V)_16_0_0
+
+
+
+Monument
+	ID:	6953
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 10,1
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Galateia Polyphemos I
+	Beschreibung:	Galateia and Polyphemos: Polyphemos seated on stones, lifting his arm against Galateia who rides a dolphin.
+Szene
+	ID:	7099
+	Beschreibung:	Galateia and Polyphemos: Polyphemos seated on stones, lifting his arm against Galateia who rides a dolphin.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/7099X002.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Polyphemos I (S)
+	Katalognummer:	57
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Galateia (vol. V)
+	Katalognummer:	16
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VI 10,1
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1

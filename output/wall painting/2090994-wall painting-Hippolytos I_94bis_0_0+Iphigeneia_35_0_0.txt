@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-74c6056d23cff-d
+Hippolytos I_94bis_0_0
+Iphigeneia_35_0_0
+
+
+
+Monument
+	ID:	20496
+	Entdeckungsort:	Stabiae
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Hippolytos I Iphigeneia
+Szene
+	ID:	21407
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	94bis
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iphigeneia
+	Katalognummer:	35
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Castellammare di Stabia
+	Name:	Villa di S. Marco
+	Rechteinhaber der Fotos:	© Villa di S. Marco, Castellammare di Stabia
+	Hat die Fotorechte:	1

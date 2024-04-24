@@ -1,0 +1,30 @@
+http://ark.dasch.swiss/ark:/72163/080e-7426be48c26a6-c
+Tellus_5_1_0
+
+
+
+Monument
+	ID:	9255
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Catacombs of the via Latina
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Tellus
+Szene
+	ID:	9457
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Tellus
+	Katalognummer:	5
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Cub. E
+Museum
+	Land:	IT
+	Stadt:	Roma, Via Latina
+	Name:	Catacomba di Via Latina
+	Rechteinhaber der Fotos:	© Catacomba di Via Latina, Roma
+	Hat die Fotorechte:	1

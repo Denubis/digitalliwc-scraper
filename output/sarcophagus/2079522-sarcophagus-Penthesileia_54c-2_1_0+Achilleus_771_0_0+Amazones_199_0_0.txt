@@ -1,0 +1,53 @@
+http://ark.dasch.swiss/ark:/72163/080e-742202d9fb0ef-5
+Penthesileia_54c-2_1_0
+Achilleus_771_0_0
+Amazones_199_0_0
+
+
+
+Monument
+	ID:	8921
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	sword horse Amazon fight, battle rider
+	Name:	Achilleus Penthesileia Amazones
+	Beschreibung:	Penthesileia and Achilleus.
+	Bibliographie:	SarkRel II Nr. 89 Taf. 38; Redlich, R., Die Amazonensarkophage des 2. und 3. Jh. n. Chr. (1942) 79-81 Taf. 5; Calza, R., Antichità di Villa Doria Pamphilij (1977) Nr. 168 Taf. 107.
+Datierung
+	Periode:	200 - 210 
+Epoche
+	Name:	Anfang 3. Jh. n. Chr.
+	Periode:	200 - 210 
+	Sequenznummer:	3290
+Szene
+	ID:	9123
+	Beschreibung:	Penthesileia and Achilleus.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Penthesileia
+	Katalognummer:	54c-2
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	771
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	199
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Calza 168
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Doria Pamphilj
+	Rechteinhaber der Fotos:	© Villa Doria Pamphilj, Roma
+	Kommentar:	Numéros d'après Calza, R. (éd.), Antichità di Villa Doria Pamphilj (1977).
+	Hat die Fotorechte:	1

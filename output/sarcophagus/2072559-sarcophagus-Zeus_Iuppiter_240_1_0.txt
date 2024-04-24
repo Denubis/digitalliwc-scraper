@@ -1,0 +1,53 @@
+http://ark.dasch.swiss/ark:/72163/080e-73be76d85c3b0-6
+Zeus/Iuppiter_240_1_0
+
+
+
+Monument
+	ID:	1908
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Name:	Zeus/Iuppiter
+	Beschreibung:	ensa nach l. mit Wagenführer. Auf dem Sarkophagkasten Darstellung des Iuppiter und der Dioskuren.
+	Museums-URL:	http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=459902&partId=1&searchText=1805,0703.145&from=bc&fromDate=800&to=ad&toDate=400&page=1
+Szene
+	ID:	49570
+	Beschreibung:	ensa nach l. mit Wagenführer. Auf dem Sarkophagkasten Darstellung des Iuppiter und der Dioskuren.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/british_museum/49570X001.jpg
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	41
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 1. Prozessionen, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	100
+	Bandnummer:	1
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	240
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	1805.7-3.145
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	British Museum
+	Direktor:	Dr. Charles Arnold
+	Adresse:	Great Russell Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	British Museum - Greek and Roman Antiquities
+	Stadt des Kontaktzenters:	London WC 1B 3DG
+	Rechteinhaber der Fotos:	© British Museum, London
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2310

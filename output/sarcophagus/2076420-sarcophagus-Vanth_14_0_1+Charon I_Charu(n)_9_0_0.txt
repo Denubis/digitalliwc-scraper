@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-73f5a9c97c7d9-d
+Vanth_14_0_1
+Charon I/Charu(n)_9_0_0
+
+
+
+Monument
+	ID:	5791
+	Entdeckungsort:	Vulci
+	Objekt:	sarcophagus
+	Material:	nenfro
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Charon I/Charu(n) Vanth
+	Beschreibung:	Vanth with woman, Charun.
+Szene
+	ID:	5894
+	Beschreibung:	Vanth with woman, Charun.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Vanth
+	Katalognummer:	14
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Charon I/Charu(n)
+	Katalognummer:	9
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Musignano
+	Rechteinhaber der Fotos:	© Musignano
+	Hat die Fotorechte:	0

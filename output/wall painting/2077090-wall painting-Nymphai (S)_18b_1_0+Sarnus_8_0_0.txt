@@ -1,0 +1,53 @@
+http://ark.dasch.swiss/ark:/72163/080e-73ff3dee8e16f-7
+Nymphai (S)_18b_1_0
+Sarnus_8_0_0
+
+
+
+Monument
+	ID:	6469
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 1,6 (House of the Vestali)
+	Objekt:	wall painting
+	Material:	sardonyx
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Sarnus Nymphai
+	Beschreibung:	Reclinig river-god (Sarnus?) between nymphs.
+	Monument-URL:	http://www.limc-france.fr/objet/5182 
+Szene
+	ID:	6602
+	Beschreibung:	Reclinig river-god (Sarnus?) between nymphs.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/6602X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Nymphai (S)
+	Katalognummer:	18b
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Sarnus
+	Katalognummer:	8
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	P 2
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	MR 70

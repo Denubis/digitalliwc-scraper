@@ -1,0 +1,30 @@
+http://ark.dasch.swiss/ark:/72163/080e-7495a09aef322-6
+Apollon/Apollo_288_0_0
+
+
+
+Monument
+	ID:	17082
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+Szene
+	ID:	41566
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	288
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	GR
+	Stadt:	Sparte
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Sparta
+	Hat die Fotorechte:	0

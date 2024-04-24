@@ -1,0 +1,58 @@
+http://ark.dasch.swiss/ark:/72163/080e-7453e7f6c5899-7
+Mousa, Mousai/Musae (vol. VII)_188_1_0
+
+
+
+Monument
+	ID:	12444
+	Entdeckungsort:	unknown
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Name:	Mousa, Mousai
+	Beschreibung:	Life of a child: banquette scene with heroised child on a kline
+	Bibliographie:	Turcan, R., Sarcophages romains à représentations dionysiaques (1966) 407n. 2; Baratte, F., Catalogue des sarcophages en pierre d’époques romaines et paléochrétiennes, Musée du Louvre  (1985) 31-33.
+Datierung
+	Periode:	280 - 290 
+Epoche
+	Name:	4. Viertel 3. Jh. n. Chr.
+	Periode:	275 - 300 
+	Sequenznummer:	3370
+Szene
+	ID:	12745
+	Beschreibung:	Life of a child: banquette scene with heroised child on a kline
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/12745X001.jpg
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	142
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 4.a. Bankett, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	1430
+	Bandnummer:	2
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	188
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 1520
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

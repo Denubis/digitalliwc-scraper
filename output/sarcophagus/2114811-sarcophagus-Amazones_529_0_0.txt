@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-761a85af201ec-3
+Amazones_529_0_0
+
+
+
+Monument
+	ID:	44512
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	horse warrior, soldier Amazon fight, battle rider
+	Name:	Amazones
+	Beschreibung:	Fragments.
+	Bibliographie:	BCH 87, 1963, 694 fig.9-14; Giuliano, A./ Palma, B., La maniera ateniese di età romana, StudMisc 24 (1978), 23 A VI no.5. 
+Datierung
+	Periode:	195 
+	Kommentar:	about
+Epoche
+	Name:	Ende 2. Jh. n. Chr.
+	Periode:	190 - 200 
+	Sequenznummer:	3170
+Szene
+	ID:	46810
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	529
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	GR
+	Stadt:	Athens
+	Name:	Academy of Platon
+	Rechteinhaber der Fotos:	© Academy of Platon, Athens
+	Hat die Fotorechte:	1

@@ -1,0 +1,69 @@
+http://ark.dasch.swiss/ark:/72163/080e-740f23c29f127-3
+Stellae (S)_22_0_0
+Agathodaimon_8_1_0
+Selene, Luna_43_0_0
+Isis_314_0_0
+
+
+
+Monument
+	ID:	7587
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	IX 3,10-12
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	altar snake cornucopia rudder, oar pillar torch egg pine cone, fir cone plant horse pschent
+	Name:	Agathodaimon Eros/Amor, Cupido Isis Selene Stellae
+	Beschreibung:	Hesperos together with Luna and Isis-Fortuna.
+	Bibliographie:	Tran Tam Tinh, V., Le culte d'Isis à Pompéi (1964) no. 58 pl. 14, 1.
+Datierung
+	Periode:	1 - 100 
+Epoche
+	Name:	1. Jh. n. Chr.
+	Periode:	1 - 100 
+	Sequenznummer:	3000
+Szene
+	ID:	7769
+	Beschreibung:	Hesperos together with Luna and Isis-Fortuna.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/7769X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Stellae (S)
+	Katalognummer:	22
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Agathodaimon
+	Katalognummer:	8
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Selene, Luna
+	Katalognummer:	43
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Isis
+	Katalognummer:	314
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	IX 3,10-12
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1

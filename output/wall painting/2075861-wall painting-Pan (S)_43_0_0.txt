@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-73edabe4a2eae-3
+Pan (S)_43_0_0
+
+
+
+Monument
+	ID:	5226
+	Entdeckungsort:	Ercolano, Herculaneum, Herculanum
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Pan
+	Beschreibung:	Standing Pan with pedum and skin.
+Szene
+	ID:	5315
+	Beschreibung:	Standing Pan with pedum and skin.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Pan (S)
+	Katalognummer:	43
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9125
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

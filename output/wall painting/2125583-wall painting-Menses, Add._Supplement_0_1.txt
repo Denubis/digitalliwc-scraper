@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-76b486510c750-a
+Menses, Add._Supplement_0_1
+
+
+
+Monument
+	ID:	202115
+	Entdeckungsort:	Ercolano, Herculaneum, Herculanum
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	trumpet, tuba, salpinx shell
+	Name:	Menses
+	Beschreibung:	Lost. composite creature consicting of a youth and the zodiacal sign of cancer (Menses of midsummer) sounding the trumpet
+	Bibliographie:	Froehner, W., Notice de la sculpture antique du Musée du Louvre  I (1869) 25; Simon, E., Ein Zeichen des Zodiacus, Anadolou/Anatolia 25, 2003=Gedenkschrift E. Akurgal (2004) 140. 147 fig. 8. 
+Datierung
+	Periode:	1 
+	Kommentar:	Before 79 A.D.
+Szene
+	ID:	99109
+	Beschreibung:	composite creature consicting of a youth and the zodiacal sign of cancer (Menses of midsummer) sounding the trumpet
+Catalog LIMC
+	Artikel:	Menses, Add.
+	Band:	Supplement
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Portici
+	Name:	Palazzo Reale (già)
+	Rechteinhaber der Fotos:	© Palazzo Reale (once), Portici
+	Hat die Fotorechte:	0

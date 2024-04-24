@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d390e230784-5
+Zodiacus_11_1_0
+
+
+
+Monument
+	ID:	3393
+	Entdeckungsort:	Luxor
+	Objekt:	sarcophagus
+	Material:	wood
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Zodiacus
+	Beschreibung:	Sarcophagus of Soter: Zodiacus surrounding the goddess Nut.
+	Museums-URL:	http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=124333&partId=1&searchText=ea+6705&page=1
+Datierung
+	Periode:	50 - 100 
+Szene
+	ID:	3427
+	Beschreibung:	Sarcophagus of Soter: Zodiacus surrounding the goddess Nut.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Zodiacus
+	Katalognummer:	11
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	EA 6705
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	British Museum
+	Direktor:	Dr. Charles Arnold
+	Adresse:	Great Russell Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	British Museum - Greek and Roman Antiquities
+	Stadt des Kontaktzenters:	London WC 1B 3DG
+	Rechteinhaber der Fotos:	© British Museum, London
+	Hat die Fotorechte:	1

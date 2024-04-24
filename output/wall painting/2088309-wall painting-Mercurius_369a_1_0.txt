@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-749fa28c2b9ce-7
+Mercurius_369a_1_0
+
+
+
+Monument
+	ID:	17792
+	Entdeckungsort:	Rome
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Mercurius
+	Beschreibung:	Attributes of Mercurius.
+Szene
+	ID:	18548
+	Beschreibung:	Attributes of Mercurius.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/catacomba_di_vigna_rondanini/18548X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	369a
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Catacomba di Vigna Rondanini
+	Rechteinhaber der Fotos:	© Catacomba di Vigna Rondanini, Roma
+	Hat die Fotorechte:	0

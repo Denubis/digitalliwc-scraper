@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-745b5e70e1c4b-b
+Psyche_15_1_0
+
+
+
+Monument
+	ID:	12968
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Psyche
+Szene
+	ID:	13286
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ravenna/museo_arcivescovile/13286X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ravenna/museo_arcivescovile/13286X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ravenna/museo_arcivescovile/13286X202.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	15
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Ravenna
+	Name:	Museo Arcivescovile
+	Rechteinhaber der Fotos:	© Museo Arcivescovile, Ravenna
+	Hat die Fotorechte:	1

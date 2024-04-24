@@ -1,0 +1,141 @@
+http://ark.dasch.swiss/ark:/72163/080e-73dff608391b3-0
+Oceanus (S)_104_0_0
+Mithras_143_0_0
+Mithras_493_0_0
+Mithras_594_0_0
+Helios/Sol_340_0_0
+Mithras_554_0_0
+Mithras_664_1_0
+Tellus_ad 21_0_0
+
+
+
+Monument
+	ID:	4265
+	Entdeckungsort:	Santa Maria Capua Vetere, Capua
+	Entdeckungsort Details:	Mithraeum
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	cultual installations wall painting
+	Stichwort:	wreath, crown, stephane, corona snake bull dog initiation mysteries of Mithras initiated Phrygian cap skorpion
+	Name:	Helios/Sol Mithras Luna Cautes Cautopates Oceanus Tellus
+	Beschreibung:	Wandmalereien in Mithraeum. "Einweihungsszenen".
+	Bibliographie:	Vermaseren, M. J., Corpus inscriptionum et monumentorum religionis Mithriacae I (1956) 105 ff. Nr. 180-197; Vermaseren, M. J., Mithriaca I: The Mithraeum at S. Maria Capua Vetere, EPRO 16 (1971) mit Farbtaf.; Merkelbach, R., Mithras (1984) 283-285 Abb. 24-26; 287-290 Abb. 28-32; Beck, R., "Mithraism since Franz Cumont", ANRW II 17,4 (1984) 2020-2021; Turcan, R., L'art romain dans l'histoire (1995) 207-209 Abb. 264; Beard - North - Price, Religions of Rome II (1999) 89 f. Nr. 4.6a.
+Datierung
+	Periode:	100 - 110 
+	Kommentar:	Beard - North - Price 1999
+Epoche
+	Name:	Anfang 2. Jh. n. Chr.
+	Periode:	100 - 110 
+	Sequenznummer:	3150
+Datierung
+	Periode:	140 - 160 
+	Kommentar:	um 160 Turcan 1995
+Epoche
+	Name:	Mitte 2. Jh. n. Chr.
+	Periode:	140 - 160 
+	Sequenznummer:	3160
+Datierung
+	Periode:	200 - 250 
+Epoche
+	Name:	1. Hälfte 3. Jh. n. Chr.
+	Periode:	200 - 250 
+	Sequenznummer:	3320
+Szene
+	ID:	4317
+	Beschreibung:	Devant une grotte, Mithra, un genou prenant appui sur l'échine du taureau blanc, l'autre jambe tendue, dresse la gueule de l'animal de la main g. pour planter le couteau, qu'il tient de la main dr., dans le cou de l'animal. Un chien mord l'animal tandis qu'un serpent ondule en-dessous. Un scorpion (difficilement visible) devrait mordre les testicules de la victime. De chaque côté, les deux assistants, Cautès et Cautopatès, sont représentés dans des proportions beaucoup plus petites. Au-dessus de chacun d'entre eux, Sol et Luna assistent à la scène. - Le scorpion et le serpent sont censés être des animaux maléfiques tentant d'annihiler les bienfaits découlant de la mise à mort du taureau alors que le chien est censé vouloir les contrecarrer en aidant Mithra à ce que le sang ait un effet bénéfique pour l'univers.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/santa_maria_capua_vetere/mitreo/4317X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/santa_maria_capua_vetere/mitreo/4317X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/santa_maria_capua_vetere/mitreo/4317X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/santa_maria_capua_vetere/mitreo/4317X103.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	165
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 3.c. Initiation
+	Sequenznummer:	1200
+	Bandnummer:	2
+Catalog Thes CRA
+	Indexnummer:	205
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 2.a. Opfer, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	220
+	Bandnummer:	1
+Catalog Thes CRA
+	Indexnummer:	1681
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Catalog LIMC
+	Artikel:	Oceanus (S)
+	Katalognummer:	104
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mithras
+	Katalognummer:	143
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mithras
+	Katalognummer:	493
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mithras
+	Katalognummer:	594
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	340
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mithras
+	Katalognummer:	554
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mithras
+	Katalognummer:	664
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Tellus
+	Katalognummer:	ad 21
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Santa Maria Capua Vetere
+	Name:	Mitreo
+	Direktor:	Soprintendente Dott.ssa Valeria Sampado
+	Adresse:	Via Roberto D'Angiò 48
+	Postleitzahl:	I-80055
+	Kontaktzenter:	Soprintendenza Archeologica di Santa Maria Capua Vetere, Presso il Museo dell'Antica Capua
+	Stadt des Kontaktzenters:	S. Maria Capua Vetere/ Caserta
+	Rechteinhaber der Fotos:	© Mitreo, Santa Maria Capua Vetere
+	Hat die Fotorechte:	1

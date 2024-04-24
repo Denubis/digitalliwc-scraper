@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-73ab13ff33434-a
+Nysa I, Nysai (S)_11a_1_0
+Nymphai (S)_87b_0_0
+
+
+
+Monument
+	ID:	530
+	Entdeckungsort:	Arezzo
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Nymphai Nysa I
+	Beschreibung:	Nysa (I) seated to the right with Dionysos on her lap, holding a nappy. Another nymph prepares the bath for Dionysos. 
+Datierung
+	Periode:	145 - 160 
+Szene
+	ID:	361
+	Beschreibung:	Nysa (I) seated to the right with Dionysos on her lap, holding a nappy. Another nymph prepares the bath for Dionysos.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/woburn_abbey_bedfordshire/woburn_abbey_art_gallery/361X002.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Nysa I, Nysai (S)
+	Katalognummer:	11a
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Nymphai (S)
+	Katalognummer:	87b
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Cat. 70 (Michaelis 169)
+Museum
+	Land:	GB
+	Stadt:	Woburn Abbey (Bedfordshire)
+	Name:	Woburn Abbey Art Gallery
+	Rechteinhaber der Fotos:	© Woburn Abbey Art Gallery
+	Kommentar:	Numéros d'après Angelicoussis, E., The Woburn Abbey Collection of Classical Antiquities (1992); les numéros entre parenthèses sont ceux de Michaelis, A., Ancient Marbles in Great Britain (1882).
+	Hat die Fotorechte:	1

@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-76af312ad5f47-c
+Kentauroi et Kentaurides, Add._Supplement_1_0
+
+
+
+Monument
+	ID:	201904
+	Entdeckungsort:	El Al-Sauouija
+	Objekt:	sarcophagus
+	Material:	basalt
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	sword stone centaur fight, battle
+	Name:	Lapithai
+	Beschreibung:	two groups of warriors: to the left a rebelling centaur with a rock in his hands and a lapith on his back; another centaur with a branch in his arms seizing a lapith who has fallen on his knees; to the right a lapith rushing toward a centaur who is throwing a rock and turning back to another lapith
+	Bibliographie:	Koch/Sichtermann, RömSark 566 pl. 569; Koch, G., DamMitt 4, 1989, 170-171 no. 9 pl. 43a.
+Datierung
+	Periode:	175 - 200 
+	Kommentar:	End of the 2nd. cent. A.D.
+Epoche
+	Name:	4. Viertel 2. Jh. n. Chr.
+	Periode:	175 - 200 
+	Sequenznummer:	3230
+Szene
+	ID:	98891
+	Beschreibung:	two groups of warriors: to the left a rebelling centaur with a rock in his hands and a lapith on his back; another centaur with a branch in his arms seizing a lapith who has fallen on his knees; to the right a lapith rushing toward a centaur who is throwing a rock and turning back to another lapith
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides, Add.
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2834
+Museum
+	Land:	SY
+	Stadt:	Damas
+	Name:	Musée National
+	Kontaktzenter:	Musée National
+	Stadt des Kontaktzenters:	Damas
+	Rechteinhaber der Fotos:	© Musée National Damas
+	Hat die Fotorechte:	1

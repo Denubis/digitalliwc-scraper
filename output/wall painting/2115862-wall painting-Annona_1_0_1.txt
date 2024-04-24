@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-76298c41eb1b3-8
+Annona_1_0_1
+
+
+
+Monument
+	ID:	45581
+	Entdeckungsort:	Ostia
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	helmet spear torch horn, horns woman man
+	Name:	Annona Liberalitas
+	Beschreibung:	Annona with cornucopia.
+	Bibliographie:	Calza, G., NotSc (1915) 247 fig. 6.
+Szene
+	ID:	47984
+	Beschreibung:	Annona with cornucopia.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Annona
+	Katalognummer:	1
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Ostia
+	Direktor:	Dott.ssa Elvira Angeloni, Archivio Fotografico
+	Adresse:	Viale dei Romagnoli 717
+	Postleitzahl:	I-00119
+	Kontaktzenter:	Soprintendenza archeologica di Ostia
+	Stadt des Kontaktzenters:	Ostia Antica - Roma
+	Rechteinhaber der Fotos:	© Soprintendenza archeologica di Ostia
+	Hat die Fotorechte:	1

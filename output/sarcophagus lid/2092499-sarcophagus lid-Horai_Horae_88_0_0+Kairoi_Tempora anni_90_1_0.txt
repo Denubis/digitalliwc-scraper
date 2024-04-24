@@ -1,0 +1,52 @@
+http://ark.dasch.swiss/ark:/72163/080e-74db899a32824-8
+Horai/Horae_88_0_0
+Kairoi/Tempora anni_90_1_0
+
+
+
+Monument
+	ID:	22013
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Vigna Casali
+	Objekt:	sarcophagus lid
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Horai/Horae Kairoi/Tempora anni
+	Beschreibung:	Four recumbent Horae confronted in pairs rest their hands on baskets with seasonal products, served by Erotes that lean on one of their legs.
+Datierung
+	Periode:	160 
+Szene
+	ID:	24485
+	Szenerieangabe:	couvercle
+	Beschreibung:	Four recumbent Horae confronted in pairs rest their hands on baskets with seasonal products, served by Erotes that lean on one of their legs.
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/24485X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	88
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	90
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	121657
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Romano
+	Direktor:	Soprintendente Dott. Giuseppe Proietti
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali - Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

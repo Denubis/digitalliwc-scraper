@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-768bb54076f4d-4
+
+
+
+Monument
+	ID:	91100
+	Entdeckungsort:	Veria, Berrhoia, Beroia, Beroa, Beroea, Berea (Macedonia)
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	GR
+	Kategorie:	relief
+	Name:	Eros
+	Grössenangabe:	0.10 m
+	Beschreibung:	Eρωτιδεύς;
+	Kommentar:	4156
+Datierung
+	Periode:	-27 - 395 
+Epoche
+	Name:	kaiserzeitlich
+	Periode:	-27 - 476 
+	Sequenznummer:	1100
+Szene
+	ID:	96580
+	Beschreibung:	Eρωτιδεύς, κεφαλή προς αριστερά, κόμη στους ώμους.
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	445
+Museum
+	Land:	GR
+	Stadt:	Véria
+	Name:	Musée Archéologique
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Archaeological Museum of Veria
+	Hat die Fotorechte:	0

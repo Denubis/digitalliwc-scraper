@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a7b098adcd3-d
+Genius (S)_39_0_0
+Harpokrates_157_1_0
+
+
+
+Monument
+	ID:	285
+	Entdeckungsort:	Ercolano, Herculaneum, Herculanum
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Harpokrates Genius
+	Beschreibung:	Harpokrates next to an altar with a snake. Inscription mentioning Genius.
+	Inschrift:	GENIUS HUIUS LOCI MONTIS.
+	Bibliographie:	CIL IV 1176.
+Szene
+	ID:	72
+	Beschreibung:	Harpokrates next to an altar with a snake. Inscription mentioning Genius.
+	Inschrift:	GENIUS HUIUS LOCI MONTIS.
+Catalog LIMC
+	Artikel:	Genius (S)
+	Katalognummer:	39
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Harpokrates
+	Katalognummer:	157
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8848
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

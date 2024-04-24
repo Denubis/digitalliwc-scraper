@@ -1,0 +1,51 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e3a2a185c78-5
+Victoria_277_1_0
+Eros/Amor, Cupido_381_1_0
+
+
+
+Monument
+	ID:	4520
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido Victoria
+	Beschreibung:	Circus scene: Erotes driving chariots. In the spina Victories on bases, carrying each three tropaea.
+Szene
+	ID:	4578
+	Beschreibung:	Circus scene: Erotes driving chariots. In the spina Victories on bases, carrying each three tropaea.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/4578X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/4578X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/4578X299.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Victoria
+	Katalognummer:	277
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	381
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	6712
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

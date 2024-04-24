@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-755a13887a243-f
+Heliopolitani Dei_120_0_0
+
+
+
+Monument
+	ID:	30932
+	Entdeckungsort:	Doura-Europos
+	Entdeckungsort Details:	synagogue
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Heliopolitani Dei
+Szene
+	ID:	32450
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Heliopolitani Dei
+	Katalognummer:	120
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Synagogue de Doura-Europos
+Museum
+	Land:	SY
+	Stadt:	Damas
+	Name:	Musée National
+	Kontaktzenter:	Musée National
+	Stadt des Kontaktzenters:	Damas
+	Rechteinhaber der Fotos:	© Musée National Damas
+	Hat die Fotorechte:	1

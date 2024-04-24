@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-74d396b02a048-7
+Homonoia/Concordia_81_1_0
+
+
+
+Monument
+	ID:	21454
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Homonoia/Concordia
+Szene
+	ID:	22412
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_giustiniani/22412X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_giustiniani/22412X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_giustiniani/22412X103.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Homonoia/Concordia
+	Katalognummer:	81
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Giustiniani
+	Rechteinhaber der Fotos:	© Palazzo Giustiniani, Roma
+	Hat die Fotorechte:	1

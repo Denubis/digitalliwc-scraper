@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-73c1776d87f4a-1
+Iordanes (S)_2_1_0
+
+
+
+Monument
+	ID:	2120
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Iordanes
+	Beschreibung:	Ascension of Elias: Below the horses of Elias the river-god Iordanes reclining to the left.
+	Museums-URL:	http://cartelfr.louvre.fr/cartelfr/visite?srv=car_not_frame&idNotice=2828&langue=fr
+Datierung
+	Periode:	390 - 400 
+Szene
+	ID:	2132
+	Beschreibung:	Ascension of Elias: Below the horses of Elias the river-god Iordanes reclining to the left.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/2132X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Iordanes (S)
+	Katalognummer:	2
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 2980
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e422ba62667-3
+Victoria_285_1_0
+
+
+
+Monument
+	ID:	4555
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Victoria
+	Beschreibung:	Depiction of the Indian battle: Victoria with palm branch.
+Szene
+	ID:	4614
+	Beschreibung:	Depiction of the Indian battle: Victoria with palm branch.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4614X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Victoria
+	Katalognummer:	285
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1347
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Musei Capitolini
+	Direktor:	Dirigente Dott. Claudio Parisi Presicce
+	Adresse:	Via delle Tre Pile, 1
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Sovraintendenza ai Beni Culturali                     del Comune di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Archivio fotografico Musei Capitolini
+	Hat die Fotorechte:	1

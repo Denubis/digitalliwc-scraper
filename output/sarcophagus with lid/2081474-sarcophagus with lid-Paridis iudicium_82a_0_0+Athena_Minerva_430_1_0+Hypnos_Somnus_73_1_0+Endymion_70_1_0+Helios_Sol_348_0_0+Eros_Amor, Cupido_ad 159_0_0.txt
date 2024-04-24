@@ -1,0 +1,80 @@
+http://ark.dasch.swiss/ark:/72163/080e-743deb02baf0f-c
+Paridis iudicium_82a_0_0
+Athena/Minerva_430_1_0
+Hypnos/Somnus_73_1_0
+Endymion_70_1_0
+Helios/Sol_348_0_0
+Eros/Amor, Cupido_ad 159_0_0
+
+
+
+Monument
+	ID:	10895
+	Entdeckungsort:	Saint-Médard-d'Eyrans
+	Objekt:	sarcophagus with lid
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Athena/Minerva Endymion Helios/Sol Luna Eros/Amor, Cupido Eros/Amor, Cupido Hypnos/Somnus Paridis iudicium
+	Beschreibung:	Sarcophagus, on the chest the myth of Endymion; on the lid on the left: judgement of Paris, Mercurius introducing the three goddesses to Paris; on the ends of the lid: heads of Sol and Luna.
+Szene
+	ID:	11138
+	Szenerieangabe:	couvercle
+	Beschreibung:	Sarcophagus, on the chest the myth of Endymion; on the lid on the left: judgement of Paris, Mercurius introducing the three goddesses to Paris; on the ends of the lid: heads of Sol and Luna.
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/11138X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/11138X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/11138X202.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Paridis iudicium
+	Katalognummer:	82a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	430
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	73
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	70
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	348
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 159
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 1335
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

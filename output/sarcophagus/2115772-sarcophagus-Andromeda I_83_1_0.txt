@@ -1,0 +1,48 @@
+http://ark.dasch.swiss/ark:/72163/080e-762842dd6aa71-4
+Andromeda I_83_1_0
+
+
+
+Monument
+	ID:	45489
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	plant lion head
+	Name:	Andromeda I Perseus
+	Beschreibung:	Fragment.
+	Bibliographie:	Schauenburg, K., Perseus in der Kunst des Altertums (1960) 70 Taf. 27,2; Brommer, Denkmälerlisten III 381,1.
+Datierung
+	Periode:	-27 - 476 
+Epoche
+	Name:	kaiserzeitlich
+	Periode:	-27 - 476 
+	Sequenznummer:	1100
+Szene
+	ID:	47886
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/arezzo/museo_archeologico_statale_gaio_cilnio_mecenate/47886X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Andromeda I
+	Katalognummer:	83
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	20507
+Museum
+	Land:	IT
+	Stadt:	Arezzo
+	Name:	Museo Archeologico Statale "Gaio Cilnio Mecenate"
+	Direktor:	Soprintendente Dott.ssa Fulvia Lo Schiavo
+	Adresse:	Via della Pergola 65
+	Postleitzahl:	I-50121
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici della Toscana
+	Stadt des Kontaktzenters:	Firenze
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici della Toscana
+	Hat die Fotorechte:	1

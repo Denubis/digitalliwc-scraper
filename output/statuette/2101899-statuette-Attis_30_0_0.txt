@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-7561ecd3f01bc-e
+Attis_30_0_0
+
+
+
+Monument
+	ID:	31483
+	Entdeckungsort:	Pompei
+	Objekt:	statuette
+	Material:	terracotta
+	Land:	CH
+	Kategorie:	sculpture in the round
+	Beschreibung:	Attis with crossed legs.
+	Bibliographie:	Graillot, H., Le culte de Cybèle, Mère des dieux à Rome et dans l`Empire romain (1912) 438 n. 8; Vermaseren, M. J., Corpus Cultus Cybelae Attidisque IV no. 67.
+Szene
+	ID:	33088
+	Beschreibung:	Attis with crossed legs.
+Catalog LIMC
+	Artikel:	Attis
+	Katalognummer:	30
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	4640
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

@@ -1,0 +1,82 @@
+http://ark.dasch.swiss/ark:/72163/080e-74c61b62c5f9d-d
+Iphigeneia_40_0_1
+Kalchas_11_0_0
+Horai/Horae_24_0_0
+Demeter/Ceres (vol. IV)_39_0_0
+Ariadne (vol. III)_5_0_0
+Apollon/Apollo_355_0_0
+Artemis/Diana_288_0_0
+
+
+
+Monument
+	ID:	20501
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	V 5,2 (Vicolo di Modesto)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Horai/Horae Demeter/Ceres Kalchas Iphigeneia Ariadne Apollon/Apollo Artemis/Diana Horai/Horae
+	Beschreibung:	The Hora of Autumn carrying fruit on a fold of the garment. Ceres standing with crown of corn, in her right ears of corn, in her left torch. On the right the seer Kalchas, cutting a strand of hair from Iphigeneias head.
+Szene
+	ID:	21412
+	Beschreibung:	The Hora of Autumn carrying fruit on a fold of the garment. Ceres standing with crown of corn, in her right ears of corn, in her left torch. On the right the seer Kalchas, cutting a strand of hair from Iphigeneias head.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/21412X202.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Iphigeneia
+	Katalognummer:	40
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Kalchas
+	Katalognummer:	11
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	24
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Demeter/Ceres (vol. IV)
+	Katalognummer:	39
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ariadne (vol. III)
+	Katalognummer:	5
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	355
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	288
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VI 5,1-3
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa di Nettuno

@@ -1,0 +1,71 @@
+http://ark.dasch.swiss/ark:/72163/080e-7648abe5ec1f8-9
+
+
+
+Monument
+	ID:	51032
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	S. Lorenzo fuori le Mura
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	throne lion trumpet, tuba, salpinx quadriga ferculum, lectica cult image carried in procession musician (man) toga sitting, seated elephant war-chariot, harma, currus
+	Name:	Kybele Victoria
+	Grössenangabe:	H: 0,4 m; B: 2,05 m
+	Beschreibung:	Sarkophagplatte mit pompa circensis, in der Mitte eine unbeschriftete Tafel. Rechts der Tafel zwei fercula mit je acht Trägern, auf dem ersten eine Kybelestatue thronend hinter zwei springenden Löwen (neben dem ferculum sind drei weitere Personen dargestellt, die wohl ebenfalls das ferculum trugen), auf dem zweiten eine Victoriastatue mit Palmwedel, im Hintergrund dazwischen zwei tuba-Spieler, hinter den fercula zwei togati. Links der Tafel ein von vier Elefanten gezogener Wagen mit einer Statue (nur die Füße sind erhalten, vielleicht der vergöttlichte Kaiser). Der Wagenkasten ist mit auf Meerestieren reitenden Eroten verziert. Auf jedem Elefant sitzt ein Reiter in Tunika, der erste davon mit Stock und Sack in der Hand, hinter den Elefanten steht außerdem ein bärtiger Mann (Wagenführer?). Auf der Sarkophagvorderseite ein Medaillon mit trauerndem Attis und in der Ecke ein Amor mit Hund und Hase. 
+	Bibliographie:	Vermaseren, M.  J., Corpus Cultus Cybelae Attidisque III , EPRO 50  (1977ss) 96-97 n. 341 tav. 200; Turcan, R., Les dieux II. IconRel XVII, 2 (1988) 27 n. 52 fig; Ronke, J., Magistratische Repräsentation im römischen Relief (1987) 111ff. n. 183 fig. 191-193; Himmelmann, N., Typologische Untersuchungen an römischen Sarkophagreliefs des 3.  und 4. Jahrhunderts n. Chr. (1973) tav. 56b. 57.
+Datierung
+	Periode:	290 - 300 
+Epoche
+	Name:	Ende 3. Jh. n. Chr.
+	Periode:	290 - 300 
+	Sequenznummer:	3310
+Datierung
+	Periode:	300 - 310 
+Epoche
+	Name:	Anfang 4. Jh. n. Chr.
+	Periode:	300 - 310 
+	Sequenznummer:	3430
+Szene
+	ID:	56194
+	Beschreibung:	Sarkophagplatte mit pompa circensis, in der Mitte eine unbeschriftete Tafel. Rechts der Tafel zwei fercula mit je acht Trägern, auf dem ersten eine Kybelestatue thronend hinter zwei springenden Löwen (neben dem ferculum sind drei weitere Personen dargestellt, die wohl ebenfalls das ferculum trugen), auf dem zweiten eine Victoriastatue mit Palmwedel, im Hintergrund dazwischen zwei tuba-Spieler, hinter den fercula zwei togati. Links der Tafel ein von vier Elefanten gezogener Wagen mit einer Statue (nur die Füße sind erhalten, vielleicht der vergöttlichte Kaiser). Der Wagenkasten ist mit auf Meerestieren reitenden Eroten verziert. Auf jedem Elefant sitzt ein Reiter in Tunika, der erste davon mit Stock und Sack in der Hand, hinter den Elefanten steht außerdem ein bärtiger Mann (Wagenführer?). Auf der Sarkophagvorderseite ein Medaillon mit trauerndem Attis und in der Ecke ein Amor mit Hund und Hase
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	626
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 5. Kultbilder
+	Sequenznummer:	1800
+	Bandnummer:	2
+Catalog Thes CRA
+	Indexnummer:	35
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 1. Prozessionen, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	100
+	Bandnummer:	1
+Catalog Thes CRA
+	Indexnummer:	979
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	San Lorenzo fuori le Mura
+	Kontaktzenter:	San Lorenzo fuori le Mura
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprindentenza SPSAE e Polo Museale della Città di Roma
+	Hat die Fotorechte:	0

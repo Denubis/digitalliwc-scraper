@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-74aaa10630e93-b
+Mnesteres II_22_1_0
+
+
+
+Monument
+	ID:	18572
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Mnesteres II
+	Beschreibung:	Three Mnesteres (II), nude, on a banquet bed. A fourth one hides himself under the bed.
+	Monument-URL:	arachne.dainst.org/entity/1078342
+Szene
+	ID:	19418
+	Beschreibung:	Three Mnesteres (II), nude, on a banquet bed. A fourth one hides himself under the bed.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/russian_federation/st_petersburg/the_state_hermitage_museum/19418X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mnesteres II
+	Katalognummer:	22
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	а 196
+Museum
+	Land:	RU
+	Stadt:	St. Petersburg
+	Name:	The State Hermitage Museum
+	Direktor:	Ms. Anastasia Mikliaeva, Head Rights & Reproductions
+	Adresse:	Dvortsovaya Nabereznaja 34
+	Postleitzahl:	190 000
+	Kontaktzenter:	The State Hermitage Museum
+	Stadt des Kontaktzenters:	St. Petersburg / Russia
+	Rechteinhaber der Fotos:	© The State Hermitage Museum, St. Petersburg
+	Kommentar:	Pour la céramique, les chiffres avec la lettre B se rapportent au catalogue d'O. Waldhauer (1914).
+	Hat die Fotorechte:	1

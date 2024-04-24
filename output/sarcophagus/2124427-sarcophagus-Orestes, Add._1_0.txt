@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-76a3ff73ab9bc-8
+Orestes, Add._1_0
+
+
+
+Monument
+	ID:	201574
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	mourning
+	Name:	Orestes
+	Beschreibung:	Fragment. Orestes sitting bent forward and grieving
+	Bibliographie:	Sotheby's London 10.7.1990 no. 282; Bielfeldt, R., Orestes auf römisches Sarkophagen (2005) 348 no. II.17 pl. 32; SarkRel III 560 fig. 180; Curtius, L., RM 49, 1934, 265 fig.  7.
+	Kommentar:	Once in Rome.
+Datierung
+	Periode:	175 - 200 
+	Kommentar:	End of the 2nd. cent. A.D.
+Epoche
+	Name:	4. Viertel 2. Jh. n. Chr.
+	Periode:	175 - 200 
+	Sequenznummer:	3230
+Szene
+	ID:	98547
+	Beschreibung:	Orestes sitting bent forward and grieving
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Orestes, Add.
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	10.7.1990, 282
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	Sotheby's
+	Direktor:	Mr. Adam Levine
+	Adresse:	34-35 New Bond Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	Sotheby's
+	Stadt des Kontaktzenters:	London, W1A 2AA
+	Rechteinhaber der Fotos:	© Sotheby's, London
+	Hat die Fotorechte:	1

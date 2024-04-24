@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ebf33010790-f
+Herakles_ad 3271_0_0
+
+
+
+Monument
+	ID:	23165
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Herakles
+	Beschreibung:	Herakles, holding kantharos, is supported by the small Pan.
+Szene
+	ID:	24303
+	Beschreibung:	Herakles, holding kantharos, is supported by the small Pan.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	ad 3271
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel IV 1, 50
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palatino
+	Direktor:	Soprintendente Prof. Adriano La Regina
+	Adresse:	Piazza S. Maria Nova 53
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza Archeologica di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

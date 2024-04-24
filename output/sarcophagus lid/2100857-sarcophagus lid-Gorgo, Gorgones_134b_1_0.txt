@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-75530731985e2-5
+Gorgo, Gorgones_134b_1_0
+
+
+
+Monument
+	ID:	30434
+	Objekt:	sarcophagus lid
+	Material:	wood
+	Herkunft:	Egypt
+	Land:	CH
+	Kategorie:	wood
+	Name:	Gorgo, Gorgones
+Szene
+	ID:	31900
+Catalog LIMC
+	Artikel:	Gorgo, Gorgones
+	Katalognummer:	134b
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	A 1972
+Museum
+	Land:	BE
+	Stadt:	Bruxelles
+	Name:	Musées Royaux d'Art et d'Histoire
+	Direktor:	Mme. le Prof. Cécile Evers, Conservateur Ant. étrusques et romaines 
+	Anrede:	Monsieur le Professeur,
+	Adresse:	Parc du Cinquantenaire 10
+	Postleitzahl:	B-1000
+	Kontaktzenter:	Musées Royaux d'Art et d'Histoire - Département Antiquités grecques et romaines
+	Stadt des Kontaktzenters:	Bruxelles
+	Rechteinhaber der Fotos:	© Musées Royaux d'Art et d'Histoire, Bruxelles
+	Hat die Fotorechte:	0

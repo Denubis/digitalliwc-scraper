@@ -1,0 +1,58 @@
+http://ark.dasch.swiss/ark:/72163/080e-747257edb53ee-0
+Nemesis_306_0_0
+Leda_61_1_0
+
+
+
+Monument
+	ID:	14587
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	I 4,5 (Casa del Citarista)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	altar temple cult image, cult statue priestess maid-servant plant tray, lanx, catinus altar: monolithic block
+	Name:	Leda Nemesis
+	Beschreibung:	Leda als Priesterin, mit Dienerinnen (eine mit Opferschale), bei Altar (rechteckiger Block mit Deckplatte, darauf Schwan). Dahinter Kultstatue auf hoher Basis.
+	Bibliographie:	Schefold, WP 15.HBr I 147 Abb. 41 Taf. 111.
+Datierung
+	Periode:	-15 - 14 
+Epoche
+	Name:	augusteisch
+	Periode:	-27 - 14 
+	Sequenznummer:	1130
+Datierung
+	Periode:	-15 - 14 
+Epoche
+	Name:	3. pompejanischer Stil
+	Periode:	-15 - 63 
+	Sequenznummer:	1340
+Szene
+	ID:	15027
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Nemesis
+	Katalognummer:	306
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Leda
+	Katalognummer:	61
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	120034
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

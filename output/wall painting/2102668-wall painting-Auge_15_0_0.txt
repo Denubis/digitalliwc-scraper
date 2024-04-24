@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-756ceb4df5681-8
+Auge_15_0_0
+
+
+
+Monument
+	ID:	32254
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Auge Herakles
+	Beschreibung:	Auge with female companion, standing woman and Herakles.
+Szene
+	ID:	33875
+	Beschreibung:	Auge with female companion, standing woman and Herakles.
+	Sequenznummer:	1
+Catalog Thes CRA
+	Indexnummer:	113
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 5. Kultbilder
+	Sequenznummer:	1800
+	Bandnummer:	2
+Catalog LIMC
+	Artikel:	Auge
+	Katalognummer:	15
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VIII 3,4
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa di Ercole ed Auge

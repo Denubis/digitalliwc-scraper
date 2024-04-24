@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-73dffd5a19d3d-b
+Oceanus (S)_105_1_0
+
+
+
+Monument
+	ID:	4266
+	Entdeckungsort:	Rome
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Oceanus
+	Beschreibung:	Head of Oceanus.
+Szene
+	ID:	4318
+	Beschreibung:	Head of Oceanus.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/catacomba_di_s_callisto/4318X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Oceanus (S)
+	Katalognummer:	105
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Cub. 15
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Catacomba di S. Callisto
+	Direktor:	Dott.ssa Barbara Mazzei
+	Adresse:	Via Napoleone III 1
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Pontificia Commissione di Archeologia Sacra
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Pontificia Commissione di Archeologia Sacra
+	Hat die Fotorechte:	0

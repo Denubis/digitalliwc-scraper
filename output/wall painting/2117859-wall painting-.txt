@@ -1,0 +1,75 @@
+http://ark.dasch.swiss/ark:/72163/080e-7646191ceb374-2
+
+
+
+Monument
+	ID:	50843
+	Entdeckungsort:	Leukadia
+	Entdeckungsort Details:	
+	Objekt:	wall painting
+	Herkunft:	Macedonia
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	altar snake blood laurel branch water perirrhanterion olive branch
+	Beschreibung:	Makedonisches Kammergrab des Lyson und Kallikles mit Wandmalerei an der Ostwand der Vorkammer: Mit Wasser gefülltes Perirrhanterion auf einer rechteckigen Basis. In der Schale lehnt ein Lorbeer- oder Ölzweig. Auf der gegenüberliegenden Wand steht ein Altar mit Blutflecken, davor eine Schlange.
+	Bibliographie:	Gossel, B., Makedonische Kammergräber, Diss. München (1979 , ma 1980) 181; Miller, S. G., The Tomb of Lyson and Kallikles: a Painted Macedonian Tomb (1993) 38-39 tav. 11b (mit umfangreicher Lit. zum Problem der Perirrhanterien im Grab); Pimpl, H., Perirrhanteria and Louteria (1997) 145-146; Kerschner 101 Taf. 24, 2; Brecoulaki, H., La peinture funéraire de Macédoine. Emplois et fonctions de la couleur. IVe-IIe s. av. J.-Chr. (2006) 221-234 pl. 78-81.
+Datierung
+	Periode:	-260 - -240 
+Epoche
+	Name:	Mitte 3. Jh. v. Chr.
+	Periode:	-260 - -240 
+	Sequenznummer:	2590
+Datierung
+	Periode:	-210 - -190 
+Epoche
+	Name:	um 200 v. Chr.
+	Periode:	-210 - -190 
+	Sequenznummer:	2700
+Szene
+	ID:	56004
+	Beschreibung:	Makedonisches Kammergrab des Lyson und Kallikles mit Wandmalerei an der Ostwand der Vorkammer: Mit Wasser gefülltes Perirrhanterion auf einer rechteckigen Basis. In der Schale lehnt ein Lorbeer- oder Ölzweig. Auf der gegenüberliegenden Wand steht ein Altar mit Blutflecken, davor eine Schlange.
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	46
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	14
+	Name:	II. 3.a. Reinigung, gr.
+	Kurzname:	Gr.
+	Sequenznummer:	800
+	Bandnummer:	2
+Catalog Thes CRA
+	Indexnummer:	157
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Catalog Thes CRA
+	Indexnummer:	73
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VI. 1.e. Tod, gr.
+	Bandnummer:	6
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tombeau de Lyson et Kallikles
+Museum
+	Land:	GR
+	Stadt:	Lefkadia
+	Name:	Tombeaux
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Lefkadia
+	Hat die Fotorechte:	0

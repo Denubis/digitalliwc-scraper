@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a675d7eeca5-1
+Hippokampos (S)_26_0_0
+Nereides_214a_1_0
+
+
+
+Monument
+	ID:	187
+	Entdeckungsort:	Zliten, Zlitan
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Nereides Hippokampos
+Szene
+	ID:	1870
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/libyan_arab_jamahiriya/tripoli_libye/musee/1870X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hippokampos (S)
+	Katalognummer:	26
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Nereides
+	Katalognummer:	214a
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Zliten
+Museum
+	Land:	LY
+	Stadt:	Tripoli (Libye)
+	Name:	Musée
+	Direktor:	Mme le  Dr. Pascale Linant de Bellefonds
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-90023
+	Kontaktzenter:	Université Paris X - Nanterre Maison de l'Archéologie / Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Musée Tripoli
+	Hat die Fotorechte:	1

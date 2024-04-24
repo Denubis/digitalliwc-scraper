@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-7656de324231d-9
+
+
+
+Monument
+	ID:	52101
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	jug servant pollubrum, trulleum neat, cattle, bovine
+	Beschreibung:	Neben einem Rind steht ein Opferdiener mit Kanne und Griffschale.
+	Bibliographie:	Wiegartz, H., Kleinasiatische Säulensarkophage, IstanbForsch 26 (1965) 161 Iznik H pl. 37b; Waelkens, M., Dokimeion: Die Werkstatt der räpresentativen kleinasiatischen Sarkophage (1982) 79 n. 58.
+Datierung
+Epoche
+	Name:	4. Viertel 2. Jh. n. Chr.
+	Periode:	175 - 200 
+	Sequenznummer:	3230
+Szene
+	ID:	57339
+	Beschreibung:	Neben einem Rind steht ein Opferdiener mit Kanne und Griffschale.
+Catalog Thes CRA
+	Indexnummer:	38
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	TR
+	Stadt:	Iznik
+	Name:	Musée
+	Direktor:	Mme le Dr. Pascale Linant de Bellefonds
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-92023
+	Kontaktzenter:	Université Paris X - Nanterre Maison de l'Archéologie / Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Iznik Museum
+	Hat die Fotorechte:	1

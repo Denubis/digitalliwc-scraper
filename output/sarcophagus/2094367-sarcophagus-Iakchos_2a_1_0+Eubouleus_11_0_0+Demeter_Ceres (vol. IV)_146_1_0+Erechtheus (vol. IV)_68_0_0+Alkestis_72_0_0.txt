@@ -1,0 +1,83 @@
+http://ark.dasch.swiss/ark:/72163/080e-74f63e54141a0-f
+Iakchos_2a_1_0
+Eubouleus_11_0_0
+Demeter/Ceres (vol. IV)_146_1_0
+Erechtheus (vol. IV)_68_0_0
+Alkestis_72_0_0
+
+
+
+Monument
+	ID:	23896
+	Entdeckungsort:	Torre Nova
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	altar snake oinochoe jug fire (on altar) tree kantharos torch libation cista mystica cista, kiste fruit bakchos (staff in the mysteries of Eleusis) tray, lanx, catinus altar: round altar
+	Name:	Alkestis Demeter/Ceres Erechtheus Eubouleus Herakles Iakchos Persephone
+	Beschreibung:	Initiationsdarstellung in die eleusinischen Mysterien: Einweihung des Herakles: Links Baum, daneben girlandengeschmückter Altar. Rechts davon steht ein Jüngling (Eubouleus, Eumolpos, Iakchos?) mit Fackel. Am rechten Rand ebenfalls ein Jüngling mit Fackel, der noch mit einem Kantharos über einem kleinen brennenden Altar libiert. Ihm gegenüber ein Bärtiger der ebenfalls libiert und auf seiner Linken eine Platte mit Früchten hält. Hinter ihm sitzt wohl der Initiant. Auf seinen Stuhl lehnt eine junge Frau mit gesenkter Fackel (Persephone?). Hinter ihr sitzt Demeter mit bakchos auf der Cista mystica. Im Hintergrund der Darstellung befinden sich verschiedene weitere Personen.Zuordnung zu Festen: Eleusinische Mysterien (Deubner).Rückseite: Laut Curtius Darstellung der Alkestis mit zwei Peliaden.
+	Bibliographie:	Koch/Sichtermann, RömSark 501 fig. 484; Rizzo, G.E., RM 25, 1910, 89-167 pl. 2-4; Curtius, L., AM 48 (1923) 36 Beilage fig. 1; Deubner, L., Attische Feste, 1956, 77, Taf. 7,1.
+Datierung
+	Periode:	100 - 200 
+Epoche
+	Name:	2. Jh. n. Chr.
+	Periode:	100 - 200 
+	Sequenznummer:	3140
+Szene
+	ID:	25071
+	Beschreibung:	Initiationsdarstellung in die eleusinischen Mysterien: Einweihung des Herakles: Links Baum, daneben girlandengeschmückter Altar. Rechts davon steht ein Jüngling (Eubouleus, Eumolpos, Iakchos?) mit Fackel. Am rechten Rand ebenfalls ein Jüngling mit Fackel, der noch mit einem Kantharos über einem kleinen brennenden Altar libiert. Ihm gegenüber ein Bärtiger der ebenfalls libiert und auf seiner Linken eine Platte mit Früchten hält. Hinter ihm sitzt wohl der Initiant. Auf seinen Stuhl lehnt eine junge Frau mit gesenkter Fackel (Persephone?). Hinter ihr sitzt Demeter mit bakchos auf der Cista mystica. Im Hintergrund der Darstellung befinden sich verschiedene weitere Personen.Zuordnung zu Festen: Eleusinische Mysterien (Deubner). Rückseite: Laut Curtius Darstellung der Alkestis mit zwei Peliaden.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_borghese/25071X002.jpg
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	37
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 3.c. Initiation
+	Sequenznummer:	1200
+	Bandnummer:	2
+Catalog LIMC
+	Artikel:	Iakchos
+	Katalognummer:	2a
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eubouleus
+	Katalognummer:	11
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Demeter/Ceres (vol. IV)
+	Katalognummer:	146
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Erechtheus (vol. IV)
+	Katalognummer:	68
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	72
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Borghese
+	Direktor:	Direttore Dott.ssa Alba Costamagna
+	Anrede:	Gentile Dott.ssa Alba Costamagna,
+	Adresse:	Palazzo Scipione Borghese
+	Postleitzahl:	I-00197
+	Kontaktzenter:	Museo e Galleria Borghese
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Palazzo Borghese, Roma
+	Hat die Fotorechte:	1

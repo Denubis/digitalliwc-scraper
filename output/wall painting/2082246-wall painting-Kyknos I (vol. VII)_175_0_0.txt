@@ -1,0 +1,30 @@
+http://ark.dasch.swiss/ark:/72163/080e-7448f47791523-a
+Kyknos I (vol. VII)_175_0_0
+
+
+
+Monument
+	ID:	11672
+	Entdeckungsort:	Ercolano, Herculaneum, Herculanum
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Kyknos I
+	Beschreibung:	Doubtful inscription ]TONOS of a Roman wall-painting. The scene to which the inscription belongs is lost.
+Szene
+	ID:	11953
+	Beschreibung:	Doubtful inscription ]TONOS of a Roman wall-painting. The scene to which the inscription belongs is lost.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Kyknos I (vol. VII)
+	Katalognummer:	175
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Ercolano
+	Name:	Antiquarium
+	Rechteinhaber der Fotos:	© Antiquarium Ercolano
+	Hat die Fotorechte:	1

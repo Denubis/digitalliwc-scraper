@@ -1,0 +1,55 @@
+http://ark.dasch.swiss/ark:/72163/080e-74533849b43a9-e
+Poseidon/Neptunus_129_0_0
+Hippolytos I_120_1_0
+Hippolytos I_82_0_0
+Hippolytos I_90_0_0
+
+
+
+Monument
+	ID:	12396
+	Entdeckungsort:	Tarragona (Tarraco)
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hippolytos I Poseidon/Neptunus
+	Beschreibung:	Depiction of the death of Hippolytos. Neptunus and bull.
+Szene
+	ID:	12696
+	Beschreibung:	Depiction of the death of Hippolytos. Neptunus and bull.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Poseidon/Neptunus
+	Katalognummer:	129
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	120
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	82
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	90
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	15482
+Museum
+	Land:	ES
+	Stadt:	Tarragone
+	Name:	Musée Archéologique National
+	Direktor:	Director Francesc Tarrats Bou
+	Adresse:	Plaça del Rei 5
+	Postleitzahl:	E-43003
+	Kontaktzenter:	Musée Archéologique National
+	Stadt des Kontaktzenters:	Tarragona / Spain
+	Rechteinhaber der Fotos:	© Museo Arqueológico Nacional Tarragona
+	Hat die Fotorechte:	0

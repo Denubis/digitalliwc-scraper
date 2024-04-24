@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-75b88fedb9518-2
+Dioskouroi/Castores_151_0_0
+
+
+
+Monument
+	ID:	37602
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dioskouroi/Castores
+Szene
+	ID:	39518
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Dioskouroi/Castores
+	Katalognummer:	151
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 2, 184
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Giustiniani
+	Rechteinhaber der Fotos:	© Palazzo Giustiniani, Roma
+	Hat die Fotorechte:	1

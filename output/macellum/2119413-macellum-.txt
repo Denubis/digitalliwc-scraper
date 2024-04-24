@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-765c509ffb94e-6
+
+
+
+Monument
+	ID:	52501
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	Forum
+	Objekt:	macellum
+	Land:	CH
+	Kategorie:	cultual installations
+	Beschreibung:	Two rooms of the macellus were assigned to cult practices: the rooms had altars, a podium and numerous niches with statues of divinities, as well as the genis Macelli and some exponents of the imperial family
+	Bibliographie:	Small, A.,  The Shrine of the imperial family in the Macellum at Pompei, in Subject and Ruler: the Cult of the Ruling Power in Classical Antiquity, JRA Suppl. 17 (1996) 115-136; Torelli, M., Il culto imperiale a Pompei, in I culti della Campania antica (Atti Conv. in ricordo di N.  Valenza Mele, Napoli 1995) (1998) 262-270 tav. XCI-XCIII.
+Szene
+	ID:	57755
+	Beschreibung:	Two rooms of the macellus were assigned to cult practices: the rooms had altars, a podium and numerous niches with statues of divinities, as well as the genis Macelli and some exponents of the imperial family
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	1
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Macellum
+	Lemata:	Macellum
+	Sequenznummer:	3750
+	Bandnummer:	4
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Macellum
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Foro
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

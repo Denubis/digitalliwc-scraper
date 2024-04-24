@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-75b22bf20821d-6
+Dionysos/Bacchus_163_0_0
+
+
+
+Monument
+	ID:	37151
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Rome
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	altar mysteries satyr, silen maenad nymph
+	Name:	Dionysos/Bacchus
+	Beschreibung:	Girlandensarkophag, Fragment. Bacchusknabe auf Sockel oder Altar stehend, links und rechts je ein sitzender Satyr, links stehende Mänade oder Nymphe von Nysa (rechts eine symmetrische verloren). Einkleidung des Bacchus (für die Einweihung in seine eigenen Mysterien?)
+	Bibliographie:	SarkRel IV 1 Nr. 30 Taf. 42, 3.
+Datierung
+	Periode:	110 - 120 
+Epoche
+	Name:	Jahr 1
+	Periode:	1 
+Datierung
+	Periode:	117 - 138 
+Epoche
+	Name:	hadrianisch
+	Periode:	117 - 138 
+	Sequenznummer:	1200
+Szene
+	ID:	39050
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	163
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	AT
+	Stadt:	Wien
+	Name:	Sammlung Hämmerle (ehemals)
+	Rechteinhaber der Fotos:	© Collection Hämmerle (once)
+	Hat die Fotorechte:	1

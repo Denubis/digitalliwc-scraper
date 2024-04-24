@@ -1,0 +1,68 @@
+http://ark.dasch.swiss/ark:/72163/080e-7426a85320408-7
+Perdix I_4_0_0
+
+
+
+Monument
+	ID:	9249
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	wreath, crown, stephane, corona shield garland spear procession architectural model fillet, taenia, tainia wood saw, serra ferculum, lectica
+	Name:	Athena/Minerva Daidalos and Ikaros Perdix I
+	Grössenangabe:	H: 0,66 m; B: 0,75 m
+	Beschreibung:	Prozession der Schreiner: Vier Träger (nur drei davon sind erhalten) in tunica mit ferculum und Stäben zum Abstellen. Auf dem ferculum in einem offenen, mit Girlanden, Kränzen und Tänien verzierten Gebäude (ohne Seitenwände) drei Figuren bei Tätigkeiten in einer Schreinerwerkstatt, zwei davon sägen einen Holzbalken, der dritte hält ein weiteres Brett (hobelt?). Die Szene wird gerahmt von einem Mann mit Zirkel oder Kompass, der vor einem am Boden liegenden steht (Daidalos, der seinen Neffen Perdix (I) erschlagen hat?) auf der rechten und einer Person mit Schild und Lanze (die Person selbst ist fast nicht erhalten, Minerva?) auf der linken Seite.
+	Bibliographie:	Fröhlich, Th., Lararien- und Fassadenbilder in den Vesuvstädten (1991) 319-320 F 38 Taf. 57, 1; EAA PPM IV 390-391 n. 1 a-b.
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	9451
+	Beschreibung:	Prozession der Schreiner: Vier Träger (nur drei davon sind erhalten) in tunica mit ferculum und Stäben zum Abstellen. Auf dem ferculum in einem offenen, mit Girlanden, Kränzen und Tänien verzierten Gebäude (ohne Seitenwände) drei Figuren bei Tätigkeiten in einer Schreinerwerkstatt, zwei davon sägen einen Holzbalken, der dritte hält ein weiteres Brett (hobelt?). Die Szene wird gerahmt von einem Mann mit Zirkel oder Kompass, der vor einem am Boden liegenden steht (Daidalos, der seinen Neffen Perdix (I) erschlagen hat?) auf der rechten und einer Person mit Schild und Lanze (die Person selbst ist fast nicht erhalten, Minerva?) auf der linken Seite.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/9451X302.jpg
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	591
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 5. Kultbilder
+	Sequenznummer:	1800
+	Bandnummer:	2
+Catalog Thes CRA
+	Indexnummer:	982
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Catalog LIMC
+	Artikel:	Perdix I
+	Katalognummer:	4
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8991
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

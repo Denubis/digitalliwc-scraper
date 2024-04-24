@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-76afc3906460f-8
+Achilleus, Add._0_0
+
+
+
+Monument
+	ID:	202061
+	Entdeckungsort:	Aquileia
+	Entdeckungsort Details:	house
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	trumpet, tuba, salpinx basket warrior, soldier
+	Name:	Achilleus Skyros
+	Beschreibung:	Fragment. Warrior sounding the salpinx as well as the remains of body and left arm of a person with shield and a fallen over wool basket; maybe Achilleus in Skyros scene
+	Bibliographie:	Oriolo, F., in: I temi figurativi nella pittura parietale (Kongress Bologna 1997) 259-261. 404 fig. 4-5.
+Datierung
+	Periode:	50 - 100 
+Epoche
+	Name:	2. Hälfte 1. Jh. n. Chr.
+	Periode:	50 - 100 
+	Sequenznummer:	3050
+Szene
+	ID:	99049
+	Beschreibung:	Warrior sounding the salpinx as well as the remains of body and left arm of a person with shield and a fallen over wool basket; maybe Achilleus in Skyros scene
+Catalog LIMC
+	Artikel:	Achilleus, Add.
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Aquileia
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Soprintendente Dott.ssa Franca Maselli Scotti
+	Adresse:	Piazza della Libertà 72
+	Postleitzahl:	I-34132
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici del Friuli Venezia Giulia
+	Stadt des Kontaktzenters:	Trieste
+	Rechteinhaber der Fotos:	© Polo Museale del Friuli Venezia Giulia
+	Kommentar:	Les objets sans numéro d'inventaire sont cités d'après les numéros des catalogues de Sena Chiesa, G., Gemme del Museo Nazionale di Aquileia (1966)  et de Santa Maria Scrinari, V., Museo Archeologico di Aquileia. Catalogo delle sculture romane (1972).
+	Hat die Fotorechte:	1

@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-758b0e692d8ad-1
+Eros/Amor, Cupido_210_0_0
+
+
+
+Monument
+	ID:	34395
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido
+Szene
+	ID:	36154
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/koeln/roemisch-germanisches_museum/36154X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	210
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	31,251
+Museum
+	Land:	DE
+	Stadt:	Köln
+	Name:	Römisch-Germanisches Museum
+	Direktor:	Direktor Prof. Dr. Hansgerd Hellenkemper
+	Adresse:	Roncallipl. 4
+	Postleitzahl:	D-50667
+	Kontaktzenter:	Römisch-Germanisches Museum
+	Stadt des Kontaktzenters:	Köln
+	Rechteinhaber der Fotos:	© Römisch-Germanisches Museum Köln
+	Hat die Fotorechte:	1

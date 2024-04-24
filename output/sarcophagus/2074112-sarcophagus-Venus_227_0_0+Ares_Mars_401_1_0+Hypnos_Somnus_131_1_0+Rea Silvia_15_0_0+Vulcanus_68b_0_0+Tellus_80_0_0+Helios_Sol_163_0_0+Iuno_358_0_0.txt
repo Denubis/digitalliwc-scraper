@@ -1,0 +1,100 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d4aab27c3c5-c
+Venus_227_0_0
+Ares/Mars_401_1_0
+Hypnos/Somnus_131_1_0
+Rea Silvia_15_0_0
+Vulcanus_68b_0_0
+Tellus_80_0_0
+Helios/Sol_163_0_0
+Iuno_358_0_0
+
+
+
+Monument
+	ID:	3470
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Helios/Sol Ares/Mars Oceanus Tellus Iuno Venus Hypnos/Somnus Rea Silvia Vulcanus
+	Beschreibung:	Mars and Rea Silvia; in the left upper corner Sol on a quadriga, in front of him Lucifer and Ventus, Oceanus and Tellus. The seated goddess with a sceptre probably isn't Iuno Pronuba, but Venus. Vulcanus.
+Szene
+	ID:	3505
+	Beschreibung:	Mars and Rea Silvia; in the left upper corner Sol on a quadriga, in front of him Lucifer and Ventus, Oceanus and Tellus. Vulcanus.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_mattei_di_giove/3505X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_mattei_di_giove/3505X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_mattei_di_giove/3505X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_mattei_di_giove/3505X307.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_mattei_di_giove/3505X380.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_mattei_di_giove/3505X399.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Venus
+	Katalognummer:	227
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ares/Mars
+	Katalognummer:	401
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	131
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Rea Silvia
+	Katalognummer:	15
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Vulcanus
+	Katalognummer:	68b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Tellus
+	Katalognummer:	80
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	163
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iuno
+	Katalognummer:	358
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	61
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Mattei di Giove
+	Direktor:	Soprintendente Arch. Costantino Centroni
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Cavalletti 2
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza per i Beni Ambientali Architettonici del Lazio
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Ambientali Architettonici del Lazio
+	Kommentar:	Numéros d'après Guerrini, L. (éd.), Palazzo Mattei di Giove. Le antichità (1982).
+	Hat die Fotorechte:	1

@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-76527e42f3da3-7
+
+
+
+Monument
+	ID:	51761
+	Entdeckungsort:	Tarquinia
+	Entdeckungsort Details:	Poggio del Cavalluccio
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	relief
+	Beschreibung:	Scene showing a procession to the left: male figure with tunic and mantle, two lictors with fasces, demon with hammer pulling the horses of a biga, on it a magistrate, man wearing tunic and mantle, holding a writing tablet (processus magistraturalis)
+	Bibliographie:	Lambrechts, R., Essai sur les magistratures des républiques étrusques (1959) 141 n. 14 tav. 13.
+Szene
+	ID:	56978
+	Beschreibung:	Scene showing a procession to the left: male figure with tunic and mantle, two lictors with fasces, demon with hammer pulling the horses of a biga, on it a magistrate, man wearing tunic and mantle, holding a writing tablet (processus magistraturalis)
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	76
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 1. Prozessionen, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	90
+	Bandnummer:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	3059
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Museo Nazionale di Tarquinia
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

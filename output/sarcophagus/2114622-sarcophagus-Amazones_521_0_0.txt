@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-7617d1f5abf7b-0
+Amazones_521_0_0
+
+
+
+Monument
+	ID:	44320
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	sword helmet shield horse warrior, soldier Amazon rider
+	Name:	Amazones
+	Bibliographie:	SarkRel II pl. 49 no. 134; Redlich, Die Amazonensarkophage des 2. und 3. Jahrhunderts v. Chr. (1973) 47 no. 96; Andreae, B., RM 63 (1956) 34 no. 3.
+Datierung
+	Periode:	180 
+	Kommentar:	vers
+Epoche
+	Name:	4. Viertel 2. Jh. n. Chr.
+	Periode:	175 - 200 
+	Sequenznummer:	3230
+Szene
+	ID:	46607
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	521
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 262 + 273
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

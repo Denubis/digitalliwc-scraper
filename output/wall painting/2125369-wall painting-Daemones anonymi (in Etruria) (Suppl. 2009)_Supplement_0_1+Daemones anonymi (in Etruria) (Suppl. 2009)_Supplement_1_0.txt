@@ -1,0 +1,56 @@
+http://ark.dasch.swiss/ark:/72163/080e-76b177181f4a2-8
+Daemones anonymi (in Etruria) (Suppl. 2009)_Supplement_0_1
+Daemones anonymi (in Etruria) (Suppl. 2009)_Supplement_1_0
+
+
+
+Monument
+	ID:	202077
+	Entdeckungsort:	Tarquinia
+	Entdeckungsort Details:	Tomba degli Scudi
+	Objekt:	wall painting
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	diptych hammer, mallet, sphyra, malleus demon
+	Beschreibung:	young winged demon, sitting with two small hammers in his hands; young naked demon, sitting with a diptychon on his knees
+	Bibliographie:	Steingräber, St., Etruscan Painting (1985) 341-342 fig. 295-297;  Krauskopf, Todesdämonen 85 pl. 18; Steingräber, St., EtrWmal 349-350 fig. 295. 297.
+Datierung
+	Periode:	-333 - -300 
+Epoche
+	Name:	3. Drittel 4. Jh. v. Chr.
+	Periode:	-333 - -300 
+	Sequenznummer:	2550
+Szene
+	ID:	99065
+	Beschreibung:	young winged demon, sitting with two small hammers in his hands; young naked demon, sitting with a diptychon on his knees
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Daemones anonymi (in Etruria) (Suppl. 2009)
+	Band:	Supplement
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Daemones anonymi (in Etruria) (Suppl. 2009)
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba degli Scudi
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Necropoli
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

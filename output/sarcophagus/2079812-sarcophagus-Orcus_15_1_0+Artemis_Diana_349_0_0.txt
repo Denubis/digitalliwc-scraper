@@ -1,0 +1,56 @@
+http://ark.dasch.swiss/ark:/72163/080e-7426283a43a19-e
+Orcus_15_1_0
+Artemis/Diana_349_0_0
+
+
+
+Monument
+	ID:	9214
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	mask: theatre mask tree column naiskos, aedicula boar temple model dog deer gate horse hunt capital: Corinthian acroterion door: double-door
+	Name:	Artemis Atalante Meleagros Oineus I Orcus
+	Grössenangabe:	H. 87- 90 cm; L. 2, 23 m, T. 1 m
+	Beschreibung:	Kalydonische Eberjagd. Ein Torbogen teilt den Fries in zwei Szenen. Links: Artemis (sitzend), Oineus, Atalante, Meleager. Über Artemis ein Naiskos mit zwei korinthischen Säulen an der Front und geöffneter Tür, Giebeldach und Tragödienmasken als Akrotere. Nach rechts schreitet Orcus aus dem Torbogen. Meleager tötet den Eber, der aus einer Höhle kommt. Im Hintergrund zwei Reiter, von rechts naht ein Jäger mit Schwert.
+	Bibliographie:	SarkRel III 2, 195 Nr. 240 Taf. 82;SarkRel XII 6, 134 Nr. 152 Taf. 124c.127a.
+Datierung
+	Periode:	290 - 300 
+Epoche
+	Name:	Ende 3. Jh. n. Chr.
+	Periode:	290 - 300 
+	Sequenznummer:	3310
+Datierung
+	Periode:	300 - 310 
+Epoche
+	Name:	Anfang 4. Jh. n. Chr.
+	Periode:	300 - 310 
+	Sequenznummer:	3430
+Szene
+	ID:	9416
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/cava_dei_tirreni/museo_della_badia_benedettina_della_santissima_trinita_di_cava/9416X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Orcus
+	Katalognummer:	15
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	349
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 2, 240
+Museum
+	Land:	IT
+	Stadt:	Cava dei Tirreni
+	Name:	Museo della Badia Benedettina della Santissima Trinità di Cava
+	Rechteinhaber der Fotos:	© Museo della Badia Benedettina della Santissima Trinità di Cava
+	Hat die Fotorechte:	0

@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-76110b28a10b9-8
+Achilleus_156_0_0
+
+
+
+Monument
+	ID:	43844
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Bibliographie:	Matz, Fr./Duhn, F., Antike Bildwerke in Rom (1881) II no. 3346; SarkRel II no. 38-38a.
+Szene
+	ID:	46121
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	156
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel II 38-38a
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Giustiniani
+	Rechteinhaber der Fotos:	© Palazzo Giustiniani, Roma
+	Hat die Fotorechte:	1

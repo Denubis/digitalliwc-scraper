@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-745b696bb2d9a-5
+Psyche_18_0_0
+
+
+
+Monument
+	ID:	12971
+	Entdeckungsort:	Sidon, Saida, Sdn, Sidonia, Sidone, Colonia Aurelia Pia Metropolis Sidon
+	Objekt:	sarcophagus
+	Material:	lead
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Psyche
+Szene
+	ID:	13289
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	18
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	AO 4963
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

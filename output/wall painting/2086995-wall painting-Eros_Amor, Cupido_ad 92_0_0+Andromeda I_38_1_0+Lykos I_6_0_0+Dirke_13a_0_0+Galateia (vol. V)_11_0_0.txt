@@ -1,0 +1,83 @@
+http://ark.dasch.swiss/ark:/72163/080e-748cd96a71ca4-7
+Eros/Amor, Cupido_ad 92_0_0
+Andromeda I_38_1_0
+Lykos I_6_0_0
+Dirke_13a_0_0
+Galateia (vol. V)_11_0_0
+
+
+
+Monument
+	ID:	16452
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 15,2 (Casa del Marinaio)
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	ketos, sea monster fight, battle captive
+	Name:	Andromeda I Perseus Dirke Lykos I Galateia Galateia Eros/Amor, Cupido
+	Beschreibung:	Landscape, in the centre sanctuary of Dionysos. Amphion and Zethos seizing Dirke, Lykos (I) is too late to help her. In the exedra Galateia rides a dolphin, looking up to where presumably once Polyphemos was represented. 
+	Bibliographie:	Sogliano, A., Guida di Pompei (1897) 517; Schefold, WP 206; Blanckenhagen, P., The Painting from Boscotrecase, RM Erg. H 6 (1962) 48-49 Taf. 52,2.
+Datierung
+	Periode:	-15 - 63 
+Epoche
+	Name:	3. pompejanischer Stil
+	Periode:	-15 - 63 
+	Sequenznummer:	1340
+Szene
+	ID:	36430
+	Beschreibung:	Landscape, in the centre sanctuary of Dionysos. Amphion and Zethos seizing Dirke, Lykos (I) is too late to help her. In the exedra Galateia rides a dolphin, looking up to where presumably once Polyphemos was represented.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/36430X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/36430X299.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 92
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Andromeda I
+	Katalognummer:	38
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Lykos I
+	Katalognummer:	6
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dirke
+	Katalognummer:	13a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Galateia (vol. V)
+	Katalognummer:	11
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VII 15,2
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa del Marinaio
+Inventar
+	Spezifikation:	3. Inv.
+	Nummer:	Casa dei Niobidi

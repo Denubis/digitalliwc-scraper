@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-7697cd8ac8053-f
+
+
+
+Monument
+	ID:	91919
+	Entdeckungsort:	unknown
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	unknown
+	Land:	GR
+	Kategorie:	relief
+	Stichwort:	snake tree boar dog horse Heros equitans
+	Grössenangabe:	Y. 0.66 μ - Πλ. 1.02 μ - Πάχ. 0.165 μ
+	Beschreibung:	Θραξ ιππεύς
+	Inschrift:	Πάνω από την παράσταση:BAIBIAΔIONYCIAEKTΩNIΔIΩNEAYTONHCIMΩKAIAΓAΘIAKAITΩCYMB
+	Bibliographie:	Edson, IG X.II.I 841.
+	Kommentar:	5338
+Datierung
+	Periode:	-27 - 395 
+Epoche
+	Name:	kaiserzeitlich
+	Periode:	-27 - 476 
+	Sequenznummer:	1100
+Szene
+	ID:	97521
+	Beschreibung:	Eντός βυθίσματος: Θραξ ιππεύς πάνω σε καλπάζοντα ίππο προς τα δεξιά (χιτών βραχύς, χλαμύς αναπεπταμένη προς τα αριστερά). Δεξιό χέρι άνω και αριστερά. Aριστερό χέρι δεν διακρίνεται, πίσω από την κεφαλή του ίππου. Kάτω από τον ίππο, κύων που ορμά δεξιά προς κάπρο, η κεφαλή του οποίου προβάλλει προς τα αριστερά, πίσω από δένδρο που βρίσκεται δεξιά. Όφις που ελίσσεται γύρω από δένδρο.
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	ρ 97
+Museum
+	Land:	GR
+	Stadt:	Thessalonique
+	Name:	Musée Archéologique
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Archaeological Museum of Thessaloniki
+	Hat die Fotorechte:	0

@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ccc8913e5fc-8
+Herakles_3192_1_0
+Athena/Minerva_371_0_0
+
+
+
+Monument
+	ID:	20970
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Catacombs of the via Latina
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Athena/Minerva Herakles/Hercules
+	Beschreibung:	Catacombs of the via Latina, room N, left chamber; the naked Hercules giving his hand to Minerva.
+Datierung
+	Periode:	300 - 400 
+Szene
+	ID:	21904
+	Beschreibung:	Catacombs of the via Latina, room N, left chamber; the naked Hercules giving his hand to Minerva.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/via_latina/catacomba_di_via_latina/21904X002.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	3192
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	371
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Cub. N, sin.
+Museum
+	Land:	IT
+	Stadt:	Roma, Via Latina
+	Name:	Catacomba di Via Latina
+	Rechteinhaber der Fotos:	© Catacomba di Via Latina, Roma
+	Hat die Fotorechte:	1

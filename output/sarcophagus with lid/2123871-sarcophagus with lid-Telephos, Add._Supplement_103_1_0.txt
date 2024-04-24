@@ -1,0 +1,49 @@
+http://ark.dasch.swiss/ark:/72163/080e-769c0c89a31e0-9
+Telephos, Add._Supplement_103_1_0
+
+
+
+Monument
+	ID:	200938
+	Objekt:	sarcophagus with lid
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	herm oinochoe garland pipe, flute, aulos, tibiae child hind wolf
+	Name:	Eros/Amor, Cupido Lupa Romana Pan Telephos
+	Beschreibung:	female dog suckling Telephos
+	Bibliographie:	SarkRel VI 2, 1, 106-107 no. 44 pl. 17, 1-2; RM 106 (1999) 142 fig. 8.
+Datierung
+	Periode:	117 - 138 
+Epoche
+	Name:	hadrianisch
+	Periode:	117 - 138 
+	Sequenznummer:	1200
+Szene
+	ID:	97772
+	Beschreibung:	female dog suckling Telephos
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Telephos, Add.
+	Band:	Supplement
+	Katalognummer:	103
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1999.11.7
+Museum
+	Land:	US
+	Stadt:	Atlanta (Georgia)
+	Name:	Michael C. Carlos Museum, Emory University
+	Direktor:	Curator Dr. Jasper Gaunt
+	Adresse:	571 Kilgo Circle
+	Postleitzahl:	USA-
+	Kontaktzenter:	Michael C. Carlos Museum, Emory University
+	Stadt des Kontaktzenters:	Atlanta, Georgia 30322
+	Rechteinhaber der Fotos:	© Michael C. Carlos Museum, Emory University
+	Hat die Fotorechte:	0

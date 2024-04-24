@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-7618b136f1f6c-a
+Achilleus_697_1_0
+
+
+
+Monument
+	ID:	44386
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	helmet shield spear corselet
+	Name:	Achilleus Alkimos Automedon Priamos
+	Bibliographie:	Reinach, RépRel II 457,4.
+	Museums-URL:	http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=459950&partId=1&searchText=sculpture+2217&page=1
+Szene
+	ID:	49566
+	Szenerieangabe:	couvercle
+	Sequenznummer:	20
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	697
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2217
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	British Museum
+	Direktor:	Dr. Charles Arnold
+	Adresse:	Great Russell Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	British Museum - Greek and Roman Antiquities
+	Stadt des Kontaktzenters:	London WC 1B 3DG
+	Rechteinhaber der Fotos:	© British Museum, London
+	Hat die Fotorechte:	1

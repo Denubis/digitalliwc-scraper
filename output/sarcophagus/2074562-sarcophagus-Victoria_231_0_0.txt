@@ -1,0 +1,48 @@
+http://ark.dasch.swiss/ark:/72163/080e-73db19a8fe80f-e
+Victoria_231_0_0
+
+
+
+Monument
+	ID:	3922
+	Objekt:	sarcophagus
+	Material:	lead
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Victoria
+	Beschreibung:	Below arches two Victorias, each holding palm branch and wreath.
+Szene
+	ID:	3965
+	Beschreibung:	Below arches two Victorias, each holding palm branch and wreath.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/toulon/centre_archeologique_du_var/3965X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/toulon/centre_archeologique_du_var/3965X303.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/toulon/centre_archeologique_du_var/3965X304.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/toulon/centre_archeologique_du_var/3965X305.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/toulon/centre_archeologique_du_var/3965X399.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Victoria
+	Katalognummer:	231
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	FR
+	Stadt:	Toulon
+	Name:	Centre Archéologique du Var
+	Rechteinhaber der Fotos:	© Centre Archéologique du Var, Toulon
+	Hat die Fotorechte:	0

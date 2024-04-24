@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-7420ae7aa985e-8
+Omphale_14_0_0
+
+
+
+Monument
+	ID:	8826
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Omphale
+	Beschreibung:	Busts of Herakles, with ivy wreath, and Omphale, shouldering club. He has his arm behind her, hand on her shoulder.
+Szene
+	ID:	9027
+	Beschreibung:	Busts of Herakles, with ivy wreath, and Omphale, shouldering club. He has his arm behind her, hand on her shoulder.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/9027X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Omphale
+	Katalognummer:	14
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9004
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

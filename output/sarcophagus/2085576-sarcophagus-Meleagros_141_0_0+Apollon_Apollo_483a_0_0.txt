@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-74788ffe221ad-8
+Meleagros_141_0_0
+Apollon/Apollo_483a_0_0
+
+
+
+Monument
+	ID:	15027
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Meleagros
+	Beschreibung:	Lost. Apollon killing Meleagros. Other side: Althaia burning the log.
+Szene
+	ID:	15503
+	Beschreibung:	Apollon killing Meleagros. Other side: Althaia burning the log.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	141
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	483a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel XII 6, 79
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Barberini
+	Rechteinhaber der Fotos:	© Palazzo Barberini, Roma
+	Hat die Fotorechte:	1

@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-76b0942de8eec-e
+Monstra (Suppl. 2009)_Supplement_0_0
+
+
+
+Monument
+	ID:	202382
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	two marine monsters confronting each other; monsters are goats or carnevores with horns and winged
+	Bibliographie:	Godnick Westenholz, J. (ed.), Dragon and Fabulous Beasts. Cat. Exhib. Jerusalem, Bible Lands Museum (2004) 50-51 no. 3.
+Szene
+	ID:	99381
+	Beschreibung:	two marine monsters confronting each other; monsters are goats or carnevores with horns and winged
+Catalog LIMC
+	Artikel:	Monstra (Suppl. 2009)
+	Band:	Supplement
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	4679
+Museum
+	Land:	IL
+	Stadt:	Jerusalem
+	Name:	Bible Lands Museum
+	Direktor:	Prof. Dr. Gideon Foerster
+	Adresse:	Mount Scopus
+	Postleitzahl:	IL-91905
+	Kontaktzenter:	Head, Institute of Archaeology - The Hebrew University of Jerusalem
+	Stadt des Kontaktzenters:	Jerusalem
+	Rechteinhaber der Fotos:	© Bible Lands Museum, Jerusalem
+	Hat die Fotorechte:	1

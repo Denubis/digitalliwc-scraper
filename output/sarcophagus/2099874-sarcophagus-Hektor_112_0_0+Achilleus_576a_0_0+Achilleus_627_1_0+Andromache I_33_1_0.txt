@@ -1,0 +1,73 @@
+http://ark.dasch.swiss/ark:/72163/080e-7544f97ea5e6f-b
+Hektor_112_0_0
+Achilleus_576a_0_0
+Achilleus_627_1_0
+Andromache I_33_1_0
+
+
+
+Monument
+	ID:	29443
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	sword spear wall, Town wall horse war-chariot, harma, currus corpse
+	Name:	Achilleus Andromache I Athena Hektor Priamos
+	Bibliographie:	Young, 138-159 Abb. 1-2; Vermeule, C.C., Roman Imperial Art in Greece and Asia Minor (1968) 61 Abb. 24; Wiegartz, H. in: Myra (hrsg. Borchardt) (1975) 241.
+Datierung
+	Periode:	190 - 200 
+Epoche
+	Name:	Ende 2. Jh. n. Chr.
+	Periode:	190 - 200 
+	Sequenznummer:	3170
+Szene
+	ID:	30890
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/providence/museum_of_art/rhode_island_school_of_design/30890X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/providence/museum_of_art/rhode_island_school_of_design/30890X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/providence/museum_of_art/rhode_island_school_of_design/30890X203.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hektor
+	Katalognummer:	112
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	576a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	627
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Andromache I
+	Katalognummer:	33
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1921.074
+Museum
+	Land:	US
+	Stadt:	Providence
+	Name:	Museum of Art, Rhode Island School of Design
+	Direktor:	Gina Borromeo, Curator 
+	Adresse:	224 Benefit Street
+	Postleitzahl:	USA-
+	Kontaktzenter:	Museum of Art, Rhode Island School of Design
+	Stadt des Kontaktzenters:	Providence, RI 02903
+	Rechteinhaber der Fotos:	Photography by Erik Gould, courtesy of the Museum of Art, Rhode Island School of Design, Providence
+	Hat die Fotorechte:	1

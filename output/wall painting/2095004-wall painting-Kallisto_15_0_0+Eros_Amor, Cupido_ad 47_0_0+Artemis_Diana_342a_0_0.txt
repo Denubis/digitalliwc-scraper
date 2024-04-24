@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ff59b229cd1-9
+Kallisto_15_0_0
+Eros/Amor, Cupido_ad 47_0_0
+Artemis/Diana_342a_0_0
+
+
+
+Monument
+	ID:	24536
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 12,26 (House of L. Cornelius Diadumenus)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Kallisto Eros/Amor, Cupido Artemis/Diana
+	Beschreibung:	A figure in short tunic and leather boots, holding two spears, stands before a seated woman who has a quiver on the ground beside her and an Eros leaning against her lap. In the background are three women. Curtius suggests the scene represents the discovery of Kallisto's pregnancy by Artemis.
+Szene
+	ID:	25746
+	Beschreibung:	A figure in short tunic and leather boots, holding two spears, stands before a seated woman who has a quiver on the ground beside her and an Eros leaning against her lap. In the background are three women. Curtius suggests the scene represents the discovery of Kallisto's pregnancy by Artemis.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Kallisto
+	Katalognummer:	15
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 47
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	342a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	111441
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

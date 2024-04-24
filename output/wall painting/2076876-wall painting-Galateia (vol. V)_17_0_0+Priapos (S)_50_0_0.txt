@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-73fc2eb5a0ec1-0
+Galateia (vol. V)_17_0_0
+Priapos (S)_50_0_0
+
+
+
+Monument
+	ID:	6253
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 16,32
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Galateia Priapos
+	Beschreibung:	Galateia and Polyphemos: Polyphemos and Galateia who rides a dolphin. Other scene: Idol of Priapos on a fence and two offering women.
+Szene
+	ID:	48846
+	Beschreibung:	Galateia and Polyphemos: Polyphemos and Galateia who rides a dolphin. Other scene: Idol of Priapos on a fence and two offering women.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Galateia (vol. V)
+	Katalognummer:	17
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Priapos (S)
+	Katalognummer:	50
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VI 16,32
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1

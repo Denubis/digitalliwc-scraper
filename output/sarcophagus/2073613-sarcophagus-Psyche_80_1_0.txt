@@ -1,0 +1,67 @@
+http://ark.dasch.swiss/ark:/72163/080e-73cd8865f84c6-2
+Psyche_80_1_0
+
+
+
+Monument
+	ID:	2970
+	Entdeckungsort:	unknown
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Rome
+	Land:	CH
+	Kategorie:	relief
+	Name:	Psyche/Anima Psyche
+	Grössenangabe:	H: 55-58 cm; T: 52-54 cm; L: 150 cm
+	Beschreibung:	Kindersarkophag mit der Darstellung einer Eberjagd.
+	Bibliographie:	Simon, E., Kindersarkophag mit Eberjagd, in: Berger, SlgLuwig III 437-451 (Nr. 257); Simon, E., Ein spätgallienischer Kindersarkophag mit Eberjagd, JdI 85, 1970, 194-223
+	Kommentar:	Einst Sammlung Colonel J. D. Sherwood (England)
+Datierung
+	Periode:	275 - 300 
+Epoche
+	Name:	4. Viertel 3. Jh. n. Chr.
+	Periode:	275 - 300 
+	Sequenznummer:	3370
+Szene
+	ID:	13356
+	Szenerieangabe:	face principale
+	Beschreibung:	Die Darstellung auf dem Sarkophag zeigt eine Gruppe von Kindern auf der Jagd nach einem wilden Eber. Zentrum des Geschehens bilden zwei Kinder: ein Junge, der auf einem Pferd über einen Verletzten hinwegreitet und einen Speer schwingt, und ein Mädchen mit Flügeln (wohl Anima), das vor ihm herläuft. Als Helfer treten weitere, leicht bekleidete Knaben mit allerlei Waffen in Erscheinung! Am rechten Bildrand des Sarkophags wehrt sich der in eine Höhle getriebene, wilde Eber; er wird von einem Helfer mit Wurfstein und einem Jagdhund in Schach gehalten; über der Höhle hat einer der Knaben einen Hirsch gefangen.
+	Sequenznummer:	10
+	Name:	Psyche/Anima
+	Stichwort:	boar dog child laurel-tree cave horse hunt
+Foto
+	Monument-URL:	http://www.limc.ch/Images/switzerland/basel/antikenmuseum_und_sammlung_ludwig/13356X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	80
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	56858
+	Szenerieangabe:	côté dr.
+	Beschreibung:	Die rechte Sarkophagseite ist nur wenig ausgearbeitet und weist ein sehr niedriges Relief auf. Links neben einem knorrigen Baum steht ein ein Jäger mit grimmigem, bärtigem Gesicht und Gamaschen. Er scheint voller Erstaunen auf die Hauptszene zu blicken - genau gleich wie die drei ihn umgebenden Tiere (Hirsch, Hund und Hase).
+	Sequenznummer:	10
+	Stichwort:	tree stag dog hare, rabbit hunter
+Szene
+	ID:	56859
+	Szenerieangabe:	côté g.
+	Beschreibung:	Die linke Seite des Sarkophages läuft - ganz im Gegensatz zur rechten Seite - in die Szenerie auf der Hauptseite hinein. Ein Knabe eilt mit geschulterter Keule nach rechts und hält an einer Leine den um die Ecke biegenden Jagdhund zurück.
+	Sequenznummer:	10
+	Stichwort:	dog child
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Lu 257
+Museum
+	Land:	CH
+	Stadt:	Basel
+	Name:	Antikenmuseum und Sammlung Ludwig
+	Direktor:	Frau Dr. Vera Slehofer
+	Adresse:	St. Albangraben 5
+	Postfach:	Postfach
+	Postleitzahl:	CH-4010
+	Kontaktzenter:	Antikenmuseum und Sammlung Ludwig
+	Stadt des Kontaktzenters:	Basel
+	Rechteinhaber der Fotos:	© Antikenmuseum und Sammlung Ludwig, Basel
+	Hat die Fotorechte:	1

@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-74443cb1ba531-2
+Pegasos (Pegasos, Bellerophon)_125a_0_0
+
+
+
+Monument
+	ID:	11340
+	Entdeckungsort:	Anaphe
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Pegasos
+Szene
+	ID:	11615
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Pegasos (Pegasos, Bellerophon)
+	Katalognummer:	125a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	GR
+	Stadt:	Anaphé
+	Rechteinhaber der Fotos:	© Anaphé
+	Hat die Fotorechte:	0

@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-75a5e7bc72bdb-b
+Ariadne (vol. III)_140_0_0
+
+
+
+Monument
+	ID:	36285
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Ariadne
+Szene
+	ID:	38157
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Ariadne (vol. III)
+	Katalognummer:	140
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	32
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Medici
+	Direktor:	Responsable Chargé de Mission Olivier Bonfait
+	Adresse:	Viale Trinità dei Monti 1
+	Postleitzahl:	I-00187
+	Kontaktzenter:	Dipartimento di Storia dell'Arte Accademia di Francia a Roma / Villa Medici
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	Académie de France à Rome
+	Kommentar:	Numéros d'après Cagiano de Azevedo, M., Le antichità di Villa Medici (1951).
+	Hat die Fotorechte:	1

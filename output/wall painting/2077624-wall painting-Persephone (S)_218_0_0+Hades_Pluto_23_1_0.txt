@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-7406e053eea5d-8
+Persephone (S)_218_0_0
+Hades/Pluto_23_1_0
+
+
+
+Monument
+	ID:	7005
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Hades/Aita, Calu Persephone
+	Beschreibung:	Persephone seized by Hades.
+Szene
+	ID:	7152
+	Beschreibung:	Persephone seized by Hades.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/williamsburg_virginia/museum_of_the_department_of_classical_studies/college_of_william_and_mary/7152X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Persephone (S)
+	Katalognummer:	218
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	23
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	96
+Museum
+	Land:	US
+	Stadt:	Williamsburg (Virginia)
+	Name:	Museum of the Department of Classical Studies, College of William and Mary
+	Rechteinhaber der Fotos:	© Museum of the Department of Classical Studies, College of William and Mary
+	Hat die Fotorechte:	0

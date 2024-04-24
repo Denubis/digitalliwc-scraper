@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-75cdebd8740c6-c
+Artemis/Diana_144_1_0
+
+
+
+Monument
+	ID:	39104
+	Entdeckungsort:	Belluno
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Artemis/Diana
+Szene
+	ID:	49731
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/belluno/museo_civico/49731X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	144
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Belluno
+	Name:	Museo Civico
+	Rechteinhaber der Fotos:	© Museo Civico Belluno
+	Hat die Fotorechte:	0

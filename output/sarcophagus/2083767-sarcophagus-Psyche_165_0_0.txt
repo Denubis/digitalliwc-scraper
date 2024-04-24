@@ -1,0 +1,31 @@
+http://ark.dasch.swiss/ark:/72163/080e-745eb333a5c98-0
+Psyche_165_0_0
+
+
+
+Monument
+	ID:	13203
+	Entdeckungsort:	Faijum
+	Objekt:	sarcophagus
+	Material:	terracotta
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Psyche
+Szene
+	ID:	13536
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	165
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	184
+Museum
+	Land:	CH
+	Stadt:	Collections privées
+	Name:	Collection Daniel Marie Fouquet (autrefois)
+	Rechteinhaber der Fotos:	© Collection Daniel Marie Fouquet (once)
+	Kommentar:	Numéros d'après Perdrizet, P., Bronzes grecs d'Egypte de la Collection Fouquet (1911) et idem, Les terres cuites grecques d'Egypte de la collection Fouquet (1921).
+	Hat die Fotorechte:	1

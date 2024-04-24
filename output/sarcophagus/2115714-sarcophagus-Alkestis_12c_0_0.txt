@@ -1,0 +1,30 @@
+http://ark.dasch.swiss/ark:/72163/080e-76276e96f5bcf-2
+Alkestis_12c_0_0
+
+
+
+Monument
+	ID:	45428
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Name:	Alkestis
+	Bibliographie:	SarkRel III 1 no. 29.
+Szene
+	ID:	47821
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	12c
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 1, 29
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Merolli
+	Rechteinhaber der Fotos:	© Palazzo Merolli, Roma
+	Hat die Fotorechte:	1

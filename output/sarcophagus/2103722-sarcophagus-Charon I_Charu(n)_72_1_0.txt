@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-757bfcdb91797-4
+Charon I/Charu(n)_72_1_0
+
+
+
+Monument
+	ID:	33323
+	Entdeckungsort:	Tarquinia
+	Objekt:	sarcophagus
+	Material:	nenfro
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Charon I/Charu(n)
+Szene
+	ID:	35005
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/museo_nazionale_di_tarquinia/35005X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/museo_nazionale_di_tarquinia/35005X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/museo_nazionale_di_tarquinia/35005X299.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Charon I/Charu(n)
+	Katalognummer:	72
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	3066
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Museo Nazionale di Tarquinia
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

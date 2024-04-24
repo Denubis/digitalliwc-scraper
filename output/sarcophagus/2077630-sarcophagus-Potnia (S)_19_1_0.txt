@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-7406f64990cfb-a
+Potnia (S)_19_1_0
+
+
+
+Monument
+	ID:	7011
+	Entdeckungsort:	Klazomenai
+	Objekt:	sarcophagus
+	Material:	terracotta
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Potnia
+Szene
+	ID:	7158
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/berlin/staatliche_museen_zu_berlin/antikensammlung/7158X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Potnia (S)
+	Katalognummer:	19
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	V.I. 3353
+Museum
+	Land:	DE
+	Stadt:	Berlin
+	Name:	Staatliche Museen zu Berlin, Antikensammlung
+	Direktor:	Dir. Prof. Dr. Andreas Scholl
+	Anrede:	Sehr geehrter Herr Professor,
+	Adresse:	Bodestrasse 1-3
+	Postleitzahl:	D-10178
+	E-Mail:	ant@smb.spk-berlin.de
+	Kontaktzenter:	Antikensammlung, Staatliche Museen zu Berlin - Preussischer Kulturbesitz
+	Stadt des Kontaktzenters:	Berlin
+	Rechteinhaber der Fotos:	© Staatliche Museen zu Berlin, Antikensammlung
+	Hat die Fotorechte:	1

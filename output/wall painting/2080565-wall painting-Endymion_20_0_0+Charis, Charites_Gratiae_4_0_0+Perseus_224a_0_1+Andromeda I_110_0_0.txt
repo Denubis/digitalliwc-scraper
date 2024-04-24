@@ -1,0 +1,72 @@
+http://ark.dasch.swiss/ark:/72163/080e-7430ec254328e-c
+Endymion_20_0_0
+Charis, Charites/Gratiae_4_0_0
+Perseus_224a_0_1
+Andromeda I_110_0_0
+
+
+
+Monument
+	ID:	9979
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 4,57 (Casa dei Capitelli Figurati)
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	gorgoneion water
+	Name:	Andromeda I Perseus Charis, Charites/Gratiae Endymion
+	Beschreibung:	Perseus and Andromeda by the sea.
+	Bibliographie:	Helbig, Wandgemälde no. 1194; Schefold, WP 186; Museo Borbonico XII 49.
+Datierung
+	Periode:	69 - 79 
+Epoche
+	Name:	vespasianisch
+	Periode:	69 - 79 
+	Sequenznummer:	1185
+Szene
+	ID:	49470
+	Beschreibung:	Perseus and Andromeda by the sea.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49470X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	20
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Charis, Charites/Gratiae
+	Katalognummer:	4
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Perseus
+	Katalognummer:	224a
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Andromeda I
+	Katalognummer:	110
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VII 4,57
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa dei Capitelli figurati

@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-75108198da841-c
+Epona (vol. V)_198_0_0
+
+
+
+Monument
+	ID:	25746
+	Entdeckungsort:	Rome
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Epona
+Szene
+	ID:	27028
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Epona (vol. V)
+	Katalognummer:	198
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Circo di Massenzio
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Direktor:	Soprintendente Prof. Adriano La Regina
+	Adresse:	Piazza S. Maria Nova 53
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza Archeologica di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	0

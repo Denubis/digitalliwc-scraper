@@ -1,0 +1,57 @@
+http://ark.dasch.swiss/ark:/72163/080e-7520b09fb2b5d-a
+Hades/Pluto_20_0_0
+Athena/Minerva_437_1_0
+Artemis/Diana_319a_0_0
+
+
+
+Monument
+	ID:	26891
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Artemis/Diana Athena/Minerva Hades Hades/Pluto
+	Beschreibung:	Sarcophagus with the rape of Persephone: Pluto on the quadriga, Minerva trying to hold him back, in turn held back by Venus, leftmost Ceres on a chariot.
+Szene
+	ID:	28249
+	Beschreibung:	Sarcophagus with the rape of Persephone: Pluto on the quadriga, Minerva trying to hold him back, in turn held back by Venus, leftmost Ceres on a chariot.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_albani/28249X203.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_albani/28249X301.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_albani/28249X304.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_albani/28249X305.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	20
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	437
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	319a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	139
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Albani
+	Adresse:	Via della Conciliazione 30
+	Postleitzahl:	I-00193
+	Kontaktzenter:	Amministrazione Torlonia
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Phot. proprietà Principe Torlonia
+	Hat die Fotorechte:	0

@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-745158d6b4fda-e
+Poseidon/Neptunus_117_0_1
+
+
+
+Monument
+	ID:	12265
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Poseidon/Neptunus
+	Beschreibung:	Neptunus driving a biga drawn by hippocamps. Amor in front.
+Szene
+	ID:	12563
+	Beschreibung:	Neptunus driving a biga drawn by hippocamps. Amor in front.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Poseidon/Neptunus
+	Katalognummer:	117
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Gl 144
+Museum
+	Land:	DE
+	Stadt:	Berlin
+	Name:	Schloss Klein-Glienicke
+	Rechteinhaber der Fotos:	© Schloss Klein-Glienicke
+	Hat die Fotorechte:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	37
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Medici
+	Direktor:	Responsable Chargé de Mission Olivier Bonfait
+	Adresse:	Viale Trinità dei Monti 1
+	Postleitzahl:	I-00187
+	Kontaktzenter:	Dipartimento di Storia dell'Arte Accademia di Francia a Roma / Villa Medici
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	Académie de France à Rome
+	Kommentar:	Numéros d'après Cagiano de Azevedo, M., Le antichità di Villa Medici (1951).
+	Hat die Fotorechte:	1

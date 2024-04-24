@@ -1,0 +1,49 @@
+http://ark.dasch.swiss/ark:/72163/080e-7482fc1298faa-d
+Kyklops, Kyklopes_28_0_0
+Galateia (vol. V)_9_1_0
+
+
+
+Monument
+	ID:	15761
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 4, 51 (Casa dei Capitelli colorati, Casa di Arianna)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Galateia Kyklopes
+	Beschreibung:	Galateia and Polyphemos: Polyphemos stands at left with his flock, looking at Galateia. She rides a dolphin, attended by a Triton and a flying Eros who holds a sunshade over her.
+Szene
+	ID:	16292
+	Beschreibung:	Galateia and Polyphemos: Polyphemos stands at left with his flock, looking at Galateia. She rides a dolphin, attended by a Triton and a flying Eros who holds a sunshade over her.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/16292X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kyklops, Kyklopes
+	Katalognummer:	28
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Galateia (vol. V)
+	Katalognummer:	9
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8886
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

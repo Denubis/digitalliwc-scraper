@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-758b74e377a39-9
+Eros/Amor, Cupido_235_0_0
+Eros/Amor, Cupido_469_1_0
+
+
+
+Monument
+	ID:	34423
+	Entdeckungsort:	Italy
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido
+Szene
+	ID:	36183
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/madison/chazen_museum_of_art_once_elvehjem_museum_of_art/university_of_wisconsin-madison/36183X002.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	235
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	469
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1969.13.1
+Museum
+	Land:	US
+	Stadt:	Madison
+	Name:	Chazen Museum of Art (once Elvehjem Museum of Art), University of Wisconsin-Madison
+	Adresse:	800 University Avenue
+	Postleitzahl:	USA-
+	Kontaktzenter:	Chazen Museum of Art
+	Stadt des Kontaktzenters:	Madison, WI 53706-1479
+	Rechteinhaber der Fotos:	© Chazen Museum of Art, University of Wisconsin-Madison
+	Hat die Fotorechte:	1

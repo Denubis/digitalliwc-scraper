@@ -1,0 +1,49 @@
+http://ark.dasch.swiss/ark:/72163/080e-7432aaa7cf270-2
+Phaidra_2_1_0
+Hippolytos I_10_1_0
+Hippolytos I_87_1_0
+Hippolytos I_119_1_0
+
+
+
+Monument
+	ID:	10101
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hippolytos I Phaidra
+	Beschreibung:	On the right Phaidra seated to the left, her right arm is supported by a companion, turning back to her nurse. Eros prepares to draw an arrow in the direction of Phaidra. On the left two women playing instruments, three further women in the background.
+Szene
+	ID:	10318
+	Beschreibung:	On the right Phaidra seated to the left, her right arm is supported by a companion, turning back to her nurse. Eros prepares to draw an arrow in the direction of Phaidra. On the left two women playing instruments, three further women in the background.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Phaidra
+	Katalognummer:	2
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	10
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	87
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	119
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Agrigento
+	Name:	Duomo
+	Rechteinhaber der Fotos:	© Duomo, Agrigento
+	Hat die Fotorechte:	1

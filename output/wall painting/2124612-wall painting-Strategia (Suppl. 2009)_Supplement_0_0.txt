@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-76a6a4895e519-2
+Strategia (Suppl. 2009)_Supplement_0_0
+
+
+
+Monument
+	ID:	201727
+	Entdeckungsort:	Baalbek
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	female head with inscription ΣΤΡΑΤΕΓΙΑ
+	Inschrift:	ΣΤΡΑΤΕΓΙΑ
+	Bibliographie:	Rey-Coquais, J.-P., Inscriptions grecques et latines VI (1967) no. 2843 pl. 35.
+Datierung
+	Periode:	300 - 400 
+Epoche
+	Name:	4. Jh. n. Chr.
+	Periode:	300 - 400 
+	Sequenznummer:	3420
+Szene
+	ID:	98705
+	Beschreibung:	female head with inscription ΣΤΡΑΤΕΓΙΑ
+	Inschrift:	ΣΤΡΑΤΕΓΙΑ
+Catalog LIMC
+	Artikel:	Strategia (Suppl. 2009)
+	Band:	Supplement
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	LB
+	Stadt:	Baalbek
+	Name:	Musée
+	Direktor:	M. le Directeur Général, Frédéric Husseini
+	Adresse:	Rue du Musée
+	Kontaktzenter:	Direction Générale des Antiquités
+	Stadt des Kontaktzenters:	Beyrouth  / Liban
+	Rechteinhaber der Fotos:	© Musée Baalbek
+	Hat die Fotorechte:	0

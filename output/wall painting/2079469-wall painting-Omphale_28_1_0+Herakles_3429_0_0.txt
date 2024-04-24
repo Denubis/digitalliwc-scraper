@@ -1,0 +1,66 @@
+http://ark.dasch.swiss/ark:/72163/080e-742140e037f26-4
+Omphale_28_1_0
+Herakles_3429_0_0
+
+
+
+Monument
+	ID:	8868
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	altar tree tablet, pinax altar with protection against wind altar: monolithic block
+	Name:	Eros/Amor, Cupido Herakles Omphale
+	Beschreibung:	Herakles und Omphale. Baum, Block-Altar (in Übereckansicht, seitlicher Windschutz), an dem ein figurativ bemalter Pinax lehnt. Eroten.
+	Bibliographie:	De Cazanove, O., in: Les bois sacrés (Kongr. Centre Jean Bérard, Neapel, 1989) (1993) 121 Abb. 10.
+Datierung
+	Periode:	50 - 60 
+Szene
+	ID:	9070
+	Beschreibung:	Herakles und Omphale. Baum, Block-Altar (in Übereckansicht, seitlicher Windschutz), an dem ein figurativ bemalter Pinax lehnt. Eroten.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/9070X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/9070X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/9070X399.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	128
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	IV. 1.b. Kultorte (Darstellungen)
+	Sequenznummer:	4500
+	Bandnummer:	4
+Catalog LIMC
+	Artikel:	Omphale
+	Katalognummer:	28
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	3429
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9000
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

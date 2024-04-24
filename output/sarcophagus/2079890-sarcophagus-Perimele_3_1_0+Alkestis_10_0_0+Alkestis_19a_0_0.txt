@@ -1,0 +1,57 @@
+http://ark.dasch.swiss/ark:/72163/080e-742745b37fc1f-0
+Perimele_3_1_0
+Alkestis_10_0_0
+Alkestis_19a_0_0
+
+
+
+Monument
+	ID:	9292
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	kline, bed child
+	Name:	Admetos II Alkestis Herakles Perimele
+	Beschreibung:	Alkestis on her deathbed, her daughter Perimele and her son kneeling at the bed.
+	Bibliographie:	SarkRel III 1 pl. 6 no. 24; Blome, P., RM 85, 1978, 437-439 fig. 1.
+Szene
+	ID:	9495
+	Beschreibung:	Alkestis on her deathbed, her daughter Perimele and her son kneeling at the bed.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/saint-aignan/chateau/9495X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/saint-aignan/chateau/9495X303.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/saint-aignan/chateau/9495X398.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Perimele
+	Katalognummer:	3
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	10
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	19a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	FR
+	Stadt:	Saint-Aignan
+	Name:	Château
+	Rechteinhaber der Fotos:	© Château Saint-Aignan
+	Hat die Fotorechte:	0

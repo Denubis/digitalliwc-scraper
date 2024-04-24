@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-7620624013f6e-5
+Adonis_39_0_0
+
+
+
+Monument
+	ID:	44924
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	horse
+	Name:	Adonis Aphrodite/Venus
+	Bibliographie:	SarkRel III 1, 14-15 no. 13 pl.3.
+Datierung
+	Periode:	100 - 200 
+Epoche
+	Name:	2. Jh. n. Chr.
+	Periode:	100 - 200 
+	Sequenznummer:	3140
+Szene
+	ID:	47271
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_giustiniani_massimo/47271X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Adonis
+	Katalognummer:	39
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 1, 13
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Giustiniani Massimo
+	Rechteinhaber der Fotos:	© Villa Giustiniani Massimo, Roma
+	Hat die Fotorechte:	1

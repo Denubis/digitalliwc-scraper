@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-73fc70968769b-3
+Nekyia (S)_4_1_0
+Danaides, Add._Supplement_6_0_0
+Persephone, Add._Supplement_0_1
+
+
+
+Monument
+	ID:	6275
+	Entdeckungsort:	Alexandria
+	Entdeckungsort Details:	necropolis
+	Objekt:	wall painting
+	Herkunft:	Egypt
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Nekyia
+	Beschreibung:	A boat divides the panel in two zones: Above in the centre a male figure (Rhadamanthys or Aiakos) at a door from where a ladder leads downwards. Two serpents, Sisyphos, Ixion, man with long hair and long dress (Minos?). On the left of the niche Persephone seated and Hades. Below female figures with pithos and another vessel, probably the Danaids; Charon in his boat and a deceased with shield. In the lower panel the interior of a building to which a ladder leads down. To the right a female figure with thyrsos, male figure with short dress, a standing and an enthroned woman and an altar. On the right side of the niche two male figures. 
+Szene
+	ID:	6400
+	Beschreibung:	A boat divides the panel in two zones: Above in the centre a male figure (Rhadamanthys or Aiakos) at a door from where a ladder leads downwards. Two serpents, Sisyphos, Ixion, man with long hair and long dress (Minos?). On the left of the niche Persephone seated and Hades. Below female figures with pithos and another vessel, probably the Danaids; Charon in his boat and a deceased with shield. In the lower panel the interior of a building to which a ladder leads down. To the right a female figure with thyrsos, male figure with short dress, a standing and an enthroned woman and an altar. On the right side of the niche two male figures. 
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Nekyia (S)
+	Katalognummer:	4
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Danaides, Add.
+	Band:	Supplement
+	Katalognummer:	6
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Persephone, Add.
+	Band:	Supplement
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	EG
+	Stadt:	Alexandrie
+	Name:	Nécropole de Shatby
+	Rechteinhaber der Fotos:	© Alexandria
+	Hat die Fotorechte:	1

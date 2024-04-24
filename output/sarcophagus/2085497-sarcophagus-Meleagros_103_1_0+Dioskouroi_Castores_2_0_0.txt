@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-74776edbf59e2-a
+Meleagros_103_1_0
+Dioskouroi/Castores_2_0_0
+
+
+
+Monument
+	ID:	14947
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Meleagros Dioskouroi/Castores
+	Beschreibung:	Strigil sarcophagus. Melagros and Atalante.
+Datierung
+	Periode:	250 
+Szene
+	ID:	15421
+	Beschreibung:	Melagros and Atalante.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/wilton_house/15421X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	103
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dioskouroi/Castores
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Michaelis 129
+Museum
+	Land:	GB
+	Stadt:	Wilton House
+	Rechteinhaber der Fotos:	© Wilton House
+	Hat die Fotorechte:	1

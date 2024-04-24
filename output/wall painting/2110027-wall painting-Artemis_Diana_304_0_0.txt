@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-75d620a36307c-b
+Artemis/Diana_304_0_0
+
+
+
+Monument
+	ID:	39688
+	Entdeckungsort:	Ostia
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Artemis/Diana
+Szene
+	ID:	41737
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	304
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	10093
+Museum
+	Land:	IT
+	Stadt:	Ostia
+	Name:	Museo Ostiense
+	Direktor:	Dott.ssa Elvira Angeloni
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Viale dei Romagnoli 717
+	Postleitzahl:	I-00119
+	Kontaktzenter:	Soprintendenza archeologica di Ostia
+	Stadt des Kontaktzenters:	Ostia Antica - Roma
+	Rechteinhaber der Fotos:	Archivio Fotografico della Soprintendenza Archeologica per i beni archeologici di Ostia
+	Hat die Fotorechte:	1

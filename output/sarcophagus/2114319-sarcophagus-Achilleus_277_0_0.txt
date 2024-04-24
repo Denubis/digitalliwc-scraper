@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-76137d012eb50-7
+Achilleus_277_0_0
+
+
+
+Monument
+	ID:	44005
+	Objekt:	sarcophagus
+	Herkunft:	Klazomenai
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Achilleus
+Szene
+	ID:	46284
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	277
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	3619
+Museum
+	Land:	TR
+	Stadt:	Izmir
+	Name:	Musée Archéologique
+	Direktor:	Mme le Dr. Pascale Linant de Bellefonds
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-92023
+	Kontaktzenter:	Université Paris X-Nanterre; Maison de l'Archéologie/Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Archaeological Museum Izmir
+	Hat die Fotorechte:	1

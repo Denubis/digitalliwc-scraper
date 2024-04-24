@@ -1,0 +1,54 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d718e219897-b
+Kentauroi et Kentaurides (S)_429_1_0
+
+
+
+Monument
+	ID:	3640
+	Entdeckungsort:	Thessalonica (Macedonia)
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Thessalonica
+	Land:	GR
+	Kategorie:	relief
+	Stichwort:	lagobolon, pedum panther, leopard club knife tree kithara skin bird (undetermined) pipe, flute, aulos, tibiae child goat kanoun, offering basket grapes barbiton keras, drinking horn vine-branch, vine-foliage with grapes pardalis, pantherskin the dead fruit disk kalathos (container) griffin satyr, silen maenad papposilenus centaur
+	Name:	Eros/Amor, Cupido Gryps Hermaphroditos Kentauroi and Kentaurides
+	Grössenangabe:	-
+	Beschreibung:	A,B,Γ. Eρμαφρόδιτος(;), Σάτυροι, Mαινάδες ή Γυναίκες, Eρωτιδείς, Παίδες, Παπποσιλεινός.Δ. Kένταυροι και Γρύπες.
+	Inschrift:	..ANTIA ΔAMOKPATIA ΠAYTAΛIΩTEIΣA ΠEPIOYΣA THN ΩPON TAYTH HΓOPAΣA EK TΩN KOINΩN KAMATΩN TΩ ΓΛYKYTATΩ MOY ΣYMBIΩ.. BITAΛIΩPEΣTI TOYTΩ TΩ ΔIAΣHMOTATΩ MNHΣΘEIΣA ΣOY THΣ KAΛHΣ ΨYXHΣ KE ΠPΩTON MAΛIΣTA TΩN ΓΛYKYTATΩN ΣOY TEKNΩN                       //AΦHKEΣ ΣYN EMY KAXNEIΔE TIΣ ETEPOΣ TOΛMHΣH ΠPOΣHKΩN TΩ ΓENIANYZH H METAKEINHΣH META TOE ME KATATEΘHNE ΔΩΣITΩ ΔIEPΩTATΩ TAMEIΩ ΠPOTEI MOY 3E MH                                                       KAI TH ΠOΛI 3E MΔ
+	Bibliographie:	Beguignon, Y., “Chronique des fouilles et decouvertes archeologiques dans l’ orient hellenique”, BCH 54 (1930) 496.Edson, IG X II I. 572 Pl. XIV.Kαλλιπολίτης, Aττικαί Σαρκοφάγοι Pωμαϊκής Eποχής (1958) 27 αρ. 153 Πίν. 4α-β.Giuliano, Il commercio dei Sarcofagi attici 44 no. 224.Matz, Die Dionysische Sarkophage Teil I 112 Taf. 17.18.19.Πέτσας, Φ.M., Mακεδονικά 9 (1969) 141 αρ. 40 Πίν. 21.Koch-Sichterman, RömSark 398 Anm. 4.
+	Kommentar:	3682
+Datierung
+	Periode:	250 - 275 
+	Kommentar:	um
+Epoche
+	Name:	3. Viertel 3. Jh. n. Chr.
+	Periode:	250 - 275 
+	Sequenznummer:	3360
+Szene
+	ID:	3677
+	Beschreibung:	Centaurs fighting with griffins.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/thessalonique/musee_archeologique/3677X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	429
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1247
+Museum
+	Land:	GR
+	Stadt:	Thessalonique
+	Name:	Musée Archéologique
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Archaeological Museum of Thessaloniki
+	Hat die Fotorechte:	0

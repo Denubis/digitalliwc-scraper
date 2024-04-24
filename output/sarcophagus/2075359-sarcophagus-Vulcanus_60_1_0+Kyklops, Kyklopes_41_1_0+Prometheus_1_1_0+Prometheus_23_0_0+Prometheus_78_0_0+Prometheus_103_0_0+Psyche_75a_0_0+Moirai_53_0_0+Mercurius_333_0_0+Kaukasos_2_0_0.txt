@@ -1,0 +1,106 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e67e9d4de60-2
+Vulcanus_60_1_0
+Kyklops, Kyklopes_41_1_0
+Prometheus_1_1_0
+Prometheus_23_0_0
+Prometheus_78_0_0
+Prometheus_103_0_0
+Psyche_75a_0_0
+Moirai_53_0_0
+Mercurius_333_0_0
+Kaukasos_2_0_0
+
+
+
+Monument
+	ID:	4722
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kaukasos Kyklopes Moirai Mercurius Vulcanus Prometheus Psyche
+	Beschreibung:	On a minor side (today lost) the enchained Prometheus, Kaukasos reclining below and Herakles drawing his bow. Main side: Formation of mankind by Prometheus. Mercurius aprroaching with Anima. Then the three Moirai. Vulcanus working.
+Szene
+	ID:	4795
+	Beschreibung:	On a minor side (today lost) the enchained Prometheus, Kaukasos reclining below and Herakles drawing his bow. Main side: Formation of mankind by Prometheus. Mercurius aprroaching with Anima. Then the three Moirai. Vulcanus working.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/4795X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/4795X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/4795X010.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/4795X208.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/4795X209.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Vulcanus
+	Katalognummer:	60
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kyklops, Kyklopes
+	Katalognummer:	41
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Prometheus
+	Katalognummer:	1
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Prometheus
+	Katalognummer:	23
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Prometheus
+	Katalognummer:	78
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Prometheus
+	Katalognummer:	103
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	75a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Moirai
+	Katalognummer:	53
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	333
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kaukasos
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 355
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

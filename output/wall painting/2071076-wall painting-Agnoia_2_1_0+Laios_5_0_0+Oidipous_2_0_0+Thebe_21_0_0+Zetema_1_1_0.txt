@@ -1,0 +1,72 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a9432ff5779-1
+Agnoia_2_1_0
+Laios_5_0_0
+Oidipous_2_0_0
+Thebe_21_0_0
+Zetema_1_1_0
+
+
+
+Monument
+	ID:	399
+	Entdeckungsort:	Hermoupolis Magna (Egypt)
+	Entdeckungsort Details:	tomb
+	Objekt:	wall painting
+	Herkunft:	Egypt
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	base murder sphinx architecture
+	Name:	Agnoia Laios Oidipous Thebe Zetema
+	Beschreibung:	Wall painting showing six figures: In the left part: Oidipous, Sphinx, Zetema and Thebe. On the right a female figure and Agnoia (named). Agnoia witnesses a male figure (Oedipus) murdering a kneeling one (Laios). Agnoia is the personification of ignorance.
+	Bibliographie:	Gabra, S./ Drioton, W., Peintrures à fresque et scènes peintes à Hermoupolis-Ouest, Touna El-Gebe (1954) pl. 15; Lehmann, K., JRS 52, 1962, 62-68 pl. 9, 1. 10, 1.
+Datierung
+	Periode:	100 - 200 
+Epoche
+	Name:	2. Jh. n. Chr.
+	Periode:	100 - 200 
+	Sequenznummer:	3140
+Szene
+	ID:	187
+	Beschreibung:	Wall painting showing six figures: In the left part: Oidipous, Sphinx, Zetema and Thebe. On the right a female figure and Agnoia (named). Agnoia witnesses a male figure (Oedipus) murdering a kneeling one (Laios). Agnoia is the personification of ignorance.
+Foto
+	Monument-URL:	http://www.limc.ch/Images/egypt/cairo/egyptian_museum/187X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/egypt/cairo/egyptian_museum/187X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Agnoia
+	Katalognummer:	2
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Laios
+	Katalognummer:	5
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Oidipous
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Thebe
+	Katalognummer:	21
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Zetema
+	Katalognummer:	1
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	JE 63609
+Museum
+	Land:	EG
+	Stadt:	Cairo
+	Name:	Egyptian Museum
+	Kontaktzenter:	Musée Egyptien
+	Stadt des Kontaktzenters:	Le Caire
+	Rechteinhaber der Fotos:	© Egyptian Museum Cairo
+	Hat die Fotorechte:	1

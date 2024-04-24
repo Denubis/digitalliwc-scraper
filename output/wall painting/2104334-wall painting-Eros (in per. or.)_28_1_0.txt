@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-7584bcba2e28b-9
+Eros (in per. or.)_28_1_0
+
+
+
+Monument
+	ID:	33944
+	Entdeckungsort:	Petra (Jordan)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Eros
+Szene
+	ID:	35694
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Eros (in per. or.)
+	Katalognummer:	28
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Triclinium de Sîq el-Bared
+Museum
+	Land:	JO
+	Stadt:	Pétra
+	Rechteinhaber der Fotos:	© Petra
+	Hat die Fotorechte:	1

@@ -1,0 +1,49 @@
+http://ark.dasch.swiss/ark:/72163/080e-765c24b4b7412-2
+
+
+
+Monument
+	ID:	52488
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VIII 7,28 (formerly 8,28) (Temple of Isis)
+	Objekt:	culina
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Culina; a place dedicated to food preparation, known from private houses but also from sanctuaries and graves
+	Bibliographie:	Parise Badoni, F., PPM III (1991) 726-727 fig. 224.
+Szene
+	ID:	57742
+	Beschreibung:	Culina; a place dedicated to food preparation, known from private houses but also from sanctuaries and graves
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	3
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Culina
+	Lemata:	Culina
+	Sequenznummer:	3500
+	Bandnummer:	4
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VIII 7,28 (già VIII 8,28)
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Tempio di Iside

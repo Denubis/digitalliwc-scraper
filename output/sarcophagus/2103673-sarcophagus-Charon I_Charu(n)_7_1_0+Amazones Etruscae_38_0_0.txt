@@ -1,0 +1,65 @@
+http://ark.dasch.swiss/ark:/72163/080e-757b49858fce2-c
+Charon I/Charu(n)_7_1_0
+Amazones Etruscae_38_0_0
+
+
+
+Monument
+	ID:	33274
+	Entdeckungsort:	Vulci
+	Entdeckungsort Details:	Tomba delle Iscrizioni
+	Objekt:	sarcophagus
+	Material:	nenfro
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	sword shield spear axe, hatchet, pelekys, sacena, securis rock, cliff cave horse warrior, soldier Amazon fight, battle
+	Name:	Amazones Charon I/Charu(n)
+	Bibliographie:	Helbig 4 III 2534; Moretti, M., Il museo Nazionale di Villa Giulia (1964) 23-25 Abb. 9-12.
+Datierung
+	Periode:	-300 - -200 
+Epoche
+	Name:	3. Jh. v. Chr.
+	Periode:	-300 - -200 
+	Sequenznummer:	2570
+Szene
+	ID:	34956
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_etrusco_di_villa_giulia/34956X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_etrusco_di_villa_giulia/34956X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_etrusco_di_villa_giulia/34956X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_etrusco_di_villa_giulia/34956X399.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Charon I/Charu(n)
+	Katalognummer:	7
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amazones Etruscae
+	Katalognummer:	38
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	64174
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Etrusco di Villa Giulia
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Kommentar:	Alcuni dei numeri riportati qui sotto, senza distinzione particolare, sono tratti da pubblicazioni di materiale di scavo e da considerarsi quindi come provvisori.
+	Hat die Fotorechte:	1

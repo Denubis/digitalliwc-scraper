@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-74d9c01cd56f3-c
+Horai/Horae_61_0_0
+
+
+
+Monument
+	ID:	21887
+	Entdeckungsort:	Udine
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Horai/Horae
+	Beschreibung:	Parts of two arcades and heads of female figures (Horae) are preserved: Summer has an ear of corn close by, the other has a billowing mantle (Winter).
+Datierung
+	Periode:	218 - 268 
+Szene
+	ID:	22892
+	Beschreibung:	Parts of two arcades and heads of female figures (Horae) are preserved: Summer has an ear of corn close by, the other has a billowing mantle (Winter).
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	61
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	135
+Museum
+	Land:	IT
+	Stadt:	Aquileia
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Soprintendente Dott.ssa Franca Maselli Scotti
+	Adresse:	Piazza della Libertà 72
+	Postleitzahl:	I-34132
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici del Friuli Venezia Giulia
+	Stadt des Kontaktzenters:	Trieste
+	Rechteinhaber der Fotos:	© Polo Museale del Friuli Venezia Giulia
+	Kommentar:	Les objets sans numéro d'inventaire sont cités d'après les numéros des catalogues de Sena Chiesa, G., Gemme del Museo Nazionale di Aquileia (1966)  et de Santa Maria Scrinari, V., Museo Archeologico di Aquileia. Catalogo delle sculture romane (1972).
+	Hat die Fotorechte:	1

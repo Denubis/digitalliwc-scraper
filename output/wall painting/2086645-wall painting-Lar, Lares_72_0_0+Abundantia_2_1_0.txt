@@ -1,0 +1,92 @@
+http://ark.dasch.swiss/ark:/72163/080e-7487d871d394e-c
+Lar, Lares_72_0_0
+Abundantia_2_1_0
+
+
+
+Monument
+	ID:	16102
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	altar snake cornucopia phiale, phiale mesomphalos, patera rhyton fire (on altar) garland libation pipe, flute, aulos, tibiae sacrificial assistant fillet, taenia, tainia pig camillus plant popa (with ax or hammer) capite velato dorsuale (strap over the animal's back) situla, kados, bucket stemma, infula, band of wool tray, lanx, catinus altar: round altar pipe, flute: tibiae Phrygiae
+	Name:	Genius Lar, Lares
+	Beschreibung:	Lararienbild: Im oberen Bildfeld libiert ein Genius capite velato mit patera in der Rechten und Füllhorn im Arm an einem marmornen Rundaltar (Feuer). Hinter ihm steht ein kleiner dargestellter Opferdiener mit Tänie oder Stemma und Lanx. Hinter ihm ein großer Lar, der aus einem über den Kopf gehaltenen Rhyton in langem Strahl in eine Situla eingießt. Auf der anderen Seite des Altars, dem opfernden Genius direkt gegenüber, steht ein Flötenspieler (phrygische Flöte), auch hinter ihm kommt ein wesentlich kleiner dargestellter Opferdiener mit einem Schwein heran, das mit einer Dorsuale geschmückt ist. Hinter diesem steht quasi spiegelbildlich angeordnet ebenfalls ein großer Lar, der ebenso aus einem Rhyton in eine Situla eingießt.  Im unteren Bildfeld ein weiterer Rundaltar (Reliefschmuck) zwischen antithetischen Schlangen.
+	Bibliographie:	Fröhlich, Lararien 292 no. L 98 pl. 10, 2; Kunckel, H., Der römische Genius, RM Erg.-H. 20 (1974) pl. 35; Reinach, RépPeint 102, 7; HBr I 59 fig. 15; Schefold, WP 331.
+	Kommentar:	= LIMC I Abundantia 2*; VI Lar, Lares 72. - Weitere Beispiele: Fröhlich; LIMC VI Lar, Lares 33–46* (Patera); 63*–85* (Situla).
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	16714
+	Beschreibung:	Lararienbild: Im oberen Bildfeld libiert ein Genius capite velato mit patera in der Rechten und Füllhorn im Arm an einem marmornen Rundaltar (Feuer). Hinter ihm steht ein kleiner dargestellter Opferdiener mit Tänie oder Stemma und Lanx. Hinter ihm ein großer Lar, der aus einem über den Kopf gehaltenen Rhyton in langem Strahl in eine Situla eingießt. Auf der anderen Seite des Altars, dem opfernden Genius direkt gegenüber, steht ein Flötenspieler (phrygische Flöte), auch hinter ihm kommt ein wesentlich kleiner dargestellter Opferdiener mit einem Schwein heran, das mit einer Dorsuale geschmückt ist. Hinter diesem steht quasi spiegelbildlich angeordnet ebenfalls ein großer Lar, der ebenso aus einem Rhyton in eine Situla eingießt. Im unteren Bildfeld ein weiterer Rundaltar (Reliefschmuck) zwischen antithetischen Schlangen.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/16714X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/16714X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/16714X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/16714X103.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	76
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 2.a. Opfer, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	220
+	Bandnummer:	1
+Catalog Thes CRA
+	Indexnummer:	83
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	IV. 1.b. Kultorte (Darstellungen)
+	Sequenznummer:	4500
+	Bandnummer:	4
+Catalog Thes CRA
+	Indexnummer:	301
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Catalog LIMC
+	Artikel:	Lar, Lares
+	Katalognummer:	72
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Abundantia
+	Katalognummer:	2
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8905
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

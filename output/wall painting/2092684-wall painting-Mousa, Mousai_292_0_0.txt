@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-74de2eafe5381-7
+Mousa, Mousai_292_0_0
+
+
+
+Monument
+	ID:	22201
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Mousa, Mousai
+Szene
+	ID:	23882
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai
+	Katalognummer:	292
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	14a
+Museum
+	Land:	TR
+	Stadt:	Ephèse
+	Name:	Hanghaus 2
+	Rechteinhaber der Fotos:	© Ephesos
+	Hat die Fotorechte:	1

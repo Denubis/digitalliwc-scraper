@@ -1,0 +1,80 @@
+http://ark.dasch.swiss/ark:/72163/080e-7454b4eb59bb1-0
+Mousa, Mousai/Musae (vol. VII)_220_1_0
+Apollon/Apollo_469_1_0
+Athena/Minerva_419_0_0
+Marsyas I_41_1_0
+Athena/Minerva_419a_1_0
+
+
+
+Monument
+	ID:	12500
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Athena/Minerva Marsyas I Apollon/Apollo Mousa, Mousai
+	Beschreibung:	Sarcophagus; on the principal side: A: Marsyas with the aulos between the seated Apollo and the standing Minerva; B: Marsyas, who has lost against Apollo, is lead before the seated Minerva. On the left side: Marsyas with the aulos, to his left the seated Minerva.
+Szene
+	ID:	12802
+	Beschreibung:	Sarcophagus; on the principal side: A: Marsyas with the aulos between the seated Apollo and the standing Minerva; B: Marsyas, who has lost against Apollo, is lead before the seated Minerva. On the left side: Marsyas with the aulos, to his left the seated Minerva.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/12802X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/12802X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/12802X005.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/12802X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/12802X302.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	220
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	469
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	419
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Marsyas I
+	Katalognummer:	41
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	419a
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2402
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Musei Capitolini
+	Direktor:	Dirigente Dott. Claudio Parisi Presicce
+	Adresse:	Via delle Tre Pile, 1
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Sovraintendenza ai Beni Culturali                     del Comune di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Archivio fotografico Musei Capitolini
+	Hat die Fotorechte:	1

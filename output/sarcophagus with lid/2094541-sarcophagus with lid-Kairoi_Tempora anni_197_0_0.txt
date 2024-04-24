@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-74f8bb2772d86-5
+Kairoi/Tempora anni_197_0_0
+
+
+
+Monument
+	ID:	24071
+	Entdeckungsort:	Ampurias
+	Objekt:	sarcophagus with lid
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kairoi/Tempora anni
+	Beschreibung:	On the lid: In the centre a tablet without inscription. Framed by Erotes symbolising the Seasons (Autumn, Winter).
+	Monument-URL:	arachne.dainst.org/entity/1067151
+Datierung
+	Periode:	275 
+Szene
+	ID:	25254
+	Szenerieangabe:	couvercle
+	Beschreibung:	On the lid: In the centre a tablet without inscription. Framed by Erotes symbolising the Seasons (Autumn, Winter).
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/spain/gerone/musee_archeologique_provincial/25254X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	197
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1057
+Museum
+	Land:	ES
+	Stadt:	Gérone
+	Name:	Musée Archéologique Provincial
+	Rechteinhaber der Fotos:	© Museo Arqueológico Provincial Gerona
+	Hat die Fotorechte:	0

@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-760bb9ab5ae75-9
+Agyrtes_33_0_0
+Achilleus_154_0_0
+
+
+
+Monument
+	ID:	43458
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	helmet trumpet, tuba, salpinx
+	Name:	Achilleus Agyrtes Odysseus
+	Beschreibung:	Fragment.
+	Bibliographie:	Baratte, F., Un sarcophage d'Achille inédit, MélRom 86 (1974) 808  fig. 26; Calza, R., et al., Antichità di Villa Doria Pamphilj (1977) no. 170 pl. 107.
+Datierung
+	Periode:	240 - 260 
+Epoche
+	Name:	Mitte 3. Jh. n. Chr.
+	Periode:	240 - 260 
+	Sequenznummer:	3300
+Szene
+	ID:	45696
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Agyrtes
+	Katalognummer:	33
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	154
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Calza 170
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Doria Pamphilj
+	Rechteinhaber der Fotos:	© Villa Doria Pamphilj, Roma
+	Kommentar:	Numéros d'après Calza, R. (éd.), Antichità di Villa Doria Pamphilj (1977).
+	Hat die Fotorechte:	1

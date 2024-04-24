@@ -1,0 +1,58 @@
+http://ark.dasch.swiss/ark:/72163/080e-765d8b60ba97c-3
+
+
+
+Monument
+	ID:	52590
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Palatine
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	wreath, crown, stephane, corona uraeus hydreion (cult of Isis) situla of Isis 
+	Beschreibung:	Wandmalereien in der «Aula Isiaca». Rom, Palatin. 
+	Bibliographie:	Rizzo, G. E., Le pitture dell’Aula Isiaca di Caligola., Monumenti della pittura antica scoperti in Italia, sez. II, 2 (1936) 32-34 tav. A; Bianchi Bandinelli, R., AreteRom 123 illustrazione colori; Knauer, E. R., Urnula Faberrime Cavata. Observations on a Vessel Used in the Cult of Isis (1995) 24-28 fig. 31-33; Iacopi, I., La decorazione pittorica dell’Aula Isiaca (1997) 16–21. 
+Datierung
+	Kommentar:	~
+Epoche
+	Name:	augusteisch
+	Periode:	-27 - 14 
+	Sequenznummer:	1130
+Szene
+	ID:	57845
+	Beschreibung:	Fries unterhalb des Gewölbe-Ansatzes: zwischen Uraeen und Blüten auf Ranken silberne (?) Hydreia auf Blütenkränzen.
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	608
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Szene
+	ID:	58662
+	Beschreibung:	Oberhalb dieses Frieses an der Stirnseite im Gewölbezwickel auf einem grünen Kelch eine goldene Situla von ähnlichem Typus wie 602, im unteren Teil von einem Rosenkranz umwunden, ein zweiter hängt über dem Henkel. Auf der Mündung die Haut (?) einer Uraeus-Schlange.
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	608
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Aula Isiaca
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palatino
+	Direktor:	Soprintendente Prof. Adriano La Regina
+	Adresse:	Piazza S. Maria Nova 53
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza Archeologica di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

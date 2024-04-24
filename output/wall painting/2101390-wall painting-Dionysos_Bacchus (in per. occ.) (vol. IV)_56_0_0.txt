@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-755aa5ee0890b-c
+Dionysos/Bacchus (in per. occ.) (vol. IV)_56_0_0
+
+
+
+Monument
+	ID:	30972
+	Entdeckungsort:	Thina
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Dionysos/Bacchus
+	Monument-URL:	http://www.limc-france.fr/objet/2250 
+Szene
+	ID:	32489
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus (in per. occ.) (vol. IV)
+	Katalognummer:	56
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	3621
+Museum
+	Land:	TN
+	Stadt:	Tunis
+	Name:	Musée National du Bardo
+	Direktor:	M. le Dr. Fathi Bejaoui
+	Adresse:	4, Place du Château
+	Postleitzahl:	TN-1008
+	Kontaktzenter:	Directeur de la Division de l'Inventaire Général et de la Recherche - Institut National du Patrimoine
+	Stadt des Kontaktzenters:	Tunis
+	Rechteinhaber der Fotos:	© Institut National du Patrimoine, Tunis
+	Hat die Fotorechte:	1

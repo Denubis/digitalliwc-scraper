@@ -1,0 +1,98 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a904f7ff564-b
+Idaios_8e_0_0
+Mercurius_309_1_0
+Achilleus_486a_0_0
+Automedon_38_0_0
+Briseis_42_0_0
+Hektor_116_1_0
+Thetis_45_0_0
+Briseis_23_0_0
+
+
+
+Monument
+	ID:	379
+	Entdeckungsort:	Ladochori (near Igoumenitsa, Epirus)
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	kerykeion, caduceus helmet shield chariot gesture of supplication greaves servant mourning horse corpse
+	Name:	Achilleus Automedon Briseis Hektor Idaios Hermes/Mercurius Thetis Mercurius
+	Beschreibung:	Three scenes: On the right kneeling Priamos asking Achilleus for the corpse of Hektor. Mercurius and Briseis in the background. In the centre Achilleus on his chariot dragging Hektor. On the left the chariot of Priamos from which Trojans are unloading goods. Left minor side: Veiled Thetis, Achilleus and servants.
+	Bibliographie:	Vokotopoulou; ArchDelt 30 B 2 (1975) 211-213 pl. 119-120, 2; Linant de Bellefonds, P., Sarcophages attiques de la nécropole de Tyr(1985)37 no. 3;  Giuliani, L., JbBerlMus 31 (1989) 28-29  fig. 3. 
+Datierung
+	Periode:	200 - 210 
+	Kommentar:	ca.
+Epoche
+	Name:	um 200 n. Chr.
+	Periode:	190 - 210 
+	Sequenznummer:	3270
+Szene
+	ID:	25752
+	Beschreibung:	Three scenes: On the right kneeling Priamos asking Achilleus for the corpse of Hektor. Mercurius and Briseis in the background. In the centre Achilleus on his chariot dragging Hektor. On the left the chariot of Priamos from which Trojans are unloading goods. Left minor side: Veiled Thetis, Achilleus and servants.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/ioannina/musee_archeologique/25752X005.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/ioannina/musee_archeologique/25752X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/ioannina/musee_archeologique/25752X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/ioannina/musee_archeologique/25752X103.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Idaios
+	Katalognummer:	8e
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	309
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	486a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Automedon
+	Katalognummer:	38
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Briseis
+	Katalognummer:	42
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hektor
+	Katalognummer:	116
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Thetis
+	Katalognummer:	45
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Briseis
+	Katalognummer:	23
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	6176
+Museum
+	Land:	GR
+	Stadt:	Ioannina
+	Name:	Musée Archéologique
+	Rechteinhaber der Fotos:	© Archaeological Museum of Ioannina
+	Hat die Fotorechte:	0

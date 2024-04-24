@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-74539ec3fe535-a
+Mousa, Mousai/Musae (vol. VII)_177_1_0
+
+
+
+Monument
+	ID:	12424
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Mousa, Mousai
+Szene
+	ID:	12725
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	177
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	33-38
+Museum
+	Land:	US
+	Stadt:	Kansas City
+	Name:	Nelson-Atkins Museum of Art
+	Direktor:	To the Director
+	Adresse:	4525 Oak St.
+	Postleitzahl:	USA-
+	Kontaktzenter:	Nelson-Atkins Museum of Art
+	Stadt des Kontaktzenters:	Kansas City MO 6411-1873
+	Rechteinhaber der Fotos:	© Nelson-Atkins Museum of Art, Kansas City
+	Hat die Fotorechte:	1

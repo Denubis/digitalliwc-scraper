@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-76bc6e4043ddd-3
+
+
+
+Monument
+	ID:	203112
+	Entdeckungsort:	Chiusi, Camars, Clevsin, Clusium
+	Objekt:	sarcophagus
+	Material:	terracotta
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	sculpture in the round
+	Beschreibung:	On the urn's lid a plastic representation of a woman, Larthia Seianti
+	Bibliographie:	SBH, Etrusker 162 pl. 270-271.
+Szene
+	ID:	100150
+	Beschreibung:	On the urn's lid a plastic representation of a woman, Larthia Seianti
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	12
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VI. 1.c. Heirat, etr.
+	Bandnummer:	6
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Firenze
+	Name:	Museo Archeologico
+	Direktor:	Soprintendente Dott.ssa Fulvia Lo Schiavo
+	Anrede:	Chiarissimo Soprintendente
+	Adresse:	Via della Pergola 65
+	Postleitzahl:	I-50121
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici della Toscana
+	Stadt des Kontaktzenters:	Firenze
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici della Toscana
+	Hat die Fotorechte:	1

@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-759413d1a1140-3
+Eros/Amor, Cupido_413_0_0
+
+
+
+Monument
+	ID:	35030
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido
+Szene
+	ID:	36848
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	413
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	DE
+	Stadt:	Berlin
+	Name:	Schloss Bellevue
+	Rechteinhaber der Fotos:	© Schloss Bellevue, Berlin
+	Hat die Fotorechte:	0

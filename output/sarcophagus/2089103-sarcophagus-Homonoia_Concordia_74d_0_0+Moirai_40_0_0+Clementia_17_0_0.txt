@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-74aafc85a9ed0-0
+Homonoia/Concordia_74d_0_0
+Moirai_40_0_0
+Clementia_17_0_0
+
+
+
+Monument
+	ID:	18597
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Name:	Homonoia/Concordia Moirai
+	Beschreibung:	Subjection of foreign opponents, Roman commander. 
+	Monument-URL:	arachne.dainst.org/entity/1098264
+Szene
+	ID:	19450
+	Beschreibung:	Subjection of foreign opponents, Roman commander. 
+	Sequenznummer:	10
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Homonoia/Concordia
+	Katalognummer:	74d
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Moirai
+	Katalognummer:	40
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Clementia
+	Katalognummer:	17
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	A 5832.47-35
+Museum
+	Land:	US
+	Stadt:	Los Angeles
+	Name:	County Museum of Art
+	Rechteinhaber der Fotos:	© County Museum of Art, Los Angeles
+	Hat die Fotorechte:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	47.8.9a-c

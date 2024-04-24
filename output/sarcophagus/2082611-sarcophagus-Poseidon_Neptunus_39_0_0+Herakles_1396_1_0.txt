@@ -1,0 +1,57 @@
+http://ark.dasch.swiss/ark:/72163/080e-744e2c5644f04-f
+Poseidon/Neptunus_39_0_0
+Herakles_1396_1_0
+
+
+
+Monument
+	ID:	12040
+	Entdeckungsort:	Ostia?
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	altar phiale, phiale mesomphalos, patera fire (on altar) naiskos, aedicula libation statue
+	Name:	Herakles Poseidon/Neptunus
+	Beschreibung:	Fragment. Links Mann mit erhobenem (?) linkem Arm und mit Schale, aus der er eine Libation auf einen schmalen Altar mit Flamme giesst, vor Statue des Neptunus; hinter dieser Statue die Fassade einer distylen Aedicula, darin Herculesstatue (zu seinen Füssen Ketos?,  hinter ihm Fels??).
+	Bibliographie:	Koch/Sichtermann, RömSark 149. 245-246; Moreno, P., QuadLibia 8, 1976, 87. 95 Abb. 9.
+Datierung
+	Periode:	200 - 300 
+Epoche
+	Name:	3. Jh. n. Chr.
+	Periode:	200 - 300 
+	Sequenznummer:	3280
+Szene
+	ID:	12328
+	Beschreibung:	Fragment. Links Mann mit erhobenem (?) linkem Arm und mit Schale, aus der er eine Libation auf einen schmalen Altar mit Flamme giesst, vor Statue des Neptunus; hinter dieser Statue die Fassade einer distylen Aedicula, darin Herculesstatue (zu seinen Füssen Ketos?, hinter ihm Fels??).
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/12328X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/12328X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Poseidon/Neptunus
+	Katalognummer:	39
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	1396
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	941
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Musei Capitolini
+	Direktor:	Dirigente Dott. Claudio Parisi Presicce
+	Adresse:	Via delle Tre Pile, 1
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Sovraintendenza ai Beni Culturali                     del Comune di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Archivio fotografico Musei Capitolini
+	Hat die Fotorechte:	1

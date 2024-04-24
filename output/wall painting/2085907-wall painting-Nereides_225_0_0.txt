@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-747d4b6ce9764-0
+Nereides_225_0_0
+
+
+
+Monument
+	ID:	15359
+	Entdeckungsort:	Sousse (Hadrumetum)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Nereides
+Szene
+	ID:	15852
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Nereides
+	Katalognummer:	225
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	M XIX Ro. 771
+Museum
+	Land:	TN
+	Stadt:	Sousse
+	Name:	Musée Archéologique
+	Direktor:	M. le Dr. Fathi Béjaoui
+	Adresse:	4, Place du Château
+	Postleitzahl:	TN-1008
+	Kontaktzenter:	Directeur de la Division de l'Inventaire Général et de la Recherche - Institut National du Patrimoine
+	Stadt des Kontaktzenters:	Tunis
+	Rechteinhaber der Fotos:	© Institut National du Patrimoine, Tunis
+	Hat die Fotorechte:	1

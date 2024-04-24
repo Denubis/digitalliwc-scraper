@@ -1,0 +1,52 @@
+http://ark.dasch.swiss/ark:/72163/080e-73ed122d33c5c-a
+Virtus_40_0_0
+Eros/Amor, Cupido_2_1_0
+Virtus_47_0_0
+Hippolytos I_66_0_0
+
+
+
+Monument
+	ID:	5184
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido Hippolytos I Virtus
+	Beschreibung:	Virtus with a horse.
+Szene
+	ID:	5272
+	Beschreibung:	Virtus with a horse.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/capua/duomo/5272X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Virtus
+	Katalognummer:	40
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	2
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Virtus
+	Katalognummer:	47
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	66
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Capua
+	Name:	Duomo
+	Rechteinhaber der Fotos:	© Duomo, Capua
+	Hat die Fotorechte:	1

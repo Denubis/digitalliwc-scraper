@@ -1,0 +1,61 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d95b267282d-8
+Kentauroi et Kentaurides (S)_457c_0_0
+Dionysos/Bacchus_197_1_0
+Herakles_3270_0_0
+
+
+
+Monument
+	ID:	3800
+	Objekt:	sarcophagus lid
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Herakles Kentauroi and Kentaurides
+	Beschreibung:	A: Drunken Herakles, nude, seated on the ground, with drinking horn; B: Bacchus and Ariadne reclining in front of each other, around them satyrs, nymph, Eros. Lid: Reclining centaur with Amor.
+Datierung
+	Periode:	150 
+Szene
+	ID:	3841
+	Szenerieangabe:	couvercle
+	Beschreibung:	A: Drunken Herakles, nude, seated on the ground, with drinking horn; B: Bacchus and Ariadne reclining in front of each other, around them satyrs, nymph, Eros. Lid: Reclining centaur with Amor.
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/palazzo_medici-riccardi/3841X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/palazzo_medici-riccardi/3841X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/palazzo_medici-riccardi/3841X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/palazzo_medici-riccardi/3841X103.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/palazzo_medici-riccardi/3841X104.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	457c
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	197
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	3270
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel IV 4, 324
+Museum
+	Land:	IT
+	Stadt:	Firenze
+	Name:	Palazzo Medici-Riccardi
+	Rechteinhaber der Fotos:	© Palazzo Medici-Riccardi, Firenze
+	Hat die Fotorechte:	0

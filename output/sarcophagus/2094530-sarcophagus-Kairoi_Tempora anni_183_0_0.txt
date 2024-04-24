@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-74f892e51ee0f-e
+Kairoi/Tempora anni_183_0_0
+
+
+
+Monument
+	ID:	24060
+	Entdeckungsort:	Paramythia
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kairoi/Tempora anni
+	Beschreibung:	At the corners of the main face are herms with short chiton and mantle. Dpiction of the Seasons Fall and Summer.
+Datierung
+	Periode:	80 - 120 
+Szene
+	ID:	25243
+	Beschreibung:	At the corners of the main face are herms with short chiton and mantle. Dpiction of the Seasons Fall and Summer.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	183
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	412
+Museum
+	Land:	GR
+	Stadt:	Ioannina
+	Name:	Musée Archéologique
+	Rechteinhaber der Fotos:	© Archaeological Museum of Ioannina
+	Hat die Fotorechte:	0

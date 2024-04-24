@@ -1,0 +1,27 @@
+http://ark.dasch.swiss/ark:/72163/080e-74c601c43373a-c
+Iphigeneia_34_1_0
+
+
+
+Monument
+	ID:	20495
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Iphigeneia
+Szene
+	ID:	21406
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Iphigeneia
+	Katalognummer:	34
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	AT
+	Stadt:	Magdalensberg
+	Name:	Archäologischer Park Magdalensberg
+	Rechteinhaber der Fotos:	© Archäologischer Park Magdalensberg
+	Hat die Fotorechte:	1

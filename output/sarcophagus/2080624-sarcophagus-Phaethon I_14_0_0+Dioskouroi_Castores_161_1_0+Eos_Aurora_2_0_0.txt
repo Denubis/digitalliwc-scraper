@@ -1,0 +1,58 @@
+http://ark.dasch.swiss/ark:/72163/080e-7431c414a86f5-c
+Phaethon I_14_0_0
+Dioskouroi/Castores_161_1_0
+Eos/Aurora_2_0_0
+
+
+
+Monument
+	ID:	10038
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eos/Aurora Dioskouroi/Castores Phaethon I
+	Beschreibung:	Phaeton sarcophagus. The central part depicts the fall of Phaethon (I) into Eridanos, in the presence of a paidagogus, Kyknos and the Heliades. Winged Aurora tries to calm down the horses of Sol together with the wind gods and the Dioskouroi.
+Szene
+	ID:	10256
+	Beschreibung:	The central part depicts the fall of Phaethon (I) into Eridanos, in the presence of a paidagogus, Kyknos and the Heliades. Winged Aurora tries to calm down the horses of Sol together with the wind gods and the Dioskouroi.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/russian_federation/st_petersburg/the_state_hermitage_museum/10256X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/russian_federation/st_petersburg/the_state_hermitage_museum/10256X302.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Phaethon I
+	Katalognummer:	14
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dioskouroi/Castores
+	Katalognummer:	161
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eos/Aurora
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	а 985
+Museum
+	Land:	RU
+	Stadt:	St. Petersburg
+	Name:	The State Hermitage Museum
+	Direktor:	Ms. Anastasia Mikliaeva, Head Rights & Reproductions
+	Adresse:	Dvortsovaya Nabereznaja 34
+	Postleitzahl:	190 000
+	Kontaktzenter:	The State Hermitage Museum
+	Stadt des Kontaktzenters:	St. Petersburg / Russia
+	Rechteinhaber der Fotos:	© The State Hermitage Museum, St. Petersburg
+	Kommentar:	Pour la céramique, les chiffres avec la lettre B se rapportent au catalogue d'O. Waldhauer (1914).
+	Hat die Fotorechte:	1

@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-761a9f4db2a4f-2
+Amazones_536_0_1
+
+
+
+Monument
+	ID:	44519
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	sword helmet horse warrior, soldier Amazon Phrygian cap boots fight, battle rider
+	Name:	Amazones
+	Beschreibung:	Fragmente.
+	Bibliographie:	SarkRelII pl. 48 no.129; Kαλλιπολίτης, B. G., Χρονολογικη κατα ταξις...(1958) no.121; Giuliano, A., Il commercio dei sarcofagi attici (1962) 68 no. 446.
+Datierung
+	Periode:	190 - 210 
+Epoche
+	Name:	um 200 n. Chr.
+	Periode:	190 - 210 
+	Sequenznummer:	3270
+Szene
+	ID:	46817
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	536
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2255
+Museum
+	Land:	IT
+	Stadt:	Trieste
+	Name:	Civici Musei di Storia ed Arte e Orto Lapidario
+	Direktor:	Direttore Dr. Adriano Dugulin
+	Adresse:	Via Rossini 4
+	Postleitzahl:	I-34121
+	Kontaktzenter:	Civici Musei di Storia ed Arte e Orto Lapidario
+	Stadt des Kontaktzenters:	Trieste
+	Rechteinhaber der Fotos:	© Civici Musei di Storia ed Arte
+	Hat die Fotorechte:	1

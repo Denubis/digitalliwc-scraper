@@ -1,0 +1,59 @@
+http://ark.dasch.swiss/ark:/72163/080e-745b0a4349798-5
+Protesilaos_29_0_0
+Admetos I_20_0_0
+Alkestis_32_0_0
+Alkestis_14_0_0
+
+
+
+Monument
+	ID:	12945
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	San Pietro
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	spear
+	Name:	Admetos II Alkestis Laodameia II Protesilaos
+	Beschreibung:	Two depictions of Alkestis scenes, in between a warrior with a lance (Admetos I?).
+	Bibliographie:	Ferrua, A., RendPontAcc 23/4, 1947/9, 217-222 fig. 3; van Buren, A. W., AJA 51 (1947) 284 pl. 69; Toynbee, J. M./ Ward Perkins, J., The Shrine of the St. Peter and the Vatican Excavations (1956) 78; Andreae, A., Studien zur römischen Grabkunst, RM 9. Ergh. 1963, 35 no. 1; 44.
+Datierung
+	Periode:	190 - 200 
+Epoche
+	Name:	Ende 2. Jh. n. Chr.
+	Periode:	190 - 200 
+	Sequenznummer:	3170
+Szene
+	ID:	13259
+	Beschreibung:	Two depictions of Alkestis scenes, in between a warrior with a lance (Admetos I?).
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Protesilaos
+	Katalognummer:	29
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Admetos I
+	Katalognummer:	20
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	32
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	14
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Mausoleo I
+Museum
+	Land:	VA
+	Stadt:	Vaticano
+	Name:	Necropoli sotto San Pietro
+	Rechteinhaber der Fotos:	© Vaticano
+	Hat die Fotorechte:	1

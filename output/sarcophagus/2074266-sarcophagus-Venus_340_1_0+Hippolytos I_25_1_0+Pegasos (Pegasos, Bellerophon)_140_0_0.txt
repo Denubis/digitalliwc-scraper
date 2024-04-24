@@ -1,0 +1,66 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d6de5313c47-2
+Venus_340_1_0
+Hippolytos I_25_1_0
+Pegasos (Pegasos, Bellerophon)_140_0_0
+
+
+
+Monument
+	ID:	3624
+	Entdeckungsort:	Tyre
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hippolytos I Venus Pegasos
+	Beschreibung:	Venus teaches Amor how to to do archery.
+Szene
+	ID:	3661
+	Beschreibung:	Venus teaches Amor how to to do archery.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/lebanon/beyrouth/musee_national/3661X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/lebanon/beyrouth/musee_national/3661X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/lebanon/beyrouth/musee_national/3661X103.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/lebanon/beyrouth/musee_national/3661X104.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Venus
+	Katalognummer:	340
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	25
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Pegasos (Pegasos, Bellerophon)
+	Katalognummer:	140
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	447
+Museum
+	Land:	LB
+	Stadt:	Beyrouth
+	Name:	Musée National
+	Direktor:	Mme le Dr. Pascale Linant de Bellefonds
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-92023
+	Kontaktzenter:	Université Paris X - Nanterre - Maison de l'Archéologie / Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Musée National Beyrouth
+	Hat die Fotorechte:	1

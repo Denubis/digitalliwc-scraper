@@ -1,0 +1,64 @@
+http://ark.dasch.swiss/ark:/72163/080e-757be33cfef34-5
+Charon I/Charu(n)_62_1_0
+Acheron, Add._1_1_0
+
+
+
+Monument
+	ID:	33316
+	Entdeckungsort:	Tarquinia
+	Entdeckungsort Details:	necropolis
+	Objekt:	wall painting
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	snake staff hammer, mallet, sphyra, malleus wings
+	Name:	Acheron Charon I/Charu(n)
+	Beschreibung:	figure of an etruscan demon; bearded, with two snakes in his hair, winged, in short brown tunic
+	Inschrift:	aχrumuṇẹ
+	Bibliographie:	Moretti, M., Nuovi monumenti della pittura etrusca (1966)300-305 color fig.; Moretti, M., Etruskische Malerei in Tarquinia (1974) 130-132 fig. 91; Prayon, F., Das neugefundene Dämonengrab in Cerveteri, AW 1975, 3, 26 fig. 16; Jannot, J.-R., Charun, Tuchulcha et les autres, RM 100, 1993, 58-81; Sacchetti, Charu(n) nella pittura funeraria etrusca, Ocnus 8, 2000, 127-164 no. 12a fig. 7.
+Datierung
+	Periode:	-300 - -290 
+Epoche
+	Name:	Anfang 3. Jh. v. Chr.
+	Periode:	-300 - -290 
+	Sequenznummer:	2580
+Szene
+	ID:	34998
+	Beschreibung:	figure of an etruscan demon; bearded, with two snakes in his hair, winged, in short brown tunic
+	Inschrift:	aχrumuṇẹ
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/necropoli/34998X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/necropoli/34998X002.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Charon I/Charu(n)
+	Katalognummer:	62
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Acheron, Add.
+	Katalognummer:	1
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba dei Caronti
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Necropoli
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

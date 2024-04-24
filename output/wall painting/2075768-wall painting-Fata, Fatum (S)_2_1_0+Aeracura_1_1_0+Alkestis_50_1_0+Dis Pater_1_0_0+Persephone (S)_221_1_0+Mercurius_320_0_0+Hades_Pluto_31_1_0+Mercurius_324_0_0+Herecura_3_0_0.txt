@@ -1,0 +1,128 @@
+http://ark.dasch.swiss/ark:/72163/080e-73ec57855161d-6
+Fata, Fatum (S)_2_1_0
+Aeracura_1_1_0
+Alkestis_50_1_0
+Dis Pater_1_0_0
+Persephone (S)_221_1_0
+Mercurius_320_0_0
+Hades/Pluto_31_1_0
+Mercurius_324_0_0
+Herecura_3_0_0
+
+
+
+Monument
+	ID:	5133
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Via Appia
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	podium
+	Name:	Aeracura Alkestis Dis Pater Fata, Fatum Hades/Pluto Herecura Hermes/Mercurius Persephone Vibia Mercurius
+	Beschreibung:	A: Banquet figuré sur la lunette: six personnages vêtus de tuniques blanches à clavi et couronnés sont sur un stibadium installé en plein-air comme l’indiquent les fleurs tout autour. Au-dessus du personnage central: VIBIA; à g.: BONORVM IVDICIO; à dr.: IVDICATI. Deux plats contenant un gâteau et un poisson sont devant les convives; un serviteur apporte un troisième plat où figure une volaille (?) tandis que deux autres personnages apparaissent parmi les fleurs; à l’extrême dr. une amphore. A g. du banquet, un homme conduit une femme qui passe sous un arc; au-dessus de l’homme: ANGELVS BONVS; au-dessus et en-dessous de l’arc: INDVCTIO VIBIE. Banquet céleste de Vibia; B: On the panel: the final judgment of Vibia by Dis Pater (Pluto) and Aeracura (Proserpina).
+	Inschrift:	Names inscribed.
+	Bibliographie:	Wilpert, J., Die Malereien der Kaktakomben Roms (1903) 392-393 pl. 132, 2; EAA I (1958) 95 fig. 146; Ferrua, A., Rivista di Archeologia Cristiana 47 (1971) 7-62; Ferrua, A., Rivista di Archeologia Cristiana 49 (1973) 131-161; Ghedini, F., Raffigurazioni conviviali nei monumenti funerari romani, Rivista di Archeologia 14, 1990, fig. 24.
+Datierung
+	Periode:	350 - 400 
+Epoche
+	Name:	2. Hälfte 4. Jh. n. Chr.
+	Periode:	350 - 400 
+	Sequenznummer:	3470
+Szene
+	ID:	5220
+	Beschreibung:	A: Banquet figuré sur la lunette: six personnages vêtus de tuniques blanches à clavi et couronnés sont sur un stibadium installé en plein-air comme l’indiquent les fleurs tout autour. Au-dessus du personnage central: VIBIA; à g.: BONORVM IVDICIO; à dr.: IVDICATI. Deux plats contenant un gâteau et un poisson sont devant les convives; un serviteur apporte un troisième plat où figure une volaille (?) tandis que deux autres personnages apparaissent parmi les fleurs; à l’extrême dr. une amphore. A g. du banquet, un homme conduit une femme qui passe sous un arc; au-dessus de l’homme: ANGELVS BONVS; au-dessus et en-dessous de l’arc: INDVCTIO VIBIE. Banquet céleste de Vibia; B: On the panel: the final judgment of Vibia by Dis Pater (Pluto) and Aeracura (Proserpina).
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/via_appia/tomba_di_vibia_e_vincentinus/5220X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/via_appia/tomba_di_vibia_e_vincentinus/5220X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/via_appia/tomba_di_vibia_e_vincentinus/5220X009.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/via_appia/tomba_di_vibia_e_vincentinus/5220X205.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/via_appia/tomba_di_vibia_e_vincentinus/5220X304.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	136
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 4.a. Bankett, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	1430
+	Bandnummer:	2
+Catalog Thes CRA
+	Indexnummer:	145
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Fata, Fatum (S)
+	Katalognummer:	2
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aeracura
+	Katalognummer:	1
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	50
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dis Pater
+	Katalognummer:	1
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Persephone (S)
+	Katalognummer:	221
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	320
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	31
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	324
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herecura
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Arcosolium
+Museum
+	Land:	IT
+	Stadt:	Roma, Via Appia
+	Name:	Tomba di Vibia e Vincentinus
+	Direktor:	Dottoressa Barbara Mazzei
+	Adresse:	Via Napoleone III 1
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Pontificia Commissione die Archeologia Sacra
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Pontificia Commissione die Archeologia Sacra
+	Hat die Fotorechte:	1

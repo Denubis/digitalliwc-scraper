@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-74efb2160ef2e-f
+Herakles_3430_0_0
+Omphale_ad 28_0_0
+
+
+
+Monument
+	ID:	23428
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 13,6 (Casa del Forno di Ferro)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Herakles Omphale
+	Beschreibung:	Herakles reclining on his lionskin. Erotes and Omphale. Upper part of painting missing.
+Datierung
+	Periode:	69 - 79 
+Szene
+	ID:	24596
+	Beschreibung:	Herakles reclining on his lionskin. Erotes and Omphale. Upper part of painting missing.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	3430
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Omphale
+	Katalognummer:	ad 28
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

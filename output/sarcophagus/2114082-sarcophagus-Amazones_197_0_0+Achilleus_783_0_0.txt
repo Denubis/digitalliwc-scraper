@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-7610199aa93ef-b
+Amazones_197_0_0
+Achilleus_783_0_0
+
+
+
+Monument
+	ID:	43775
+	Entdeckungsort:	Ostia
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	Amazon fight, battle
+	Name:	Achilleus Penthesileia Amazones
+	Bibliographie:	Matz, F./v. Duhn, F., Antike Bildwerke in Rom II, Nr. 3353; SarkRel II Nr. 105 Taf 44; Redlich, R., Die Amazonensarkophage des 2. und 3. Jh. n. Chr. (1942) 68-71.
+Datierung
+	Periode:	166 - 175 
+Epoche
+	Name:	3. Drittel 2. Jh. n. Chr.
+	Periode:	166 - 200 
+	Sequenznummer:	3260
+Szene
+	ID:	46044
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	197
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	783
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel II 105
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	mercato antiquario
+	Kontaktzenter:	mercato antiquario
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© DAI Rom
+	Hat die Fotorechte:	0

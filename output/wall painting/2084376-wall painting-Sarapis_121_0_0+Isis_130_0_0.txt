@@ -1,0 +1,54 @@
+http://ark.dasch.swiss/ark:/72163/080e-746768177163d-f
+Sarapis_121_0_0
+Isis_130_0_0
+
+
+
+Monument
+	ID:	13816
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Isis Sarapis
+	Beschreibung:	Isis und Osiris thronend.
+	Bibliographie:	Elia, O., Le pitture di Iside (1941) fig. 25-26; Tran tam Tinh, V., Essai sur le culte d’Isis à Pompe (1964) 142-145 tav. VII-X; Alla ricerca di Iside (1992) 59 Nr. 1.71.
+Szene
+	ID:	14173
+	Sequenznummer:	1
+Catalog Thes CRA
+	Indexnummer:	23
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Iseum et Serapeum
+	Lemata:	Iseum et Serapeum
+	Sequenznummer:	3680
+	Bandnummer:	4
+Catalog LIMC
+	Artikel:	Sarapis
+	Katalognummer:	121
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Isis
+	Katalognummer:	130
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8927
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

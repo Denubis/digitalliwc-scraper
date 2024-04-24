@@ -1,0 +1,55 @@
+http://ark.dasch.swiss/ark:/72163/080e-742220217df17-0
+Penthesileia_54c-9_0_0
+Amazones_205_1_0
+Achilleus_777_0_0
+
+
+
+Monument
+	ID:	8928
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	Amazon
+	Name:	Achilleus Penthesileia Amazones
+	Bibliographie:	SarkRel I Nr. 97 Taf 42; Redlich, R., Die Amazonensarkophage des 2. und 3. Jh. n. Chr. (1942) 97-98 Taf. 5; Marec, E., Hippone la Royale (1954) 112 Abb. 58. 59. 62.
+	Monument-URL:	http://www.limc-france.fr/objet/4424
+Datierung
+	Periode:	250 
+	Kommentar:	about
+Epoche
+	Name:	Mitte 3. Jh. n. Chr.
+	Periode:	240 - 260 
+	Sequenznummer:	3300
+Szene
+	ID:	9130
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Penthesileia
+	Katalognummer:	54c-9
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	205
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	777
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel II 97
+Museum
+	Land:	DZ
+	Stadt:	Annaba
+	Name:	Musée d'Hippone
+	Adresse:	Route d'Hippone
+	Postleitzahl:	ALG-23000
+	Kontaktzenter:	Musée Hippone
+	Stadt des Kontaktzenters:	Annaba /Algérie
+	Rechteinhaber der Fotos:	© Musée Hippone
+	Hat die Fotorechte:	1

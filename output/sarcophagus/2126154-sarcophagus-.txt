@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-76bcb0212a5b7-6
+
+
+
+Monument
+	ID:	203129
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Bibliographie:	Andreae, RK(2) 116 fig.
+Datierung
+	Periode:	170 
+	Kommentar:	about
+Epoche
+	Name:	3. Drittel 2. Jh. n. Chr.
+	Periode:	166 - 200 
+	Sequenznummer:	3260
+Szene
+	ID:	100167
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	23
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VI. 1.e. Tod, röm.
+	Bandnummer:	6
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Melfi
+	Name:	Museo Archeologico Nazionale del Melfese
+	Direktor:	Soprintendente Dott. Antonio De Siena
+	Adresse:	Via Andrea Serrao 11
+	Postleitzahl:	I-85100
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici della Basilicata
+	Stadt des Kontaktzenters:	Potenza
+	Rechteinhaber der Fotos:	© Polo Museale della Basilicata
+	Hat die Fotorechte:	0

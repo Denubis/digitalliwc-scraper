@@ -1,0 +1,58 @@
+http://ark.dasch.swiss/ark:/72163/080e-765fdc48d5026-8
+
+
+
+Monument
+	ID:	52783
+	Entdeckungsort:	
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	knife axe, hatchet, pelekys, sacena, securis the dead
+	Beschreibung:	Liegender Mann in Mantel, in der R. ein Messer haltend, dessen Rücken leicht gekrümmt und dessen Schneideseite doppelt geschwungen ist. Auf der Matratze liegt eine langstielige Axt vom Typus «dolabra».
+	Bibliographie:	Colonna di Paolo, E. / Colonna G., Norchia I (1978) 375 n. 5; Colonna, G., in: La civiltà di Chiusi e del suo territorio. Atti del XVII Convegno di Studi Etruschi,  Chianciano Terme 1989 (1993) 341 s. fig. 1.
+Datierung
+	Periode:	-310 - -300 
+Epoche
+	Name:	Ende 4. Jh. v. Chr.
+	Periode:	-310 - -300 
+	Sequenznummer:	2460
+Datierung
+	Periode:	-300 - -290 
+Epoche
+	Name:	Anfang 3. Jh. v. Chr.
+	Periode:	-300 - -290 
+	Sequenznummer:	2580
+Szene
+	ID:	58095
+	Beschreibung:	Liegender Mann in Mantel, in der R. ein Messer haltend, dessen Rücken leicht gekrümmt und dessen Schneideseite doppelt geschwungen ist. Auf der Matratze liegt eine langstielige Axt vom Typus «dolabra».
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	1049
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	75636
+Museum
+	Land:	IT
+	Stadt:	Barbarano Romano
+	Name:	Museo Archeologico delle Necropoli Rupestri
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici del Lazio, Sezione Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Museo Archeologico delle Necropoli Rupestri
+	Hat die Fotorechte:	1

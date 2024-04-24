@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-761150b277e58-8
+Achilleus_162_0_0
+
+
+
+Monument
+	ID:	43862
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	shield
+	Name:	Achilleus
+	Beschreibung:	Fragments.
+	Bibliographie:	Catalogue Sotheby's (London) 27.3.1972 no. 183-184 pl. 17.
+Datierung
+	Periode:	125 - 150 
+Epoche
+	Name:	2. Viertel 2. Jh. n. Chr.
+	Periode:	125 - 150 
+	Sequenznummer:	3210
+Szene
+	ID:	46139
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	162
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	27.3.1972, 183-184
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	Sotheby's
+	Direktor:	Mr. Adam Levine
+	Adresse:	34-35 New Bond Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	Sotheby's
+	Stadt des Kontaktzenters:	London, W1A 2AA
+	Rechteinhaber der Fotos:	© Sotheby's, London
+	Hat die Fotorechte:	1

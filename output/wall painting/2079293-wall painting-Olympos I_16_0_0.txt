@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-741ebcbaf87b6-8
+Olympos I_16_0_0
+
+
+
+Monument
+	ID:	8690
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Olympos I
+	Beschreibung:	Marsyas with horns reaches around Olympos (I) to adjust the flutes.
+Szene
+	ID:	8888
+	Beschreibung:	Marsyas with horns reaches around Olympos (I) to adjust the flutes.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Olympos I
+	Katalognummer:	16
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

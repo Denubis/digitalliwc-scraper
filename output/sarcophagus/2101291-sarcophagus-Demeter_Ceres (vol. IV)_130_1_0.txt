@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-75593b9914ddc-0
+Demeter/Ceres (vol. IV)_130_1_0
+
+
+
+Monument
+	ID:	30872
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Demeter/Ceres
+	Beschreibung:	Rape of Persephone, at the left Ceres on a chariot moving to the right, drawn by two horses; in front of her chariot Trepidatio and Caligo.
+Szene
+	ID:	32385
+	Beschreibung:	Rape of Persephone, at the left Ceres on a chariot moving to the right, drawn by two horses; in front of her chariot Trepidatio and Caligo.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Demeter/Ceres (vol. IV)
+	Katalognummer:	130
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	66
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Mattei di Giove
+	Direktor:	Soprintendente Arch. Costantino Centroni
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Cavalletti 2
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza per i Beni Ambientali Architettonici del Lazio
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Ambientali Architettonici del Lazio
+	Kommentar:	Numéros d'après Guerrini, L. (éd.), Palazzo Mattei di Giove. Le antichità (1982).
+	Hat die Fotorechte:	1

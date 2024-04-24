@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e9aec6ae4fb-0
+Dionysos/Bacchus_28_0_0
+
+
+
+Monument
+	ID:	4947
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 10,11 (Casa del Naviglio)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Dionysos/Bacchus
+	Beschreibung:	Young Bacchus seated on a throne, behind him a pilaster with ribbons.
+Szene
+	ID:	48994
+	Beschreibung:	Young Bacchus seated on a throne, behind him a pilaster with ribbons.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	28
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9456
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

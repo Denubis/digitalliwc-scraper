@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-7509d813527a7-4
+Hylas_1_1_0
+
+
+
+Monument
+	ID:	25275
+	Entdeckungsort:	Stabiae
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Hylas
+	Beschreibung:	Hylas in three-quarter view goes left, holding a jug in his extended right hand, going to draw water. The figure is now faded and almost lost.
+Datierung
+	Periode:	55 - 79 
+Szene
+	ID:	26535
+	Beschreibung:	Hylas in three-quarter view goes left, holding a jug in his extended right hand, going to draw water. The figure is now faded and almost lost.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/castellammare_di_stabia/villa_varano/26535X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hylas
+	Katalognummer:	1
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Castellammare di Stabia
+	Name:	Villa Varano
+	Rechteinhaber der Fotos:	© Villa Varano, Castellammare di Stabia
+	Hat die Fotorechte:	1

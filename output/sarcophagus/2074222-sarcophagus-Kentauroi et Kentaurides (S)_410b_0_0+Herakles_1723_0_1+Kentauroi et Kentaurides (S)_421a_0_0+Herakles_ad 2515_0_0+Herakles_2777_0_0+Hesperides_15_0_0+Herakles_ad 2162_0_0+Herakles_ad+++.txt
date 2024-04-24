@@ -1,0 +1,108 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d63d49c3e6b-e
+Kentauroi et Kentaurides (S)_410b_0_0
+Herakles_1723_0_1
+Kentauroi et Kentaurides (S)_421a_0_0
+Herakles_ad 2515_0_0
+Herakles_2777_0_0
+Hesperides_15_0_0
+Herakles_ad 2162_0_0
+Herakles_ad 2388_0_0
+Amazones_136_0_0
+Herakles_262_0_0
+
+
+
+Monument
+	ID:	3581
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	centaur fight, battle
+	Name:	Herakles Hesperides Amazones Kentauroi and Kentaurides
+	Beschreibung:	On the corners of the sarcophagus lid a tragic mask wearing a lionskin over head. Labours of Herakles: On the box Lion, Hydra, Boar, Deer, Birds, Amazon and Hesperides. On the lid Augeias, Bull, Horses of Diomedes, Geryoneus and Kerberos. On a minor side a fleeing centaur.
+	Bibliographie:	SarkRel III no. 116 pl. 32; Brommer, Denkmälerlisten I 5 no. 10.
+Datierung
+	Periode:	190 - 200 
+Epoche
+	Name:	Ende 2. Jh. n. Chr.
+	Periode:	190 - 200 
+	Sequenznummer:	3170
+Datierung
+	Periode:	150 - 180 
+Szene
+	ID:	3617
+	Beschreibung:	Labours of Herakles: On the box Lion, Hydra, Boar, Deer, Birds, Amazon and Hesperides. On a minor side a fleeing centaur.
+	Bibliographie:	SarkRel III no. 116 pl. 32; Brommer, Denkmälerlisten I 5 no. 10.
+	Sequenznummer:	10
+	Name:	Herakles Hesperides Amazones
+	Stichwort:	centaur fight, battle
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	410b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	1723
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	421a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	ad 2515
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2777
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hesperides
+	Katalognummer:	15
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	ad 2162
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	ad 2388
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	136
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49158
+	Szenerieangabe:	couvercle
+	Beschreibung:	On the corners of the sarcophagus lid a tragic mask wearing a lionskin over head. Labours of Herakles: Augeias, Bull, Horses of Diomedes, Geryoneus and Kerberos.
+	Sequenznummer:	20
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	262
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	422
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Torlonia
+	Adresse:	Via della Conciliazione 30
+	Postleitzahl:	I-00193
+	Kontaktzenter:	Amministrazione Principe Torlonia
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Museo Torlonia, Roma
+	Hat die Fotorechte:	1

@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-73b828d24d353-b
+Tritones (in Etruria)_13_1_0
+
+
+
+Monument
+	ID:	1463
+	Entdeckungsort:	Tarquinia
+	Entdeckungsort Details:	tomb
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Tritones
+Szene
+	ID:	1371
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/necropoli/1371X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Tritones (in Etruria)
+	Katalognummer:	13
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba dei Tritoni
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Necropoli
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

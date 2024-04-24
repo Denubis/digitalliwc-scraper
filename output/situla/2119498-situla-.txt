@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-765d87b7ca3b7-7
+
+
+
+Monument
+	ID:	52588
+	Entdeckungsort:	Pompei
+	Objekt:	situla
+	Material:	silver
+	Land:	CH
+	Kategorie:	engraving
+	Stichwort:	altar snake base fire (on altar) column torch he-goat priestess sistrum bonnet monkey crocodile altar: arula, portable altar situla of Isis altar built of square stones
+	Beschreibung:	Silber-Situla mit Spuren von Vergoldung und auf dem Körper Darstellungen ägyptischer Kultszenen: Links Pharos, mittig Isispriesterin mit Geierhaube und umgehängtem Henkelkreuz. Sie hält mit der Linken einen kleinen Altar(?) hoch, auf dem ein kleines Krokodil sitzt. Vor ihr steht ein gemauerter Altar (oder doch Säule?) auf dem sich eine aufgerichtete Schlange befindet. Am Altar lehnt eine Fackel. Dahinter ein Bock auf einer hohen Basis, dann ein brennender Altar. Daneben steht eine weitere Priesterin, diese mit erhobenem Sistrum und hängender Situla. 
+	Bibliographie:	Knauer, E. R., Urnula Faberrime Cavata. Observations on a Vessel Used in the Cult of Isis (1995) 26 Abb. 37; Merkelbach, R., Isis regina – Zeus Sarapis. (1995); 510 f. Abb. 31–32.
+Datierung
+	Periode:	-27 - 68 
+Epoche
+	Name:	frühkaiserzeitlich
+	Periode:	-27 - 68 
+	Sequenznummer:	1110
+Szene
+	ID:	57843
+	Beschreibung:	Silber-Situla mit Spuren von Vergoldung und auf dem Körper Darstellungen ägyptischer Kultszenen: Links Pharos, mittig Isispriesterin mit Geierhaube und umgehängtem Henkelkreuz. Sie hält mit der Linken einen kleinen Altar(?) hoch, auf dem ein kleines Krokodil sitzt. Vor ihr steht ein gemauerter Altar (oder doch Säule?) auf dem sich eine aufgerichtete Schlange befindet. Am Altar lehnt eine Fackel. Dahinter ein Bock auf einer hohen Basis, dann ein brennender Altar. Daneben steht eine weitere Priesterin, diese mit erhobenem Sistrum und hängender Situla.
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	602
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Silb 512
+Museum
+	Land:	DE
+	Stadt:	München
+	Name:	Staatliches Museum Ägyptischer Kunst
+	Rechteinhaber der Fotos:	© Staatliches Museum Ägyptischer Kunst, München
+	Hat die Fotorechte:	0

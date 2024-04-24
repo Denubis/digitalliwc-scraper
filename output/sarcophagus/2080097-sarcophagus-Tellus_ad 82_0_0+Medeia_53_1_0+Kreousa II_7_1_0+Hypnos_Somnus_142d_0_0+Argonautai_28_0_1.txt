@@ -1,0 +1,110 @@
+http://ark.dasch.swiss/ark:/72163/080e-742a3b4dda66a-8
+Tellus_ad 82_0_0
+Medeia_53_1_0
+Kreousa II_7_1_0
+Hypnos/Somnus_142d_0_0
+Argonautai_28_0_1
+
+
+
+Monument
+	ID:	9504
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hypnos/Somnus Kreousa II Medeia
+	Beschreibung:	Medeasarcophagus: On the right minor side the standing youth is probably Iason, talking to another young seated man with lion skin, maybe Argos, the builder of the ship Argo. On another side the children of Medeia handing over presents to Kreousa (II).
+Szene
+	ID:	9709
+	Beschreibung:	Medeasarcophagus: On the right minor side the standing youth is probably Iason, talking to another young seated man with lion skin, maybe Argos, the builder of the ship Argo. On another side the children of Medeia handing over presents to Kreousa (II).
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/9709X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/9709X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/9709X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/9709X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/9709X303.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/9709X304.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/9709X305.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/9709X306.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/9709X308.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/9709X396.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/9709X397.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/9709X398.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Tellus
+	Katalognummer:	ad 82
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Medeia
+	Katalognummer:	53
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kreousa II
+	Katalognummer:	7
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	142d
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Argonautai
+	Katalognummer:	28
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	222
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Romano
+	Direktor:	Soprintendente Dott. Giuseppe Proietti
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali - Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-7453d95304185-2
+Mousa, Mousai/Musae (vol. VII)_184_0_0
+
+
+
+Monument
+	ID:	12440
+	Entdeckungsort:	Bonn, Bonna
+	Objekt:	sarcophagus
+	Material:	limestone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Poseidon/Neptunus Rhenos, Rhenus Mousa, Mousai
+	Beschreibung:	Neptunus enthroned.
+Szene
+	ID:	12741
+	Beschreibung:	Neptunus enthroned.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/turkey/aphrodisias/musee/12741X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	184
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	TR
+	Stadt:	Aphrodisias
+	Name:	Musée
+	Direktor:	Prof. R. R. R. Smith
+	Adresse:	Beaumont Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	Ashmolean Museum of Art and Archaeology
+	Stadt des Kontaktzenters:	Oxford OX1 2PH
+	Rechteinhaber der Fotos:	© Phot. New York University, Aphrodisias Excavations
+	Hat die Fotorechte:	1

@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-7563d741c06da-6
+Attis_118b_0_0
+
+
+
+Monument
+	ID:	31618
+	Entdeckungsort:	Pompei
+	Objekt:	statue
+	Material:	marble
+	Land:	CH
+	Kategorie:	sculpture in the round
+	Name:	Attis
+	Beschreibung:	Attis standing with crossed legs in front of a pillar.
+	Bibliographie:	Tran Tam Tinh, V., Les problèmes du culte de Cybèle et d´Attis à Pompei, Neue Forschungen in Pompeji (1975) 279-283; Vermaseren, M. J., Corpus Cultus Cybelae Attidisque IV no. 31.
+Szene
+	ID:	33226
+	Beschreibung:	Attis standing with crossed legs in front of a pillar.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Attis
+	Katalognummer:	118b
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	120402
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

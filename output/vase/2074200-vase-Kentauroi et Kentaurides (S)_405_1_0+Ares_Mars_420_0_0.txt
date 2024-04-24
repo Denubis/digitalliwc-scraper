@@ -1,0 +1,51 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d5ecc51bf7d-4
+Kentauroi et Kentaurides (S)_405_1_0
+Ares/Mars_420_0_0
+
+
+
+Monument
+	ID:	3558
+	Entdeckungsort:	Pompei
+	Objekt:	vase
+	Material:	silver
+	Land:	CH
+	Kategorie:	relief vase
+	Name:	Kentauroi and Kentaurides
+	Beschreibung:	Centaurs fighting with Lapiths.
+Szene
+	ID:	3594
+	Beschreibung:	Centaurs fighting with Lapiths.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/muenchen/staatliche_antikensammlungen_und_glyptothek/3594X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/muenchen/staatliche_antikensammlungen_und_glyptothek/3594X301.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	405
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ares/Mars
+	Katalognummer:	420
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	515
+Museum
+	Land:	DE
+	Stadt:	München
+	Name:	Staatliche Antikensammlungen und Glyptothek
+	Direktor:	Dr. Yvonne Schmuhl
+	Adresse:	Meiserstrasse 10
+	Postleitzahl:	D-80333
+	Kontaktzenter:	Staatliche Antikensammlungen und Glyptothek
+	Stadt des Kontaktzenters:	München
+	Rechteinhaber der Fotos:	© Staatliche Antikensammlungen und Glyptothek, München
+	Hat die Fotorechte:	1

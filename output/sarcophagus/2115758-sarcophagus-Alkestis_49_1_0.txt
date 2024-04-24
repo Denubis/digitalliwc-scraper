@@ -1,0 +1,52 @@
+http://ark.dasch.swiss/ark:/72163/080e-76280fa0459ab-5
+Alkestis_49_1_0
+
+
+
+Monument
+	ID:	45472
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	gesture: one arm extended forward
+	Name:	Alkestis Hermes/Mercurius
+	Bibliographie:	Scrinari, V. S. M., Museo Archeologico di Aquileia. Catalogo delle sculture romane (1972) 152 no. 453 fig.; Gabelmann, H., Die Werkstattgruppen der oberitalienischen Sarkophage (1973) 68. 212 no. 47; Brommer, Denkmälerlisten III 1 no. 1.
+Datierung
+	Periode:	200 - 210 
+	Kommentar:	?
+Epoche
+	Name:	Anfang 3. Jh. n. Chr.
+	Periode:	200 - 210 
+	Sequenznummer:	3290
+Szene
+	ID:	47867
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/aquileia/museo_archeologico_nazionale/47867X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/aquileia/museo_archeologico_nazionale/47867X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/aquileia/museo_archeologico_nazionale/47867X103.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	49
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	RC 21
+Museum
+	Land:	IT
+	Stadt:	Aquileia
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Soprintendente Dott.ssa Franca Maselli Scotti
+	Adresse:	Piazza della Libertà 72
+	Postleitzahl:	I-34132
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici del Friuli Venezia Giulia
+	Stadt des Kontaktzenters:	Trieste
+	Rechteinhaber der Fotos:	© Polo Museale del Friuli Venezia Giulia
+	Kommentar:	Les objets sans numéro d'inventaire sont cités d'après les numéros des catalogues de Sena Chiesa, G., Gemme del Museo Nazionale di Aquileia (1966)  et de Santa Maria Scrinari, V., Museo Archeologico di Aquileia. Catalogo delle sculture romane (1972).
+	Hat die Fotorechte:	1

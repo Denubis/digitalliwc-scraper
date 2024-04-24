@@ -1,0 +1,64 @@
+http://ark.dasch.swiss/ark:/72163/080e-74da094f9ca57-c
+Horai/Horae_69b_0_0
+Demeter/Ceres (vol. IV)_133_1_0
+Ianitor Orci_5_1_0
+Hades/Pluto_16_0_0
+Kairoi/Tempora anni_126_0_0
+
+
+
+Monument
+	ID:	21907
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Demeter/Ceres Horai/Horae Hades/Pluto Kairoi/Tempora anni Ianitor Orci
+	Beschreibung:	Representation of the rape of Proserpina. On the left chariot of Ceres drawn by serpents, on the right chariot of Pluto with Proserpina, between the chariots are two figures (Horae?) who have baskets with flowers as attributes. Both are kneeling, both wear crowns. In the angle Kerberos and Ianitor Orci as an old man.
+Datierung
+	Periode:	225 
+Szene
+	ID:	22912
+	Beschreibung:	Representation of the rape of Proserpina. On the left chariot of Ceres drawn by serpents, on the right chariot of Pluto with Proserpina, between the chariots are two figures (Horae?) who have baskets with flowers as attributes. Both are kneeling, both wear crowns. In the angle Kerberos and Ianitor Orci as an old man.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/aachen/dom/22912X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/aachen/dom/22912X202.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	69b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Demeter/Ceres (vol. IV)
+	Katalognummer:	133
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ianitor Orci
+	Katalognummer:	5
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	16
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	126
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	DE
+	Stadt:	Aachen
+	Name:	Dom
+	Rechteinhaber der Fotos:	© Aachen
+	Hat die Fotorechte:	1

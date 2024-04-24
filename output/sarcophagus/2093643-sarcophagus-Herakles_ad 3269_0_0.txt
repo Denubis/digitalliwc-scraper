@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ebe48c4f07c-b
+Herakles_ad 3269_0_0
+
+
+
+Monument
+	ID:	23161
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Herakles
+	Beschreibung:	Herakles in lionskin running with torch. A satyriskos carries his club.
+Szene
+	ID:	24299
+	Beschreibung:	Herakles in lionskin running with torch. A satyriskos carries his club.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	ad 3269
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	Sir John Soane's Museum
+	Direktor:	Dir. Tim Knox
+	Anrede:	Dear Director,
+	Adresse:	13 Lincoln's Inn Fields
+	Postleitzahl:	GB-
+	Kontaktzenter:	Sir John Soane's Museum
+	Stadt des Kontaktzenters:	London WC2A 3BP
+	Rechteinhaber der Fotos:	By courtesy of the Trustees of Sir John Soane's Museum
+	Hat die Fotorechte:	0

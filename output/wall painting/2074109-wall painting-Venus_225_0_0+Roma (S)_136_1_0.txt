@@ -1,0 +1,51 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d49fb7ab276-3
+Venus_225_0_0
+Roma (S)_136_1_0
+
+
+
+Monument
+	ID:	3467
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	 palace
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Venus Roma
+	Beschreibung:	Venus enthroned.
+Szene
+	ID:	3502
+	Beschreibung:	Venus enthroned.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/3502X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Venus
+	Katalognummer:	225
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Roma (S)
+	Katalognummer:	136
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Dea Barberini
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Romano
+	Direktor:	Soprintendente Dott. Giuseppe Proietti
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali - Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	124506

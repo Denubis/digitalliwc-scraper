@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-76179eb886eb5-4
+Aineias_99_0_0
+
+
+
+Monument
+	ID:	44304
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	youth old man
+	Name:	Aineias Anchises Askanios
+	Beschreibung:	Scene showing an older male figure carried by a young naked male figure, latter holding the hand of a child, the figures have dog heads and phalluses; scene interpreted as Aineias carrying his father Anchises and guiding Askanios
+	Bibliographie:	Maiuri, A., BollArte 35, 1950, 108-112 fig. 1-2; Elia, O., Pitture murali e mosaici del Museo Nazionale di Napoli (1932) 18 no 18; Schefold WP 336; Galinsky, G. K., Aeneas, Sicily and Rome (1969) fig. 30.
+Datierung
+	Periode:	1 - 100 
+Epoche
+	Name:	1. Jh. n. Chr.
+	Periode:	1 - 100 
+	Sequenznummer:	3000
+Szene
+	ID:	46591
+	Beschreibung:	Scene showing an older male figure carried by a young naked male figure, latter holding the hand of a child, the figures have dog heads and phalluses; scene interpreted as Aineias carrying his father Anchises and guiding Askanios
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/46591X302.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Aineias
+	Katalognummer:	99
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9089
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

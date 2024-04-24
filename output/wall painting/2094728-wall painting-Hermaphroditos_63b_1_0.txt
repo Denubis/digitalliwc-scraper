@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-74fb678f0646d-c
+Hermaphroditos_63b_1_0
+
+
+
+Monument
+	ID:	24259
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Hermaphroditos
+	Beschreibung:	Hermaphroditos wrestling with a satyr.
+Szene
+	ID:	25458
+	Beschreibung:	Hermaphroditos wrestling with a satyr.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/25458X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hermaphroditos
+	Katalognummer:	63b
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	110878
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

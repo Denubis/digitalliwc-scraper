@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-745c06cc125b1-c
+Psyche_62_1_0
+
+
+
+Monument
+	ID:	13014
+	Objekt:	sarcophagus lid
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Psyche
+Szene
+	ID:	13338
+	Szenerieangabe:	couvercle
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/sant_agnese_fuori_le_mura/13338X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/sant_agnese_fuori_le_mura/13338X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/sant_agnese_fuori_le_mura/13338X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/sant_agnese_fuori_le_mura/13338X304.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	62
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Sant'Agnese fuori le Mura
+	Rechteinhaber der Fotos:	© Soprindentenza SPSAE e Polo Museale della Città di Roma
+	Hat die Fotorechte:	0

@@ -1,0 +1,99 @@
+http://ark.dasch.swiss/ark:/72163/080e-74964c9f1024d-4
+Lykomedes I_5_1_0
+Achilleus_131_1_0
+Agyrtes_22_1_0
+Hektor_111_0_0
+Achilleus_576_0_0
+Achilleus_760_0_0
+
+
+
+Monument
+	ID:	17130
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	sword pillar diadem trumpet, tuba, salpinx wall, Town wall seat, chair, sedes, sedile horse
+	Name:	Achilleus Agyrtes Diomedes I Hektor Lykomedes I Odysseus Penthesileia Deidameia II
+	Beschreibung:	In the centre the discovery of Achilleus. On the right the Greek embassy. On the left the family of Lykomedes (I).
+	Bibliographie:	SarkRel II no. 27; Budde, L./Nicholls, R., Catalogue of Greek and Roman Sculpture in the Fitzwilliam Museum (1964) no. 162 pl. 56; Turcan, R., Les sarcophages romains à représentations dionysiaques (1966) 85; Koch/Sichtermann, RömSark 128 n. 11.
+	Museums-URL:	http://data.fitzmuseum.cam.ac.uk/id/object/65514
+Datierung
+	Periode:	150 
+	Kommentar:	ca.
+Epoche
+	Name:	Mitte 2. Jh. n. Chr.
+	Periode:	140 - 160 
+	Sequenznummer:	3160
+Datierung
+	Periode:	170 - 180 
+	Kommentar:	(Agyrtes)
+Epoche
+	Name:	3. Drittel 2. Jh. n. Chr.
+	Periode:	166 - 200 
+	Sequenznummer:	3260
+Szene
+	ID:	17819
+	Beschreibung:	In the centre the discovery of Achilleus. On the right the Greek embassy. On the left the family of Lykomedes (I).
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/cambridge/fitzwilliam_museum/17819X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/cambridge/fitzwilliam_museum/17819X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/cambridge/fitzwilliam_museum/17819X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/cambridge/fitzwilliam_museum/17819X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/cambridge/fitzwilliam_museum/17819X302.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Lykomedes I
+	Katalognummer:	5
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	131
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Agyrtes
+	Katalognummer:	22
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hektor
+	Katalognummer:	111
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	576
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	760
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	GR 45.1850
+Museum
+	Land:	GB
+	Stadt:	Cambridge
+	Name:	Fitzwilliam Museum
+	Direktor:	Dr. Lucilla Burn, Keeper of Antiquities
+	Adresse:	Trumpington Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	The Fitzwilliam Museum
+	Stadt des Kontaktzenters:	Cambridge CB2 1RB
+	Rechteinhaber der Fotos:	© Fitzwilliam Museum, Cambridge
+	Hat die Fotorechte:	1

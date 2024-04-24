@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-7651263ab1f4d-b
+
+
+
+Monument
+	ID:	51661
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	A bearded sacrificial slaughterman (victimarius) with sledge (malleus) brought a white bull in front of an altar. Young servant (camillus) holding jug (gutus); behind the altar sacrificing man with toga and capite velato, with patera
+	Bibliographie:	Religio Romana. Wege zu den Göttern in Trier (1996) 91-92 n. 1
+Szene
+	ID:	56841
+	Beschreibung:	A bearded sacrificial slaughterman (victimarius) with sledge (malleus) brought a white bull in front of an altar. Young servant (camillus) holding jug (gutus); behind the altar sacrificing man with toga and capite velato, with patera
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	77
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 2.a. Opfer, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	220
+	Bandnummer:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	EV 1943,16
+Museum
+	Land:	DE
+	Stadt:	Trier
+	Name:	Rheinisches Landesmuseum
+	Direktor:	Stellv. Direktorin Dr. Karin Goethert
+	Adresse:	Weimarer Allee 1
+	Postleitzahl:	D-54290
+	Kontaktzenter:	Rheinisches Landesmuseum
+	Stadt des Kontaktzenters:	Trier
+	Rechteinhaber der Fotos:	© Rheinisches Landesmuseum
+	Hat die Fotorechte:	1

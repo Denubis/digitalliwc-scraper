@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-758e792193b98-5
+Eros/Amor, Cupido_259_0_0
+
+
+
+Monument
+	ID:	34636
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido
+Szene
+	ID:	36439
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	259
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	FR
+	Stadt:	Bellocq
+	Name:	Saint-Clamens
+	Rechteinhaber der Fotos:	© Bellocq
+	Hat die Fotorechte:	0

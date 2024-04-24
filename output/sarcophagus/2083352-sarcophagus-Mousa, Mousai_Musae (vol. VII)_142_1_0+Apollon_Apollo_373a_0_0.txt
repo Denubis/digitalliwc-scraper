@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-7458c4560023d-7
+Mousa, Mousai/Musae (vol. VII)_142_1_0
+Apollon/Apollo_373a_0_0
+
+
+
+Monument
+	ID:	12784
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Apollon/Apollo Mousa, Mousai
+Szene
+	ID:	13093
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/switzerland/collections_privees/collection_woodyat_autrefois/13093X002.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	142
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	373a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	CH
+	Stadt:	Collections privées
+	Name:	Collection Woodyat (autrefois)
+	Rechteinhaber der Fotos:	© Collection Woodyat (once)
+	Hat die Fotorechte:	1

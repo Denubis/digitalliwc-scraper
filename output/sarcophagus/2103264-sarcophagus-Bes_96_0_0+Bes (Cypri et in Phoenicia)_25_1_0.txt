@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-7575709d8c525-3
+Bes_96_0_0
+Bes (Cypri et in Phoenicia)_25_1_0
+
+
+
+Monument
+	ID:	32862
+	Entdeckungsort:	Amathous (Cyprus)
+	Objekt:	sarcophagus
+	Material:	limestone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Bes
+	Museums-URL:	http://www.metmuseum.org/art/collection/search/242006
+Szene
+	ID:	34524
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/new_york/metropolitan_museum_of_art/34524X301.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Bes
+	Katalognummer:	96
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Bes (Cypri et in Phoenicia)
+	Katalognummer:	25
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	74.51.2453
+Museum
+	Land:	US
+	Stadt:	New York
+	Name:	Metropolitan Museum of Art
+	Direktor:	Eileen Sullivan, Assistant Museum Librarian
+	Anrede:	Dear Ms Sullivan,
+	Adresse:	1000 Fifth Avenue at 82nd Street
+	Postleitzahl:	USA-
+	Kontaktzenter:	The Metropolitan Museum of Art                          The Photograph Library
+	Stadt des Kontaktzenters:	New York, NY 10028-0198
+	Rechteinhaber der Fotos:	© Metropolitan Museum of Art
+	Hat die Fotorechte:	1

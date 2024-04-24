@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-74c72de131054-5
+Iphigeneia_74_1_0
+
+
+
+Monument
+	ID:	20577
+	Entdeckungsort:	Thespiai (Boeotia)
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Iphigeneia
+Szene
+	ID:	21490
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Iphigeneia
+	Katalognummer:	74
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	109 (?)
+Museum
+	Land:	GR
+	Stadt:	Thèbes
+	Name:	Musée Archéologique
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Anrede:	Dear Director,
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athènes
+	Rechteinhaber der Fotos:	© Archaeological Museum of Thebes
+	Hat die Fotorechte:	0

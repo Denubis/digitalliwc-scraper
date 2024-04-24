@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-7477fd9893ae5-9
+Meleagros_114_0_0
+
+
+
+Monument
+	ID:	14990
+	Entdeckungsort:	Nicopolis on the Istros (ad Istrum)
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Meleagros
+	Beschreibung:	From left to right: corner figure, four hunters, Meleagros on horseback, Atalante, the boar, three hunters.
+Datierung
+	Periode:	200 - 250 
+Szene
+	ID:	15466
+	Beschreibung:	From left to right: corner figure, four hunters, Meleagros on horseback, Atalante, the boar, three hunters.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	114
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2452
+Museum
+	Land:	TR
+	Stadt:	Istanbul
+	Name:	Musée Archéologique
+	Direktor:	Mme le Dr  Pascale Linant de Bellefonds
+	Anrede:	Sehr geehrter Herr Dr. Posamentir,
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-92023
+	Kontaktzenter:	Université Paris X - Nanterre Maison de l'Archéologie / Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Archaeological Museum Istanbul
+	Hat die Fotorechte:	1

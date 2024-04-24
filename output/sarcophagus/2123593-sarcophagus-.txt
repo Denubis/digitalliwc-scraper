@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-769813149edf2-1
+
+
+
+Monument
+	ID:	91933
+	Entdeckungsort:	unknown
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	GR
+	Kategorie:	relief
+	Stichwort:	snake phiale, phiale mesomphalos, patera club tree boar corselet dog lionskin horse Heros equitans
+	Name:	Herakles
+	Grössenangabe:	Y. 1.025 μ - Mήκ. 2.30 μ - Πλ. 1.18 μKάλυμμα: Y. 0.375 μ - Mήκ. 2.51 μ - Πλ. 1.31 μ
+	Beschreibung:	Θραξ ιππεύς, ιματιοφόρος, Hρακλής.
+	Inschrift:	Στο κάτω τμήμα του καλύμματος:Γ.ANTΩNIΩ.ATTIKΩ.NEΩ H[...]A[...]NIOΣ A[........]ΣIΩNTEΣ
+	Bibliographie:	Edson, C., IG X.II 175 no. 540.
+	Kommentar:	5363
+Datierung
+	Periode:	-27 - 395 
+Epoche
+	Name:	kaiserzeitlich
+	Periode:	-27 - 476 
+	Sequenznummer:	1100
+Szene
+	ID:	97536
+	Beschreibung:	Στο κέντρο της πρόσθιας μακράς πλευράς, εντός πλαισίου από δύο κίονες που υποβαστάζουν τριταινιωτό επιστύλιο: Θραξ ιππεύς, έφιππος σε καλπάζοντα ίππο προς τα δεξιά (θώρακας, χλαμύδα που ανεμίζει αριστερά). Δεξιό χέρι εκτείνεται προς αριστερά και άνω (ελλιπές). Δεξιό χέρι κρατά τα ηνία. Δεξιά δένδρο, στο οποίο ελίσσεται όφις, πίσω από τον οποίο προβάλλει κάπρος προς αριστερά, ορμώντας προς τον κύνα που τρέχει προς τα δεξιά. Eντός κόγχης στο αριστερό ακρωτήριο ιματιοφόρος, ιστάμενος κατ' ενώπιον (ιμάτιο). Aριστερό χέρι εκτεινόμενο κάτω δεξιά, καλυμμένο από το ιμάτιο, λυγίζει δεξιά στο στήθος. Δεξιό σκέλος άνετο. Kύων καθήμενος στα οπίσθια πόδια προς τα αριστερά και άνω. Eντός κόγχης στο δεξιό ακρωτήριο: Hρακλής, ιστάμενος κατ' ενώπιον, γυμνός, στηριζόμενος με το εκτεινόμενο προς τα κάτω δεξιό χέρι σε ρόπαλο. Mε το αριστερό χέρι λυγισμένο εμπρός και αριστερά κρατά φιάλη(;). Λεοντή πέφτει στον αριστερό ώμο και βραχίονα. Δεξιό σκέλος άνετο.
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	5676
+Museum
+	Land:	GR
+	Stadt:	Thessalonique
+	Name:	Musée Archéologique
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Archaeological Museum of Thessaloniki
+	Hat die Fotorechte:	0

@@ -1,0 +1,136 @@
+http://ark.dasch.swiss/ark:/72163/080e-73c8a4b4dcf98-4
+Zeus/Iuppiter_523_1_0
+Apollon/Apollo_436_1_0
+Artemis/Diana_290_0_0
+Demeter/Ceres (vol. IV)_151_1_0
+Eileithyia_59_0_0
+Iris I_95_0_0
+Iuno_85_0_0
+Kynthos_1_0_0
+Leto/Latona_5_1_0
+Delos I_5_0_0
+Zeus/Iuppiter_316_0_0
+Hekatoncheires_1_0_0
+
+
+
+Monument
+	ID:	2625
+	Objekt:	sarcophagus lid
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Name:	Delos I Leto Apollon/Apollo Hekatoncheires Kynthos Zeus/Iuppiter Athena/Minerva Iuno Iris I Artemis/Diana Demeter/Ceres Eileithyia Hekatoncheires Leto/Latona
+	Beschreibung:	To the extreme left between two figures interpreted as Kynthos and Leto, a bearded person (Aegaeon)) carrying a young woman (Delos). Leto prepares to give birth on Delos. To the right Iris anounces the proximity of the delivery to two sitting goddesses. The very restored figure between the goddesses could be Eileithyia who would be hurrying to aid Leto. Alternative interpretation: birth of Apollo and Diana, around them Ceres, Proserpina and Eileithyia assisting; or: the young Apollo is presented to the Capitolina Triad and the other gods: in the centre Iuppiter seated, Minerva by his right side, Iuno bis his left.
+	Monument-URL:	arachne.dainst.org/entity/1075675
+Szene
+	ID:	2648
+	Szenerieangabe:	couvercle
+	Beschreibung:	To the extreme left between two figures interpreted as Kynthos and Leto, a bearded person (Aegaeon)) carrying a young woman (Delos). Leto prepares to give birth on Delos. To the right Iris anounces the proximity of the delivery to two sitting goddesses. The very restored figure between the goddesses could be Eileithyia who would be hurrying to aid Leto. Alternative interpretation: birth of Apollo and Diana, around them Ceres, Proserpina and Eileithyia assisting; or: the young Apollo is presented to the Capitolina Triad and the other gods: in the centre Iuppiter seated, Minerva by his right side, Iuno bis his left.
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_borghese_museo_e_galleria_borghese/2648X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_borghese_museo_e_galleria_borghese/2648X203.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_borghese_museo_e_galleria_borghese/2648X204.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_borghese_museo_e_galleria_borghese/2648X207.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_borghese_museo_e_galleria_borghese/2648X213.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_borghese_museo_e_galleria_borghese/2648X299.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_borghese_museo_e_galleria_borghese/2648X301.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_borghese_museo_e_galleria_borghese/2648X307.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	523
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	436
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	290
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Demeter/Ceres (vol. IV)
+	Katalognummer:	151
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eileithyia
+	Katalognummer:	59
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iris I
+	Katalognummer:	95
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iuno
+	Katalognummer:	85
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kynthos
+	Katalognummer:	1
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Leto/Latona
+	Katalognummer:	5
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Delos I
+	Katalognummer:	5
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	316
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hekatoncheires
+	Katalognummer:	1
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	IVC
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Borghese (Museo e Galleria Borghese)
+	Direktor:	Soprintendente Prof. Claudio Strinati
+	Adresse:	Piazza San Marco 49
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza Speciale del Polo Museale Romano
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza Speciale del Polo Museale Romano
+	Hat die Fotorechte:	1

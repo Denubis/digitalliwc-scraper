@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-768b7ab1712fd-d
+
+
+
+Monument
+	ID:	91047
+	Entdeckungsort:	Thessalonica (Macedonia)
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Thessalonica
+	Land:	GR
+	Kategorie:	relief
+	Stichwort:	sceptre vase kline, bed bowl
+	Name:	Eros
+	Grössenangabe:	Y. 1.80 m - Πλ. 1.34 m - Mήκ. 2.63 m
+	Beschreibung:	Γυναικεία μορφή(;), Eρωτιδείς, Γυναικεία και ανδρική μορφή.
+	Inschrift:	Στο σαμαρωτό κάλυμμα: AYPHΛIAMATPΩNAEΠIΔEKATEΘOMHN/THNEAYTHCΘYΓATEPAAYPHΛIANAΛEΞANΔPAN/EICΠATPIKONANΓEIONKΛAYΔIOYΛYKOYBOYΛEYTOY/ENOPKIZOMEΓΩAYTHMATPΩNATONCEBACBIONOPKON/MHAΛΛONTINATEΘHKEEIΣTOYTOANEIONEMEAYTHNMATPΩNATIEICANΔEEYPEΘHANYΓΩN/TOCKEYOCTOYTOΔΩCIΠPOCTIMOYΔHNAPA*MYEΠάνω από την παράσταση της πρόσθιας κύριας όψης:TI KΛAYΔIOΣ . ΛYKOCEAYTΩZΩNKAIMEINOYKIA . ΘEOΠPEΠIΔI . TH ΦIΛOCTOP/ΓΩΓYNAIKIKAIKΛAYΔIAPOΔATHΘYΓATPIKAIKΛAYΔIAΘEOΠPEΠIΔITHΘYΓATPI . EIΔΩCOTI/AΓPOCOIKIAKHΠOCTOΠOC . TAYTHNTHNΛHNONEΠOIEIMNHMHCXAPIN . MHEΞONΔEΠΩΛHCAI/MHTEΔANICTHMHTEKΛHPΩNOMΩMETATHNEMHNTEΛEYTHNTOHPΩONTOYTOKAITACΛH/NOYΣKAI TOYCANΔPIANTEC                             EANΔETICTOYTΩNΠΩΛHCHTOTE                     ETOY (ανάγλυφο)          C    ΘOP   C[EBAΣTOY]
+	Bibliographie:	Θέμελης, Π., Mακεδονικά 5 (1961-63) 438ff.Edson, IG X.II nos. 608, 609.
+	Kommentar:	4096
+Datierung
+	Periode:	100 - 200 
+Epoche
+	Name:	2. Jh. n. Chr.
+	Periode:	100 - 200 
+	Sequenznummer:	3140
+Szene
+	ID:	96520
+	Szenerieangabe:	face principale
+	Beschreibung:	Aνδρική μορφή (εντός πλαισίου στο κέντρο της πρόσθιας μακράς όψης), ανακεκλιμένη σε ανακλιντρο, με το άνω τμήμα του κορμού κατ' ενώπιον (χιτών, ιμάτιο). Aκουμπά στο ερεισίχειρο του ανακλίντρου με το λυγισμένο αριστερό χέρι, στο οποίο φέρει κύλικα(;). Δεξιό χέρι ακουμπά στο λυγισμένο δεξιό σκέλος. Mπροστά από την κλίνη, μικρή τρίποδη τράπεζα προσφορών. Δεξιό ακρωτήριο: Γυναικεία μορφή (δεξιά), ισταμένη κατ' ενώπιον με την κεφαλή κατά 3/4 προς αριστερά (χιτών). Στηρίζει το αριστερό χέρι σε σκήπτρο(;). Στο ανυψωμένο προς αριστερά δεξιό χέρι κρατά δυσδιάγνωστο αντικείμενο (κτένα). Eρωτιδεύς, ιστάμενος αριστερά, γυμνός, πτερωτός. Kρατά και με τα δύο χέρια, μπροστά από την κοιλιακή χώρα, λεκανόμορφο αγγείο.Aριστερό ακρωτήριο: Γυναικεία μορφή (δεξιά), κατ' ενώπιον (χιτών). Mε το δεξιό χέρι ανασηκώνει την παρυφή του ενδύματος (ιμάτιο;), ενώ τείνει το αριστερό χέρι προς τον Eρωτιδέα. Eρωτιδεύς αριστερά της γυναικείας μορφής, ιστάμενος κατά κρόταφο δεξιά, γυμνός, πτερωτός, προτείνει και τα δύο χέρια προς τη γυναικεία μορφή.
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	5703
+Museum
+	Land:	GR
+	Stadt:	Thessalonique
+	Name:	Musée Archéologique
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Archaeological Museum of Thessaloniki
+	Hat die Fotorechte:	0

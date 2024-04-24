@@ -1,0 +1,61 @@
+http://ark.dasch.swiss/ark:/72163/080e-760f53f7f5c61-f
+Achilleus_113c_0_0
+Aineias_210_0_0
+Aineias, Add._0_1
+
+
+
+Monument
+	ID:	43722
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 9,3-6 (House of the Centaur)
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	helmet tree spear weapon
+	Name:	Achilleus Aineias Aphrodite Eros/Amor, Cupido Aphrodite/Venus Vulcanus Achates
+	Beschreibung:	Lost wall painting; naked male figure with lance regards a helmet together with a companion; a woman accompanied by Amor looks at them; interpretation as Venus handling over weapons to her son Aineias
+	Bibliographie:	Schefold, WP 115, 12; Strocka, V. M., Aeneas, nicht Alexander, JdI 121, 2006, 294-297 fig. 21; Hodske, J., Mythologische Bildthemen in den Häusern Pompejis (2007) 247-250.
+Datierung
+	Periode:	69 - 96 
+Epoche
+	Name:	flavisch
+	Periode:	69 - 96 
+	Sequenznummer:	1180
+Szene
+	ID:	45970
+	Beschreibung:	heros with lance regards a helmet together with a companion; a woman accompanied by Amor looks at them; interpretation as Venus handling over weapons to her son Aineias
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	113c
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aineias
+	Katalognummer:	210
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aineias, Add.
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VI 9,3-5
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa del Centauro

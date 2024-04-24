@@ -1,0 +1,66 @@
+http://ark.dasch.swiss/ark:/72163/080e-757b4d2e802a7-a
+Charon I/Charu(n)_10_1_0
+Daemones anonymi (in Etruria) (Suppl. 2009)_Supplement_1_0
+
+
+
+Monument
+	ID:	33275
+	Entdeckungsort:	Tarquinia
+	Objekt:	sarcophagus
+	Material:	nenfro
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	diptych demon
+	Name:	Charon I/Charu(n)
+	Beschreibung:	two winged demons; the left one female on a stool; the right one male with animal ears on a folding chair; both holding book scroll or diptychon
+	Bibliographie:	Herbig, EtrSark 32 no. 50 pl. 12b; Herbig, R./Simon, E., Götter und Dämonen der Etrusker(2) (1965) 23. 48 pl. 44, 2; Krauskopf, Todesdämonen 86 pl. 19a.
+Datierung
+	Periode:	-310 - -290 
+Epoche
+	Name:	um 300 v. Chr.
+	Periode:	-310 - -290 
+	Sequenznummer:	2560
+Szene
+	ID:	34957
+	Beschreibung:	two winged demons; the left one female on a stool; the right one male with animal ears on a folding chair; both holding book scroll or diptychon
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/denmark/copenhague/glyptotheque_ny_carlsberg/34957X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/denmark/copenhague/glyptotheque_ny_carlsberg/34957X102.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Charon I/Charu(n)
+	Katalognummer:	10
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Daemones anonymi (in Etruria) (Suppl. 2009)
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	H.I.N. 124
+Museum
+	Land:	DK
+	Stadt:	Copenhague
+	Name:	Glyptothèque Ny Carlsberg
+	Direktor:	Curator Claus Grønne
+	Anrede:	Dear Curator,
+	Adresse:	Dantes Pl. 7
+	Postleitzahl:	DK-1556
+	Kontaktzenter:	Archives and Library. Glyptothèque Ny Carlsberg
+	Stadt des Kontaktzenters:	Copenhague V
+	Rechteinhaber der Fotos:	© Ny Carlsberg Glyptothek
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	H 278

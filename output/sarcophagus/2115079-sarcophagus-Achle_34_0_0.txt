@@ -1,0 +1,49 @@
+http://ark.dasch.swiss/ark:/72163/080e-761e5a8ac0c28-2
+Achle_34_0_0
+
+
+
+Monument
+	ID:	44781
+	Entdeckungsort:	Chiusi, Camars, Clevsin, Clusium
+	Objekt:	sarcophagus
+	Material:	alabaster
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	relief
+	Name:	Achilleus/Achle Troilos
+	Beschreibung:	Standing male figure attacks a horseman grabbing him by his hair; perhaps a depiction of Achle/Achilleus' chase and aggression to Troilos
+	Bibliographie:	Brunn, Rilievi I pl. 54; Herbig, R., Die jüngeretruskischen Steinsarkophage (1952) 42-43 no. 77 pl. 54.
+Datierung
+	Periode:	-200 - -150 
+Epoche
+	Name:	1. Hälfte 2. Jh. v. Chr.
+	Periode:	-200 - -150 
+	Sequenznummer:	2750
+Szene
+	ID:	47126
+	Beschreibung:	Standing male figure attacks a horseman grabbing him by his hair; perhaps a depiction of Achle/Achilleus' chase and aggression to Troilos
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Achle
+	Katalognummer:	34
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Coll. Casuccini
+Museum
+	Land:	IT
+	Stadt:	Palermo
+	Name:	Museo Archeologico Regionale "A. Salinas"
+	Direktor:	Dir. Dott.ssa Giuseppina Favara
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Piazza Olivella 24
+	Postleitzahl:	I-90100
+	Kontaktzenter:	Museo Archeologico Regionale "A. Salinas"
+	Stadt des Kontaktzenters:	Palermo
+	Rechteinhaber der Fotos:	© Polo Regionale di Palermo per i Parchi e i Musei Archeologici
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8463

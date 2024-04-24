@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-74c74b28b3e7c-2
+Iphigeneia_80_0_0
+
+
+
+Monument
+	ID:	20585
+	Objekt:	sarcophagus lid
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Iphigeneia
+	Museums-URL:	http://www.getty.edu/art/collection/objects/6723/unknown-maker-fragment-of-a-sarcophagus-lid-with-iphigenia-in-tauris-roman-160-170/
+Szene
+	ID:	21498
+	Szenerieangabe:	couvercle
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/malibu/j_paul_getty_museum/21498X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Iphigeneia
+	Katalognummer:	80
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	71.AA.266
+Museum
+	Land:	US
+	Stadt:	Malibu
+	Name:	J. Paul Getty Museum
+	Direktor:	Dr. Jackie Burns
+	Adresse:	1200 Getty Center Drive Suite 1000
+	Postleitzahl:	USA-
+	E-Mail:	jburns@getty.edu
+	Kontaktzenter:	Registrars Office, J. Paul Getty Museum
+	Stadt des Kontaktzenters:	Los Angeles, CA 90049
+	Rechteinhaber der Fotos:	© J. Paul Getty Museum
+	Hat die Fotorechte:	1

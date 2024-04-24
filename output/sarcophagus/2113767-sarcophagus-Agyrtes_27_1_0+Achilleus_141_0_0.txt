@@ -1,0 +1,55 @@
+http://ark.dasch.swiss/ark:/72163/080e-760b98bae7a88-d
+Agyrtes_27_1_0
+Achilleus_141_0_0
+
+
+
+Monument
+	ID:	43453
+	Entdeckungsort:	Ostia
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	sword trumpet, tuba, salpinx
+	Name:	Achilleus Agyrtes Diomedes I Odysseus
+	Beschreibung:	Fragment.
+	Bibliographie:	SarkRel III 3, 547 no. 29; NotSc (1910) 17-18 no. 2 fig. 4.
+Datierung
+	Periode:	250 - 275 
+Epoche
+	Name:	3. Viertel 3. Jh. n. Chr.
+	Periode:	250 - 275 
+	Sequenznummer:	3360
+Szene
+	ID:	45691
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/museo_ostiense/45691X002.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Agyrtes
+	Katalognummer:	27
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	141
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2
+Museum
+	Land:	IT
+	Stadt:	Ostia
+	Name:	Museo Ostiense
+	Direktor:	Dott.ssa Elvira Angeloni
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Viale dei Romagnoli 717
+	Postleitzahl:	I-00119
+	Kontaktzenter:	Soprintendenza archeologica di Ostia
+	Stadt des Kontaktzenters:	Ostia Antica - Roma
+	Rechteinhaber der Fotos:	Archivio Fotografico della Soprintendenza Archeologica per i beni archeologici di Ostia
+	Hat die Fotorechte:	1

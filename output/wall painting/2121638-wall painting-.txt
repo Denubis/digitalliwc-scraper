@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-767c1ff10de83-3
+
+
+
+Monument
+	ID:	54847
+	Entdeckungsort:	Tarquinia
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Tomba 5039. Tomba 4780. Painting, tympanon of the back wall; two couples of recumbent laying on the ground (for a similar scheme of the symposion without klinai, s. Tomb 4780 ID 53570)
+Szene
+	ID:	60288
+	Beschreibung:	Tomba 5039. Tomba 4780. Painting, tympanon of the back wall; two couples of recumbent laying on the ground (for a similar scheme of the symposion without klinai, s. Tomb 4780 ID 53570)
+Catalog Thes CRA
+	Indexnummer:	15
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 4.a. Bankett, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	1420
+	Bandnummer:	2
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba 5039
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Necropoli
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

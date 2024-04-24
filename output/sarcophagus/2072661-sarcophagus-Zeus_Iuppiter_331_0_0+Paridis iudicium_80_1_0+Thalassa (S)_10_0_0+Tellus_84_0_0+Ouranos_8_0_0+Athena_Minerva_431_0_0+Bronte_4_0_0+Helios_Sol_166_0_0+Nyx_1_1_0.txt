@@ -1,0 +1,100 @@
+http://ark.dasch.swiss/ark:/72163/080e-73bfec282102e-a
+Zeus/Iuppiter_331_0_0
+Paridis iudicium_80_1_0
+Thalassa (S)_10_0_0
+Tellus_84_0_0
+Ouranos_8_0_0
+Athena/Minerva_431_0_0
+Bronte_4_0_0
+Helios/Sol_166_0_0
+Nyx_1_1_0
+
+
+
+Monument
+	ID:	2010
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Bronte Nyx Ouranos Thalassa Helios/Sol Paridis iudicium Tellus Zeus/Iuppiter
+	Beschreibung:	Two episodes in one scene: On the left the Judgement of Paris, on the right the return of the three goddesses to Olympos. In the left section the figure of a child, today quite damaged. It was shown frontal and rising its right hand. It is usually interpreted as one of the Winds, but it might also be Tonitrum due to its association with Caelum and Nox. On the right corner of the right scene Zeus and Selene, Nyx draped, seated towards the right (head missing). Ouranos is located below the throne of Zeus, accompanied by Okeanos and Tellus. Thalassa is reclining and seen from the back. Sol on a quadriga.
+Datierung
+	Periode:	200 
+Szene
+	ID:	1962
+	Beschreibung:	Two episodes in one scene: On the left the Judgement of Paris, on the right the return of the three goddesses to Olympos. In the left section the figure of a child, today quite damaged. It was shown frontal and rising its right hand. It is usually interpreted as one of the Winds, but it might also be Tonitrum due to its association with Caelum and Nox. On the right corner of the right scene Zeus and Selene, Nyx draped, seated towards the right (head missing). Ouranos is located below the throne of Zeus, accompanied by Okeanos and Tellus. Thalassa is reclining and seen from the back. Sol on a quadriga.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_medici/1962X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_medici/1962X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_medici/1962X103.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_medici/1962X302.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	331
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Paridis iudicium
+	Katalognummer:	80
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Thalassa (S)
+	Katalognummer:	10
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Tellus
+	Katalognummer:	84
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ouranos
+	Katalognummer:	8
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	431
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Bronte
+	Katalognummer:	4
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	166
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Nyx
+	Katalognummer:	1
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	54
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Medici
+	Direktor:	Responsable Chargé de Mission Olivier Bonfait
+	Adresse:	Viale Trinità dei Monti 1
+	Postleitzahl:	I-00187
+	Kontaktzenter:	Dipartimento di Storia dell'Arte Accademia di Francia a Roma / Villa Medici
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	Académie de France à Rome
+	Kommentar:	Numéros d'après Cagiano de Azevedo, M., Le antichità di Villa Medici (1951).
+	Hat die Fotorechte:	1

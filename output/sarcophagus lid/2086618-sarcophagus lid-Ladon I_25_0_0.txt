@@ -1,0 +1,31 @@
+http://ark.dasch.swiss/ark:/72163/080e-748775a079d87-0
+Ladon I_25_0_0
+
+
+
+Monument
+	ID:	16075
+	Entdeckungsort:	Enns, Lauriacum
+	Objekt:	sarcophagus lid
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Ladon I
+	Beschreibung:	Tree with Ladon pierced with arrow, arm of Herakles.
+Szene
+	ID:	16684
+	Beschreibung:	Tree with Ladon pierced with arrow, arm of Herakles.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Ladon I
+	Katalognummer:	25
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	AT
+	Stadt:	Linz
+	Name:	Oberösterreichisches Landesmuseum
+	Rechteinhaber der Fotos:	© Oberösterreichisches Landesmuseum Linz
+	Hat die Fotorechte:	0

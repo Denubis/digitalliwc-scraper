@@ -1,0 +1,77 @@
+http://ark.dasch.swiss/ark:/72163/080e-7407a5f6a21eb-4
+Persephone (S)_238_0_0
+Persephone (S)_255_1_0
+Hades/Pluto_21_0_0
+Hades/Pluto_49_0_0
+Hades/Pluto_64_0_0
+Ianitor Orci_9_0_0
+
+
+
+Monument
+	ID:	7060
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Ianitor Orci Eros/Amor, Cupido Proserpina Hades/Pluto Persephone
+	Beschreibung:	Rape of Persephone: under the chariot of Pluto and Proserpina are depicted Amor and Ianitor orci.
+Szene
+	ID:	7206
+	Beschreibung:	Rape of Persephone: under the chariot of Pluto and Proserpina are depicted Amor and Ianitor orci.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/spain/barcelona/the_archaeology_museum_of_catalonia/7206X006.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/spain/barcelona/the_archaeology_museum_of_catalonia/7206X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/spain/barcelona/the_archaeology_museum_of_catalonia/7206X103.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Persephone (S)
+	Katalognummer:	238
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Persephone (S)
+	Katalognummer:	255
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	21
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	49
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	64
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ianitor Orci
+	Katalognummer:	9
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	ES
+	Stadt:	Barcelona
+	Name:	The Archaeology Museum of Catalonia
+	Direktor:	To the Director
+	Adresse:	Passeig de Santa Madrona 39-41
+	Postleitzahl:	E-08038
+	Kontaktzenter:	Museu d'Arqueologia de Catalunya
+	Stadt des Kontaktzenters:	Barcelone
+	Rechteinhaber der Fotos:	© Museu d'Arqueologia de Catalunya, Barcelona
+	Hat die Fotorechte:	0

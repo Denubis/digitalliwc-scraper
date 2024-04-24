@@ -1,0 +1,58 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d3948b20d49-2
+Kentauroi et Kentaurides (S)_382_0_0
+Hippodameia II_7_1_0
+Peirithoos_2_0_0
+
+
+
+Monument
+	ID:	3394
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 2,16 (House of Gavius Rufus)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Hippodameia II Peirithoos Kentauroi and Kentaurides
+	Beschreibung:	Peirithoos and Hippadameia (II) welcoming the centaurs who are lead by their king Eurytion.
+Szene
+	ID:	3428
+	Beschreibung:	Peirithoos and Hippadameia (II) welcoming the centaurs who are lead by their king Eurytion.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/3428X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/3428X002.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	382
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippodameia II
+	Katalognummer:	7
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Peirithoos
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9044
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

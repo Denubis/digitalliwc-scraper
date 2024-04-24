@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-74a394af4f232-3
+Omphale_ad 57_0_0
+
+
+
+Monument
+	ID:	18073
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Omphale
+	Beschreibung:	Fragment. Only feet of Omphale preserved. Identified as Omphale because of similar objects (see IDs 9089 and 17072).
+Szene
+	ID:	18883
+	Beschreibung:	Fragment. Only feet of Omphale preserved. Identified as Omphale because of similar objects (see IDs 9089 and 17072).
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Omphale
+	Katalognummer:	ad 57
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	TR
+	Stadt:	Aydin
+	Name:	Musée
+	Rechteinhaber der Fotos:	© Museum Aydin
+	Hat die Fotorechte:	1

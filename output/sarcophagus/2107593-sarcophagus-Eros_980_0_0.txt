@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-75b3546615572-1
+Eros_980_0_0
+
+
+
+Monument
+	ID:	37232
+	Entdeckungsort:	Egypt
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros
+Szene
+	ID:	39131
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Eros
+	Katalognummer:	980
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	3935
+Museum
+	Land:	EG
+	Stadt:	Alexandrie
+	Name:	Musée Gréco-Romain
+	Kontaktzenter:	Musée Gréco-Romain
+	Stadt des Kontaktzenters:	Alexandrie
+	Rechteinhaber der Fotos:	© Musée Gréco-Romain Alexandria
+	Hat die Fotorechte:	1

@@ -1,0 +1,82 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e3e0d97be8d-f
+Venti_16_1_0
+Endymion_73_1_0
+Eros/Amor, Cupido_19_0_0
+Helios/Sol_344_0_0
+Horai/Horae_34_0_0
+Hypnos/Somnus_77_0_0
+Latmos (S)_5_0_0
+Selene, Luna_59_0_0
+
+
+
+Monument
+	ID:	4537
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Mausoleum
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Endymion Hypnos/Somnus Latmos Venti Luna Selene Horai/Horae Helios/Sol Endymion Eros/Amor, Cupido
+	Beschreibung:	Latmos seated on a rock, holding once a branch. Young floating Wind, sounding a trumpet (probably Zephyros), touching his neck. Selene and Sol in the upper corners of the front side. The Horae flank the main subject on the front. Alternatively: Luna descending to visit Endymion, Sol and Luna on chariots framing the scene. 
+Datierung
+	Periode:	200 - 220 
+Szene
+	ID:	49752
+	Beschreibung:	Latmos seated on a rock, holding once a branch. Young floating Wind, sounding a trumpet (probably Zephyros), touching his neck. Selene and Sol in the upper corners of the front side. The Horae flank the main subject on the front. Alternatively: Luna descending to visit Endymion, Sol and Luna on chariots framing the scene. 
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_e_galleria_doria_pamphilj/49752X304.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Venti
+	Katalognummer:	16
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	73
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	19
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	344
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	34
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	77
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Latmos (S)
+	Katalognummer:	5
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Selene, Luna
+	Katalognummer:	59
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel XII 2, 93
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo e Galleria Doria Pamphilj
+	Rechteinhaber der Fotos:	© Palazzo e Galleria Doria Pamphilj
+	Hat die Fotorechte:	1

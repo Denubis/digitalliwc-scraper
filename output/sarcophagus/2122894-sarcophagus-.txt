@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-768e14cc52d0b-e
+
+
+
+Monument
+	ID:	91109
+	Entdeckungsort:	Kilkis (Macedonia)
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	GR
+	Kategorie:	relief
+	Stichwort:	dog ribbon
+	Name:	Eros
+	Grössenangabe:	Y. 028 m - Mήκ. 1.10 m
+	Beschreibung:	Eρωτιδεύς.
+	Kommentar:	4165
+Szene
+	ID:	96590
+	Beschreibung:	Eρωτιδεύς, ελλιπής από το στήθος και κάτω, οδηγεί κύνα(;) προς αριστερά, κρατώντας τον από χαλινό, που είναι δυσδιάκριτος. Mε το υψωμένο δεξιό χέρι κρατά ταινία. Σώζεται μόνο η κεφαλή του κύνα.
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	123
+Museum
+	Land:	GR
+	Stadt:	Kilkis
+	Name:	Musée Archéologique
+	Rechteinhaber der Fotos:	© Archaeological Museum of Kilkis
+	Hat die Fotorechte:	0

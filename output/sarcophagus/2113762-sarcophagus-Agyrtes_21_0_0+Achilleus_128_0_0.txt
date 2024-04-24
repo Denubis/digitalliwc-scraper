@@ -1,0 +1,58 @@
+http://ark.dasch.swiss/ark:/72163/080e-760b866e35daf-b
+Agyrtes_21_0_0
+Achilleus_128_0_0
+
+
+
+Monument
+	ID:	43445
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	shield kline, bed trumpet, tuba, salpinx pilos
+	Name:	Achilleus Agyrtes Diomedes I Odysseus Deidameia II
+	Bibliographie:	SarkRel II no. 29; SarkRel III 3, 547 no. 29; SarkRel XII, 1 (1999) no. 8
+Datierung
+	Periode:	190 - 210 
+Epoche
+	Name:	um 200 n. Chr.
+	Periode:	190 - 210 
+	Sequenznummer:	3270
+Szene
+	ID:	45680
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Agyrtes
+	Katalognummer:	21
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	128
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	Ehem. A.O.
+Museum
+	Land:	UA
+	Stadt:	Alupka
+	Name:	Musée-réserve du Palais et du Parc d'Alupka (Collection Prince Worenzow) (autrefois)
+	Rechteinhaber der Fotos:	© Musée-réserve du Palais et du Parc d'Alupka (Collection Prince Worenzow) (once)
+	Hat die Fotorechte:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	II 1a 833, 925-927, 930
+Museum
+	Land:	RU
+	Stadt:	Moscow
+	Name:	The Pushkin State Museum of Fine Arts
+	Direktor:	Dr. Olga Vassilieva, Dir. Dept. Oriental Antiquities
+	Anrede:	Dear Director,
+	Adresse:	Ul. Vokhonka 12
+	Postleitzahl:	121019
+	E-Mail:	Finearts@artsmuseum.ru
+	Kontaktzenter:	Musée des Beaux-Arts Pouchkine
+	Stadt des Kontaktzenters:	Moscou / Russia
+	Rechteinhaber der Fotos:	© The Pushkin State Museum of Fine Arts
+	Hat die Fotorechte:	1

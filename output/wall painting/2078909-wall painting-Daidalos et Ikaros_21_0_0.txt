@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-74193f526e036-3
+Daidalos et Ikaros_21_0_0
+
+
+
+Monument
+	ID:	8302
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Daidalos and Ikaros Ikaros
+	Beschreibung:	Daidalos, bearded and wearing exomis, seated in profile on a rock, adjusting the right wing of the nude Ikaros who stands frontal with heels raised. His right arm extended and his left arm declining and thrust backward. The wing is already attached to his arm with two sets of straps, one at wrist, the other around biceps. The frame saw is at the feet of Daidalos. Daidalos holding hammer in his right hand.
+Szene
+	ID:	49076
+	Beschreibung:	Daidalos, bearded and wearing exomis, seated in profile on a rock, adjusting the right wing of the nude Ikaros who stands frontal with heels raised. His right arm extended and his left arm declining and thrust backward. The wing is already attached to his arm with two sets of straps, one at wrist, the other around biceps. The frame saw is at the feet of Daidalos. Daidalos holding hammer in his right hand.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/echzell/limeskastell/49076X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Daidalos et Ikaros
+	Katalognummer:	21
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	DE
+	Stadt:	Echzell
+	Name:	Limeskastell
+	Rechteinhaber der Fotos:	© Echzell
+	Hat die Fotorechte:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	DE
+	Stadt:	Bad Homburg
+	Name:	Saalburgmuseum
+	Direktor:	Herrn Dr. Wolfgang Schmidt
+	Adresse:	Saalburg-Kastell
+	Postleitzahl:	D-61350
+	Kontaktzenter:	Saalburgmuseum
+	Stadt des Kontaktzenters:	Bad Homburg
+	Rechteinhaber der Fotos:	© Saalburgmuseum, Bad Homburg
+	Hat die Fotorechte:	1

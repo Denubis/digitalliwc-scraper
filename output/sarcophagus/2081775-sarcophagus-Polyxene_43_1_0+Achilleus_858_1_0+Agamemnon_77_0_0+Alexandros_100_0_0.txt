@@ -1,0 +1,83 @@
+http://ark.dasch.swiss/ark:/72163/080e-744238a5577b0-c
+Polyxene_43_1_0
+Achilleus_858_1_0
+Agamemnon_77_0_0
+Alexandros_100_0_0
+
+
+
+Monument
+	ID:	11199
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	knife corselet bow arrow Phrygian cap
+	Name:	Achilleus Agamemnon Alexandros Odysseus Polyxene Paris
+	Bibliographie:	SarkRel II 68 no. 62 pl. 25; Blanco, A., Cat. de la Escultura, Mus. del Prado (1957) 81 no. 182 E pl. 54; Robert, Heldensage III 1189-1192.
+	Museums-URL:	https://www.museodelprado.es/en/the-collection/art-work/sarcophagus-with-the-story-of-achilles-and/6238afaa-900e-427e-b470-4b4431bc9a83?searchid=4ee95482-70fe-dc64-dc50-de9ec1dc71e7 https://www.museodelprado.es/en/the-collection/art-work/sarcophagus-with-the-story-of-achilles-and/8d9fe74d-cfee-444a-bd9b-622d547f346b?searchid=4ee95482-70fe-dc64-dc50-de9ec1dc71e7  https://www.museodelprado.es/en/the-collection/art-work/sarcophagus-with-the-story-of-achilles-and/4680dc29-146c-48b0-adac-eb478ce2f5df?searchid=4ee95482-70fe-dc64-dc50-de9ec1dc71e7 https://www.museodelprado.es/en/the-collection/art-work/sarcophagus-with-the-story-of-achilles-and/50ccd77a-b2a6-4166-a773-56fb11e80951?searchid=4ee95482-70fe-dc64-dc50-de9ec1dc71e7
+Datierung
+	Periode:	240 - 260 
+Epoche
+	Name:	Mitte 3. Jh. n. Chr.
+	Periode:	240 - 260 
+	Sequenznummer:	3300
+Szene
+	ID:	11471
+	Sequenznummer:	10
+	Monument-URL:	Prado: https://www.museodelprado.es/en/the-collection/art-work/sarcophagus-with-the-story-of-achilles-and/6238afaa-900e-427e-b470-4b4431bc9a83?searchid=4ee95482-70fe-dc64-dc50-de9ec1dc71e7 Prado: https://www.museodelprado.es/en/the-collection/art-work/sarcophagus-with-the-story-of-achilles-and/8d9fe74d-cfee-444a-bd9b-622d547f346b?searchid=4ee95482-70fe-dc64-dc50-de9ec1dc71e7  Prado: https://www.museodelprado.es/en/the-collection/art-work/sarcophagus-with-the-story-of-achilles-and/4680dc29-146c-48b0-adac-eb478ce2f5df?searchid=4ee95482-70fe-dc64-dc50-de9ec1dc71e7 Prado: https://www.museodelprado.es/en/the-collection/art-work/sarcophagus-with-the-story-of-achilles-and/50ccd77a-b2a6-4166-a773-56fb11e80951?searchid=4ee95482-70fe-dc64-dc50-de9ec1dc71e7
+Foto
+	Monument-URL:	http://www.limc.ch/Images/spain/madrid/museo_nacional_del_prado/11471X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/spain/madrid/museo_nacional_del_prado/11471X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/spain/madrid/museo_nacional_del_prado/11471X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/spain/madrid/museo_nacional_del_prado/11471X103.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/spain/madrid/museo_nacional_del_prado/11471X199.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/spain/madrid/museo_nacional_del_prado/11471X301.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Polyxene
+	Katalognummer:	43
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	858
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Agamemnon
+	Katalognummer:	77
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Alexandros
+	Katalognummer:	100
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	118-E + 120-E + 180-E + 182-E
+Museum
+	Land:	ES
+	Stadt:	Madrid
+	Name:	Museo Nacional del Prado
+	Direktor:	Director Miguel Zugaza
+	Adresse:	Calle de Ruiz de Alarcon 23
+	Postleitzahl:	E-28014
+	Kontaktzenter:	Musée National du Prado
+	Stadt des Kontaktzenters:	Madrid
+	Rechteinhaber der Fotos:	© Museo Nacional del Prado
+	Hat die Fotorechte:	0

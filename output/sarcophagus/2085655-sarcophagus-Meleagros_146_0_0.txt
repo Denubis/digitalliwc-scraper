@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-7479b1204e978-4
+Meleagros_146_0_0
+
+
+
+Monument
+	ID:	15106
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Meleagros
+	Beschreibung:	Lost. Homecoming of Meleagros.
+Szene
+	ID:	15583
+	Beschreibung:	Homecoming of Meleagros.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	146
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 2, 230a
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Sciarra
+	Rechteinhaber der Fotos:	© Palazzo Sciarra, Roma
+	Hat die Fotorechte:	1

@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-76aa845fd00a4-c
+Skylla I, Add._Supplement_0_0
+
+
+
+Monument
+	ID:	201979
+	Entdeckungsort:	Carthage
+	Entdeckungsort Details:	necropolis
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Name:	Skylla I
+	Beschreibung:	in the centre a Skylla in frontal view; instead of legs sinusoidal Ketos; dogs; head of warrior behind one of the dogs  
+	Bibliographie:	Delattre, A. CRAI (1902) 289-295; Héron de Villefosse, A., MonPiot 12 (1905) 86-87 no. 4; Hitzl, I., Die griechischen Sarkophage der archaischen und klassischen Zeit (1991) 187 no. 25.
+Datierung
+	Periode:	-350 - -300 
+Epoche
+	Name:	2. Hälfte 4. Jh. v. Chr.
+	Periode:	-350 - -300 
+	Sequenznummer:	2480
+Szene
+	ID:	98967
+	Beschreibung:	in the centre a Skylla in frontal view; instead of legs sinusoidal Ketos; dogs; head of warrior behind one of the dogs
+Catalog LIMC
+	Artikel:	Skylla I, Add.
+	Band:	Supplement
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	TN
+	Stadt:	Carthage
+	Name:	Musée de Carthage
+	Direktor:	M. le Dr. Fathi Bejaoui
+	Adresse:	4, Place du Château
+	Postleitzahl:	TN-1008
+	Kontaktzenter:	Directeur de la Division de l'Inventaire Général et de la Recherche - Institut National du Patrimoine
+	Stadt des Kontaktzenters:	Tunis
+	Rechteinhaber der Fotos:	© Institut National du Patrimoine, Tunis
+	Hat die Fotorechte:	1

@@ -1,0 +1,58 @@
+http://ark.dasch.swiss/ark:/72163/080e-7441c7303c4d5-8
+Polyxene_21_1_0
+
+
+
+Monument
+	ID:	11168
+	Entdeckungsort:	Urla, Clazomenai, Klazomenai (Ionia)
+	Objekt:	sarcophagus
+	Material:	terracotta
+	Land:	CH
+	Kategorie:	painting
+	Name:	Polyxene
+	Beschreibung:	Un guerrier entraîne Polyxène vers le tumulus funéraire; autres personnages à dr.
+	Bibliographie:	Cook, R. M., Clazomenian Sarcophagi (1981) 36 n. G8 pl. 48, 3.
+Datierung
+	Periode:	-500 - -490 
+Epoche
+	Name:	Anfang 5. Jh. v. Chr.
+	Periode:	-500 - -490 
+	Sequenznummer:	2300
+Szene
+	ID:	11438
+	Beschreibung:	Un guerrier entraîne Polyxène vers le tumulus funéraire; autres personnages à dr.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/netherlands/leyde/rijksmuseum_van_oudheden/11438X001.jpg
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	597
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 2.a. Opfer, gr.
+	Kurzname:	Gr.
+	Sequenznummer:	180
+	Bandnummer:	1
+Catalog LIMC
+	Artikel:	Polyxene
+	Katalognummer:	21
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	I 1896/12.1
+Museum
+	Land:	NL
+	Stadt:	Leyde
+	Name:	Rijksmuseum van Oudheden
+	Direktor:	Ruurd B. Halbertsma, Curator Classical World
+	Adresse:	Rapenburg 28
+	Postfach:	POB 11114
+	Postleitzahl:	NL-2301 EC
+	Kontaktzenter:	Rijksmuseum van Oudheden
+	Stadt des Kontaktzenters:	Leiden
+	Rechteinhaber der Fotos:	© Rijksmuseum van Oudheden
+	Hat die Fotorechte:	1

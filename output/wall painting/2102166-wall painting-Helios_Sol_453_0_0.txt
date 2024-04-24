@@ -1,0 +1,31 @@
+http://ark.dasch.swiss/ark:/72163/080e-7565be06a0633-1
+Helios/Sol_453_0_0
+
+
+
+Monument
+	ID:	31751
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Necropoli di San Paolo fuori le Mura, Necropoli della via Ostiense
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Helios/Sol
+	Beschreibung:	Girl with nimbus, between two birds (defunct as Sol).
+Szene
+	ID:	33363
+	Beschreibung:	Girl with nimbus, between two birds (defunct as Sol).
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	453
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Necropoli della Via Ostiense (presso San Paolo fuori le Mura)
+	Rechteinhaber der Fotos:	© Roma
+	Hat die Fotorechte:	1

@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-7412c5611aa9d-4
+Sphinx (S)_296_0_0
+
+
+
+Monument
+	ID:	7844
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Sphinx (Thebana)
+	Beschreibung:	Two Sphinxes.
+Szene
+	ID:	49466
+	Beschreibung:	Two Sphinxes.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Sphinx (S)
+	Katalognummer:	296
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VI 17,42
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1

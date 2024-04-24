@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-75b10acfdba52-9
+Dionysos/Bacchus_116_1_0
+
+
+
+Monument
+	ID:	37069
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dionysos/Bacchus
+	Beschreibung:	Under a porticus with five arcs the four seasons and in the centre Bacchus leaning on a satyr.
+Szene
+	ID:	38966
+	Beschreibung:	Under a porticus with five arcs the four seasons and in the centre Bacchus leaning on a satyr.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/genova/cattedrale_san_lorenzo/38966X001.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	116
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Genova
+	Name:	Cattedrale San Lorenzo
+	Rechteinhaber der Fotos:	© Genova
+	Hat die Fotorechte:	0

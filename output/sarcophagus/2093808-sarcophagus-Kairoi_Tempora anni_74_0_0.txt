@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ee406f3a875-8
+Kairoi/Tempora anni_74_0_0
+
+
+
+Monument
+	ID:	23327
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kairoi/Tempora anni
+	Beschreibung:	Clipeus with the deceased above cornucopiae held by two winged Erotes (Fall and Winter). The two Erotes who hold the clipeus show no attributes.
+Datierung
+	Periode:	280 - 300 
+Szene
+	ID:	24471
+	Beschreibung:	Clipeus with the deceased above cornucopiae held by two winged Erotes (Fall and Winter). The two Erotes who hold the clipeus show no attributes.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/russian_federation/st_petersburg/the_state_hermitage_museum/24471X301.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	74
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	а 1126
+Museum
+	Land:	RU
+	Stadt:	St. Petersburg
+	Name:	The State Hermitage Museum
+	Direktor:	Ms. Anastasia Mikliaeva, Head Rights & Reproductions
+	Adresse:	Dvortsovaya Nabereznaja 34
+	Postleitzahl:	190 000
+	Kontaktzenter:	The State Hermitage Museum
+	Stadt des Kontaktzenters:	St. Petersburg / Russia
+	Rechteinhaber der Fotos:	© The State Hermitage Museum, St. Petersburg
+	Kommentar:	Pour la céramique, les chiffres avec la lettre B se rapportent au catalogue d'O. Waldhauer (1914).
+	Hat die Fotorechte:	1

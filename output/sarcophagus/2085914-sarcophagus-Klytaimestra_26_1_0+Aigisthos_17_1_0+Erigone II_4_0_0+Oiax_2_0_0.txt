@@ -1,0 +1,84 @@
+http://ark.dasch.swiss/ark:/72163/080e-747d650b7bfc7-f
+Klytaimestra_26_1_0
+Aigisthos_17_1_0
+Erigone II_4_0_0
+Oiax_2_0_0
+
+
+
+Monument
+	ID:	15366
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	throne sword torch
+	Name:	Aigisthos Elektra I Erigone I Klytaimestra Oiax Orestes Pylades Oiax
+	Beschreibung:	Death of Aigisthos: Orestes, nude except for a cloak, in "hair-grabber" pose, attacks Aigisthos who is already wounded and seated on a throne. Aigisthos bearded, wearing mantle about his lower torso, trying to push Orestes away. To the right of Aigisthos a female figure raising a footstool over her head (Klytaimnestra? or Erigone (I)?). On the left of Orestes Elektra approaching. Behind her, Pylades and a woman fleeing. At the extreme left a Fury holding a torch. Right half: Death of Klytaimnestra. Orestes attacks her, Oiax tries to interfere.
+	Bibliographie:	SarkRel II pl. 54 no. 154; Brommer, Denkmälerlisten III 322, 1; Vermeule, E., AJA 70, 1966, 18 no. 32; Sichtermann, H., Ein ungewöhnlicher mythologischer Sarkophag, RM 78, 1971, 189 pl. 94, 1 . 
+Datierung
+	Periode:	100 - 200 
+Epoche
+	Name:	2. Jh. n. Chr.
+	Periode:	100 - 200 
+	Sequenznummer:	3140
+Szene
+	ID:	15859
+	Beschreibung:	Death of Aigisthos: Orestes, nude except for a cloak, in "hair-grabber" pose, attacks Aigisthos who is already wounded and seated on a throne. Aigisthos bearded, wearing mantle about his lower torso, trying to push Orestes away. To the right of Aigisthos a female figure raising a footstool over her head (Klytaimnestra? or Erigone (I)?). On the left of Orestes Elektra approaching. Behind her, Pylades and a woman fleeing. At the extreme left a Fury holding a torch. Right half: Death of Klytaimnestra. Orestes attacks her, Oiax tries to interfere.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/russian_federation/st_petersburg/the_state_hermitage_museum/15859X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/russian_federation/st_petersburg/the_state_hermitage_museum/15859X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/russian_federation/st_petersburg/the_state_hermitage_museum/15859X301.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/russian_federation/st_petersburg/the_state_hermitage_museum/15859X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/russian_federation/st_petersburg/the_state_hermitage_museum/15859X303.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Klytaimestra
+	Katalognummer:	26
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aigisthos
+	Katalognummer:	17
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Erigone II
+	Katalognummer:	4
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Oiax
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	а 461
+Museum
+	Land:	RU
+	Stadt:	St. Petersburg
+	Name:	The State Hermitage Museum
+	Direktor:	Ms. Anastasia Mikliaeva, Head Rights & Reproductions
+	Adresse:	Dvortsovaya Nabereznaja 34
+	Postleitzahl:	190 000
+	Kontaktzenter:	The State Hermitage Museum
+	Stadt des Kontaktzenters:	St. Petersburg / Russia
+	Rechteinhaber der Fotos:	© The State Hermitage Museum, St. Petersburg
+	Kommentar:	Pour la céramique, les chiffres avec la lettre B se rapportent au catalogue d'O. Waldhauer (1914).
+	Hat die Fotorechte:	1

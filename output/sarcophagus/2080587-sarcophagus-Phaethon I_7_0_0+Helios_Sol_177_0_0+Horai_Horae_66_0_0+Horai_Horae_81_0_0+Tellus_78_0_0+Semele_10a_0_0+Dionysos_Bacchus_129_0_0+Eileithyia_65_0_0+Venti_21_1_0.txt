@@ -1,0 +1,91 @@
+http://ark.dasch.swiss/ark:/72163/080e-74313ca9eb17c-7
+Phaethon I_7_0_0
+Helios/Sol_177_0_0
+Horai/Horae_66_0_0
+Horai/Horae_81_0_0
+Tellus_78_0_0
+Semele_10a_0_0
+Dionysos/Bacchus_129_0_0
+Eileithyia_65_0_0
+Venti_21_1_0
+
+
+
+Monument
+	ID:	10001
+	Entdeckungsort:	Tivoli
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dionysos/Bacchus Eileithyia Semele Helios/Sol Horai/Horae Phaethon I Venti Tellus
+	Beschreibung:	Semele reclining with the baby Bacchus in her arms. In front of her three women (probably Eileithies) take care of the child. The sad woman leaving is probably Harmonia. Behind, Hermes. Ohaethon (I) in front of Helios/Sol, in the presence of Klymene and the four Horai. On the right the Winds, leading the horses to Sol. At their feet Okeanos and Tellus.
+Datierung
+	Periode:	190 - 200 
+Szene
+	ID:	10217
+	Beschreibung:	Semele reclining with the baby Bacchus in her arms. In front of her three women (probably Eileithies) take care of the child. The sad woman leaving is probably Harmonia. Behind, Hermes. Ohaethon (I) in front of Helios/Sol, in the presence of Klymene and the four Horai. On the right the Winds, leading the horses to Sol. At their feet Okeanos and Tellus.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/liverpool/liverpool_museum/national_museums_and_galleries_on_merseyside_formerly_merseyside/10217X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Phaethon I
+	Katalognummer:	7
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	177
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	66
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	81
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Tellus
+	Katalognummer:	78
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Semele
+	Katalognummer:	10a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	129
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eileithyia
+	Katalognummer:	65
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Venti
+	Katalognummer:	21
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1959.148.221
+Museum
+	Land:	GB
+	Stadt:	Liverpool
+	Name:	Liverpool, National Museums (World Museum)
+	Direktor:	Photographic Services
+	Adresse:	127 Dale Street
+	Postleitzahl:	GB-
+	Stadt des Kontaktzenters:	Liverpool L2 2JH
+	Rechteinhaber der Fotos:	© Liverpool, National Museums 
+	Hat die Fotorechte:	1

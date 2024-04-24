@@ -1,0 +1,49 @@
+http://ark.dasch.swiss/ark:/72163/080e-769e38d859ed8-6
+Telephos, Add._Supplement_1_0
+
+
+
+Monument
+	ID:	200943
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Via dell`Umiltà
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	spear pillar kneeling (not ritually)
+	Name:	Aigisthos Aleos Auge Herakles Klytaimestra Oinomaos Orestes Pelops Telephos
+	Beschreibung:	Bildfeld links: Lanzenträger, antik, eine weitere männliche Figur ist ergänzt. Mitte: Audienzszene, Pelops vor Oinomaos (? Anders Amedick: Telephos in Tegea vor König Aleos?). Rechts: Im Hintergrund kommen zwei Männer von links, vorn in der Mitte stehen zwei Frauen, rechts am Rand sitzt ein Mann, vor ihm kniet eine Frau: Orestes tötet Aigisthos und Klytaimestra? Herakles tut Auge Gewalt an? Die Frau kniet im Schema einer Geraubten, etwa der Persephone. Die Deutung der Szenen ist unsicher.
+	Bibliographie:	Sichtermann, H., RM 78, 1971, 181-202 pls. 94-97; Koch/Sichtermann, RömSark 190 n. 10; Amedick, R., RM 106, 1999, 133-147.
+	Kommentar:	Zu den verschiedenen Deutungen s. Amedick, R.
+Datierung
+	Periode:	250 - 300 
+Epoche
+	Name:	2. Hälfte 3. Jh. n. Chr.
+	Periode:	250 - 300 
+	Sequenznummer:	3330
+Szene
+	ID:	97777
+	Beschreibung:	Bildfeld links: Lanzenträger, antik, eine weitere männliche Figur ist ergänzt. Mitte: Audienzszene, Pelops vor Oinomaos (? Anders Amedick: Telephos in Tegea vor König Aleos?). Rechts: Im Hintergrund kommen zwei Männer von links, vorn in der Mitte stehen zwei Frauen, rechts am Rand sitzt ein Mann, vor ihm kniet eine Frau: Orestes tötet Aigisthos und Klytaimestra? Herakles tut Auge Gewalt an? Die Frau kniet im Schema einer Geraubten, etwa der Persephone. Die Deutung der Szenen ist unsicher.
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Telephos, Add.
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Via dell'Umiltà 48
+	Direktor:	Dr. Sylvia Diebner
+	Adresse:	Via Sardegna 79
+	Postleitzahl:	I-00187
+	Kontaktzenter:	Deutsches Archäologisches Institut / DAI
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Deutsches Archäologisches Institut / DAI
+	Hat die Fotorechte:	1

@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-7589b2b7fb492-7
+Eros/Amor, Cupido_ad 110_0_0
+
+
+
+Monument
+	ID:	34297
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido
+Szene
+	ID:	36054
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 110
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	FR
+	Stadt:	Marseille
+	Name:	Musée d'Archéologie Méditerranéenne (collections autrefois au Musée Borély)
+	Direktor:	Au Directeur
+	Adresse:	2, Rue de la Charité
+	Postleitzahl:	F-13002
+	Kontaktzenter:	Musée d'Archéologie Méditerranéenne Centre de la Vieille Charité
+	Stadt des Kontaktzenters:	Marseille
+	Rechteinhaber der Fotos:	© Musée d'Archéologie Méditerranéenne, Marseille
+	Hat die Fotorechte:	1

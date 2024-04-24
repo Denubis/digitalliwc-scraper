@@ -1,0 +1,49 @@
+http://ark.dasch.swiss/ark:/72163/080e-76a81d821375c-6
+Porthmos (Suppl. 2009)_Supplement_1_0
+
+
+
+Monument
+	ID:	201460
+	Entdeckungsort:	Syracuse, Syrakusai, Syrakus
+	Entdeckungsort Details:	Catacombs of Santa Lucia
+	Objekt:	wall painting
+	Herkunft:	Sicily
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	rudder, oar helmet dolphin wall, Town wall ship, boat
+	Name:	Zeus Porthmos
+	Beschreibung:	Representation of Cape Peloro, seen from the sea. In the centre naked male figure with helmet (Zeus Peloros, inscribed) standing on a fortified wall, his left foot on the  beak-headed bow of a ship; to the left a reclining male figure (Porthmos, inscribed) on a rock (?) in the sea wearing a mantel and holding a rudder in the left hand 
+	Inschrift:	Zeus Peloros, Porthmos
+	Bibliographie:	Agnello, G., Un sacello pagano con affreschi nella catacomba di Santa Lucia a Siracusa, Palladio 13, 1963, figg. 7-8; Bonacasa, N., L'Ellenismo e la tradizione ellenistica, in: Sikanie. Storia e civiltà della Sicilia greca (1986) 337 fig. 406; Sgarlata, M./Salvo, G., La catacomba di Santa Lucia e l'oratorio dei Quaranta Martiri (2006) 35 fig. 31.
+Datierung
+	Periode:	-150 - -50 
+Epoche
+	Name:	späthellenistisch
+	Periode:	-150 - -50 
+	Sequenznummer:	1070
+Szene
+	ID:	98429
+	Beschreibung:	Representation of Cape Peloro, seen from the sea. In the centre naked male figure with helmet (Zeus Peloros, inscribed) standing on a fortified wall, his left foot on the  beak-headed bow of a ship; to the left a reclining male figure (Porthmos, inscribed) on a rock (?) in the sea wearing a mantel and holding a rudder in the left hand 
+	Inschrift:	Zeus Peloros, Porthmos
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Porthmos (Suppl. 2009)
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Siracusa
+	Name:	Catacombe di Santa Lucia
+	Direktor:	Pontificia Commissione di Archeologia Sacra
+	Adresse:	Via A. von Platen 34
+	Postleitzahl:	I-96100
+	Kontaktzenter:	Ispettorato per le catacombe della Sicilia Orientale
+	Stadt des Kontaktzenters:	Siracusa
+	Rechteinhaber der Fotos:	© Ispettorato per le catacombe della Sicilia Orientale, Siracusa
+	Hat die Fotorechte:	0

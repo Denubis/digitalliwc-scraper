@@ -1,0 +1,48 @@
+http://ark.dasch.swiss/ark:/72163/080e-7472b7161e9f0-0
+Medeia_57_1_0
+Kreousa II_12_0_0
+
+
+
+Monument
+	ID:	14613
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kreousa II Medeia
+	Beschreibung:	The children of Medeia handing over presents to Kreousa (II). Medeia killing her children.
+Szene
+	ID:	15054
+	Beschreibung:	The children of Medeia handing over presents to Kreousa (II). Medeia killing her children.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ancona/museo_archeologico_nazionale_delle_marche/15054X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ancona/museo_archeologico_nazionale_delle_marche/15054X103.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Medeia
+	Katalognummer:	57
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kreousa II
+	Katalognummer:	12
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	907
+Museum
+	Land:	IT
+	Stadt:	Ancona
+	Name:	Museo Archeologico Nazionale delle Marche
+	Direktor:	Soprintendente Dott. Giuliano de Marinis
+	Adresse:	Via Birarelli 18
+	Postleitzahl:	I-60121
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici delle Marche
+	Stadt des Kontaktzenters:	Ancona
+	Rechteinhaber der Fotos:	© Polo Museale delle Marche
+	Hat die Fotorechte:	0

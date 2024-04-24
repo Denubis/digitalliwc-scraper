@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-742265ab54cb6-3
+Penthesileia_56h_1_0
+Menelaos (S)_25_1_0
+
+
+
+Monument
+	ID:	8948
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Penthesileia Menelaos
+	Beschreibung:	Penthesileia and Achilleus.
+Szene
+	ID:	9150
+	Beschreibung:	Penthesileia and Achilleus.
+	Sequenznummer:	10
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Penthesileia
+	Katalognummer:	56h
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Menelaos (S)
+	Katalognummer:	25
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	169
+Museum
+	Land:	US
+	Stadt:	New York
+	Name:	private collections: Shelby White and Leon Levy Collection
+	Direktor:	Curator Dr. Jennifer Chi
+	Postleitzahl:	USA-
+	Rechteinhaber der Fotos:	© Shelby White and Leon Levy Collection
+	Kommentar:	Numéros d'après von Bothmer, D. (éd.), Glories of the Past. Ancient Art from the Shelby White and Leon Levy Collection (1990).
+	Hat die Fotorechte:	1

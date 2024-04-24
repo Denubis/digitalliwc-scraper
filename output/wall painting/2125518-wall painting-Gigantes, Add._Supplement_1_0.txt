@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-76b3986c0504b-9
+Gigantes, Add._Supplement_1_0
+
+
+
+Monument
+	ID:	202263
+	Objekt:	wall painting
+	Herkunft:	Syria
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Gigantes
+	Beschreibung:	in the center Zeus with himation, sandals fighting against two giants; both giants with snake legs; one of the giants threatening Zeus with a rock
+	Bibliographie:	Gawlikowski, M., JRA 20, 2007, 355 no. 7 fig. 13.
+Szene
+	ID:	99260
+	Beschreibung:	n the center Zeus with himation, sandals fighting against two giants; both giants with snake legs; one of the giants threatening Zeus with a rock
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Gigantes, Add.
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	SY
+	Stadt:	Hawarte (Huarté, Syrie)
+	Name:	Mithraeum
+	Rechteinhaber der Fotos:	© Hawarte
+	Hat die Fotorechte:	1

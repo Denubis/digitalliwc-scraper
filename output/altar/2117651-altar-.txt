@@ -1,0 +1,98 @@
+http://ark.dasch.swiss/ark:/72163/080e-76431fd9a0364-d
+
+
+
+Monument
+	ID:	50629
+	Entdeckungsort:	Pompei
+	Objekt:	altar
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	wreath, crown, stephane, corona altar phiale, phiale mesomphalos, patera jug shield garland temple bull victimarius pipe, flute, aulos, tibiae fillet, taenia, tainia parapetasma, velum, curtain laurel-tree popa (with ax or hammer) hammer, mallet, sphyra, malleus incense box, libanotis, acerra musician (man) lituus (curved staff of the augurs) foculus, folding table fasces towel, mantele, mappa tray, lanx, catinus simpulum, simpuvium, culullus, ladle guttus, gutus, guturnium, urceus pollubrum, trulleum
+	Beschreibung:	Altar im sog. Vespasianstempel: Vorderseite: Opferszene: der Kaiser libiert capite velato mit einer patera über einem tragbaren Räucheraltar. Im Hntergrund ist ein viersäuliger Tempel zu sehen, der mit einer Girlande, einem Schild und einem Vorhang geschmückt ist. Ein popa führt einen Stier heran, in der Linken hält er einen malleus. Hinter ihm und links neben ihm stehen zwei Victimarii. Direkt rechts neben dem Kaiser befindet sich ein Flötenspieler. Hinter ihm stehen zwei Liktoren mit fasces, ein camillus mit lanx und ein minister mit pollubrum in der Linken und Kanne in der Rechten. Um die Schultern liegt ein Handtuch.Linke Nebenseite: Unter einer Fruchtgirlande mit Tänien befinden sich patera, simpuvium und Kanne.Rechte Nebenseite: Unter einer Fruchtgirlande mit Tänien befinden sich Mantele, Acerra und Lituus.Rückseite: Mittig Eichenkranz auf clipeus mit Tänien, flankiert von zwei Lorbeerbäumchen.
+	Bibliographie:	Scott Ryberg, I., Rites of the State Religion in the Roman Art, MAAR 22, 1955, 81-82 fig. 38a; Götte, H. R., Studien zur römischen Togadarstellungen (1990) 114 Ba 17 tav. 6, 2; Dobbins, J. J., “The Altar of the Genius Augustus Sanctuary at Pompeii” RM 99, 1992, 253 tavv. 72, 2; 73, 1-3; Fless, F., Opferdiener und Kultmusiker auf stadtrömischen Reliefs. (1995) 16 tav. 19, 2; Hermann: Römische Götteraltäre (1961), 102 ff; Wallat, Kurt: Die Ostseite des Forums von Pompeji, Frankfurt 1997, 107ff, Taf. LXIV und LXV.
+Datierung
+	Periode:	-27 - 14 
+Epoche
+	Name:	augusteisch
+	Periode:	-27 - 14 
+	Sequenznummer:	1130
+Szene
+	ID:	55788
+	Beschreibung:	Altar im sog. Vespasianstempel: Vorderseite: Opferszene: der Kaiser libiert capite velato mit einer patera über einem tragbaren Räucheraltar. Im Hntergrund ist ein viersäuliger Tempel zu sehen, der mit einer Girlande, einem Schild und einem Vorhang geschmückt ist. Ein popa führt einen Stier heran, in der Linken hält er einen malleus. Hinter ihm und links neben ihm stehen zwei Victimarii. Direkt rechts neben dem Kaiser befindet sich ein Flötenspieler. Hinter ihm stehen zwei Liktoren mit fasces, ein camillus mit lanx und ein minister mit pollubrum in der Linken und Kanne in der Rechten. Um die Schultern liegt ein Handtuch.Linke Nebenseite: Unter einer Fruchtgirlande mit Tänien befinden sich patera, simpuvium und Kanne.Rechte Nebenseite: Unter einer Fruchtgirlande mit Tänien befinden sich Mantele, Acerra und Lituus.Rückseite: Mittig Eichenkranz auf clipeus mit Tänien, flankiert von zwei Lorbeerbäumchen.
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	89
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	14
+	Name:	II. 3.a. Reinigung, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	1000
+	Bandnummer:	2
+Catalog Thes CRA
+	Indexnummer:	90
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 2.a. Opfer, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	220
+	Bandnummer:	1
+Catalog Thes CRA
+	Indexnummer:	11
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Catalog Thes CRA
+	Indexnummer:	5
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Altare, Rom. imp.
+	Lemata:	Altare, Rom. imp.
+	Sequenznummer:	3296
+	Bandnummer:	4
+Catalog Thes CRA
+	Indexnummer:	195
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA
+	Indexnummer:	354
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA
+	Indexnummer:	1543
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA
+	Indexnummer:	7
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VI. 1.b. Kindheit und Adoleszenz, röm.
+	Bandnummer:	6
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Altare
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Foro, Tempio del Genius Augusti (c.d. Tempio di Vespasiano)
+	Rechteinhaber der Fotos:	© Pompei
+	Hat die Fotorechte:	1

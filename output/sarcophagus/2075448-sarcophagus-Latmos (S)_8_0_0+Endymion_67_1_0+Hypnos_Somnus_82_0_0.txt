@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e7c458ddfdd-7
+Latmos (S)_8_0_0
+Endymion_67_1_0
+Hypnos/Somnus_82_0_0
+
+
+
+Monument
+	ID:	4812
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Endymion Hypnos/Somnus Latmos
+	Beschreibung:	Hypnos framed by two local gods. One of them is probably Latmos.
+	Monument-URL:	arachne.dainst.org/entity/1091503
+Szene
+	ID:	4898
+	Beschreibung:	Hypnos framed by two local gods. One of them is probably Latmos.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/castelgandolfo/4898X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Latmos (S)
+	Katalognummer:	8
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	67
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	82
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Castelgandolfo
+	Rechteinhaber der Fotos:	© Castelgandolfo
+	Hat die Fotorechte:	0

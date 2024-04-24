@@ -1,0 +1,89 @@
+http://ark.dasch.swiss/ark:/72163/080e-74a5de4588d52-b
+Mithras_145_0_0
+Mithras_252_0_0
+Mithras_287_0_0
+Mithras_336_0_0
+Mithras_397_0_0
+Mithras_403_0_0
+Gigantes_552_0_0
+Mithras_532_0_0
+Mithras_47_0_0
+
+
+
+Monument
+	ID:	18237
+	Entdeckungsort:	Marino, Bovillae
+	Entdeckungsort Details:	Mithraeum
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Mithras Gigantes
+	Beschreibung:	Mithras killing the bull in a cave. Several stars on the mantle of Mithras. The bull's tail turns into ears. Scorpion, serpent and dog. On the left Cautes, on the right Cautopates. On the rock a raven. Above, on the left the bust of Sol. In the left side panel Mithras riding the bull, the birth of Mithras: Mithras emerging from a rock, holding torch and dagger. Then Saturnus, Gigantomachy. In the right side panel the water miracle, the alliance, the admission, Mithras taurophoros.
+Datierung
+	Periode:	200 
+Szene
+	ID:	19056
+	Beschreibung:	Mithras killing the bull in a cave. Several stars on the mantle of Mithras. The bull's tail turns into ears. Scorpion, serpent and dog. On the left Cautes, on the right Cautopates. On the rock a raven. Above, on the left the bust of Sol. In the left side panel Mithras riding the bull, the birth of Mithras: Mithras emerging from a rock, holding torch and dagger. Then Saturnus, Gigantomachy. In the right side panel the water miracle, the alliance, the admission, Mithras taurophoros.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/marino/mitreo/19056X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/marino/mitreo/19056X102.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mithras
+	Katalognummer:	145
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mithras
+	Katalognummer:	252
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mithras
+	Katalognummer:	287
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mithras
+	Katalognummer:	336
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mithras
+	Katalognummer:	397
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mithras
+	Katalognummer:	403
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Gigantes
+	Katalognummer:	552
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mithras
+	Katalognummer:	532
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mithras
+	Katalognummer:	47
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Marino
+	Name:	Mitreo
+	Rechteinhaber der Fotos:	© Mitreo, Marino
+	Hat die Fotorechte:	0

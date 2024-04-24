@@ -1,0 +1,159 @@
+http://ark.dasch.swiss/ark:/72163/080e-74754d880fe39-5
+Kerberos_75_1_0
+Herakles_1930_0_0
+Hesperides_14_0_0
+Herakles_2223c_0_0
+Herakles_2295_0_0
+Herakles_2388_0_0
+Herakles_1734_0_1
+Herakles_2437_0_0
+Herakles_2515_0_0
+
+
+
+Monument
+	ID:	14795
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Herakles Hesperides Kerberos
+	Beschreibung:	Labours of Herakles: Lion, Hydra, Boar, Deer, Birds, Augeias. On the sides Bull and Kerberos. On the lid Horses of Diomedes, Hesperides, Amazon and Geryoneus.
+Datierung
+	Periode:	150 - 180 
+Szene
+	ID:	15267
+	Beschreibung:	Labours of Herakles: Lion, Hydra, Boar, Deer, Birds, Augeias. On the sides Bull and Kerberos.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/firenze/galleria_degli_uffizi/15267X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/firenze/galleria_degli_uffizi/15267X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/firenze/galleria_degli_uffizi/15267X103.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/firenze/galleria_degli_uffizi/15267X104.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/firenze/galleria_degli_uffizi/15267X105.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/firenze/galleria_degli_uffizi/15267X106.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kerberos
+	Katalognummer:	75
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	1930
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hesperides
+	Katalognummer:	14
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2223c
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2295
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2388
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49100
+	Szenerieangabe:	couvercle
+	Beschreibung:	On the lid Horses of Diomedes, Hesperides, Amazon and Geryoneus.
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/firenze/galleria_degli_uffizi/49100X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/firenze/galleria_degli_uffizi/49100X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/firenze/galleria_degli_uffizi/49100X103.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/firenze/galleria_degli_uffizi/49100X104.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/firenze/galleria_degli_uffizi/49100X105.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/firenze/galleria_degli_uffizi/49100X106.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/firenze/galleria_degli_uffizi/49100X107.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	1734
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2437
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2515
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	110
+Museum
+	Land:	IT
+	Stadt:	Firenze
+	Name:	Galleria degli Uffizi
+	Adresse:	Via della Ninna 5
+	Postleitzahl:	I-50122
+	Kontaktzenter:	Soprintendenza Speciale per il Polo Museale Fiorentino
+	Stadt des Kontaktzenters:	Firenze
+	Rechteinhaber der Fotos:	Su concessione del Ministero dei beni e delle attività culturali e del turismo
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1885
+Museum
+	Land:	VA
+	Stadt:	Vaticano
+	Name:	Musei Vaticani
+	Direktor:	Direttore Dott. Antonio Paolucci
+	Anrede:	Chiarissimo Direttore,
+	Postleitzahl:	I-00120
+	Kontaktzenter:	Monumenti, Musei e Gallerie Pontificie
+	Stadt des Kontaktzenters:	Città del Vaticano
+	Rechteinhaber der Fotos:	© Musei Vaticani
+	Kommentar:	Sont réunis sous cette dénomination générique - compte tenu à la fois de leur numérotation unique et de leurs déplacements à l'intérieur des musées - les monuments conservés dans le Museo Chiaramonti, le Museo Gregoriano Etrusco, le Museo Gregoriano Profano, le Museo Pio Clementino et le Museo Pio Cristiano.  En revanche, la localisation spécifique a été conservée dans les cas suivants: Basilica San Pietro, Biblioteca Apostolica Vaticana (et Museo Profano, Museo Sacro, Sala delle Nozze Aldobrandine), Camposanto Teutonico, Giardini, Medagliere Vaticano, Museo Gregoriano Egizio, Necropoli sotto San Pietro.
+	Hat die Fotorechte:	0

@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-73ecfc37919be-9
+Victoria_220_0_0
+
+
+
+Monument
+	ID:	5178
+	Objekt:	sarcophagus lid
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Victoria
+	Beschreibung:	Two Victorias holding tabula.
+Szene
+	ID:	5266
+	Beschreibung:	Two Victorias holding tabula.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/sesto_fiorentino/palazzo_comunale/5266X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/sesto_fiorentino/palazzo_comunale/5266X303.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/sesto_fiorentino/palazzo_comunale/5266X399.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Victoria
+	Katalognummer:	220
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Sesto Fiorentino
+	Name:	Palazzo Comunale
+	Rechteinhaber der Fotos:	© Palazzo Comunale, Sesto Fiorentino
+	Hat die Fotorechte:	0

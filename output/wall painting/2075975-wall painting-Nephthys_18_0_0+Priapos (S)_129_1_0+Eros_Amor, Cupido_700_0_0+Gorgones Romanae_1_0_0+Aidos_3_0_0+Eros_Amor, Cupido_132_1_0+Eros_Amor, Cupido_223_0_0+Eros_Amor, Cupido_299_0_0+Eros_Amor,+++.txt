@@ -1,0 +1,277 @@
+http://ark.dasch.swiss/ark:/72163/080e-73ef4d1fac068-f
+Nephthys_18_0_0
+Priapos (S)_129_1_0
+Eros/Amor, Cupido_700_0_0
+Gorgones Romanae_1_0_0
+Aidos_3_0_0
+Eros/Amor, Cupido_132_1_0
+Eros/Amor, Cupido_223_0_0
+Eros/Amor, Cupido_299_0_0
+Eros/Amor, Cupido_643_0_0
+Erinys_89_0_0
+Eros/Amor, Cupido_ad 595_0_0
+Silenoi (S)_ante 17_0_0
+Eros/Amor, Cupido_ad 697_0_0
+Mainades (S)_149_1_0
+Agnoia_4_0_0
+Dionysos/Bacchus_195_1_0
+Silenoi (S)_14_1_0
+Silenoi (S)_94_0_0
+
+
+
+Monument
+	ID:	5341
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	Villa dei Misterii
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	satyr, silen maenad
+	Name:	Agnoia Aidos Dionysos/Bacchus Erinys Eros/Amor, Cupido Nephthys Mainades Priapos Silenoi
+	Beschreibung:	Pompeji, Mysterienvilla:Cubiculum 16, Alkoven B: Wandmalerei mit Säulenarchitektur.tablinum 2: ägyptisierende Szenen.cubiculum 4, alcova: Herme und Felsaltar. oecus 5: Mysterienfries.
+	Bibliographie:	Herbig, R., Neue Beobachtungen am Fries der Mysterien-Villa in Pompeji (1958); Simon, E., “Zum Fries der Mysterienvilla bei Pompeji”, JdI 76 (1961) 111-172; Sauron, G., La grande fresque de la Villa des Mystères à Pompéi (1998); Engemann, J., Architekturdarstellungen des frühen zweiten Stils. Illusionistische römische Wandmalerei der ersten Phase und ihre Vorbilder in der realen Architektur, RM Erg.-H. 12 (1967) 124-126 Taf. 20; Cerulli Irelli, PWandmalerei Abb. 108.
+	Kommentar:	zum Sacrarium siehe Fiche 54338.
+Datierung
+	Periode:	-80 - -1 
+Epoche
+	Name:	2. pompejanischer Stil
+	Periode:	-80 - -1 
+	Sequenznummer:	1330
+Szene
+	ID:	49607
+	Szenerieangabe:	tablinum 2
+	Beschreibung:	ägyptisierende Motive: zu beiden Seiten ein Ichneumon, je eine geflügelte Göttin (Isis? und Nephthys ?)
+	Sequenznummer:	952
+	Name:	Isis Nephthys
+Catalog LIMC
+	Artikel:	Nephthys
+	Katalognummer:	18
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49608
+	Szenerieangabe:	cubiculum 4, alcova
+	Beschreibung:	Bekränzter Mann mit Fackel und geflügelter Knabe mit Schwein vor Felsaltar, auf diesem Früchte, Blumen, Priaposherme mit Kranz auf Kopf und mit am Phallos hängendem Kranz. On the architrave gorgoneia.
+	Bibliographie:	Maiuri, A., La Villa dei Misteri (1960) 90 Abb. 51;Schefold, WP 294.
+	Sequenznummer:	954
+	Name:	Priapos
+	Stichwort:	wreath, crown, stephane, corona herm torch pig flower fruit altar built of field stones
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Datierung
+	Periode:	-80 - -1 
+Catalog Thes CRA
+	Indexnummer:	340
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 5. Kultbilder
+	Sequenznummer:	1800
+	Bandnummer:	2
+Catalog Thes CRA
+	Indexnummer:	106
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	IV. 1.b. Kultorte (Darstellungen)
+	Sequenznummer:	4500
+	Bandnummer:	4
+Catalog LIMC
+	Artikel:	Priapos (S)
+	Katalognummer:	129
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	700
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Gorgones Romanae
+	Katalognummer:	1
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49609
+	Szenerieangabe:	oecus 5
+	Beschreibung:	sog. Mysterienfries: Initiationsritus (Hochzeit?): Beginn links neben der Tür: 1. Szene: Knabe liest einer stehenden und einer sitzenden Frau aus Buchrolle vor; 2. Szene: Reinigung (?) Eine vom Rücken gesehene sitzende Frau und zwei assistierende junge Frauen. Die linke mit canistrum, die rechte giesst aus einer Kanne Wasser über einen Zweig, den die sitzende in der Mitte aus einem Canistrum entnommen hat, von dem sie zuvor ein Tuch gezogen hat. Beide Körbe haben einen recht ausladenden Rand und sind wohl aus Metall zu denken, das in seiner Verzierung Korbgeflecht nachahmt. 3. Szene: Laier spielender Silen mit Satyrpaar mit Ziegen und Syrinx sowie fliehende Frau; Mittig: 4.Szene: Orakelszene(?) sitzender Silen hält Becher in den anderer Satyr hineinblickt, dahinter 2. Satyr mit Maske; Mittelszene: Dionysos mit Thyrsos und Ariadne(?); 6. Szene: Enthüllung des Liknon; 7. Szene: Geißelung einer knienden Frau mit entblößtem Rücken durch gefügelte Frauenfigur mit Rute; daneben auch nackte Tanzende mit Kymbalon und Bekleidete mit Thyrsos; 8. Szene: Schmückung einer Braut (?) dabei 2 Eroten, einer davon mit Spiegel; 9. Szene: Thronende Frau (Brautmutter?).
+	Bibliographie:	Kraus, Th./von Matt, L., Lebendiges Pompeji. Pompeji und Herculaneum (1973) Farbtaf. 124; Curtius, WP 345 fig. 187; Simon, E., JdI 76, 1961, 152; W. Burkert, Antike Mysterien (3.Aufl. 1994) Abb.5; B. Gallistl, Maske und Spiegel. Zur Maskenszene des Pompejaner Mystreienfrieses (1995); Bauchhenss-Thüriedl, Ch., Der Mythos von Telephos in der antiken Bildkunst (1971) 64 Faltplan 2 Platte 7.47.
+	Sequenznummer:	955
+	Name:	Aidos Dionysos/Bacchus Erinys Eros/Amor, Cupido Silenos Telephos Satyros
+	Stichwort:	mask: theatre mask syrinx wreath, crown, stephane, corona lyre thyrsos jug tankard, skyphos, kotyle, scyphus branch basket liknon, vannus, winnowing-fan volumen, scroll goat phallos kymbalon, kymbala, cymbala, cymbals satyr, silen maenad tray, lanx, catinus canistrum rod
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/villa_dei_misteri/49609X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/villa_dei_misteri/49609X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/villa_dei_misteri/49609X012.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/villa_dei_misteri/49609X013.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/villa_dei_misteri/49609X205.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/villa_dei_misteri/49609X213.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/villa_dei_misteri/49609X214.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/villa_dei_misteri/49609X215.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/villa_dei_misteri/49609X216.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	71
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 3.c. Initiation
+	Sequenznummer:	1200
+	Bandnummer:	2
+Catalog Thes CRA
+	Indexnummer:	878
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Catalog Thes CRA
+	Indexnummer:	31
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	III. 6.a. Divination, gr.
+	Kurzname:	Gr.
+	Sequenznummer:	1900
+	Bandnummer:	3
+Catalog Thes CRA
+	Indexnummer:	858
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA
+	Indexnummer:	891
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aidos
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	132
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	223
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	299
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	643
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Erinys
+	Katalognummer:	89
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 595
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Silenoi (S)
+	Katalognummer:	ante 17
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 697
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mainades (S)
+	Katalognummer:	149
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Agnoia
+	Katalognummer:	4
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	195
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Silenoi (S)
+	Katalognummer:	14
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Silenoi (S)
+	Katalognummer:	94
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	59021
+	Szenerieangabe:	cubiculum 16,  alcova B
+	Beschreibung:	Säulenarchitektur mit erhöhtem mittleren Bogen, der nach oben Durchsicht in hinter einer hohen Scherwand liegenden Hof mit einer Tholos (korinthische Säulen; nur der obere Teil  sichtbar, darin Statue eines alten bärtigen Mannes) gewährt.
+	Bibliographie:	Cerulli Irelli, G., Pompejanische Wandmalerei (1990) fig. 108; Engemann 124-126 Taf. 20; Cerulli Irelli, PWandmalerei Abb. 108.
+	Sequenznummer:	955
+	Stichwort:	column rotunda, tholos architecture capital: Corinthian
+Foto
+	Neues Foto:	1
+Datierung
+	Periode:	-60 - -40 
+Catalog Thes CRA
+	Indexnummer:	28
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Villa dei Misteri
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

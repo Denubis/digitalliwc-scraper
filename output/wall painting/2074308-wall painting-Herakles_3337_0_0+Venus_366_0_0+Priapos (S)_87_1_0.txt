@@ -1,0 +1,112 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d7780a82e99-b
+Herakles_3337_0_0
+Venus_366_0_0
+Priapos (S)_87_1_0
+
+
+
+Monument
+	ID:	3666
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 9,47 (House of the  Wedding of Hercules)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	wreath, crown, stephane, corona snake mirror sceptre column temple bull naiskos, aedicula cult image, cult statue lamb procession axe, hatchet, pelekys, sacena, securis temple model lionskin cloth, textile camillus sistrum ferculum, lectica seat, chair, sedes, sedile popa (with ax or hammer) dorsuale (strap over the animal's back) sacred tree myrtle, branch of myrtle priestess of Isis architecture
+	Name:	Eros Hebe I/Iuventus Herakles Priapos Aphrodite/Venus Venus
+	Grössenangabe:	H: 1,5 m; B: 6,0 m
+	Beschreibung:	Prozession nach links in zwei Teilen, im Zentrum Tempel der Venus Pompeiana (nach PompPittMos 375, 36 Venus Fisica). In dem prostylen korinthischen Tempel mit vier Stufen das bekränzte Kultbild der Venus Pompeiana mit Szepter in der Linken. Neben ihr Eros mit einem Spiegel und Priapos. Vor dem Tempel auf den Stufen eine weibliche Gottheit (Hebe/Iuventus?), die Hercules mit Löwenfell und Keule hinter ihr die Hand reicht. Im linken Teil der Prozession zwei junge Frauen mit Tüchern und Blumenkränzen, zwei junge Männer, die ein ferculum mit einem Baum und einer sich darumwindenden Schlange tragen, sowie ein weiteres ferculum mit vier Trägern, auf dem ein Tempelmodell mit tiefer Vorhalle mitgeführt wird. Der rechte Teil der Prozession wird angeführt von einer Isispriesterin (PompPittMos 374, 34: "ierodula con il sistro") in reichem Schmuck mit sistrum und situla, ihr folgen ebenfalls zwei fercula (mit zwei bzw. vier Trägern, die darauf getragenen Gegenstände sind nicht zu erkennen, auf dem ersten eventuell eine Galeere), den Abschluss bilden ein von einem popa begleiteter Stier, ein camillus mit Lamm sowie zwei junge Männer mit einem Thron auf einem ferculum. Der Thron ist mit Myrtenzweigen verziert, auf dem Kissen eine Krone. 
+	Bibliographie:	Tran Tam Tinh, V., Essai sur le culte d’Isis à Pompéi (1964) 56-58. 132-133 n. 24 tav. 11, 1-2; Schefold, K., Die Wände Pompejis. Topographisches Verzeichnis der Bildmotive, Berlin (1957) 198; Helbig, Wandgemälde der vom Vesuv verschütteten Städte Campaniens, Leipzig (1868) Nr. 1479; HBr Taf. 234; Scott Ryberg, Rites of the state religion in Roman art, Rom (1955) 169 Taf. 61, 99; PompPittMos VII (1997) 358-359, 373-375, 32-36.
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Datierung
+	Periode:	69 - 79 
+Epoche
+	Name:	vespasianisch
+	Periode:	69 - 79 
+	Sequenznummer:	1185
+Szene
+	ID:	49472
+	Szenerieangabe:	sacellum
+	Beschreibung:	Prozession nach links in zwei Teilen, im Zentrum Tempel der Venus Pompeiana (nach PompPittMos 375, 36 Venus Fisica). In dem prostylen korinthischen Tempel mit vier Stufen das bekränzte Kultbild der Venus Pompeiana mit Szepter in der Linken. Neben ihr Eros mit einem Spiegel und Priapos. Vor dem Tempel auf den Stufen eine weibliche Gottheit (Hebe/Iuventus?), die Hercules mit Löwenfell und Keule hinter ihr die Hand reicht. Im linken Teil der Prozession zwei junge Frauen mit Tüchern und Blumenkränzen, zwei junge Männer, die ein ferculum mit einem Baum und einer sich darumwindenden Schlange tragen, sowie ein weiteres ferculum mit vier Trägern, auf dem ein Tempelmodell mit tiefer Vorhalle mitgeführt wird. Der rechte Teil der Prozession wird angeführt von einer Isispriesterin (PompPittMos 374, 34: "ierodula con il sistro") in reichem Schmuck mit sistrum und situla, ihr folgen ebenfalls zwei fercula (mit zwei bzw. vier Trägern, die darauf getragenen Gegenstände sind nicht zu erkennen, auf dem ersten eventuell eine Galeere), den Abschluss bilden ein von einem popa begleiteter Stier, ein camillus mit Lamm sowie zwei junge Männer mit einem Thron auf einem ferculum. Der Thron ist mit Myrtenzweigen verziert, auf dem Kissen eine Krone. 
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49472X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49472X201.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49472X203.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Datierung
+	Periode:	69 - 79 
+Catalog Thes CRA
+	Indexnummer:	39
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	IV. 1.b. Kultorte (Darstellungen)
+	Sequenznummer:	4500
+	Bandnummer:	4
+Catalog Thes CRA
+	Indexnummer:	257
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.a. Kultpersonal, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	4700
+	Bandnummer:	5
+Catalog Thes CRA
+	Indexnummer:	983
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	3337
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Venus
+	Katalognummer:	366
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Priapos (S)
+	Katalognummer:	87
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa delle Nozze di Ercole
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	3. Inv.
+	Nummer:	Casa di Marte e Venere
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VII 9,47

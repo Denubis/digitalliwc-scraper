@@ -1,0 +1,137 @@
+http://ark.dasch.swiss/ark:/72163/080e-73cc6aecbc2c0-2
+Vanth_12_1_0
+Achle_92_0_0
+Charon I/Charu(n)_8_0_0
+Kirke_49_0_0
+Polyxene_32_1_0
+Hades/Aita, Calu_10_0_0
+Odysseus/Uthuze_74_1_0
+Odysseus/Uthuze_82_0_0
+
+
+
+Monument
+	ID:	2891
+	Entdeckungsort:	Torre San Severo
+	Objekt:	sarcophagus
+	Material:	nenfro
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	ram sword human sacrifice
+	Name:	Achilleus/Achle Charon I/Charu(n) Hades/Aita, Calu Kirke Odysseus Polyxene Vanth Odysseus/Uthuze
+	Beschreibung:	So-called “Sarcofago di Torre San Severo”, authenticity contested. On one of the short sides: a man (Ulysses) sacrificing a ram (nekyia, interpreted as a sacrifice in order to evoke the shade of Tiresias); on the other short side: Odysseus menacing Krike and seizing her hair; on the long sides: Achilleus sacrifing the Trojan prisoners at the funeral of Patroklos.
+	Bibliographie:	Herbig, EtrSark 40-41 n. 73 pl. 36; Cagiano de Azevedo, M., RM 77, 1970, 10-18.
+Datierung
+	Periode:	-400 - -300 
+Epoche
+	Name:	4. Jh. v. Chr.
+	Periode:	-400 - -300 
+	Sequenznummer:	2430
+Szene
+	ID:	2912
+	Beschreibung:	So-called “Sarcofago di Torre San Severo”, authenticity contested. On one of the short sides: a man (Ulysses) sacrificing a ram (nekyia, interpreted as a sacrifice in order to evoke the shade of Tiresias); on the other short side: Odysseus menacing Krike and seizing her hair; on the long sides: Achilleus sacrifing the Trojan prisoners at the funeral of Patroklos.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/orvieto/museo_civico/2912X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/orvieto/museo_civico/2912X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/orvieto/museo_civico/2912X008.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/orvieto/museo_civico/2912X009.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/orvieto/museo_civico/2912X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/orvieto/museo_civico/2912X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/orvieto/museo_civico/2912X201.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/orvieto/museo_civico/2912X205.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/orvieto/museo_civico/2912X209.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/orvieto/museo_civico/2912X210.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/orvieto/museo_civico/2912X211.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	137
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 2.a. Opfer, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	200
+	Bandnummer:	1
+Catalog Thes CRA
+	Indexnummer:	240
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Vanth
+	Katalognummer:	12
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achle
+	Katalognummer:	92
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Charon I/Charu(n)
+	Katalognummer:	8
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kirke
+	Katalognummer:	49
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Polyxene
+	Katalognummer:	32
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hades/Aita, Calu
+	Katalognummer:	10
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Odysseus/Uthuze
+	Katalognummer:	74
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Odysseus/Uthuze
+	Katalognummer:	82
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Orvieto
+	Name:	Museo Civico
+	Direktor:	Egregio Presidente dell'Opera del Duomo
+	Adresse:	Piazza Duomo 26
+	Postleitzahl:	I-05018
+	Kontaktzenter:	Museo Civico (ex Museo dell'Opera del Duomo)
+	Stadt des Kontaktzenters:	Orvieto
+	Rechteinhaber der Fotos:	© Museo Civico Orvieto
+	Hat die Fotorechte:	1

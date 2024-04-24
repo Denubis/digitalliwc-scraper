@@ -1,0 +1,125 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a6f5f0cb694-a
+Hypsipyle I (S)_7_0_0
+Archemoros_7_1_0
+Septem_12_1_0
+Tydeus_12_0_0
+Adrastos_14_1_0
+Argeia_4_1_0
+Septem_19_0_0
+Kapaneus_9_0_0
+Areion_3_0_0
+
+
+
+Monument
+	ID:	224
+	Entdeckungsort:	Corinth, Korinthos, Colonia Laus Iulia Corinthiensis
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	sword shield spear horse
+	Name:	Adrastos Archemoros Areion Argeia Hypsipyle I Kapaneus Tydeus Septem
+	Beschreibung:	Seven leaders, one of them Adrastos wearing short chiton and chlamys with his horse Areion. On the right minor side Archemoros kneeling on the ground, entangled by the snake. He looks at his nurse Hypsipyle. From the left a hero approaches to fight against the snake. On the left edge Argeia and her sister Deïpyle handing over a helmet to Polyneikes. The person with the skin of a boar is interpreted as Tydeus.
+	Bibliographie:	Johnson, F. P., Corinth IX, Sculpture 1896-1923 (1931) 114-119 no. 241 with fig.; Daumas, M., AntK 21, 1978, 24-31 pl. 7, 7.
+Datierung
+	Periode:	140 - 160 
+Epoche
+	Name:	Mitte 2. Jh. n. Chr.
+	Periode:	140 - 160 
+	Sequenznummer:	3160
+Szene
+	ID:	1987
+	Beschreibung:	Seven leaders, one of them Adrastos wearing short chiton and chlamys with his horse Areion. On the right minor side Archemoros kneeling on the ground, entangled by the snake. He looks at his nurse Hypsipyle. From the left a hero approaches to fight against the snake. On the left edge Argeia and her sister Deïpyle handing over a helmet to Polyneikes. The person with the skin of a boar is interpreted as Tydeus.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/corinthe/musee_archeologique/1987X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/corinthe/musee_archeologique/1987X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/corinthe/musee_archeologique/1987X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/corinthe/musee_archeologique/1987X103.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/corinthe/musee_archeologique/1987X104.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/corinthe/musee_archeologique/1987X105.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/corinthe/musee_archeologique/1987X107.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/corinthe/musee_archeologique/1987X108.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/corinthe/musee_archeologique/1987X109.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hypsipyle I (S)
+	Katalognummer:	7
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Archemoros
+	Katalognummer:	7
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Septem
+	Katalognummer:	12
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Tydeus
+	Katalognummer:	12
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Adrastos
+	Katalognummer:	14
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Argeia
+	Katalognummer:	4
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Septem
+	Katalognummer:	19
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kapaneus
+	Katalognummer:	9
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Areion
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	S 779
+Museum
+	Land:	GR
+	Stadt:	Corinthe
+	Name:	Musée Archéologique
+	Direktor:	Director Dr. Guy Sanders
+	Anrede:	Dear Director,
+	Adresse:	Odos Souidias 54
+	Postleitzahl:	GR-106 76
+	Kontaktzenter:	American School of Classical Studies - Corinth Excavations
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Archaeological Museum of Corinth
+	Hat die Fotorechte:	1

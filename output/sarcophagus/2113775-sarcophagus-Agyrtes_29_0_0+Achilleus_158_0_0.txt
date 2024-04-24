@@ -1,0 +1,49 @@
+http://ark.dasch.swiss/ark:/72163/080e-760bb6026a8b0-a
+Agyrtes_29_0_0
+Achilleus_158_0_0
+
+
+
+Monument
+	ID:	43455
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	trumpet, tuba, salpinx
+	Name:	Achilleus Agyrtes Diomedes I Odysseus
+	Beschreibung:	Fragments.
+	Bibliographie:	SarkRel II no. 36-36a; Coppola, M.  R., Terracina.  Il museo e  le collezioni (1989) 66 no. 61 pl. 11.
+Datierung
+	Periode:	190 - 210 
+Epoche
+	Name:	um 200 n. Chr.
+	Periode:	190 - 210 
+	Sequenznummer:	3270
+Szene
+	ID:	45693
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Agyrtes
+	Katalognummer:	29
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	158
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Terracina
+	Name:	Museo Civico Archeologico
+	Direktor:	Dott. Gianfranco Cautilli
+	Adresse:	Piazza Municipio
+	Postleitzahl:	I-04019
+	E-Mail:	beni.culturali@comune.terracina.lt.it
+	Kontaktzenter:	Dirigente Settore Beni e Attività Culturali
+	Stadt des Kontaktzenters:	Terracina
+	Rechteinhaber der Fotos:	© Museo Civico Archeologico, Terracina
+	Hat die Fotorechte:	0

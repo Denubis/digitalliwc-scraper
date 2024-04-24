@@ -1,0 +1,52 @@
+http://ark.dasch.swiss/ark:/72163/080e-741dc0322f99d-e
+Oknos_8_0_1
+Danaides_28_0_0
+Ixion_23_0_0
+Sisyphos I_33_0_0
+
+
+
+Monument
+	ID:	8622
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Danaides Ixion Oknos Sisyphos I
+	Beschreibung:	Six Danaids with pithos and other underworld figures. Ixion fixed to the wheel between a river-god and Mercurius. Oknos sitting at a table next to a rock, behind him the donkey eating the rope. Sisyphos with a rock on his shoulders.
+Szene
+	ID:	8820
+	Beschreibung:	Six Danaids with pithos and other underworld figures. Ixion fixed to the wheel between a river-god and Mercurius. Oknos sitting at a table next to a rock, behind him the donkey eating the rope. Sisyphos with a rock on his shoulders.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Oknos
+	Katalognummer:	8
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Danaides
+	Katalognummer:	28
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ixion
+	Katalognummer:	23
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Sisyphos I
+	Katalognummer:	33
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Cod. Pighianus
+Museum
+	Land:	CH
+	Stadt:	Lieu de conservation inconnu ou non indiqué et objets perdus
+	Direktor:	Dott. Francesco Buranelli
+	Postleitzahl:	I-00120
+	Kontaktzenter:	Monumenti, Musei e Gallerie Pontificie
+	Stadt des Kontaktzenters:	Città del Vaticano
+	Kommentar:	 Index ThesCRA 2006: Les tessères de Palmyre citées dans le ThesCRA d'après Ingholt, R./Seyrig, H./Starcky, J., Recueil des tessères de Palmyre (1955) sont regroupées sous "RTP". - Index LIMC 1999: Sous "Céramique" sont également regroupés toutes les terres sigillées et tous les médaillons d'applique cités dans le LIMC d'après Oswald, F., Index of Figure-Types on Terra Sigillata (1964[2]) (= Oswald) et Wuilleumier, P./Audin A., Les médaillons d'applique gallo-romains de la vallée du Rhône (1952) (= Wuilleumier/Audin), même lorsque leur lieu de conservation est connu (dans ce dernier cas, ils réapparaissent sous le nom du lieu en question). De même, les tessères de Palmyre citées dans le LIMC d'après Ingholt, R./Seyrig, H./Starcky, J., Recueil des tessères de Palmyre (1955) (= RTP) sont regroupées sous "Reliefs en terre cuite".
+	Hat die Fotorechte:	0

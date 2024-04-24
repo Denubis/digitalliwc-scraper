@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-7661469dc8b55-4
+
+
+
+Monument
+	ID:	52894
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Beschreibung:	Fragemnts de devant de sarcophage.
+	Bibliographie:	Baratte, F., Cat. des sarcophages en pierre d'époque romaine et paléochrétienne (1985) 188-190 n° 97.
+Datierung
+	Periode:	138 - 161 
+Epoche
+	Name:	antoninisch
+	Periode:	138 - 192 
+	Sequenznummer:	1210
+Szene
+	ID:	58229
+	Beschreibung:	De part et d'autre de deux amours portant un clipeus, deux groupes d'enfants offrent des libations tête découverte. On remarquera que, comme les amours, les enfants montrent leur nudité, bien qu'ils aient un manteau court agrafé sur l'épaule; toutefois deux enfants sont vêtus d'une tunique et jouent un rôle identique, celui de porteur d'un plat de fruits; ils sont tous les deux situés derrière l'autel.
+Catalog Thes CRA
+	Indexnummer:	155
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 2.a. Opfer, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	220
+	Bandnummer:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 376
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

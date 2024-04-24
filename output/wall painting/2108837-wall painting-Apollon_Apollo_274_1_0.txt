@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-75c51d5615ebe-e
+Apollon/Apollo_274_1_0
+
+
+
+Monument
+	ID:	38484
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+Szene
+	ID:	40469
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/british_museum/40469X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	274
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	32
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	British Museum
+	Direktor:	Dr. Charles Arnold
+	Adresse:	Great Russell Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	British Museum - Greek and Roman Antiquities
+	Stadt des Kontaktzenters:	London WC 1B 3DG
+	Rechteinhaber der Fotos:	© British Museum, London
+	Hat die Fotorechte:	1

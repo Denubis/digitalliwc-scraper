@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-76c1f2faaf0e7-2
+
+
+
+Monument
+	ID:	203486
+	Objekt:	sarcophagus
+	Material:	wood
+	Land:	CH
+	Kategorie:	relief
+	Beschreibung:	Fragment of a sarcophagus with depiction of a procession
+	Bibliographie:	Wildung, D./ Schoske, S., Kleopatra, Ausstellung 1989 (1989) 295 no. 123 fig.
+Szene
+	ID:	100589
+	Beschreibung:	Fragment of a sarcophagus with depiction of a procession
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	11
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VIII. 6.b. Religiöse Interaktionen, Ägypten
+	Bandnummer:	8
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2373
+Museum
+	Land:	DE
+	Stadt:	Hildesheim
+	Name:	Roemer- und Pelizaeus-Museum
+	Adresse:	Am Steine 1-2
+	Postleitzahl:	D-31134
+	Kontaktzenter:	Roemer- und Pelizaeus-Museum
+	Stadt des Kontaktzenters:	Hildesheim
+	Rechteinhaber der Fotos:	© Roemer- und Pelizaeus-Museum, Hildesheim
+	Hat die Fotorechte:	1

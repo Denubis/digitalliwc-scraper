@@ -1,0 +1,57 @@
+http://ark.dasch.swiss/ark:/72163/080e-745301639ed1e-1
+Mousa, Mousai/Musae (vol. VII)_149_0_0
+Apollon/Apollo_382_0_0
+Odysseus_178_1_0
+
+
+
+Monument
+	ID:	12381
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Odysseus Apollon/Apollo Mousa, Mousai
+	Monument-URL:	arachne.dainst.org/entity/1096069
+Szene
+	ID:	12681
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/san_simeon/hearst_san_simeon_state_historical_monument_hearst_castle/12681X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/san_simeon/hearst_san_simeon_state_historical_monument_hearst_castle/12681X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/san_simeon/hearst_san_simeon_state_historical_monument_hearst_castle/12681X303.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	149
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	382
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Odysseus
+	Katalognummer:	178
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	529-9-414
+Museum
+	Land:	US
+	Stadt:	San Simeon
+	Name:	Hearst San Simeon State Historical Monument (Hearst Castle)
+	Direktor:	Photographic Department
+	Adresse:	750 Hearst Castle Road
+	Postleitzahl:	USA-
+	Kontaktzenter:	Hearst San Simeon State Historical Monument (Hearst Castle)
+	Stadt des Kontaktzenters:	San Simeon, CA 93452-9741
+	Rechteinhaber der Fotos:	© Hearst San Simeon State Historical Monument
+	Hat die Fotorechte:	0

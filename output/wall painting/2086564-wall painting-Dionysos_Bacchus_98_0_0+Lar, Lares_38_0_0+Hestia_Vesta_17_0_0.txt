@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-7486affdc65f9-6
+Dionysos/Bacchus_98_0_0
+Lar, Lares_38_0_0
+Hestia/Vesta_17_0_0
+
+
+
+Monument
+	ID:	16021
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 1,36/37
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Hestia/Vesta Dionysos/Bacchus Lar, Lares
+	Beschreibung:	Lararium in pistrinum. Vesta standing with sceptre, pouring a libation over an altar, nearby an ass. On the other side of the altar Bacchus. Flanked by Lares.
+Szene
+	ID:	39049
+	Beschreibung:	Vesta standing with sceptre, pouring a libation over an altar, nearby an ass. On the other side of the altar Bacchus. Flanked by Lares.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	98
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Lar, Lares
+	Katalognummer:	38
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hestia/Vesta
+	Katalognummer:	17
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VII 1,36-37
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1

@@ -1,0 +1,71 @@
+http://ark.dasch.swiss/ark:/72163/080e-748896c2a6552-d
+Lar, Lares_87_1_0
+
+
+
+Monument
+	ID:	16154
+	Entdeckungsort:	Pompei
+	Objekt:	statuette
+	Material:	bronze
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sculpture in the round
+	Name:	Lar, Lares
+	Beschreibung:	Two Lares dancing, each holds up a rhyton in opposing hands (to frame the genius Augusti) and holds a bucket in their hand. 
+	Bibliographie:	Simon, E., Die Götter der Römer (1990) 120 fig. 146-147.
+	Kommentar:	photos commandées pour I 2d Offrandes, Italie (Simon)
+Datierung
+	Periode:	69 - 79 
+Epoche
+	Name:	vespasianisch
+	Periode:	69 - 79 
+	Sequenznummer:	1185
+Szene
+	ID:	16769
+	Beschreibung:	Two Lares dancing, each holds up a rhyton in opposing hands (to frame the genius Augusti) and holds a bucket in their hand. 
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/16769X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/16769X002.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	371
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 4.b. Tanz
+	Sequenznummer:	1500
+	Bandnummer:	2
+Catalog Thes CRA
+	Indexnummer:	514
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 2.d. Weihgeschenke, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	600
+	Bandnummer:	1
+Catalog LIMC
+	Artikel:	Lar, Lares
+	Katalognummer:	87
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	133327-133328
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

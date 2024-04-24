@@ -1,0 +1,48 @@
+http://ark.dasch.swiss/ark:/72163/080e-76bd28e82641c-5
+
+
+
+Monument
+	ID:	203163
+	Entdeckungsort:	Paestum
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Prothesis scene of a female person inside the house.
+	Bibliographie:	Andreae, B. et al., Malerei für die Ewigkeit, Die Gräber von Paestum (2007) 88-94 no. 6.
+Datierung
+	Periode:	-340 
+	Kommentar:	about
+Epoche
+	Name:	3. Viertel 4. Jh. v. Chr.
+	Periode:	-350 - -325 
+	Sequenznummer:	2510
+Szene
+	ID:	100201
+	Beschreibung:	Prothesis scene of a female person inside the house.
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	50
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VI. 1.e. Tod, gr.
+	Bandnummer:	6
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	133457-133460
+Museum
+	Land:	IT
+	Stadt:	Paestum
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Sopr. Dott. ssa Maria Luisa Nava
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Via Trotula de' Ruggiero 6/7
+	Postleitzahl:	I-84121
+	Kontaktzenter:	Soprintendenza archeologica per le Provincie di Salerno, Avellino, Benevento e Caserta
+	Stadt des Kontaktzenters:	Salerno
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologia, Belle Arti e Paesaggio Salerno e Avellino
+	Hat die Fotorechte:	0

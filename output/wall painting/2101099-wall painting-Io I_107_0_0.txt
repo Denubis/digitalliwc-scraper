@@ -1,0 +1,27 @@
+http://ark.dasch.swiss/ark:/72163/080e-75567ce4cfa1c-5
+Io I_107_0_0
+
+
+
+Monument
+	ID:	30676
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Io I
+Szene
+	ID:	32858
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Io I
+	Katalognummer:	107
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	AT
+	Stadt:	Magdalensberg
+	Name:	Archäologischer Park Magdalensberg
+	Rechteinhaber der Fotos:	© Archäologischer Park Magdalensberg
+	Hat die Fotorechte:	1

@@ -1,0 +1,31 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ebdd3a6e4f2-3
+Herakles_ad 3269_0_0
+
+
+
+Monument
+	ID:	23159
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Herakles
+	Beschreibung:	Herakles in lionskin running with torch. A satyriskos carries his club.
+Szene
+	ID:	24297
+	Beschreibung:	Herakles in lionskin running with torch. A satyriskos carries his club.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	ad 3269
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel IV 2, 99
+Museum
+	Land:	GB
+	Stadt:	Cliveden (Buckinghamshire)
+	Rechteinhaber der Fotos:	© Cliveden
+	Hat die Fotorechte:	0

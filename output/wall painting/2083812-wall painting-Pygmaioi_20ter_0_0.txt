@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-745f57e5e6039-3
+Pygmaioi_20ter_0_0
+
+
+
+Monument
+	ID:	13248
+	Entdeckungsort:	Tarquinia
+	Entdeckungsort Details:	necropolis of Monterozzi
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Pygmaioi
+	Beschreibung:	Tomba dei Pigmei. Painting on the back wall: badly preserved banqueting scene, probably with three klinai (dat. 350-325 BC); similar representation can be found in numerous tombs in Chiusi, Tarquinia (example: ID 200921)
+Szene
+	ID:	13584
+	Beschreibung:	Tomba dei Pigmei. Painting on the back wall: badly preserved banqueting scene, probably with three klinai (dat. 350-325 BC); similar representation can be found in numerous tombs in Chiusi, Tarquinia (example: ID 200921)
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/necropoli/13584X301.jpg
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	42
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 4.a. Bankett, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	1420
+	Bandnummer:	2
+Catalog LIMC
+	Artikel:	Pygmaioi
+	Katalognummer:	20ter
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba dei Pigmei
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Necropoli
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-745cc8c5d577a-9
+Psyche_110_0_0
+
+
+
+Monument
+	ID:	13068
+	Entdeckungsort:	Trier, Augusta Treverorum, Colonia Augusta Treverorum, Treveris
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Psyche
+Szene
+	ID:	13396
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	110
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	DE
+	Stadt:	Trier
+	Name:	Bischöfliches Dom- und Diözesanmuseum
+	Rechteinhaber der Fotos:	© Bischöfliches Dom- und Diözesanmuseum Trier
+	Hat die Fotorechte:	1

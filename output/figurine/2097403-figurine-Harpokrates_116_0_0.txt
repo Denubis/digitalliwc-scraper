@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-7521a5d69adec-8
+Harpokrates_116_0_0
+
+
+
+Monument
+	ID:	26958
+	Entdeckungsort:	Pompei
+	Objekt:	figurine
+	Material:	silver
+	Land:	CH
+	Kategorie:	sculpture in the round of metal
+	Name:	Harpokrates
+Szene
+	ID:	28317
+Catalog LIMC
+	Artikel:	Harpokrates
+	Katalognummer:	116
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	110626
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

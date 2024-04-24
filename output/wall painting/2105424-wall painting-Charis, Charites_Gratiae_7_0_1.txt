@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-7594520997355-c
+Charis, Charites/Gratiae_7_0_1
+
+
+
+Monument
+	ID:	35047
+	Entdeckungsort:	Catania
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Charis, Charites/Gratiae
+Szene
+	ID:	36865
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Charis, Charites/Gratiae
+	Katalognummer:	7
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Villa romana
+Museum
+	Land:	IT
+	Stadt:	Catania
+	Rechteinhaber der Fotos:	© Catania
+	Hat die Fotorechte:	0

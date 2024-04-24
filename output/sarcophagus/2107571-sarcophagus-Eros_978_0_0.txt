@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-75b303e16d684-7
+Eros_978_0_0
+
+
+
+Monument
+	ID:	37210
+	Objekt:	sarcophagus
+	Material:	limestone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros
+Szene
+	ID:	39109
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Eros
+	Katalognummer:	978
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	14763
+Museum
+	Land:	RO
+	Stadt:	Bucarest
+	Name:	Musée National Roumain d'Histoire
+	Direktor:	Prof. Dr. Mihai Barbulescu
+	Adresse:	Str. Avram Iancu 11
+	Postfach:	CP 150
+	Postleitzahl:	R-3400
+	Kontaktzenter:	Institutul de Studii Clasice
+	Stadt des Kontaktzenters:	Cluj-Napoca 1
+	Rechteinhaber der Fotos:	© Musée National Roumain d'Histoire, Bukarest
+	Hat die Fotorechte:	1

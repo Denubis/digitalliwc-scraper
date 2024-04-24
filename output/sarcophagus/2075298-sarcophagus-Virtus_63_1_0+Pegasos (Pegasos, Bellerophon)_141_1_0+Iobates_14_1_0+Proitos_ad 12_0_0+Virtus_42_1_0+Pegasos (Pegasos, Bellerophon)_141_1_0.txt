@@ -1,0 +1,110 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e59f5c07e6f-6
+Virtus_63_1_0
+Pegasos (Pegasos, Bellerophon)_141_1_0
+Iobates_14_1_0
+Proitos_ad 12_0_0
+Virtus_42_1_0
+Pegasos (Pegasos, Bellerophon)_141_1_0
+
+
+
+Monument
+	ID:	4661
+	Entdeckungsort:	Azzefoun, Rusazus
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Iobates Proitos Virtus Pegasos
+	Beschreibung:	On the lid: left side - Iobates enthroned and Philonoe, receiving the letter of Proitos from Bellerophon. Right side - Bellerophon and Virtus and the dead Chimaira. On the sarcophagus: In the centre Bellerophon, Virtus and the dead Chimaira, to the left Bellerophon and Pegasos, to the right Bellerophon and Virtus leaving a king's court.
+	Monument-URL:	http://www.limc-france.fr/objet/3410
+Szene
+	ID:	4746
+	Szenerieangabe:	couvercle
+	Beschreibung:	On the lid: left side - Iobates enthroned and Philonoe, receiving the letter of Proitos from Bellerophon. Right side - Bellerophon and Virtus and the dead Chimaira. 
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/algeria/alger/musee_national_des_antiquites/4746X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/algeria/alger/musee_national_des_antiquites/4746X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/algeria/alger/musee_national_des_antiquites/4746X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/algeria/alger/musee_national_des_antiquites/4746X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Virtus
+	Katalognummer:	63
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Pegasos (Pegasos, Bellerophon)
+	Katalognummer:	141
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iobates
+	Katalognummer:	14
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	23013
+	Beschreibung:	On the sarcophagus: In the centre Bellerophon, Virtus and the dead Chimaira, to the left Bellerophon and Pegasos, to the right Bellerophon and Virtus leaving a king's court.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/algeria/alger/musee_national_des_antiquites/23013X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/algeria/alger/musee_national_des_antiquites/23013X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/algeria/alger/musee_national_des_antiquites/23013X103.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/algeria/alger/musee_national_des_antiquites/23013X104.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/algeria/alger/musee_national_des_antiquites/23013X105.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/algeria/alger/musee_national_des_antiquites/23013X106.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/algeria/alger/musee_national_des_antiquites/23013X107.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Proitos
+	Katalognummer:	ad 12
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Virtus
+	Katalognummer:	42
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Pegasos (Pegasos, Bellerophon)
+	Katalognummer:	141
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	DZ
+	Stadt:	Alger
+	Name:	Musée National des Antiquités
+	Direktor:	Mme le Dr. Pascale Linant de Bellefonds
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-92023
+	Kontaktzenter:	Université Paris X - Nanterre Maison de l'Archéologie / Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Musée National des Antiquités Alger
+	Hat die Fotorechte:	1

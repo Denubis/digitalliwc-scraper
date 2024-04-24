@@ -1,0 +1,53 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e0762115ba2-7
+Kyane (S)_2_1_0
+Persephone (S)_233_0_0
+
+
+
+Monument
+	ID:	4299
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kyane Persephone
+	Beschreibung:	Depiction of the rape of Persephone. In front of the quadriga of Hermes next to Kerberos s female figure characterised as nymph of a source, maybe Kyane.
+Szene
+	ID:	4351
+	Beschreibung:	Depiction of the rape of Persephone. In front of the quadriga of Hermes next to Kerberos s female figure characterised as nymph of a source, maybe Kyane.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/milano/collezione_torno_gia/4351X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/milano/collezione_torno_gia/4351X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/milano/collezione_torno_gia/4351X103.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/milano/collezione_torno_gia/4351X104.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kyane (S)
+	Katalognummer:	2
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Persephone (S)
+	Katalognummer:	233
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 3, 379
+Museum
+	Land:	IT
+	Stadt:	Milano
+	Name:	Collezione Torno (già)
+	Rechteinhaber der Fotos:	© Collection Torno (once)
+	Hat die Fotorechte:	0

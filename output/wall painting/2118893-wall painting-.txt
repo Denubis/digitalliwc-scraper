@@ -1,0 +1,53 @@
+http://ark.dasch.swiss/ark:/72163/080e-7654e177c0126-c
+
+
+
+Monument
+	ID:	51949
+	Entdeckungsort:	Stabiae
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	jug branch incense box, libanotis, acerra procession: sacrificial procession tray, lanx, catinus canistrum
+	Beschreibung:	Innerhalb eines Frieses von 6 Figuren mit Sakralgeräten eine junge Frau, die ein canistrum aus Metall auf dem Kopf trägt und mit ihrer Rechten hält. In der gesenkten Linken hält sie eine Kanne. Außerdem bei der Prozession ein junger Mann mit einem rundenTablett mit kleinen Früchten (?) in der Linken und einer Kanne in der Rechten und eine Frau mit einem etwas grösseren, silbernen Tablett, auf dem ein Weihrauchkästchen und Zweige zu sehen sind. 
+	Bibliographie:	Elia, O., BollArte 32, 1938, 104 s fig. 2. 3. 6. 7 (alle diese Bilder aufschlagen und bestellen); Riz 57 Nr. 33 Taf. 19, 2.
+Datierung
+	Periode:	50 - 55 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	57178
+	Beschreibung:	Innerhalb eines Frieses von 6 Figuren mit Sakralgeräten eine junge Frau, die ein canistrum aus Metall auf dem Kopf trägt und mit ihrer Rechten hält. In der gesenkten Linken hält sie eine Kanne. Außerdem bei der Prozession ein junger Mann mit einem rundenTablett mit kleinen Früchten (?) in der Linken und einer Kanne in der Rechten und eine Frau mit einem etwas grösseren, silbernen Tablett, auf dem ein Weihrauchkästchen und Zweige zu sehen sind.
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	881
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Catalog Thes CRA
+	Indexnummer:	894
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8966
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

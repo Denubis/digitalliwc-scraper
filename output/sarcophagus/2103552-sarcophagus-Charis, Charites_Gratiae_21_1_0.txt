@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-75798eabf42c5-4
+Charis, Charites/Gratiae_21_1_0
+
+
+
+Monument
+	ID:	33153
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Charis, Charites/Gratiae
+Szene
+	ID:	34822
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/albano_laziale/museo_civico_albano/34822X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Charis, Charites/Gratiae
+	Katalognummer:	21
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Albano Laziale
+	Name:	Museo Civico Albano
+	Rechteinhaber der Fotos:	© Museo Civico Albano
+	Hat die Fotorechte:	0

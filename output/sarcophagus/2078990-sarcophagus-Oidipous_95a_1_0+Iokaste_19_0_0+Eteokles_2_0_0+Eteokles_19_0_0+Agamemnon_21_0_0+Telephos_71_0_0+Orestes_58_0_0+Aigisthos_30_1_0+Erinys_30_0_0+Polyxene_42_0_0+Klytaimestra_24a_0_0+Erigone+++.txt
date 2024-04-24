@@ -1,0 +1,162 @@
+http://ark.dasch.swiss/ark:/72163/080e-741a67c67b38b-c
+Oidipous_95a_1_0
+Iokaste_19_0_0
+Eteokles_2_0_0
+Eteokles_19_0_0
+Agamemnon_21_0_0
+Telephos_71_0_0
+Orestes_58_0_0
+Aigisthos_30_1_0
+Erinys_30_0_0
+Polyxene_42_0_0
+Klytaimestra_24a_0_0
+Erigone II_3_0_0
+Erinys_92_0_0
+Agamemnon_ad 40_0_0
+
+
+
+Monument
+	ID:	8385
+	Entdeckungsort:	Tarquinia
+	Objekt:	sarcophagus
+	Material:	nenfro
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	altar sword spear suppliant, supplication, hikesia youth winged figure
+	Name:	Agamemnon Aigisthos Erigone I Erinys Eteokles Iokaste Klytaimestra Oidipous Orestes Polyxene Pylades Telephos
+	Beschreibung:	Left: Orestes flanked by furies. Centre: Klytaimnestra dead on an altar in front of which a mourning woman (Erigone?) crouches. To either side of the altar men in short tunics. Right: Pylades and Orestes stand over the body of Aigisthos who lies naked and beardless on the ground. Oidipous guided by a servant.
+	Bibliographie:	Brunn, Rilievi I 30-31 pl. 73, 3; Helbig(4) I no. 617; Herbig, R., Die jungretrusckischen Steinsarkophage (1952) 43-44 no. 79 pl. 34b; Pairault, F. H., Recherches sur quelques séries d'urnes de Volterra à représentations mythologique (1972) pl. 98a-b. 155b.
+	Museums-URL:	http://www.museivaticani.va/content/museivaticani/it/collezioni/musei/museo-gregoriano-etrusco/sala-iv--pietre--epigrafi-e-scultura/sarcofago-detto-del-poeta.html
+Datierung
+	Periode:	-300 - -250 
+Epoche
+	Name:	1. Hälfte 3. Jh. v. Chr.
+	Periode:	-300 - -250 
+	Sequenznummer:	2610
+Datierung
+	Periode:	-300 - -100 
+Szene
+	ID:	8576
+	Beschreibung:	Left: Orestes flanked by furies. Centre: Klytaimnestra dead on an altar in front of which a mourning woman (Erigone?) crouches. To either side of the altar men in short tunics. Right: Pylades and Orestes stand over the body of Aigisthos who lies naked and beardless on the ground. Oidipous guided by a servant.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/8576X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/8576X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/8576X005.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/8576X301.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/8576X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/8576X305.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/8576X306.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/8576X307.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/8576X308.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Oidipous
+	Katalognummer:	95a
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iokaste
+	Katalognummer:	19
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eteokles
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eteokles
+	Katalognummer:	19
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Agamemnon
+	Katalognummer:	21
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Telephos
+	Katalognummer:	71
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Orestes
+	Katalognummer:	58
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aigisthos
+	Katalognummer:	30
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Erinys
+	Katalognummer:	30
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Polyxene
+	Katalognummer:	42
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Klytaimestra
+	Katalognummer:	24a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Erigone II
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Erinys
+	Katalognummer:	92
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Agamemnon
+	Katalognummer:	ad 40
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	14561
+Museum
+	Land:	VA
+	Stadt:	Vaticano
+	Name:	Musei Vaticani
+	Direktor:	Direttore Dott. Antonio Paolucci
+	Anrede:	Chiarissimo Direttore,
+	Postleitzahl:	I-00120
+	Kontaktzenter:	Monumenti, Musei e Gallerie Pontificie
+	Stadt des Kontaktzenters:	Città del Vaticano
+	Rechteinhaber der Fotos:	© Musei Vaticani
+	Kommentar:	Sont réunis sous cette dénomination générique - compte tenu à la fois de leur numérotation unique et de leurs déplacements à l'intérieur des musées - les monuments conservés dans le Museo Chiaramonti, le Museo Gregoriano Etrusco, le Museo Gregoriano Profano, le Museo Pio Clementino et le Museo Pio Cristiano.  En revanche, la localisation spécifique a été conservée dans les cas suivants: Basilica San Pietro, Biblioteca Apostolica Vaticana (et Museo Profano, Museo Sacro, Sala delle Nozze Aldobrandine), Camposanto Teutonico, Giardini, Medagliere Vaticano, Museo Gregoriano Egizio, Necropoli sotto San Pietro.
+	Hat die Fotorechte:	0

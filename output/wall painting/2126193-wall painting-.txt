@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-76bd3eddc86ba-9
+
+
+
+Monument
+	ID:	203169
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Referee and two dueling javelin fighters; a bearded person holding already the wreath of the winner.
+	Bibliographie:	Pontrandolfo, A./ Rouveret, A., Le tombe dipinte di Paestum (1992) 54-59. 202-205. 352-455; Andreae, B. et al., Malerei für die Ewigkeit, Die Gräber von Paestum (2007) 68-75 no. 3.
+Szene
+	ID:	100207
+	Beschreibung:	Referee and two dueling javelin fighters; a bearded person holding already the wreath of the winner.
+Catalog Thes CRA
+	Indexnummer:	57
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VI. 1.e. Tod, gr.
+	Bandnummer:	6
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	5005
+Museum
+	Land:	IT
+	Stadt:	Paestum
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Sopr. Dott. ssa Maria Luisa Nava
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Via Trotula de' Ruggiero 6/7
+	Postleitzahl:	I-84121
+	Kontaktzenter:	Soprintendenza archeologica per le Provincie di Salerno, Avellino, Benevento e Caserta
+	Stadt des Kontaktzenters:	Salerno
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologia, Belle Arti e Paesaggio Salerno e Avellino
+	Hat die Fotorechte:	0

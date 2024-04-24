@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-745a44a09600a-5
+Pegasos (Pegasos, Bellerophon)_125c_1_0
+
+
+
+Monument
+	ID:	12889
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Pegasos
+Szene
+	ID:	13200
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/athens/adacemy_of_platon/13200X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/athens/adacemy_of_platon/13200X102.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Pegasos (Pegasos, Bellerophon)
+	Katalognummer:	125c
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	GR
+	Stadt:	Athens
+	Name:	Academy of Platon
+	Rechteinhaber der Fotos:	© Academy of Platon, Athens
+	Hat die Fotorechte:	1

@@ -1,0 +1,64 @@
+http://ark.dasch.swiss/ark:/72163/080e-7432c09d7150e-1
+Phaidra_4_1_0
+Hippolytos I_12_0_0
+Hippolytos I_88_0_0
+Hippolytos I_117_0_0
+
+
+
+Monument
+	ID:	10107
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Via Aurelia
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hippolytos I Phaidra
+	Beschreibung:	In the centre Phaidra seated to the right, turning back to her nurse. Four other women are present and an Eros.
+Szene
+	ID:	10325
+	Beschreibung:	In the centre Phaidra seated to the right, turning back to her nurse. Four other women are present and an Eros.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/russian_federation/st_petersburg/the_state_hermitage_museum/10325X303.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/russian_federation/st_petersburg/the_state_hermitage_museum/10325X304.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Phaidra
+	Katalognummer:	4
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	12
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	88
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	117
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	а 432
+Museum
+	Land:	RU
+	Stadt:	St. Petersburg
+	Name:	The State Hermitage Museum
+	Direktor:	Ms. Anastasia Mikliaeva, Head Rights & Reproductions
+	Adresse:	Dvortsovaya Nabereznaja 34
+	Postleitzahl:	190 000
+	Kontaktzenter:	The State Hermitage Museum
+	Stadt des Kontaktzenters:	St. Petersburg / Russia
+	Rechteinhaber der Fotos:	© The State Hermitage Museum, St. Petersburg
+	Kommentar:	Pour la céramique, les chiffres avec la lettre B se rapportent au catalogue d'O. Waldhauer (1914).
+	Hat die Fotorechte:	1

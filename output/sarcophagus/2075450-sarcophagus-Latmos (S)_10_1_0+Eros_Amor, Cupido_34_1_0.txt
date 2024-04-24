@@ -1,0 +1,95 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e7cbaabeb67-2
+Latmos (S)_10_1_0
+Eros/Amor, Cupido_34_1_0
+
+
+
+Monument
+	ID:	4814
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido Latmos
+	Beschreibung:	Above the sleeping Endymion are Latmos and Eros.
+Datierung
+	Periode:	220 - 250 
+Szene
+	ID:	4900
+	Beschreibung:	Above the sleeping Endymion are Latmos and Eros.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/genova/palazzo_doria_palazzo_principe/4900X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/genova/palazzo_doria_palazzo_principe/4900X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/genova/palazzo_doria_palazzo_principe/4900X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/genova/palazzo_doria_palazzo_principe/4900X103.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/genova/palazzo_doria_palazzo_principe/4900X104.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/genova/palazzo_doria_palazzo_principe/4900X105.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/genova/palazzo_doria_palazzo_principe/4900X106.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/genova/palazzo_doria_palazzo_principe/4900X107.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/genova/palazzo_doria_palazzo_principe/4900X108.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/genova/palazzo_doria_palazzo_principe/4900X109.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/genova/palazzo_doria_palazzo_principe/4900X110.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/genova/palazzo_doria_palazzo_principe/4900X111.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/genova/palazzo_doria_palazzo_principe/4900X112.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/genova/palazzo_doria_palazzo_principe/4900X113.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/genova/palazzo_doria_palazzo_principe/4900X114.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Latmos (S)
+	Katalognummer:	10
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	34
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Genova
+	Name:	Palazzo Doria (Palazzo Principe)
+	Rechteinhaber der Fotos:	© Palazzo Doria, Genova
+	Hat die Fotorechte:	0

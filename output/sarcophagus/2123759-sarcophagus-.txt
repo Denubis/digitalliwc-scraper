@@ -1,0 +1,31 @@
+http://ark.dasch.swiss/ark:/72163/080e-769a72a07abb0-a
+
+
+
+Monument
+	ID:	200502
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	DE
+	Kategorie:	relief
+	Stichwort:	phiale, phiale mesomphalos, patera garland
+	Name:	Eros/Amor, Cupido
+	Beschreibung:	Zwei Eroten halten 3 Fruchtgirlanden. In den beiden äußeren Lünetten je ein Gorgonenhaupt, in der mittleren eine aufwendig verzierte Patera.
+	Bibliographie:	H. Herdejürgen, in: Marburger Winckelmann- Programm 1984 (1984) 16 Abb.15.
+	Kommentar:	Ehemals Turin, Slg. Gualino - Heute Verschollen.
+Datierung
+	Periode:	98 - 117 
+Epoche
+	Name:	traianisch
+	Periode:	98 - 117 
+	Sequenznummer:	1190
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Torino
+	Name:	collezione privata
+	Rechteinhaber der Fotos:	© Private Collection
+	Hat die Fotorechte:	0

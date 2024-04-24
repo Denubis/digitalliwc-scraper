@@ -1,0 +1,75 @@
+http://ark.dasch.swiss/ark:/72163/080e-74d5f63c05e06-3
+Isis_266_0_0
+Aigyptos_13_0_0
+Io I_66_1_0
+Hermanubis_p. 268_0_0
+Hekatoncheires_2a_0_0
+
+
+
+Monument
+	ID:	21620
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 9,1 (Casa del Duca d'Aumale)
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	kerykeion, caduceus wreath, crown, stephane, corona vase sistrum architecture crocodile
+	Name:	Aigyptos Hekatoncheires Hermanubis Io I Isis
+	Beschreibung:	Arrival of Io (I) in Egypt: a woman is carried over the water by a bearded giant (Aigaion).
+	Bibliographie:	Reinach, RépPeint pl. 16, 6; Elia, O., Pompei. Le pitture del tempiodi Iside. La pittura ellenistico-romana, III-IV (1941) 29 fig. 28; Tran Tam Tinh, Essai sur le culte d'Isis à Pompéi (1964) no. 14 pl. 16, 2.
+Datierung
+	Periode:	1 - 100 
+Epoche
+	Name:	1. Jh. n. Chr.
+	Periode:	1 - 100 
+	Sequenznummer:	3000
+Szene
+	ID:	22597
+	Beschreibung:	Arrival of Io (I) in Egypt: a woman is carried over the water by a bearded giant (Aigaion).
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/22597X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Isis
+	Katalognummer:	266
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aigyptos
+	Katalognummer:	13
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Io I
+	Katalognummer:	66
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hermanubis
+	Katalognummer:	p. 268
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hekatoncheires
+	Katalognummer:	2a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9555
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

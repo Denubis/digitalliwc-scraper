@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-75d6c555a341d-d
+Artemis/Diana_349a_1_0
+
+
+
+Monument
+	ID:	39734
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Artemis/Diana
+Szene
+	ID:	41786
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/salerno/duomo/41786X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	349a
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel XII 6, 151
+Museum
+	Land:	IT
+	Stadt:	Salerno
+	Name:	Duomo
+	Rechteinhaber der Fotos:	© Duomo Salerno
+	Hat die Fotorechte:	1

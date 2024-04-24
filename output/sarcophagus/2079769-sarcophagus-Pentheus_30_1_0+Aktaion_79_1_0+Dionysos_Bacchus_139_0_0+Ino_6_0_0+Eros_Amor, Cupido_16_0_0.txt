@@ -1,0 +1,106 @@
+http://ark.dasch.swiss/ark:/72163/080e-74258ad9e4202-7
+Pentheus_30_1_0
+Aktaion_79_1_0
+Dionysos/Bacchus_139_0_0
+Ino_6_0_0
+Eros/Amor, Cupido_16_0_0
+
+
+
+Monument
+	ID:	9171
+	Entdeckungsort:	Pisa
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	dog
+	Name:	Aktaion Dionysos/Bacchus Ino Pentheus Eros/Amor, Cupido
+	Beschreibung:	On the left reclining Ino nursing the little Bacchus, behind them old man (Citerone) and nymph; to the right Aktaion and Pentheus, attacked by an animal.
+	Bibliographie:	Turcan, R., Sarcophages romains à représentation dionysiaque (1966) 431-433; Arias, E./ Cristiani, E./ Gabba, E, Camposanto Monumentale di Pisa, Le antichità (--) 147 C 18.
+Datierung
+	Periode:	165 - 170 
+	Kommentar:	about
+Epoche
+	Name:	3. Viertel 2. Jh. n. Chr.
+	Periode:	150 - 175 
+	Sequenznummer:	3220
+Szene
+	ID:	9372
+	Szenerieangabe:	couvercle
+	Bibliographie:	Turcan, R., Sarcophages romains à représentation dionysiaque (1966) 431-433 pl. 22b; Arias, E./ Cristiani, E./ Gabba, E, Camposanto Monumentale di Pisa,  Le antichità (--) 147 C 18 pl. 86-87.
+	Sequenznummer:	20
+	Name:	Aktaion Dionysos/Bacchus Ino Pentheus
+	Stichwort:	dog
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pisa/camposanto_monumentale/9372X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pisa/camposanto_monumentale/9372X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pisa/camposanto_monumentale/9372X203.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pisa/camposanto_monumentale/9372X206.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pisa/camposanto_monumentale/9372X207.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pisa/camposanto_monumentale/9372X208.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Pentheus
+	Katalognummer:	30
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aktaion
+	Katalognummer:	79
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	139
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ino
+	Katalognummer:	6
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49749
+	Beschreibung:	On the left reclining Ino nursing the little Bacchus, behind them old man (Citerone) and nymph; to the right Aktaion and Pentheus, attacked by an animal.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pisa/camposanto_monumentale/49749X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pisa/camposanto_monumentale/49749X203.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pisa/camposanto_monumentale/49749X299.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	16
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	C 18 est.
+Museum
+	Land:	IT
+	Stadt:	Pisa
+	Name:	Camposanto Monumentale
+	Rechteinhaber der Fotos:	© Camposanto Monumentale, Pisa
+	Kommentar:	Numéros d'après Camposanto monumentale di Pisa. Le antichità I-II (1977-1984).
+	Hat die Fotorechte:	0

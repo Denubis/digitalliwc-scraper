@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-755a3f73be77f-4
+Dionysos/Bacchus (in per. occ.) (vol. IV)_27_1_0
+
+
+
+Monument
+	ID:	30944
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Dionysos/Bacchus
+	Bibliographie:	Barbet, A., La peinture murale en Gaule romaine (2008) 91 fig. 112.
+Szene
+	ID:	32461
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/auch/musee_des_jacobins/32461X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus (in per. occ.) (vol. IV)
+	Katalognummer:	27
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	FR
+	Stadt:	Auch
+	Name:	Musée des Jacobins
+	Adresse:	4,  Place Louis Blanc
+	Postleitzahl:	F-32000
+	Kontaktzenter:	Musée des Jacobins
+	Stadt des Kontaktzenters:	Auch / France
+	Rechteinhaber der Fotos:	© Musée des Jacobins, Auch
+	Hat die Fotorechte:	0

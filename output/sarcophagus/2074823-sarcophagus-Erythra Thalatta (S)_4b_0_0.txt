@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-73ded4e60c9e8-0
+Erythra Thalatta (S)_4b_0_0
+
+
+
+Monument
+	ID:	4183
+	Entdeckungsort:	Salona
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Erythra Thalatta
+	Beschreibung:	Crossing of the Red Sea (Erythra Thalatta): Below the horses of the biga of pharaoh a reclining river-god, leaning on an urn from where water pours out. To the left of the river-god the approaching Egyptians, to the right drowning Egyptians and on secure land Moses and the Israelites.
+	Monument-URL:	http://www.limc-france.fr/objet/7758
+Datierung
+	Periode:	380 - 390 
+Szene
+	ID:	4227
+	Beschreibung:	Crossing of the Red Sea (Erythra Thalatta): Below the horses of the biga of pharaoh a reclining river-god, leaning on an urn from where water pours out. To the left of the river-god the approaching Egyptians, to the right drowning Egyptians and on secure land Moses and the Israelites.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Erythra Thalatta (S)
+	Katalognummer:	4b
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	HR
+	Stadt:	Split
+	Name:	Musée Archéologique de Split
+	Rechteinhaber der Fotos:	© Musée Archéologique de Split
+	Hat die Fotorechte:	1

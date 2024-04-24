@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-765bc58c4de10-3
+
+
+
+Monument
+	ID:	52459
+	Entdeckungsort:	Pompei
+	Objekt:	altar
+	Land:	CH
+	Kategorie:	cultual installations
+	Beschreibung:	Temple of Iuppiter milichios; altar of rectangular shape with doric frieze
+	Bibliographie:	Russo, D., Il tempio di Giove Meilichio a Pompei (1991) 97ss figg. 70-75.
+Szene
+	ID:	57714
+	Beschreibung:	Temple of Iuppiter milichios; altar of rectangular shape with doric frieze
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	7
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Altare, Rom. rep.
+	Lemata:	Altare, Rom. rep.
+	Sequenznummer:	3294
+	Bandnummer:	4
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VIII 7,25
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Tempio di Giove Meilichios
+	Rechteinhaber der Fotos:	© Pompei
+	Hat die Fotorechte:	1

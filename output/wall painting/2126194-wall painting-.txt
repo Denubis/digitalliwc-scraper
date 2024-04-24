@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-76bd4286b8c7f-3
+
+
+
+Monument
+	ID:	203170
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	On one side a chariot race and two duel scenes; on the other side a scene inside women's rooms.
+	Bibliographie:	Pontrandolfo, A./ Rouveret, A., Le tombe dipinte di Paestum (1992) 210-215. 356-357.
+Datierung
+	Periode:	-360 - -340 
+Epoche
+	Name:	Mitte 4. Jh. v. Chr.
+	Periode:	-360 - -340 
+	Sequenznummer:	2450
+Szene
+	ID:	100208
+	Beschreibung:	On one side a chariot race and two duel scenes; on the other side a scene inside women's rooms.
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	58
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VI. 1.e. Tod, gr.
+	Bandnummer:	6
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	5013-5016
+Museum
+	Land:	IT
+	Stadt:	Paestum
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Sopr. Dott. ssa Maria Luisa Nava
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Via Trotula de' Ruggiero 6/7
+	Postleitzahl:	I-84121
+	Kontaktzenter:	Soprintendenza archeologica per le Provincie di Salerno, Avellino, Benevento e Caserta
+	Stadt des Kontaktzenters:	Salerno
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologia, Belle Arti e Paesaggio Salerno e Avellino
+	Hat die Fotorechte:	0

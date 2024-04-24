@@ -1,0 +1,74 @@
+http://ark.dasch.swiss/ark:/72163/080e-747ecf606faf6-d
+Nereides_250_1_0
+Horai/Horae_91_0_0
+Kairoi/Tempora anni_244_0_0
+
+
+
+Monument
+	ID:	15465
+	Objekt:	sarcophagus with lid
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Horai/Horae Kairoi/Tempora anni Nereides
+	Beschreibung:	On the lid: Four recumbent Horae confronted in pairs rest their hands on baskets with seasonal products. Between them are kraters.
+Datierung
+	Periode:	150 
+Szene
+	ID:	15960
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_borghese_museo_e_galleria_borghese/15960X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_borghese_museo_e_galleria_borghese/15960X301.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_borghese_museo_e_galleria_borghese/15960X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_borghese_museo_e_galleria_borghese/15960X303.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_borghese_museo_e_galleria_borghese/15960X304.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Nereides
+	Katalognummer:	250
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	49990
+	Szenerieangabe:	couvercle
+	Beschreibung:	Four recumbent Horae confronted in pairs rest their hands on baskets with seasonal products. Between them are kraters.
+	Sequenznummer:	20
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	91
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	244
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	LXXXVII
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Borghese (Museo e Galleria Borghese)
+	Direktor:	Soprintendente Prof. Claudio Strinati
+	Adresse:	Piazza San Marco 49
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza Speciale del Polo Museale Romano
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza Speciale del Polo Museale Romano
+	Hat die Fotorechte:	1

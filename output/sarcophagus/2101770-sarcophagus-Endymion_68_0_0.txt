@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-756014b2d1977-8
+Endymion_68_0_0
+
+
+
+Monument
+	ID:	31353
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Endymion
+Szene
+	ID:	32951
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	68
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	FR
+	Stadt:	Saint-Irénée (Lyon)
+	Name:	Eglise
+	Rechteinhaber der Fotos:	© Saint-Irénée
+	Hat die Fotorechte:	1

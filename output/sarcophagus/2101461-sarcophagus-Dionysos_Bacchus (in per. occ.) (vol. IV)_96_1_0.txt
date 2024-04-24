@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-755ba9c8b22ae-f
+Dionysos/Bacchus (in per. occ.) (vol. IV)_96_1_0
+
+
+
+Monument
+	ID:	31043
+	Entdeckungsort:	Besançon
+	Entdeckungsort Details:	
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dionysos/Bacchus
+	Beschreibung:	Drunk Bacchus leaning on a satyr, on the right an altar and a second satyr.
+Szene
+	ID:	32560
+	Beschreibung:	Drunk Bacchus leaning on a satyr, on the right an altar and a second satyr.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/besancon/musee_des_beaux-arts_et_d_archeologie/32560X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus (in per. occ.) (vol. IV)
+	Katalognummer:	96
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	FR
+	Stadt:	Besançon
+	Name:	Musée des Beaux-Arts et d'Archéologie
+	Rechteinhaber der Fotos:	© Besançon, Musée des Beaux-Arts et d'Archéologie, Jean-Louis Dousson
+	Hat die Fotorechte:	1

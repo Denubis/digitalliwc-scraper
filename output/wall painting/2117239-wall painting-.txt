@@ -1,0 +1,31 @@
+http://ark.dasch.swiss/ark:/72163/080e-763d3bf6cba58-e
+
+
+
+Monument
+	ID:	50195
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VIII 7,28 (formerly 8,28) (Temple of Isis)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	tree temple amphora torch gate ibis sphinx
+	Beschreibung:	Ekklesiasterion (6), Nordwand, Westteil: Heiliges Tor der Isis-Neith, mit Waffen.Weitere sakrale Darstellungen im selben Raum, s. Schefold.
+	Bibliographie:	Helbig, Wandgemälde Nr. 1571 (Schefold: b).Schefold, WP 233.Elia, O., MonPitt III Pompei III/IV 30-31Taf. I und Taf. 4 links.PompPittMos VIII 824 Abb. 187.
+	Kommentar:	Lokalisierung der verschiedenen Wandmalereien innerhalb des Eklesiasterion in PompPittMos gegenüber den früheren Publikationen korrigiert. Zu anderen Darstellungen im Isistempel siehe ID: 10175; 21619; 28263; 45813; 52591; 52812; 52818; 52837. 
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8575
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-73efd83359ba6-1
+Malakbel (S)_17_0_0
+
+
+
+Monument
+	ID:	5379
+	Entdeckungsort:	Messad, Castellum Dimmidi
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Malakbel
+	Beschreibung:	Standing warrior with lance and shield, crowned by Victoria. Erronously identified with Malakbel by Picard.
+	Bibliographie:	Picard, C., Castellum Dimmidi (1949) 159-172, fig. 15-16.
+	Monument-URL:	http://www.limc-france.fr/objet/3396
+Datierung
+	Periode:	230 
+Szene
+	ID:	5471
+	Beschreibung:	Standing warrior with lance and shield, crowned by Victoria. Erronously identified with Malakbel by Picard.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Malakbel (S)
+	Katalognummer:	17
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	DZ
+	Stadt:	Alger
+	Name:	Musée National des Antiquités
+	Direktor:	Mme le Dr. Pascale Linant de Bellefonds
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-92023
+	Kontaktzenter:	Université Paris X - Nanterre Maison de l'Archéologie / Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Musée National des Antiquités Alger
+	Hat die Fotorechte:	1

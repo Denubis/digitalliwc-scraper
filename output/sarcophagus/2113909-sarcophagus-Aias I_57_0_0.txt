@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-760da0703adce-2
+Aias I_57_0_0
+
+
+
+Monument
+	ID:	43594
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	fight, battle
+	Name:	Aias I Hektor
+	Bibliographie:	SarkRel III 576.
+Szene
+	ID:	45834
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Aias I
+	Katalognummer:	57
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 3, 576
+Museum
+	Land:	CH
+	Stadt:	Lieu de conservation inconnu ou non indiqué et objets perdus
+	Direktor:	Dott. Francesco Buranelli
+	Postleitzahl:	I-00120
+	Kontaktzenter:	Monumenti, Musei e Gallerie Pontificie
+	Stadt des Kontaktzenters:	Città del Vaticano
+	Kommentar:	 Index ThesCRA 2006: Les tessères de Palmyre citées dans le ThesCRA d'après Ingholt, R./Seyrig, H./Starcky, J., Recueil des tessères de Palmyre (1955) sont regroupées sous "RTP". - Index LIMC 1999: Sous "Céramique" sont également regroupés toutes les terres sigillées et tous les médaillons d'applique cités dans le LIMC d'après Oswald, F., Index of Figure-Types on Terra Sigillata (1964[2]) (= Oswald) et Wuilleumier, P./Audin A., Les médaillons d'applique gallo-romains de la vallée du Rhône (1952) (= Wuilleumier/Audin), même lorsque leur lieu de conservation est connu (dans ce dernier cas, ils réapparaissent sous le nom du lieu en question). De même, les tessères de Palmyre citées dans le LIMC d'après Ingholt, R./Seyrig, H./Starcky, J., Recueil des tessères de Palmyre (1955) (= RTP) sont regroupées sous "Reliefs en terre cuite".
+	Hat die Fotorechte:	0

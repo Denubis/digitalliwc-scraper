@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-73daba809520d-b
+Protesilaos_22_0_0
+Herakles_2673_0_0
+Kerberos_61_0_1
+
+
+
+Monument
+	ID:	3896
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Herakles Kerberos Protesilaos
+	Beschreibung:	Herakles with Kerberos.
+Szene
+	ID:	13253
+	Beschreibung:	Herakles with Kerberos.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Protesilaos
+	Katalognummer:	22
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2673
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kerberos
+	Katalognummer:	61
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	VA
+	Stadt:	Vaticano
+	Name:	Giardini (già)
+	Rechteinhaber der Fotos:	© Vaticano
+	Hat die Fotorechte:	1

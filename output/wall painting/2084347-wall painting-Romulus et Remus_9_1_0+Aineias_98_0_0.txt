@@ -1,0 +1,67 @@
+http://ark.dasch.swiss/ark:/72163/080e-7466fdf436eec-7
+Romulus et Remus_9_1_0
+Aineias_98_0_0
+
+
+
+Monument
+	ID:	13787
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	IX 13,5 (House of Fabius Ululitremulus)
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	cista mystica old man
+	Name:	Aineias Anchises Askanios Romulus
+	Beschreibung:	On the right pilaster Aineias carrying Anchises and holding the hand of Askanios; Anchistes holding the chest. On the left pilaster is Romulus, unbearded, fully armed, carrying a trophy. 
+	Bibliographie:	Schefold, WP 289; Fuchs, W., ANRW 14 (1973) 615 fig. 25; Spinazzola, V., Pompei alla luce degli scavi nuovi di via dell’Abbondanza (1953) 150 fig. 183; Galinsky, G. K., Aeneas, Sicily and Rome (1969) fig. 27.
+Datierung
+	Periode:	69 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	14143
+	Beschreibung:	On the right pilaster Aineias carrying Anchises and holding the hand of Askanios; Anchistes holding the chest. On the left pilaster is Romulus, unbearded, fully armed, carrying a trophy. 
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/14143X001.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	522
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 5. Kultbilder
+	Sequenznummer:	1800
+	Bandnummer:	2
+Catalog LIMC
+	Artikel:	Romulus et Remus
+	Katalognummer:	9
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aineias
+	Katalognummer:	98
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	IX 13,4-6
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1

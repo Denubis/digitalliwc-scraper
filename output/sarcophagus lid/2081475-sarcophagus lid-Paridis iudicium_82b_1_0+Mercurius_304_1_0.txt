@@ -1,0 +1,51 @@
+http://ark.dasch.swiss/ark:/72163/080e-743deeabab4d4-d
+Paridis iudicium_82b_1_0
+Mercurius_304_1_0
+
+
+
+Monument
+	ID:	10896
+	Objekt:	sarcophagus lid
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Mercurius Paridis iudicium
+	Beschreibung:	Judgment of Paris: Paris discussing with Mercurius. Hera, Athena and Aphrodite.
+Szene
+	ID:	11139
+	Szenerieangabe:	couvercle
+	Beschreibung:	Judgment of Paris: Paris discussing with Mercurius. Hera, Athena and Aphrodite.
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/11139X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/11139X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/11139X202.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Paridis iudicium
+	Katalognummer:	82b
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	304
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 267
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

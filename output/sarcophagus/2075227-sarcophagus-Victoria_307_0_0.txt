@@ -1,0 +1,30 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e49b815e4cc-3
+Victoria_307_0_0
+
+
+
+Monument
+	ID:	4588
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Victoria
+	Beschreibung:	Two flying Victories holding parapetasma with bust. Surrounded by two Erotes.
+Szene
+	ID:	4646
+	Beschreibung:	Two flying Victories holding parapetasma with bust. Surrounded by two Erotes.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Victoria
+	Katalognummer:	307
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Palermo
+	Name:	Cattedrale Maria SS. Assunta
+	Rechteinhaber der Fotos:	© Palermo
+	Hat die Fotorechte:	0

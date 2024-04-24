@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-74551b65a3d3d-a
+Mousa, Mousai/Musae (vol. VII)_228_0_0
+
+
+
+Monument
+	ID:	12528
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Mousa, Mousai
+Szene
+	ID:	12830
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	228
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1243
+Museum
+	Land:	NO
+	Stadt:	Oslo
+	Name:	Nasjonalgalleriet
+	Rechteinhaber der Fotos:	© Nasjonalgalleriet Oslo
+	Hat die Fotorechte:	1

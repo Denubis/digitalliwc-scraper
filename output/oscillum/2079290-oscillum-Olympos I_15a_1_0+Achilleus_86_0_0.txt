@@ -1,0 +1,65 @@
+http://ark.dasch.swiss/ark:/72163/080e-741eb1c027667-c
+Olympos I_15a_1_0
+Achilleus_86_0_0
+
+
+
+Monument
+	ID:	8687
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	IX 7,20 (House of Fortuna)
+	Objekt:	oscillum
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	rock, cliff pipe, flute, aulos, tibiae centaur
+	Name:	Achilleus Cheiron Marsyas I Olympos I
+	Beschreibung:	Olympos (I) flutes, Marsyas correcting his technique.
+	Bibliographie:	Dwyer, E. J., Pompeian Sculpture in its Domestic Context. A Study of Five Pompeian Houses and their Contents. Diss. New York (1974) 140. 279 fig. 92; Rawson, P. G., The Myth of Marsias in the Roman Visual Arts (1987) 73. 157-158 no. 83 fig. 51.
+Datierung
+	Periode:	1 - 100 
+Epoche
+	Name:	1. Jh. n. Chr.
+	Periode:	1 - 100 
+	Sequenznummer:	3000
+Datierung
+	Periode:	90 - 100 
+	Kommentar:	(Olympos I)
+Epoche
+	Name:	Ende 1. Jh. n. Chr.
+	Periode:	90 - 100 
+	Sequenznummer:	3030
+Szene
+	ID:	8885
+	Beschreibung:	Olympos (I) flutes, Marsyas correcting his technique.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/8885X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Olympos I
+	Katalognummer:	15a
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	86
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	126234-126235
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

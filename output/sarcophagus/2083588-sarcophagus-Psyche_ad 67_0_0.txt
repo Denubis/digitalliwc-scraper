@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-745c2413953d9-7
+Psyche_ad 67_0_0
+
+
+
+Monument
+	ID:	13022
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Psyche
+Szene
+	ID:	13346
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	ad 67
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	G 1070
+Museum
+	Land:	IT
+	Stadt:	Bologna
+	Name:	Museo Civico Archeologico
+	Direktor:	Direttore Dott.ssa Paola Giovetti
+	Anrede:	Chiarissimo Direttore,
+	Adresse:	Via de' Musei 8
+	Postleitzahl:	I-40124
+	Kontaktzenter:	Museo Civico Archeologico
+	Stadt des Kontaktzenters:	Bologna
+	Rechteinhaber der Fotos:	© Museo Civico Archeologico Bologna
+	Kommentar:	Numéros des vases d'après Pellegrini, G., Catalogo dei vasi antichi dipinti delle collezioni Palagi ed Universitaria (1900) (= PU) ou idem, Catalogo dei vasi greci dipinti delle necropoli felsinee (1912) (= Pell.).
+	Hat die Fotorechte:	1

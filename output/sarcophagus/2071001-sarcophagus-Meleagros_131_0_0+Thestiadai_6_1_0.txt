@@ -1,0 +1,48 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a830b18a6c2-7
+Meleagros_131_0_0
+Thestiadai_6_1_0
+
+
+
+Monument
+	ID:	312
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Meleagros Thestiadai
+	Beschreibung:	At the far right Meleagros attacks a falling warrior, a dead one lies between them. All three are nude, but have shields. To the left Meleagros and other warriors put a torch to the city walls, encouraged by Artemis.
+Szene
+	ID:	15147
+	Beschreibung:	At the far right Meleagros attacks a falling warrior, a dead one lies between them. All three are nude, but have shields. To the left Meleagros and other warriors put a torch to the city walls, encouraged by Artemis.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/15147X301.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	131
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Thestiadai
+	Katalognummer:	6
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	3098
+Museum
+	Land:	VA
+	Stadt:	Vaticano
+	Name:	Musei Vaticani
+	Direktor:	Direttore Dott. Antonio Paolucci
+	Anrede:	Chiarissimo Direttore,
+	Postleitzahl:	I-00120
+	Kontaktzenter:	Monumenti, Musei e Gallerie Pontificie
+	Stadt des Kontaktzenters:	Città del Vaticano
+	Rechteinhaber der Fotos:	© Musei Vaticani
+	Kommentar:	Sont réunis sous cette dénomination générique - compte tenu à la fois de leur numérotation unique et de leurs déplacements à l'intérieur des musées - les monuments conservés dans le Museo Chiaramonti, le Museo Gregoriano Etrusco, le Museo Gregoriano Profano, le Museo Pio Clementino et le Museo Pio Cristiano.  En revanche, la localisation spécifique a été conservée dans les cas suivants: Basilica San Pietro, Biblioteca Apostolica Vaticana (et Museo Profano, Museo Sacro, Sala delle Nozze Aldobrandine), Camposanto Teutonico, Giardini, Medagliere Vaticano, Museo Gregoriano Egizio, Necropoli sotto San Pietro.
+	Hat die Fotorechte:	0

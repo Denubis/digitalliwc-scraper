@@ -1,0 +1,82 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a846a72c960-9
+Meleagros_145_1_0
+Oineus I (S)_51_0_0
+Thestios_3_0_0
+Eros/Amor, Cupido_ad 586_0_0
+
+
+
+Monument
+	ID:	321
+	Entdeckungsort:	unknown
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Rome
+	Land:	CH
+	Kategorie:	relief
+	Name:	Meleagros Thestios Eros/Amor, Cupido Oineus I
+	Grössenangabe:	H: 54 cm; B: 155 cm
+	Beschreibung:	Kleiner Kindersarkophag mit von Kindern bevölkerten Reliefs, die auf dem Kasten den Tod des Meleager nachstellen und auf dem Deckel ein Fest feiern. Ganz rechts steht Thestios. Oineus führt den Zug mit dem Körper des Meleagros an.
+	Bibliographie:	Schefold, K., Führer durch das Antikenmuseum Basel (1966) 141-142 (Nr. 218); Schefold, K., Grabgiebel des Knaben Lucius Otacilius, AntK 12  (1969) 114-118, 115-117.
+Datierung
+	Periode:	160 - 170 
+Epoche
+	Name:	3. Viertel 2. Jh. n. Chr.
+	Periode:	150 - 175 
+	Sequenznummer:	3220
+Szene
+	ID:	21796
+	Szenerieangabe:	face principale
+	Beschreibung:	Vier Kinder ein totes Kind nach rechts. Links dahinter steht ein Kind mit Speer auf im Wagen und hält die Zügel des Pferdegespanns; im Hintergrund trauert ein Kind mit Speer. Der Leichenzug wird von einem Kind mit Szepter und erhobenem rechtem Arm angeführt. Gleich rechts stürmt ein Mädchen mit weit ausgebreiteten Armen heran, das von einem Knaben zurückgehalten wird. Von der linken Szene durch einen Pilaster getrennt steht ein Knabe mit offenen Händen, der von zwei weiteren Knaben gestützt wird.
+	Sequenznummer:	10
+	Name:	Eros/Amor, Cupido Meleagros Oineus I Thestios
+	Stichwort:	child inclusion of deceased in mythical representation death
+Foto
+	Monument-URL:	http://www.limc.ch/Images/switzerland/basel/antikenmuseum_und_sammlung_ludwig/21796X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/switzerland/basel/antikenmuseum_und_sammlung_ludwig/21796X102.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	145
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Oineus I (S)
+	Katalognummer:	51
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Thestios
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 586
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	56845
+	Szenerieangabe:	couvercle
+	Beschreibung:	Kinder nehmen an einem Gelage teil. Auf der linken Seite schürt ein Knabe das Feuer im Ofen. Rechts füllen zwei Knaben ein Gefäss mit Wein, zwei weitere tragen eine überdimensionale Girlande herbei. An beiden Ecken des Deckels befindet sich eine Theatermaske.
+	Sequenznummer:	10
+	Stichwort:	mask: theatre mask garland wine banquet, symposium
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Zü 434
+Museum
+	Land:	CH
+	Stadt:	Basel
+	Name:	Antikenmuseum und Sammlung Ludwig
+	Direktor:	Frau Dr. Vera Slehofer
+	Adresse:	St. Albangraben 5
+	Postfach:	Postfach
+	Postleitzahl:	CH-4010
+	Kontaktzenter:	Antikenmuseum und Sammlung Ludwig
+	Stadt des Kontaktzenters:	Basel
+	Rechteinhaber der Fotos:	© Antikenmuseum und Sammlung Ludwig, Basel
+	Hat die Fotorechte:	1

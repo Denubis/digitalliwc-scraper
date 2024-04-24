@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-74776b330541d-a
+Meleagros_102_1_0
+
+
+
+Monument
+	ID:	14946
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Meleagros
+	Beschreibung:	Strigil sarcophagus. Melagros and Atalante.
+Datierung
+	Periode:	180 - 190 
+Szene
+	ID:	15420
+	Beschreibung:	Strigil sarcophagus. Melagros and Atalante.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/necropoli_sotto_san_pietro/15420X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	102
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Mausoleo R
+Museum
+	Land:	VA
+	Stadt:	Vaticano
+	Name:	Necropoli sotto San Pietro
+	Rechteinhaber der Fotos:	© Vaticano
+	Hat die Fotorechte:	1

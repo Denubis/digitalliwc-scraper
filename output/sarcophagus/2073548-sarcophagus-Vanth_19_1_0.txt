@@ -1,0 +1,125 @@
+http://ark.dasch.swiss/ark:/72163/080e-73cc9a80f0dc1-e
+Vanth_19_1_0
+
+
+
+Monument
+	ID:	2904
+	Entdeckungsort:	Vulci
+	Objekt:	sarcophagus
+	Material:	peperino
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	jug kithara fan chariot pipe, flute, aulos, tibiae cista, kiste servant wedding demon situla, kados, bucket sunshade, parasol horn, horns fasces charioteer musician (female) lituus (music instrument) sella curulis war-chariot, harma, currus mule
+	Name:	Vanth
+	Grössenangabe:	H: 88 cm; W: 73 cm; T: 210 cm
+	Beschreibung:	Etruskischer Sarkophag mit den Porträts der verstorbenen Eheleute. Auf der Hauptseite in der Mitte Ehepaar stehend mit Handreichung (einer Mischung aus griechischem Fassen am Handgelenk und römischem dextrarum iunctio), links der Frau ein junger Mann mit Sonnenschirm. Ihnen folgen jeweils Diener/-innen mit Statussymbolen und je eine Musikerin (links mit Kithara, rechts mit Flöte). Die Diener des Mannes tragen sella curulis, fasces, lituus-Trompete (kein lituus) und Horn, die Dienerinnen der Frau Kiste, Kanne, Fächer und situla. Auf der einen Schmalseite zweirädriger Sitzwagen mit «cross-bar»-Rädern, von zwei Maultieren gezogen, darauf, auf einer Sitzbank mit Lehne zwei Frauen, die eine hält einen Sonnenschirm. Vor ihnen der Wagenlenker auf dem Wagenboden sitzend. Im Hintergrund eine Todesdämonin mit Schlange in der Hand. Auf der anderen Schmalseite ein Mann auf einem von einer Pferdebiga gezogenen Streitwagen, begleitet von einem Diener mit lituus-Trompete. Die Deutung der Hauptseite als Hochzeit ist abzulehnen; es handelt sich um Abschied oder Begegnung der Eheleute in funerärem Kontext.
+	Inschrift:	Die etruskische Inschrift nennt die Eltern des Mannes (Arnth Tetnies und Ramtha Visnai) sowie den Namen der Verstorbenen (Larth Tetnies und Thanchvil Tarnai), vgl. TLE S. 55 Nr. 320/21; ET II S. 116 Vc 1.91/92. 
+	Bibliographie:	Haynes, S., Etruscan civilization. A cultural history (2000), 287-289; Herbig, Etruskische Sarkophage 13 f. no. 5 pl. 40; Krauskopf, I., Was war in der Situla? in Amann, P. u.a. (Hsg.), Italo - Tusco - Romana. Festschrift für Luciana Aigner-Foresti zum 70. Geburtstag (2006) 259-269; Torelli, M., Il rango, il rito e l'immagine. Alle origini della rappresentazione storica romana (1997) 63–65 Abb. 51.  
+	Museums-URL:	http://www.mfa.org/collections/object/sarcophagus-and-lid-with-portraits-of-husband-and-wife-151378
+Datierung
+	Periode:	-310 - -300 
+Epoche
+	Name:	Ende 4. Jh. v. Chr.
+	Periode:	-310 - -300 
+	Sequenznummer:	2460
+Datierung
+	Periode:	-300 - -290 
+Epoche
+	Name:	Anfang 3. Jh. v. Chr.
+	Periode:	-300 - -290 
+	Sequenznummer:	2580
+Szene
+	ID:	2927
+	Szenerieangabe:	côté g.
+	Beschreibung:	Pferdewagen mit Lenker und zwei Frauen unter Sonnenschirm. Dahinter geflügelte Frauenfigur (Vanth?)
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/boston/museum_of_fine_arts/2927X001.jpg
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	950
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Catalog Thes CRA
+	Indexnummer:	4
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VI. 1.c. Heirat, etr.
+	Bandnummer:	6
+Catalog LIMC
+	Artikel:	Vanth
+	Katalognummer:	19
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	58032
+	Szenerieangabe:	côté dr.
+	Beschreibung:	Pferdewagen mit altem Wagenlenker, dahinter nackter Knabe.
+	Kommentar:	in ThesCRA V.2.b. 950 nur linke Seite abgebildet. 
+	Sequenznummer:	10
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	4
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VIII. 5.a. Männlich / weiblich, etr.
+	Bandnummer:	8
+Szene
+	ID:	59261
+	Szenerieangabe:	face principale
+	Beschreibung:	Etruskischer Sarkophag mit den Porträts der verstorbenen Eheleute. Auf der Hauptseite in der Mitte Ehepaar stehend mit Handreichung (einer Mischung aus griechischem Fassen am Handgelenk und römischem dextrarum iunctio), links der Frau ein junger Mann mit Sonnenschirm. Ihnen folgen jeweils Diener/-innen mit Statussymbolen und je eine Musikerin (links mit Kithara, rechts mit Flöte). Die Diener des Mannes tragen sella curulis, fasces, lituus-Trompete (kein lituus) und Horn, die Dienerinnen der Frau Kiste, Kanne, Fächer und situla. 
+	Sequenznummer:	10
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	588
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA
+	Indexnummer:	4
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	13
+	Name:	II. 4.c. Musik, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	1700
+	Bandnummer:	2
+Catalog Thes CRA
+	Indexnummer:	5
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	100147
+	Szenerieangabe:	couvercle
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	7
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1975.799
+Museum
+	Land:	US
+	Stadt:	Boston
+	Name:	Museum of Fine Arts
+	Direktor:	Digital Image Resources
+	Anrede:	Dear Curator,
+	Adresse:	465 Huntington Avenue
+	Postleitzahl:	USA-
+	Kontaktzenter:	Museum of Fine Arts, Classical Art
+	Stadt des Kontaktzenters:	Boston, MA 02115-5597
+	Rechteinhaber der Fotos:	© Museum of Fine Arts, Boston
+	Hat die Fotorechte:	1

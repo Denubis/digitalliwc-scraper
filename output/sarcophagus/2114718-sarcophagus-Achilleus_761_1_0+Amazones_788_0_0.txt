@@ -1,0 +1,60 @@
+http://ark.dasch.swiss/ark:/72163/080e-7619314fce95b-7
+Achilleus_761_1_0
+Amazones_788_0_0
+
+
+
+Monument
+	ID:	44417
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	throne helmet shield spear corselet warrior, soldier Amazon
+	Name:	Achilleus Antilochos I Briseis Penthesileia Amazones
+	Bibliographie:	SarkRel II Nr. 91 Taf. 37; Eckstein, F../Beck, H., Antike Plastik im Liebighaus (1973) Nr. 69.
+Datierung
+	Periode:	200 - 250 
+	Kommentar:	Amazones 788
+Epoche
+	Name:	1. Hälfte 3. Jh. n. Chr.
+	Periode:	200 - 250 
+	Sequenznummer:	3320
+Datierung
+	Periode:	200 - 300 
+Epoche
+	Name:	3. Jh. n. Chr.
+	Periode:	200 - 300 
+	Sequenznummer:	3280
+Szene
+	ID:	46714
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/frankfurt_am_main/liebieghaus/museum_alter_plastik/46714X301.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	761
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	788
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	342
+Museum
+	Land:	DE
+	Stadt:	Frankfurt am Main
+	Name:	Liebieghaus, Museum Alter Plastik
+	Direktor:	Prof. Dr. Vinzenz Brinkmann
+	Adresse:	Schaumainkai 71
+	Postleitzahl:	D-60596
+	Kontaktzenter:	Liebieghaus, Museum Alter Plastik
+	Stadt des Kontaktzenters:	Frankfurt am Main
+	Rechteinhaber der Fotos:	© Liebieghaus
+	Hat die Fotorechte:	1

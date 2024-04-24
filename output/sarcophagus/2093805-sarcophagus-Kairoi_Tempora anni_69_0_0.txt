@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ee357469726-f
+Kairoi/Tempora anni_69_0_0
+
+
+
+Monument
+	ID:	23324
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kairoi/Tempora anni
+	Beschreibung:	Front side: Four nude Erotes depicted as Seasons (putting their feet on seasonal attributes) holding a garland.
+Datierung
+	Periode:	140 
+Szene
+	ID:	24468
+	Beschreibung:	Front side: Four nude Erotes depicted as Seasons (putting their feet on seasonal attributes) holding a garland.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_barberini/24468X301.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	69
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Barberini
+	Rechteinhaber der Fotos:	© Palazzo Barberini, Roma
+	Hat die Fotorechte:	1

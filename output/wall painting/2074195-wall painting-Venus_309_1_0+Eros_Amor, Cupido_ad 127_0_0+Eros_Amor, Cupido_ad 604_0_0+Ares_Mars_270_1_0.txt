@@ -1,0 +1,72 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d5da786a2a4-2
+Venus_309_1_0
+Eros/Amor, Cupido_ad 127_0_0
+Eros/Amor, Cupido_ad 604_0_0
+Ares/Mars_270_1_0
+
+
+
+Monument
+	ID:	3553
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Eros/Amor, Cupido Venus
+	Beschreibung:	Birth of Venus: Venus in a shell. Amores.
+Szene
+	ID:	3588
+	Beschreibung:	Birth of Venus: Venus in a shell. Amores.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/3588X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/3588X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/3588X005.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/3588X304.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Venus
+	Katalognummer:	309
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 127
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 604
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ares/Mars
+	Katalognummer:	270
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	II 3,3
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa della Venere in Conchiglia

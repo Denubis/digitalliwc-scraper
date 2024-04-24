@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-75c524a7f6a48-6
+Apollon/Apollo_280_0_0
+
+
+
+Monument
+	ID:	38487
+	Entdeckungsort:	Ercolano, Herculaneum, Herculanum
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+Szene
+	ID:	40472
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	280
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Casa del Colonnato Tuscanico
+Museum
+	Land:	IT
+	Stadt:	Ercolano
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	VI 16-19. 25-27

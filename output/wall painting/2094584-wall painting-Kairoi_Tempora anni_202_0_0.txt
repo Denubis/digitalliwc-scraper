@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-74f95887d259d-b
+Kairoi/Tempora anni_202_0_0
+
+
+
+Monument
+	ID:	24114
+	Entdeckungsort:	Pergamon
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Kairoi/Tempora anni
+	Beschreibung:	Mural painting in the House of the consul Attalos in Pergamon. Birds symbolising the Seasons: two parrots (Autumn) drinking from one krater, two doves (Spring) srinking from another krater.
+Datierung
+	Periode:	200 - 220 
+Szene
+	ID:	25298
+	Beschreibung:	Birds symbolising the Seasons: two parrots (Autumn) drinking from one krater, two doves (Spring) srinking from another krater.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	202
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	TR
+	Stadt:	Pergame
+	Name:	Maison d'Attalos
+	Rechteinhaber der Fotos:	© Pergamon
+	Hat die Fotorechte:	1

@@ -1,0 +1,65 @@
+http://ark.dasch.swiss/ark:/72163/080e-764883a398281-1
+
+
+
+Monument
+	ID:	51021
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Via Labicana
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	jug table, mensa, trapeza cult image, cult statue libation piglet goat sanctuary thymiaterion, turibulum, incense-burner wine herdsman
+	Name:	Dionysos/Bacchus
+	Beschreibung:	Girlandensarkophag mit der Darstellung von zwei Szenen in ländlichen Heiligtümern mit Feigenbäumen. Links: Statue des jugendlichen Bacchus, vor ihr ein steinerner Opfertisch, auf dem Früchte liegen. Ein auf einem Fels sitzender Hirte hält ein Ferkel an den Hinterbeinen und giesst aus einer Kanne Wein auf den Tisch. Rechts: Statue des bärtigen Bacchus mit einer Kanne in der Hand, davor ein vierbeiniger Opfertisch, auf dem ein einfacher Weihrauchständer und ein Töpfchen stehen. Ganz rechts sitzt ein junger Hirt mit Ziegen.
+	Bibliographie:	Turcan, R., Religion romaine. le culte II. IconRel XVII 1, 2 (1988) 37 n. 87-88 tav. 47-48; Goudineau, C., `Iεραí τρáπεζαι», MEFRA 79 (1967), 104 f. Abb. 9–10; Herdejürgen, H., Stadtrömische und italische Girlandensarkophage I. Die Sarkophage des 1. und 2. Jhs. (1996) 115 f. Nr. 59 Taf. 39, 1. 2; 41, 1. 
+Datierung
+	Kommentar:	~
+Epoche
+	Name:	hadrianisch
+	Periode:	117 - 138 
+	Sequenznummer:	1200
+Szene
+	ID:	56181
+	Beschreibung:	Girlandensarkophag mit der Darstellung von zwei Szenen in ländlichen Heiligtümern mit Feigenbäumen. Links: Statue des jugendlichen Bacchus, vor ihr ein steinerner Opfertisch, auf dem Früchte liegen. Ein auf einem Fels sitzender Hirte hält ein Ferkel an den Hinterbeinen und giesst aus einer Kanne Wein auf den Tisch. Rechts: Statue des bärtigen Bacchus mit einer Kanne in der Hand, davor ein vierbeiniger Opfertisch, auf dem ein einfacher Weihrauchständer und ein Töpfchen stehen. Ganz rechts sitzt ein junger Hirt mit Ziegen.
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	269
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 5. Kultbilder
+	Sequenznummer:	1800
+	Bandnummer:	2
+Catalog Thes CRA
+	Indexnummer:	560
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Catalog Thes CRA
+	Indexnummer:	269
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	106429
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Romano
+	Direktor:	Soprintendente Dott. Giuseppe Proietti
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali - Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

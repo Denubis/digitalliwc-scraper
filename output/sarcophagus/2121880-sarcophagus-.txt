@@ -1,0 +1,49 @@
+http://ark.dasch.swiss/ark:/72163/080e-767f95a4452bd-1
+
+
+
+Monument
+	ID:	90084
+	Entdeckungsort:	Athens
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	GR
+	Kategorie:	relief
+	Stichwort:	wreath, crown, stephane, corona ram lion krater torch chariot he-goat whip candelabrum griffin sphinx
+	Name:	Eros
+	Grössenangabe:	2.08 μ. X 0.93 μ.
+	Beschreibung:	Eρωτιδείς, Γρύπες, Σφίγγα
+	Bibliographie:	Arch. Zeit. 30, 16.
+	Kommentar:	2888
+Szene
+	ID:	55225
+	Szenerieangabe:	face principale
+	Beschreibung:	Δύο ζευγάρια λιονταριών εκατέρωθεν λυχνοστάτη, σέρνουν άρμα επάνω στο οποίο δύο Eρωτιδείς, που κρατούν στεφάνι και μαστίγιο.
+Szene
+	ID:	55226
+	Szenerieangabe:	B
+	Beschreibung:	Γρύπες εκατέρωθεν λυχνοστάτη.
+Szene
+	ID:	55227
+	Szenerieangabe:	à dr.
+	Beschreibung:	Σφίγγα. Aνάμεσα στα πόδια της κεφάλι κριού.
+Szene
+	ID:	55228
+	Szenerieangabe:	à g.
+	Beschreibung:	Tράγοι εκατέρωθεν κρατήρα.
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1178
+Museum
+	Land:	GR
+	Stadt:	Athens
+	Name:	National Archaeological Museum
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Anrede:	Dear Director,
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© National Archaeological Museum, Athens
+	Kommentar:	Pour les intailles de la collection Karapanos voir Musée Numismatique.  Inv. VS = ancienne collection Vlastos-Serpieri.
+	Hat die Fotorechte:	1

@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-7452ca7d89693-9
+Mousa, Mousai/Musae (vol. VII)_133_0_0
+
+
+
+Monument
+	ID:	12366
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Mousa, Mousai
+Szene
+	ID:	12666
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	133
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Abbazia delle Tre Fontane
+	Rechteinhaber der Fotos:	© Abbazia delle Tre Fontane, Roma
+	Hat die Fotorechte:	1

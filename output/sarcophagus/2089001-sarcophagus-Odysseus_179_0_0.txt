@@ -1,0 +1,48 @@
+http://ark.dasch.swiss/ark:/72163/080e-74a98735e5252-8
+Odysseus_179_0_0
+
+
+
+Monument
+	ID:	18494
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Odysseus
+	Kommentar:	Ehem. Montecito, Coll. Wright Ludington [steht im Text, fehlt im Index; Slg. im Index existent], dann Santa Barbara, Mus. 1993.1.99 [die falsche Inv. in Korrigenda und Index geht auf eine falsche Auskunft des Museums zurück], verkauft vom Museum New York, Sotheby’s 10.12.1999, Nr. 398. Volterraner Alabasterurne [in Korrigenda steht fälschlich Kalksteinurne].
+Szene
+	ID:	19330
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Odysseus
+	Katalognummer:	179
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	Ehem. A.O.
+	Nummer:	1993.1.99
+Museum
+	Land:	US
+	Stadt:	Santa Barbara (California)
+	Name:	Santa Barbara Museum of Art
+	Direktor:	To the Director
+	Adresse:	1130 State St.
+	Postleitzahl:	USA-
+	Kontaktzenter:	Santa Barbara Museum of Art
+	Stadt des Kontaktzenters:	Santa Barbara (CA) 93101-2746
+	Rechteinhaber der Fotos:	© Santa Barbara Museum of Art
+	Hat die Fotorechte:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	10.12.1999, 398
+Museum
+	Land:	US
+	Stadt:	New York
+	Name:	Sotheby's
+	Adresse:	1334 York Avenue at 72nd St.
+	Postleitzahl:	USA-
+	Kontaktzenter:	Sotheby's
+	Stadt des Kontaktzenters:	New York NY 10021
+	Rechteinhaber der Fotos:	© Sotheby's, New York
+	Hat die Fotorechte:	1

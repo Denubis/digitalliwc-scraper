@@ -1,0 +1,73 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e0fd8bd311b-c
+Oineus I (S)_41_1_0
+Artemis/Diana_347_0_0
+Atalante_55_1_0
+Meleagros_118_0_0
+Orcus_1_1_0
+
+
+
+Monument
+	ID:	4335
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Atalante Meleagros Artemis/Diana Oineus I Orcus
+	Beschreibung:	On the left a deliberation scene, on the right a chase; between them Orcus to the right; in the chase Atalante in short chiton and chlamys, a dog at her feet, stands before Meleager and Oineus, with a hunter behind her.
+Szene
+	ID:	4386
+	Beschreibung:	On the left a deliberation scene, on the right a chase; between them Orcus to the right; in the chase Atalante in short chiton and chlamys, a dog at her feet, stands before Meleager and Oineus, with a hunter behind her.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4386X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4386X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4386X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/4386X305.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Oineus I (S)
+	Katalognummer:	41
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	347
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Atalante
+	Katalognummer:	55
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	118
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Orcus
+	Katalognummer:	1
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1897
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Musei Capitolini
+	Direktor:	Dirigente Dott. Claudio Parisi Presicce
+	Adresse:	Via delle Tre Pile, 1
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Sovraintendenza ai Beni Culturali                     del Comune di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Archivio fotografico Musei Capitolini
+	Hat die Fotorechte:	1

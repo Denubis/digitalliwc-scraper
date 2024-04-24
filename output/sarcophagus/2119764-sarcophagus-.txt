@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-766155418a269-9
+
+
+
+Monument
+	ID:	52898
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Beschreibung:	Friesfragment.
+	Bibliographie:	Fless, Opferdiener 106 Nr. 20 Taf. 46, 1; Siebert, A. V., Boreas 20 (1997) 23-311.
+Datierung
+	Periode:	1 - 50 
+Epoche
+	Name:	1. Hälfte 1. Jh. n. Chr.
+	Periode:	1 - 50 
+	Sequenznummer:	3040
+Szene
+	ID:	58233
+	Beschreibung:	Einleitender Opferzug von l. nach r. (neun Personen) mit anschliessendem Opfer am Altar. Der Mann l. aussen (Tunika, Schultermantel) schultert ein Beil. Es folgt ein togatus (Kopf bzw. Gesicht oberhalb des Kinns abgeschlagen). Eine dritte Person (ebenfalls togatus) hält in der l. Hand einen kurzen, länglichen Gegenstand (volumen?). Vor ihr schreitet ein togatus. Hauptfigur der erhaltenen Szene ist der togatus mit verhülltem Haupt. Die velatio capitis ist trotz des fehlenden Kopfes daran zu erkennen, dass die Togafalten neben den Resten seiner l. Gesichtshälfte steil nach oben verlaufen. Er vollführt an einem mit Girlanden geschmückten Rundaltar ein Libationsopfer (patera in der Rechten). In der l. Hand hält er ein volumen. Ein weiterer togatus ist beinahe völlig verdeckt. Ein jugendlicher Opferdiener (knielange Tunika) hält mit beiden Händen das Weihrauchkästchen (acerra). Neben ihm steht der Flötenspieler (Toga, jedoch mit unverhülltem Haupt) mit der Doppelflöte. Die fr. Szene endet am r. Bildrand mit einer knienden Person mit nacktem Oberkörper, dem Opferschlächter (victimarius). Er trägt im Bund seines Schurzes (limus) das dreieckige Opfermesser (culter).
+Catalog Thes CRA
+	Indexnummer:	208
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 2.a. Opfer, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	220
+	Bandnummer:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Loggiato
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Venezia
+	Rechteinhaber der Fotos:	© Palazzo Venezia, Roma
+	Hat die Fotorechte:	1

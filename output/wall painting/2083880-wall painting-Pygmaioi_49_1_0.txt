@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-746050c5be88d-b
+Pygmaioi_49_1_0
+
+
+
+Monument
+	ID:	13317
+	Entdeckungsort:	Zliten, Zlitan
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Pygmaioi
+Szene
+	ID:	13660
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/libyan_arab_jamahiriya/tripoli_libye/musee/13660X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Pygmaioi
+	Katalognummer:	49
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Zliten
+Museum
+	Land:	LY
+	Stadt:	Tripoli (Libye)
+	Name:	Musée
+	Direktor:	Mme le  Dr. Pascale Linant de Bellefonds
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-90023
+	Kontaktzenter:	Université Paris X - Nanterre Maison de l'Archéologie / Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Musée Tripoli
+	Hat die Fotorechte:	1

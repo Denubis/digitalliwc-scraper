@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-7521e7b7815c6-c
+Harpokrates_119_0_0
+
+
+
+Monument
+	ID:	26976
+	Entdeckungsort:	Pompei
+	Objekt:	statuette
+	Material:	bronze
+	Land:	CH
+	Kategorie:	sculpture in the round of metal
+	Name:	Harpokrates
+Szene
+	ID:	28340
+Catalog LIMC
+	Artikel:	Harpokrates
+	Katalognummer:	119
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	899/4
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Antiquarium
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via villa dei Misteri 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei (NA)
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

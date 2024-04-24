@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ee05e034c25-c
+Kairoi/Tempora anni_32_0_0
+
+
+
+Monument
+	ID:	23311
+	Objekt:	sarcophagus lid
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kairoi/Tempora anni
+	Beschreibung:	In the centre the inscription of Ruffia Marcella framed by two Erotes with garland. The four Seasons are shown too.
+Szene
+	ID:	24453
+	Szenerieangabe:	couvercle
+	Beschreibung:	In the centre the inscription of Ruffia Marcella framed by two Erotes with garland. The four Seasons are shown too.
+	Sequenznummer:	20
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	32
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	5896
+Museum
+	Land:	IT
+	Stadt:	Cagliari
+	Name:	Museo Archeologico Nazionale
+	Adresse:	Piazza Indipendenza 7
+	Postleitzahl:	I-09100
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici per le Province di Cagliari e Oristano
+	Stadt des Kontaktzenters:	Cagliari
+	Rechteinhaber der Fotos:	© Polo Museale della Sardegna
+	Hat die Fotorechte:	1

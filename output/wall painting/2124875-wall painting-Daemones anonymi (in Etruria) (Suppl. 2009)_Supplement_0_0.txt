@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-76aa67184d27c-1
+Daemones anonymi (in Etruria) (Suppl. 2009)_Supplement_0_0
+
+
+
+Monument
+	ID:	201946
+	Entdeckungsort:	Tarquinia
+	Entdeckungsort Details:	Tomb 5203
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	club demon vulture
+	Beschreibung:	demon with human body and head of a vulture; wearing a short chiton, a club (?); pursueing a woman
+	Bibliographie:	Colonna, G., DdA ser. 3, 2, 1984, 15. 19 fig. 32 (=Atti dell'incontro di studio ad Acquasparta 8.-10.4.1983, II, 1984, 15. 19 fig. 32).
+Datierung
+	Periode:	-600 - -575 
+	Kommentar:	Beginning of the 3rd. cent. B.C.
+Epoche
+	Name:	1. Viertel 6. Jh. v. Chr.
+	Periode:	-600 - -575 
+	Sequenznummer:	2210
+Szene
+	ID:	98933
+	Beschreibung:	demon with human body and head of a vulture; wearing a short chiton, a club (?); pursueing a woman
+Catalog LIMC
+	Artikel:	Daemones anonymi (in Etruria) (Suppl. 2009)
+	Band:	Supplement
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba 5203
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Necropoli
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

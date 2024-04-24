@@ -1,0 +1,142 @@
+http://ark.dasch.swiss/ark:/72163/080e-7407ef296954f-6
+Saturnus (S)_65_0_0
+Mithras_144_1_0
+Mithras_33_0_0
+Mithras_490_0_0
+Mithras_251_0_0
+Mithras_369_0_0
+Mithras_323_0_0
+Mithras_344_0_0
+Mithras_409_0_0
+Mithras_443_0_0
+Mithras_451_0_0
+Mithras_574_0_0
+Gigantes_553_0_0
+Helios/Sol_242_0_0
+Helios/Sol_245a_0_0
+Helios/Sol_253a_0_0
+Helios/Sol_271a_0_0
+Helios/Sol_340a_0_0
+Aion_28_0_0
+
+
+
+Monument
+	ID:	7082
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Palazzo Barberini Mithraeum
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	snake bull globe Giant
+	Name:	Aion Helios/Sol Mithras Saturnus Gigantes
+	Beschreibung:	Mithras killing the bull in a cave. On the mantle and behind Mithras are the seven planets. The bull's tail turns into ears. Scorpion, serpent and dog. On the left Cautes, on the right Cautopates. Above, on the left the bust of Sol and raven, on the left the bust of Luna. In the background the zodiakos with Chronos in the centre. Above, seven altars with seven cypresses. In the left side panel Mithras taurophoros, the water miracle, the birth of Mithras: Mithras with Phrygian cap and raised arms emerging from a rock. On both sides a Persian. Then Saturnus, Gigantomachy. In the right side panel the admission: Sol kneeling in front of Mithras. Mithras grabbing nimbus. Mithras depicted as Atlas carrying the globe, the alliance, the ascension and the meal.
+	Bibliographie:	Cecchelli, C., Roma (1941) pl. 21; Annibaldi, G./ Gatti,G., Il mitreo Barberini con introduzione topografico-monumentale, BullCom 71, 1943-45 fig. 3; Berytus, qq, 1954; 116 fig. 1; CIMRM I168 no. 390 fig. 112.
+Szene
+	ID:	7228
+	Beschreibung:	Mithras killing the bull in a cave. On the mantle and behind Mithras are the seven planets. The bull's tail turns into ears. Scorpion, serpent and dog. On the left Cautes, on the right Cautopates. Above, on the left the bust of Sol and raven, on the left the bust of Luna. In the background the zodiakos with Chronos in the centre. Above, seven altars with seven cypresses. In the left side panel Mithras taurophoros, the water miracle, the birth of Mithras: Mithras with Phrygian cap and raised arms emerging from a rock. On both sides a Persian. Then Saturnus, Gigantomachy. In the right side panel the admission: Sol kneeling in front of Mithras. Mithras grabbing nimbus. Mithras depicted as Atlas carrying the globe, the alliance, the ascension and the meal.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Saturnus (S)
+	Katalognummer:	65
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mithras
+	Katalognummer:	144
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mithras
+	Katalognummer:	33
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mithras
+	Katalognummer:	490
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mithras
+	Katalognummer:	251
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mithras
+	Katalognummer:	369
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mithras
+	Katalognummer:	323
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mithras
+	Katalognummer:	344
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mithras
+	Katalognummer:	409
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mithras
+	Katalognummer:	443
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mithras
+	Katalognummer:	451
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mithras
+	Katalognummer:	574
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Gigantes
+	Katalognummer:	553
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	242
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	245a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	253a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	271a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	340a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aion
+	Katalognummer:	28
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Barberini, Mitreo
+	Rechteinhaber der Fotos:	© Palazzo Barberini, Mitreo
+	Hat die Fotorechte:	1

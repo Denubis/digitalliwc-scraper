@@ -1,0 +1,49 @@
+http://ark.dasch.swiss/ark:/72163/080e-755ca6517b0c7-8
+Helios/Sol_90_1_0
+
+
+
+Monument
+	ID:	31111
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Herkunft:	Italy
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	whip halo, nimbus globe cloak
+	Name:	Helios/Sol
+	Beschreibung:	Wandmalerei (Ausschnitt). Sol schwebt in ganzer Körperlänge vor dem Betrachter. Sein Haar ist kurz und wellig, auf dem Kopf trägt er eine siebenzackige Strahlenkrone. Der rechte Arm greift weiter in den Raum aus, in der rechten Hand hält er eine Peitsche. Der linke Arm ist weiter am Körper geführt, in der Linken hält er eine Erdkugel mit Angabe des Äquators und des Zodiacus. Die Gestalt ist bis auf einen kurzen Mantel, der von den Schultern weht, unbekleidet.
+	Bibliographie:	Schefold, K. Die Wände Pompejis: topographisches Verzeichnis der Bildmotive (1957) 101; Brendel, O.J., Symbolism of the Sphere (1977) 53 n. 13; 89 Taf. 17
+Datierung
+	Periode:	69 - 79 
+Epoche
+	Name:	vespasianisch
+	Periode:	69 - 79 
+	Sequenznummer:	1185
+Szene
+	ID:	32628
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/32628X302.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	90
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9819
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

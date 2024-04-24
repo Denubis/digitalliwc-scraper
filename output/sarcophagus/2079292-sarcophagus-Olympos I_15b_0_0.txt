@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-741eb912081f1-9
+Olympos I_15b_0_0
+
+
+
+Monument
+	ID:	8689
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Olympos I
+	Beschreibung:	Olympos (I) flutes, Marsyas correcting his technique.
+Szene
+	ID:	8886
+	Beschreibung:	Olympos (I) flutes, Marsyas correcting his technique.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Olympos I
+	Katalognummer:	15b
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Romano
+	Direktor:	Soprintendente Dott. Giuseppe Proietti
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali - Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

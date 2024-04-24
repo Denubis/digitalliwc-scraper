@@ -1,0 +1,30 @@
+http://ark.dasch.swiss/ark:/72163/080e-764b634850a2e-6
+
+
+
+Monument
+	ID:	51229
+	Entdeckungsort:	Rome
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Bibliographie:	Dölger, F. J., Ichthus. Die Fisch-Denkmäler in der frühchristlichen Plastik, Malerei und Kleinkunst (1922-45),  IV pl. 260, 1; Wilpert, J., Die Malerei der Sakramentkapellen in der Katakombe des heiligen Callistus (1897) pl., 41, 3.
+Szene
+	ID:	56402
+Foto
+	Neues Foto:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Camera dei sacramenti
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Catacomba di S. Callisto
+	Direktor:	Dott.ssa Barbara Mazzei
+	Adresse:	Via Napoleone III 1
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Pontificia Commissione di Archeologia Sacra
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Pontificia Commissione di Archeologia Sacra
+	Hat die Fotorechte:	0

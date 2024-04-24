@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-74d49e33c3fb0-9
+Herakles_2536a_0_0
+Herakles_2652_0_0
+Herakles_ad 2746_0_0
+
+
+
+Monument
+	ID:	21526
+	Entdeckungsort:	Chersonesos (Crete)
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Asia Minor
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Herakles
+	Beschreibung:	Herakles with the herd of Geryoneus. Herakles pulls Kerberos beside him towards the Hesperides tree.
+Szene
+	ID:	22485
+	Beschreibung:	Herakles with the herd of Geryoneus. Herakles pulls Kerberos beside him towards the Hesperides tree.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2536a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2652
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	ad 2746
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	3/35678
+Museum
+	Land:	UA
+	Stadt:	Sébastopol (Sevastopol)
+	Name:	Réserve Nationale "Chersonèse de Tauride"
+	Rechteinhaber der Fotos:	© Réserve Nationale "Chersonèse de Tauride", Sevastopol
+	Hat die Fotorechte:	0

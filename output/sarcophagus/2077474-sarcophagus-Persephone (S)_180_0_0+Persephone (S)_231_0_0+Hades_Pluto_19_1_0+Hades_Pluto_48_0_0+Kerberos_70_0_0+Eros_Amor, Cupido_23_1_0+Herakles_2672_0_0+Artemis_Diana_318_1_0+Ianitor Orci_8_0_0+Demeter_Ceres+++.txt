@@ -1,0 +1,142 @@
+http://ark.dasch.swiss/ark:/72163/080e-7404bb57188ef-9
+Persephone (S)_180_0_0
+Persephone (S)_231_0_0
+Hades/Pluto_19_1_0
+Hades/Pluto_48_0_0
+Kerberos_70_0_0
+Eros/Amor, Cupido_23_1_0
+Herakles_2672_0_0
+Artemis/Diana_318_1_0
+Ianitor Orci_8_0_0
+Demeter/Ceres (vol. IV)_134_0_0
+Hades/Pluto_66_1_0
+
+
+
+Monument
+	ID:	6855
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Stichwort:	kerykeion, caduceus palm branch cornucopia club torch chariot bow chariot drawn by serpents
+	Name:	Artemis/Diana Athena/Minerva Demeter/Ceres Eros/Amor, Cupido Hades/Pluto Ianitor Orci Hermes/Mercurius Okeanos/Oceanus Aphrodite/Venus Victoria Herakles/Hercules Proserpina Kerberos Persephone
+	Beschreibung:	Langseite: Pluto/Hades auf seinem Gespann mit Proserpina in wildem Galopp. Unter den Hufen der Pferde die Personifikationen des Oceanus und des Ianitor orci. Links neben Proserpina Eros und Minerva. Rechts neben den Pferden Mercur mit Flügelhut und Kerykeion, dahinter Victoria/Nike mit Kranz und Siegespalme. Am rechten Rand Hercules, eingehüllt in seinen Mantel (mit Hund?). Auf der linken Seite Demeter im Schlangenwagen. In der Hand hält sie eine Fackel und blickt sich nach links um. Am Boden darunter eine weibliche Gottheit mit Füllhorn lagernd. Weiter rechts zwischen Minerva und Demeter eine Szene, in der Pluto Proserpina überrascht und die zeitlich vor dem Raub auf dem Wagen anzusetzen ist. Links und rechts neben Pluto erscheinen Venus und Diana/Artemis.
+	Bibliographie:	Die antiken Sarkophagreliefs, hg. von Robert, C., Rodenwaldt, G., Matz, F. et al. (1890 ff.) Bd. III 3 Nr. 392; Sichtermann, H./Koch, G., Griechische Mythen auf römischen Sarkophagen (1975) 57-58 Nr. 61 Taf. 148; Lindner 70-71 Nr. 81 mit Lit.
+Datierung
+	Periode:	200 - 250 
+Epoche
+	Name:	1. Hälfte 3. Jh. n. Chr.
+	Periode:	200 - 250 
+	Sequenznummer:	3320
+Szene
+	ID:	7001
+	Beschreibung:	Langseite: Pluto/Hades auf seinem Gespann mit Proserpina in wildem Galopp. Unter den Hufen der Pferde die Personifikationen des Oceanus und des Ianitor orci. Links neben Proserpina Eros und Minerva. Rechts neben den Pferden Mercur mit Flügelhut und Kerykeion, dahinter Victoria/Nike mit Kranz und Siegespalme. Am rechten Rand Hercules, eingehüllt in seinen Mantel (mit Hund?). Auf der linken Seite Demeter im Schlangenwagen. In der Hand hält sie eine Fackel und blickt sich nach links um. Am Boden darunter eine weibliche Gottheit mit Füllhorn lagernd. Weiter rechts zwischen Minerva und Demeter eine Szene, in der Pluto Proserpina überrascht und die zeitlich vor dem Raub auf dem Wagen anzusetzen ist. Links und rechts neben Pluto erscheinen Venus und Diana/Artemis.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/7001X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/7001X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/7001X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/7001X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/7001X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/7001X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/7001X303.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/7001X304.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/7001X305.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/7001X306.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/7001X307.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/7001X308.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/7001X310.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Persephone (S)
+	Katalognummer:	180
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Persephone (S)
+	Katalognummer:	231
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	19
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	48
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kerberos
+	Katalognummer:	70
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	23
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2672
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	318
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ianitor Orci
+	Katalognummer:	8
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Demeter/Ceres (vol. IV)
+	Katalognummer:	134
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	66
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	249
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Musei Capitolini
+	Direktor:	Dirigente Dott. Claudio Parisi Presicce
+	Adresse:	Via delle Tre Pile, 1
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Sovraintendenza ai Beni Culturali                     del Comune di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Archivio fotografico Musei Capitolini
+	Hat die Fotorechte:	1

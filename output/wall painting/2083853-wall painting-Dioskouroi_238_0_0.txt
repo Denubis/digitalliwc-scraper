@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-745fedf464cc6-1
+Dioskouroi_238_0_0
+
+
+
+Monument
+	ID:	13290
+	Entdeckungsort:	Delos (Cyclades)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Dioskouroi
+Szene
+	ID:	39963
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Dioskouroi
+	Katalognummer:	238
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	GR
+	Stadt:	Délos
+	Name:	Musée Archéologique
+	Direktor:	Dir. Prof. Dominique Mulliez
+	Anrede:	Monsieur le Directeur,
+	Adresse:	6, rue Didotou
+	Postleitzahl:	GR-106 80
+	Kontaktzenter:	Ecole Française d'Athènes
+	Stadt des Kontaktzenters:	Athènes
+	Rechteinhaber der Fotos:	© Archaeological Museum of Delos
+	Hat die Fotorechte:	1

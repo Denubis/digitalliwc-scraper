@@ -1,0 +1,80 @@
+http://ark.dasch.swiss/ark:/72163/080e-741bd96d4fa44-6
+Techne_1_0_0
+Daidalos et Ikaros_35_1_0
+Moirai_58_0_0
+Pasiphae_35_0_0
+Ikarios Pontos (Suppl. 2009)_Supplement_0_0
+
+
+
+Monument
+	ID:	8487
+	Objekt:	sarcophagus
+	Herkunft:	Italy
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	rock, cliff wings
+	Name:	Moirai Pasiphae Techne Daidalos and Ikaros Ikaros Ikarios Pontos
+	Beschreibung:	Representation of Ikaros' myth. Fabrication of the wings; their fixing; fligh; death; To the right side over the dead body of Ikaros, representation of a recumbent bearded male figure on a rock holding a branch, his legs covered by a mantel (figure intepreted as Ikarios Pontos). Scene 1 shows Daidalos fashioning a wing. Behind him a diademed female reaches out to assist him (Techne). She has been identified as Pasiphae, Athena or Ars.
+	Bibliographie:	Calderone, S., in: Romanitas christianitas. Untersuchungen zur Geschichte und Literatur der römischen Kaiserzeit. J. Straub zum 70. Geburtstag (1982) 749-767; Sichterman, H., SarkRel XII 2, 22-31. 101-102 no. 26 pl. 23, 1-2, 24, 4; Verzár-Bass, M., in: Iconografia 2005 (2006) 249-251 fig. 10.
+Datierung
+	Periode:	140 - 160 
+Epoche
+	Name:	Mitte 2. Jh. n. Chr.
+	Periode:	140 - 160 
+	Sequenznummer:	3160
+Szene
+	ID:	8682
+	Beschreibung:	Representation of Ikaros' myth. Fabrication of the wings; their fixing; fligh; death; To the right side over the dead body of Ikaros, representation of a recumbent bearded male figure on a rock holding a branch, his legs covered by a mantel (figure intepreted as Ikarios Pontos). Scene 1 shows Daidalos fashioning a wing. Behind him a diademed female reaches out to assist him (Techne). She has been identified as Pasiphae, Athena or Ars.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/messina/museo_regionale/8682X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/messina/museo_regionale/8682X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/messina/museo_regionale/8682X102.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Techne
+	Katalognummer:	1
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Daidalos et Ikaros
+	Katalognummer:	35
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Moirai
+	Katalognummer:	58
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Pasiphae
+	Katalognummer:	35
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ikarios Pontos (Suppl. 2009)
+	Band:	Supplement
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1687/A 233
+Museum
+	Land:	IT
+	Stadt:	Messina
+	Name:	Museo Regionale
+	Direktor:	Dott.ssa Carmela Di Bartolo
+	Adresse:	Viale della Libertà 465
+	Postleitzahl:	I-98121
+	Kontaktzenter:	Museo Regionale - Archivio Fotografico e Documentazione
+	Stadt des Kontaktzenters:	Messina
+	Rechteinhaber der Fotos:	© Museo Regionale, Messina
+	Hat die Fotorechte:	0

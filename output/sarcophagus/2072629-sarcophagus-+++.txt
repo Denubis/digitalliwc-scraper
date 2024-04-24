@@ -1,0 +1,128 @@
+http://ark.dasch.swiss/ark:/72163/080e-73bf770a1578e-a
+Zeus/Iuppiter_315_0_0
+Zeus/Iuppiter_330_0_0
+Leto/Latona_4_1_0
+Niobidai_32c_1_0
+Amphion_8f_0_0
+Niobe_8d_0_0
+Artemis/Diana_354_0_0
+Apollon/Apollo_435_1_0
+Zeus/Iuppiter_472_0_0
+Leto/Latona_4_1_0
+Iuno_87_1_0
+Artemis/Diana_290_0_0
+
+
+
+Monument
+	ID:	1978
+	Entdeckungsort:	Italy
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	helmet shield corselet child death
+	Name:	Amphion Niobe Niobidai Apollon/Apollo Iuno Athena/Minerva Zeus/Iuppiter Leto/Latona
+	Grössenangabe:	
+	Beschreibung:	Amphion in armour and raised shield holding his dying son; he is the pendant to the group of Niobe and one of her daughters; On the lid: The young Apollo is presented to the Capitolina Triad and the other gods: in the centre Iuppiter seated, Minerva by his right side, Iuno (?) by his left. Leto/Latuna introducing her twins to the Olympos. In the right corner of the lid Iris guiding Eileithyia to Leto who is about to give birth to her twins Apollon and Artemis.
+	Bibliographie:	Sichtermann, H., JdI 83 (1968) 180-220; Sichtermann, H./Koch, MythSark 49-50 nrn. 48-49 Taf. 122-128; Robert, C., SarkRel III 3 (1919) no. 315-320 Taf. C-CII. 
+Szene
+	ID:	1915
+	Beschreibung:	Amphion in armour and raised shield holding his dying son; he is the pendant to the group of Niobe and one of her daughters. 
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/providence/museum_of_art/rhode_island_school_of_design/1915X202.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	315
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	330
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Leto/Latona
+	Katalognummer:	4
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Niobidai
+	Katalognummer:	32c
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amphion
+	Katalognummer:	8f
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Niobe
+	Katalognummer:	8d
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	2494
+	Szenerieangabe:	couvercle
+	Beschreibung:	The young Apollo is presented to the Capitolina Triad and the other gods: in the centre Iuppiter seated, Minerva by his right side, Iuno (?) by his left. Leto/Latuna introducing her twins to the Olympos. In the right corner Iris guiding Eileithyia to Leto who is about to give birth to her twins Apollon and Artemis.
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/providence/museum_of_art/rhode_island_school_of_design/2494X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/providence/museum_of_art/rhode_island_school_of_design/2494X204.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/providence/museum_of_art/rhode_island_school_of_design/2494X299.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	354
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	435
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	472
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Leto/Latona
+	Katalognummer:	4
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iuno
+	Katalognummer:	87
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	290
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1921.076
+Museum
+	Land:	US
+	Stadt:	Providence
+	Name:	Museum of Art, Rhode Island School of Design
+	Direktor:	Gina Borromeo, Curator 
+	Adresse:	224 Benefit Street
+	Postleitzahl:	USA-
+	Kontaktzenter:	Museum of Art, Rhode Island School of Design
+	Stadt des Kontaktzenters:	Providence, RI 02903
+	Rechteinhaber der Fotos:	Photography by Erik Gould, courtesy of the Museum of Art, Rhode Island School of Design, Providence
+	Hat die Fotorechte:	1

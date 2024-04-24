@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-76a5711a80075-f
+Paridis iudicium, Add._Supplement_1_0
+
+
+
+Monument
+	ID:	201707
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	kerykeion, caduceus snake sceptre phiale, phiale mesomphalos, patera ram torch diadem Phrygian cap
+	Name:	Aphrodite Athena Eros Hera Hermes Nike Paridis iudicium Paris
+	Beschreibung:	Fragment. on the left Hermes with kerykeion and ram; next to him three goddesses, all of them with a servant; Aphrodite with nude upper body, coat draped around her lower body and diadem; Hero wearing peplos and coat with phiale and sceptre; Athena with snake, Nike; on another fragment Paris with Phrygian bonnet 
+	Bibliographie:	Sotheby's New York, Catalogue 8.12.1995 no. 280.
+Datierung
+	Periode:	250 - 300 
+Epoche
+	Name:	2. Hälfte 3. Jh. n. Chr.
+	Periode:	250 - 300 
+	Sequenznummer:	3330
+Szene
+	ID:	98681
+	Beschreibung:	on the left Hermes with kerykeion and ram; next to him three goddesses, all of them with a servant; Aphrodite with nude upper body, coat draped around her lower body and diadem; Hero wearing peplos and coat with phiale and sceptre; Athena with snake, Nike; on another fragment Paris with Phrygian bonnet 
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Paridis iudicium, Add.
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8.12.1995, 280
+Museum
+	Land:	US
+	Stadt:	New York
+	Name:	Sotheby's
+	Adresse:	1334 York Avenue at 72nd St.
+	Postleitzahl:	USA-
+	Kontaktzenter:	Sotheby's
+	Stadt des Kontaktzenters:	New York NY 10021
+	Rechteinhaber der Fotos:	© Sotheby's, New York
+	Hat die Fotorechte:	1

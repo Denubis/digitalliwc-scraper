@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-761f2b2845505-9
+Achle_93_0_0
+
+
+
+Monument
+	ID:	44839
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	human sacrifice
+	Name:	Achilleus/Achle
+	Beschreibung:	Scene interpreted as the sacrifice of the Trojan captives to Patroclus' Dii Manes
+	Bibliographie:	Ducati, P., StEtr 5, 1931, 527-528 pl. 36c-d; Herbig, EtrSark 34 no.61.
+Datierung
+	Periode:	-300 - -200 
+Epoche
+	Name:	3. Jh. v. Chr.
+	Periode:	-300 - -200 
+	Sequenznummer:	2570
+Szene
+	ID:	47183
+	Beschreibung:	Scene interpreted as the sacrifice of the Trojan captives to Patroclus' Dii Manes
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Achle
+	Katalognummer:	93
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	PT
+	Stadt:	Sintra
+	Name:	Musée San Miguel de Odrinhas
+	Rechteinhaber der Fotos:	© Musée San Miguel de Odrinhas, Sintra
+	Hat die Fotorechte:	0

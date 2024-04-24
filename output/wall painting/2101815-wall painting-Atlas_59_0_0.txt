@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-7560b96511d18-a
+Atlas_59_0_0
+
+
+
+Monument
+	ID:	31398
+	Entdeckungsort:	Tarquinia
+	Entdeckungsort Details:	Tartaglia Tomb
+	Objekt:	wall painting
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	Atlant
+	Name:	Atlas
+	Beschreibung:	At least three Atlantes: frontal, nude, muscular, that hold up an amorphous mass of earth with their extended arms. The context indicates an underworld episode.
+	Bibliographie:	Dempster, T., De Etruria regali (1723) II pls. 88. 89; Pallottino, M., MontAnt 36, 1937, 405-407 fig. 100; Pairault, F. H., Recherches sur quelques séries d`urnes de Volterra à représentations mythologiques (1972) 50; Schmidt-Colinet 49, 112-115 fig. M 11.
+Datierung
+	Periode:	-200 - -100 
+Epoche
+	Name:	2. Jh. v. Chr.
+	Periode:	-200 - -100 
+	Sequenznummer:	2710
+Szene
+	ID:	32999
+	Beschreibung:	At least three Atlantes: frontal, nude, muscular, that hold up an amorphous mass of earth with their extended arms. The context indicates an underworld episode.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Atlas
+	Katalognummer:	59
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba Tartaglia
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Necropoli
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

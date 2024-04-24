@@ -1,0 +1,57 @@
+http://ark.dasch.swiss/ark:/72163/080e-745c9cda9123e-6
+Psyche_102_1_0
+Nemesis_292_0_0
+Elpis_14_0_0
+
+
+
+Monument
+	ID:	13055
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Elpis Nemesis Psyche
+	Beschreibung:	Psyche surrounded by Erotes, flanked by Nemesis and Elpis(?)
+Szene
+	ID:	13383
+	Beschreibung:	Psyche surrounded by Erotes, flanked by Nemesis and Elpis(?)
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/oxford/ashmolean_museum_of_art_and_archaeology/13383X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/oxford/ashmolean_museum_of_art_and_archaeology/13383X204.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/oxford/ashmolean_museum_of_art_and_archaeology/13383X205.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	102
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Nemesis
+	Katalognummer:	292
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Elpis
+	Katalognummer:	14
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1947.288
+Museum
+	Land:	GB
+	Stadt:	Oxford
+	Name:	Ashmolean Museum of Art and Archaeology
+	Direktor:	Ms. Katherine Wodehouse, Picture Library Manager
+	Anrede:	Dear Dr. Vickers,
+	Adresse:	Beaumont Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	Ashmolean Museum of Art and Archaeology
+	Stadt des Kontaktzenters:	Oxford OX1 2PH
+	Rechteinhaber der Fotos:	© Ashmolean Museum of Art and Archaeology, Oxford
+	Hat die Fotorechte:	1

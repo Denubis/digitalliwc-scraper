@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-74d4799a605fe-3
+Isis_211_0_0
+
+
+
+Monument
+	ID:	21516
+	Entdeckungsort:	Karanis (Fayoum)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Isis
+	Beschreibung:	lactating Isis, framed by the Dioskoures
+	Bibliographie:	Parlaska, K., Archeologia 49, 1998, 9 pl. II/3.
+Szene
+	ID:	22475
+	Beschreibung:	lactating Isis, framed by the Dioskoures
+	Sequenznummer:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	20
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VIII. 6.b. Religiöse Interaktionen, Ägypten
+	Bandnummer:	8
+Catalog LIMC
+	Artikel:	Isis
+	Katalognummer:	211
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Maison B 50, chambre E
+Museum
+	Land:	EG
+	Stadt:	Karanis
+	Rechteinhaber der Fotos:	© Karanis
+	Hat die Fotorechte:	0

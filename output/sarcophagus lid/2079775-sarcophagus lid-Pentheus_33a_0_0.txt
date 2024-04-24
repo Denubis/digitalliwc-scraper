@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-7425a0cf864a0-9
+Pentheus_33a_0_0
+
+
+
+Monument
+	ID:	9177
+	Objekt:	sarcophagus lid
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Pentheus
+	Beschreibung:	Pentheus attacked by maenads.
+Szene
+	ID:	9378
+	Szenerieangabe:	couvercle
+	Beschreibung:	Pentheus attacked by maenads.
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/museo_ostiense/9378X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Pentheus
+	Katalognummer:	33a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	816
+Museum
+	Land:	IT
+	Stadt:	Ostia
+	Name:	Museo Ostiense
+	Direktor:	Dott.ssa Elvira Angeloni
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Viale dei Romagnoli 717
+	Postleitzahl:	I-00119
+	Kontaktzenter:	Soprintendenza archeologica di Ostia
+	Stadt des Kontaktzenters:	Ostia Antica - Roma
+	Rechteinhaber der Fotos:	Archivio Fotografico della Soprintendenza Archeologica per i beni archeologici di Ostia
+	Hat die Fotorechte:	1

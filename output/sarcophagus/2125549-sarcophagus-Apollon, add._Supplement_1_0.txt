@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-76b409e120326-c
+Apollon, add._Supplement_1_0
+
+
+
+Monument
+	ID:	202607
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	relief
+	Beschreibung:	Apollon seated on a rock; bird and winged griffin
+Szene
+	ID:	99626
+	Beschreibung:	Apollon seated on a rock; bird and winged griffin
+Catalog LIMC
+	Artikel:	Apollon, add.
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	11.6.2003, 197
+Museum
+	Land:	US
+	Stadt:	New York
+	Name:	Christie's
+	Direktor:	Dr. Simon Wills
+	Adresse:	20 Rockefeller Plaza
+	Postleitzahl:	USA-
+	Kontaktzenter:	Christie's
+	Stadt des Kontaktzenters:	New York, NY 10020
+	Rechteinhaber der Fotos:	© Christie's, New York
+	Kommentar:	früher: Mr. G. Max Bernheimer, Senior Director
+	Hat die Fotorechte:	1

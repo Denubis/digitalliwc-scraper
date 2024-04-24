@@ -1,0 +1,74 @@
+http://ark.dasch.swiss/ark:/72163/080e-7487d4c8e3389-f
+Lar, Lares_71_0_0
+Hestia/Vesta_40_1_0
+
+
+
+Monument
+	ID:	16101
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 12,11
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	throne altar snake base cornucopia phiale, phiale mesomphalos, patera rhyton ear of corn tree garland table, mensa, trapeza libation fillet, taenia, tainia situla, kados, bucket donkey fruit altar: round altar
+	Name:	Hestia/Vesta Lar, Lares
+	Beschreibung:	Wandmalerei aus einer Bäckerei in Pompeji:Oberes Register: Die thronende Vesta mit Füllhorn hält eine patera über einen wohl steinernen Kulttisch, auf dem Ähren liegen. Die Tischplatte liegt auf einer Mittelstütze auf, die ihrerseits auf einer kleinen Basis steht. Hinter dem Thron der Göttin kommt ein Esel hervor. Flankiert wird die Szene von zwei Laren, die beide aus einem Rhyton in eine Situla libieren. Unteres Register: Ein Rundaltar mit Deckplatte, der sich nach oben hin verjüngt und der nach der Beschaffenheit der Malerei, aus Buntmarmor hergestellt zu sein scheint, ist flankiert von zwei großen aufgerichteten Schlangen und zwei Bäumen. 
+	Bibliographie:	Schefold, WP 201; Boyce, J. K., “Corpus of the Lararia of Pompei”, MAAR 14, 1937 n. 316 pl. 24; Greifenhagen, A., “Das Vestarelief aus Wilton House”, BerlWPr 121/122, 1967, 14 fig. 7; Th Fröhlich, Lararien- und Fassadenbilder. 32. Erg.-heft RM (1991)150-151 L91 Taf. 1; Simon, GRöm 238 Abb. 307.
+Datierung
+	Periode:	70 - 79 
+Epoche
+	Name:	4. Viertel 1. Jh. n. Chr.
+	Periode:	75 - 100 
+	Sequenznummer:	3090
+Szene
+	ID:	49475
+	Beschreibung:	Wandmalerei aus einer Bäckerei in Pompeji:Oberes Register: Die thronende Vesta mit Füllhorn hält eine patera über einen wohl steinernen Kulttisch, auf dem Ähren liegen. Die Tischplatte liegt auf einer Mittelstütze auf, die ihrerseits auf einer kleinen Basis steht. Hinter dem Thron der Göttin kommt ein Esel hervor. Flankiert wird die Szene von zwei Laren, die beide aus einem Rhyton in eine Situla libieren. Unteres Register: Ein Rundaltar mit Deckplatte, der sich nach oben hin verjüngt und der nach der Beschaffenheit der Malerei, aus Buntmarmor hergestellt zu sein scheint, ist flankiert von zwei großen aufgerichteten Schlangen und zwei Bäumen. 
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49475X001.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	557
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Catalog Thes CRA
+	Indexnummer:	4
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VI. 2.b. Handwerk, Handel, röm.
+	Bandnummer:	6
+Catalog LIMC
+	Artikel:	Lar, Lares
+	Katalognummer:	71
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hestia/Vesta
+	Katalognummer:	40
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VII 12,11
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1

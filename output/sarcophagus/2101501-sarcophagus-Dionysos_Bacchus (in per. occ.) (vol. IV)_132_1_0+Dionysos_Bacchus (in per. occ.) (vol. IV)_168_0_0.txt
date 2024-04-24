@@ -1,0 +1,101 @@
+http://ark.dasch.swiss/ark:/72163/080e-755c3c2e40976-f
+Dionysos/Bacchus (in per. occ.) (vol. IV)_132_1_0
+Dionysos/Bacchus (in per. occ.) (vol. IV)_168_0_0
+
+
+
+Monument
+	ID:	31083
+	Entdeckungsort:	Lyon
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Rome
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	tree basket cloth, textile initiation veil phallos
+	Name:	Dionysos/Bacchus
+	Beschreibung:	Wannensarkophag (Lenos).
+	Bibliographie:	Espérandieu, Recueil 1771; SarkRel IV 1, 138-140 Nr. 38 Taf. 38-39; Matz Taf. 23; Geyer Taf. 3, 1; Koch/Sichtermann, RömSark 268 und Anm. 14; Nouvelle Espérandieu II no. 239
+Datierung
+	Periode:	220 
+	Kommentar:	ca.
+Epoche
+	Name:	1. Viertel 3. Jh. n. Chr.
+	Periode:	200 - 225 
+	Sequenznummer:	3340
+Szene
+	ID:	32600
+	Beschreibung:	woman carrying covered basket (liknon with phallos?)
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/lyon/musee_gallo-romain_de_lyon-fourviere/32600X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/lyon/musee_gallo-romain_de_lyon-fourviere/32600X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/lyon/musee_gallo-romain_de_lyon-fourviere/32600X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/lyon/musee_gallo-romain_de_lyon-fourviere/32600X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/lyon/musee_gallo-romain_de_lyon-fourviere/32600X005.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/lyon/musee_gallo-romain_de_lyon-fourviere/32600X006.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/lyon/musee_gallo-romain_de_lyon-fourviere/32600X007.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/lyon/musee_gallo-romain_de_lyon-fourviere/32600X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/lyon/musee_gallo-romain_de_lyon-fourviere/32600X102.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	84
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 3.c. Initiation
+	Sequenznummer:	1200
+	Bandnummer:	2
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus (in per. occ.) (vol. IV)
+	Katalognummer:	132
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus (in per. occ.) (vol. IV)
+	Katalognummer:	168
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	55065
+	Szenerieangabe:	côté g.
+	Beschreibung:	Linke Nebenseite: Mysterienweihe: Mädchen mit geneigtem Haupt und Schleier, auf dem Kopf eine Tablett, darauf ein von einem Tuch bedeckter Korb, unter dem Tuch ein Gegenstand (aufgerichteter Phallos). Vor dem Mädchen  eine Frau mit Schleiertuch auf dem Kopf, die den Korb stützt. Zu ihren Füssen gelagerte Figur (Ariadne?). Im Hintergrund Baum. Hinter dem Mädchen eine zweite Frau, die ebenfalls den Korbrand berührt.
+	Kommentar:	Abgebildet LIMC IV Dionysos/Bacchus (in peripheria occ.) 132*.
+	Sequenznummer:	10
+Datierung
+	Periode:	200 - 225 
+	Kommentar:	ca.
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Espérandieu 1771
+Museum
+	Land:	FR
+	Stadt:	Lyon
+	Name:	Musée gallo-romain
+	Adresse:	17 Rue Cléberg
+	Postleitzahl:	F-69005
+	Kontaktzenter:	Musée Gallo-romain
+	Stadt des Kontaktzenters:	Lyon
+	Rechteinhaber der Fotos:	© Cliché Musée gallo-romain, Département du Rhône, Lyon
+	Kommentar:	Anciennement Musée de la Civilisation gallo-romaine.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2001-0-311

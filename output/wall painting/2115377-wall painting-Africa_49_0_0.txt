@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-76229d328c37a-9
+Africa_49_0_0
+
+
+
+Monument
+	ID:	45083
+	Entdeckungsort:	Châtillon-sur-Seine
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	cornucopia proboscis
+	Name:	Africa
+	Bibliographie:	Deshoulières, BullMon 1927, 371; Congr. Arch. Dijon (1929) 227.
+Szene
+	ID:	47431
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Africa
+	Katalognummer:	49
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	FR
+	Stadt:	Châtillon-sur-Seine
+	Rechteinhaber der Fotos:	© Châtillon-sur-Seine
+	Hat die Fotorechte:	0

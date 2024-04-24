@@ -1,0 +1,82 @@
+http://ark.dasch.swiss/ark:/72163/080e-743eeb34742ed-3
+Kassandra I (vol. VII)_43_0_0
+Aithra I_56_1_0
+Diomedes I_66_0_0
+Helene_200_0_0
+
+
+
+Monument
+	ID:	10965
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	I 2,6
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	altar base tree tripod garland column table, mensa, trapeza Palladion temple amphora sacral-idyllic landscape altar with protection against wind altar: monolithic block
+	Name:	Aithra I Diomedes I Helene Kassandra I Odysseus
+	Beschreibung:	Odysseus und Diomedes mit Palladion, weitere Figuren. Tempel, rechteckiger Block-Altar auf 2-stufiger Basis, mit seitlichen Windschutzplatten, Votive: Dreifuss auf Säule, Amphora auf Säule, Tisch mit Gefäss u.a. darauf.
+	Inschrift:	Griechische Namensbeischriften.
+	Bibliographie:	Schefold, WP 9; HBr Taf. 149; Davreux, J., La légende de la prophétesse Cassandre d’après les textes et les monuments (1942) 128-130 no. 50 fig. 28; Schefold, VergP 89-90 Farbtaf. 11, 1; Hampe, R., Sperlonga und Vergil. Schriften zur antiken Mythologie 1 (1972) 38 pl. 38, 2.
+Datierung
+	Periode:	-15 - 63 
+Epoche
+	Name:	3. pompejanischer Stil
+	Periode:	-15 - 63 
+	Sequenznummer:	1340
+Szene
+	ID:	11213
+	Beschreibung:	Odysseus und Diomedes mit Palladion, weitere Figuren. Tempel, rechteckiger Block-Altar auf 2-stufiger Basis, mit seitlichen Windschutzplatten, Votive: Dreifuss auf Säule, Amphora auf Säule, Tisch mit Gefäss u.a. darauf.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/11213X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/11213X101.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	134
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	IV. 1.b. Kultorte (Darstellungen)
+	Sequenznummer:	4500
+	Bandnummer:	4
+Catalog LIMC
+	Artikel:	Kassandra I (vol. VII)
+	Katalognummer:	43
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aithra I
+	Katalognummer:	56
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Diomedes I
+	Katalognummer:	66
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helene
+	Katalognummer:	200
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	109751
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

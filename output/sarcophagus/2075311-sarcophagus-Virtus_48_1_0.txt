@@ -1,0 +1,58 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e5cef03c970-5
+Virtus_48_1_0
+
+
+
+Monument
+	ID:	4675
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Name:	Virtus
+	Beschreibung:	On a minor side of the sarcophacus a depiction of a hunter on a horse stretching his right hand towards a statue of Diana on a column. On the main side a lion hunt in the presence of Virtus.
+	Bibliographie:	Andreae, B., Die römische Jagdsarkophage, SarkRel I 2 (1980) pl. 2, 2.
+Datierung
+	Periode:	230 
+	Kommentar:	about
+Epoche
+	Name:	2. Viertel 3. Jh. n. Chr.
+	Periode:	225 - 250 
+	Sequenznummer:	3350
+Szene
+	ID:	4741
+	Beschreibung:	On a minor side of the sarcophacus a depiction of a hunter on a horse stretching his right hand towards a statue of Diana on a column. On the main side a lion hunt in the presence of Virtus.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/spain/barcelona/the_archaeology_museum_of_catalonia/4741X001.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	4
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VI. 2.d. Jagd, gr. / röm.
+	Bandnummer:	6
+Catalog LIMC
+	Artikel:	Virtus
+	Katalognummer:	48
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	870
+Museum
+	Land:	ES
+	Stadt:	Barcelona
+	Name:	The Archaeology Museum of Catalonia
+	Direktor:	To the Director
+	Adresse:	Passeig de Santa Madrona 39-41
+	Postleitzahl:	E-08038
+	Kontaktzenter:	Museu d'Arqueologia de Catalunya
+	Stadt des Kontaktzenters:	Barcelone
+	Rechteinhaber der Fotos:	© Museu d'Arqueologia de Catalunya, Barcelona
+	Hat die Fotorechte:	0

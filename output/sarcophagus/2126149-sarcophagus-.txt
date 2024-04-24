@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-76bc9dd4788de-3
+
+
+
+Monument
+	ID:	203124
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Beschreibung:	Deceased boy surrounded by family members.
+	Bibliographie:	Amedick, R., Vita Privata. die Sarkophage mit Darstellungen aus dem Menschenleben, SarkRel I, 4 (1991) 141-143 no. 121 pl. 71, 2.
+Datierung
+	Periode:	100 - 200 
+Epoche
+	Name:	2. Jh. n. Chr.
+	Periode:	100 - 200 
+	Sequenznummer:	3140
+Szene
+	ID:	100162
+	Beschreibung:	Deceased boy surrounded by family members.
+Catalog Thes CRA
+	Indexnummer:	6
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VI. 1.e. Tod, röm.
+	Bandnummer:	6
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	18838
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée National du Moyen Age - Thermes de Cluny
+	Direktor:	Service de Documentation
+	Adresse:	6, Place Paul Painlevé
+	Postleitzahl:	F-75005
+	Kontaktzenter:	Musée National du Moyen Âge - Thermes de Cluny
+	Stadt des Kontaktzenters:	Paris
+	Rechteinhaber der Fotos:	© Musée National du Moyen Age - Thermes de Cluny, Paris
+	Hat die Fotorechte:	0

@@ -1,0 +1,71 @@
+http://ark.dasch.swiss/ark:/72163/080e-73bfefd1115f3-9
+Zeus/Iuppiter_332_0_0
+Phaethon I_16_1_0
+Stellae (S)_20_0_0
+Dioskouroi/Castores_164_0_0
+Ouranos_9c_0_0
+
+
+
+Monument
+	ID:	2011
+	Entdeckungsort:	Italy
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Ouranos Phaethon I Dioskouroi/Castores Stellae Zeus/Iuppiter
+	Beschreibung:	Phaethon (I) falling down into Eridanos (I). Swan. The Dioskouroi, the Heliades, the Winds, Helios, Thalassa, Ge and Ouranos watch the scene. Behind Apollon is Phosphoros, in front of Caelus is Hesperos.
+	Monument-URL:	http://www.limc-france.fr/objet/14469
+Datierung
+	Periode:	290 - 300 
+Szene
+	ID:	1963
+	Beschreibung:	Phaethon (I) falling down into Eridanos (I). Swan. The Dioskouroi, the Heliades, the Winds, Helios, Thalassa, Ge and Ouranos watch the scene. Behind Apollon is Phosphoros, in front of Caelus is Hesperos.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/1963X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	332
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Phaethon I
+	Katalognummer:	16
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Stellae (S)
+	Katalognummer:	20
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dioskouroi/Castores
+	Katalognummer:	164
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ouranos
+	Katalognummer:	9c
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 1017
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MR 829

@@ -1,0 +1,126 @@
+http://ark.dasch.swiss/ark:/72163/080e-73befa9a29364-d
+Zeus/Iuppiter_280_0_0
+Apollon/Apollo_422_0_0
+Ares/Mars_344_0_0
+Artemis/Diana_306_0_0
+Athena/Minerva_305_0_0
+Dodekatheoi/Dei Consentes_1_1_0
+Demeter/Ceres (vol. IV)_158_0_0
+Hera_363_0_0
+Herakles_3397_0_0
+Iuno_302_0_0
+Lar, Lares_78_0_0
+Mercurius_363_0_0
+Venus_371_0_0
+Vulcanus_18_0_0
+Dodekatheoi_41_0_0
+
+
+
+Monument
+	ID:	1944
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	IX 11,1
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	altar snake garland pipe, flute, aulos, tibiae plant vici magister, vicomagister ara compitalis
+	Name:	Lar, Lares Dodekatheoi Athena/Minerva Herakles/Hercules Demeter/Ceres Apollon/Apollo Dodekatheoi Hera Proserpina Vulcanus Artemis/Diana Mercurius Iuno Venus Zeus/Iuppiter
+	Beschreibung:	Rechts, oben: Unter zwei Girlanden vier vicomagistri an Rundaltar (ara compitalis, mit Reliefs); links und rechts, grösser, je ein Lar. Dazwischen Sträucher. Der hintere magister links spielt Doppelflöte. The twelve Dei Consentes, from the left: Zeus, Juno, Ares, Minerva, Hercules, Venus, Mercurius, Proserpina, Vulcanus, Ceres (with crown of corn and torch), Apollo, Diana.
+	Bibliographie:	Spinazzola, Pompei I Abb. 215-217; Fröhlich, Lararien 335-337 F66 Taf. 60, 1-2; 61, 2 (nur Zwölfgötter).
+	Kommentar:	Nach Fröhlich die Zwölfgötter frühaugusteisch, die vicomagistri 4. Stil.
+Szene
+	ID:	1856
+	Beschreibung:	Rechts, oben: Unter zwei Girlanden vier vicomagistri an Rundaltar (ara compitalis, mit Reliefs); links und rechts, grösser, je ein Lar. Dazwischen Sträucher. Der hintere magister links spielt Doppelflöte. The twelve Dei Consentes, from the left: Zeus, Juno, Ares, Minerva, Hercules, Venus, Mercurius, Proserpina, Vulcanus, Ceres (with crown of corn and torch), Apollo, Diana.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	280
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	422
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ares/Mars
+	Katalognummer:	344
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	306
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	305
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dodekatheoi/Dei Consentes
+	Katalognummer:	1
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Demeter/Ceres (vol. IV)
+	Katalognummer:	158
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hera
+	Katalognummer:	363
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	3397
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iuno
+	Katalognummer:	302
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Lar, Lares
+	Katalognummer:	78
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	363
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Venus
+	Katalognummer:	371
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Vulcanus
+	Katalognummer:	18
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dodekatheoi
+	Katalognummer:	41
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	IX 11,1
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1

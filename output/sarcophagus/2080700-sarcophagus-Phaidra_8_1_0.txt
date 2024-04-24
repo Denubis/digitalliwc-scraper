@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-7432da3c03d71-2
+Phaidra_8_1_0
+
+
+
+Monument
+	ID:	10114
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Phaidra
+	Beschreibung:	Phaidra seated and three further women.
+Szene
+	ID:	10333
+	Beschreibung:	Phaidra seated and three further women.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Phaidra
+	Katalognummer:	8
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 2, 158
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Studio Canova (già)
+	Rechteinhaber der Fotos:	© Studio Canova (once), Roma
+	Hat die Fotorechte:	0

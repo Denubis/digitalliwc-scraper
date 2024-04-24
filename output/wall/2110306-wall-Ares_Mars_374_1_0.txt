@@ -1,0 +1,52 @@
+http://ark.dasch.swiss/ark:/72163/080e-75da1dc157a2f-2
+Ares/Mars_374_1_0
+
+
+
+Monument
+	ID:	39968
+	Entdeckungsort:	Pompei
+	Objekt:	wall
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	altar naiskos, aedicula
+	Name:	Aphrodite/Venus
+	Beschreibung:	In Aedicula: Mars und Venus frontal stehend, vor ihnen je ein Rundaltar (mit Flammen?).
+	Bibliographie:	Schefold, WP 197.Fröhlich, Lararien 39. 99-100. 288 L88 Taf. 43, 1.
+Datierung
+	Periode:	69 - 79 
+Epoche
+	Name:	vespasianisch
+	Periode:	69 - 79 
+	Sequenznummer:	1185
+Szene
+	ID:	42033
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/42033X301.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Ares/Mars
+	Katalognummer:	374
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VII 9,29-34
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa del Re di Prussia

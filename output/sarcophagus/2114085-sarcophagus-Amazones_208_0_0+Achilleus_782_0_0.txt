@@ -1,0 +1,56 @@
+http://ark.dasch.swiss/ark:/72163/080e-761024957a53e-2
+Amazones_208_0_0
+Achilleus_782_0_0
+
+
+
+Monument
+	ID:	43777
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	Amazon fight, battle
+	Name:	Achilleus Penthesileia Amazones
+	Bibliographie:	SarkRel II Nr. 98 Taf. 42; Redlich, R., Die Amazonensarkophage des 2. und 3. Jh. n. Chr. (1942) 103-105; Koch, G., AA 1976, 106 Nr. 14.
+Datierung
+	Periode:	225 - 250 
+Epoche
+	Name:	2. Viertel 3. Jh. n. Chr.
+	Periode:	225 - 250 
+	Sequenznummer:	3350
+Datierung
+	Periode:	280 - 300 
+	Kommentar:	(Amazones)
+Epoche
+	Name:	4. Viertel 3. Jh. n. Chr.
+	Periode:	275 - 300 
+	Sequenznummer:	3370
+Szene
+	ID:	46047
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	208
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	782
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel II 98
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Borghese (Museo e Galleria Borghese)
+	Direktor:	Soprintendente Prof. Claudio Strinati
+	Adresse:	Piazza San Marco 49
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza Speciale del Polo Museale Romano
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza Speciale del Polo Museale Romano
+	Hat die Fotorechte:	1

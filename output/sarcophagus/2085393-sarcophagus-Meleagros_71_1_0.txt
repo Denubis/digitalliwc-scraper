@@ -1,0 +1,48 @@
+http://ark.dasch.swiss/ark:/72163/080e-7475f23a501da-6
+Meleagros_71_1_0
+
+
+
+Monument
+	ID:	14840
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Meleagros
+	Beschreibung:	Strigil sarcophagus with three panels. In the central panel, Meleagros standing, his right hand on his hip, his right hand originally held a spear. The boar lies dead at his feet. In the left panel, Atalante. In the right panel, a wounded youth.
+Datierung
+	Periode:	150 - 175 
+Szene
+	ID:	15313
+	Beschreibung:	In the central panel, Meleagros standing, his right hand on his hip, his right hand originally held a spear. The boar lies dead at his feet. In the left panel, Atalante. In the right panel, a wounded youth.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/15313X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/15313X399.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	71
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	56138
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Romano
+	Direktor:	Soprintendente Dott. Giuseppe Proietti
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali - Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

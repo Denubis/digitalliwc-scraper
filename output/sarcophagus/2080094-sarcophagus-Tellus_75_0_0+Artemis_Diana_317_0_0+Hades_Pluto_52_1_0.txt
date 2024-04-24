@@ -1,0 +1,63 @@
+http://ark.dasch.swiss/ark:/72163/080e-742a30530951b-c
+Tellus_75_0_0
+Artemis/Diana_317_0_0
+Hades/Pluto_52_1_0
+
+
+
+Monument
+	ID:	9501
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Stichwort:	kerykeion, caduceus cornucopia sceptre garland torch bow quadriga quiver reed biga
+	Name:	Artemis/Diana Athena/Minerva Demeter/Ceres Eros/Amor, Cupido Hades/Pluto Hermes/Mercurius Okeanos/Oceanus Tellus Aphrodite/Venus Proserpina
+	Beschreibung:	Langseite: In der Mitte kniet Proserpina blumenpflückend auf dem Boden, neben ihr der Korb mit den gesammelten Blüten. Von rechts versucht Pluto mit Mantel und Szepter sie auf seinen Wagen zu holen, während Diana mit Bogen und Köcher sie von links zurückzuziehen versucht. Von links naht der Pferdewagen der Demeter/Ceres mit Fackel. Mit ihr im Wagen Trepidatio, der ein kleiner Amor den Weg zu weisen scheint. Am Boden liegt Tellus mit Füllhorn. Hinter den Pferden des Pluto/Hades ist der Oberkörper der Venus zu sehen mit kleinem Amor, Szepter, Diadem und Granatapfel zu sehen. Unter den Pferden befindet sich der lagernde Oceanus mit Schilfrohr, dahinter ganz rechts stehend Merkur und Minerva, die den Finger an den Mund legt.
+	Bibliographie:	Die antiken Sarkophagreliefs, hg. von Robert, C., Rodenwaldt, G., Matz, F. et al. (1890 ff.) Bd. III 3 Nr. 393; Tusa Nr. 77 Taf. 192; Lindner 85 Nr. 116 Taf. 19,2
+Datierung
+	Periode:	200 - 300 
+Epoche
+	Name:	3. Jh. n. Chr.
+	Periode:	200 - 300 
+	Sequenznummer:	3280
+Szene
+	ID:	9706
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/raffadali/chiesa_della_madonna_degli_infermi_chiesa_madre/9706X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/raffadali/chiesa_della_madonna_degli_infermi_chiesa_madre/9706X203.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/raffadali/chiesa_della_madonna_degli_infermi_chiesa_madre/9706X204.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/raffadali/chiesa_della_madonna_degli_infermi_chiesa_madre/9706X205.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Tellus
+	Katalognummer:	75
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	317
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	52
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Raffadali
+	Name:	Chiesa della Madonna degli Infermi ("Chiesa Madre")
+	Rechteinhaber der Fotos:	© Raffadali
+	Hat die Fotorechte:	1

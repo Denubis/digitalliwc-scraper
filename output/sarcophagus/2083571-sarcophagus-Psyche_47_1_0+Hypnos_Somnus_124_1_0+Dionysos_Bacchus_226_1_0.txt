@@ -1,0 +1,53 @@
+http://ark.dasch.swiss/ark:/72163/080e-745be5db9f1c4-3
+Psyche_47_1_0
+Hypnos/Somnus_124_1_0
+Dionysos/Bacchus_226_1_0
+
+
+
+Monument
+	ID:	13005
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dionysos/Bacchus Hypnos/Somnus Psyche
+	Beschreibung:	Bacchus in the centre of the thiasos, putting his arm around the shoulder of a nymph.
+Szene
+	ID:	13324
+	Beschreibung:	Bacchus in the centre of the thiasos, putting his arm around the shoulder of a nymph.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_rospigliosi_pallavicini/13324X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_rospigliosi_pallavicini/13324X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_rospigliosi_pallavicini/13324X003.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	47
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	124
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	226
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel IV 1, 59
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Rospigliosi Pallavicini
+	Rechteinhaber der Fotos:	© Palazzo Rospigliosi Pallavicini, Roma
+	Hat die Fotorechte:	1

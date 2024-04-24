@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-74b6f3df87be9-f
+Heros equitans (vol. VI)_349_0_0
+
+
+
+Monument
+	ID:	19438
+	Entdeckungsort:	Razgrad
+	Entdeckungsort Details:	tomb
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Heros equitans
+Szene
+	ID:	20344
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Heros equitans (vol. VI)
+	Katalognummer:	349
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	BG
+	Stadt:	Sveshtari
+	Name:	Tombeau thrace
+	Rechteinhaber der Fotos:	© Sveshtari
+	Hat die Fotorechte:	0

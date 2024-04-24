@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a6080bc3f8f-9
+Hesione (S)_56_0_0
+Mercurius_480_0_0
+
+
+
+Monument
+	ID:	157
+	Entdeckungsort:	Cologne
+	Objekt:	sarcophagus
+	Material:	limestone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hesione Mercurius
+	Beschreibung:	Herakles and Hesione or Alkestis.
+Szene
+	ID:	574
+	Beschreibung:	Herakles and Hesione or Alkestis.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Hesione (S)
+	Katalognummer:	56
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	480
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	DE
+	Stadt:	Köln
+	Rechteinhaber der Fotos:	© Köln
+	Hat die Fotorechte:	0

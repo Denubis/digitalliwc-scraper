@@ -1,0 +1,70 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d75ac300071-e
+Venus_360_0_0
+Amphitrite_69_1_0
+Nereides_419_0_0
+Poseidon/Neptunus_97_1_0
+
+
+
+Monument
+	ID:	3658
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	IX 2,27 (d)
+	Objekt:	mosaic
+	Material:	opus tessellatum
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	mosaic
+	Technik:	polychrome
+	Stichwort:	lyre chariot pipe, flute, aulos, tibiae ketos, sea monster sea
+	Name:	Amphitrite Eros Poseidon Triton Nereides Poseidon/Neptunus Venus
+	Beschreibung:	Neptunus and Salacia/Amphitrite in a char drawn by Tritones. Below, Venus or a Nereid with Amor riding a sea snake.
+	Bibliographie:	Pernice, E., Pavimente und figürliche Mosaiken (1938) 174-175; HBr Taf. 192; Schefold, WP 245; EAA I (1958) 391 s.v. Anfitrite Abb. 532.
+Datierung
+	Periode:	-40 
+	Kommentar:	um
+Szene
+	ID:	3695
+	Beschreibung:	Neptunus and Salacia/Amphitrite in a char drawn by Tritones. Below, Venus or a Nereid with Amor riding a sea snake.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/3695X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/3695X003.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Venus
+	Katalognummer:	360
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amphitrite
+	Katalognummer:	69
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Nereides
+	Katalognummer:	419
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Poseidon/Neptunus
+	Katalognummer:	97
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	10007
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

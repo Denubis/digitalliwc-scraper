@@ -1,0 +1,56 @@
+http://ark.dasch.swiss/ark:/72163/080e-760aecb6c6b5d-0
+Agyrtes_25_1_0
+Achilleus_145_0_0
+
+
+
+Monument
+	ID:	43403
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	trumpet, tuba, salpinx wet-nurse old man kneeling (hikesia, request, worship?)
+	Name:	Achilleus Agyrtes Diomedes I Odysseus Phoinix I Deidameia II
+	Beschreibung:	Fragment.
+	Bibliographie:	SarkRel II no. 30; Baratte, F., Un sarcophage d'Achille inédit, MélRome 86, 1974, 785 fig. 6.
+Datierung
+	Periode:	160 
+	Kommentar:	about
+Epoche
+	Name:	3. Viertel 2. Jh. n. Chr.
+	Periode:	150 - 175 
+	Sequenznummer:	3220
+Szene
+	ID:	45685
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/45685X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/45685X301.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Agyrtes
+	Katalognummer:	25
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	145
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 1368
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

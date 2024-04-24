@@ -1,0 +1,76 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d3e8b8b91fc-d
+Zodiacus_21_0_0
+Arkadia_1_1_0
+Telephos_19_0_0
+Rhea_16_0_0
+Herakles_p. 763_0_0
+Telephos (Suppl. 2009)_Supplement_0_0
+
+
+
+Monument
+	ID:	3417
+	Entdeckungsort:	Ercolano, Herculaneum, Herculanum
+	Entdeckungsort Details:	Basilica
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	lion hind eagle
+	Name:	Arkadia Herakles Telephos Rhea Zodiacus
+	Beschreibung:	The main figure of a large wall painting is Arkadia (or Rhea-Kybele?) who is enthroned on a rocky hillside. She wears chiton, coat and a wreath of flowers and holds a staff. To her right is a basket with grapes and pomegranates. Other depicted figures are Herakles and his son Telephos who is lactated by a hind. On the left the head of a young Pan is visible who wears an animal skin. Winged Virgo.
+	Bibliographie:	Gury, F., KölnJb 24, 1991, 97-103.
+Datierung
+	Periode:	69 - 96 
+Epoche
+	Name:	flavisch
+	Periode:	69 - 96 
+	Sequenznummer:	1180
+Szene
+	ID:	3452
+	Beschreibung:	The main figure of a large wall painting is Arkadia (or Rhea-Kybele?) who is enthroned on a rocky hillside. She wears chiton, coat and a wreath of flowers and holds a staff. To her right is a basket with grapes and pomegranates. Other depicted figures are Herakles and his son Telephos who is lactated by a hind. On the left the head of a young Pan is visible who wears an animal skin. Winged Virgo.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Zodiacus
+	Katalognummer:	21
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Arkadia
+	Katalognummer:	1
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Telephos
+	Katalognummer:	19
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Rhea
+	Katalognummer:	16
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	p. 763
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Telephos (Suppl. 2009)
+	Band:	Supplement
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9008
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

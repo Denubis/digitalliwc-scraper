@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ebb8a10ab40-6
+Herakles_ad 3263_0_0
+
+
+
+Monument
+	ID:	23149
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Herakles
+	Beschreibung:	Herakles with garland.
+Datierung
+	Periode:	150 
+Szene
+	ID:	24286
+	Beschreibung:	Herakles with garland.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	ad 3263
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel IV 4, 345
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	San Paolo fuori le Mura
+	Rechteinhaber der Fotos:	© Soprindentenza SPSAE e Polo Museale della Città di Roma
+	Hat die Fotorechte:	0

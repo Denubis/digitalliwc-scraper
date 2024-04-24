@@ -1,0 +1,83 @@
+http://ark.dasch.swiss/ark:/72163/080e-74021d934691c-6
+Roma (S)_165_1_0
+Aineias_167_0_0
+Aineias_180_0_0
+Askanios_17_0_0
+Latinus_7_0_0
+Lavinia_2_0_0
+
+
+
+Monument
+	ID:	6670
+	Entdeckungsort:	Torre Nova
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Rome
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	wedding sow gesture: dextrarum iunctio, dexiosis
+	Name:	Aineias Askanios Hymenaios Latinus Lavinia Roma Virtus
+	Beschreibung:	Fragmente: mit einer Ausnahme nur Unterteil der Figuren erhalten.V.l.n.r.: Virtus oder Roma, Ascanius, Aeneas beim Opfer der Muttersau, Virtus, Ascanius, Hymenaeus, dextrarum iunctio von Aeneas und Lavinia.
+	Bibliographie:	SarkRel III 3 564 Nr. 21; Rizzo, G. E., RM 21 (1906) 289-306 Taf. 13;Fittschen, K., RM 76 (1969) 332 Taf. 106, 2; Koch/Sichtermann, RömSark 134 mit Anm. 5.
+Datierung
+	Periode:	170 - 180 
+	Kommentar:	Musso
+Epoche
+	Name:	Jahr 1
+	Periode:	1 
+Datierung
+	Periode:	138 - 161 
+Epoche
+	Name:	antoninisch
+	Periode:	138 - 192 
+	Sequenznummer:	1210
+Szene
+	ID:	6809
+	Beschreibung:	Fragmente: mit einer Ausnahme nur Unterteil der Figuren erhalten.V.l.n.r.: Virtus oder Roma, Ascanius, Aeneas beim Opfer der Muttersau, Virtus, Ascanius, Hymenaeus, dextrarum iunctio von Aeneas und Lavinia.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Roma (S)
+	Katalognummer:	165
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aineias
+	Katalognummer:	167
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aineias
+	Katalognummer:	180
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Askanios
+	Katalognummer:	17
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Latinus
+	Katalognummer:	7
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Lavinia
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 3, 21
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Borghese
+	Direktor:	Direttore Dott.ssa Alba Costamagna
+	Anrede:	Gentile Dott.ssa Alba Costamagna,
+	Adresse:	Palazzo Scipione Borghese
+	Postleitzahl:	I-00197
+	Kontaktzenter:	Museo e Galleria Borghese
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Palazzo Borghese, Roma
+	Hat die Fotorechte:	1

@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-747487e55c6ab-9
+Nephthys_8_0_0
+Antaios (in Aegypto) (Suppl. 2009)_Supplement_2_0_1
+
+
+
+Monument
+	ID:	14740
+	Entdeckungsort:	Qau el-Kebir, Antaiopolis
+	Objekt:	wall painting
+	Herkunft:	Egypt
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	vine spear jewellery antilope
+	Name:	Antaios I Nephthys
+	Beschreibung:	Nephthys and Antaios
+	Bibliographie:	Golenitscheff, W., über zwei Darstellungen des Gottes Antaeus, ZäS 20, 1982, 137-145 pl. 4; Kiss, Z., Antaios et Kronos, IconogrCl, 333 fig. 2; Bailey, D., Antaios. An Egyptian God in Roman Egypt: Extracting an Iconography, in: Akti VIII. Medurodnog Kolokvija o Problemima Rimskog Provincijalnog Umietnickog Stvaralastva (2003) 392-393 fig. 4. 
+Datierung
+	Periode:	100 - 150 
+Epoche
+	Name:	1. Hälfte 2. Jh. n. Chr.
+	Periode:	100 - 150 
+	Sequenznummer:	3180
+Szene
+	ID:	15206
+	Beschreibung:	Nephthys and Antaios
+Catalog LIMC
+	Artikel:	Nephthys
+	Katalognummer:	8
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Antaios (in Aegypto) (Suppl. 2009)
+	Band:	Supplement
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	EG
+	Stadt:	Qau el-Kebir (Antaiopolis), environs de
+	Rechteinhaber der Fotos:	© Qau el-Kebir
+	Hat die Fotorechte:	0

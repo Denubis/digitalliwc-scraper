@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-755d0922d4c8e-4
+Dionysos/Bacchus (in per. occ.) (vol. IV)_165_0_0
+Dionysos/Bacchus_238_0_0
+
+
+
+Monument
+	ID:	31139
+	Entdeckungsort:	Skikda, Sukaikida, Philippeville (Algerien)
+	Objekt:	sarcophagus lid
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dionysos/Bacchus
+Szene
+	ID:	32656
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus (in per. occ.) (vol. IV)
+	Katalognummer:	165
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	50454
+	Szenerieangabe:	couvercle
+	Sequenznummer:	20
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	238
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	DZ
+	Stadt:	Skikda
+	Name:	Musée
+	Rechteinhaber der Fotos:	© Musée Skikda
+	Hat die Fotorechte:	1

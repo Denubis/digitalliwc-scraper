@@ -1,0 +1,27 @@
+http://ark.dasch.swiss/ark:/72163/080e-747d05e3129c5-b
+Nereides_214b_0_0
+
+
+
+Monument
+	ID:	15340
+	Entdeckungsort:	Boscoreale
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Nereides
+Szene
+	ID:	15831
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Nereides
+	Katalognummer:	214b
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Boscoreale
+	Rechteinhaber der Fotos:	© Boscoreale
+	Hat die Fotorechte:	1

@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-75b8973f9a0a2-e
+Dioskouroi/Castores_156_0_0
+
+
+
+Monument
+	ID:	37604
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dioskouroi/Castores
+Szene
+	ID:	39520
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Dioskouroi/Castores
+	Katalognummer:	156
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 2, 186
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Wolkonsky
+	Rechteinhaber der Fotos:	© Villa Wolkonsky, Roma
+	Hat die Fotorechte:	1

@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-76a2b2663acb5-6
+Hippolytos I, Add._0_0
+Hippolytos I, Add._0_0
+
+
+
+Monument
+	ID:	201474
+	Entdeckungsort:	
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Sicily
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	club spear stick, cane lionskin athlete discus (sport)
+	Name:	Herakles Hippolytos I Phaidra Theseus
+	Grössenangabe:	H: 0,68 m; L: 2,17 m; T: 0,65 m
+	Beschreibung:	römischer Marmorsarkophag mit Reliefs auf drei Seiten. Die Hauptseite ist in byzantinischer Zeit vollständig überarbeitet worden. l.Ns.: Links steht eine Frau (Phaedra), die ihren Kopf auf ihre Hand aufstützt. Rechts steht ein bis auf den zurückgeworfenen Mantel unbekleideter Mann (Herakles) mit Keule und Löwenfell über dem Kopf, der sich mit der linken auf einen Speer stützt und mit der Rechten den geneigten Kopf hält. Mittig befindet sich ein bärtiger älterer Mann, ebenfalls mit Keule (Theseus), zwischen den Männern ist ein Hund zu erkennen. r.Ns.: Zwei nackte Männer (Athleten), von denen der linke einen Diskus und einen Stab in der Hand hält. Der Vergleich mit einem attischen Sarkophag aus Apollonia (vgl. LIMC Hippolytos Add. 81) legt nahe, dass es sich dabei um Hippolytos handelt. 
+	Bibliographie:	Tusa, V., I sarcofagi romani in Sicilia (2) (1995) 42-43 no. 42 pl. 63-64; Linant de Bellefonds, P., Hippolyte à la palestre et Phèdre méditative?  Notes sur quelques reliefs de sarcophage, in: Agathos daimon. Mythes et cultes. Edutes d'iconographie en l'honneur de Lilly Kahil, BCH Supppl.38 (2000) 311-320; Turcan, R., Etudes d'archéologie sépulcrale (2003) 335.
+Datierung
+	Periode:	140 - 160 
+Epoche
+	Name:	Mitte 2. Jh. n. Chr.
+	Periode:	140 - 160 
+	Sequenznummer:	3160
+Szene
+	ID:	98443
+	Beschreibung:	römischer Marmorsarkophag mit Reliefs auf drei Seiten. Die Hauptseite ist in byzantinischer Zeit vollständig überarbeitet worden. l.Ns.: Links steht eine Frau (Phaedra), die ihren Kopf auf ihre Hand aufstützt. Rechts steht ein bis auf den zurückgeworfenen Mantel unbekleideter Mann (Herakles) mit Keule und Löwenfell über dem Kopf, der sich mit der linken auf einen Speer stützt und mit der Rechten den geneigten Kopf hält. Mittig befindet sich ein bärtiger älterer Mann, ebenfalls mit Keule (Theseus), zwischen den Männern ist ein Hund zu erkennen. r.Ns.: Zwei nackte Männer (Athleten), von denen der linke einen Diskus und einen Stab in der Hand hält. Der Vergleich mit einem attischen Sarkophag aus Apollonia (vgl. LIMC Hippolytos Add. 81) legt nahe, dass es sich dabei um Hippolytos handelt.
+Catalog LIMC
+	Artikel:	Hippolytos I, Add.
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippolytos I, Add.
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	A 246
+Museum
+	Land:	IT
+	Stadt:	Messina
+	Name:	Museo Regionale
+	Direktor:	Dott.ssa Carmela Di Bartolo
+	Adresse:	Viale della Libertà 465
+	Postleitzahl:	I-98121
+	Kontaktzenter:	Museo Regionale - Archivio Fotografico e Documentazione
+	Stadt des Kontaktzenters:	Messina
+	Rechteinhaber der Fotos:	© Museo Regionale, Messina
+	Hat die Fotorechte:	0

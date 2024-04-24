@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-74046ad270a01-c
+Planetae (S)_27_0_0
+Zodiacus_5_0_0
+
+
+
+Monument
+	ID:	6834
+	Entdeckungsort:	Dakhla
+	Entdeckungsort Details:	tomb
+	Objekt:	wall painting
+	Herkunft:	Egypt
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Zodiacus Planetae
+	Beschreibung:	Depiction of the Zodiacus and the busts of Planetae on the ceiling in the Tomb of Petosiris.
+Datierung
+	Periode:	100 - 200 
+Szene
+	ID:	6980
+	Beschreibung:	Depiction of the Zodiacus and the busts of Planetae on the ceiling in the Tomb of Petosiris.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Planetae (S)
+	Katalognummer:	27
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Zodiacus
+	Katalognummer:	5
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	EG
+	Stadt:	Dakhleh
+	Name:	Tombeau de Pétosiris
+	Rechteinhaber der Fotos:	© Dakhleh
+	Hat die Fotorechte:	0

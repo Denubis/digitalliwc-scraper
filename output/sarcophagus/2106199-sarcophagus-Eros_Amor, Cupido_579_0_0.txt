@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-759f66793eab8-7
+Eros/Amor, Cupido_579_0_0
+
+
+
+Monument
+	ID:	35823
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido
+Szene
+	ID:	37659
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	579
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Barberini
+	Rechteinhaber der Fotos:	© Palazzo Barberini, Roma
+	Hat die Fotorechte:	1

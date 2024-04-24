@@ -1,0 +1,51 @@
+http://ark.dasch.swiss/ark:/72163/080e-761e2e9f7c6ec-5
+Aithiopes_42_1_0
+
+
+
+Monument
+	ID:	44769
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	maenad black (people)
+	Name:	Aithiopes
+	Beschreibung:	Fragment. A young black man and a maenad from a scene relating to the Indian triumph of Bacchus.
+	Bibliographie:	McCann, A. M., Two Fragments of Sarcophagi in the Metropolitan Musem of Art Illustrating the Indian Triumph of Dionysus, JWaLt (Essays in Honor of Dorothy Kent Hill) 36, 1977, 123-136 fig. 1-3.
+	Museums-URL:	http://www.metmuseum.org/art/collection/search/252955
+Datierung
+	Periode:	200 - 225 
+Epoche
+	Name:	1. Viertel 3. Jh. n. Chr.
+	Periode:	200 - 225 
+	Sequenznummer:	3340
+Szene
+	ID:	47104
+	Beschreibung:	A young black man and a maenad from a scene relating to the Indian triumph of Bacchus.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/new_york/metropolitan_museum_of_art/47104X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Aithiopes
+	Katalognummer:	42
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	28.57.3
+Museum
+	Land:	US
+	Stadt:	New York
+	Name:	Metropolitan Museum of Art
+	Direktor:	Eileen Sullivan, Assistant Museum Librarian
+	Anrede:	Dear Ms Sullivan,
+	Adresse:	1000 Fifth Avenue at 82nd Street
+	Postleitzahl:	USA-
+	Kontaktzenter:	The Metropolitan Museum of Art                          The Photograph Library
+	Stadt des Kontaktzenters:	New York, NY 10028-0198
+	Rechteinhaber der Fotos:	© Metropolitan Museum of Art
+	Hat die Fotorechte:	1

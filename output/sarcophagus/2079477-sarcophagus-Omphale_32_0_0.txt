@@ -1,0 +1,31 @@
+http://ark.dasch.swiss/ark:/72163/080e-74215e27bad4e-3
+Omphale_32_0_0
+
+
+
+Monument
+	ID:	8876
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Omphale 
+	Beschreibung:	Herakles drunk, with Ariadne asleep and Cupid and Psyche.
+Szene
+	ID:	9078
+	Beschreibung:	Herakles drunk, with Ariadne asleep and Cupid and Psyche.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Omphale
+	Katalognummer:	32
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	116
+Museum
+	Land:	NO
+	Stadt:	Oslo
+	Name:	Nasjonalgalleriet
+	Rechteinhaber der Fotos:	© Nasjonalgalleriet Oslo
+	Hat die Fotorechte:	1

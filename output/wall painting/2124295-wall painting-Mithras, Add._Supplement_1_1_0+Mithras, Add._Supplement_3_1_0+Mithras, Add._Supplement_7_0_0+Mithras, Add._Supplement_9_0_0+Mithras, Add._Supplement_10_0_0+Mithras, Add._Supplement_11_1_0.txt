@@ -1,0 +1,92 @@
+http://ark.dasch.swiss/ark:/72163/080e-76a21c57bc028-a
+Mithras, Add._Supplement_1_1_0
+Mithras, Add._Supplement_3_1_0
+Mithras, Add._Supplement_7_0_0
+Mithras, Add._Supplement_9_0_0
+Mithras, Add._Supplement_10_0_0
+Mithras, Add._Supplement_11_1_0
+
+
+
+Monument
+	ID:	201001
+	Entdeckungsort:	Huarté, Hawarte, Hawarti (Syria)
+	Entdeckungsort Details:	Mithraeum Aldobrandini
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	snake Phrygian cap
+	Name:	Mithras
+	Beschreibung:	Mithras, young, nude, with phrygian cap in his hand; emerging from a rock; snake; next to this depiction another one showing Mithras, nude, on the feet of a cypress; phrygian cap on a branch
+	Bibliographie:	Gawlikowski, M., PAM 10 (1999) 202. 269; Gawlikoski, M., Un nouveau mithraeum récemment découvert à Huarté près d'Apamée, CRAI 2000, 161-171; Gawlikowski, M., Le mithraeum de Haouarte (Apaméne), Topoi 11/1, 2001, 190. 192-193 fig. 1. 6. 8.
+Datierung
+	Periode:	350 - 400 
+Epoche
+	Name:	2. Hälfte 4. Jh. n. Chr.
+	Periode:	350 - 400 
+	Sequenznummer:	3470
+Szene
+	ID:	97841
+	Beschreibung:	Mithras, young, nude, with phrygian cap in his hand; emerging from a rock; snake; next to this depiction another one showing Mithras, nude, on the feet of a cypress; phrygian cap on a branch
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	55
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Mithraeum
+	Lemata:	Mithraeum
+	Sequenznummer:	3780
+	Bandnummer:	4
+Catalog LIMC
+	Artikel:	Mithras, Add.
+	Band:	Supplement
+	Katalognummer:	1
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mithras, Add.
+	Band:	Supplement
+	Katalognummer:	3
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mithras, Add.
+	Band:	Supplement
+	Katalognummer:	7
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mithras, Add.
+	Band:	Supplement
+	Katalognummer:	9
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mithras, Add.
+	Band:	Supplement
+	Katalognummer:	10
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mithras, Add.
+	Band:	Supplement
+	Katalognummer:	11
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	SY
+	Stadt:	Hawarte (Huarté, Syrie)
+	Name:	Mithraeum
+	Rechteinhaber der Fotos:	© Hawarte
+	Hat die Fotorechte:	1

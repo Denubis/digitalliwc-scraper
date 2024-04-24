@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-742de7e72712f-1
+Orpheus_164d_0_0
+
+
+
+Monument
+	ID:	9765
+	Entdeckungsort:	Rome
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Orpheus
+Szene
+	ID:	49175
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/catacomba_di_domitilla/49175X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Orpheus
+	Katalognummer:	164d
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Cub. 31
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Catacomba di Domitilla
+	Rechteinhaber der Fotos:	© Catacomba di Domitilla, Roma
+	Hat die Fotorechte:	0

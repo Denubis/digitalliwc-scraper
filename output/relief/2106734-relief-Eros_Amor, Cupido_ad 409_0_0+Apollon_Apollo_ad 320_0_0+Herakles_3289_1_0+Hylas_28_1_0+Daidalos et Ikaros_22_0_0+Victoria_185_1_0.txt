@@ -1,0 +1,79 @@
+http://ark.dasch.swiss/ark:/72163/080e-75a70c878f96b-7
+Eros/Amor, Cupido_ad 409_0_0
+Apollon/Apollo_ad 320_0_0
+Herakles_3289_1_0
+Hylas_28_1_0
+Daidalos et Ikaros_22_0_0
+Victoria_185_1_0
+
+
+
+Monument
+	ID:	36365
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 1,8
+	Objekt:	relief
+	Material:	stucco
+	Land:	CH
+	Kategorie:	stuccowork
+	Name:	Daidalos and Ikaros Ikaros Herakles Hylas Eros/Amor, Cupido Victoria
+	Beschreibung:	Daidalos, bearded and wearing tunic, seated, working on wing which is held erect on a tall block between his knees. Ikaros, frontal, wears cloak over his shoulders, with left wing already attached. In another scene Herakles with drinking horn faces a child satyr with torch. In another scene Hylas, with chlamys, two spears and jug, moving left to draw water. On the right a crouching nymph reaching out to grab Hylas. On the left are two nymphs. Victoria seated, holding the flapper of a dolphin.
+Datierung
+	Periode:	50 
+Szene
+	ID:	38238
+	Beschreibung:	Daidalos, bearded and wearing tunic, seated, working on wing which is held erect on a tall block between his knees. Ikaros, frontal, wears cloak over his shoulders, with left wing already attached. In another scene Herakles with drinking horn faces a child satyr with torch. In another scene Hylas, with chlamys, two spears and jug, moving left to draw water. On the right a crouching nymph reaching out to grab Hylas. On the left are two nymphs. Victoria seated, holding the flapper of a dolphin.
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/38238X006.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 409
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	ad 320
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	3289
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hylas
+	Katalognummer:	28
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Daidalos et Ikaros
+	Katalognummer:	22
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Victoria
+	Katalognummer:	185
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VII 1,8
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Terme Stabiane

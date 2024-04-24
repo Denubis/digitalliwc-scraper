@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-767ba38121a59-1
+
+
+
+Monument
+	ID:	54811
+	Entdeckungsort:	Pompei
+	Objekt:	porticus
+	Land:	CH
+	Kategorie:	architecture
+	Beschreibung:	Forum, building of Eumachia, porticus; place for the worshipper and for the placement of votive offerings
+Szene
+	ID:	60251
+	Beschreibung:	Forum, building of Eumachia, porticus; place for the worshipper and for the placement of votive offerings
+Catalog Thes CRA
+	Indexnummer:	19
+	Asterix:	0
+	Dot:	1
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Porticus, Rom.
+	Lemata:	Porticus, Rom.
+	Sequenznummer:	3934
+	Bandnummer:	4
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Edificio di Eumachia
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Foro
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

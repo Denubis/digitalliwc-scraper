@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-74edbcad6d8c1-1
+Hypnos/Somnus_69_0_0
+Endymion_58_1_0
+
+
+
+Monument
+	ID:	23291
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Endymion Hypnos/Somnus
+Szene
+	ID:	24433
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/cimitile/basilica_di_san_felice/24433X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	69
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	58
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Cimitile
+	Name:	Basilica di San Felice
+	Rechteinhaber der Fotos:	© Basilica di San Felice, Cimitile
+	Hat die Fotorechte:	0

@@ -1,0 +1,55 @@
+http://ark.dasch.swiss/ark:/72163/080e-74c743d6d32f2-7
+Iphigeneia_79_1_0
+
+
+
+Monument
+	ID:	20583
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Via Salaria
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	altar sword shield fire (on altar) tree cult image, cult statue human sacrifice
+	Name:	Iphigeneia
+	Beschreibung:	Iphigeneia in Tauris.An einem Baum hängende Köpfe von geopferten Kriegern.
+	Bibliographie:	Helbig(4) III Nr. 2137;Sichtermann/Koch, MythSark Nr. 54 Taf. 133-134.
+	Monument-URL:	http://www.limc-france.fr/objet/13671
+Szene
+	ID:	21496
+	Szenerieangabe:	couvercle
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/21496X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/21496X303.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/21496X399.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Iphigeneia
+	Katalognummer:	79
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	106467
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Romano
+	Direktor:	Soprintendente Dott. Giuseppe Proietti
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali - Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

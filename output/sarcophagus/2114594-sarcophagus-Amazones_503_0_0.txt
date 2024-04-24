@@ -1,0 +1,48 @@
+http://ark.dasch.swiss/ark:/72163/080e-76176b7b61def-8
+Amazones_503_0_0
+
+
+
+Monument
+	ID:	44295
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	shield bow horse Amazon archer fight, battle rider
+	Name:	Amazones
+	Beschreibung:	Fragment.
+	Bibliographie:	SarkRel II pl. 30 no. 71; Kallipolitis, B. G., Χρονολογικη κατα ταξις...(1958) no. 18;  Giuliano, A., Il commercio dei sarcofagi attici (1962) 59 no. 366.
+Datierung
+	Periode:	160 
+	Kommentar:	about
+Epoche
+	Name:	3. Viertel 2. Jh. n. Chr.
+	Periode:	150 - 175 
+	Sequenznummer:	3220
+Szene
+	ID:	46581
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/46581X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	503
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	6674
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-75139f7589203-9
+Gorgones Romanae_10_1_0
+
+
+
+Monument
+	ID:	25966
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	V 2,1 (Casa della Regina Margherita)
+	Objekt:	mosaic
+	Land:	CH
+	Kategorie:	mosaic
+	Name:	Gorgo, Gorgones
+	Beschreibung:	Landscapes; in the centre gorgoneion.
+Szene
+	ID:	27265
+	Beschreibung:	Landscapes; in the centre gorgoneion.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/27265X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Gorgones Romanae
+	Katalognummer:	10
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	112284
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

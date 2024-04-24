@@ -1,0 +1,102 @@
+http://ark.dasch.swiss/ark:/72163/080e-73bffacbe2742-1
+Zeus/Iuppiter_333_0_0
+Eridanos I_3_1_0
+Phaethon I_15_0_0
+Helios/Sol_179_0_0
+Ouranos_9a_0_0
+Tellus_79_0_0
+Helios/Sol_347b_0_0
+Dioskouroi/Castores_163_0_0
+
+
+
+Monument
+	ID:	2014
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eridanos I Phaethon I Ouranos Helios/Sol Tellus Dioskouroi/Castores Zeus/Iuppiter
+	Beschreibung:	Phaethon (I) falling down into Eridanos (I). Swan. The Dioskouroi, the Heliades, the Winds, Helios/Sol, Thalassa, Ge and Ouranos watch the scene. On the short sides Sol and Luna in chariots.
+Szene
+	ID:	1967
+	Beschreibung:	Phaethon (I) falling down into Eridanos (I). Swan. The Dioskouroi, the Heliades, the Winds, Helios, Thalassa, Ge and Ouranos watch the scene.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_borghese_museo_e_galleria_borghese/1967X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_borghese_museo_e_galleria_borghese/1967X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_borghese_museo_e_galleria_borghese/1967X203.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_borghese_museo_e_galleria_borghese/1967X301.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_borghese_museo_e_galleria_borghese/1967X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_borghese_museo_e_galleria_borghese/1967X303.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_borghese_museo_e_galleria_borghese/1967X304.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_borghese_museo_e_galleria_borghese/1967X308.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	333
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eridanos I
+	Katalognummer:	3
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Phaethon I
+	Katalognummer:	15
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	179
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ouranos
+	Katalognummer:	9a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Tellus
+	Katalognummer:	79
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	347b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dioskouroi/Castores
+	Katalognummer:	163
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 3, 338
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Borghese (Museo e Galleria Borghese)
+	Direktor:	Soprintendente Prof. Claudio Strinati
+	Adresse:	Piazza San Marco 49
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza Speciale del Polo Museale Romano
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza Speciale del Polo Museale Romano
+	Hat die Fotorechte:	1

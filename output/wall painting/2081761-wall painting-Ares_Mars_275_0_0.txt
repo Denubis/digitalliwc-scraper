@@ -1,0 +1,27 @@
+http://ark.dasch.swiss/ark:/72163/080e-74420568326ea-e
+Ares/Mars_275_0_0
+
+
+
+Monument
+	ID:	11185
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+Szene
+	ID:	11455
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Ares/Mars
+	Katalognummer:	275
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	LY
+	Stadt:	Zliten
+	Name:	Villa romaine
+	Rechteinhaber der Fotos:	© Villa romaine, Zliten
+	Kommentar:	Voir aussi Tripoli (Libye), Musée.
+	Hat die Fotorechte:	1

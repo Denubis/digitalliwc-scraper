@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-742780428586f-6
+Tellus_24_1_0
+
+
+
+Monument
+	ID:	9308
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Tellus
+Szene
+	ID:	9511
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Tellus
+	Katalognummer:	24
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	A 3680
+Museum
+	Land:	BE
+	Stadt:	Bruxelles
+	Name:	Musées Royaux d'Art et d'Histoire
+	Direktor:	Mme. le Prof. Cécile Evers, Conservateur Ant. étrusques et romaines 
+	Anrede:	Monsieur le Professeur,
+	Adresse:	Parc du Cinquantenaire 10
+	Postleitzahl:	B-1000
+	Kontaktzenter:	Musées Royaux d'Art et d'Histoire - Département Antiquités grecques et romaines
+	Stadt des Kontaktzenters:	Bruxelles
+	Rechteinhaber der Fotos:	© Musées Royaux d'Art et d'Histoire, Bruxelles
+	Hat die Fotorechte:	0

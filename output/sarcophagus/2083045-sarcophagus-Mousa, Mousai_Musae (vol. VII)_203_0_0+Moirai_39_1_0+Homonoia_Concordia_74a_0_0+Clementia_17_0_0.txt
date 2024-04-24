@@ -1,0 +1,72 @@
+http://ark.dasch.swiss/ark:/72163/080e-745460bdc16fe-8
+Mousa, Mousai/Musae (vol. VII)_203_0_0
+Moirai_39_1_0
+Homonoia/Concordia_74a_0_0
+Clementia_17_0_0
+
+
+
+Monument
+	ID:	12477
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Name:	Homonoia/Concordia Moirai Mousa, Mousai
+	Beschreibung:	Within different scenes from the life of a Roman a sacrificial scene
+	Bibliographie:	Feinblatt, E., BdA 37, 1952 193-203 fig. 3; Mansuelli, G. A., Galleria degli Uffizi. Le sculture 1, 235-236 n. 253.
+Szene
+	ID:	12778
+	Beschreibung:	Within different scenes from the life of a Roman a sacrificial scene
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/12778X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/12778X101.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	218
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 2.a. Opfer, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	220
+	Bandnummer:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	203
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Moirai
+	Katalognummer:	39
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Homonoia/Concordia
+	Katalognummer:	74a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Clementia
+	Katalognummer:	17
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	82
+Museum
+	Land:	IT
+	Stadt:	Firenze
+	Name:	Galleria degli Uffizi
+	Adresse:	Via della Ninna 5
+	Postleitzahl:	I-50122
+	Kontaktzenter:	Soprintendenza Speciale per il Polo Museale Fiorentino
+	Stadt des Kontaktzenters:	Firenze
+	Rechteinhaber der Fotos:	Su concessione del Ministero dei beni e delle attività culturali e del turismo
+	Hat die Fotorechte:	1

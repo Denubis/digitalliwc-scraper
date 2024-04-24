@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-74f84d5b48070-0
+Kairoi/Tempora anni_164_1_0
+
+
+
+Monument
+	ID:	24041
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kairoi/Tempora anni
+	Beschreibung:	Clipeus with the portrait of the deceased held by two Genii. Below, two cornucopiae. The secene is framed by the Seasons.
+Datierung
+	Periode:	280 
+Szene
+	ID:	25223
+	Beschreibung:	Clipeus with the portrait of the deceased held by two Genii. Below, two cornucopiae. The secene is framed by the Seasons.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_doria_pamphilj/25223X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	164
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Calza 256
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Doria Pamphilj
+	Rechteinhaber der Fotos:	© Villa Doria Pamphilj, Roma
+	Kommentar:	Numéros d'après Calza, R. (éd.), Antichità di Villa Doria Pamphilj (1977).
+	Hat die Fotorechte:	1

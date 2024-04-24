@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-745bc1423b812-8
+Psyche_34_0_0
+
+
+
+Monument
+	ID:	12995
+	Entdeckungsort:	Athens
+	Entdeckungsort Details:	Agora
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Psyche
+Szene
+	ID:	13313
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	34
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	GR
+	Stadt:	Athens
+	Name:	Agora
+	Direktor:	Director Prof. John Camp
+	Adresse:	Odos Souidias 54
+	Postleitzahl:	GR-106 76
+	Kontaktzenter:	American School of Classical Studies Agora Excavations
+	Stadt des Kontaktzenters:	Athènes
+	Rechteinhaber der Fotos:	© American School of Classical Studies Agora Excavations
+	Hat die Fotorechte:	1

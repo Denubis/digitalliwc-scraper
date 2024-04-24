@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-76170c52f87ed-7
+Amazones_484_0_0
+
+
+
+Monument
+	ID:	44260
+	Entdeckungsort:	Cologne
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	shield axe, hatchet, pelekys, sacena, securis horse Amazon fight, battle rider
+	Name:	Amazones
+	Bibliographie:	Blanchet, A., Etude sur la décoration des édifices de la Gaule roaine (1913) 3-37 fig. 7.
+Szene
+	ID:	46544
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	484
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	DE
+	Stadt:	Bonn
+	Name:	LVR-LandesMuseum
+	Direktor:	Fotoabteilung
+	Adresse:	Bachstrasse 5-9
+	Postleitzahl:	D-53115
+	Kontaktzenter:	LVR-LandesMuseum
+	Stadt des Kontaktzenters:	Bonn
+	Rechteinhaber der Fotos:	© LVR-LandesMuseum / Landschaftsverband Rheinland
+	Kommentar:	Dir. Dr. Gabriela Uelsberg
+	Hat die Fotorechte:	1

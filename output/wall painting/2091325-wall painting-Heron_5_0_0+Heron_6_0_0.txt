@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-74cac0dbeb2b6-3
+Heron_5_0_0
+Heron_6_0_0
+
+
+
+Monument
+	ID:	20827
+	Objekt:	wall painting
+	Herkunft:	Egypt
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Heron
+Szene
+	ID:	21745
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Heron
+	Katalognummer:	5
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Heron
+	Katalognummer:	6
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	EG
+	Stadt:	Magdola (Medinet an-Nahas)
+	Name:	Temple du dieu Héron
+	Rechteinhaber der Fotos:	© Medinet an-Nahas
+	Hat die Fotorechte:	0

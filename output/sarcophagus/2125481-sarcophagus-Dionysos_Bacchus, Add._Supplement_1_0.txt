@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-76b3110147ad2-3
+Dionysos/Bacchus, Add._Supplement_1_0
+
+
+
+Monument
+	ID:	202300
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Beschreibung:	young Bacchus holding a thyrsos staff and looking to the right; satyr; two herms of satyrs framing the scene
+	Bibliographie:	SarkRel IV 4, 480 n° 310 pl. 313, 2; Walker, S., Cat. of Roman Sarcophagi in the BM, CSIR GB II, 2 (1990) 25 n° 20 pl. 8.
+	Museums-URL:	http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=459903&partId=1&searchText=1805,0703.124&from=bc&fromDate=800&to=ad&toDate=400&page=1
+Datierung
+	Periode:	200 - 300 
+Epoche
+	Name:	3. Jh. n. Chr.
+	Periode:	200 - 300 
+	Sequenznummer:	3280
+Szene
+	ID:	99297
+	Beschreibung:	young Bacchus holding a thyrsos staff and looking to the right; satyr; two herms of satyrs framing the scene
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus, Add.
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	1805.7-3.124
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	British Museum
+	Direktor:	Dr. Charles Arnold
+	Adresse:	Great Russell Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	British Museum - Greek and Roman Antiquities
+	Stadt des Kontaktzenters:	London WC 1B 3DG
+	Rechteinhaber der Fotos:	© British Museum, London
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2311

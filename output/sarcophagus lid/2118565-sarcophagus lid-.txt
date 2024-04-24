@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-76503103c9cbe-f
+
+
+
+Monument
+	ID:	51587
+	Objekt:	sarcophagus lid
+	Land:	CH
+	Kategorie:	relief
+	Beschreibung:	procession to the right: preserved are the wings of an Eros or of a Victoria; two lictors; a chariot pulled by mules; on the chariot two magistrates, a carrier with a conic cult image; in the background a porticus or a temple
+	Bibliographie:	Himmelmann, N., Typologische Untersuchungen an römischen Sarkophagreliefs des 3. und 4. Jahrhunderts n. Chr. (1973) 38 ss. pl. 58.
+Szene
+	ID:	56767
+	Beschreibung:	procession to the right: preserved are the wings of an Eros or of a Victoria; two lictors; a chariot pulled by mules; on the chariot two magistrates, a carrier with a conic cult image; in the background a porticus or a temple
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	133
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 1. Prozessionen, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	100
+	Bandnummer:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	225
+Museum
+	Land:	IT
+	Stadt:	Aquileia
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Soprintendente Dott.ssa Franca Maselli Scotti
+	Adresse:	Piazza della Libertà 72
+	Postleitzahl:	I-34132
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici del Friuli Venezia Giulia
+	Stadt des Kontaktzenters:	Trieste
+	Rechteinhaber der Fotos:	© Polo Museale del Friuli Venezia Giulia
+	Kommentar:	Les objets sans numéro d'inventaire sont cités d'après les numéros des catalogues de Sena Chiesa, G., Gemme del Museo Nazionale di Aquileia (1966)  et de Santa Maria Scrinari, V., Museo Archeologico di Aquileia. Catalogo delle sculture romane (1972).
+	Hat die Fotorechte:	1

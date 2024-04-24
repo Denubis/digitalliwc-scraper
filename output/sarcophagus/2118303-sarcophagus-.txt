@@ -1,0 +1,100 @@
+http://ark.dasch.swiss/ark:/72163/080e-764c721dcb520-3
+
+
+
+Monument
+	ID:	51304
+	Entdeckungsort:	Chiusi, Camars, Clevsin, Clusium
+	Objekt:	sarcophagus
+	Material:	pietra fetida
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	relief
+	Beschreibung:	Sarkophag mit Reliefs an Lang- und Schmalseite. Schmalseite, Darstellung eines Stieropfers: Auf dem bereits brennenden Altar steht an der Seite ein thymiaterion (Variante von Zacc. Typ E, s. 392). Rechts zum Altar hin führen drei Personen einen Stier. Von links kommen ebenfalls drei Männer herbei. Alle halten die Linke betend erhoben und in der vor dem Bauch gesenkten Rechten ein Opfermesser (ID 51304). Langseite: Bankettszene mit fünf Klinen mit je zwei lagernden Personen (Männer und Silenen). Ganz links drei Frauen in langen Gewändern mit erhobenen Armen (Tänzerinnen); auf der ersten Kline zwei Musiker mit kithara und Doppelaulos; neben der Kline ein Diener mit erhobener Linken, in der rechten einen Gegenstand tragend (?); auf der zweiten Kline zwei Silene, von denen der rechte eine Zange und einen Stab hält, den er in das Feuer auf dem Opferaltar hält; hinter der Kline ein weiterer Diener. Die Kline in der Mitte trägt verschiedene Gefäße (Weinkannen?), vor ihr ein Schemel mit großer Amphora, links neben ihr ein Altar mit thymiaterion darauf (und brennendem Feuer). Ein Diener mit Messer und ??? geht auf die vierte Kline zu, auf der ihm einer der beiden Lagernden seine Schale entgegenstreckt; zwischen den Klinen ein aulet, zwei weitere Diener stehen hinter und neben der fünften Kline. Unter den Klinen ein Hund und zwei Vögel, ein weiterer fliegt über der mittleren Kline 
+	Bibliographie:	Paribeni, E., StEtr 12, 1938, 135 n. 206 a; Briquet,  M. F., MEFRA 84, 1972, 863 figg. 11-13;  Jannot, R., Les reliefs archaïques de Chiusi (1984) 23 n. 5 figg. 105-107; Ambrosini 74 Abb. 6.
+Datierung
+	Periode:	-610 - -590 
+Epoche
+	Name:	um 600 v. Chr.
+	Periode:	-610 - -590 
+	Sequenznummer:	2140
+Szene
+	ID:	56477
+	Szenerieangabe:	face principale
+	Beschreibung:	Bankettszene mit fünf Klinen mit je zwei lagernden Personen (Männer und Silenen). Ganz links drei Frauen in langen Gewändern mit erhobenen Armen (Tänzerinnen); auf der ersten Kline zwei Musiker mit kithara und Doppelaulos; neben der Kline ein Diener mit erhobener Linken, in der rechten einen Gegenstand tragend (?); auf der zweiten Kline zwei Silene, von denen der rechte eine Zange und einen Stab hält, den er in das Feuer auf dem Opferaltar hält; hinter der Kline ein weiterer Diener. Die Kline in der Mitte trägt verschiedene Gefäße (Weinkannen?), vor ihr ein Schemel mit großer Amphora, links neben ihr ein Altar mit thymiaterion darauf (und brennendem Feuer). Ein Diener mit Messer und ??? geht auf die vierte Kline zu, auf der ihm einer der beiden Lagernden seine Schale entgegenstreckt; zwischen den Klinen ein aulet, zwei weitere Diener stehen hinter und neben der fünften Kline. Unter den Klinen ein Hund und zwei Vögel, ein weiterer fliegt über der mittleren Kline. 
+	Stichwort:	altar jug knife fire (on altar) amphora kithara dance cup kline, bed pipe, flute, aulos, tibiae dog piper, fluteplayer, auletes, tibicen thymiaterion, turibulum, incense-burner servant banquet, symposium satyr, silen bird tongs
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	214
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 2.a. Opfer, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	200
+	Bandnummer:	1
+Catalog Thes CRA
+	Indexnummer:	421
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Catalog Thes CRA
+	Indexnummer:	345
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	100372
+	Szenerieangabe:	côté postérieur
+	Beschreibung:	Schmalseite des Sarkophags (Langseite = Louvre MA 3610.), Darstellung eines Stieropfers: Auf dem bereits brennenden Altar steht an der Seite ein thymiaterion (Variante von Zacc. Typ E, s. 392). Rechts zum Altar hin führen drei Personen einen Stier. Von links kommen ebenfalls drei Männer herbei. Alle halten die Linke betend erhoben und in der vor dem Bauch gesenkten Rechten ein Opfermesser (ID 51304)
+	Stichwort:	altar knife fire (on altar) bull sacrifice sacrificial animal thymiaterion, turibulum, incense-burner
+Catalog Thes CRA
+	Indexnummer:	13
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	21
+	Name:	III. 6.b. Gebet, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	2200
+	Bandnummer:	3
+Catalog Thes CRA
+	Indexnummer:	52
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA
+	Indexnummer:	10
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 1. Prozessionen, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	90
+	Bandnummer:	1
+Catalog Thes CRA
+	Indexnummer:	1046
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA
+	Indexnummer:	421
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 3610
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

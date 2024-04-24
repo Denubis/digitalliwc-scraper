@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-74a744f18c2bc-b
+Mithras_434_0_0
+Helios/Sol_248_0_0
+
+
+
+Monument
+	ID:	18336
+	Entdeckungsort:	S. Prisca
+	Entdeckungsort Details:	Mithraeum
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Helios/Sol Mithras
+	Beschreibung:	Mithraic scene: the meal. Sol and Mithras at the banquet. In front of them stands a table, the raven delivers meat.
+Szene
+	ID:	19165
+	Beschreibung:	Mithraic scene: the meal. Sol and Mithras at the banquet. In front of them stands a table, the raven delivers meat.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Mithras
+	Katalognummer:	434
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	248
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Santa Prisca, Mitreo
+	Rechteinhaber der Fotos:	© Santa Prisca, Mitreo, Roma
+	Hat die Fotorechte:	1

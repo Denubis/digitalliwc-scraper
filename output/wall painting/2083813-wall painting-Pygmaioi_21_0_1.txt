@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-745f5b8ed65fe-4
+Pygmaioi_21_0_1
+
+
+
+Monument
+	ID:	13249
+	Entdeckungsort:	Kertch, Pantikapaion
+	Entdeckungsort Details:	tomb
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Pygmaioi
+Szene
+	ID:	13585
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/ukraine/kerch/necropolis_of_pantikapaion/13585X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/ukraine/kerch/necropolis_of_pantikapaion/13585X202.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Pygmaioi
+	Katalognummer:	21
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tombe à voûte
+Museum
+	Land:	UA
+	Stadt:	Kerch
+	Name:	Necropolis of Pantikapaion
+	Rechteinhaber der Fotos:	© Kerch
+	Hat die Fotorechte:	1

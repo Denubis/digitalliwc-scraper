@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-766c5b0d702b8-e
+
+
+
+Monument
+	ID:	53713
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	Triangular Forum
+	Objekt:	labrum
+	Land:	CH
+	Kategorie:	varia
+	Beschreibung:	Rounded marble basin with ionic grooving; the 'vessel' was feeded by a fistula fixed on a column to the back of the basin
+Szene
+	ID:	59106
+	Beschreibung:	Rounded marble basin with ionic grooving; the 'vessel' was feeded by a fistula fixed on a column to the back of the basin
+Catalog Thes CRA
+	Indexnummer:	1
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Labrum
+	Lemata:	Labrum
+	Sequenznummer:	3700
+	Bandnummer:	4
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Portico N
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Foro Triangolare
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

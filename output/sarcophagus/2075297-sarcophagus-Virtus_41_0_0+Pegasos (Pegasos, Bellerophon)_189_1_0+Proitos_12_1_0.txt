@@ -1,0 +1,65 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e59bb3178aa-6
+Virtus_41_0_0
+Pegasos (Pegasos, Bellerophon)_189_1_0
+Proitos_12_1_0
+
+
+
+Monument
+	ID:	4660
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Proitos Virtus Pegasos
+	Beschreibung:	On the left: Fight against the Chimeira. On the right a scene where Proitos says goodbye to Stheneboia, Bellerophon looking back at them. Both scenes are connected by Virtus.
+Szene
+	ID:	4724
+	Beschreibung:	On the left: Fight against the Chimeira. On the right a scene where Proitos says goodbye to Stheneboia, Bellerophon looking back at them. Both scenes are connected by Virtus.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_doria_pamphilj/4724X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_doria_pamphilj/4724X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_doria_pamphilj/4724X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_doria_pamphilj/4724X301.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_doria_pamphilj/4724X304.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_doria_pamphilj/4724X305.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_doria_pamphilj/4724X306.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Virtus
+	Katalognummer:	41
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Pegasos (Pegasos, Bellerophon)
+	Katalognummer:	189
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Proitos
+	Katalognummer:	12
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Calza 178
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Doria Pamphilj
+	Rechteinhaber der Fotos:	© Villa Doria Pamphilj, Roma
+	Kommentar:	Numéros d'après Calza, R. (éd.), Antichità di Villa Doria Pamphilj (1977).
+	Hat die Fotorechte:	1

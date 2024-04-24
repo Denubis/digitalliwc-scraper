@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-76336999c3ead-e
+Herakles_2743_0_0
+Ladon I_20_1_0
+
+
+
+Monument
+	ID:	46276
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Via Latina
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Herakles Ladon I
+	Beschreibung:	Herakles, frontal. At left a tree with Ladon.
+Szene
+	ID:	49172
+	Beschreibung:	Herakles, frontal. At left a tree with Ladon.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/via_latina/catacomba_di_via_latina/49172X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/via_latina/catacomba_di_via_latina/49172X203.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/via_latina/catacomba_di_via_latina/49172X204.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2743
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ladon I
+	Katalognummer:	20
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Cub. N, dest.
+Museum
+	Land:	IT
+	Stadt:	Roma, Via Latina
+	Name:	Catacomba di Via Latina
+	Rechteinhaber der Fotos:	© Catacomba di Via Latina, Roma
+	Hat die Fotorechte:	1

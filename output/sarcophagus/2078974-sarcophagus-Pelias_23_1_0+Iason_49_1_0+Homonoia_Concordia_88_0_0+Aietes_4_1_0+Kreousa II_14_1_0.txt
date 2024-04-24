@@ -1,0 +1,89 @@
+http://ark.dasch.swiss/ark:/72163/080e-741a2d377573b-3
+Pelias_23_1_0
+Iason_49_1_0
+Homonoia/Concordia_88_0_0
+Aietes_4_1_0
+Kreousa II_14_1_0
+
+
+
+Monument
+	ID:	8370
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	bull
+	Name:	Aietes Homonoia/Concordia Iason Kreousa II Pelias
+	Beschreibung:	In the centre the gain of the Golden Fleece. To the right Medeia with sword before killing her children. Then a Roman wedding scene with dextrarum iunctio, probably meaning the wedding of Kreousa (II) and Iason. Minor side: Pelias guided by a Peliade to the cauldron.
+	Bibliographie:	Gütschow, M., Das Museum der Praetextatkatakombe, MemPontAcc 4, 2, 1938, 44-56 pl. 1; Sichtermann/ Koch, MythSark no. 31 pl. 74, 2; Schmidt, M., Der Basler Medeasarkophag (1969) 12 pl. 29, 1-2.
+Datierung
+	Periode:	150 - 160 
+	Kommentar:	about
+Epoche
+	Name:	3. Viertel 2. Jh. n. Chr.
+	Periode:	150 - 175 
+	Sequenznummer:	3220
+Szene
+	ID:	8561
+	Beschreibung:	In the centre the gain of the Golden Fleece. To the right Medeia with sword before killing her children. Then a Roman wedding scene with dextrarum iunctio, probably meaning the wedding of Kreousa (II) and Iason. Minor side: Pelias guided by a Peliade to the cauldron.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/catacomba_di_pretestato/8561X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/catacomba_di_pretestato/8561X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/catacomba_di_pretestato/8561X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/catacomba_di_pretestato/8561X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/catacomba_di_pretestato/8561X205.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/catacomba_di_pretestato/8561X206.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/catacomba_di_pretestato/8561X207.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Pelias
+	Katalognummer:	23
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iason
+	Katalognummer:	49
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Homonoia/Concordia
+	Katalognummer:	88
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aietes
+	Katalognummer:	4
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kreousa II
+	Katalognummer:	14
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Catacomba di Pretestato
+	Rechteinhaber der Fotos:	© Catacomba di Pretestato, Roma
+	Hat die Fotorechte:	0

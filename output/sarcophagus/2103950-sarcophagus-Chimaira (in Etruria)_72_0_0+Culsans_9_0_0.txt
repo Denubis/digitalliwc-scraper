@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-757f3f51a3b0b-4
+Chimaira (in Etruria)_72_0_0
+Culsans_9_0_0
+
+
+
+Monument
+	ID:	33553
+	Entdeckungsort:	Tuscania, Tuscana
+	Entdeckungsort Details:	tomb
+	Objekt:	sarcophagus
+	Material:	nenfro
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Chimaira
+	Beschreibung:	Nenfrosarcophagus from the Tomba dei Curunas I: Battle between warriors with armours and helmets (Greeks?) and others with Phrygian caps (Amazons?). In the left half a bearded, double-headed daemon with exomis, chlamys and skin. 
+Szene
+	ID:	35274
+	Beschreibung:	Nenfrosarcophagus from the Tomba dei Curunas I: Battle between warriors with armours and helmets (Greeks?) and others with Phrygian caps (Amazons?). In the left half a bearded, double-headed daemon with exomis, chlamys and skin. 
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Chimaira (in Etruria)
+	Katalognummer:	72
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Culsans
+	Katalognummer:	9
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	70857
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Etrusco di Villa Giulia
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Kommentar:	Alcuni dei numeri riportati qui sotto, senza distinzione particolare, sono tratti da pubblicazioni di materiale di scavo e da considerarsi quindi come provvisori.
+	Hat die Fotorechte:	1

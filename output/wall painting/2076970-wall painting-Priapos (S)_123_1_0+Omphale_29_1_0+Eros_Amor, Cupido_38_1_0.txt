@@ -1,0 +1,54 @@
+http://ark.dasch.swiss/ark:/72163/080e-73fd86bde2d17-9
+Priapos (S)_123_1_0
+Omphale_29_1_0
+Eros/Amor, Cupido_38_1_0
+
+
+
+Monument
+	ID:	6348
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	IX 3,5 (Casa delle Suonatrici)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Omphale Eros/Amor, Cupido Priapos
+	Beschreibung:	Herakles stands nude but for light dress hanging over his back and leg, he wears wreath, necklet, finger ring and shoes and holds a staff with ribbons attached. He leans on a foreign-looking figure (Priapus) who wears a cap, earrings and log dress which an Eros is raising. On the ground Erotes have his cup and quiver. At the right Omphale with lionskin over her dress, one breast bare, leaning of Herakles' club. Behind her a dusky youth and a wreathed woman.
+Szene
+	ID:	6477
+	Beschreibung:	Herakles stands nude but for light dress hanging over his back and leg, he wears wreath, necklet, finger ring and shoes and holds a staff with ribbons attached. He leans on a foreign-looking figure (Priapus) who wears a cap, earrings and log dress which an Eros is raising. On the ground Erotes have his cup and quiver. At the right Omphale with lionskin over her dress, one breast bare, leaning of Herakles' club. Behind her a dusky youth and a wreathed woman.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/6477X002.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Priapos (S)
+	Katalognummer:	123
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Omphale
+	Katalognummer:	29
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	38
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8992
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

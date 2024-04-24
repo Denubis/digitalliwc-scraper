@@ -1,0 +1,54 @@
+http://ark.dasch.swiss/ark:/72163/080e-74c638aa48dc5-b
+Iphigeneia_53_1_0
+
+
+
+Monument
+	ID:	20510
+	Entdeckungsort:	Ercolano, Herculaneum, Herculanum
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Iphigeneia
+	Beschreibung:	Signum, statue representing the divinity or a personification; in the painting, the signum is a statuette of Diana in an aedicola on the mensa
+Szene
+	ID:	21421
+	Beschreibung:	Signum, statue representing the divinity or a personification; in the painting, the signum is a statuette of Diana in an aedicola on the mensa
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/21421X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/21421X101.jpg
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	9
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Signum, Rom.
+	Lemata:	Signum, Rom.
+	Sequenznummer:	4084
+	Bandnummer:	4
+Catalog LIMC
+	Artikel:	Iphigeneia
+	Katalognummer:	53
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9538
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

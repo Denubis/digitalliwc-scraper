@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-766c4517ce01a-b
+
+
+
+Monument
+	ID:	53707
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Ganze Wand des Kubikulum mit Darstellungen von verschiedenen Würdenträgern eines Isis-Umzuges.
+	Bibliographie:	Alla ricerca di Iside (1992) 23ff.
+Szene
+	ID:	59100
+Catalog Thes CRA
+	Indexnummer:	22
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Iseum et Serapeum
+	Lemata:	Iseum et Serapeum
+	Sequenznummer:	3680
+	Bandnummer:	4
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

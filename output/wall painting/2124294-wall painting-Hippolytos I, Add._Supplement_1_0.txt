@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-76a218aecba63-d
+Hippolytos I, Add._Supplement_1_0
+
+
+
+Monument
+	ID:	201476
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	throne spear horse
+	Name:	Eros/Amor, Cupido Hippolytos I Phaidra
+	Beschreibung:	Phaidra sitting on a throne; nanny and Hippolytos (I); Hippolytos (I) nude, with two lances; to the right a hunter
+	Bibliographie:	Pompeji wiederentdeckt (Exh. Basel) (1994) 290 no. 223 fig.
+Datierung
+	Periode:	-15 - 63 
+Epoche
+	Name:	3. pompejanischer Stil
+	Periode:	-15 - 63 
+	Sequenznummer:	1340
+Szene
+	ID:	98445
+	Beschreibung:	Phaidra sitting on a throne; nanny and Hippolytos (I); Hippolytos (I) nude, with two lances; to the right a hunter
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hippolytos I, Add.
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	20260
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Antiquarium
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via villa dei Misteri 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei (NA)
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

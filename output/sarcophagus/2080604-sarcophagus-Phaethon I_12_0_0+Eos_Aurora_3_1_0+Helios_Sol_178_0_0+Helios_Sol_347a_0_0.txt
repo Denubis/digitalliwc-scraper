@@ -1,0 +1,54 @@
+http://ark.dasch.swiss/ark:/72163/080e-74317ae1e1391-c
+Phaethon I_12_0_0
+Eos/Aurora_3_1_0
+Helios/Sol_178_0_0
+Helios/Sol_347a_0_0
+
+
+
+Monument
+	ID:	10018
+	Entdeckungsort:	Nepi
+	Entdeckungsort Details:	cathedral
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eos/Aurora Helios/Sol Phaethon I
+	Beschreibung:	Phaethon (I) begging Helios for his chariot. The rest of the panel depicts the following catastrophe: Phaethon (I) falling into Eridanos, in the presence of Kyknos, a paidagogus, Helios, two Heliades and numerous other personifications. Winged Aurora tries to calm down the horses of Sol together with the wind gods. On the minor sides are Helios and Selene in their chariots.
+Szene
+	ID:	10236
+	Beschreibung:	Phaethon (I) begging Helios for his chariot. The rest of the panel depicts the following catastrophe: Phaethon (I) falling into Eridanos, in the presence of Kyknos, a paidagogus, Helios, two Heliades and numerous other personifications. Winged Aurora tries to calm down the horses of Sol together with the wind gods. On the minor sides are Helios and Selene in their chariots.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/nepi/duomo_santa_maria_assunta/10236X202.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Phaethon I
+	Katalognummer:	12
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eos/Aurora
+	Katalognummer:	3
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	178
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	347a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Nepi
+	Name:	Duomo Santa Maria Assunta
+	Rechteinhaber der Fotos:	© Duomo Santa Maria Assunta, Nepi
+	Hat die Fotorechte:	1

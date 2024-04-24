@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-7452dcca3b36c-c
+Mousa, Mousai/Musae (vol. VII)_138_1_0
+Nemesis_299_0_0
+
+
+
+Monument
+	ID:	12371
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Nemesis Mousa, Mousai
+Szene
+	ID:	12671
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/san_crisogono/12671X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/san_crisogono/12671X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/san_crisogono/12671X399.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	138
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Nemesis
+	Katalognummer:	299
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	San Crisogono
+	Rechteinhaber der Fotos:	© Soprindentenza SPSAE e Polo Museale della Città di Roma
+	Hat die Fotorechte:	0

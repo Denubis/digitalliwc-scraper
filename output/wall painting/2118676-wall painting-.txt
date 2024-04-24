@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-7651c74401d29-e
+
+
+
+Monument
+	ID:	51706
+	Entdeckungsort:	Chiusi, Camars, Clevsin, Clusium
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Tomba del Poggio al Moro. Paintings of festive contests all over the chamber; a scene shows a man doing acrobatics, keeping the balance while staying on a rolling amphora
+	Bibliographie:	Steingräber, S., Catalogo ragionato della pittura etrusca (1984) no. 22 fig. 31-32.
+Szene
+	ID:	56922
+	Beschreibung:	Tomba del Poggio al Moro. Paintings of festive contests all over the chamber; a scene shows a man doing acrobatics, keeping the balance while staying on a rolling amphora
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	20
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VII. 3. Feste und Spiele, etr.
+	Bandnummer:	7
+Catalog Thes CRA
+	Indexnummer:	21
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba di Poggio al Moro
+Museum
+	Land:	IT
+	Stadt:	Chiusi
+	Name:	Necropoli
+	Direktor:	Sopr. Dott.ssa Fulvia Lo Schiavo
+	Adresse:	Via della Pergola 65
+	Postleitzahl:	I-50121
+	Kontaktzenter:	Soprintendenza Archeologica per la Toscana
+	Stadt des Kontaktzenters:	Firenze
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica per la Toscana
+	Hat die Fotorechte:	1

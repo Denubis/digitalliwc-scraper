@@ -1,0 +1,48 @@
+http://ark.dasch.swiss/ark:/72163/080e-749f22734efdf-e
+Mercurius_344_1_0
+Hermes_601_0_0
+
+
+
+Monument
+	ID:	17756
+	Entdeckungsort:	Isernia
+	Entdeckungsort Details:	tomb
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Hermes Mercurius
+	Beschreibung:	Mercurius and a couple.
+Szene
+	ID:	18511
+	Beschreibung:	Mercurius and a couple.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/18511X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	344
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hermes
+	Katalognummer:	601
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9350
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

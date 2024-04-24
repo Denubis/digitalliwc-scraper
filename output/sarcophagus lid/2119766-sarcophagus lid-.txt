@@ -1,0 +1,54 @@
+http://ark.dasch.swiss/ark:/72163/080e-76615c936adf3-7
+
+
+
+Monument
+	ID:	52901
+	Objekt:	sarcophagus lid
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	krater table, mensa, trapeza sacrifice liknon, vannus, winnowing-fan griffin
+	Beschreibung:	Längsseite eines Sarkophags:Opfer an Bacchus in bukolischer Umgebung. Auf einem steinernen Opfertisch mit Wangen, die im Vorderteil als Greifen gestaltet sind. steht ein Krater und ein Liknon, mit dem eine Frau hantiert. Hinter ihr trägt eine weitere Frau ein Liknon auf dem Kopf herbei. 
+	Bibliographie:	Cagiano De Azevedo, M., Le antichità di Villa Medici (1951) 76 n° 65 pl. 30, 48; Geyer, A., Problem des Realitätsbezuges (1977) 62 s. 65 s. pl. 2, 2; Turcan, R., Religion romaine. le culte II. IconRel XVII 1, 2 (1988)  Liturgie 121 n° 24 fig. 64; Nilsson, M. P., The Dionysiac Mysteries of the Hellenistic and Roman Age (1957) 89. 91 Abb. 20a; Goudineau, C., `Iεραí τρáπεζαι», MEFRA 79 (1967), 110 Ab. 12; Geyer, A., Das Problem des Realitätsbezuges in der dionysischen Bildkunst der Kaiserzeit (1977) 61 ff. Taf. 2, 2
+Datierung
+	Periode:	200 - 250 
+Epoche
+	Name:	1. Hälfte 3. Jh. n. Chr.
+	Periode:	200 - 250 
+	Sequenznummer:	3320
+Szene
+	ID:	58236
+	Beschreibung:	A dr., un berger observe deux personnages barbus en pagne occupés à dépecer un bélier, que celui de g. tient par les pattes arrière: la tête de l'animal sort du récipient qui reçoit le sang et les entrailles; deux chiens encadrent la scène. A leur g., un personnage souffle dans une conque marine, devant une femme voilée égrénant de l'encens devant un petit autel allumé chargé de pommes de pin. Derrière elle, une petite femme porte un van sur la tête et tient une grande torche dans la main d. A sa g., une femme prépare un van posé sur une tablette, à côté d'une œnochoé.
+Catalog Thes CRA
+	Indexnummer:	281
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 2.a. Opfer, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	220
+	Bandnummer:	1
+Catalog Thes CRA
+	Indexnummer:	561
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	65
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Medici
+	Direktor:	Responsable Chargé de Mission Olivier Bonfait
+	Adresse:	Viale Trinità dei Monti 1
+	Postleitzahl:	I-00187
+	Kontaktzenter:	Dipartimento di Storia dell'Arte Accademia di Francia a Roma / Villa Medici
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	Académie de France à Rome
+	Kommentar:	Numéros d'après Cagiano de Azevedo, M., Le antichità di Villa Medici (1951).
+	Hat die Fotorechte:	1

@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-7675b84c6c5c3-c
+
+
+
+Monument
+	ID:	54384
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	necropolis
+	Objekt:	sepulcrum
+	Land:	CH
+	Kategorie:	architecture
+	Beschreibung:	Necropoli di Porta Nocera; so-called tomb "a edicola"
+Szene
+	ID:	59812
+	Beschreibung:	Necropoli di Porta Nocera; so-called tomb "a edicola"
+Catalog Thes CRA
+	Indexnummer:	12
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Sepulcrum, Rom.
+	Lemata:	Sepulcrum, Rom.
+	Sequenznummer:	4064
+	Bandnummer:	4
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba a edicola
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Necropoli di Porta Nocera
+	Rechteinhaber der Fotos:	© Pompei
+	Hat die Fotorechte:	1

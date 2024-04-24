@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-7453ce5833036-a
+Mousa, Mousai/Musae (vol. VII)_180_0_0
+
+
+
+Monument
+	ID:	12437
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Mousa, Mousai
+Szene
+	ID:	12738
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	180
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel V 3, 176
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Piazza Margana, 24
+	Rechteinhaber der Fotos:	© Roma
+	Hat die Fotorechte:	0

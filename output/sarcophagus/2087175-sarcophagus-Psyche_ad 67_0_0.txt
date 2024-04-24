@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-748f6c3372b28-d
+Psyche_ad 67_0_0
+
+
+
+Monument
+	ID:	16646
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Psyche
+Szene
+	ID:	17295
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	ad 67
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Ferentillo
+	Name:	Abbazia di San Pietro in Valle
+	Direktor:	All'attenzione della Dott.ssa Gabriella Gattobigio
+	Adresse:	Piazzale Giordano Bruno 10
+	Postleitzahl:	I-6121
+	Kontaktzenter:	Soprintendenza Archeologica per l'Umbria
+	Stadt des Kontaktzenters:	Perugia
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica per l'Umbria
+	Hat die Fotorechte:	1

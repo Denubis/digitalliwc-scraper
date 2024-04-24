@@ -1,0 +1,83 @@
+http://ark.dasch.swiss/ark:/72163/080e-757ba15c1875a-0
+Charon I/Charu(n)_35_0_1
+Charon I/Charu(n)_38_1_0
+Achle_88_0_0
+Amazones Etruscae_31_0_1
+
+
+
+Monument
+	ID:	33298
+	Entdeckungsort:	Tarquinia
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	human sacrifice horse the dead warrior, soldier Amazon fight, battle
+	Name:	Achilleus/Achle Charon I/Charu(n) Amazones
+	Beschreibung:	So-called "sarcofago del sacerdote". Scene interpreted as the sacrifice of the Trojan captives to Patroclus' Dii Manes
+	Bibliographie:	Herbig, R., Die Jüngeretruskischen Stein sarkophage, SarkRel VII (1952) 63 no. 121 tav. 21a; Carcopino, MemPontAcc I 2, 1924, 109 ss. tav. 31; v. Bissing, StEtr 7, 1933, 125 ss. tav. 10, 1 (Deckel); Camporeale, G., L'amazzonomachia in Etruria In: StEtr 27 (1959) 116-118.
+Datierung
+	Periode:	-360 - -340 
+Epoche
+	Name:	Mitte 4. Jh. v. Chr.
+	Periode:	-360 - -340 
+	Sequenznummer:	2450
+Szene
+	ID:	34980
+	Beschreibung:	So-called "sarcofago del sacerdote". Scene interpreted as the sacrifice of the Trojan captives to Patroclus' Dii Manes
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/museo_nazionale_di_tarquinia/34980X303.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/museo_nazionale_di_tarquinia/34980X304.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	52
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	21
+	Name:	III. 6.b. Gebet, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	2200
+	Bandnummer:	3
+Catalog LIMC
+	Artikel:	Charon I/Charu(n)
+	Katalognummer:	35
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Charon I/Charu(n)
+	Katalognummer:	38
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achle
+	Katalognummer:	88
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amazones Etruscae
+	Katalognummer:	31
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9871
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Museo Nazionale di Tarquinia
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

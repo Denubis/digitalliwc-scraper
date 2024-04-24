@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ebb4f81a57b-a
+Herakles_3263_0_0
+
+
+
+Monument
+	ID:	23148
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Herakles
+	Beschreibung:	Herakles holds the hand of a satyr behind him. Before him a woman.
+Szene
+	ID:	24285
+	Beschreibung:	Herakles holds the hand of a satyr behind him. Before him a woman.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	3263
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	697
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Albani
+	Adresse:	Via della Conciliazione 30
+	Postleitzahl:	I-00193
+	Kontaktzenter:	Amministrazione Torlonia
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Phot. proprietà Principe Torlonia
+	Hat die Fotorechte:	0

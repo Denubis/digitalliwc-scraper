@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-756089d0dd217-b
+Atlas_49_1_0
+
+
+
+Monument
+	ID:	31385
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	lyre dolphin centaur
+	Name:	Atlas Eros/Amor, Cupido Nereides
+	Beschreibung:	In the centre front, the imago clipeata serves the function of the celestial sphere, and in it the deceased's bust, a female lute-player, is represented. The circle is held up by a small, naked, half-kneeling figure who raises both arms. To the sides two marine centaurs, with Nereides sitting on them helping to support the imago. On the lower part Erotes playing with dolphins.
+	Bibliographie:	Marrou, H.-I., Mousikos Aner (1938) no. 221 pl. 5; Cumont, Symb 304-306 pl. 29, 1.
+Szene
+	ID:	32986
+	Beschreibung:	In the centre front, the imago clipeata serves the function of the celestial sphere, and in it the deceased's bust, a female lute-player, is represented. The circle is held up by a small, naked, half-kneeling figure who raises both arms. To the sides two marine centaurs, with Nereides sitting on them helping to support the imago. On the lower part Erotes playing with dolphins.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/32986X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Atlas
+	Katalognummer:	49
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	6598
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

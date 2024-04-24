@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-754fbd69a56e4-b
+Herakles_1240_0_1
+
+
+
+Monument
+	ID:	30202
+	Entdeckungsort:	Pompei
+	Objekt:	statuette
+	Material:	bronze
+	Land:	CH
+	Kategorie:	sculpture in the round of metal
+	Name:	Herakles
+	Beschreibung:	Statuette of Herakles, wearing lionskin over head, hand resting on club.
+Szene
+	ID:	31661
+	Beschreibung:	Statuette of Herakles, wearing lionskin over head, hand resting on club.
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	1240
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Reinach, RépStat V 80, 3
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1

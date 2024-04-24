@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d99d0759007-d
+Kentauroi et Kentaurides (S)_466_1_0
+
+
+
+Monument
+	ID:	3818
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kentauroi and Kentaurides Dionysos/Bacchus
+	Beschreibung:	Centaurs with musical instruments.
+Szene
+	ID:	3859
+	Beschreibung:	Centaurs with musical instruments.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pisa/camposanto_monumentale/3859X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	466
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	D 3 est.
+Museum
+	Land:	IT
+	Stadt:	Pisa
+	Name:	Camposanto Monumentale
+	Rechteinhaber der Fotos:	© Camposanto Monumentale, Pisa
+	Kommentar:	Numéros d'après Camposanto monumentale di Pisa. Le antichità I-II (1977-1984).
+	Hat die Fotorechte:	0

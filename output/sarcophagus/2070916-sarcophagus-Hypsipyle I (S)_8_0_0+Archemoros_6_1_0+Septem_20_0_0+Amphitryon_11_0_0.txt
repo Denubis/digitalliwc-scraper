@@ -1,0 +1,74 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a6f999bbc59-7
+Hypsipyle I (S)_8_0_0
+Archemoros_6_1_0
+Septem_20_0_0
+Amphitryon_11_0_0
+
+
+
+Monument
+	ID:	225
+	Entdeckungsort:	Piraeus, Peiraieus
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	GR
+	Kategorie:	relief
+	Stichwort:	snake sword child
+	Name:	Amphitryon Archemoros Herakles Hypsipyle I Septem
+	Beschreibung:	Hρακλίσκος, Aμφιτρύων. Amphitryon is shown with drawn sword behind the infant Herakles. On a minor side Archemoros kneeling on the ground. His arm and leg are entangled by the snake. Behind him a bearded hero with a sword. One has to amend a fleeing Hypsipyle (I).
+	Bibliographie:	SarkRel III 1,123; Robert, Die Antiken Sarkophagereliebs III,xxvii 123 no. 100.Kαλλιπολίτης, 15 αρ. 9.Σβορώνου Πίν. 76.
+	Kommentar:	4393
+Datierung
+	Periode:	100 - 200 
+Epoche
+	Name:	2. Jh. n. Chr.
+	Periode:	100 - 200 
+	Sequenznummer:	3140
+Szene
+	ID:	2003
+	Beschreibung:	Amphitryon is shown with drawn sword behind the infant Herakles. On a minor side Archemoros kneeling on the ground. His arm and leg are entangled by the snake. Behind him a bearded hero with a sword. One has to amend a fleeing Hypsipyle (I).
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/athens/national_archaeological_museum/2003X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/athens/national_archaeological_museum/2003X199.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hypsipyle I (S)
+	Katalognummer:	8
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Archemoros
+	Katalognummer:	6
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Septem
+	Katalognummer:	20
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amphitryon
+	Katalognummer:	11
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1457
+Museum
+	Land:	GR
+	Stadt:	Athens
+	Name:	National Archaeological Museum
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Anrede:	Dear Director,
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© National Archaeological Museum, Athens
+	Kommentar:	Pour les intailles de la collection Karapanos voir Musée Numismatique.  Inv. VS = ancienne collection Vlastos-Serpieri.
+	Hat die Fotorechte:	1

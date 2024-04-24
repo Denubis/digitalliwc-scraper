@@ -1,0 +1,57 @@
+http://ark.dasch.swiss/ark:/72163/080e-7472a8725d2dc-a
+Kreousa II_6_0_0
+Medeia_55_1_0
+Hypnos/Somnus_142c_0_0
+
+
+
+Monument
+	ID:	14609
+	Objekt:	sarcophagus with lid
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hypnos/Somnus Kreousa II Medeia
+	Beschreibung:	The children of Medeia handing over presents to Kreousa (II).
+Szene
+	ID:	45525
+	Szenerieangabe:	couvercle
+	Beschreibung:	The children of Medeia handing over presents to Kreousa (II).
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/45525X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kreousa II
+	Katalognummer:	6
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Medeia
+	Katalognummer:	55
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	142c
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1242
+Museum
+	Land:	VA
+	Stadt:	Vaticano
+	Name:	Musei Vaticani
+	Direktor:	Direttore Dott. Antonio Paolucci
+	Anrede:	Chiarissimo Direttore,
+	Postleitzahl:	I-00120
+	Kontaktzenter:	Monumenti, Musei e Gallerie Pontificie
+	Stadt des Kontaktzenters:	Città del Vaticano
+	Rechteinhaber der Fotos:	© Musei Vaticani
+	Kommentar:	Sont réunis sous cette dénomination générique - compte tenu à la fois de leur numérotation unique et de leurs déplacements à l'intérieur des musées - les monuments conservés dans le Museo Chiaramonti, le Museo Gregoriano Etrusco, le Museo Gregoriano Profano, le Museo Pio Clementino et le Museo Pio Cristiano.  En revanche, la localisation spécifique a été conservée dans les cas suivants: Basilica San Pietro, Biblioteca Apostolica Vaticana (et Museo Profano, Museo Sacro, Sala delle Nozze Aldobrandine), Camposanto Teutonico, Giardini, Medagliere Vaticano, Museo Gregoriano Egizio, Necropoli sotto San Pietro.
+	Hat die Fotorechte:	0
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	4618

@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-7472be67ff57a-c
+Medeia_59_0_0
+
+
+
+Monument
+	ID:	14615
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Medeia
+	Beschreibung:	Medeia with sword and her children.
+	Bibliographie:	New York, Sotheby's 10.12.2009, 47 no. 46
+	Monument-URL:	http://www.limc-france.fr/objet/14704
+Szene
+	ID:	15056
+	Beschreibung:	Medeia with sword and her children.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Medeia
+	Katalognummer:	59
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	FR
+	Stadt:	Cannes
+	Name:	Villa Faustina (autrefois)
+	Rechteinhaber der Fotos:	© Cannes
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	10.12.2009, 46
+Museum
+	Land:	US
+	Stadt:	New York
+	Name:	Sotheby's
+	Adresse:	1334 York Avenue at 72nd St.
+	Postleitzahl:	USA-
+	Kontaktzenter:	Sotheby's
+	Stadt des Kontaktzenters:	New York NY 10021
+	Rechteinhaber der Fotos:	© Sotheby's, New York
+	Hat die Fotorechte:	1

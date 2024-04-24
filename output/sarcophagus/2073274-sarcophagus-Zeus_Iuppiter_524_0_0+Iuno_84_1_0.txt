@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-73c8afafae0e7-1
+Zeus/Iuppiter_524_0_0
+Iuno_84_1_0
+
+
+
+Monument
+	ID:	2628
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Iuno Apollon/Apollo Athena/Minerva Zeus/Iuppiter
+	Beschreibung:	Lid: The young Apollo is presented to the Capitolina Triad and the other gods: in the centre Iuppiter seated, a Victoria (?) and Minerva by his right side, Iuno bis his left.
+Szene
+	ID:	2651
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	524
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	23003
+	Szenerieangabe:	couvercle
+	Beschreibung:	The young Apollo is presented to the Capitolina Triad and the other gods: in the centre Iuppiter seated, a Victoria (?) and Minerva by his right side, Iuno bis his left.
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/23003X301.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Iuno
+	Katalognummer:	84
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	626
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Musei Capitolini
+	Direktor:	Dirigente Dott. Claudio Parisi Presicce
+	Adresse:	Via delle Tre Pile, 1
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Sovraintendenza ai Beni Culturali                     del Comune di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Archivio fotografico Musei Capitolini
+	Hat die Fotorechte:	1

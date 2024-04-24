@@ -1,0 +1,49 @@
+http://ark.dasch.swiss/ark:/72163/080e-7620574542e1f-d
+Adonis_38b_1_0
+
+
+
+Monument
+	ID:	44921
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	spear dog cave scissors
+	Name:	Adonis Eros/Amor, Cupido Aphrodite/Venus
+	Bibliographie:	SarkRel III 1, 11 no. 9
+	Monument-URL:	arachne.dainst.org/entity/1075676
+Datierung
+	Periode:	100 - 200 
+Epoche
+	Name:	2. Jh. n. Chr.
+	Periode:	100 - 200 
+	Sequenznummer:	3140
+Szene
+	ID:	47268
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_borghese_museo_e_galleria_borghese/47268X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Adonis
+	Katalognummer:	38b
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	XXIV
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Borghese (Museo e Galleria Borghese)
+	Direktor:	Soprintendente Prof. Claudio Strinati
+	Adresse:	Piazza San Marco 49
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza Speciale del Polo Museale Romano
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza Speciale del Polo Museale Romano
+	Hat die Fotorechte:	1

@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-76a703b1c7b1b-0
+Danae, Add._Supplement_1_0
+
+
+
+Monument
+	ID:	201792
+	Entdeckungsort:	Boscoreale
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	amphora
+	Name:	Danae Eros Pan
+	Beschreibung:	Danae sitting, looking at one Eros; a second Eros next to her
+	Bibliographie:	Strocka, V. M., Römische Fresken in der Antikensammlung des Württembergischen Landesmuseums (1991) 14 no. 1 fig. 1; Raming, E., Ζενς υει - Bildwirklichkeiten, in: Otium, FS. V. M. Strocka (2005) 313.
+Datierung
+	Periode:	45 - 79 
+	Kommentar:	about 50 A.D.
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	98770
+	Beschreibung:	Danae sitting, looking at one Eros; a second Eros next to her
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Danae, Add.
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	83/1n
+Museum
+	Land:	DE
+	Stadt:	Stuttgart
+	Name:	Landesmuseum Württemberg
+	Direktor:	Direktor Prof. Dr. Cornelia Ewigleben
+	Adresse:	Schillerplatz 6
+	Postleitzahl:	D-70173
+	Kontaktzenter:	Landesmuseum Württemberg
+	Stadt des Kontaktzenters:	Stuttgart
+	Rechteinhaber der Fotos:	© Landesmuseum Württemberg
+	Hat die Fotorechte:	1

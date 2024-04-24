@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-74d316974d659-f
+Isis_186_0_0
+Anubis_51_0_0
+
+
+
+Monument
+	ID:	21419
+	Entdeckungsort:	Albe, Alba Fucens
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Anubis Isis
+	Bibliographie:	Mertens, J., FA 16 (1961) no. 4569; Malaise, M., Inventaire préliminaire des documents égyptiens découverts en Italie, EPRO 21 (1972) 52.
+Datierung
+	Periode:	90 - 100 
+Epoche
+	Name:	Ende 1. Jh. n. Chr.
+	Periode:	90 - 100 
+	Sequenznummer:	3030
+Szene
+	ID:	22375
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Isis
+	Katalognummer:	186
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Anubis
+	Katalognummer:	51
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Chieti
+	Name:	Museo Archeologico Nazionale dell'Abruzzo
+	Direktor:	Soprintendente Dott. Andrea Pessina
+	Adresse:	Via degli Agostiniani 14
+	Postleitzahl:	I-66100
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Abruzzo
+	Stadt des Kontaktzenters:	Chieti
+	Rechteinhaber der Fotos:	Concessione del Ministero per i Beni e le Attività Culturali - Soprintendenza per i Beni Archeologici dell'Abruzzo, Chieti
+	Hat die Fotorechte:	0

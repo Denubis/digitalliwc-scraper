@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-74f8a531d0ae8-1
+Kairoi/Tempora anni_187_0_0
+
+
+
+Monument
+	ID:	24065
+	Objekt:	sarcophagus lid
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kairoi/Tempora anni
+	Beschreibung:	Fragment of a sarcophagus lid. Depiction of the Seasosn Summer with two corn ears.
+Datierung
+	Periode:	200 - 300 
+Szene
+	ID:	25248
+	Szenerieangabe:	couvercle
+	Beschreibung:	Depiction of the Seasosn Summer with two corn ears.
+	Sequenznummer:	20
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	187
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Gl 116
+Museum
+	Land:	DE
+	Stadt:	Berlin
+	Name:	Schloss Klein-Glienicke
+	Rechteinhaber der Fotos:	© Schloss Klein-Glienicke
+	Hat die Fotorechte:	0

@@ -1,0 +1,138 @@
+http://ark.dasch.swiss/ark:/72163/080e-74d99f2c62306-2
+Osiris_p. 114_0_0
+Osiris Kanopos_post 87_0_0
+Aithiopes_38_1_0
+
+
+
+Monument
+	ID:	21878
+	Entdeckungsort:	Ercolano, Herculaneum, Herculanum
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	palm tree fire (on altar) garland temple vessel priest sacrifice pipe, flute, aulos, tibiae worshipper, praying man plant sistrum ibis bird black (people) situla of Isis altar with protection against wind altar: monolithic block
+	Name:	Aithiopes Isis Osiris Osiris Kanopos
+	Beschreibung:	Auf den Stufen eines Tempels steht ein Priester, der ein goldenes, auf einem Blütenkranz ruhendes Gefäß mit verhüllten Händen hochhält. Er wird flankiert von einer Frau mit sistrum und situla und einem dunkelhäutigen Mann mit sistrum, links und rechts davon je eine Sphinx und eine Palme. Es könnte sich bei dem Trio um Darstellungen der Isis, des Anubis und des Osiris Kanopos (ein Wassergefäß mit Verschluss in Form eines Osiriskopfes) handeln.Vor den Stufen des Tempels wird vom Kultpersonal an einem großen, rechteckigen Altar ein Opfer vorbereitet: ein weiterer Priester am Fuß der Stufen weist mit dem rechten Arm nach links, er dirigiert wohl den zu beiden Seiten des Altars in Reihe stehenden Chor. Im Vordergrund in der Mitte steht der Altar, über den sich von rechts ein Priester mit Fächer und ??? beugt. Von rechts nähert sich eine Person mit langem Stab über der Schulter, neben ihm sitzt ein Flötenspieler. Links des Altars stehen zwei Frauen mit sistra in der rechten Hand, sie neigen den Oberkörper wie im Tanz nach links. Der Altar ist in Vorderansicht dargestellt mit seitlichen Windschutzplatten, ihn schmückt eine Girlande. Vor dem Altar zwei Vögel (Ibisse), ein weiterer sitzt rechts vor der Sphinx. 
+	Bibliographie:	Tran Tam Tinh, V., Le culte des divinités orientales à Herculanum (EPRO 17, 1971) 29–49. 83–86 Nr. 58–59 Taf. 27–28; Tran Tam Tinh, V., Essai sur le culte d’Isis à Pompéi (1964) 27-28 pl. 23; Merkelbach, R., Isis regina - Zeus Sarapis. Die griechisch-ägyptische Religion nach den Quellen dargestellt (1995) 553 f. fig. 72 und 73; Knauer, E. R., Urnula Faberrime Cavata. Observations on a Vessel Used in the Cult of Isis (1995) 32 f. Anm. 63 (gegen die Deutung des Gefässes als Schnabelkanne);  Wild, R. A., Water in the Cultic Worship of Isis and Osiris, EPRO 87 (1981) 108 Taf. 14. 
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	22881
+	Beschreibung:	Auf den Stufen eines Tempels steht ein Priester, der ein goldenes, auf einem Blütenkranz ruhendes Gefäß mit verhüllten Händen hochhält. Er wird flankiert von einer Frau mit sistrum und situla und einem dunkelhäutigen Mann mit sistrum, links und rechts davon je eine Sphinx und eine Palme. Es könnte sich bei dem Trio um Darstellungen der Isis, des Anubis und des Osiris Kanopos (ein Wassergefäß mit Verschluss in Form eines Osiriskopfes) handeln.Vor den Stufen des Tempels wird vom Kultpersonal an einem großen, rechteckigen Altar ein Opfer vorbereitet: ein weiterer Priester am Fuß der Stufen weist mit dem rechten Arm nach links, er dirigiert wohl den zu beiden Seiten des Altars in Reihe stehenden Chor. Im Vordergrund in der Mitte steht der Altar, über den sich von rechts ein Priester mit Fächer und ??? beugt. Von rechts nähert sich eine Person mit langem Stab über der Schulter, neben ihm sitzt ein Flötenspieler. Links des Altars stehen zwei Frauen mit sistra in der rechten Hand, sie neigen den Oberkörper wie im Tanz nach links. Der Altar ist in Vorderansicht dargestellt mit seitlichen Windschutzplatten, ihn schmückt eine Girlande. Vor dem Altar zwei Vögel (Ibisse), ein weiterer sitzt rechts vor der Sphinx. 
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/22881X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/22881X101.jpg
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	83
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	III. 6.c. Verehrung
+	Sequenznummer:	2400
+	Bandnummer:	3
+Catalog Thes CRA
+	Indexnummer:	140
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 3.c. Initiation
+	Sequenznummer:	1200
+	Bandnummer:	2
+Catalog Thes CRA
+	Indexnummer:	63
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	IV. 1.b. Kultorte (Darstellungen)
+	Sequenznummer:	4500
+	Bandnummer:	4
+Catalog Thes CRA
+	Indexnummer:	611
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Catalog Thes CRA
+	Indexnummer:	11
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Iseum et Serapeum
+	Lemata:	Iseum et Serapeum
+	Sequenznummer:	3680
+	Bandnummer:	4
+Catalog Thes CRA
+	Indexnummer:	255
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.a. Kultpersonal, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	4700
+	Bandnummer:	5
+Catalog Thes CRA
+	Indexnummer:	256
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA
+	Indexnummer:	1426
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA
+	Indexnummer:	25
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA
+	Indexnummer:	10
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	13
+	Name:	II. 4.c. Musik, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	1720
+	Bandnummer:	2
+Catalog LIMC
+	Artikel:	Osiris
+	Katalognummer:	p. 114
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Osiris Kanopos
+	Katalognummer:	post 87
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aithiopes
+	Katalognummer:	38
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8924
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

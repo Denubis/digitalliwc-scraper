@@ -1,0 +1,77 @@
+http://ark.dasch.swiss/ark:/72163/080e-740776626d6ea-7
+Persephone (S)_234_0_0
+Demeter/Ceres (vol. IV)_131_0_0
+Hades/Pluto_18_1_0
+Ianitor Orci_7_1_0
+Kerberos_62_0_0
+
+
+
+Monument
+	ID:	7047
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Stichwort:	cornucopia torch branch basket quadriga pomegranate velificatio
+	Name:	Athena/Minerva Eros/Amor, Cupido Hades/Pluto Ianitor Orci Hermes/Mercurius Tellus Aphrodite/Venus Proserpina Kerberos Demeter/Ceres Persephone
+	Beschreibung:	In der Mitte rechts die am Boden kniende, blumenpflückende Proserpina. Sie wird rechts von drei Amoren/Eroten bedrängt, von denen der unterste ihr Gewand am Oberschenkel, der mittlere ihre Brust berührt und der oberste eine Fackel trägt. Von der rechten Seite her naht der Schlagenwagen der suchenden Demeter/Ceres mit Fackel. Im Wagen fährt Trepidatio mit, die sich nach der Göttin umsieht. Weiter links in der Mitte fährt Pluto/Hades ein Gespann zur linken Seite hin. Hier hat er Proserpina bereits geraubt. Ein kleiner Amor lenkt den Wagen. Die Pferde donnern über die am Boden liegenden, bzw. auftauchenden Gestalten des Cerberus, des Ianitor Orci und der Tellus hinweg. Hinter den Pferden Venus, die einen Granatapfel in die Luft hält. Links vor den Pferden Merkur mit Mantel. Ganz links steht Minerva, die Proserpina einen Zauberzweig zeigt, der ihr den Eintritt in die Unterwelt gestattet, aber zugleich auch als Zeichen für die Rückkehr gelten kann.
+	Bibliographie:	Die antiken Sarkophagreliefs, hg. von Robert, C., Rodenwaldt, G., Matz, F. et al. (1890 ff.) Bd. III 3 Nr. 384; Koch, G./Sichtermann, H., Römische Sarkophage, HbArch (1982) 178 Abb. 206; Lindner 75-76. 112-114 Taf. 21,3
+Datierung
+	Periode:	200 - 225 
+Epoche
+	Name:	1. Viertel 3. Jh. n. Chr.
+	Periode:	200 - 225 
+	Sequenznummer:	3340
+Szene
+	ID:	7193
+	Beschreibung:	In der Mitte rechts die am Boden kniende, blumenpflückende Proserpina. Sie wird rechts von drei Amoren/Eroten bedrängt, von denen der unterste ihr Gewand am Oberschenkel, der mittlere ihre Brust berührt und der oberste eine Fackel trägt. Von der rechten Seite her naht der Schlagenwagen der suchenden Demeter/Ceres mit Fackel. Im Wagen fährt Trepidatio mit, die sich nach der Göttin umsieht. Weiter links in der Mitte fährt Pluto/Hades ein Gespann zur linken Seite hin. Hier hat er Proserpina bereits geraubt. Ein kleiner Amor lenkt den Wagen. Die Pferde donnern über die am Boden liegenden, bzw. auftauchenden Gestalten des Cerberus, des Ianitor Orci und der Tellus hinweg. Hinter den Pferden Venus, die einen Granatapfel in die Luft hält. Links vor den Pferden Merkur mit Mantel. Ganz links steht Minerva, die Proserpina einen Zauberzweig zeigt, der ihr den Eintritt in die Unterwelt gestattet, aber zugleich auch als Zeichen für die Rückkehr gelten kann.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/austria/wien/kunsthistorisches_museum/7193X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/austria/wien/kunsthistorisches_museum/7193X203.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/austria/wien/kunsthistorisches_museum/7193X302.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Persephone (S)
+	Katalognummer:	234
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Demeter/Ceres (vol. IV)
+	Katalognummer:	131
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	18
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ianitor Orci
+	Katalognummer:	7
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kerberos
+	Katalognummer:	62
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	I 1126
+Museum
+	Land:	AT
+	Stadt:	Wien
+	Name:	Kunsthistorisches Museum
+	Direktor:	Prof. Dr. Kurt Gschwantler
+	Anrede:	Sehr geehrter Herr Professor,
+	Adresse:	Burgring 5
+	Postleitzahl:	A-1010
+	Kontaktzenter:	Kunsthistorisches Museum
+	Stadt des Kontaktzenters:	Wien
+	Rechteinhaber der Fotos:	© Kunsthistorisches Museum Wien
+	Hat die Fotorechte:	1

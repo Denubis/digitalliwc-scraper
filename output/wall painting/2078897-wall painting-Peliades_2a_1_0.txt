@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-7419136729afa-f
+Peliades_2a_1_0
+
+
+
+Monument
+	ID:	8290
+	Entdeckungsort:	Ercolano, Herculaneum, Herculanum
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Peliades
+	Beschreibung:	Copy of the painting in ID 8289: head of a girl with olive wreath (daughter of Pelias).
+Szene
+	ID:	8481
+	Beschreibung:	Copy of the painting in ID 8289: head of a girl with olive wreath (daughter of Pelias).
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/8481X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Peliades
+	Katalognummer:	2a
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9094
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

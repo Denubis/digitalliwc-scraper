@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-758ae626d9936-9
+Eros/Amor, Cupido_196_0_0
+
+
+
+Monument
+	ID:	34384
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido
+Szene
+	ID:	36143
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/cava_dei_tirreni/museo_della_badia_benedettina_della_santissima_trinita_di_cava/36143X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	196
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Cava dei Tirreni
+	Name:	Museo della Badia Benedettina della Santissima Trinità di Cava
+	Rechteinhaber der Fotos:	© Museo della Badia Benedettina della Santissima Trinità di Cava
+	Hat die Fotorechte:	0

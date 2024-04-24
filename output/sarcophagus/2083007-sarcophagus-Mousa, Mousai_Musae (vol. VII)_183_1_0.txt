@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-7453d5aa13bc0-4
+Mousa, Mousai/Musae (vol. VII)_183_1_0
+
+
+
+Monument
+	ID:	12439
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Mousa, Mousai
+Szene
+	ID:	12740
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/palermo/cattedrale_maria_ss_assunta/12740X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/palermo/cattedrale_maria_ss_assunta/12740X002.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	183
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Palermo
+	Name:	Cattedrale Maria SS. Assunta
+	Rechteinhaber der Fotos:	© Palermo
+	Hat die Fotorechte:	0

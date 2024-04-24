@@ -1,0 +1,56 @@
+http://ark.dasch.swiss/ark:/72163/080e-74604973ddd03-1
+Pygmaioi_47h_0_0
+
+
+
+Monument
+	ID:	13315
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	Tomb of C. Vestorius Priscus
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Pygmaioi
+	Beschreibung:	Banquette scene
+	Bibliographie:	Dentzer, J.-M., La tombe de C. Vestorius dans la tradition de la peinture italique, MEFRA 74, 1962, 533-594; Ghedini, F., Raffigurazioni conviviali nei monumenti funerari romani, Rivista di Archeologia 14, 1990, 37-38 fig. 1.
+Datierung
+	Periode:	75 - 76 
+Epoche
+	Name:	3. Drittel 1. Jh. n. Chr.
+	Periode:	66 - 100 
+	Sequenznummer:	3120
+Szene
+	ID:	13658
+	Beschreibung:	Banquette scene
+	Sequenznummer:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	143
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 4.a. Bankett, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	1430
+	Bandnummer:	2
+Catalog LIMC
+	Artikel:	Pygmaioi
+	Katalognummer:	47h
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba di C. Vestorius Priscus (Tomba j)
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Necropoli di Porta del Vesuvio
+	Direktor:	Soprintendente Prof. Pietro Guzzo
+	Adresse:	Via Villa dei Misteri 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei (NA)
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

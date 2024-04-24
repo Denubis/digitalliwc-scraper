@@ -1,0 +1,65 @@
+http://ark.dasch.swiss/ark:/72163/080e-76b6b9f1a3fd2-1
+Hermaphroditos_59_0_0
+Hermaphroditos (Suppl. 2009)_Supplement_0_0
+
+
+
+Monument
+	ID:	202702
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	II 2,2-5 (House of Loreius Tiburtinus)
+	Objekt:	statue
+	Material:	marble
+	Land:	CH
+	Kategorie:	sculpture in the round
+	Name:	Hermaphroditos
+	Beschreibung:	Hermaphroditos recumbent on back.
+	Bibliographie:	Oehmke, S., Das Weib im Manne (2004) 143 f. no. 161.
+Datierung
+	Periode:	-27 - 68 
+Epoche
+	Name:	frühkaiserzeitlich
+	Periode:	-27 - 68 
+	Sequenznummer:	1110
+Szene
+	ID:	99721
+	Beschreibung:	Hermaphroditos recumbent on back.
+Catalog LIMC
+	Artikel:	Hermaphroditos
+	Katalognummer:	59
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hermaphroditos (Suppl. 2009)
+	Band:	Supplement
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	3021
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Antiquarium
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via villa dei Misteri 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei (NA)
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	Ehem. A.O.
+	Nummer:	6352
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

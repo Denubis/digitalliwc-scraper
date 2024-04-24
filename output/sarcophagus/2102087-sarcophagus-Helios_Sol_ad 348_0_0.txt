@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-75649ce473e68-2
+Helios/Sol_ad 348_0_0
+
+
+
+Monument
+	ID:	31672
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Helios/Sol Luna
+	Beschreibung:	On both ends of the lid: heads of Sol and Luna.
+	Monument-URL:	http://www.limc-france.fr/objet/6185 http://www.limc-france.fr/objet/6185
+Szene
+	ID:	33280
+	Beschreibung:	On both ends of the lid: heads of Sol and Luna.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	ad 348
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Espérandieu 268
+Museum
+	Land:	FR
+	Stadt:	Avignon
+	Name:	Musée Calvet
+	Direktor:	M. le Directeur
+	Adresse:	65, Rue Joseph Vernet
+	Postleitzahl:	F-84000
+	Kontaktzenter:	Musée Calvet
+	Stadt des Kontaktzenters:	Avignon
+	Rechteinhaber der Fotos:	© Musée Calvet, Avignon
+	Hat die Fotorechte:	1

@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-7623f8e3be795-2
+Amphiaraos_68_1_0
+
+
+
+Monument
+	ID:	45181
+	Entdeckungsort:	Ercolano, Herculaneum, Herculanum
+	Objekt:	wall painting
+	Material:	marble
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	quadriga charioteer
+	Name:	Amphiaraos
+	Beschreibung:	Monochromes Gemälde auf Marmor.
+	Bibliographie:	Lippold, Gemäldekopien 111-112 Abb. 90; Pfuhl, MuZ Abb. 631; Robert, C., 19 HallWPr (1895) 11-20.
+Datierung
+	Periode:	-400 - -300 
+Epoche
+	Name:	4. Jh. v. Chr.
+	Periode:	-400 - -300 
+	Sequenznummer:	2430
+Szene
+	ID:	47540
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/47540X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/47540X202.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Amphiaraos
+	Katalognummer:	68
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9564
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

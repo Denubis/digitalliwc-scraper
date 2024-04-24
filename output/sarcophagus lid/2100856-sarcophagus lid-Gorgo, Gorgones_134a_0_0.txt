@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-75530388a801d-5
+Gorgo, Gorgones_134a_0_0
+
+
+
+Monument
+	ID:	30433
+	Objekt:	sarcophagus lid
+	Material:	wood
+	Herkunft:	Egypt
+	Land:	CH
+	Kategorie:	wood
+	Name:	Gorgo, Gorgones
+Szene
+	ID:	31899
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/hildesheim/roemer-_und_pelizaeus-museum/31899X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Gorgo, Gorgones
+	Katalognummer:	134a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1259
+Museum
+	Land:	DE
+	Stadt:	Hildesheim
+	Name:	Roemer- und Pelizaeus-Museum
+	Adresse:	Am Steine 1-2
+	Postleitzahl:	D-31134
+	Kontaktzenter:	Roemer- und Pelizaeus-Museum
+	Stadt des Kontaktzenters:	Hildesheim
+	Rechteinhaber der Fotos:	© Roemer- und Pelizaeus-Museum, Hildesheim
+	Hat die Fotorechte:	1

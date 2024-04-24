@@ -1,0 +1,58 @@
+http://ark.dasch.swiss/ark:/72163/080e-747f7f0d80fe6-7
+Kreousa II_15_0_1
+Aietes_3_0_0
+Iason_21_1_0
+
+
+
+Monument
+	ID:	15513
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	sceptre sword bull rock, cliff
+	Name:	Aietes Iason Kreousa II
+	Beschreibung:	Medeia with sword before killing her children. Then a Roman wedding scene, probably meaning the wedding of Kreousa (II) and Iason. Extant fragment shown Iason holding two bulls by the horns.
+	Bibliographie:	SarkRel II 201-203 pl. 61 no. 190.
+Datierung
+	Periode:	138 - 192 
+Epoche
+	Name:	antoninisch
+	Periode:	138 - 192 
+	Sequenznummer:	1210
+Szene
+	ID:	16021
+	Beschreibung:	Medeia with sword before killing her children. Then a Roman wedding scene, probably meaning the wedding of Kreousa (II) and Iason. Extant fragment shown Iason holding two bulls by the horns.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/torino/16021X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/torino/16021X302.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kreousa II
+	Katalognummer:	15
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Aietes
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iason
+	Katalognummer:	21
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel II 190
+Museum
+	Land:	IT
+	Stadt:	Torino
+	Rechteinhaber der Fotos:	© Musei Reali di Torino
+	Hat die Fotorechte:	1

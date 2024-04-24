@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-742ddcec55fe0-b
+Orpheus_164b_0_0
+
+
+
+Monument
+	ID:	9762
+	Entdeckungsort:	Rome
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Orpheus
+Szene
+	ID:	9970
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/catacombe_dei_ss_marcellino_e_pietro/9970X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/catacombe_dei_ss_marcellino_e_pietro/9970X299.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Orpheus
+	Katalognummer:	164b
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Cub. 64
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Catacombe dei SS. Marcellino e Pietro
+	Direktor:	Dott.ssa Barbara Mazzei
+	Adresse:	Via Napoleone III 1
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Pontificia Commissione di Archeologia Sacra
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Pontificia Commissione di Archeologia Sacra
+	Hat die Fotorechte:	0

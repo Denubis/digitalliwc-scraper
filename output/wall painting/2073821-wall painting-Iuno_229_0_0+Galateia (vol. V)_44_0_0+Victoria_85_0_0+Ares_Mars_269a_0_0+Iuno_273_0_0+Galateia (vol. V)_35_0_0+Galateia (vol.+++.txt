@@ -1,0 +1,169 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d081a9434d6-2
+Iuno_229_0_0
+Galateia (vol. V)_44_0_0
+Victoria_85_0_0
+Ares/Mars_269a_0_0
+Iuno_273_0_0
+Galateia (vol. V)_35_0_0
+Galateia (vol. V)_5_0_0
+Kyparissos_1_0_0
+Africa_29_0_0
+Endymion_3_0_0
+Cheiron_67_1_0
+Achilleus_53a_0_0
+Venus_76_0_0
+Medeia_12_0_0
+
+
+
+Monument
+	ID:	3179
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	IX 3,5 (Casa delle Suonatrici)
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	wreath, crown, stephane, corona lyre sceptre lion spear pillar crescent of the moon dog child centaur elephant architecture
+	Name:	Achilleus Africa Ares/Mars Cheiron Endymion Galateia Hera/Iuno Kyparissos Medeia Aphrodite/Venus Victoria Iuno Venus
+	Beschreibung:	Various mural paintings in the Casa die M. Lucretius.
+	Bibliographie:	Helbig, Wandgemälde no. 950. 1116; Schefold, WP 246-250.
+Datierung
+	Periode:	69 - 79 
+Epoche
+	Name:	vespasianisch
+	Periode:	69 - 79 
+	Sequenznummer:	1185
+Szene
+	ID:	23299
+	Szenerieangabe:	7
+	Beschreibung:	Bust of Iuno with stephane on her head. Polyphemos receiving the letter of Galateia. Victoria in biga, holding wreath and palm branch.
+	Sequenznummer:	170
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/23299X203.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Iuno
+	Katalognummer:	229
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Galateia (vol. V)
+	Katalognummer:	44
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Victoria
+	Katalognummer:	85
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ares/Mars
+	Katalognummer:	269a
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	23444
+	Szenerieangabe:	17
+	Beschreibung:	Mask of Iuno, on the right a peacock.
+	Sequenznummer:	270
+Catalog LIMC
+	Artikel:	Iuno
+	Katalognummer:	273
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	27158
+	Szenerieangabe:	5
+	Beschreibung:	In a rocky landscape a house. Kyparissos, nude, seated, with javelin. He looks at a hurt stag. Polyphemos and Galateia. Galateia on a dolphin.
+	Bibliographie:	Helbig, Wandgemälde no. 1116.
+	Sequenznummer:	150
+	Name:	Africa Galateia Kyparissos
+	Stichwort:	sceptre lion pillar elephant
+Catalog LIMC
+	Artikel:	Galateia (vol. V)
+	Katalognummer:	35
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Galateia (vol. V)
+	Katalognummer:	5
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kyparissos
+	Katalognummer:	1
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Africa
+	Katalognummer:	29
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	32857
+	Szenerieangabe:	4
+	Bibliographie:	Helbig, Wandgemälde no. 950; Schefold, WP 248; Sichtermann, H., Zur Achill- und Chiron-Gruppe, RM 64 (1957) pl. 18, 3.
+	Sequenznummer:	140
+	Name:	Achilleus Cheiron Endymion
+	Stichwort:	wreath, crown, stephane, corona lyre spear crescent of the moon dog child centaur architecture
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/32857X002.jpg
+Foto
+	Neues Foto:	1
+Datierung
+	Periode:	69 - 79 
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Cheiron
+	Katalognummer:	67
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	53a
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49501
+	Szenerieangabe:	6
+	Beschreibung:	Venus at a lake.
+	Sequenznummer:	160
+Catalog LIMC
+	Artikel:	Venus
+	Katalognummer:	76
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49502
+	Szenerieangabe:	9
+	Beschreibung:	Standing Medeia, two children looking up to her.
+	Sequenznummer:	190
+Catalog LIMC
+	Artikel:	Medeia
+	Katalognummer:	12
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	IX 3,5
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa delle Suonatrici

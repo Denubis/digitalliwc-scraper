@@ -1,0 +1,53 @@
+http://ark.dasch.swiss/ark:/72163/080e-76497c8370ad5-d
+
+
+
+Monument
+	ID:	51090
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 4,31.51 (Casa dei Capitelli colorati / Casa di Arianna)
+	Objekt:	marquetry
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	varia
+	Beschreibung:	Menad carrying a plate approaching a Hermes Priapos
+	Bibliographie:	Elia, O., BollArte 23, 1929, 265 ff. Abb. 1 A. B.; Dohrn, R., RM  72, 1965, 130-131 Taf. 57, 2; Schefold, WP 183
+	Kommentar:	Bildet mit Inv. 9977 ein Paar.
+Datierung
+	Periode:	59 - 79 
+Epoche
+	Name:	2. Hälfte 1. Jh. n. Chr.
+	Periode:	50 - 100 
+	Sequenznummer:	3050
+Szene
+	ID:	56252
+	Beschreibung:	Menad carrying a plate approaching a Hermes Priapos
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	345
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 5. Kultbilder
+	Sequenznummer:	1800
+	Bandnummer:	2
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9979
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	395

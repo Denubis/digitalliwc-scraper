@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-74dd8654b4a1b-3
+Horai/Horae_173_1_0
+Eros/Amor, Cupido_212_0_0
+
+
+
+Monument
+	ID:	22154
+	Entdeckungsort:	Modena
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief_stone
+	Name:	Eros/Amor, Cupido Horai/Horae
+	Beschreibung:	At the acroteria of the sarcophagus are the busts of the four Horae - at the front Summer and Autumn, at the back Spring and Winter.
+Szene
+	ID:	23173
+	Beschreibung:	At the acroteria of the sarcophagus are the busts of the four Horae - at the front Summer and Autumn, at the back Spring and Winter.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/modena/galleria_e_museo_estense/23173X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	173
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	212
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Modena
+	Name:	Galleria e Museo Estense
+	Rechteinhaber der Fotos:	© Galleria e Museo Estense, Modena
+	Hat die Fotorechte:	1

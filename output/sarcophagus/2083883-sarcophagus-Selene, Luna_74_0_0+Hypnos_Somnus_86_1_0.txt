@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-74605bc08f9dc-5
+Selene, Luna_74_0_0
+Hypnos/Somnus_86_1_0
+
+
+
+Monument
+	ID:	13320
+	Entdeckungsort:	Ostia
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hypnos/Somnus Luna Selene
+	Beschreibung:	Selene, the zodiacal sign of Cancer and Endymion.
+Szene
+	ID:	13663
+	Beschreibung:	Selene, the zodiacal sign of Cancer and Endymion.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Selene, Luna
+	Katalognummer:	74
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	86
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Ostia
+	Direktor:	Dott.ssa Elvira Angeloni, Archivio Fotografico
+	Adresse:	Viale dei Romagnoli 717
+	Postleitzahl:	I-00119
+	Kontaktzenter:	Soprintendenza archeologica di Ostia
+	Stadt des Kontaktzenters:	Ostia Antica - Roma
+	Rechteinhaber der Fotos:	© Soprintendenza archeologica di Ostia
+	Hat die Fotorechte:	1

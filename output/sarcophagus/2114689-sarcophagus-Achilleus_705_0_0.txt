@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-7618c72c9420a-c
+Achilleus_705_0_0
+
+
+
+Monument
+	ID:	44391
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	warrior, soldier
+	Name:	Achilleus
+	Bibliographie:	SarkRel II Nr. 55; Kallipolitis, B., Chronologiki kataxis ton meta mythologokon parastaseon attikon sarkophagon tis romaikis epochis (1958) Nr. 169; Giuliano, A., Il commercio dei sarcofagi attici (1962) 60 Nr. 369; Tusa, V., I sarcofagi romani in Sicilia (1957) 195 Nr. 97 Taf. 128, 238.
+Szene
+	ID:	46687
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	705
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	63
+Museum
+	Land:	IT
+	Stadt:	Taormina
+	Name:	Antiquarium del Teatro Greco Romano
+	Rechteinhaber der Fotos:	© Antiquarium del Teatro Greco Romano, Taormina
+	Hat die Fotorechte:	0

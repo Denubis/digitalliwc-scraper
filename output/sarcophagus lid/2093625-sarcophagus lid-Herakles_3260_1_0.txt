@@ -1,0 +1,48 @@
+http://ark.dasch.swiss/ark:/72163/080e-74eba2ab688a2-6
+Herakles_3260_1_0
+
+
+
+Monument
+	ID:	23143
+	Objekt:	sarcophagus lid
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Herakles
+	Beschreibung:	Herakles supported by a satyr.
+Datierung
+	Periode:	250 - 275 
+Szene
+	ID:	49127
+	Szenerieangabe:	couvercle
+	Beschreibung:	Herakles supported by a satyr.
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_borghese/49127X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_borghese/49127X302.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	3260
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel IV 4, 332
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Borghese
+	Direktor:	Direttore Dott.ssa Alba Costamagna
+	Anrede:	Gentile Dott.ssa Alba Costamagna,
+	Adresse:	Palazzo Scipione Borghese
+	Postleitzahl:	I-00197
+	Kontaktzenter:	Museo e Galleria Borghese
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Palazzo Borghese, Roma
+	Hat die Fotorechte:	1

@@ -1,0 +1,99 @@
+http://ark.dasch.swiss/ark:/72163/080e-74878b961c025-1
+Menses_30_0_0
+Artemis/Diana_55_1_0
+
+
+
+Monument
+	ID:	16081
+	Entdeckungsort:	Ostia
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	column torch cult image, cult statue procession worshipper, praying man grapes staff gesture: one forearm raised (worship, prayer, greeting?) representation of the months
+	Name:	Artemis/Diana Aphrodite/Venus Liber pater Menses
+	Beschreibung:	Teil eines Zyklus von Monatsdarstellungen. Der linke Teil zeigt vier kleine Jungen in Kapuzentracht mit Fackeln betend vor Diana auf einer hohen Säule, dargestellt ist wohl das Fest "Natalis Dianae" im August. Rechts ist eine zweite Gruppe von fünf Kindern in einer Prozession zu sehen, die Körbe mit Weintrauben tragen, zwei führen außerdem Büsten auf Stäben mit (vielleicht Venus und Liber pater), an denen ebenfalls Weintrauben hängen. Vermutlich handelt es sich um ein Weinlesefest im September. 
+	Bibliographie:	Helbig(4) I Nr. 467; Bieber, Copies 72 Abb. 259; Vermaseren, M. J., Corpus Cultus Cybelae Attidisque IV 20 Nr. 45 Taf. 19; Herrman, P. (Hg.), Denkmäler der Malerei des Altertums (1927) Taf. 148. Stern, H., Le cycle illustré des mois trouvé à Ostie, Journal des Savants (1975), 121-129, fig. 2. 
+	Kommentar:	Vom gleichen Zyklus wie Inv. 41017 (Fiche 51102).
+Datierung
+	Periode:	200 - 300 
+Epoche
+	Name:	3. Jh. n. Chr.
+	Periode:	200 - 300 
+	Sequenznummer:	3280
+Datierung
+	Periode:	209 - 211 
+Szene
+	ID:	16692
+	Beschreibung:	Teil eines Zyklus von Monatsdarstellungen. Der linke Teil zeigt vier kleine Jungen in Kapuzentracht mit Fackeln betend vor Diana auf einer hohen Säule, dargestellt ist wohl das Fest "Natalis Dianae" im August. Rechts ist eine zweite Gruppe von fünf Kindern in einer Prozession zu sehen, die Körbe mit Weintrauben tragen, zwei führen außerdem Büsten auf Stäben mit (vielleicht Venus und Liber pater), an denen ebenfalls Weintrauben hängen. Vermutlich handelt es sich um ein Weinlesefest im September. 
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/biblioteca_apostolica_vaticana/sala_delle_nozze_aldobrandine/16692X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/biblioteca_apostolica_vaticana/sala_delle_nozze_aldobrandine/16692X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/biblioteca_apostolica_vaticana/sala_delle_nozze_aldobrandine/16692X301.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/biblioteca_apostolica_vaticana/sala_delle_nozze_aldobrandine/16692X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/biblioteca_apostolica_vaticana/sala_delle_nozze_aldobrandine/16692X305.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/biblioteca_apostolica_vaticana/sala_delle_nozze_aldobrandine/16692X306.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	82
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	III. 6.c. Verehrung
+	Sequenznummer:	2400
+	Bandnummer:	3
+Catalog Thes CRA
+	Indexnummer:	96
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	IV. 1.b. Kultorte (Darstellungen)
+	Sequenznummer:	4500
+	Bandnummer:	4
+Catalog Thes CRA
+	Indexnummer:	2
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VI. 2.a. Ackerbau, röm.
+	Bandnummer:	6
+Catalog Thes CRA
+	Indexnummer:	4
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VII. 3. Feste und Spiele, röm.
+Catalog LIMC
+	Artikel:	Menses
+	Katalognummer:	30
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	55
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	79643
+Museum
+	Land:	VA
+	Stadt:	Vaticano
+	Name:	Biblioteca Apostolica Vaticana, Sala delle Nozze Aldobrandine
+	Direktor:	Prefetto Raffaele Farina, S. D. B.
+	Anrede:	Reverendissimo Prefetto
+	Postleitzahl:	I-00120
+	Kontaktzenter:	Biblioteca Apostolica Vaticana
+	Stadt des Kontaktzenters:	Città del Vaticano
+	Rechteinhaber der Fotos:	© Biblioteca Apostolica Vaticana
+	Hat die Fotorechte:	1

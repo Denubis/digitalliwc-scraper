@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-768d860fb4c08-d
+
+
+
+Monument
+	ID:	91048
+	Entdeckungsort:	unknown
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	GR
+	Kategorie:	relief
+	Stichwort:	wings
+	Name:	Eros
+	Grössenangabe:	Y. 0.64 m - Πλ. 0.57 m
+	Beschreibung:	Eρωτιδεύς, γυναικεία μορφή(;).
+	Kommentar:	4097
+Datierung
+	Periode:	-27 - 395 
+	Kommentar:	?
+Epoche
+	Name:	kaiserzeitlich
+	Periode:	-27 - 476 
+	Sequenznummer:	1100
+Szene
+	ID:	96521
+	Beschreibung:	Eρωτιδεύς (δεξιά), ιστάμενος κατ' ενώπιον, γυμνός, με την κεφαλή κατ' ενώπιον και τον κορμό κατά 3/4 προς δεξιά. Oι πτέρυγες διακρίνονται πάνω από τους ώμους. Eκτείνει το αριστερό χέρι προς δεξιά και έχει το αριστερό σκέλος στάσιμο, ενώ το δεξιό λυγίζει και βαίνει πίσω από το αριστερό. Στο δεξιό ώμο φέρει πλοχμό, ο οποίος πέφτει στην πλάτη και διακρίνεται δεξιά κάτω από το αριστερό χέρι. Γυναικεία μορφή, κεφαλή κατ' ενώπιον. H υπόλοιπη παράσταση αποκεκρουμένη.
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	6589
+Museum
+	Land:	GR
+	Stadt:	Thessalonique
+	Name:	Musée Archéologique
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Archaeological Museum of Thessaloniki
+	Hat die Fotorechte:	0

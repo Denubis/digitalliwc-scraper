@@ -1,0 +1,97 @@
+http://ark.dasch.swiss/ark:/72163/080e-73cfbc068fd48-8
+Athena/Minerva_236_1_0
+Herakles_2944_0_0
+Kentauroi et Kentaurides (S)_393_1_0
+Pegasos (Pegasos, Bellerophon)_138_0_0
+Proitos_11_1_0
+Venus_35_1_0
+Venus_192_1_0
+Diomedes I_69_0_0
+
+
+
+Monument
+	ID:	3125
+	Entdeckungsort:	Megiste (Castelorizo)
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Name:	Diomedes I Athena/Minerva Herakles Pegasos Proitos Venus Kentauroi and Kentaurides
+	Beschreibung:	Diomedes (I), chlamys over left arm holding palladion, sword upright in his right hand, moving left looking back at Odysseus. Odysseus with pilos, chlamys and chitoniskos, moving right, looking back, right hand to chin, left hand holding sword scabbard. On one of the long sides Proitos standing close to his seated companion. Aphrodite and Eros, Bellerophon and Pegasos. Herakles(?) with cloak and club watches Aphrodite build a trophy. Centaur wrestling Lapith.
+Szene
+	ID:	17557
+	Beschreibung:	Diomedes (I), chlamys over left arm holding palladion, sword upright in his right hand, moving left looking back at Odysseus. Odysseus with pilos, chlamys and chitoniskos, moving right, looking back, right hand to chin, left hand holding sword scabbard. On one of the long sides Proitos standing close to his seated companion. Aphrodite and Eros, Bellerophon and Pegasos. Herakles(?) with cloak and club watches Aphrodite build a trophy. Centaur wrestling Lapith.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/athens/national_archaeological_museum/17557X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/athens/national_archaeological_museum/17557X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/athens/national_archaeological_museum/17557X007.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/athens/national_archaeological_museum/17557X101.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	236
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2944
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	393
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Pegasos (Pegasos, Bellerophon)
+	Katalognummer:	138
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Proitos
+	Katalognummer:	11
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Venus
+	Katalognummer:	35
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Venus
+	Katalognummer:	192
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Diomedes I
+	Katalognummer:	69
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1189
+Museum
+	Land:	GR
+	Stadt:	Athens
+	Name:	National Archaeological Museum
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Anrede:	Dear Director,
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© National Archaeological Museum, Athens
+	Kommentar:	Pour les intailles de la collection Karapanos voir Musée Numismatique.  Inv. VS = ancienne collection Vlastos-Serpieri.
+	Hat die Fotorechte:	1

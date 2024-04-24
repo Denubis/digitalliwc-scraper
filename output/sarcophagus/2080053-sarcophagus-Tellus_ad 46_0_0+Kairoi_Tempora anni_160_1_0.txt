@@ -1,0 +1,48 @@
+http://ark.dasch.swiss/ark:/72163/080e-74299a448a88e-1
+Tellus_ad 46_0_0
+Kairoi/Tempora anni_160_1_0
+
+
+
+Monument
+	ID:	9460
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kairoi/Tempora anni
+	Beschreibung:	Victoriae holding the clipeus containing Dionysos as child a woman and a child in velificatio (modern supplement). The scene is framed by the Seasons.
+Datierung
+	Periode:	275 
+Szene
+	ID:	9664
+	Beschreibung:	Victoriae holding the clipeus containing Dionysos as child a woman and a child in velificatio (modern supplement). The scene is framed by the Seasons.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/9664X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Tellus
+	Katalognummer:	ad 46
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	160
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 348
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

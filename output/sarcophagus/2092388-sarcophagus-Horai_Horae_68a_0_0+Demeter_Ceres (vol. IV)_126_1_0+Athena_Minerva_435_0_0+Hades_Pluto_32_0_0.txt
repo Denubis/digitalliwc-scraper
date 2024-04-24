@@ -1,0 +1,70 @@
+http://ark.dasch.swiss/ark:/72163/080e-74d9f359fa7b9-a
+Horai/Horae_68a_0_0
+Demeter/Ceres (vol. IV)_126_1_0
+Athena/Minerva_435_0_0
+Hades/Pluto_32_0_0
+
+
+
+Monument
+	ID:	21901
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Athena/Minerva Hades Demeter/Ceres Venus Hades/Pluto
+	Beschreibung:	Sarcophagus with the rape of Persephone: Pluto on the quadriga, behind him Minerva, Venus and Caligo trying to hold Persephone back, Ceres on a charriot drawn by snakes. In the corners two winged Horae with garlands in their hands. Both figures appear between Minerva and Ceres.
+Datierung
+	Periode:	150 
+Szene
+	ID:	22906
+	Beschreibung:	Sarcophagus with the rape of Persephone: Pluto on the quadriga, behind him Minerva and Venus trying to hold her back, Ceres on a charriot drawn by snakes. In the corners two winged Horae with garlands in their hands. Both figures appear between Minerva and Ceres.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/roma/villa_giustiniani_massimo/22906X303.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	68a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Demeter/Ceres (vol. IV)
+	Katalognummer:	126
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	435
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	32
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	741
+Museum
+	Land:	VA
+	Stadt:	Vaticano
+	Name:	Musei Vaticani
+	Direktor:	Direttore Dott. Antonio Paolucci
+	Anrede:	Chiarissimo Direttore,
+	Postleitzahl:	I-00120
+	Kontaktzenter:	Monumenti, Musei e Gallerie Pontificie
+	Stadt des Kontaktzenters:	Città del Vaticano
+	Rechteinhaber der Fotos:	© Musei Vaticani
+	Kommentar:	Sont réunis sous cette dénomination générique - compte tenu à la fois de leur numérotation unique et de leurs déplacements à l'intérieur des musées - les monuments conservés dans le Museo Chiaramonti, le Museo Gregoriano Etrusco, le Museo Gregoriano Profano, le Museo Pio Clementino et le Museo Pio Cristiano.  En revanche, la localisation spécifique a été conservée dans les cas suivants: Basilica San Pietro, Biblioteca Apostolica Vaticana (et Museo Profano, Museo Sacro, Sala delle Nozze Aldobrandine), Camposanto Teutonico, Giardini, Medagliere Vaticano, Museo Gregoriano Egizio, Necropoli sotto San Pietro.
+	Hat die Fotorechte:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 3, 362
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Giustiniani Massimo
+	Rechteinhaber der Fotos:	© Villa Giustiniani Massimo, Roma
+	Hat die Fotorechte:	1

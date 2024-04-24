@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ee52bbec54e-b
+Kairoi/Tempora anni_79_1_0
+
+
+
+Monument
+	ID:	23332
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kairoi/Tempora anni
+	Beschreibung:	On the minor sides an Eros each, one foot on a rock. Both carry fruit (2x Fall).
+Datierung
+	Periode:	200 - 225 
+Szene
+	ID:	24476
+	Beschreibung:	On the minor sides an Eros each, one foot on a rock. Both carry fruit (2x Fall).
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/amalfi/duomo/24476X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	79
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel V 4, 141
+Museum
+	Land:	IT
+	Stadt:	Amalfi
+	Name:	Duomo
+	Rechteinhaber der Fotos:	© Duomo, Amalfi
+	Hat die Fotorechte:	1

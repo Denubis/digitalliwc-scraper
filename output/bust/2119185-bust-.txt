@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-76590e29e95da-6
+
+
+
+Monument
+	ID:	52260
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	Triangular Forum
+	Objekt:	bust
+	Material:	terracotta
+	Land:	CH
+	Kategorie:	sculpture in the round
+	Beschreibung:	Terracotta bust of a woman with polos, necklace and earrings (votive offering)
+	Bibliographie:	D’Alessio 27-28 tipo A II1 tav. 7, a.
+Datierung
+	Periode:	-400 - -300 
+Epoche
+	Name:	4. Jh. v. Chr.
+	Periode:	-400 - -300 
+	Sequenznummer:	2430
+Szene
+	ID:	57513
+	Beschreibung:	Terracotta bust of a woman with polos, necklace and earrings (votive offering)
+Catalog Thes CRA
+	Indexnummer:	109
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 2.d. Weihgeschenke, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	600
+	Bandnummer:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	79630
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Antiquarium
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via villa dei Misteri 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei (NA)
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

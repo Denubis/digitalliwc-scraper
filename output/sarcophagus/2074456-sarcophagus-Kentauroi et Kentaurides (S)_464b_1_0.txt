@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d995b57847d-1
+Kentauroi et Kentaurides (S)_464b_1_0
+
+
+
+Monument
+	ID:	3816
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kentauroi and Kentaurides
+	Beschreibung:	Centaur playing music.
+Szene
+	ID:	3857
+	Beschreibung:	Centaur playing music.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/necropoli_sotto_san_pietro/3857X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	464b
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Mausoleo Z
+Museum
+	Land:	VA
+	Stadt:	Vaticano
+	Name:	Necropoli sotto San Pietro
+	Rechteinhaber der Fotos:	© Vaticano
+	Hat die Fotorechte:	1

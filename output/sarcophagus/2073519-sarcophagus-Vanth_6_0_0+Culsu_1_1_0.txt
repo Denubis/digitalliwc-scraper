@@ -1,0 +1,49 @@
+http://ark.dasch.swiss/ark:/72163/080e-73cc305db6670-7
+Vanth_6_0_0
+Culsu_1_1_0
+
+
+
+Monument
+	ID:	2875
+	Entdeckungsort:	Chiusi, Camars, Clevsin, Clusium
+	Objekt:	sarcophagus
+	Material:	alabaster
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Culsu Vanth
+	Beschreibung:	Sarcophagus of Hasti Afunei: On the right Hast Afunei says goodbye to her husband while a deamon is touching her already at her shoulder. To the left of the couple five further members of the family watch the secene. On the left the gate to the underworld where Culsu (with flaming torch) and Vanth are waiting. 
+Szene
+	ID:	2896
+	Beschreibung:	Sarcophagus of Hasti Afunei: On the right Hast Afunei says goodbye to her husband while a deamon is touching her already at her shoulder. To the left of the couple five further members of the family watch the secene. On the left the gate to the underworld where Culsu (with flaming torch) and Vanth are waiting. 
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/palermo/museo_archeologico_regionale_a_salinas/2896X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Vanth
+	Katalognummer:	6
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Culsu
+	Katalognummer:	1
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Coll. Casuccini 24
+Museum
+	Land:	IT
+	Stadt:	Palermo
+	Name:	Museo Archeologico Regionale "A. Salinas"
+	Direktor:	Dir. Dott.ssa Giuseppina Favara
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Piazza Olivella 24
+	Postleitzahl:	I-90100
+	Kontaktzenter:	Museo Archeologico Regionale "A. Salinas"
+	Stadt des Kontaktzenters:	Palermo
+	Rechteinhaber der Fotos:	© Polo Regionale di Palermo per i Parchi e i Musei Archeologici
+	Hat die Fotorechte:	1

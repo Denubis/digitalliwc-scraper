@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-75097c93d976a-1
+Hestia/Vesta_2_0_0
+
+
+
+Monument
+	ID:	25250
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 12,7
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Hestia/Vesta
+	Beschreibung:	Vesta, standing; in her left hand a sceptre, in her right hand a sheaf of grain; behind an ass with a bell around its neck. To the right Mercurius. The central group consists of Lares and Genii around a blazing tripod.
+Szene
+	ID:	49474
+	Beschreibung:	Vesta, standing; in her left hand a sceptre, in her right hand a sheaf of grain; behind an ass with a bell around its neck. To the right Mercurius. The central group consists of Lares and Genii around a blazing tripod.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Hestia/Vesta
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VII 12,7
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1

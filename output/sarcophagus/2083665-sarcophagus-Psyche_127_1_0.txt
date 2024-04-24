@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-745d3de3e101a-a
+Psyche_127_1_0
+
+
+
+Monument
+	ID:	13100
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Psyche
+Szene
+	ID:	13428
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	127
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Sesto Fiorentino
+	Name:	Villa Guicciardini
+	Rechteinhaber der Fotos:	© Villa Guicciardini, Sesto Fiorentino
+	Hat die Fotorechte:	0

@@ -1,0 +1,49 @@
+http://ark.dasch.swiss/ark:/72163/080e-741f567267a08-e
+Penelope_36_1_0
+Odysseus_218b_0_0
+
+
+
+Monument
+	ID:	8732
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 10,2
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Odysseus Penelope
+	Beschreibung:	Seated Odysseus surrounded by five figures, one of them Penelope.
+Szene
+	ID:	8930
+	Beschreibung:	Seated Odysseus surrounded by five figures, one of them Penelope.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/8930X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Penelope
+	Katalognummer:	36
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Odysseus
+	Katalognummer:	218b
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9107
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-75d9e6db423a4-8
+Ares/Mars_352a_0_0
+
+
+
+Monument
+	ID:	39953
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	sarcophagus
+Szene
+	ID:	42018
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Ares/Mars
+	Katalognummer:	352a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	DE
+	Stadt:	München
+	Name:	Künstlerhaus am Lenbachplatz
+	Rechteinhaber der Fotos:	© Künstlerhaus am Lenbachplatz, München
+	Hat die Fotorechte:	0
+Inventar
+	Spezifikation:	Ehem. A.O.
+	Nummer:	33
+Museum
+	Land:	DE
+	Stadt:	Darmstadt
+	Name:	Sammlung von Heyl (ehemals)
+	Rechteinhaber der Fotos:	© Collection von Heyl (once)
+	Kommentar:	Numéros d'après Langlotz, E., Sammlung ... Freiherrn Max von Heyl II (1930) ->??
+	Hat die Fotorechte:	1

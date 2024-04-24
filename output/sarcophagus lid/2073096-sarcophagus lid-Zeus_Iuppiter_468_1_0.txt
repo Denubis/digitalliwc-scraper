@@ -1,0 +1,54 @@
+http://ark.dasch.swiss/ark:/72163/080e-73c624388dded-2
+Zeus/Iuppiter_468_1_0
+
+
+
+Monument
+	ID:	2447
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus lid
+	Material:	stone
+	Land:	CH
+	Kategorie:	relief
+	Name:	Zeus/Iuppiter
+	Beschreibung:	Ein Spielgeber in Toga mit Büstenszepter fährt in einem mit den Bildern der kapitolinischen Trias geschmückten Wagen. Er wird von einem Reiter und weiteren togati begleitet.
+	Museums-URL:	http://www.smb-digital.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=699472&viewType=detailView
+Szene
+	ID:	2465
+	Szenerieangabe:	couvercle
+	Beschreibung:	Ein Spielgeber in Toga mit Büstenszepter fährt in einem mit den Bildern der kapitolinischen Trias geschmückten Wagen. Er wird von einem Reiter und weiteren togati begleitet.
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/berlin/staatliche_museen_zu_berlin/antikensammlung/2465X001.jpg
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	50
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 1. Prozessionen, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	100
+	Bandnummer:	1
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	468
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Sk 967
+Museum
+	Land:	DE
+	Stadt:	Berlin
+	Name:	Staatliche Museen zu Berlin, Antikensammlung
+	Direktor:	Dir. Prof. Dr. Andreas Scholl
+	Anrede:	Sehr geehrter Herr Professor,
+	Adresse:	Bodestrasse 1-3
+	Postleitzahl:	D-10178
+	E-Mail:	ant@smb.spk-berlin.de
+	Kontaktzenter:	Antikensammlung, Staatliche Museen zu Berlin - Preussischer Kulturbesitz
+	Stadt des Kontaktzenters:	Berlin
+	Rechteinhaber der Fotos:	© Staatliche Museen zu Berlin, Antikensammlung
+	Hat die Fotorechte:	1

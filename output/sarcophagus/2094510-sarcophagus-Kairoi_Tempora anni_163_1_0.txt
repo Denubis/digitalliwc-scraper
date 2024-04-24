@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-74f849b257aab-0
+Kairoi/Tempora anni_163_1_0
+
+
+
+Monument
+	ID:	24040
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kairoi/Tempora anni
+	Beschreibung:	Main side: Six Genii, the two central ones hold the clipeus with the portrait of the deceased. Below, putti playing with animals. The other Genii are the Seasons.
+Datierung
+	Periode:	270 
+Szene
+	ID:	25222
+	Beschreibung:	Main side: Six Genii, the two central ones hold the clipeus with the portrait of the deceased. Below, putti playing with animals. The other Genii are the Seasons.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/san_francisco/fine_arts_museums_of_san_francisco/california_palace_of_the_legion_of_honour/25222X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	163
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	54662
+Museum
+	Land:	US
+	Stadt:	San Francisco
+	Name:	Fine Arts Museums of San Francisco, California Palace of the Legion of Honour
+	Rechteinhaber der Fotos:	© Fine Arts Museums of San Francisco
+	Hat die Fotorechte:	0

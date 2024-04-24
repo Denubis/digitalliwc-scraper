@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-75139bcc98c3e-b
+Gorgones Romanae_8_0_0
+
+
+
+Monument
+	ID:	25965
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Catacombs of the via Latina
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Gorgo, Gorgones
+	Beschreibung:	On the ceiling: gorgoneion; on the ceiling of a sepulchral niche another gorgoneion.
+Szene
+	ID:	49593
+	Beschreibung:	On the ceiling: gorgoneion; on the ceiling of a sepulchral niche another gorgoneion.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Gorgones Romanae
+	Katalognummer:	8
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Cub. E, volta
+Museum
+	Land:	IT
+	Stadt:	Roma, Via Latina
+	Name:	Catacomba di Via Latina
+	Rechteinhaber der Fotos:	© Catacomba di Via Latina, Roma
+	Hat die Fotorechte:	1

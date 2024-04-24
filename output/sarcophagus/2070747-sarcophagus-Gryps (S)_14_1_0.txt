@@ -1,0 +1,57 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a48f130ed4c-5
+Gryps (S)_14_1_0
+
+
+
+Monument
+	ID:	48
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Gryps
+	Beschreibung:	Depiction of Gryps, a composite being with winged body of a lion and the head of an eagle.
+	Museums-URL:	http://www.getty.edu/art/collection/objects/7147/unknown-maker-lidded-sarcophagus-boy-with-cupids-feeding-griffins-roman-110-130/
+Datierung
+	Periode:	110 - 130 
+Szene
+	ID:	247
+	Beschreibung:	Depiction of Gryps, a composite being with winged body of a lion and the head of an eagle.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/malibu/j_paul_getty_museum/247X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/malibu/j_paul_getty_museum/247X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/malibu/j_paul_getty_museum/247X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/malibu/j_paul_getty_museum/247X103.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Gryps (S)
+	Katalognummer:	14
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	74.AA.25
+Museum
+	Land:	US
+	Stadt:	Malibu
+	Name:	J. Paul Getty Museum
+	Direktor:	Dr. Jackie Burns
+	Adresse:	1200 Getty Center Drive Suite 1000
+	Postleitzahl:	USA-
+	E-Mail:	jburns@getty.edu
+	Kontaktzenter:	Registrars Office, J. Paul Getty Museum
+	Stadt des Kontaktzenters:	Los Angeles, CA 90049
+	Rechteinhaber der Fotos:	© J. Paul Getty Museum
+	Hat die Fotorechte:	1

@@ -1,0 +1,60 @@
+http://ark.dasch.swiss/ark:/72163/080e-74fefa89c06cf-8
+Idaios_8b_0_0
+Achilleus_692_0_0
+
+
+
+Monument
+	ID:	24510
+	Entdeckungsort:	Athens
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	GR
+	Kategorie:	relief
+	Stichwort:	wreath, crown, stephane, corona corselet weapon donkey charioteer old man Phrygian cap
+	Name:	Achilleus Idaios
+	Beschreibung:	Σκηνή του Tρωικού Πολέμου
+	Bibliographie:	Robert, Heldensage(4) 63 Taf. XXIV.Kallipolitis, Aττικαί σαρκοφάγοι της ρωμαϊκής εποχής  22 αρ. 22.
+	Kommentar:	5477
+Datierung
+	Periode:	190 - 210 
+Epoche
+	Name:	Ende 2. Jh. n. Chr.
+	Periode:	190 - 200 
+	Sequenznummer:	3170
+Datierung
+	Periode:	190 - 210 
+Epoche
+	Name:	Anfang 3. Jh. n. Chr.
+	Periode:	200 - 210 
+	Sequenznummer:	3290
+Szene
+	ID:	25721
+	Beschreibung:	Three scenes: On the right kneeling Priamos asking Achilleus for the corpse of Hektor. In the centre Achilleus on his chariot dragging Hektor. On the left the chariot of Priamos from which Trojans are unloading goods.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Idaios
+	Katalognummer:	8b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	692
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2414
+Museum
+	Land:	GR
+	Stadt:	Athens
+	Name:	National Archaeological Museum
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Anrede:	Dear Director,
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© National Archaeological Museum, Athens
+	Kommentar:	Pour les intailles de la collection Karapanos voir Musée Numismatique.  Inv. VS = ancienne collection Vlastos-Serpieri.
+	Hat die Fotorechte:	1

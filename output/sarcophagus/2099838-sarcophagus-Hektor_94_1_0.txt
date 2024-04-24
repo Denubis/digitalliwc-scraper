@@ -1,0 +1,102 @@
+http://ark.dasch.swiss/ark:/72163/080e-754475bcd8ebb-3
+Hektor_94_1_0
+
+
+
+Monument
+	ID:	29406
+	Entdeckungsort:	unknown
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Name:	Hektor
+	Grössenangabe:	H: 54 cm; T: 71 cm; L: 207 cm
+	Beschreibung:	Girlandensarkophag mit mythologischen Szenen
+	Bibliographie:	N. Gmür Brianza, Girlandensarkophag mit mythologischen Szene, in: E. Berger (Hrsg.), Antike Kunstwerke aus der Sammlung Ludwig III (1990), 403-415
+Datierung
+	Kommentar:	um
+Epoche
+	Name:	1. Viertel 2. Jh. n. Chr.
+	Periode:	100 - 125 
+	Sequenznummer:	3200
+Szene
+	ID:	30851
+	Szenerieangabe:	face principale
+	Beschreibung:	Die Frontseite des Sarkophages wir durch zwei riesige, an den Enden von drei Putti gehaltenen Girlanden in zwei Bildhälften aufgeteilt.In der linken Bildhälfte ist vermutlich der Raub der Waffen des Philoktet dargestellt. Im Zentrum sitzt der nur mit einem Umhang bekleidete Philoktet in einer felsigen Landschaft. Von links entfernt ein Krieger in voller Rüstung einen Gegenstand, wohingegen rechts von ein nackter Man mit einem weiteren Gegenstand wegrennt. Ganz rechts aussen sitzt eine Göttin auf einem Felsen und betrachet die ganze Handlung.Die rechte Bildhälfte zeigt den Mythos von Hektors Tod. Sein Leichnahm wird gerade von zwei Krieger weggetragen, dvon denen der linke in voller Rüstung, der rechte nur mit Helm bekleidet ist. Ein alter Mann mit Mantel und Stock begeleitet den Leichenzug.
+	Sequenznummer:	10
+	Stichwort:	helmet garland rock, cliff stick, cane weapon the dead
+Foto
+	Monument-URL:	http://www.limc.ch/Images/switzerland/basel/antikenmuseum_und_sammlung_ludwig/30851X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/switzerland/basel/antikenmuseum_und_sammlung_ludwig/30851X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/switzerland/basel/antikenmuseum_und_sammlung_ludwig/30851X103.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/switzerland/basel/antikenmuseum_und_sammlung_ludwig/30851X104.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/switzerland/basel/antikenmuseum_und_sammlung_ludwig/30851X105.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hektor
+	Katalognummer:	94
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	56879
+	Szenerieangabe:	côté dr.
+	Beschreibung:	Über der seitlichen Girlande, die an der hinteren Ecke von einem Greifen im Maul gehalten wird, ist eine Dreifigurengruppe dargestellt. In der Mitte steht eine nach rechts gewendete Frau im langen Mantel; der  junge Mann rechts von ihr legt ihr einen Kranz aufs Haupt. Hinter ihr steht ein weiterer junger Mann; beide sind nur mit einem Mäntelchen bekleidet. Ob ein Zusammenhang mit den Frontszenen besteht, ist nicht klar.
+	Sequenznummer:	10
+	Stichwort:	wreath, crown, stephane, corona young woman
+Szene
+	ID:	56880
+	Szenerieangabe:	côté g.
+	Beschreibung:	Über seitlichen Girlande, die an der hinteren Ecke von einem Greifen im Maul gehalten wird, ist eine Dreifigurengruppe dargestellt. Rechts lehnt eine weibliche Gestalt an einen Felsen, auf  den sie sich mit ihrer linken Hand abstützt. Ihren rechten Arm hat sie erhoben und begrüsst eine weitere weibliche Gestalt, die ihr von links entgegenkommt. Direkt dahinter steht eine weitere Gestalt, die jedoch nur schwach aus dem Reliefgrund hervortritt.
+	Sequenznummer:	10
+	Stichwort:	rock, cliff young woman
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Lu 255
+Museum
+	Land:	CH
+	Stadt:	Basel
+	Name:	Antikenmuseum und Sammlung Ludwig
+	Direktor:	Frau Dr. Vera Slehofer
+	Adresse:	St. Albangraben 5
+	Postfach:	Postfach
+	Postleitzahl:	CH-4010
+	Kontaktzenter:	Antikenmuseum und Sammlung Ludwig
+	Stadt des Kontaktzenters:	Basel
+	Rechteinhaber der Fotos:	© Antikenmuseum und Sammlung Ludwig, Basel
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	Ehem. A.O.
+	Nummer:	Astor 73
+Museum
+	Land:	GB
+	Stadt:	Hever Castle (Kent)
+	Rechteinhaber der Fotos:	© Hever Castle
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	Ehem. A.O.
+	Nummer:	11./12.7.1983, 369
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	Sotheby's
+	Direktor:	Mr. Adam Levine
+	Adresse:	34-35 New Bond Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	Sotheby's
+	Stadt des Kontaktzenters:	London, W1A 2AA
+	Rechteinhaber der Fotos:	© Sotheby's, London
+	Hat die Fotorechte:	1

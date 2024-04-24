@@ -1,0 +1,190 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a5eac441167-c
+Herakles_3422_0_0
+Europe I_131_0_0
+Gigantes_583_0_0
+Endymion_24_1_0
+Andromeda I_131_0_0
+Hesione (S)_49_1_0
+Antigone_26_0_0
+Auge_31_0_0
+Aleos_5_1_0
+Achilleus_673_0_0
+Priamos_68_0_0
+Hekabe_29_0_0
+Medeia_13_0_1
+Iphigeneia_60_1_0
+
+
+
+Monument
+	ID:	150
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	IX 8,3 (Casa del Centenario)
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	club column temple mask statue staff roofed colonade (stoa, porticus) ketos, sea monster
+	Name:	Achilleus Aleos Andromeda I Antigone Auge Herakles Hesione Perseus Priamos Europe I Endymion Gigantes Hekabe Iphigeneia Medeia
+	Beschreibung:	Wall paintings in the Casa del Centenario.
+	Bibliographie:	Bieber, Theater(2) 230 Abb. 768; Schefold, WP 276, 279.
+	Kommentar:	PompPittMos IX: Haus IX 8,3.7.
+Datierung
+	Periode:	69 - 79 
+Epoche
+	Name:	vespasianisch
+	Periode:	69 - 79 
+	Sequenznummer:	1185
+Szene
+	ID:	26368
+	Szenerieangabe:	43
+	Beschreibung:	Herakles leaning on his left hand while lying on his lionskin in a landscape. He grasps the arm of an Eros behind his thigh, another one appears on his shoulder. 
+	Sequenznummer:	530
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	3422
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	32184
+	Szenerieangabe:	17
+	Beschreibung:	Europe (I) wearin chiton, mantle in arc behind, hanging at the bull's side.
+	Sequenznummer:	270
+Catalog LIMC
+	Artikel:	Europe I
+	Katalognummer:	131
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	32399
+	Szenerieangabe:	7
+	Sequenznummer:	170
+Catalog LIMC
+	Artikel:	Gigantes
+	Katalognummer:	583
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	32904
+	Szenerieangabe:	42
+	Sequenznummer:	520
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/32904X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	24
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	49506
+	Szenerieangabe:	9
+	Beschreibung:	Peristyl, Ostporticus, Ostwand: Herakles befreit Hesione vor Hintergrund einer Stadtarchitektur mit Tempeln, Säulenhallen und Säulen mit Statuen.Perseus fliegt auf Kethos herab, Andromeda
+	Bibliographie:	Schefold, WP 276;Dawson, C.M., Romano-Campanian Mythological Landscape Painting (YaleClSt 9, 1944) 109-110 Nr. 61 Taf. 24;PompPittMos IX (1999) 972-973, 130-131; BdI (1882) 106 no. 80.
+	Sequenznummer:	190
+	Name:	Andromeda I Perseus
+	Stichwort:	ketos, sea monster
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49506X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49506X203.jpg
+Foto
+	Neues Foto:	1
+Datierung
+	Periode:	70 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Datierung
+	Periode:	69 - 79 
+Catalog LIMC
+	Artikel:	Andromeda I
+	Katalognummer:	131
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hesione (S)
+	Katalognummer:	49
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	49507
+	Szenerieangabe:	2
+	Beschreibung:	Scene with four figures: Herakles, old man, woman (Auge?) and a man on a kline (Aleos?).
+	Bibliographie:	Schefold, WP 273-274; Bieber, Theaterwesen fig. 111; Bieber, Theater(2) fig. 522.
+	Sequenznummer:	120
+	Name:	Aleos Antigone Auge Herakles
+	Stichwort:	wreath, crown, stephane, corona club mask pedagogue staff old man captive
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49507X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Antigone
+	Katalognummer:	26
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Auge
+	Katalognummer:	31
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aleos
+	Katalognummer:	5
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	49508
+	Szenerieangabe:	61
+	Beschreibung:	Scene of tragedy with masked figures of a seated mourning king and a standing queen. Hekabe and Priamos? Medeia standing with sword pointing at her children.
+	Sequenznummer:	710
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49508X203.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	673
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Priamos
+	Katalognummer:	68
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hekabe
+	Katalognummer:	29
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Medeia
+	Katalognummer:	13
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Iphigeneia
+	Katalognummer:	60
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	IX 8,3.6
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa del Centenario

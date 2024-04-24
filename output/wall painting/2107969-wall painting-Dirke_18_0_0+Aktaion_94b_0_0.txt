@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-75b8b4871ceca-9
+Dirke_18_0_0
+Aktaion_94b_0_0
+
+
+
+Monument
+	ID:	37612
+	Entdeckungsort:	Ercolano, Herculaneum, Herculanum
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	dog cave
+	Name:	Aktaion Dirke
+	Bibliographie:	Peters, W. J., Landscape in Romano-campanian Mural Painting (1963) 127-128; Cerulli Irelli, G., Ercolano I. Le pitture della Casa dell'Atrio a Mosaico (1971) 29-30 pl. 9, 1.
+Szene
+	ID:	39529
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Dirke
+	Katalognummer:	18
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aktaion
+	Katalognummer:	94b
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Casa dell'Atrio a Mosaico
+Museum
+	Land:	IT
+	Stadt:	Ercolano
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	IV 1-2

@@ -1,0 +1,48 @@
+http://ark.dasch.swiss/ark:/72163/080e-73df9a88c0176-b
+Oceanus (S)_97_1_0
+Tellus_27_0_0
+
+
+
+Monument
+	ID:	4237
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Oceanus Tellus
+	Beschreibung:	Oceanus and Tellus reclining.
+Szene
+	ID:	4284
+	Beschreibung:	Oceanus and Tellus reclining.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/villa_la_pietra_collezione_lord_acton/4284X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/villa_la_pietra_collezione_lord_acton/4284X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/villa_la_pietra_collezione_lord_acton/4284X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/villa_la_pietra_collezione_lord_acton/4284X103.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Oceanus (S)
+	Katalognummer:	97
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Tellus
+	Katalognummer:	27
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Firenze
+	Name:	Villa La Pietra (Collezione Lord Acton)
+	Rechteinhaber der Fotos:	© Collection Lord Acton
+	Hat die Fotorechte:	0

@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-7555c5e5dd9a2-f
+Demeter (vol. IV)_159_0_0
+
+
+
+Monument
+	ID:	30626
+	Entdeckungsort:	Kertch, Pantikapaion
+	Entdeckungsort Details:	Great Blisnitza
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Demeter
+	Beschreibung:	Frontal head of Demeter with floral crown, veiled head, in her right hand bouquet of flowers.
+Szene
+	ID:	32100
+	Beschreibung:	Frontal head of Demeter with floral crown, veiled head, in her right hand bouquet of flowers.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Demeter (vol. IV)
+	Katalognummer:	159
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tombeau de la Grande Blisnitza
+Museum
+	Land:	UA
+	Stadt:	Kerch
+	Name:	Necropolis of Pantikapaion
+	Rechteinhaber der Fotos:	© Kerch
+	Hat die Fotorechte:	1

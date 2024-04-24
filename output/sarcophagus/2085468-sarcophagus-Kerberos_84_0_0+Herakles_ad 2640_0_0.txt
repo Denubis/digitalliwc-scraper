@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-747704b8bb291-f
+Kerberos_84_0_0
+Herakles_ad 2640_0_0
+
+
+
+Monument
+	ID:	14916
+	Entdeckungsort:	Solin, Salona, Solona, Colonia Martia Iulia Solonae
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Herakles Kerberos
+	Beschreibung:	Herakles and Kerberos pulling in opposite directions. Opposite panel: Herakles with Alkestis.
+Szene
+	ID:	15387
+	Beschreibung:	Herakles and Kerberos pulling in opposite directions. Opposite panel: Herakles with Alkestis.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Kerberos
+	Katalognummer:	84
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	ad 2640
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	HR
+	Stadt:	Salone (Solin), environs de
+	Name:	Eglise Sveti Kajo
+	Rechteinhaber der Fotos:	© Salone
+	Hat die Fotorechte:	1

@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-73fe8346abb30-0
+Nike (in per. or.) (S)_33_0_0
+
+
+
+Monument
+	ID:	6418
+	Entdeckungsort:	Palmyra, Tadmur
+	Entdeckungsort Details:	tomb
+	Objekt:	sarcophagus
+	Material:	limestone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Nike
+Szene
+	ID:	6551
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Nike (in per. or.) (S)
+	Katalognummer:	33
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	SY
+	Stadt:	Palmyre
+	Name:	Musée Archéologique
+	Direktor:	Mme le Dr. Pascale Linant de Bellefonds
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-92023
+	Kontaktzenter:	Université Paris X - Nanterre Maison de l'Archéologie / Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Musée Archéologique Palmyra
+	Hat die Fotorechte:	1

@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-76a669fa588c9-b
+Narkissos, Add._1_0
+
+
+
+Monument
+	ID:	201723
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	IX 2,10. 14 (Casa del Gallo II)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	wreath, crown, stephane, corona torch
+	Name:	Echo Eros Narkissos
+	Beschreibung:	Narkissos sitting on a rock and holding a spear; next to his mirror image Eros with torch; to the right Echo sitting with a crown in her hands
+	Bibliographie:	Helbig, Wandgemälde no. 1360; Schefold, WP 241; PompPittMos VIII (1998) 1098 fig. 9; Hodske, J., Mythologische Bildthemen in den Häusern Pompejis. Die Bedeutung der zentralen Mythenbilder für die Bewohner Pompejis (2007) 170 cat. no. 653 pl. 48, 4-5.
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	98701
+	Beschreibung:	Narkissos sitting on a rock and holding a spear; next to his mirror image Eros with torch; to the right Echo sitting with a crown in her hands
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Narkissos, Add.
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9386
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

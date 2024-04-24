@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d9920c87eb8-3
+Kentauroi et Kentaurides (S)_464a_1_0
+Dionysos/Bacchus_249_0_0
+
+
+
+Monument
+	ID:	3815
+	Entdeckungsort:	Gaeta
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	altar base ram tree garland cult image, cult statue sacrificial animal female sacrificial assistant
+	Name:	Dionysos/Bacchus Kentauroi and Kentaurides
+	Beschreibung:	Trionfo di Bacco su un carro trainato da centauri. La processione avanza verso destra ove è in atto un sacrificio dinnanzi ad un altare e ad una statua posta su un’alta base. Un giovane nudo conduce un capro per il sacrificio.
+	Bibliographie:	SarkRel IV 2, 256-257 n. 116 tav. 135, 1.
+Datierung
+	Periode:	140 - 160 
+Epoche
+	Name:	Mitte 2. Jh. n. Chr.
+	Periode:	140 - 160 
+	Sequenznummer:	3160
+Szene
+	ID:	3856
+	Beschreibung:	Centauress with tympanon in front of a biga with Herakles.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/genova/chiesa_sant_agostino/3856X002.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	464a
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	249
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Genova
+	Name:	Chiesa Sant'Agostino
+	Rechteinhaber der Fotos:	 © Genova
+	Hat die Fotorechte:	0

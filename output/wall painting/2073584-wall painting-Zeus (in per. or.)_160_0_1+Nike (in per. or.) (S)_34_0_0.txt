@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-73cd1e42bdd75-9
+Zeus (in per. or.)_160_0_1
+Nike (in per. or.) (S)_34_0_0
+
+
+
+Monument
+	ID:	2941
+	Entdeckungsort:	Doura-Europos
+	Entdeckungsort Details:	temple of Zeus
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Zeus Nike
+	Beschreibung:	Naos of temple of Zeus Theos. Zeus, nimbated, with Parthian costume, holding globe and lance, crowned by two Victorias with wreaths. 
+Szene
+	ID:	3054
+	Beschreibung:	Zeus, nimbated, with Parthian costume, holding globe and lance, crowned by two Victorias with wreaths. 
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Zeus (in per. or.)
+	Katalognummer:	160
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Nike (in per. or.) (S)
+	Katalognummer:	34
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Temple de Zeus Théos
+Museum
+	Land:	SY
+	Stadt:	Dura-Europos
+	Direktor:	Mme le Dr. Pascale Linant de Bellefonds
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-92023
+	Kontaktzenter:	Université Paris X - Nanterre Maison de l'Archéologie / Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Dura-Europos
+	Hat die Fotorechte:	1

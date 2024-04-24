@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-75a89b75e6e4c-c
+Ariadne/Ariatha (vol. III)_22_0_0
+
+
+
+Monument
+	ID:	36474
+	Entdeckungsort:	Vulci
+	Objekt:	sarcophagus lid
+	Material:	nenfro
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Ariadne/Ariatha
+Szene
+	ID:	38350
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Ariadne/Ariatha (vol. III)
+	Katalognummer:	22
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Vulci
+	Name:	Museo Nazionale
+	Direktor:	Sopr. Dott.ssa Anna Maria Moretti
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza Archeologica per l'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica per l'Etruria Meridionale
+	Hat die Fotorechte:	1

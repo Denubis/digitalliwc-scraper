@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a56aab64778-3
+Hesione (S)_9_1_0
+
+
+
+Monument
+	ID:	112
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Hesione
+	Beschreibung:	Herakles talking to Hesione and another woman, in the foregrpund a naked man (Telamon?) casting a boulder at Ketos in the water.
+Szene
+	ID:	435
+	Beschreibung:	Herakles talking to Hesione and another woman, in the foregrpund a naked man (Telamon?) casting a boulder at Ketos in the water.
+Catalog LIMC
+	Artikel:	Hesione (S)
+	Katalognummer:	9
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9443
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

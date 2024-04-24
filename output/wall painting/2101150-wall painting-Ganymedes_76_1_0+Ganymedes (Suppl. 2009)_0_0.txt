@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-7557378cb205b-7
+Ganymedes_76_1_0
+Ganymedes (Suppl. 2009)_0_0
+
+
+
+Monument
+	ID:	30728
+	Entdeckungsort:	Ostia
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	swan
+	Name:	Ganymedes Leda
+	Bibliographie:	Clarke, J. R., New Lihght on the Iconography of Jupiter, Ganymede and Leda in the Painting of the House of Jupiter and Ganymede at Ostia Antica, KölnJb 24 (1991) 171-175.
+Szene
+	ID:	32231
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ostia/32231X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Ganymedes
+	Katalognummer:	76
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ganymedes (Suppl. 2009)
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	I, IV, 2
+Museum
+	Land:	IT
+	Stadt:	Ostia
+	Direktor:	Dott.ssa Elvira Angeloni, Archivio Fotografico
+	Adresse:	Viale dei Romagnoli 717
+	Postleitzahl:	I-00119
+	Kontaktzenter:	Soprintendenza archeologica di Ostia
+	Stadt des Kontaktzenters:	Ostia Antica - Roma
+	Rechteinhaber der Fotos:	© Soprintendenza archeologica di Ostia
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Insula di Giove e Ganimede

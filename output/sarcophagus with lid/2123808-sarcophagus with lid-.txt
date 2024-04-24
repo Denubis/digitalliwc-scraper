@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-769b25f67c665-4
+
+
+
+Monument
+	ID:	200578
+	Objekt:	sarcophagus with lid
+	Material:	marble
+	Herkunft:	Roman
+	Land:	DE
+	Kategorie:	relief
+	Stichwort:	phiale, phiale mesomphalos, patera garland torch bukranion fillet, taenia, tainia aspergillum (instrument for sprinkling) lituus (curved staff of the augurs) fruit griffin guttus, gutus, guturnium, urceus canistrum
+	Beschreibung:	Deckel: Girlanden aus Eichenlaub, Lorbeer, Ähren, Blüten geschmückt mit Tänien. In den Lünetten befinden sich Kultgeräte: patera, guttus, aspergillum, lituus.Wanne: Zwischen Greifen eine Frau mit canistrum auf dem Kopf.
+	Bibliographie:	H. Herdejürgen, in: Marburger Winckelmann- Programm 1984 (1984) 10-12 Abb.7; Siebert: Instrumenta sacra 1999, 305, K3.
+	Kommentar:	Datierung etwas umstritten.
+	Museums-URL:	http://data.fitzmuseum.cam.ac.uk/id/object/68693
+Datierung
+	Periode:	98 - 117 
+	Kommentar:	?
+Epoche
+	Name:	traianisch
+	Periode:	98 - 117 
+	Sequenznummer:	1190
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	GR 7.1920
+Museum
+	Land:	GB
+	Stadt:	Cambridge
+	Name:	Fitzwilliam Museum
+	Direktor:	Dr. Lucilla Burn, Keeper of Antiquities
+	Adresse:	Trumpington Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	The Fitzwilliam Museum
+	Stadt des Kontaktzenters:	Cambridge CB2 1RB
+	Rechteinhaber der Fotos:	© Fitzwilliam Museum, Cambridge
+	Hat die Fotorechte:	1

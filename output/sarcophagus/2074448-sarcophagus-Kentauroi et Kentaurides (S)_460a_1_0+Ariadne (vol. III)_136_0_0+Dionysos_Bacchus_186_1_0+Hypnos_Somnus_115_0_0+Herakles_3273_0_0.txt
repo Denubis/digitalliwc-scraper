@@ -1,0 +1,76 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d9786df5655-7
+Kentauroi et Kentaurides (S)_460a_1_0
+Ariadne (vol. III)_136_0_0
+Dionysos/Bacchus_186_1_0
+Hypnos/Somnus_115_0_0
+Herakles_3273_0_0
+
+
+
+Monument
+	ID:	3808
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	altar base phiale, phiale mesomphalos, patera mask torch cult image, cult statue dance music libation sacrificial animal female sacrificial assistant
+	Name:	Herakles Dionysos/Bacchus Ariadne Hypnos/Somnus Kentauroi and Kentaurides
+	Beschreibung:	Thiase se terminant, à droite, par une scène de sacrifice: statue sur haute base et autel devant lesquels se tiennent deux femmes, un centaure et, tout près de l’autel, une figure de taille plus petite accomplissant une libation (?). Le centaure amène un animal pour le sacrifice. Une des deux femme est courbée en avant tenant un objet qu’elle semble offrir à la divinité. In the centre Bacchus and the sleeping Ariadne, around them Eros and Somnus, Herakles plays cymbals.
+	Bibliographie:	SarkRel IV 3  Nr. 212; Saverkina, I. I., Römische Sarkophage in der Ermitage (1979) 44 n. 17 pl. 43, 1.
+Datierung
+	Periode:	193 - 210 
+Epoche
+	Name:	severisch
+	Periode:	193 - 235 
+	Sequenznummer:	1230
+Szene
+	ID:	3849
+	Beschreibung:	Thiase se terminant, à droite, par une scène de sacrifice: statue sur haute base et autel devant lesquels se tiennent deux femmes, un centaure et, tout près de l’autel, une figure de taille plus petite accomplissant une libation (?). Le centaure amène un animal pour le sacrifice. Une des deux femme est courbée en avant tenant un objet qu’elle semble offrir à la divinité. In the centre Bacchus and the sleeping Ariadne, around them Eros and Somnus, Herakles plays cymbals.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/russian_federation/st_petersburg/the_state_hermitage_museum/3849X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/russian_federation/st_petersburg/the_state_hermitage_museum/3849X005.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	460a
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ariadne (vol. III)
+	Katalognummer:	136
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	186
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	115
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	3273
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	А 182
+Museum
+	Land:	RU
+	Stadt:	St. Petersburg
+	Name:	The State Hermitage Museum
+	Direktor:	Ms. Anastasia Mikliaeva, Head Rights & Reproductions
+	Adresse:	Dvortsovaya Nabereznaja 34
+	Postleitzahl:	190 000
+	Kontaktzenter:	The State Hermitage Museum
+	Stadt des Kontaktzenters:	St. Petersburg / Russia
+	Rechteinhaber der Fotos:	© The State Hermitage Museum, St. Petersburg
+	Kommentar:	Pour la céramique, les chiffres avec la lettre B se rapportent au catalogue d'O. Waldhauer (1914).
+	Hat die Fotorechte:	1

@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-74505c4dec1c1-a
+Poseidon/Neptunus_94_1_0
+
+
+
+Monument
+	ID:	12195
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	IX 5,14
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Poseidon/Neptunus
+	Beschreibung:	Triton, Neptunus and a mistress, maybe Amymone.
+Szene
+	ID:	12488
+	Beschreibung:	Triton, Neptunus and a mistress, maybe Amymone.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/12488X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Poseidon/Neptunus
+	Katalognummer:	94
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	111442
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

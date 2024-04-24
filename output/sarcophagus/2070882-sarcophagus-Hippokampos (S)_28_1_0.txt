@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a67d29cf82f-c
+Hippokampos (S)_28_1_0
+
+
+
+Monument
+	ID:	189
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hippokampos
+Szene
+	ID:	1873
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/chateau-gontier/musee_municipal/1873X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hippokampos (S)
+	Katalognummer:	28
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	848.50
+Museum
+	Land:	FR
+	Stadt:	Château-Gontier
+	Name:	Musée Municipal
+	Rechteinhaber der Fotos:	© Musée Municipal Château-Gontier
+	Hat die Fotorechte:	0

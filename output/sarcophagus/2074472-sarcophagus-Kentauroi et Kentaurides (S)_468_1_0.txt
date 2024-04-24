@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d9d0447e0cd-b
+Kentauroi et Kentaurides (S)_468_1_0
+
+
+
+Monument
+	ID:	3832
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kentauroi and Kentaurides
+	Beschreibung:	Centaurs with krater and lions. 
+Szene
+	ID:	3873
+	Beschreibung:	Centaurs with krater and lions. 
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/grottaferrata/museo_dell_abbazia_di_san_nilo/3873X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	468
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel IV 2, 153
+Museum
+	Land:	IT
+	Stadt:	Grottaferrata
+	Name:	Museo dell'Abbazia di San Nilo
+	Direktor:	Soprintendente Architetto Costantino Centroni
+	Adresse:	Via Cavalletti 2
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza per i Beni Ambientali Architettonici del Lazio
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Ambientali Architettonici del Lazio
+	Hat die Fotorechte:	1

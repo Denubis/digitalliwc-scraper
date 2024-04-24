@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-7579b6ee4823c-8
+Charis, Charites/Gratiae_36_0_0
+
+
+
+Monument
+	ID:	33164
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Charis, Charites/Gratiae
+Szene
+	ID:	34833
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Charis, Charites/Gratiae
+	Katalognummer:	36
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Michaelis 49
+Museum
+	Land:	GB
+	Stadt:	Wilton House
+	Rechteinhaber der Fotos:	© Wilton House
+	Hat die Fotorechte:	1

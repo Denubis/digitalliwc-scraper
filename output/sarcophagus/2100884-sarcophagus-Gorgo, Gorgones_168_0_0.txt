@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-75536a02f21a9-2
+Gorgo, Gorgones_168_0_0
+
+
+
+Monument
+	ID:	30461
+	Entdeckungsort:	Klazomenai
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Klazomenai
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Gorgo, Gorgones
+Szene
+	ID:	31927
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Gorgo, Gorgones
+	Katalognummer:	168
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1427
+Museum
+	Land:	TR
+	Stadt:	Istanbul
+	Name:	Musée Archéologique
+	Direktor:	Mme le Dr  Pascale Linant de Bellefonds
+	Anrede:	Sehr geehrter Herr Dr. Posamentir,
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-92023
+	Kontaktzenter:	Université Paris X - Nanterre Maison de l'Archéologie / Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Archaeological Museum Istanbul
+	Hat die Fotorechte:	1

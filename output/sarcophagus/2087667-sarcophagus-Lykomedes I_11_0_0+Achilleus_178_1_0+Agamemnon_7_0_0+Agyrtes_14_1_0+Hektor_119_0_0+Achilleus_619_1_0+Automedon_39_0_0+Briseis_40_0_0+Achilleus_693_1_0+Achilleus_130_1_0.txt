@@ -1,0 +1,122 @@
+http://ark.dasch.swiss/ark:/72163/080e-749674e1641c4-9
+Lykomedes I_11_0_0
+Achilleus_178_1_0
+Agamemnon_7_0_0
+Agyrtes_14_1_0
+Hektor_119_0_0
+Achilleus_619_1_0
+Automedon_39_0_0
+Briseis_40_0_0
+Achilleus_693_1_0
+Achilleus_130_1_0
+
+
+
+Monument
+	ID:	17138
+	Entdeckungsort:	Tyre
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	lyre helmet shield spear corselet trumpet, tuba, salpinx boots war-chariot, harma, currus
+	Name:	Achilleus Agamemnon Agyrtes Automedon Briseis Hektor Lykomedes I Priamos
+	Beschreibung:	In the centre Achilleus surrounded by Greeks. Lykomedes (I) is the only seated person on the left.
+	Bibliographie:	Koch/Sichtermann, RömSark 385 fig. 414; Chehab, M., BulMusBeyrouth 21, 1968, 18-20 pl. 6; Koch, G., AA 1978, 125 fig. 8; Linant de Bellefonds, P., Sarcophages attiques de la Nécropole de Tyr (1985) 75-77. 124 no. 7 pl. 21, 1. 25, 1.
+Datierung
+	Periode:	190 - 200 
+Epoche
+	Name:	Ende 2. Jh. n. Chr.
+	Periode:	190 - 200 
+	Sequenznummer:	3170
+Szene
+	ID:	17827
+	Beschreibung:	In the centre Achilleus surrounded by Greeks. Lykomedes (I) is the only seated person on the left.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/lebanon/beyrouth/musee_national/17827X006.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/lebanon/beyrouth/musee_national/17827X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/lebanon/beyrouth/musee_national/17827X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/lebanon/beyrouth/musee_national/17827X203.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/lebanon/beyrouth/musee_national/17827X301.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/lebanon/beyrouth/musee_national/17827X302.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Lykomedes I
+	Katalognummer:	11
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	178
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Agamemnon
+	Katalognummer:	7
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Agyrtes
+	Katalognummer:	14
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hektor
+	Katalognummer:	119
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	619
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Automedon
+	Katalognummer:	39
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Briseis
+	Katalognummer:	40
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	693
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	130
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	607
+Museum
+	Land:	LB
+	Stadt:	Beyrouth
+	Name:	Musée National
+	Direktor:	Mme le Dr. Pascale Linant de Bellefonds
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-92023
+	Kontaktzenter:	Université Paris X - Nanterre - Maison de l'Archéologie / Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Musée National Beyrouth
+	Hat die Fotorechte:	1

@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-745b3d806e85e-2
+Psyche_5_0_0
+
+
+
+Monument
+	ID:	12959
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Psyche
+	Monument-URL:	http://www.limc-france.fr/objet/5756
+Szene
+	ID:	13277
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/slovenia/ptuj/musee_regional_pokrajinski_muzej/13277X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	5
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	SI
+	Stadt:	Ptuj
+	Name:	Musée Régional (Pokrajinski Muzej)
+	Direktor:	Archaeological Department
+	Adresse:	Muzejski trg. 1
+	Postleitzahl:	SI-2250
+	Kontaktzenter:	Pokrajinski Muzej Ptuj
+	Stadt des Kontaktzenters:	Ptuj / Slovenia
+	Rechteinhaber der Fotos:	© Pokrajinski Muzej Ptuj
+	Hat die Fotorechte:	1

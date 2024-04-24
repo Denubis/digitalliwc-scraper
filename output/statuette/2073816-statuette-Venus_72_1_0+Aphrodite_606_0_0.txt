@@ -1,0 +1,62 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d06f5c917fd-1
+Venus_72_1_0
+Aphrodite_606_0_0
+
+
+
+Monument
+	ID:	3174
+	Entdeckungsort:	Pompei
+	Objekt:	statuette
+	Material:	marble
+	Land:	CH
+	Kategorie:	sculpture in the round
+	Name:	Aphrodite Venus
+	Beschreibung:	Statue of Venus.
+	Bibliographie:	Lippold, G., Text zu EA 2527; Reuterswärd, P., Studien zur Polychromie in der Plastik (1960) 184; Picard, Manuel IV 2 , 973 Anm.3.
+Datierung
+	Periode:	-10 - -1 
+Epoche
+	Name:	Ende 1. Jh. v. Chr.
+	Periode:	-10 - -1 
+	Sequenznummer:	2880
+Szene
+	ID:	3200
+	Beschreibung:	Statue of Venus.
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/3200X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/3200X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/3200X299.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Venus
+	Katalognummer:	72
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aphrodite
+	Katalognummer:	606
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	109608
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

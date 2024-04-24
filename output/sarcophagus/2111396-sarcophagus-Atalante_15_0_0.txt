@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-75e9b310c0af9-5
+Atalante_15_0_0
+
+
+
+Monument
+	ID:	41062
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Atalante
+	Beschreibung:	The figure with an axe, wearing short chiton and standing in front of the boar, is maybe Atalante.
+Szene
+	ID:	43156
+	Beschreibung:	The figure with an axe, wearing short chiton and standing in front of the boar, is maybe Atalante.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Atalante
+	Katalognummer:	15
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	DE
+	Stadt:	Marburg
+	Name:	Antiken- und Abgusssammlung des Archäologischen Seminars der Universität
+	Rechteinhaber der Fotos:	© Antiken- und Abgusssammlung des Archäologischen Seminars der Universität Marburg
+	Hat die Fotorechte:	1

@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-7675fdd643362-b
+
+
+
+Monument
+	ID:	54403
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	tomb
+	Objekt:	sepulcrum
+	Land:	CH
+	Kategorie:	architecture
+	Beschreibung:	Necropoli di Porta Ercolano, maceries (funerary temenos) of Cn. Vibrius Saturninus
+Szene
+	ID:	59831
+	Beschreibung:	Necropoli di Porta Ercolano, maceries (funerary temenos) of Cn. Vibrius Saturninus
+Catalog Thes CRA
+	Indexnummer:	25
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Sepulcrum, Rom.
+	Lemata:	Sepulcrum, Rom.
+	Sequenznummer:	4064
+	Bandnummer:	4
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Recinto funerario di Cn. Vibrius Saturninus
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Necropoli di Porta di Ercolano
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei (NA)
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-7579c1e91938b-0
+Charis, Charites/Gratiae_41_1_0
+
+
+
+Monument
+	ID:	33167
+	Objekt:	sarcophagus
+	Material:	lead
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Charis, Charites/Gratiae
+Szene
+	ID:	34836
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/hamburg/museum_fuer_kunst_und_gewerbe/34836X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/hamburg/museum_fuer_kunst_und_gewerbe/34836X102.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Charis, Charites/Gratiae
+	Katalognummer:	41
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1917.172
+Museum
+	Land:	DE
+	Stadt:	Hamburg
+	Name:	Museum für Kunst und Gewerbe
+	Direktor:	Dir. Prof. Dr. Sabine Schulze
+	Adresse:	Steintorplatz
+	Postleitzahl:	D-20099
+	Kontaktzenter:	Museum für Kunst und Gewerbe
+	Stadt des Kontaktzenters:	Hamburg
+	Rechteinhaber der Fotos:	© Museum für Kunst und Gewerbe, Hamburg
+	Hat die Fotorechte:	1

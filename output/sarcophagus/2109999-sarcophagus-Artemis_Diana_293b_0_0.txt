@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-75d5ba2918ef0-3
+Artemis/Diana_293b_0_0
+
+
+
+Monument
+	ID:	39660
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Artemis/Diana
+Szene
+	ID:	41708
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	293b
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 2, 209
+Museum
+	Land:	IT
+	Stadt:	Genzano
+	Name:	Villa Cesarini
+	Rechteinhaber der Fotos:	© Villa Cesarini, Genzano
+	Hat die Fotorechte:	0

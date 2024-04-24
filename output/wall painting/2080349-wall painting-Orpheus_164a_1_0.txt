@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-742dd59a75456-e
+Orpheus_164a_1_0
+
+
+
+Monument
+	ID:	9760
+	Entdeckungsort:	Rome
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Orpheus
+Szene
+	ID:	9968
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/catacomba_di_s_callisto/9968X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/catacomba_di_s_callisto/9968X202.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Orpheus
+	Katalognummer:	164a
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Cub. 39
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Catacomba di S. Callisto
+	Direktor:	Dott.ssa Barbara Mazzei
+	Adresse:	Via Napoleone III 1
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Pontificia Commissione di Archeologia Sacra
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Pontificia Commissione di Archeologia Sacra
+	Hat die Fotorechte:	0

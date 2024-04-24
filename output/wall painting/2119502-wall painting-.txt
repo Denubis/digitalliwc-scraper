@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-765d965b8bacb-d
+
+
+
+Monument
+	ID:	52592
+	Entdeckungsort:	Stabiae
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	priest sistrum priestess of Isis tray, lanx, catinus hydreion (cult of Isis) situla of Isis 
+	Beschreibung:	Rechts und links je eine Isis-Priesterin mit einem hydreion auf einem von Rosen bedeckten Tablett. Zwischen ihnen befinden sich drei Priester jeweils mit Situla und Sistrum.
+	Bibliographie:	Wild, R. A., Water in the Cultic Worship of Isis and Osiris, EPRO 87 (1981) 109 Taf. 11; Knauer, E. R., Urnula Faberrime Cavata. Observations on a Vessel Used in the Cult of Isis (1995) 24 fig. 30; Merkelbach, R. Isis regina-Zeus Sarapi. die griechisch-ägyptische Religion ...(1995) 619 fig. 149.
+Datierung
+	Periode:	1 - 100 
+Epoche
+	Name:	1. Jh. n. Chr.
+	Periode:	1 - 100 
+	Sequenznummer:	3000
+Szene
+	ID:	57847
+	Beschreibung:	Rechts und links je eine Isis-Priesterin mit einem hydreion auf einem von Rosen bedeckten Tablett. Zwischen ihnen befinden sich drei Priester jeweils mit Situla und Sistrum.
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	612
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8972
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

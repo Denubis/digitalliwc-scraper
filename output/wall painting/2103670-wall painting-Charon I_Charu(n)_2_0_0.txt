@@ -1,0 +1,67 @@
+http://ark.dasch.swiss/ark:/72163/080e-757b3e8abeb93-4
+Charon I/Charu(n)_2_0_0
+
+
+
+Monument
+	ID:	33271
+	Entdeckungsort:	Tarquinia
+	Entdeckungsort Details:	Tomba Bruschi
+	Objekt:	wall painting
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Charon I/Charu(n)
+	Beschreibung:	Funerary procession with several porters of litui and cornua, three lictors, a female figure, a magistrate, five figures with tunic (processus magistraturalis)
+	Bibliographie:	Steingräber, S., Catalogo ragionato della pittura etrusca (1984) 289 n. 48; Tassi Scandone, e., Verghe, scuri e fasci littori in Etruria (2001) 45 n. 1.2, tav.  Ia.
+Szene
+	ID:	34953
+	Beschreibung:	Funerary procession with several porters of litui and cornua, three lictors, a female figure, a magistrate, five figures with tunic (processus magistraturalis)
+	Sequenznummer:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	60
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 1. Prozessionen, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	90
+	Bandnummer:	1
+Catalog Thes CRA
+	Indexnummer:	5
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	13
+	Name:	II. 4.c. Musik, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	1700
+	Bandnummer:	2
+Catalog Thes CRA
+	Indexnummer:	40
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VI. 1.e. Tod, etr.
+	Bandnummer:	6
+Catalog LIMC
+	Artikel:	Charon I/Charu(n)
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba Bruschi
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Necropoli
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

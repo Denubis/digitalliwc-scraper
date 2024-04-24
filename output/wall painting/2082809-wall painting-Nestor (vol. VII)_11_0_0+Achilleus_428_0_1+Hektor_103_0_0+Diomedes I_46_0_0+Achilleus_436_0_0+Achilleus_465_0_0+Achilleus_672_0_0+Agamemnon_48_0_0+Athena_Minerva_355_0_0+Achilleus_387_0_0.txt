@@ -1,0 +1,108 @@
+http://ark.dasch.swiss/ark:/72163/080e-745101002c562-8
+Nestor (vol. VII)_11_0_0
+Achilleus_428_0_1
+Hektor_103_0_0
+Diomedes I_46_0_0
+Achilleus_436_0_0
+Achilleus_465_0_0
+Achilleus_672_0_0
+Agamemnon_48_0_0
+Athena/Minerva_355_0_0
+Achilleus_387_0_0
+
+
+
+Monument
+	ID:	12241
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 7,35 (Temple of Apollo)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	throne sceptre sword shield chariot tent warrior, soldier
+	Name:	Achilleus Agamemnon Athena/Minerva Briseis Diomedes I Hektor Kalchas Nestor Odysseus Troilos Nestor
+	Beschreibung:	Mural painting with Achilleus in the act of lunging at Agamemnon, Minerva holding him back. Between Achilleus and Agamemnon is Nestor. The man on the altar is maybe Diomedes (I).
+	Bibliographie:	Schefold, WP 192; Helbig, Wandgemälde 285 no. 1306. 462; Reinach, RépPeint 167, 5. 7; 168, 6; 218, 5; Six, J., RM 32 (1917) 191-192 fig. 6-7.
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	12536
+	Beschreibung:	Mural painting with Achilleus in the act of lunging at Agamemnon, Minerva holding him back. Between Achilleus and Agamemnon is Nestor. The man on the altar is maybe Diomedes (I).
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/12536X302.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Nestor (vol. VII)
+	Katalognummer:	11
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	428
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Hektor
+	Katalognummer:	103
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Diomedes I
+	Katalognummer:	46
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	436
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	465
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	672
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Agamemnon
+	Katalognummer:	48
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	355
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	387
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VII 7,35 (già VII 7,1)
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Tempio di Apollo

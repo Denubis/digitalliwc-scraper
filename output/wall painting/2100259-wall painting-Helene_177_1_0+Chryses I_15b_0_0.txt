@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-754a7a9020bb4-c
+Helene_177_1_0
+Chryses I_15b_0_0
+
+
+
+Monument
+	ID:	29831
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Chryseis I Chryseis I Helene
+	Beschreibung:	Return of Chryseis or kidnapping of Helena.
+Szene
+	ID:	31289
+	Beschreibung:	Return of Chryseis or kidnapping of Helena.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/31289X002.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Helene
+	Katalognummer:	177
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Chryses I
+	Katalognummer:	15b
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	119690
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

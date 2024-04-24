@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-76bd88108fa1e-4
+
+
+
+Monument
+	ID:	203189
+	Entdeckungsort:	Vergina (Macedonia)
+	Entdeckungsort Details:	Tomb of Philip II
+	Objekt:	wall painting
+	Herkunft:	Greek
+	Land:	CH
+	Kategorie:	wall painting
+	Bibliographie:	Andronikos, M., Vergina. The Royal Tombs and the Ancient City (1984) 97-197 fig. 57-71; Brécoulaki, H., La peinture funéraire de Macédoine. Emplois et fonctions de la couleur. IVe-IIe s. av. J.-Chr. (2006) 101-133 pl. 26-46.
+Szene
+	ID:	100228
+Catalog Thes CRA
+	Indexnummer:	78
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VI. 1.e. Tod, gr.
+	Bandnummer:	6
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tombe II
+Museum
+	Land:	GR
+	Stadt:	Vergina
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-105 61
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Vergina
+	Hat die Fotorechte:	0

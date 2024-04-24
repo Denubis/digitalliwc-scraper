@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-7432c44661ad3-0
+Phaidra_5_1_0
+
+
+
+Monument
+	ID:	10108
+	Entdeckungsort:	Sebenico
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Phaidra
+	Beschreibung:	Phaidra seated to the right, her nurse seems to present her something. Eros.
+	Monument-URL:	http://www.limc-france.fr/objet/6182
+Szene
+	ID:	10326
+	Beschreibung:	Phaidra seated to the right, her nurse seems to present her something. Eros.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Phaidra
+	Katalognummer:	5
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	E 36
+Museum
+	Land:	FR
+	Stadt:	Avignon
+	Name:	Musée Calvet
+	Direktor:	M. le Directeur
+	Adresse:	65, Rue Joseph Vernet
+	Postleitzahl:	F-84000
+	Kontaktzenter:	Musée Calvet
+	Stadt des Kontaktzenters:	Avignon
+	Rechteinhaber der Fotos:	© Musée Calvet, Avignon
+	Hat die Fotorechte:	1

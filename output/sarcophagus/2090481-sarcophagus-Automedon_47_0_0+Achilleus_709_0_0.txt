@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-74beafe37ad3a-4
+Automedon_47_0_0
+Achilleus_709_0_0
+
+
+
+Monument
+	ID:	19980
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	chariot
+	Name:	Achilleus Automedon
+	Bibliographie:	SarkRel II Nr. 24 e. f.
+Szene
+	ID:	40543
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Automedon
+	Katalognummer:	47
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	709
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Vigna Jacobini
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Direktor:	Soprintendente Prof. Adriano La Regina
+	Adresse:	Piazza S. Maria Nova 53
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza Archeologica di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	0

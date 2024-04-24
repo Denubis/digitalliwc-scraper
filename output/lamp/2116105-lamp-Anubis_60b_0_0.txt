@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-762d059e12bb2-5
+Anubis_60b_0_0
+
+
+
+Monument
+	ID:	45824
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	II 2
+	Objekt:	lamp
+	Material:	terracotta
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	kerykeion, caduceus palm tree
+	Name:	Anubis Harpokrates Isis
+	Bibliographie:	Tran Tam Tinh, V., Essai sur le culte d' Isis à Pompei (1964) 201-202 no. 132bis. 
+Datierung
+	Periode:	1 - 100 
+Epoche
+	Name:	1. Jh. n. Chr.
+	Periode:	1 - 100 
+	Sequenznummer:	3000
+Szene
+	ID:	48231
+Catalog LIMC
+	Artikel:	Anubis
+	Katalognummer:	60b
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	10552
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Antiquarium
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via villa dei Misteri 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei (NA)
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

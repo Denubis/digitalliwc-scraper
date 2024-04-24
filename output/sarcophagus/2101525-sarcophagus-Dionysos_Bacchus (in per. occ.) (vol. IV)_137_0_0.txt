@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-755c9404c93ee-3
+Dionysos/Bacchus (in per. occ.) (vol. IV)_137_0_0
+
+
+
+Monument
+	ID:	31107
+	Entdeckungsort:	Arles, Arelate
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dionysos/Bacchus
+Szene
+	ID:	32624
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus (in per. occ.) (vol. IV)
+	Katalognummer:	137
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1646
+Museum
+	Land:	FR
+	Stadt:	Marseille
+	Name:	Musée d'Archéologie Méditerranéenne (collections autrefois au Musée Borély)
+	Direktor:	Au Directeur
+	Adresse:	2, Rue de la Charité
+	Postleitzahl:	F-13002
+	Kontaktzenter:	Musée d'Archéologie Méditerranéenne Centre de la Vieille Charité
+	Stadt des Kontaktzenters:	Marseille
+	Rechteinhaber der Fotos:	© Musée d'Archéologie Méditerranéenne, Marseille
+	Hat die Fotorechte:	1

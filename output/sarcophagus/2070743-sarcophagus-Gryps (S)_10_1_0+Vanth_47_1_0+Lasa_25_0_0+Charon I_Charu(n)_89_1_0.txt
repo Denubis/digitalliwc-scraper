@@ -1,0 +1,89 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a4806f4d638-f
+Gryps (S)_10_1_0
+Vanth_47_1_0
+Lasa_25_0_0
+Charon I/Charu(n)_89_1_0
+
+
+
+Monument
+	ID:	44
+	Entdeckungsort:	Vulci
+	Objekt:	sarcophagus
+	Material:	nenfro
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	relief
+	Name:	Gryps Vanth Charon I/Charu(n) Lasa
+	Beschreibung:	Depiction of Gryps, a composite being with winged body of a lion and the head of an eagle. Vanth, Lasa and Charun.
+	Bibliographie:	Herbig no. 49; Massa-Pairault, F. H., Religion étrusque et culture grecque. Quelques problèmes, in Gaultier/Briquel, Les plus religieux 338-340.
+Szene
+	ID:	240
+	Beschreibung:	Vel Saties looks up to the sky while a dwarf holds a swallow. Depiction of Gryps, a composite being with winged body of a lion and the head of an eagle.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/denmark/copenhague/glyptotheque_ny_carlsberg/240X001.jpg
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	65
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VIII. Tiere und Pflanzen, etr.
+	Bandnummer:	8
+Catalog LIMC
+	Artikel:	Gryps (S)
+	Katalognummer:	10
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	242
+	Szenerieangabe:	couvercle
+	Beschreibung:	Vanth, Lasa and Charun.
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/denmark/copenhague/glyptotheque_ny_carlsberg/242X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/denmark/copenhague/glyptotheque_ny_carlsberg/242X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/denmark/copenhague/glyptotheque_ny_carlsberg/242X102.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Vanth
+	Katalognummer:	47
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Lasa
+	Katalognummer:	25
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Charon I/Charu(n)
+	Katalognummer:	89
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	H.I.N. 57
+Museum
+	Land:	DK
+	Stadt:	Copenhague
+	Name:	Glyptothèque Ny Carlsberg
+	Direktor:	Curator Claus Grønne
+	Anrede:	Dear Curator,
+	Adresse:	Dantes Pl. 7
+	Postleitzahl:	DK-1556
+	Kontaktzenter:	Archives and Library. Glyptothèque Ny Carlsberg
+	Stadt des Kontaktzenters:	Copenhague V
+	Rechteinhaber der Fotos:	© Ny Carlsberg Glyptothek
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	H 273

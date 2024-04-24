@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-765eee63cd921-7
+
+
+
+Monument
+	ID:	52708
+	Entdeckungsort:	Musarna (S. Caterina, Viterbo)
+	Entdeckungsort Details:	Tomb I of the Alethna
+	Objekt:	sarcophagus
+	Material:	nenfro
+	Land:	CH
+	Kategorie:	relief
+	Beschreibung:	Corteo a sin.: quattro uomini con tunica e mantello, magistrato in toga su biga, uomo in tunica (processus magistraturalis)
+	Bibliographie:	Lambrechts 138 n° 11 tav. 10; Tassi Scandone n° 2.14.
+Datierung
+	Periode:	-200 - -150 
+Epoche
+	Name:	1. Hälfte 2. Jh. v. Chr.
+	Periode:	-200 - -150 
+	Sequenznummer:	2750
+Szene
+	ID:	57983
+	Beschreibung:	Corteo a sin.: quattro uomini con tunica e mantello, magistrato in toga su biga, uomo in tunica (processus magistraturalis)
+Catalog Thes CRA
+	Indexnummer:	82
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 1. Prozessionen, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	90
+	Bandnummer:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Viterbo
+	Name:	Museo Archeologico Nazionale (Rocca Albornoz)
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

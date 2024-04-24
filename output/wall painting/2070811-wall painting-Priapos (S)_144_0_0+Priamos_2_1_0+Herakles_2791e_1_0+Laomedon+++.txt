@@ -1,0 +1,381 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a5794f25e8c-a
+Priapos (S)_144_0_0
+Priamos_2_1_0
+Herakles_2791e_1_0
+Laomedon I_5_0_0
+Nessos_77_0_0
+Herakles_2791a_0_0
+Herakles_2791b_1_0
+Herakles_2791c_1_0
+Herakles_2791d_1_0
+Herakles_2911_0_0
+Idaios_5_1_0
+Achilleus_671_0_0
+Hektor_102_0_0
+Idaios_10_0_0
+Achilleus_458_0_0
+Achilleus_495_0_0
+Achilleus_609_0_0
+Achilleus_536_0_0
+Phoinix II (S)_10_1_1
+Aias I_51_0_0
+Aias I_68_0_0
+Antilochos I_21_0_1
+Telamon_16a_0_0
+Telamon_16b_0_0
+Automedon_26_0_1
+Hesione (S)_14_0_0
+Hesione (S)_57_0_0
+Hesione (S)_58_0_0
+Hesione (S)_59_0_0
+Narkissos_2_0_0
+Venus_224_1_0
+Pyramos et Thisbe_22_1_0
+Horai/Horae_53_0_0
+Aktaion_98_0_0
+Artemis/Diana_331_1_0
+Europe I_132b_0_0
+Eros/Amor, Cupido_300_0_0
+Artemis/Diana_119_0_0
+Eros/Amor, Cupido_264_0_0
+Aktaion_ad 98_0_0
+Artemis/Diana_330_1_0
+Orpheus_92_0_0
+
+
+
+Monument
+	ID:	117
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	II 2,2-5 (House of Loreius Tiburtinus)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	wreath, crown, stephane, corona throne sceptre club helmet shield spear vase vessel priest chariot rock, cliff suppliant, supplication, hikesia bow staff horse agon, contest ship, boat donkey warrior, soldier charioteer funeral games ketos, sea monster corpse fight, battle
+	Name:	Achilleus Aias I Aktaion Antilochos I Artemis/Diana Automedon Eros/Amor, Cupido Europe I Hektor Herakles Hesione Horai/Horae Idaios Laomedon I Nessos Orpheus Patroklos Phoinix II Priamos Priapos Pyramos Telamon Thetys I Aphrodite/Venus Thisbe Narkissos Venus
+	Beschreibung:	Mural painting.
+	Bibliographie:	Schefold, WP 50-53; Tran Tam Tinh, V., Essais sur le culte d’Isis à Pompei (1964) 45 n. 5 tav. VII, 4; De Vos, M., EAAPPM III 42-43. 76-77 n. 52.
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	6516
+	Szenerieangabe:	d
+	Beschreibung:	
+	Inschrift:	Herm of Priapos in aedicula.
+	Sequenznummer:	1030
+Catalog LIMC
+	Artikel:	Priapos (S)
+	Katalognummer:	144
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	12800
+	Szenerieangabe:	h
+	Beschreibung:	A succession of paintings in a frieze: (i) Herakles kills the ketos; (II) Telamon approaches the seated Laomedon (I), in oriental dress to demand the horses; (iii) Herakles, nude with raised club, kills Laomedon (I), i oriental dress and with sceptre, in the presence of his frightened courtiers; (iv) the wedding of Telamon and Hesione; (v) Herakles crowns the young Priamos. Priamos asking Achilleus for the corpse of Hektor. Idaios in oriental dress with a vessel on his shoulder. In another scene Priamos and Idaios sitting outside in front of a steep rock. In another scene Herakles on the pyre.
+	Bibliographie:	Spinazzola, Pompei II 973-978. 994-996. 1002-1007 fig. 989-990. 994. 997-999. 1003-1005 1015-1017. 1026-1029. 1036-1039. 1040-1051; Schefold, WP 50-52; Schefold/Jung, SB IV 194-197 fig. 238-241; PompPittMos III (1991) 88 fig. 73; Cerulli Irelli, G. et al., La Peinture de Pompéi (1993) I color pl. 38-39; II 76-77 no. 120 fig. 120a.
+	Sequenznummer:	1070
+	Name:	Achilleus Aias I Antilochos I Automedon Hektor Herakles Hesione Idaios Laomedon I Nessos Patroklos Phoinix II Priamos Telamon Thetys I
+	Stichwort:	wreath, crown, stephane, corona throne sceptre club helmet shield spear vessel priest chariot rock, cliff gesture of supplication bow staff horse agon, contest ship, boat donkey charioteer funeral games corpse fight, battle
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/12800X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/12800X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/12800X006.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/12800X007.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/12800X222.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/12800X223.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Datierung
+	Periode:	45 - 79 
+Catalog LIMC
+	Artikel:	Priamos
+	Katalognummer:	2
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2791e
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Laomedon I
+	Katalognummer:	5
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Nessos
+	Katalognummer:	77
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2791a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2791b
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2791c
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2791d
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2911
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Idaios
+	Katalognummer:	5
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	671
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hektor
+	Katalognummer:	102
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Idaios
+	Katalognummer:	10
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	458
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	495
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	609
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	536
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Phoinix II (S)
+	Katalognummer:	10
+	Asterix:	1
+	Dot:	1
+Catalog LIMC
+	Artikel:	Aias I
+	Katalognummer:	51
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aias I
+	Katalognummer:	68
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Antilochos I
+	Katalognummer:	21
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Telamon
+	Katalognummer:	16a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Telamon
+	Katalognummer:	16b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Automedon
+	Katalognummer:	26
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Hesione (S)
+	Katalognummer:	14
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hesione (S)
+	Katalognummer:	57
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hesione (S)
+	Katalognummer:	58
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hesione (S)
+	Katalognummer:	59
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	20148
+	Szenerieangabe:	(b)
+	Beschreibung:	Narkissos at the spring. Venus seated on a rock, fishing. Amor.
+	Sequenznummer:	1010
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/20148X002.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Narkissos
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Venus
+	Katalognummer:	224
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	20149
+	Szenerieangabe:	k
+	Beschreibung:	In a rocky landscape the corpse of Pyramos, close to him a lance. Thisbe killing herself. In the background a fleeing female lion.
+	Sequenznummer:	1100
+Catalog LIMC
+	Artikel:	Pyramos et Thisbe
+	Katalognummer:	22
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	26523
+	Szenerieangabe:	f
+	Beschreibung:	An old priest with a shaven head is clothed in a white gown, holding a patera and a situla in his right hand. In his left hand one can see a sistrum. Due to the attribution of the situla and the sistrum to the goddess Isis one could speculate if this priest is in fact a priest for the goddess Isis herself. Partly erased inscription beneath his feet. The Hora of Summer with sickle is depicted too - she reminds of some representations of Aphrodite.
+	Bibliographie:	Schefold, WP 51f; Della Corte, M., Atti e memorie della società tiburtina di storia e d'arte 11-12 (1931-1932) 198-199 pl. 25, 6; Spinazzola, V., Pompei alla luce degli scavi nuovi di via dell'Abbondanza I (1953) 384 fig. 434; 393-394 fig. 446-447.
+	Sequenznummer:	1050
+	Name:	Aktaion Artemis/Diana Horai/Horae
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	258
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.a. Kultpersonal, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	4700
+	Bandnummer:	5
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	53
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aktaion
+	Katalognummer:	98
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	331
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	32189
+	Szenerieangabe:	(a)
+	Beschreibung:	Europe (I), naked, mantle trailing from hand, hanging beside bull.
+	Sequenznummer:	1000
+Catalog LIMC
+	Artikel:	Europe I
+	Katalognummer:	132b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	300
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	119
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	264
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	48233
+	Szenerieangabe:	l
+	Bibliographie:	Schefold, WP 53L; Spinazzola, V., Pompei alla luce degli scavi nuovi di via dell'Abbondanza I (1953) 407-408 fig. 468.
+	Sequenznummer:	1110
+	Name:	Aktaion Artemis/Diana
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/48233X002.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Aktaion
+	Katalognummer:	ad 98
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	330
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	49487
+	Szenerieangabe:	(i)
+	Sequenznummer:	1080
+Catalog LIMC
+	Artikel:	Orpheus
+	Katalognummer:	92
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	II 2,2-5
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa di Loreius Tiburtinus

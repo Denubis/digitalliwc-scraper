@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-76b44f6af70c5-2
+Dionysos/Bacchus, Add._0_0
+
+
+
+Monument
+	ID:	202426
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	young naked Bacchus with thyrsos staff; in front of a woman (Ariane?) covered with a coat; holding his hand to her mouth; to the left a statuette on a column; to the right a silen and two Erotes
+	Bibliographie:	Thomas, E., Monochromata, in: I temi figurativi (1997) 136.  349 fig. 4.
+Szene
+	ID:	99425
+	Beschreibung:	young naked Bacchus with thyrsos staff; in front of a woman (Ariane?) covered with a coat; holding his hand to her mouth; to the left a statuette on a column; to the right a silen and two Erotes
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus, Add.
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	V 34-35 (Casa del Gran Portale)
+Museum
+	Land:	IT
+	Stadt:	Ercolano
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

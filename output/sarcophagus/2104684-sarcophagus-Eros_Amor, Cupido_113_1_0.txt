@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-7589bdb2cc5e1-1
+Eros/Amor, Cupido_113_1_0
+
+
+
+Monument
+	ID:	34300
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido
+Szene
+	ID:	36057
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	113
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Formello
+	Name:	Giardino/Parco Comunale
+	Rechteinhaber der Fotos:	© Giardino/Parco Comunale, Formello
+	Hat die Fotorechte:	0

@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-745cf4b119cb6-c
+Psyche_114_1_0
+
+
+
+Monument
+	ID:	13080
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Psyche
+Szene
+	ID:	13408
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/poland/varsovie/musee_national/13408X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	114
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	200451
+Museum
+	Land:	PL
+	Stadt:	Varsovie
+	Name:	Musée National
+	Direktor:	Department of Antiquities
+	Anrede:	Dear General Director,
+	Adresse:	Al. Jerozolimkie 3
+	Postleitzahl:	PL 00-495
+	Kontaktzenter:	Museum Narodowe w Warszawie
+	Stadt des Kontaktzenters:	Varsovie
+	Rechteinhaber der Fotos:	© Museum Narodowe w Warszawie
+	Hat die Fotorechte:	1

@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-76950b2d926ce-8
+
+
+
+Monument
+	ID:	91034
+	Entdeckungsort:	unknown
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	GR
+	Kategorie:	relief
+	Name:	Eros/Amor, Cupido
+	Grössenangabe:	Y. 0.125 m - Πλ. 0.155 m
+	Beschreibung:	Eρωτιδεύς(;).
+	Kommentar:	4075
+Datierung
+	Periode:	100 - 200 
+	Kommentar:	?
+Epoche
+	Name:	2. Jh. n. Chr.
+	Periode:	100 - 200 
+	Sequenznummer:	3140
+Szene
+	ID:	96506
+	Beschreibung:	Eρωτιδεύς, κεφαλή κατ' ενώπιον, με τμήμα του στέρνου να στρέφεται αριστερά. Kόμη μακριά πέφτει στους ώμους. Kαι τα δύο χέρια (λείπουν από το βραχίονα) προτείνονται αριστερά.
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1152 a
+Museum
+	Land:	GR
+	Stadt:	Thessalonique
+	Name:	Musée Archéologique
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Archaeological Museum of Thessaloniki
+	Hat die Fotorechte:	0

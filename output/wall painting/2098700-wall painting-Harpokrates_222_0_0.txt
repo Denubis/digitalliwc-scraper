@@ -1,0 +1,59 @@
+http://ark.dasch.swiss/ark:/72163/080e-753430c05e901-1
+Harpokrates_222_0_0
+
+
+
+Monument
+	ID:	28263
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	Temple of Isis
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	throne cornucopia garland column temple cult image, cult statue priest dog candelabrum roofed colonade (stoa, porticus)
+	Name:	Harpokrates
+	Grössenangabe:	H: 107 cm; B: 95 cm
+	Beschreibung:	In einem kleinen Tempel (bestehend aus einer Mauer und einer Säule sowie einem Marmorthron direkt vor der Säule) eine nackte Harpokrates-Statue mit Ureus-Schlange (Lotosblüte?) auf dem Kopf. Die Statue im praxitelischen Kontrapost-Standmotiv hat die rechte Hand erhoben und berührt mit dem Zeigefinger die Lippen; in der linken hält sie ein Füllhorn. Rechts vor ihr steht ein Priester, der in jeder Hand einen überlebensgroßen, silbernen Kandelaber trägt. Im Vordergrund liegt auf dem Boden ein Olivenzweig, im Hintergrund ist ein mit Girlanden geschmücktes Heiligtum zu sehen, das von einer dreiflügligen Portikus umgeben ist. Im Heiligtum sowie daneben sind einige Besucher zu erkennen, darunter zwei Wanderer und ein Hund. Dahinter erstreckt sich eine Felslandschaft mit weiteren Gebäuden. 
+	Bibliographie:	Tran Tam Tinh, V., Essai sur le culte d’Isis à Pompéi (1964) 135 Nr. 2; Cantilena, R./Prisco, G. (ed.), Alla ricerca di Iside. Analisi, studi e restauri dell'Iseo Pompeiano nel Museo di Napoli (1992) 41 Nr. 15 fig. p. 116. 
+	Kommentar:	Zu anderen Darstellungen im Isistempel siehe ID: 10175; 21619; 45813; 50195; 52591; 52812; 52818; 52837. 
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	29669
+	Beschreibung:	In einem kleinen Tempel (bestehend aus einer Mauer und einer Säule sowie einem Marmorthron direkt vor der Säule) eine nackte Harpokrates-Statue mit Ureus-Schlange (Lotosblüte?) auf dem Kopf. Die Statue im praxitelischen Kontrapost-Standmotiv hat die rechte Hand erhoben und berührt mit dem Zeigefinger die Lippen; in der linken hält sie ein Füllhorn. Rechts vor ihr steht ein Priester, der in jeder Hand einen überlebensgroßen, silbernen Kandelaber trägt. Im Vordergrund liegt auf dem Boden ein Olivenzweig, im Hintergrund ist ein mit Girlanden geschmücktes Heiligtum zu sehen, das von einer dreiflügligen Portikus umgeben ist. Im Heiligtum sowie daneben sind einige Besucher zu erkennen, darunter zwei Wanderer und ein Hund. Dahinter erstreckt sich eine Felslandschaft mit weiteren Gebäuden. 
+	Sequenznummer:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	1382
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Catalog LIMC
+	Artikel:	Harpokrates
+	Katalognummer:	222
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8975
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

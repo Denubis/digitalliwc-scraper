@@ -1,0 +1,59 @@
+http://ark.dasch.swiss/ark:/72163/080e-75a5e41382616-b
+Ariadne (vol. III)_137_0_0
+
+
+
+Monument
+	ID:	36284
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Name:	Ariadne
+	Beschreibung:	Dionysian scene: woman carrying liknon with phallos; veiled woman kneeling in front of an altar
+	Bibliographie:	Cagiano de Azevedo, M., Le antichità di Villa Medici (1951) Nr. 58 pl. 30, 47; Nilsson, M., Dionisiac Mysteries (1957) 90, n. 19; SarRel IV 3, 378 n. 210 Beil. 96, 1-2; 97, 1 tav. 221, 1-2.
+	Kommentar:	Die im LIMC-Index gegebene Nummer von Cagiano de Azevedo (47) ist falsch; von dort ist sie in ThesCRA Initiation 83* eingedrungen. Richtig ist 58.
+Datierung
+	Periode:	170 - 270 
+	Kommentar:	um
+Epoche
+	Name:	3. Drittel 2. Jh. n. Chr.
+	Periode:	166 - 200 
+	Sequenznummer:	3260
+Szene
+	ID:	38156
+	Beschreibung:	Dionysian scene: woman carrying liknon with phallos; veiled woman kneeling in front of an altar
+	Sequenznummer:	10
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	83
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 3.c. Initiation
+	Sequenznummer:	1200
+	Bandnummer:	2
+Catalog LIMC
+	Artikel:	Ariadne (vol. III)
+	Katalognummer:	137
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	58
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Medici
+	Direktor:	Responsable Chargé de Mission Olivier Bonfait
+	Adresse:	Viale Trinità dei Monti 1
+	Postleitzahl:	I-00187
+	Kontaktzenter:	Dipartimento di Storia dell'Arte Accademia di Francia a Roma / Villa Medici
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	Académie de France à Rome
+	Kommentar:	Numéros d'après Cagiano de Azevedo, M., Le antichità di Villa Medici (1951).
+	Hat die Fotorechte:	1

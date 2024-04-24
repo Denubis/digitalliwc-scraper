@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-74808de2fbad8-d
+Nereides_366_0_0
+
+
+
+Monument
+	ID:	15587
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Nereides
+Szene
+	ID:	16096
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Nereides
+	Katalognummer:	366
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Michaelis 105
+Museum
+	Land:	GB
+	Stadt:	Wilton House
+	Rechteinhaber der Fotos:	© Wilton House
+	Hat die Fotorechte:	1

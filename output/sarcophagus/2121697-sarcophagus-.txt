@@ -1,0 +1,30 @@
+http://ark.dasch.swiss/ark:/72163/080e-767cf7e0732ea-1
+
+
+
+Monument
+	ID:	54912
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	relief
+	Beschreibung:	Niké, un sein découvert, pose un genou sur un bovin dont elle tire la tête en arrière; devant un autel enflammé
+Szene
+	ID:	60359
+	Beschreibung:	Niké, un sein découvert, pose un genou sur un bovin dont elle tire la tête en arrière; devant un autel enflammé
+Catalog Thes CRA
+	Indexnummer:	491
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 2.a. Opfer, gr.
+	Kurzname:	Gr.
+	Sequenznummer:	180
+	Bandnummer:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	TR
+	Stadt:	Laodicée du Lykos
+	Rechteinhaber der Fotos:	© Laodicée du Lykos
+	Hat die Fotorechte:	0

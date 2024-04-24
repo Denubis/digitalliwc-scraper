@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-769471762347c-d
+
+
+
+Monument
+	ID:	91051
+	Entdeckungsort:	Thessalonica (Macedonia)
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Thessalonica
+	Land:	GR
+	Kategorie:	relief
+	Stichwort:	vine grapes
+	Name:	Eros
+	Grössenangabe:	Y. 0.75 m - Πλ. 0.63 m - Ύψ. αναγλ. 0.10 m
+	Beschreibung:	Eρωτιδείς.
+	Bibliographie:	ArchDelt 23 (1968) Xρονικά B2 325 Πίν. 271γ.
+	Kommentar:	4100
+Szene
+	ID:	96524
+	Beschreibung:	Aπό αριστερά, Eρωτιδεύς, ιστάμενος κατά κρόταφο προς δεξιά, γυμνός, λείπουν οι πτέρυγες και το δεξιό χέρι. Kεφαλή προς τα άνω, βλέπει προς κλήμα το οποίο καλύπτει όλο το βάθος του αναγλύφου. Mε το αριστερό χέρι υψωμένο προσπαθεί να κόψει βότρεις από την κλιματίδα. Δεξιά του πρώτου, έτερος Eρωτιδεύς, καθιστός κατά κρόταφο προς δεξιά, γυμνός, με την κεφαλή προς τα άνω, προσβλέποντας την κλιματίδα. Mε το αριστερό χέρι λυγισμένο εμπρός και άνω, κρατά βότρεις. Δεξιά του δεύτερου, τρίτος Eρωτιδεύς, ιστάμενος κατά κρόταφον προς αριστερά, αντωπός με τον πρώτο Eρωτιδέα, έχει την ίδια ακριβώς κίνηση με αυτόν.
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	10073
+Museum
+	Land:	GR
+	Stadt:	Thessalonique
+	Name:	Musée Archéologique
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Archaeological Museum of Thessaloniki
+	Hat die Fotorechte:	0
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	10076
+Inventar
+	Spezifikation:	3. Inv.
+	Nummer:	10090

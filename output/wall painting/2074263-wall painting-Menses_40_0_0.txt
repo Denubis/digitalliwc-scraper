@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d6d35842af8-9
+Menses_40_0_0
+
+
+
+Monument
+	ID:	3621
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Menses Helios/Sol
+	Beschreibung:	Fresco sections from Pompeji, Reg. VI, room of the building on the south side of Strada Consolare. Series of medallions including busts of gods and days of the week and five deities (Venus, Iuppiter, Vulcanus, Diana and Bacchus) thought to be tutelae of the Menses. Other busts of Vertumnus, Aestas, Autumnus(?) and Hiems(?) as well as unclear medallions, one of which may represent the Genius of Augustus. The presence of only five alleged deities of the Menses and the absence of the accompanying zodiacal signs make the identification of these figures as gods and goddesses of the Menses unlikely.
+Datierung
+	Periode:	70 - 79 
+Szene
+	ID:	17630
+	Beschreibung:	Series of medallions including busts of gods and days of the week and five deities (Venus, Iuppiter, Vulcanus, Diana and Bacchus) thought to be tutelae of the Menses. Other busts of Vertumnus, Aestas, Autumnus(?) and Hiems(?) as well as unclear medallions, one of which may represent the Genius of Augustus. The presence of only five alleged deities of the Menses and the absence of the accompanying zodiacal signs make the identification of these figures as gods and goddesses of the Menses unlikely.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/17630X302.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Menses
+	Katalognummer:	40
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9518-9521
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

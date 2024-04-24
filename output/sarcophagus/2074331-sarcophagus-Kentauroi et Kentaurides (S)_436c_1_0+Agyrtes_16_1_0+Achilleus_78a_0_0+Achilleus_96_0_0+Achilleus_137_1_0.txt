@@ -1,0 +1,85 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d7cc381b34c-4
+Kentauroi et Kentaurides (S)_436c_1_0
+Agyrtes_16_1_0
+Achilleus_78a_0_0
+Achilleus_96_0_0
+Achilleus_137_1_0
+
+
+
+Monument
+	ID:	3690
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	helmet trumpet, tuba, salpinx spindle, distaff wet-nurse centaur kneeling (hikesia, request, worship?)
+	Name:	Achilleus Agyrtes Diomedes I Odysseus Deidameia II Kentauroi and Kentaurides
+	Beschreibung:	Centaur with rock against a lioness.
+	Bibliographie:	SarkRel II no. 20a; Saverkina, I. I.,Trudy Ermitage 7, 1962, 250 fig. 3; Saverkina, I. I.,Trudy Ermitage 13, 1972, 136-137 fig. 1-2; Saverkina, I. I., Römische Sarkophage in der Etmitage (1979) 15-17 no. 1.
+	Monument-URL:	http://www.limc-france.fr/objet/15313
+Datierung
+	Periode:	150 - 200 
+Epoche
+	Name:	2. Hälfte 2. Jh. n. Chr.
+	Periode:	150 - 200 
+	Sequenznummer:	3190
+Szene
+	ID:	3728
+	Beschreibung:	Centaur with rock against a lioness.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/russian_federation/st_petersburg/the_state_hermitage_museum/3728X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/russian_federation/st_petersburg/the_state_hermitage_museum/3728X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/russian_federation/st_petersburg/the_state_hermitage_museum/3728X005.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/russian_federation/st_petersburg/the_state_hermitage_museum/3728X303.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	436c
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Agyrtes
+	Katalognummer:	16
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	78a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	96
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	137
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	а 1026
+Museum
+	Land:	RU
+	Stadt:	St. Petersburg
+	Name:	The State Hermitage Museum
+	Direktor:	Ms. Anastasia Mikliaeva, Head Rights & Reproductions
+	Adresse:	Dvortsovaya Nabereznaja 34
+	Postleitzahl:	190 000
+	Kontaktzenter:	The State Hermitage Museum
+	Stadt des Kontaktzenters:	St. Petersburg / Russia
+	Rechteinhaber der Fotos:	© The State Hermitage Museum, St. Petersburg
+	Kommentar:	Pour la céramique, les chiffres avec la lettre B se rapportent au catalogue d'O. Waldhauer (1914).
+	Hat die Fotorechte:	1

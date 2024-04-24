@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-74f85bff09784-7
+Kairoi/Tempora anni_169_0_0
+
+
+
+Monument
+	ID:	24045
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	tomb
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Kairoi/Tempora anni
+	Beschreibung:	Mural painting in the vault of tomb 29 along the Via Ostiense to S. paolo. On one of the columns the nimbated head of a child emerging from an acanthus calyx (Season Spring?).
+Datierung
+	Periode:	200 - 250 
+Szene
+	ID:	25228
+	Beschreibung:	Mural painting in the vault of tomb 29 along the Via Ostiense to S. paolo. On one of the columns the nimbated head of a child emerging from an acanthus calyx (Season Spring?).
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	169
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba 29
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Necropoli della Via Ostiense (presso San Paolo fuori le Mura)
+	Rechteinhaber der Fotos:	© Roma
+	Hat die Fotorechte:	1

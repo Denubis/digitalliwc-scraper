@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-767334272ce53-8
+
+
+
+Monument
+	ID:	54205
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	temple
+	Objekt:	aedes
+	Land:	CH
+	Kategorie:	cultual installations
+	Beschreibung:	Temple of the Fortuna Augusta (Roman-imperial sacred building)
+Szene
+	ID:	59631
+	Beschreibung:	Temple of the Fortuna Augusta (Roman-imperial sacred building)
+Catalog Thes CRA
+	Indexnummer:	9
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Aedes, Rom. imp.
+	Lemata:	Aedes, Rom. imp.
+	Sequenznummer:	3250
+	Bandnummer:	4
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Tempio della Fortuna Augusta
+	Rechteinhaber der Fotos:	© Pompei
+	Hat die Fotorechte:	1

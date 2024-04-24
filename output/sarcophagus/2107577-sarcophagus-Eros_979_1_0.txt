@@ -1,0 +1,54 @@
+http://ark.dasch.swiss/ark:/72163/080e-75b319d70f922-8
+Eros_979_1_0
+
+
+
+Monument
+	ID:	37216
+	Entdeckungsort:	Thessalonica (Macedonia)
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Thessalonica
+	Land:	GR
+	Kategorie:	relief
+	Stichwort:	lionskin winged figure
+	Name:	Eros
+	Grössenangabe:	Y. 1.10 m - Πλ. 1.55 m
+	Beschreibung:	Έρως ή Δαίμων;
+	Inschrift:	Στην κύρια όψη επιγραφή:ΠYPPIAIEKΓONΩETOYΣHTΠANHMOAKEPAIΩΓAMBPΩETOYΣΘTAIΔONAIOYKOPPAΓOΣ
+	Bibliographie:	Kαραμανώλη-Σιγανίδου, M., ArchDelt 20 (1965) Xρονικά B2 411.Daux, G., BCH 92 (1968) 628 fig. 2.Wrede, H., Consecratio in formam deorum (1981) 198 no. 7 Pl. 5,1.
+	Kommentar:	4093
+Datierung
+	Periode:	100 - 200 
+Epoche
+	Name:	2. Jh. n. Chr.
+	Periode:	100 - 200 
+	Sequenznummer:	3140
+Szene
+	ID:	39115
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/thessalonique/musee_archeologique/39115X001.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Eros
+	Katalognummer:	979
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	4544
+Museum
+	Land:	GR
+	Stadt:	Thessalonique
+	Name:	Musée Archéologique
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Archaeological Museum of Thessaloniki
+	Hat die Fotorechte:	0

@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-7617767632f3e-e
+Amazones_505_0_0
+
+
+
+Monument
+	ID:	44297
+	Entdeckungsort:	Athens
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	sword shield horse Amazon fight, battle rider
+	Name:	Amazones
+	Bibliographie:	SarkRel II no. 70; Redlich, Die Amazonensarkophage des 2. und 3. Jahrhunderts v. Chr. (1973) 13 no. 23; Papaspyridi, S., Guide (1927) 170 no. 1147; Kallipolitis, B. G., Χρονολογικη κατα ταξις...(1958) no. 62; Giuliano, A., Il commercio dei sarcofagi attici (1962) 27 no. 3.
+Datierung
+	Periode:	160 - 190 
+Epoche
+	Name:	2. Hälfte 2. Jh. n. Chr.
+	Periode:	150 - 200 
+	Sequenznummer:	3190
+Szene
+	ID:	46583
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	505
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1147
+Museum
+	Land:	GR
+	Stadt:	Athens
+	Name:	National Archaeological Museum
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Anrede:	Dear Director,
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© National Archaeological Museum, Athens
+	Kommentar:	Pour les intailles de la collection Karapanos voir Musée Numismatique.  Inv. VS = ancienne collection Vlastos-Serpieri.
+	Hat die Fotorechte:	1

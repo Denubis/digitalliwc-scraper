@@ -1,0 +1,122 @@
+http://ark.dasch.swiss/ark:/72163/080e-73f5016e4be73-d
+Pan (S)_218_1_0
+Ariadne (vol. III)_139_0_0
+Priapos (S)_149_0_0
+
+
+
+Monument
+	ID:	5745
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	altar herm garland pipe, flute, aulos, tibiae basket herm cult goat fruit
+	Name:	Ariadne Pan Priapos
+	Beschreibung:	Priapos-Herme auf hohem Sockel (mit Girlande), davor Altar mit Früchtekorb darauf, zu dem Satyros einen Bock zieht. Mainas spielt Aulos. Pan leads Dionysos' lion chariot.
+	Bibliographie:	GettyMusJ 12, 1984, 238;SarkRel IV 3 pl. 223.
+	Museums-URL:	http://www.getty.edu/art/collection/objects/10497/unknown-maker-sarcophagus-and-lid-19th-century-crouching-lion-supports-roman-210-220/
+	Monument-URL:	arachne.dainst.org/entity/1071995
+Datierung
+	Periode:	200 - 210 
+Epoche
+	Name:	Anfang 3. Jh. n. Chr.
+	Periode:	200 - 210 
+	Sequenznummer:	3290
+Szene
+	ID:	5846
+	Beschreibung:	Priapos-Herme auf hohem Sockel (mit Girlande), davor Altar mit Früchtekorb darauf, zu dem Satyros einen Bock zieht. Mainas spielt Aulos. Pan leads Dionysos' lion chariot.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/hever_castle_kent/5846X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/hever_castle_kent/5846X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/hever_castle_kent/5846X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/hever_castle_kent/5846X103.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/hever_castle_kent/5846X104.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/hever_castle_kent/5846X105.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/hever_castle_kent/5846X106.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/hever_castle_kent/5846X107.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/hever_castle_kent/5846X108.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/hever_castle_kent/5846X109.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Pan (S)
+	Katalognummer:	218
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ariadne (vol. III)
+	Katalognummer:	139
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Priapos (S)
+	Katalognummer:	149
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	83.AA.275
+Museum
+	Land:	US
+	Stadt:	Malibu
+	Name:	J. Paul Getty Museum
+	Direktor:	Dr. Jackie Burns
+	Adresse:	1200 Getty Center Drive Suite 1000
+	Postleitzahl:	USA-
+	E-Mail:	jburns@getty.edu
+	Kontaktzenter:	Registrars Office, J. Paul Getty Museum
+	Stadt des Kontaktzenters:	Los Angeles, CA 90049
+	Rechteinhaber der Fotos:	© J. Paul Getty Museum
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	Ehem. A.O.
+	Nummer:	Astor 82
+Museum
+	Land:	GB
+	Stadt:	Hever Castle (Kent)
+	Rechteinhaber der Fotos:	© Hever Castle
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	Ehem. A.O.
+	Nummer:	11./12.7.1983, 370
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	Sotheby's
+	Direktor:	Mr. Adam Levine
+	Adresse:	34-35 New Bond Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	Sotheby's
+	Stadt des Kontaktzenters:	London, W1A 2AA
+	Rechteinhaber der Fotos:	© Sotheby's, London
+	Hat die Fotorechte:	1

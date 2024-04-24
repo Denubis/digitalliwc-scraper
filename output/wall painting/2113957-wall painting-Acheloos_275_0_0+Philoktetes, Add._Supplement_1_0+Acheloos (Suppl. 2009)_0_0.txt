@@ -1,0 +1,54 @@
+http://ark.dasch.swiss/ark:/72163/080e-760e501d4c2be-f
+Acheloos_275_0_0
+Philoktetes, Add._Supplement_1_0
+Acheloos (Suppl. 2009)_0_0
+
+
+
+Monument
+	ID:	43642
+	Entdeckungsort:	Ephesos (Ionia)
+	Entdeckungsort Details:	Hanghaus 2
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	snake maid-servant
+	Name:	Acheloos Philoktetes
+	Beschreibung:	kneeling man putting a dressing on the thigh of the main figure who is probably Philoktetes; snake had biten Philoktetes in the name of the goddess Chryse (I); servant and companion
+	Bibliographie:	Eichler, F., AnzWien 106, 1969, 7 pl. 3b; Mellink, M., AJA 74, 1970, 172 pl. 45, 23; Brommer, Denkmälerlisten I 14 Gemälde-Mosaiken 1; Strocka, V. M., Die Wandmalerei der Hanghäuser in Ephesos. Ephesos VIII 1 (1977) 49-52 fig. 70.
+Datierung
+	Periode:	100 - 200 
+Epoche
+	Name:	2. Jh. n. Chr.
+	Periode:	100 - 200 
+	Sequenznummer:	3140
+Szene
+	ID:	45882
+	Beschreibung:	kneeling man putting a dressing on the thigh of the main figure who is probably Philoktetes; snake had biten Philoktetes in the name of the goddess Chryse (I); servant and companion
+	Sequenznummer:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Acheloos
+	Katalognummer:	275
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Philoktetes, Add.
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Acheloos (Suppl. 2009)
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	TR
+	Stadt:	Ephèse
+	Name:	Hanghaus 2
+	Rechteinhaber der Fotos:	© Ephesos
+	Hat die Fotorechte:	1

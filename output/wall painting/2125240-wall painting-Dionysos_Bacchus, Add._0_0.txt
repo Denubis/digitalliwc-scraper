@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-76af9ef700c5d-2
+Dionysos/Bacchus, Add._0_0
+
+
+
+Monument
+	ID:	202306
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Bacchus as child, with ivy crown and a thyrsos staff; riding on a buck; menad securing him
+	Bibliographie:	Cicirelli, in: D'Ambrosio, A. (ed.), Storie di un'eruzione. Pompei, Ercolano, Oplontis (2003) 214-220.
+Szene
+	ID:	99303
+	Beschreibung:	Bacchus as child, with ivy crown and a thyrsos staff; riding on a buck; menad securing him
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus, Add.
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Terzigno
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	85455
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Soprintendenza
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

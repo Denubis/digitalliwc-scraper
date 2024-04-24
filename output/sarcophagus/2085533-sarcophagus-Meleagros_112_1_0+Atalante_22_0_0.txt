@@ -1,0 +1,64 @@
+http://ark.dasch.swiss/ark:/72163/080e-7477f29dc2996-f
+Meleagros_112_1_0
+Atalante_22_0_0
+
+
+
+Monument
+	ID:	14984
+	Entdeckungsort:	Patras, Patrai, Patrae, Colonia Augusta Aroe Patrensis (Achaia)
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	GR
+	Kategorie:	relief
+	Stichwort:	lion club spear bull vase axe, hatchet, pelekys, sacena, securis boar dog greaves bow quiver youth hunt griffin
+	Name:	Atalante Meleagros
+	Grössenangabe:	M. 2.10 μ - Πλ. 0.96 μ - Ύ. (με κάλυμμα): 0.95 μ
+	Beschreibung:	Kαλυδώνιος κάπρος, Mελέαγρος(;), Aταλάντη. Nebenseite: Adlergreif zerfleischt Stier
+	Bibliographie:	ArchDelt (1890) 139.ArchEph (1890) Pl. 9.ArchEph (1891) 183.AM XV (1890) 233.Robert, Die Antiken Sarkophagereliebs  no. 216-216c Taf. LXX. Kallipolitis, 16 no. 25 ,Koch / Sichtermann, RömSark Abb.429.
+	Kommentar:	5530
+Datierung
+	Periode:	100 - 200 
+Epoche
+	Name:	2. Jh. n. Chr.
+	Periode:	100 - 200 
+	Sequenznummer:	3140
+Szene
+	ID:	15460
+	Beschreibung:	The heros are gathered on foot round the boar. Atalante is at the left drawing her bow, wearing short chiton, quiver and boots, a dog beside her.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/athens/national_archaeological_museum/15460X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/athens/national_archaeological_museum/15460X101.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	112
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Atalante
+	Katalognummer:	22
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1186
+Museum
+	Land:	GR
+	Stadt:	Athens
+	Name:	National Archaeological Museum
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Anrede:	Dear Director,
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© National Archaeological Museum, Athens
+	Kommentar:	Pour les intailles de la collection Karapanos voir Musée Numismatique.  Inv. VS = ancienne collection Vlastos-Serpieri.
+	Hat die Fotorechte:	1

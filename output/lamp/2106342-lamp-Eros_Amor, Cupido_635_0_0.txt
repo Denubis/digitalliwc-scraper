@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-75a171d7823c3-5
+Eros/Amor, Cupido_635_0_0
+
+
+
+Monument
+	ID:	35967
+	Entdeckungsort:	Pompei
+	Objekt:	lamp
+	Material:	terracotta
+	Land:	CH
+	Kategorie:	lamp
+	Name:	Eros/Amor, Cupido
+Szene
+	ID:	37806
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	635
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	10999
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Antiquarium
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via villa dei Misteri 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei (NA)
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-73c1b94e6e724-7
+Iordanes (S)_9_0_0
+Iordanes (S)_17_0_0
+
+
+
+Monument
+	ID:	2139
+	Entdeckungsort:	Bawit
+	Entdeckungsort Details:	Monastery
+	Objekt:	wall painting
+	Herkunft:	Egypt
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Iordanes
+	Beschreibung:	Mural painting in the Apollon cloister in Bawit. To the right of Christ the river-god Iordanes kneeling, watching the baptism of Christ.
+Datierung
+	Periode:	400 - 700 
+Szene
+	ID:	2151
+	Beschreibung:	To the right of Christ the river-god Iordanes kneeling, watching the baptism of Christ.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Iordanes (S)
+	Katalognummer:	9
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iordanes (S)
+	Katalognummer:	17
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	EG
+	Stadt:	Baouît
+	Name:	Monastère
+	Rechteinhaber der Fotos:	© Monastère Baouît
+	Hat die Fotorechte:	0

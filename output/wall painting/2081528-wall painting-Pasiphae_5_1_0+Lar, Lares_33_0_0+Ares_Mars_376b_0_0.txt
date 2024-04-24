@@ -1,0 +1,55 @@
+http://ark.dasch.swiss/ark:/72163/080e-743eb0a56e69d-9
+Pasiphae_5_1_0
+Lar, Lares_33_0_0
+Ares/Mars_376b_0_0
+
+
+
+Monument
+	ID:	10949
+	Entdeckungsort:	Ercolano, Herculaneum, Herculanum
+	Entdeckungsort Details:	V 13,18 (Casa die Bicentenario)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Pasiphae Lar, Lares
+	Beschreibung:	Pasiphae stands in an open field pointing out bull to Daidalos who stands to the right. The bull stands out among other cattle by his size. In the background above, a satyr looks on from behind a grotto.
+Szene
+	ID:	11194
+	Beschreibung:	Pasiphae stands in an open field pointing out bull to Daidalos who stands to the right. The bull stands out among other cattle by his size. In the background above, a satyr looks on from behind a grotto.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ercolano/11194X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Pasiphae
+	Katalognummer:	5
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Lar, Lares
+	Katalognummer:	33
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ares/Mars
+	Katalognummer:	376b
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	V 13-18
+Museum
+	Land:	IT
+	Stadt:	Ercolano
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Casa del Bicentenario

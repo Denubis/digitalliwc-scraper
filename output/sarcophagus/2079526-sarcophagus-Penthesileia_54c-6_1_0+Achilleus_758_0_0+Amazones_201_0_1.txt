@@ -1,0 +1,58 @@
+http://ark.dasch.swiss/ark:/72163/080e-7422117dbc803-a
+Penthesileia_54c-6_1_0
+Achilleus_758_0_0
+Amazones_201_0_1
+
+
+
+Monument
+	ID:	8925
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	horse Amazon fight, battle
+	Name:	Achilleus Penthesileia Amazones
+	Beschreibung:	Penthesileia and Achilleus.
+	Bibliographie:	SarkRel II Nr. 95 Taf. 40; Redlich, R., Die Amazonensarkophagen des 2. und 3. Jh. n. Chr. (1942) 84-85 Taf. 6; Matz, F., Ein römisches Meisterwerk (1958) 164 Anm. 60.
+Datierung
+	Periode:	220 - 230 
+	Kommentar:	about
+Epoche
+	Name:	1. Drittel 3. Jh. n. Chr.
+	Periode:	200 - 233 
+	Sequenznummer:	3380
+Szene
+	ID:	9127
+	Beschreibung:	Penthesileia and Achilleus.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Penthesileia
+	Katalognummer:	54c-6
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	758
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	201
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	610
+Museum
+	Land:	IT
+	Stadt:	Benevento
+	Name:	Museo del Sannio
+	Direktor:	Al Direttore
+	Adresse:	Piazza Santa Sofia
+	Postleitzahl:	I-82100
+	Kontaktzenter:	Museo del Sannio
+	Stadt des Kontaktzenters:	Benevento
+	Rechteinhaber der Fotos:	© Museo del Sannio, Benevento
+	Hat die Fotorechte:	0

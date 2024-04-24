@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-7483036479b34-8
+Menses_3_1_0
+
+
+
+Monument
+	ID:	15763
+	Entdeckungsort:	Sabratha
+	Entdeckungsort Details:	Temple of Hercules
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Menses
+	Beschreibung:	Imperial allegory showing the Menses as female busts that are alternating with the signs of the zodiac in a circle around the apotheosized Marcus Aurelius. The Menses are rather undifferentiated and thus can only be identified in relation to the neighbouring zodiacal signs. In one corner outside the circle is the figure of Tellus.
+Datierung
+	Periode:	180 - 200 
+Szene
+	ID:	16297
+	Beschreibung:	Imperial allegory showing the Menses as female busts that are alternating with the signs of the zodiac in a circle around the apotheosized Marcus Aurelius. The Menses are rather undifferentiated and thus can only be identified in relation to the neighbouring zodiacal signs. In one corner outside the circle is the figure of Tellus.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Menses
+	Katalognummer:	3
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Temple d'Hercule
+Museum
+	Land:	LY
+	Stadt:	Sabratha
+	Rechteinhaber der Fotos:	© Sabratha
+	Hat die Fotorechte:	1

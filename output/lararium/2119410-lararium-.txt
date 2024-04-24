@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-765c45a52a7ff-f
+
+
+
+Monument
+	ID:	52498
+	Entdeckungsort:	Pompei
+	Objekt:	lararium
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Casa di Iulius Polibio. Painted lararium nearby the kitchen: a man and a woman (the Genius patris and the Iuno matris familias) makes sacrifices by an altar; also attendant the lares with rython and situla, a flute-player, a snake 
+	Bibliographie:	Fröhlich, Th., Lararien- und  Fassadenbilder in den Vesuvstädten (1991) L 109 tav. 14.
+Szene
+	ID:	57753
+	Beschreibung:	Casa di Iulius Polibio. Painted lararium nearby the kitchen: a man and a woman (the Genius patris and the Iuno matris familias) makes sacrifices by an altar; also attendant the lares with rython and situla, a flute-player, a snake 
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	1
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Lararium, Rom.
+	Lemata:	Lararium, Rom.
+	Sequenznummer:	3724
+	Bandnummer:	4
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	IX 13,1-3
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa di Iulius Polybius

@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-7427afd6ba370-a
+Pero II_2_0_0
+Pero II_3_0_1
+
+
+
+Monument
+	ID:	9323
+	Entdeckungsort:	Ercolano, Herculaneum, Herculanum
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Pero II
+	Beschreibung:	Pero (II) breastfeeding Micon in prison.
+Szene
+	ID:	9525
+	Beschreibung:	Pero (II) breastfeeding Micon in prison.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/9525X302.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Pero II
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Pero II
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9040
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

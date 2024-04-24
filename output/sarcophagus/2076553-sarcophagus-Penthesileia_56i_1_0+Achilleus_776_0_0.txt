@@ -1,0 +1,55 @@
+http://ark.dasch.swiss/ark:/72163/080e-73f7908e5c732-6
+Penthesileia_56i_1_0
+Achilleus_776_0_0
+
+
+
+Monument
+	ID:	5925
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	Amazon
+	Name:	Achilleus Penthesileia
+	Beschreibung:	Penthesileia and Achilleus.
+	Bibliographie:	AA 1940, 266-267 Abb. 74; Redlich, R., Die Amazonensarkophage des 2. und 3. Jh. n. Chr. 64-66 Taf. 4; Kallipolitis, B., Chronologiki kataxis ton meta mythologikon parastaseon attikon sarkophagon tis romaikis epochis (1958) Nr. 119; Giuliano, A., Il commercio dei sarcfagi attici (1962) Nr. 217; EAA VII (1966) 21 Abb. 32; RFAA 301 Abb. 277-278.
+Datierung
+	Periode:	220 - 230 
+Epoche
+	Name:	1. Drittel 3. Jh. n. Chr.
+	Periode:	200 - 233 
+	Sequenznummer:	3380
+Szene
+	ID:	6029
+	Beschreibung:	Penthesileia and Achilleus.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/thessalonique/musee_archeologique/6029X302.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Penthesileia
+	Katalognummer:	56i
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	776
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	283
+Museum
+	Land:	GR
+	Stadt:	Thessalonique
+	Name:	Musée Archéologique
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Archaeological Museum of Thessaloniki
+	Hat die Fotorechte:	0

@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-7559bf5ae1d90-8
+Demeter/Ceres (vol. IV)_184_1_0
+
+
+
+Monument
+	ID:	30909
+	Entdeckungsort:	Ostia
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Demeter/Ceres
+	Beschreibung:	Ceres on the right, standing on a chariot, on her left Proserpina with a torch; the head of Ceres is a portrait of the deceased.
+Szene
+	ID:	32425
+	Beschreibung:	Ceres on the right, standing on a chariot, on her left Proserpina with a torch; the head of Ceres is a portrait of the deceased.
+	Sequenznummer:	10
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Demeter/Ceres (vol. IV)
+	Katalognummer:	184
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1101
+Museum
+	Land:	IT
+	Stadt:	Ostia
+	Name:	Museo Ostiense
+	Direktor:	Dott.ssa Elvira Angeloni
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Viale dei Romagnoli 717
+	Postleitzahl:	I-00119
+	Kontaktzenter:	Soprintendenza archeologica di Ostia
+	Stadt des Kontaktzenters:	Ostia Antica - Roma
+	Rechteinhaber der Fotos:	Archivio Fotografico della Soprintendenza Archeologica per i beni archeologici di Ostia
+	Hat die Fotorechte:	1

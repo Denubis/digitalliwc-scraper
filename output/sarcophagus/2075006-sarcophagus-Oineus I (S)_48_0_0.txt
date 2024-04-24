@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e172a9de9bb-f
+Oineus I (S)_48_0_0
+
+
+
+Monument
+	ID:	4367
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Oineus I
+	Beschreibung:	Lost. Oineus approaches a kline where Meleagros and Atalante lie.
+Szene
+	ID:	4423
+	Beschreibung:	Oineus approaches a kline where Meleagros and Atalante lie.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Oineus I (S)
+	Katalognummer:	48
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel XII 6, 139
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Direktor:	Soprintendente Prof. Adriano La Regina
+	Adresse:	Piazza S. Maria Nova 53
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza Archeologica di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	0

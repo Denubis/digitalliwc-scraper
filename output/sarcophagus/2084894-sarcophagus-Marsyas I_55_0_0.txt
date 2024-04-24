@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-746ecfedcc2db-f
+Marsyas I_55_0_0
+
+
+
+Monument
+	ID:	14339
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Marsyas I
+	Beschreibung:	Marsyas (I) hanging, kneeling Skythian, Hermes Psychopompos and a goat.
+Datierung
+	Periode:	280 - 300 
+Szene
+	ID:	14765
+	Beschreibung:	Marsyas (I) hanging, kneeling Skythian, Hermes Psychopompos and a goat.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Marsyas I
+	Katalognummer:	55
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 2, 212
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	San Paolo fuori le Mura
+	Rechteinhaber der Fotos:	© Soprindentenza SPSAE e Polo Museale della Città di Roma
+	Hat die Fotorechte:	0

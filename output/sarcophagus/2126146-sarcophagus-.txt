@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-76bc92d9a778f-9
+
+
+
+Monument
+	ID:	203121
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Beschreibung:	Deceased person with crossed arms on a kline and three mourning women.
+	Bibliographie:	Amedick, R., Vita Privata. die Sarkophage mit Darstellungen aus dem Menschenleben, SarkRel I, 4 (1991) 130 no. 56 pl. 68, 6.
+Datierung
+	Periode:	140 - 160 
+Epoche
+	Name:	Mitte 2. Jh. n. Chr.
+	Periode:	140 - 160 
+	Sequenznummer:	3160
+Szene
+	ID:	100159
+	Beschreibung:	Deceased person with crossed arms on a kline and three mourning women.
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	3
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VI. 1.e. Tod, röm.
+	Bandnummer:	6
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2226
+Museum
+	Land:	DK
+	Stadt:	Copenhague
+	Name:	Musée National
+	Anrede:	Dear Curator,
+	Adresse:	Frederiksholms Kanal 12
+	Postleitzahl:	DK-1220
+	Kontaktzenter:	The National Museum of Danemark
+	Stadt des Kontaktzenters:	Copenhague
+	Rechteinhaber der Fotos:	© The National Museum of Danemark
+	Hat die Fotorechte:	1

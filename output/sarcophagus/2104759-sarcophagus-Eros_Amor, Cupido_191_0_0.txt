@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-758ad03137698-7
+Eros/Amor, Cupido_191_0_0
+
+
+
+Monument
+	ID:	34378
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido
+Szene
+	ID:	36137
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	191
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Ravenna
+	Name:	Museo Arcivescovile
+	Rechteinhaber der Fotos:	© Museo Arcivescovile, Ravenna
+	Hat die Fotorechte:	1

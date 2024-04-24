@@ -1,0 +1,59 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ec057cc2469-4
+Herakles_3277_1_0
+Hypnos/Somnus_118_1_0
+Ariadne (vol. III)_98_0_0
+Herakles_p. 183_0_0
+
+
+
+Monument
+	ID:	23170
+	Entdeckungsort:	Alexandria
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Herakles Ariadne Hypnos/Somnus
+	Beschreibung:	Drunken Herakles supported by two satyrs.
+Datierung
+	Periode:	160 - 190 
+Szene
+	ID:	24309
+	Beschreibung:	Drunken Herakles supported by two satyrs.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/egypt/alexandrie/musee_greco-romain/24309X003.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	3277
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	118
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ariadne (vol. III)
+	Katalognummer:	98
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	p. 183
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	17927
+Museum
+	Land:	EG
+	Stadt:	Alexandrie
+	Name:	Musée Gréco-Romain
+	Kontaktzenter:	Musée Gréco-Romain
+	Stadt des Kontaktzenters:	Alexandrie
+	Rechteinhaber der Fotos:	© Musée Gréco-Romain Alexandria
+	Hat die Fotorechte:	1

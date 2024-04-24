@@ -1,0 +1,57 @@
+http://ark.dasch.swiss/ark:/72163/080e-75d803bf52a10-9
+Askanios_12_0_0
+Aineias_174_1_0
+
+
+
+Monument
+	ID:	39821
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 1,25 (House of Siricus)
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	sword helmet knife shield spear blood youth warrior, soldier wound physician
+	Name:	Aineias Aphrodite Askanios Iapyx
+	Beschreibung:	Wall painting showing four central figures: a female figure standing (Aphrodite), in the centre a wounded warrior (Aineias?) getting healed by a crouching male figure (Iapyx?) to his right, and being supported by a child to his left (Askanios?); perhaps a representation of the Latium war?   
+	Bibliographie:	Schefold, WP 165, 8; Galinsky, G. K., Aeneas, Sicily and Rome (1969) fig 23; EAA III 341 fig. 412.
+Datierung
+	Periode:	69 - 96 
+Epoche
+	Name:	flavisch
+	Periode:	69 - 96 
+	Sequenznummer:	1180
+Szene
+	ID:	41877
+	Beschreibung:	Wall painting showing four central figures: a female figure standing (Aphrodite), in the centre a wounded warrior (Aineias?) getting healed by a crouching male figure (Iapyx?) to his right, and being supported by a child to his left (Askanios?); perhaps a representation of the Latium war? 
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/41877X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Askanios
+	Katalognummer:	12
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aineias
+	Katalognummer:	174
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9009
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

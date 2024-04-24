@@ -1,0 +1,52 @@
+http://ark.dasch.swiss/ark:/72163/080e-73cce00ac7b60-0
+Vanth_29_0_1
+Charon I/Charu(n)_51_1_0
+
+
+
+Monument
+	ID:	2924
+	Entdeckungsort:	Tarquinia
+	Entdeckungsort Details:	necropolis
+	Objekt:	wall painting
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Charon I/Charu(n) Vanth
+	Beschreibung:	Vanth with three men. Togati and Charun.
+Szene
+	ID:	2942
+	Beschreibung:	Vanth with three men. Togati and Charun.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/necropoli/2942X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/necropoli/2942X101.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Vanth
+	Katalognummer:	29
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Charon I/Charu(n)
+	Katalognummer:	51
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba 5512
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Necropoli
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

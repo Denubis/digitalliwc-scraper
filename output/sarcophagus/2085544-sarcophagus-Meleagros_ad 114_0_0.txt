@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-74781ae01690d-3
+Meleagros_ad 114_0_0
+
+
+
+Monument
+	ID:	14995
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Meleagros
+	Beschreibung:	From left to right: corner figure, four hunters, Meleagros on horseback, Atalante, the boar, three hunters.
+Szene
+	ID:	15471
+	Beschreibung:	From left to right: corner figure, four hunters, Meleagros on horseback, Atalante, the boar, three hunters.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	ad 114
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1959.148.246
+Museum
+	Land:	GB
+	Stadt:	Liverpool
+	Name:	Liverpool, National Museums (World Museum)
+	Direktor:	Photographic Services
+	Adresse:	127 Dale Street
+	Postleitzahl:	GB-
+	Stadt des Kontaktzenters:	Liverpool L2 2JH
+	Rechteinhaber der Fotos:	© Liverpool, National Museums 
+	Hat die Fotorechte:	1

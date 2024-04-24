@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-764b54a48f31a-0
+
+
+
+Monument
+	ID:	51225
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	House of the Triclinium
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Six personnages s’installent pour banqueter, aidés par des servants parmi lesquels un propose une coupe, un autre déchausse un convive, un troisième soutient un personnage qui semble vomir.
+	Bibliographie:	Dosi, A. / Schnell, F., I Romani in cucina (1986) fig. p. 74.
+Szene
+	ID:	56398
+	Beschreibung:	Six personnages s’installent pour banqueter, aidés par des servants parmi lesquels un propose une coupe, un autre déchausse un convive, un troisième soutient un personnage qui semble vomir.
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	75
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 4.a. Bankett, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	1430
+	Bandnummer:	2
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	120029
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

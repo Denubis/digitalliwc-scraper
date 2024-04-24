@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-759ec918df2a1-0
+Eros/Amor, Cupido_554_0_0
+
+
+
+Monument
+	ID:	35779
+	Entdeckungsort:	Pompei
+	Objekt:	statue group
+	Material:	ivory
+	Land:	CH
+	Kategorie:	ivory, bone
+	Name:	Eros/Amor, Cupido
+Szene
+	ID:	37615
+Foto
+	Monument-URL:	http://www.limc.ch/Images/denmark/copenhague/musee_national/37615X101.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	554
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	7785
+Museum
+	Land:	DK
+	Stadt:	Copenhague
+	Name:	Musée National
+	Anrede:	Dear Curator,
+	Adresse:	Frederiksholms Kanal 12
+	Postleitzahl:	DK-1220
+	Kontaktzenter:	The National Museum of Danemark
+	Stadt des Kontaktzenters:	Copenhague
+	Rechteinhaber der Fotos:	© The National Museum of Danemark
+	Hat die Fotorechte:	1

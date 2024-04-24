@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-747219b5bf1d9-9
+Nemesis_274_0_0
+
+
+
+Monument
+	ID:	14570
+	Entdeckungsort:	Tarragona (Tarraco)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Nemesis
+Szene
+	ID:	15010
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Nemesis
+	Katalognummer:	274
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	ES
+	Stadt:	Tarragone
+	Name:	Musée Archéologique National
+	Direktor:	Director Francesc Tarrats Bou
+	Adresse:	Plaça del Rei 5
+	Postleitzahl:	E-43003
+	Kontaktzenter:	Musée Archéologique National
+	Stadt des Kontaktzenters:	Tarragona / Spain
+	Rechteinhaber der Fotos:	© Museo Arqueológico Nacional Tarragona
+	Hat die Fotorechte:	0

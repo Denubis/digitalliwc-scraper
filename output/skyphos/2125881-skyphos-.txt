@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-76b8c8f8d7ea2-2
+
+
+
+Monument
+	ID:	202724
+	Entdeckungsort:	Pompei
+	Objekt:	skyphos
+	Material:	silver
+	Land:	DE
+	Kategorie:	toreutics
+	Stichwort:	phiale, phiale mesomphalos, patera tree naiskos, aedicula donkey sacral-idyllic landscape youth altar built of field stones
+	Beschreibung:	Szene im ländlichen Heiligtum. Aus Feldsteinen errichteter Altar, davor ein Baum, dahinter ein Esel. Im Hintergrund kleiner Naiskos. L. sitzt eine Frau, weiter re. steht eine Frau, die in der L. eine kleine patera hält, davor ein Jüngling in kurzer Tunika
+	Bibliographie:	Guzzo, P.G. (Hg.), Argenti a Pompei (2006) 196 Kat. Nr. 278, Abb.
+Datierung
+	Periode:	-60 - -40 
+Epoche
+	Name:	Mitte 1. Jh. v. Chr.
+	Periode:	-60 - -40 
+	Sequenznummer:	2870
+Szene
+	ID:	99744
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	145504 bis
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Soprintendenza
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	P 4653

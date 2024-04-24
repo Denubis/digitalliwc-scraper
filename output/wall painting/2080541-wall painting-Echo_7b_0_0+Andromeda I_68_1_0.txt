@@ -1,0 +1,58 @@
+http://ark.dasch.swiss/ark:/72163/080e-7430944eba816-6
+Echo_7b_0_0
+Andromeda I_68_1_0
+
+
+
+Monument
+	ID:	9955
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII Is. occid. 15
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Aktai Andromeda I Echo
+	Beschreibung:	Perseus and Andromeda. On the left on a rock two nymphs, one of them probably Echo.
+	Bibliographie:	Helbig, Wandgemälde no. 1187; Schefold, WP 209; Curtius, WP 256 Abb. 153.
+Datierung
+	Periode:	-15 - 63 
+Epoche
+	Name:	3. pompejanischer Stil
+	Periode:	-15 - 63 
+	Sequenznummer:	1340
+Szene
+	ID:	39491
+	Beschreibung:	Perseus and Andromeda. On the left on a rock two nymphs, one of them probably Echo.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/39491X001.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Echo
+	Katalognummer:	7b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Andromeda I
+	Katalognummer:	68
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8997
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

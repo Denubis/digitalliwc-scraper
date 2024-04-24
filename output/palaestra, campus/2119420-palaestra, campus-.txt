@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-765c6a3e8e1b1-8
+
+
+
+Monument
+	ID:	52508
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	Triangular Forum
+	Objekt:	palaestra, campus
+	Land:	CH
+	Kategorie:	architecture
+	Beschreibung:	Rectangular building with porticus and open area in the middle; seat of the Vereia dedicated to gymnastic exercise. In front of one entrance - along the porticus S - basement for a copy of the Doryphoros with altar
+	Bibliographie:	Weinstock, H., RM 104 (1997) 519-526 tav. 73, 1.
+Szene
+	ID:	57763
+	Beschreibung:	Rectangular building with porticus and open area in the middle; seat of the Vereia dedicated to gymnastic exercise. In front of one entrance - along the porticus S - basement for a copy of the Doryphoros with altar
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	1
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Palaestra
+	Lemata:	Palaestra
+	Sequenznummer:	3840
+	Bandnummer:	4
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Palestra Sannitica
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Foro Triangolare
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VIII 7,29

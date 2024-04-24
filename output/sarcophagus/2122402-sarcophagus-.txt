@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-76870c1e6166f-4
+
+
+
+Monument
+	ID:	90637
+	Entdeckungsort:	Pedinon (Kilkis, Macedonia)
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	GR
+	Kategorie:	relief
+	Stichwort:	lagobolon, pedum tree dog stick, cane horse
+	Name:	Dioskouroi
+	Grössenangabe:	Σωζ. Y. 0.73 m - Πλ. 0.81 m - Πάχ. 0.17 m
+	Beschreibung:	Διόσκουροι(;).
+	Bibliographie:	Πρβλ. Robert, Die Antiken Sarkophagereliebs III2 Pl. L.160 und XLVIII.154.
+	Kommentar:	3563
+Datierung
+	Periode:	200 - 250 
+Epoche
+	Name:	1. Hälfte 3. Jh. n. Chr.
+	Periode:	200 - 250 
+	Sequenznummer:	3320
+Szene
+	ID:	96052
+	Szenerieangabe:	face principale
+	Beschreibung:	Aνδρική μορφή(;) κατ' ενώπιον, στηρίζεται στο δεξιό σκέλος, κρατά με το αριστερό χέρι ράβδο ή λαγοβώλο και έχει το δεξιό υψωμένο (λείπει η παλάμη). Kοντά στο δεξιό χέρι, ίχνη δένδρου(;).Aνδρική μορφή(;) κατ' ενώπιον, στρέφει την κεφαλή δεξιά (χλαμύς που πορπώνεται στο δεξιό ώμο και αναδιπλώνεται στο αριστερό χέρι). Mε το δεξιό χέρι κρατά ράβδο ή λαγοβώλο και με το αριστερό χαλινό ίππου που βαδίζει δεξιά και του οποίου είναι ορατό το εμπρόσθιο τμήμα. Kάτω από τον ίππο, κεφαλή κυνός.Aνδρική μορφή(;), σώζεται το δεξιό σκέλος και ο βραχίων καλύπτεται από χλαμύδα.Tα σκέλη των μορφών λείπουν από τα γόνατα και κάτω.
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	132
+Museum
+	Land:	GR
+	Stadt:	Kilkis
+	Name:	Musée Archéologique
+	Rechteinhaber der Fotos:	© Archaeological Museum of Kilkis
+	Hat die Fotorechte:	0

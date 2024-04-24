@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-7507e9fc91cc4-e
+Hermes_602_0_0
+
+
+
+Monument
+	ID:	25140
+	Entdeckungsort:	Taranto, Tarentum
+	Entdeckungsort Details:	tomb
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Hermes
+Szene
+	ID:	26382
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Hermes
+	Katalognummer:	602
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tombeau
+Museum
+	Land:	IT
+	Stadt:	Taranto
+	Rechteinhaber der Fotos:	© Taranto
+	Hat die Fotorechte:	1

@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-766042c31f1b2-2
+
+
+
+Monument
+	ID:	52817
+	Entdeckungsort:	Boscotrecase
+	Entdeckungsort Details:	Villa of Agrippa Postumus
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	snake herm base tympanon (tambourine) column temple torch basin he-goat statue sacred tree balustrade animal head acroterion canopy, baldachin
+	Beschreibung:	Mittelbild der linken Wand in Raum vier der Villa des Agrippa Postumus mit einer sakralen Landschaft: Dargestellt ist ein ein ägyptisches Heiligtum (erkennbar an dem Scheibenakroter mit Uräus-Schlangen), in dem eingefasst von einer Balustrade ein viersäuliger Baldachinbau steht, an dem tympana hängen. Von rechts nähert sich eine Frau und ihre Dienerin mit einer langen Fackel. Auf der rechten Seite schließt ein Baum und ein Säulenmonument an, auf dem weitere zwei Fackeln aufgestellt sind. Am linken Rand drei Statuen auf einer Rundbasis, an der zwei lange Fackeln schräg angelehnt sind. Vor dem Heiligtum steht eine kleine Herme. Auf der Tempelterrasse ein alter, heiliger Baum, eine Säule, an welcher der Kopf eines Ziegenbocks hängt sowie ein großes Becken auf einer hohen Basis. Auf der Terrasse und im Hintergrund sind weitere Pilger erkennbar, der Hintergrund wird außerdem gestaltet durch weitere Gebäude und Berge. Die anderen Wände zeigen ähnliche Szenen: an der Hauptwand ein Rundtempel mit Kybele-Isis-Statue und korinthischer Weihgeschenksäule; an der rechten Wand eine mit einer Mauer verbundene korinthische Säule, auf deren Gebälk geweihte Vasen stehen, dahinter eine Portikus, zwei Hermen, zwei große Kessel auf Dreifüßen und einige Pilger im Hintergrund. 
+	Bibliographie:	Schefold, K., Vergessenes Pompeij (1962) 61 ff. Taf. 39. Von Blankenhagen, P. H./Alexander, Ch., The Augustan Villa at Boscotrecase (1990) Taf. 30. 
+	Kommentar:	Die Menge der dargestellten Fackeln sowie die direkte Platzierung neben die Statuen sowie in die Hand der Frau im Heiligtum legen eine kultische Nutzung nahe. 
+Datierung
+	Periode:	-15 - 63 
+Epoche
+	Name:	3. pompejanischer Stil
+	Periode:	-15 - 63 
+	Sequenznummer:	1340
+Szene
+	ID:	58134
+	Beschreibung:	Mittelbild der linken Wand in Raum vier der Villa des Agrippa Postumus mit einer sakralen Landschaft: Dargestellt ist ein ein ägyptisches Heiligtum (erkennbar an dem Scheibenakroter mit Uräus-Schlangen), in dem eingefasst von einer Balustrade ein viersäuliger Baldachinbau steht, an dem tympana hängen. Von rechts nähert sich eine Frau und ihre Dienerin mit einer langen Fackel. Auf der rechten Seite schließt ein Baum und ein Säulenmonument an, auf dem weitere zwei Fackeln aufgestellt sind. Am linken Rand drei Statuen auf einer Rundbasis, an der zwei lange Fackeln schräg angelehnt sind. Vor dem Heiligtum steht eine kleine Herme. Auf der Tempelterrasse ein alter, heiliger Baum, eine Säule, an welcher der Kopf eines Ziegenbocks hängt sowie ein großes Becken auf einer hohen Basis. Auf der Terrasse und im Hintergrund sind weitere Pilger erkennbar, der Hintergrund wird außerdem gestaltet durch weitere Gebäude und Berge. Die anderen Wände zeigen ähnliche Szenen: an der Hauptwand ein Rundtempel mit Kybele-Isis-Statue und korinthischer Weihgeschenksäule; an der rechten Wand eine mit einer Mauer verbundene korinthische Säule, auf deren Gebälk geweihte Vasen stehen, dahinter eine Portikus, zwei Hermen, zwei große Kessel auf Dreifüßen und einige Pilger im Hintergrund.
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	1381
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	147503
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

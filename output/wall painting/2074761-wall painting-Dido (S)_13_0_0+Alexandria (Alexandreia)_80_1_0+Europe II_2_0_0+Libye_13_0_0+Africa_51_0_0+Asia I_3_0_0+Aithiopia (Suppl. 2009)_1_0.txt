@@ -1,0 +1,89 @@
+http://ark.dasch.swiss/ark:/72163/080e-73ddf1fbd6432-7
+Dido (S)_13_0_0
+Alexandria (Alexandreia)_80_1_0
+Europe II_2_0_0
+Libye_13_0_0
+Africa_51_0_0
+Asia I_3_0_0
+Aithiopia (Suppl. 2009)_1_0
+
+
+
+Monument
+	ID:	4121
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	V 9 2 (Casa di Meleagro)
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	throne sword suicide ship, boat sunshade, parasol horn, horns elephant black (people) tusk
+	Name:	Africa Aigyptos Alexandria (Alexandreia) Asia I Dido Europe II Libye Aithiopia
+	Beschreibung:	Woman seated on a throne (Europe II?, Dido?), protected by a parasol, on her left and her right two further women (Asia? and Africa?); in the back a ship.
+	Bibliographie:	Helbig, W., Wangemälde Campaniens (1868) 223 no. 1113; Rizzo, G. E., La pittura ellenistica romana (1929) 47 pl. 83; Rocchetti, L., EAA I (1958) 217 fig. 318; De Caro, S., The National Archaeological Museum of Naples (1996) 185 with colour ill.; R. and L. Ling, The insula of the Menander at Pompeii II. The decorations (2005) 123-124.
+	Monument-URL:	arachne.dainst.org/entity/1188044
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	4165
+	Beschreibung:	On the left standing female figure with dark skin and curly black hair holding an elephant tusk; she accompanies a seated Dido in the centre, with a sword in her lap, about to commit suicide, and a personification of Africa on the right
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/4165X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/4165X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Dido (S)
+	Katalognummer:	13
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Alexandria (Alexandreia)
+	Katalognummer:	80
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Europe II
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Libye
+	Katalognummer:	13
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Africa
+	Katalognummer:	51
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Asia I
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aithiopia (Suppl. 2009)
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8898
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

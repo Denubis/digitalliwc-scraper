@@ -1,0 +1,74 @@
+http://ark.dasch.swiss/ark:/72163/080e-74190fbe39535-3
+Peliades_2_0_0
+Iason_3_1_0
+Pelias_8_0_0
+
+
+
+Monument
+	ID:	8289
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	wreath, crown, stephane, corona phiale, phiale mesomphalos, patera jug table, mensa, trapeza temple bull vase branch sacrificial animal stemma, infula, band of wool
+	Name:	Iason Pelias Peliades
+	Beschreibung:	Iason steht mit nur einer Sandale am rechten Fuß vor einem Opfertisch auf dem eine kleine Kanne steht; ein Opferdiener stellt gerade eine Patera darauf ab. Vor dem Tisch befindet sich eine Situla. Im Hintergrund befindet sich ein Tempel vor dem Pelias  zwischen seinen beiden Töchtern (Peliades) steht. Unterhalb des Tempels wird gerade ein bekränzter Stier für das Opfer für Poseidon von einem bekränzten Opferdiener herangeführt.  
+	Bibliographie:	HBr pl. 75; Schefold, K., Pompejanische Malerei (1952) pl. 15; Schefold, WP 263; Ragghianti, L., Pittori di Pompeii (1963) 71-72.
+	Kommentar:	Pour la même scène v. aussi Iason 4*.
+	Monument-URL:	http://www.limc-france.fr/objet/14413
+Datierung
+	Periode:	10 
+	Kommentar:	um
+Epoche
+	Name:	1. Viertel 1. Jh. n. Chr.
+	Periode:	1 - 25 
+	Sequenznummer:	3060
+Szene
+	ID:	8479
+	Beschreibung:	Iason steht mit nur einer Sandale am rechten Fuß vor einem Opfertisch auf dem eine kleine Kanne steht; ein Opferdiener stellt gerade eine Patera darauf ab. Vor dem Tisch befindet sich eine Situla. Im Hintergrund befindet sich ein Tempel vor dem Pelias zwischen seinen beiden Töchtern (Peliades) steht. Unterhalb des Tempels wird gerade ein bekränzter Stier für das Opfer für Poseidon von einem bekränzten Opferdiener herangeführt. 
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/8479X001.jpg
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	191
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Catalog LIMC
+	Artikel:	Peliades
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iason
+	Katalognummer:	3
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Pelias
+	Katalognummer:	8
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	111436
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

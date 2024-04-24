@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-761aaa4883b9e-a
+Amazones_539_0_0
+
+
+
+Monument
+	ID:	44522
+	Entdeckungsort:	Sidon, Saida, Sdn, Sidonia, Sidone, Colonia Aurelia Pia Metropolis Sidon
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	horse the dead warrior, soldier Amazon Phrygian cap boots fight, battle
+	Name:	Amazones
+	Bibliographie:	SarkRel II pl. 45 no. 110; Kαλλιπολίτης, B. G., Χρονολογικη κατα ταξις...(1958) no.179; Giuliano, A./ Palma, B., La maniera ateniese di età romana, StudMisc 24 (1978) 38 C II a no.1 pl. XLII 101.
+	Museums-URL:	http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3102284&partId=1&searchText=2303&page=1
+Datierung
+	Periode:	210 - 215 
+Epoche
+	Name:	1. Viertel 3. Jh. n. Chr.
+	Periode:	200 - 225 
+	Sequenznummer:	3340
+Szene
+	ID:	46820
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	539
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2303
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	British Museum
+	Direktor:	Dr. Charles Arnold
+	Adresse:	Great Russell Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	British Museum - Greek and Roman Antiquities
+	Stadt des Kontaktzenters:	London WC 1B 3DG
+	Rechteinhaber der Fotos:	© British Museum, London
+	Hat die Fotorechte:	1

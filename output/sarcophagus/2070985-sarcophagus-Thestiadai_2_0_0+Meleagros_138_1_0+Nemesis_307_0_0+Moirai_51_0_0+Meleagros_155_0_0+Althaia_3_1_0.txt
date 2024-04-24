@@ -1,0 +1,88 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a7f62284a72-d
+Thestiadai_2_0_0
+Meleagros_138_1_0
+Nemesis_307_0_0
+Moirai_51_0_0
+Meleagros_155_0_0
+Althaia_3_1_0
+
+
+
+Monument
+	ID:	301
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	chiton fire (on altar) torch dog writing-tablet wheel tablet, pinax log seat, chair, sedes, sedile altar: monolithic block
+	Name:	Althaia Erinys Meleagros Moirai Nemesis Thestiadai
+	Grössenangabe:	H. 0,74. L. 2,05. T. 0,98.
+	Beschreibung:	In der Mitte Althaia mit wehendem Mantel, die mit abgewandtem Blick das Holzscheit in das Feuer auf dem Altar hält (rechteckiger Blockaltar mit profilierter Deckplatte in Übereckansicht). Hinter dem Altar eine Erinye mit einer brennenden Fackel, links daneben eine Frau, die ihren l. Fuß auf ein Rad stellt. Sie hält eine Tafel und einen Griffel in der Hand, um das Los der Althaia und ihres Sohnes aufzuschreiben (Koch: Moire, Simon (LIMC): Nemesis). Auf den rechts anschließenden Szenen ist der Tod des Meleager und die Tötung der Thestiaden durch Meleager zu erkennen. 
+	Bibliographie:	Robert, C., SarkRel III 2, 277 Taf. 91; Koch, G., SarkRel XII 6 Nr. 116 Taf. 107, 1.
+	Kommentar:	1907 aus Slg. Borghese.
+	Museums-URL:	http://cartelfr.louvre.fr/cartelfr/visite?srv=car_not_frame&idNotice=17410&langue=fr
+Datierung
+	Periode:	180 - 190 
+Epoche
+	Name:	4. Viertel 2. Jh. n. Chr.
+	Periode:	175 - 200 
+	Sequenznummer:	3230
+Szene
+	ID:	93
+	Beschreibung:	n der Mitte Althaia mit wehendem Mantel, die mit abgewandtem Blick das Holzscheit in das Feuer auf dem Altar hält (rechteckiger Blockaltar mit profilierter Deckplatte in Übereckansicht). Hinter dem Altar eine Erinye mit einer brennenden Fackel, links daneben eine Frau, die ihren l. Fuß auf ein Rad stellt. Sie hält eine Tafel und einen Griffel in der Hand, um das Los der Althaia und ihres Sohnes aufzuschreiben (Koch: Moire, Simon (LIMC): Nemesis). Auf den rechts anschließenden Szenen ist der Tod des Meleager und die Tötung der Thestiaden durch Meleager zu erkennen. 
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/93X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/93X201.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Thestiadai
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	138
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Nemesis
+	Katalognummer:	307
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Moirai
+	Katalognummer:	51
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	155
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Althaia
+	Katalognummer:	3
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 539
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	MR 879

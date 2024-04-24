@@ -1,0 +1,73 @@
+http://ark.dasch.swiss/ark:/72163/080e-743874ec11319-2
+Philoktetes_67_0_1
+Philoktetes_70_0_0
+Athena/Minerva_237_0_0
+Diomedes I_44_0_1
+Eumaios_9_0_1
+Eurykleia_14_0_0
+
+
+
+Monument
+	ID:	10511
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Diomedes I Odysseus Eumaios Athena/Menerva Philoktetes
+	Beschreibung:	Sarcophagus with various scenes.
+	Monument-URL:	arachne.dainst.org/entity/1179536
+Szene
+	ID:	49585
+	Szenerieangabe:	face principale
+	Beschreibung:	Embassy to Lemnos: Diomedes or Neoptolemos stealing Philoktetes' weapons. Other scene: Philoktetes led away from Lemnos.
+	Sequenznummer:	30
+Catalog LIMC
+	Artikel:	Philoktetes
+	Katalognummer:	67
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Philoktetes
+	Katalognummer:	70
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49586
+	Szenerieangabe:	côté g.
+	Beschreibung:	Diomedes (I) escapes from Troy with the palladion, over an altar, met by Odysseus.
+	Sequenznummer:	50
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	237
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Diomedes I
+	Katalognummer:	44
+	Asterix:	0
+	Dot:	1
+Szene
+	ID:	49587
+	Szenerieangabe:	côté dr.
+	Beschreibung:	Eumaios standing behind Odysseus. Eurykleia washing the feet of Odysseus.
+	Sequenznummer:	60
+Catalog LIMC
+	Artikel:	Eumaios
+	Katalognummer:	9
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Eurykleia
+	Katalognummer:	14
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel II 139
+Museum
+	Land:	IT
+	Stadt:	Firenze
+	Name:	Giardino della Gherardesca (già)
+	Rechteinhaber der Fotos:	Giardino della Gherardesca (once), Firenze
+	Hat die Fotorechte:	0

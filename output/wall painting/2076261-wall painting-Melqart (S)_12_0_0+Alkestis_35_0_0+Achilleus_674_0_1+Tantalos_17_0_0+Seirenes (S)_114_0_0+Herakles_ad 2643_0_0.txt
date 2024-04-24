@@ -1,0 +1,75 @@
+http://ark.dasch.swiss/ark:/72163/080e-73f363dc3327e-0
+Melqart (S)_12_0_0
+Alkestis_35_0_0
+Achilleus_674_0_1
+Tantalos_17_0_0
+Seirenes (S)_114_0_0
+Herakles_ad 2643_0_0
+
+
+
+Monument
+	ID:	5632
+	Entdeckungsort:	Tyre
+	Entdeckungsort Details:	tomb
+	Objekt:	wall painting
+	Herkunft:	Lebanon
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	sword garland balance, scales seat with back-rest
+	Name:	Achilleus Alkestis Hektor Herakles Persephone Tantalos Seirenes Melqart
+	Beschreibung:	Various scenes from the Underworld: Herakles and Kerberos pulling in opposite directions. Tantalos ladling water. To his right a tree carrying fruits. Seirenes with musical instruments.
+	Bibliographie:	Dunand, M., BullMusBeyrouth 18, 1965, 5-51 Abb. 4 Taf. 5. 9. 11-12. 15; EAA VII 878 fig. 984; Andreae, B., Studien zur römischen Grabkunst, RM 9. Ergh. (1963) 35 no. 3.
+Datierung
+	Periode:	100 - 200 
+Epoche
+	Name:	2. Jh. n. Chr.
+	Periode:	100 - 200 
+	Sequenznummer:	3140
+Szene
+	ID:	5728
+	Beschreibung:	Various scenes from the Underworld: Herakles and Kerberos pulling in opposite directions. Tantalos ladling water. To his right a tree carrying fruits. Seirenes with musical instruments.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Melqart (S)
+	Katalognummer:	12
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	35
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	674
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Tantalos
+	Katalognummer:	17
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Seirenes (S)
+	Katalognummer:	114
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	ad 2643
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	LB
+	Stadt:	Beyrouth
+	Name:	Musée National
+	Direktor:	Mme le Dr. Pascale Linant de Bellefonds
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-92023
+	Kontaktzenter:	Université Paris X - Nanterre - Maison de l'Archéologie / Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Musée National Beyrouth
+	Hat die Fotorechte:	1

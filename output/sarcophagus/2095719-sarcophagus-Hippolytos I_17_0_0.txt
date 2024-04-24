@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-750992897ba08-0
+Hippolytos I_17_0_0
+
+
+
+Monument
+	ID:	25256
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hippolytos I
+Szene
+	ID:	26504
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	17
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	US
+	Stadt:	Los Angeles
+	Name:	market
+	Rechteinhaber der Fotos:	© Art market
+	Hat die Fotorechte:	0

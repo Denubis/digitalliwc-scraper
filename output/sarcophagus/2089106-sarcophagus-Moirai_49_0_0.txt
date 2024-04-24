@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ab07807b01f-7
+Moirai_49_0_0
+
+
+
+Monument
+	ID:	18600
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Moirai
+Szene
+	ID:	19453
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Moirai
+	Katalognummer:	49
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Cod. Coburgensis fol. 188, 2
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Direktor:	Soprintendente Prof. Adriano La Regina
+	Adresse:	Piazza S. Maria Nova 53
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza Archeologica di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	0

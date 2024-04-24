@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-753df0d0b47d3-e
+Ganymedes_260_0_1
+
+
+
+Monument
+	ID:	28949
+	Objekt:	sarcophagus
+	Material:	lead
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Ganymedes
+Szene
+	ID:	30364
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Ganymedes
+	Katalognummer:	260
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	FR
+	Stadt:	Saint-Lô
+	Name:	Musée des Beaux-Arts
+	Rechteinhaber der Fotos:	© Musée des Beaux-Arts Saint-Lô
+	Hat die Fotorechte:	0

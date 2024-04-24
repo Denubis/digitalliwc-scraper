@@ -1,0 +1,53 @@
+http://ark.dasch.swiss/ark:/72163/080e-769bc356dbe7c-9
+Pygmaioi, Add._Supplement_5_1_0
+
+
+
+Monument
+	ID:	200920
+	Entdeckungsort:	Capaccio Scalo
+	Entdeckungsort Details:	necropolis
+	Objekt:	wall painting
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	spear crane
+	Name:	Pygmaioi
+	Beschreibung:	Pygmy, nude, swinging a club
+	Bibliographie:	Rouveret, A., Le tombe dipinte di Paestum (1992) 276.  392.  464; Rouveret, A., Géranomachie et parodies guerières en milieu italique et romain, in: transmission de l'image dans l'Antiquité (1999) fig. 1;Harari, M., A Short History of Pygmies in Greece and Italy, in Lomas, K., Greek Identity in the Western Mediterranean, Papaers in Honour of Brian Shefton (2004) 163-190 pls. 3-4.
+Datierung
+	Periode:	350 - 400 
+Epoche
+	Name:	2. Hälfte 4. Jh. n. Chr.
+	Periode:	350 - 400 
+	Sequenznummer:	3470
+Szene
+	ID:	97754
+	Beschreibung:	Pygmy, nude, swinging a club
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Pygmaioi, Add.
+	Band:	Supplement
+	Katalognummer:	5
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	31773
+Museum
+	Land:	IT
+	Stadt:	Paestum
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Sopr. Dott. ssa Maria Luisa Nava
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Via Trotula de' Ruggiero 6/7
+	Postleitzahl:	I-84121
+	Kontaktzenter:	Soprintendenza archeologica per le Provincie di Salerno, Avellino, Benevento e Caserta
+	Stadt des Kontaktzenters:	Salerno
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologia, Belle Arti e Paesaggio Salerno e Avellino
+	Hat die Fotorechte:	0

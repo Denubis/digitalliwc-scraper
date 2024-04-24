@@ -1,0 +1,51 @@
+http://ark.dasch.swiss/ark:/72163/080e-760b6ccfa354c-c
+Agyrtes_24_0_0
+Achilleus_153_0_0
+
+
+
+Monument
+	ID:	43438
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	helmet corselet trumpet, tuba, salpinx
+	Name:	Achilleus Agyrtes Eros/Amor, Cupido Odysseus Deidameia II
+	Bibliographie:	SarkRel II no. 33; Calza, R., et al., Antichità di Villa doria Pamphilj (1977) no. 169 pl. 107.
+Datierung
+	Periode:	150 - 161 
+Epoche
+	Name:	antoninisch
+	Periode:	138 - 192 
+	Sequenznummer:	1210
+Datierung
+	Periode:	175 - 200 
+	Kommentar:	(agyrtes)
+Epoche
+	Name:	4. Viertel 2. Jh. n. Chr.
+	Periode:	175 - 200 
+	Sequenznummer:	3230
+Szene
+	ID:	45674
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Agyrtes
+	Katalognummer:	24
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	153
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Calza 169
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Doria Pamphilj
+	Rechteinhaber der Fotos:	© Villa Doria Pamphilj, Roma
+	Kommentar:	Numéros d'après Calza, R. (éd.), Antichità di Villa Doria Pamphilj (1977).
+	Hat die Fotorechte:	1

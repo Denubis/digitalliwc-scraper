@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-73f0f203a57e7-2
+Oineus I (S)_39_0_0
+Meleagros_75_0_0
+
+
+
+Monument
+	ID:	5456
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Meleagros Oineus I
+	Beschreibung:	Strigil sarcophagus. Meleagros standing, a dog looks up at him. In the other fields busts and Oineus.
+Datierung
+	Periode:	180 - 190 
+Szene
+	ID:	5548
+	Beschreibung:	Meleagros standing, a dog looks up at him. In the other fields busts and Oineus.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Oineus I (S)
+	Katalognummer:	39
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	75
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Genova-Cornigliano Ligure
+	Name:	Badia di Sant'Andrea
+	Rechteinhaber der Fotos:	© Badia di Sant'Andrea
+	Hat die Fotorechte:	0

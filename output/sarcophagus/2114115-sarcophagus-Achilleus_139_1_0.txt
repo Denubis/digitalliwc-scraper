@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-76109261a5254-7
+Achilleus_139_1_0
+
+
+
+Monument
+	ID:	43804
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	weapon
+	Name:	Achilleus
+	Bibliographie:	SarkRel II no. 37; Walker, S., Catalogue of Roman Sarcophagi in the BM (1990) 21 no. 13 pl. 5.
+	Museums-URL:	http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=399007&partId=1&searchText=sculpture+2297&from=bc&fromDate=800&to=ad&toDate=400&page=1
+Szene
+	ID:	46077
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/british_museum/46077X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/british_museum/46077X302.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	139
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2297
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	British Museum
+	Direktor:	Dr. Charles Arnold
+	Adresse:	Great Russell Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	British Museum - Greek and Roman Antiquities
+	Stadt des Kontaktzenters:	London WC 1B 3DG
+	Rechteinhaber der Fotos:	© British Museum, London
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	1805.7-3.154

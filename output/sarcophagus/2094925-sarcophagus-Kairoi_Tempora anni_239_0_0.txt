@@ -1,0 +1,77 @@
+http://ark.dasch.swiss/ark:/72163/080e-74fe388ffd506-b
+Kairoi/Tempora anni_239_0_0
+
+
+
+Monument
+	ID:	24457
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kairoi/Tempora anni
+	Beschreibung:	Between the columns on the front side are the remains of four large kraters filled with seasonal fruit/plants.
+Datierung
+	Periode:	200 - 220 
+Szene
+	ID:	25661
+	Beschreibung:	Between the columns on the front side are the remains of four large kraters filled with seasonal fruit/plants.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	239
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	16
+Museum
+	Land:	CH
+	Stadt:	Bern
+	Name:	Sammlung des Archäologischen Instituts der Universität
+	Direktor:	Prof. Dr. Elena Mango
+	Adresse:	Länggass-Strasse 10
+	Postleitzahl:	CH-3012
+	Kontaktzenter:	Institut für Archäologie, Abt. Archäologie des Mittelmeerraumes
+	Stadt des Kontaktzenters:	Bern
+	Rechteinhaber der Fotos:	© Sammlung des Archäologischen Instituts der Universität Bern
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Auktion 56, 1980, 170
+Museum
+	Land:	CH
+	Stadt:	Basel
+	Name:	Münzen und Medaillen AG
+	Direktor:	Herrn Jean David Cahn
+	Adresse:	Malzgasse 23
+	Postleitzahl:	CH-4052
+	Kontaktzenter:	Galerie Jean David Cahn
+	Stadt des Kontaktzenters:	Basel
+	Rechteinhaber der Fotos:	© Münzen und Medaillen AG, Basel
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	CH
+	Stadt:	Lugano
+	Name:	Donati
+	Rechteinhaber der Fotos:	© Donati, Lugano
+	Hat die Fotorechte:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	CH
+	Stadt:	Molinazzo di Monteggio
+	Name:	Collezione A. Marazzi
+	Rechteinhaber der Fotos:	© Collection A. Marazzi
+	Hat die Fotorechte:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	DE
+	Stadt:	Baden-Baden
+	Name:	Privatsammlung
+	Rechteinhaber der Fotos:	© Private Collection
+	Hat die Fotorechte:	0

@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-74cb867e9ea44-f
+Hesperides_84_0_0
+
+
+
+Monument
+	ID:	20882
+	Entdeckungsort:	Ostia
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hesperides
+	Beschreibung:	Meleagros and, at left, a woman in dress and cloak who holds fruit in a fold of her mantle (Hesperid?).
+Datierung
+	Periode:	165 
+Szene
+	ID:	21804
+	Beschreibung:	Meleagros and, at left, a woman in dress and cloak who holds fruit in a fold of her mantle (Hesperid?).
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/porto_di_ostia/21804X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hesperides
+	Katalognummer:	84
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Santa Lucia
+Museum
+	Land:	IT
+	Stadt:	Porto (di Ostia)
+	Rechteinhaber der Fotos:	© Porto (di Ostia)
+	Hat die Fotorechte:	1

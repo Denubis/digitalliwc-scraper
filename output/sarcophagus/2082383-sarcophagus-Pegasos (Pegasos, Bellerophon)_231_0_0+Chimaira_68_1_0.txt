@@ -1,0 +1,51 @@
+http://ark.dasch.swiss/ark:/72163/080e-744ae9e032b90-b
+Pegasos (Pegasos, Bellerophon)_231_0_0
+Chimaira_68_1_0
+
+
+
+Monument
+	ID:	11810
+	Entdeckungsort:	Xanthos (Lycia)
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	chariot
+	Name:	Chimaira Bellerophon Pegasos
+	Museums-URL:	http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=399097&partId=1&searchText=951&images=true&from=bc&fromDate=800&to=ad&toDate=600&page=1
+Szene
+	ID:	12093
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/british_museum/12093X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Pegasos (Pegasos, Bellerophon)
+	Katalognummer:	231
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Chimaira
+	Katalognummer:	68
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	951
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	British Museum
+	Direktor:	Dr. Charles Arnold
+	Adresse:	Great Russell Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	British Museum - Greek and Roman Antiquities
+	Stadt des Kontaktzenters:	London WC 1B 3DG
+	Rechteinhaber der Fotos:	© British Museum, London
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Sarcophage de Merehi

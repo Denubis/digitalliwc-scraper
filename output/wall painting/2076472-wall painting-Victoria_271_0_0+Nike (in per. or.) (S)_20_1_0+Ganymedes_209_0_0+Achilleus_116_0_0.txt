@@ -1,0 +1,55 @@
+http://ark.dasch.swiss/ark:/72163/080e-73f6681a4f3dd-f
+Victoria_271_0_0
+Nike (in per. or.) (S)_20_1_0
+Ganymedes_209_0_0
+Achilleus_116_0_0
+
+
+
+Monument
+	ID:	5843
+	Entdeckungsort:	Palmyra, Tadmur
+	Entdeckungsort Details:	Tomb of the three brothers
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Ganymedes Victoria Nike
+	Beschreibung:	Several Victories standing on globes, carrying shields with the portraits of deceased men and women.
+	Bibliographie:	Borda, M., La Pittura Romana (1954) 126 fig.; EAA V (1963) 917 1125; Colledge, M. A. R., The Art of Palmyra (1976) 84-87 pl. 115-116; Balty, J., in Archéologie et histoire de la Syrie II (1989) 532-533  fig. 192-193..
+	Monument-URL:	http://www.limc-france.fr/objet/10656 http://www.limc-france.fr/objet/10654 http://www.limc-france.fr/objet/10655
+Datierung
+	Periode:	100 - 300 
+Szene
+	ID:	5946
+	Beschreibung:	Several Victories standing on globes, carrying shields with the portraits of deceased men and women.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Victoria
+	Katalognummer:	271
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Nike (in per. or.) (S)
+	Katalognummer:	20
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ganymedes
+	Katalognummer:	209
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	116
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Hypogée des Trois Frères
+Museum
+	Land:	SY
+	Stadt:	Palmyre
+	Name:	Nécropoles
+	Rechteinhaber der Fotos:	© Palmyra
+	Hat die Fotorechte:	1

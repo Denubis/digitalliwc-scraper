@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-7617608090ca0-a
+Amazones_504_0_0
+
+
+
+Monument
+	ID:	44296
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	helmet double-axe, bipennis, labrys horse warrior, soldier Amazon fight, battle rider
+	Name:	Amazones
+	Bibliographie:	SarkRel II pl. 34 no. 84; Redlich, Die Amazonensarkophage des 2. und 3. Jahrhunderts v. Chr. (1973) 46; Morazzoni, G., Il Museo Correale di Sorrento 6 pl. 21; Andreae, B., RM 63 (1956) 34 no. 5.
+Datierung
+	Periode:	165 - 180 
+Epoche
+	Name:	2. Hälfte 2. Jh. n. Chr.
+	Periode:	150 - 200 
+	Sequenznummer:	3190
+Szene
+	ID:	46582
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	504
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Sorrento
+	Name:	Museo Correale di Terranova
+	Adresse:	Via Correale 50
+	Postleitzahl:	I-80067
+	Kontaktzenter:	Museo Correale di Terranova
+	Stadt des Kontaktzenters:	Sorrento
+	Rechteinhaber der Fotos:	© Museo Correale di Terranova, Sorrento
+	Hat die Fotorechte:	1

@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-73db926ffa674-f
+Kentauroi et Kentaurides (S)_470b_1_0
+Eros/Amor, Cupido_ad 628_0_0
+
+
+
+Monument
+	ID:	3955
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido Kentauroi and Kentaurides
+	Beschreibung:	Centaurs in front of bigas, holding clipeus.
+	Museums-URL:	http://cartelfr.louvre.fr/cartelfr/visite?srv=car_not_frame&idNotice=3464&langue=fr
+Szene
+	ID:	3999
+	Beschreibung:	Centaurs in front of bigas, holding clipeus.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/3999X002.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	470b
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 628
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 1013
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

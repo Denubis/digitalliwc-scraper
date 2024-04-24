@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-749f08d4bc77c-e
+Myrtilos_7_0_0
+
+
+
+Monument
+	ID:	17749
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	tomb
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Myrtilos
+Szene
+	ID:	20088
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Myrtilos
+	Katalognummer:	7
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	AA
+	Stadt:	Collections privées non spécifiées
+	Direktor:	Herrn Prof. Dr. K. Schauenburg
+	Adresse:	Feldstrasse 75
+	Postleitzahl:	D-24105
+	Kontaktzenter:	 
+	Stadt des Kontaktzenters:	Kiel
+	Rechteinhaber der Fotos:	© Private collection
+	Hat die Fotorechte:	1

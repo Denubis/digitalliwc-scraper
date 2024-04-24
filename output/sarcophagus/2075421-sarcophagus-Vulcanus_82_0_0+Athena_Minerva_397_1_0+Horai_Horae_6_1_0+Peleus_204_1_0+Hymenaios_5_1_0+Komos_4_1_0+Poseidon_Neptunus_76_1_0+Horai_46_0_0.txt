@@ -1,0 +1,119 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e7618784416-6
+Vulcanus_82_0_0
+Athena/Minerva_397_1_0
+Horai/Horae_6_1_0
+Peleus_204_1_0
+Hymenaios_5_1_0
+Komos_4_1_0
+Poseidon/Neptunus_76_1_0
+Horai_46_0_0
+
+
+
+Monument
+	ID:	4785
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Rome
+	Land:	CH
+	Kategorie:	sarcophagus
+	Stichwort:	torch
+	Name:	Athena Hephaistos Horai Hymenaios Peleus Thetys I Komos Athena/Minerva Poseidon/Neptunus Vulcanus
+	Beschreibung:	Mythischer Hochzeitszug, am Rand sitzendes Paar als Peleus und Thetis gedeutet. Sie empfangen den Zug der Gäste, der von Hephaistos und Athena angeführt wird, welche Waffen als Geschenke bringen (mit diesen zog später Achilleus in den Trojanischen Krieg). Weiter gehören zum Zug die Horai und ein junger Mann (Hymenaios?, Komos?). Neptunus mit Dreizack und Ketos.
+	Bibliographie:	Robert, SarkRel II Nr. 1Helbig IV Nr. 3291 (Andreae)Müller, F. G. J. M., Imago explicatu difficillima (1987)
+Datierung
+	Periode:	117 - 138 
+Epoche
+	Name:	hadrianisch
+	Periode:	117 - 138 
+	Sequenznummer:	1200
+Szene
+	ID:	4865
+	Beschreibung:	Mythischer Hochzeitszug, am Rand sitzendes Paar als Peleus und Thetis gedeutet. Sie empfangen den Zug der Gäste, der von Hephaistos und Athena angeführt wird, welche Waffen als Geschenke bringen (mit diesen zog später Achilleus in den Trojanischen Krieg). Weiter gehören zum Zug die Horai und ein junger Mann (Hymenaios?, Komos?). Neptunus mit Dreizack und Ketos.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_albani/4865X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_albani/4865X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_albani/4865X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_albani/4865X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_albani/4865X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_albani/4865X301.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_albani/4865X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_albani/4865X303.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_albani/4865X304.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_albani/4865X305.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Vulcanus
+	Katalognummer:	82
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	397
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	6
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Peleus
+	Katalognummer:	204
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hymenaios
+	Katalognummer:	5
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Komos
+	Katalognummer:	4
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Poseidon/Neptunus
+	Katalognummer:	76
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Horai
+	Katalognummer:	46
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	131
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Albani
+	Adresse:	Via della Conciliazione 30
+	Postleitzahl:	I-00193
+	Kontaktzenter:	Amministrazione Torlonia
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Phot. proprietà Principe Torlonia
+	Hat die Fotorechte:	0

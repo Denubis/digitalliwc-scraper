@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-765bd0871ef5f-b
+
+
+
+Monument
+	ID:	52463
+	Entdeckungsort:	Pompei
+	Objekt:	altar
+	Land:	CH
+	Kategorie:	cultual installations
+	Beschreibung:	Forum, Macellum; altar of the Genius Macelli with a hole for libations
+	Bibliographie:	Small, A., The Shrine of the Imperial Family in the Macellum at Pompei, in subject and Ruler: the Cult of the Ruling Power in Classical Antiquity, JRA Suppl. 17 (1996) 132 fig. 11.
+Szene
+	ID:	57718
+	Beschreibung:	Forum, Macellum; altar of the Genius Macelli with a hole for libations
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	6
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Altare, Rom. imp.
+	Lemata:	Altare, Rom. imp.
+	Sequenznummer:	3296
+	Bandnummer:	4
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Macellum
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Foro
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

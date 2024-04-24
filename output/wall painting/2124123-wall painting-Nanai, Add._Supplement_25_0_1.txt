@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-769fa6d63dfcc-1
+Nanai, Add._Supplement_25_0_1
+
+
+
+Monument
+	ID:	201312
+	Entdeckungsort:	Penjikent (Tajikistan)
+	Entdeckungsort Details:	sector XXV
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	sceptre lion cup crescent of the moon worshipper, praying man thymiaterion, turibulum, incense-burner incense offering halo, nimbus trident solar disk
+	Name:	Nanai
+	Beschreibung:	Scene depicting numerous figures. The upper representation in the centre shows a sitting female figure with four arms (interpreted as Nana) on a saddled lion pacing to the right, with long garment, a headdress with crescent and a nimbus; in her four hands she holds (from l. to r., top-down) a sun, a sceptre with a crescent on his top, a moon, a cup
+	Bibliographie:	Marshk, B. I. / Raspopova, V. I., Cultes communautaires et cultes privés en Sogdiane, in: Bernard, P. / Grenet, F.,  Histoire et cultes de l'Asie centrale préislamique (1991) 
+Datierung
+	Periode:	600 - 700 
+Epoche
+	Name:	7. Jh. n. Chr.
+	Periode:	600 - 700 
+	Sequenznummer:	3840
+Szene
+	ID:	98240
+	Beschreibung:	Scene depicting numerous figures. The upper representation in the centre shows a sitting female figure with four arms (interpreted as Nana) on a saddled lion pacing to the right, with long garment, a headdress with crescent and a nimbus; in her four hands she holds (from l. to r., top-down) a sun, a sceptre with a crescent on his top, a moon, a cup
+Catalog LIMC
+	Artikel:	Nanai, Add.
+	Band:	Supplement
+	Katalognummer:	25
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	TJ
+	Stadt:	Pendjikent
+	Rechteinhaber der Fotos:	© Pendjikent
+	Hat die Fotorechte:	1

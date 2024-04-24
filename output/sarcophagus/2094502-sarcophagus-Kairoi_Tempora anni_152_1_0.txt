@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-74f82c6ad4c83-5
+Kairoi/Tempora anni_152_1_0
+
+
+
+Monument
+	ID:	24032
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kairoi/Tempora anni
+	Beschreibung:	Six Genii. The two central ones hold a clipeus with the deceased. Below a scene of treading grapes. On the left and the right are the Seasons.
+	Monument-URL:	arachne.dainst.org/entity/1067251
+Datierung
+	Periode:	280 
+Szene
+	ID:	25214
+	Beschreibung:	Six Genii. The two central ones hold a clipeus with the deceased. Below a scene of treading grapes. On the left and the right are the Seasons.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/gubbio/museo_civico_e_pinacoteca_comunale_palazzo_dei_consoli/25214X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	152
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Gubbio
+	Name:	Museo Civico e Pinacoteca Comunale (Palazzo dei Consoli)
+	Direktor:	Sindaco del Comune di Gubbio
+	Adresse:	Piazza Grande 1
+	Postleitzahl:	I-06024
+	Stadt des Kontaktzenters:	Gubbio
+	Rechteinhaber der Fotos:	© Museo Civico e Pinacoteca Comunale, Gubbio
+	Hat die Fotorechte:	0

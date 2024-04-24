@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-740bf7422f051-3
+Seirenes (S)_110_0_0
+
+
+
+Monument
+	ID:	7364
+	Entdeckungsort:	Sakkara
+	Entdeckungsort Details:	Serapeion
+	Objekt:	sarcophagus
+	Material:	wood
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Seirenes
+	Beschreibung:	Seirenes with lyres.
+Szene
+	ID:	7513
+	Beschreibung:	Seirenes with lyres.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/egypt/cairo/egyptian_museum/7513X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/egypt/cairo/egyptian_museum/7513X102.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Seirenes (S)
+	Katalognummer:	110
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	CG 33103
+Museum
+	Land:	EG
+	Stadt:	Cairo
+	Name:	Egyptian Museum
+	Kontaktzenter:	Musée Egyptien
+	Stadt des Kontaktzenters:	Le Caire
+	Rechteinhaber der Fotos:	© Egyptian Museum Cairo
+	Hat die Fotorechte:	1

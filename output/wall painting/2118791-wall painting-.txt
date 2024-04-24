@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-76536c27fb4a8-9
+
+
+
+Monument
+	ID:	51832
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 41 (Villa of Iulia Felix)
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	column cult image, cult statue round temple sanctuary sacred grove propylaia, propylon, gateway, entrance architecture capital: Corinthian
+	Name:	Aphrodite
+	Beschreibung:	einfaches propylon markiert den Eingang in Heiligtum: Korinthische Tholos (Schrägansicht; verziertes Gebälk, pagodenförmiges Dach, innen Aphroditestatue, heiliger Hain im Hintergrund) in einem Hof.
+	Bibliographie:	Beyen, H.G., Die pompejanische Wanddekoration vom 2. bis zum 4. Stil (1938) 268-278; Lehmann, J., Architekturdarstellungen RM Erg.-H. 12 (1967) 27d, 120 Abb. 64; Cerulli Irelli, PWandmalerei Abb. 148; de Caro, S., Il Mus. Arch. Naz. di Napoli (1994) 149.
+Datierung
+	Periode:	-50 
+Epoche
+	Name:	Mitte 1. Jh. v. Chr.
+	Periode:	-60 - -40 
+	Sequenznummer:	2870
+Szene
+	ID:	57055
+	Beschreibung:	Ein einfaches Propylon markiert den Eingang in ein Heiligtum mit einem Hof und einer korinthischen Tholos mit Pagodendach.
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	28
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	IV. 1.b. Kultorte (Darstellungen)
+	Sequenznummer:	4500
+	Bandnummer:	4
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8594
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

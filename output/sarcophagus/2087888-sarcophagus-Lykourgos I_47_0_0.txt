@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-74999db8e3cd5-d
+Lykourgos I_47_0_0
+
+
+
+Monument
+	ID:	17362
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Lykourgos I
+Szene
+	ID:	18080
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Lykourgos I
+	Katalognummer:	47
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Santa Petronilla
+	Rechteinhaber der Fotos:	© Soprindentenza SPSAE e Polo Museale della Città di Roma
+	Hat die Fotorechte:	0

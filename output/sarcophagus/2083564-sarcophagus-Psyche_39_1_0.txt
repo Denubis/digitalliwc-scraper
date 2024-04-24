@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-745bcc3d0c961-4
+Psyche_39_1_0
+
+
+
+Monument
+	ID:	12998
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Psyche
+Szene
+	ID:	13316
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_barberini/13316X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	39
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Barberini
+	Rechteinhaber der Fotos:	© Palazzo Barberini, Roma
+	Hat die Fotorechte:	1

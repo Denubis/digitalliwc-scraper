@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-73ded88efcfad-f
+Erythra Thalatta (S)_4c_1_0
+
+
+
+Monument
+	ID:	4184
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Erythra Thalatta
+	Beschreibung:	Crossing of the Red Sea (Erythra Thalatta): Below the horses of the biga of pharaoh a reclining river-god, leaning on an urn from where water pours out. To the left of the river-god the approaching Egyptians, to the right drowning Egyptians and on secure land Moses and the Israelites.
+Datierung
+	Periode:	380 - 390 
+Szene
+	ID:	4228
+	Beschreibung:	Crossing of the Red Sea (Erythra Thalatta): Below the horses of the biga of pharaoh a reclining river-god, leaning on an urn from where water pours out. To the left of the river-god the approaching Egyptians, to the right drowning Egyptians and on secure land Moses and the Israelites.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/arles/eglise_saint-trophime/4228X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/arles/eglise_saint-trophime/4228X102.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Erythra Thalatta (S)
+	Katalognummer:	4c
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	FR
+	Stadt:	Arles
+	Name:	Eglise Saint-Trophime
+	Rechteinhaber der Fotos:	© Arles
+	Hat die Fotorechte:	1

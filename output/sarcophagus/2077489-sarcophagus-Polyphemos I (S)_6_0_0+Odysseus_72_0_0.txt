@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-7404f23d2df7a-4
+Polyphemos I (S)_6_0_0
+Odysseus_72_0_0
+
+
+
+Monument
+	ID:	6870
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Odysseus Polyphemos I
+	Monument-URL:	arachne.dainst.org/entity/1409528
+Szene
+	ID:	7016
+	Szenerieangabe:	couvercle
+	Sequenznummer:	20
+Catalog LIMC
+	Artikel:	Polyphemos I (S)
+	Katalognummer:	6
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Odysseus
+	Katalognummer:	72
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Via del Collegio Capranica 10
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Vie
+	Rechteinhaber der Fotos:	© Roma
+	Hat die Fotorechte:	1

@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-7651bc4930bda-8
+
+
+
+Monument
+	ID:	51703
+	Entdeckungsort:	Cerveteri, Caere
+	Entdeckungsort Details:	necropolis of the Banditaccia
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	sculpture in the round
+	Beschreibung:	So-called "sarcofago degli sposi". The terracotta statues represent a recumbent couple (man and woman) (dat. 525-500 BC). Scene showing procession to the left: two lictors with fasces, togated magistrate on a biga, four togates, the second carrying a big tablet, the last two horns (processus magistraturalis)
+	Bibliographie:	Briguet, M.-F., Les sarcophages des époux de Cerveteri au musée du Louvre (1989).
+Szene
+	ID:	56916
+	Beschreibung:	So-called "sarcofago degli sposi". The terracotta statues represent a recumbent couple (man and woman) (dat. 525-500 BC). Scene showing procession to the left: two lictors with fasces, togated magistrate on a biga, four togates, the second carrying a big tablet, the last two horns (processus magistraturalis)
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	28
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 4.a. Bankett, etr.
+	Kurzname:	Etr.
+	Sequenznummer:	1420
+	Bandnummer:	2
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Cp 5194
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-7643a39b6d318-4
+
+
+
+Monument
+	ID:	50668
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Bibliographie:	Gercke, F., Die christlichen Sarkophagen der vorkonstantinischer Zeit (1940) 265-271 pl. 52, 1. 54, 2; Klauser, Th., JbAC 3, 1960, 113 s. pl. 4-5.
+Szene
+	ID:	55828
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	41
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	21
+	Name:	III. 6.b. Gebet, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	2300
+	Bandnummer:	3
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	312
+Museum
+	Land:	FR
+	Stadt:	Brignoles
+	Name:	Musée du Pays Brignolais
+	Adresse:	2 Place des Comtes de Provence
+	Postleitzahl:	F-83170
+	Kontaktzenter:	Musée du Pays Brignolais Palais des Comtes de Provence
+	Stadt des Kontaktzenters:	Brignoles
+	Rechteinhaber der Fotos:	© Musée du Pays Brignolais
+	Hat die Fotorechte:	0

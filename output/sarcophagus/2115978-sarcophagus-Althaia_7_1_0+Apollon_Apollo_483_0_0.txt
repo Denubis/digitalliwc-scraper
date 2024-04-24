@@ -1,0 +1,56 @@
+http://ark.dasch.swiss/ark:/72163/080e-762b34ced4ef7-d
+Althaia_7_1_0
+Apollon/Apollo_483_0_0
+
+
+
+Monument
+	ID:	45696
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	spear dagger funerary monument
+	Name:	Althaia Apollon/Apollo
+	Beschreibung:	Main side: return of the dead Meleagros. Right side: Althaia kneeling, committing suicide at the tomb of Meleagros.
+	Bibliographie:	Robert, C., SarRel III 2, no. 285 pl. 95; Koch, G., SarRel XII 6 no. 83 pl. 89, 4.
+Datierung
+	Periode:	170 - 190 
+	Kommentar:	about
+Epoche
+	Name:	antoninisch
+	Periode:	138 - 192 
+	Sequenznummer:	1210
+Szene
+	ID:	48102
+	Beschreibung:	Main side: return of the dead Meleagros. Right side: Althaia kneeling, committing suicide at the tomb of Meleagros.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/perugia/museo_archeologico_nazionale_dell_umbria/48102X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Althaia
+	Katalognummer:	7
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	483
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1886
+Museum
+	Land:	IT
+	Stadt:	Perugia
+	Name:	Museo Archeologico Nazionale dell'Umbria
+	Direktor:	Soprintendente Dott. Mario Pagano
+	Adresse:	Piazza Partigiani 9
+	Postleitzahl:	I-06121
+	Kontaktzenter:	Soprintendenza Archeologica per l'Umbria
+	Stadt des Kontaktzenters:	Perugia
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica per l'Umbria
+	Hat die Fotorechte:	1

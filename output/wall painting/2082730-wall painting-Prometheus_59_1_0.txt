@@ -1,0 +1,58 @@
+http://ark.dasch.swiss/ark:/72163/080e-744fdfddffd97-f
+Prometheus_59_1_0
+
+
+
+Monument
+	ID:	12161
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 4,31.51 (Casa dei Capitelli colorati / Casa di Arianna)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	base garland temple statue
+	Name:	Herakles Prometheus
+	Beschreibung:	Landschaft mit girlandenbehangenem Tempel, daneben Statue auf breiter Rundbasis und sitzende Frau; Herakles und Prometheus.
+	Bibliographie:	Helbig, Wandgemälde Nr. 1128.Dawson, C.M., Romano-Campanian Mythological Landscape Painting (YaleClSt 9, 1944) 111 Nr. 63 Taf. 23.Schefold, WP 185.Schefold, VergP 81 Taf. 155, 2.
+Datierung
+	Periode:	45 - 79 
+	Kommentar:	1. Datierung
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Datierung
+	Periode:	-15 - 63 
+	Kommentar:	2. Datierung
+Epoche
+	Name:	3. pompejanischer Stil
+	Periode:	-15 - 63 
+	Sequenznummer:	1340
+Szene
+	ID:	12454
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/12454X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Prometheus
+	Katalognummer:	59
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8849
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

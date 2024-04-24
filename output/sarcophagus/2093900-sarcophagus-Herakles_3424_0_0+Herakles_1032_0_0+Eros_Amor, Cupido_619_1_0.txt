@@ -1,0 +1,56 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ef91259bb41-4
+Herakles_3424_0_0
+Herakles_1032_0_0
+Eros/Amor, Cupido_619_1_0
+
+
+
+Monument
+	ID:	23419
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Herakles Eros/Amor, Cupido
+	Beschreibung:	Herakles reclining, flanked by two oversized Victories carrying garlands and attended by Erotes. Holds cup.
+Datierung
+	Periode:	200 - 250 
+Szene
+	ID:	24587
+	Beschreibung:	Herakles reclining, flanked by two oversized Victories carrying garlands and attended by Erotes. Holds cup.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_doria_pamphilj/24587X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_doria_pamphilj/24587X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_doria_pamphilj/24587X302.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	3424
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	1032
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	619
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Calza 183
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Doria Pamphilj
+	Rechteinhaber der Fotos:	© Villa Doria Pamphilj, Roma
+	Kommentar:	Numéros d'après Calza, R. (éd.), Antichità di Villa Doria Pamphilj (1977).
+	Hat die Fotorechte:	1

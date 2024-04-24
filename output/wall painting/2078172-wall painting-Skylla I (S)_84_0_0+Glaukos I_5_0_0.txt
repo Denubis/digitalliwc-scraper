@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-740eb5f674411-c
+Skylla I (S)_84_0_0
+Glaukos I_5_0_0
+
+
+
+Monument
+	ID:	7557
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Glaukos I Skylla I
+	Beschreibung:	Glaukos (I) and Skylla.
+Szene
+	ID:	7713
+	Beschreibung:	Glaukos (I) and Skylla.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Skylla I (S)
+	Katalognummer:	84
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Glaukos I
+	Katalognummer:	5
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Michaelis 36
+Museum
+	Land:	GB
+	Stadt:	Brocklesby Park (Lincolnshire)
+	Direktor:	Prof. Dr. Reinhard Förtsch
+	Anrede:	Sehr geehrter Herr Professor,
+	Adresse:	Albertus-Magnus-Platz
+	Postleitzahl:	D-50923
+	Kontaktzenter:	Forschungsarchiv für Antike Plastik am Archäologischen Institut der Universität zu Köln
+	Stadt des Kontaktzenters:	Köln
+	Rechteinhaber der Fotos:	© Forschungsarchiv für Antike Plastik am Archäologischen Institut der Universität zu Köln
+	Hat die Fotorechte:	0

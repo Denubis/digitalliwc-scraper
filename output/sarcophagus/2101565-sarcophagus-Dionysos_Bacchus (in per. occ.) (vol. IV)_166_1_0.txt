@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-755d266a57ab6-3
+Dionysos/Bacchus (in per. occ.) (vol. IV)_166_1_0
+
+
+
+Monument
+	ID:	31147
+	Entdeckungsort:	Vienne
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dionysos/Bacchus
+Szene
+	ID:	32663
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/vienne/musee_lapidaire_saint-pierre/32663X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus (in per. occ.) (vol. IV)
+	Katalognummer:	166
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	94
+Museum
+	Land:	FR
+	Stadt:	Vienne
+	Name:	Musée Lapidaire Saint-Pierre
+	Rechteinhaber der Fotos:	© Musée Lapidaire Saint-Pierre, Vienne
+	Kommentar:	Numéros d'après Will, E., La sculpture romaine au Musée lapidaire de Vienne (1952).
+	Hat die Fotorechte:	0

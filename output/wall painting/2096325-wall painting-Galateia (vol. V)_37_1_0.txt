@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-75123c727625e-7
+Galateia (vol. V)_37_1_0
+
+
+
+Monument
+	ID:	25868
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Galateia
+	Beschreibung:	Polyphemos and Galateia.
+Szene
+	ID:	27160
+	Beschreibung:	Polyphemos and Galateia.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/27160X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/27160X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Galateia (vol. V)
+	Katalognummer:	37
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	27687
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

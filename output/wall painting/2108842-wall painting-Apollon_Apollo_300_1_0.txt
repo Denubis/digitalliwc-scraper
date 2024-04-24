@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-75c52fa2c7b97-1
+Apollon/Apollo_300_1_0
+
+
+
+Monument
+	ID:	38490
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+Szene
+	ID:	40476
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/austria/wien/kunsthistorisches_museum/40476X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	300
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	V 3226
+Museum
+	Land:	AT
+	Stadt:	Wien
+	Name:	Kunsthistorisches Museum
+	Direktor:	Prof. Dr. Kurt Gschwantler
+	Anrede:	Sehr geehrter Herr Professor,
+	Adresse:	Burgring 5
+	Postleitzahl:	A-1010
+	Kontaktzenter:	Kunsthistorisches Museum
+	Stadt des Kontaktzenters:	Wien
+	Rechteinhaber der Fotos:	© Kunsthistorisches Museum Wien
+	Hat die Fotorechte:	1

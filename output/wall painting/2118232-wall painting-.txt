@@ -1,0 +1,30 @@
+http://ark.dasch.swiss/ark:/72163/080e-764b6e4321b7d-0
+
+
+
+Monument
+	ID:	51232
+	Entdeckungsort:	Rome
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Bibliographie:	Dekkers, J. G. / Seeliger, H. R. / Mietke, G., Die Katakombe dei Santi Marcellino e Pietro. Repertorium der Malereien, vol. 2 (1987)  tav. colori 57, b n.  76; Ferrua, A., Una nuova regione della catacomba dei SS. Marcellino e Pietro, R.A.C. 1968, 24 fig. 15.
+Szene
+	ID:	56405
+Foto
+	Neues Foto:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Camera Ih della regione Y
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Catacombe dei SS. Marcellino e Pietro
+	Direktor:	Dott.ssa Barbara Mazzei
+	Adresse:	Via Napoleone III 1
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Pontificia Commissione di Archeologia Sacra
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Pontificia Commissione di Archeologia Sacra
+	Hat die Fotorechte:	0

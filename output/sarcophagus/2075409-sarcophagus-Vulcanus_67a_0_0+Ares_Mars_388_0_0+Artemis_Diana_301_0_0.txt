@@ -1,0 +1,59 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e7359c3feda-7
+Vulcanus_67a_0_0
+Ares/Mars_388_0_0
+Artemis/Diana_301_0_0
+
+
+
+Monument
+	ID:	4773
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Ares/Mars Artemis/Diana Vulcanus
+	Beschreibung:	Vulcanus showing Venus und Mars to Iuppiter and other gods.
+	Bibliographie:	Scultura antica in Palazzo Altemps (2002) 138–139.
+Szene
+	ID:	4849
+	Beschreibung:	Vulcanus showing Venus und Mars to Iuppiter and other gods.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Vulcanus
+	Katalognummer:	67a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ares/Mars
+	Katalognummer:	388
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	301
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	Ehem. A.O.
+	Nummer:	SarkRel XII 2, 5
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo del Drago-Albani
+	Rechteinhaber der Fotos:	© Palazzo del Drago-Albani, Roma
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	38100
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Romano
+	Direktor:	Soprintendente Dott. Giuseppe Proietti
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali - Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

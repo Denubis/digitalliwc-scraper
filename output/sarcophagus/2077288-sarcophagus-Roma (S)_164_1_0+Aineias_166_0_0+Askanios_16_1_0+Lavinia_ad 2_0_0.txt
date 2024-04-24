@@ -1,0 +1,62 @@
+http://ark.dasch.swiss/ark:/72163/080e-74021298757cd-f
+Roma (S)_164_1_0
+Aineias_166_0_0
+Askanios_16_1_0
+Lavinia_ad 2_0_0
+
+
+
+Monument
+	ID:	6669
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	corselet sow paludamentum
+	Name:	Aineias Askanios Lavinia Roma Virtus
+	Beschreibung:	Fragment of a sarcophagus showing five (six?) figures; (from l. to r.) a sitting female figure (Virtus?), a child (Askanios?), a standing male figure, behind them at least two figures; scene interpreted as Aineias about to sacrifice the Lavinium sow  
+	Bibliographie:	Giglioli, G. Q., BullCom 67, 1939, 109-110 fig. 1; Galinsky, G. K., Aeneas, Sicily and Rome (1969) fig. 20.
+	Kommentar:	Erwähnung LIMC VI Lavinia ad 2 fehlt in LIMC Index.
+Datierung
+	Periode:	138 - 192 
+Epoche
+	Name:	antoninisch
+	Periode:	138 - 192 
+	Sequenznummer:	1210
+Szene
+	ID:	6808
+	Beschreibung:	Fragment of a sarcophagus showing five (six?) figures; (from l. to r.) a sitting female figure (Virtus?), a child (Askanios?), a standing male figure, behind them at least two figures; scene interpreted as Aineias about to sacrifice the Lavinium sow  
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/cantalupo_in_sabina/palazzo_camuccini/6808X003.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Roma (S)
+	Katalognummer:	164
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aineias
+	Katalognummer:	166
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Askanios
+	Katalognummer:	16
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Lavinia
+	Katalognummer:	ad 2
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Cantalupo in Sabina
+	Name:	Palazzo Camuccini
+	Rechteinhaber der Fotos:	© Palazzo Camuccini, Cantalupo in Sabina
+	Hat die Fotorechte:	0

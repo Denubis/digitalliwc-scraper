@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-74f85fa7f9d49-2
+Hades_98_0_0
+
+
+
+Monument
+	ID:	24046
+	Entdeckungsort:	Hermoupolis Magna (Egypt)
+	Entdeckungsort Details:	tomb
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Hades
+Szene
+	ID:	48741
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Hades
+	Katalognummer:	98
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tombe 3
+Museum
+	Land:	EG
+	Stadt:	Hermopolis
+	Rechteinhaber der Fotos:	© Hermopolis
+	Hat die Fotorechte:	0

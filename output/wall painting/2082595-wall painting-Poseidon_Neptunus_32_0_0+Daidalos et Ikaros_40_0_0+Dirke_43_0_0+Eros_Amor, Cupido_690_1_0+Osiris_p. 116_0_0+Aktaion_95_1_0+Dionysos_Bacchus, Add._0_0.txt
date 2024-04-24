@@ -1,0 +1,108 @@
+http://ark.dasch.swiss/ark:/72163/080e-744df1c73f2b4-7
+Poseidon/Neptunus_32_0_0
+Daidalos et Ikaros_40_0_0
+Dirke_43_0_0
+Eros/Amor, Cupido_690_1_0
+Osiris_p. 116_0_0
+Aktaion_95_1_0
+Dionysos/Bacchus, Add._0_0
+
+
+
+Monument
+	ID:	12023
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	I 9,6 (Casa dei Cubiculi Floreali)
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	tree dog
+	Name:	Aktaion Artemis/Diana Dionysos/Bacchus Dirke Eros/Amor, Cupido Osiris Poseidon/Neptunus Daidalos and Ikaros Ikaros
+	Beschreibung:	- Cubiculum mit Gartenszene mit hydreion- Daedalus und Icarus- Actaeon; young naked Bacchus with ivy crown; long hair; thyrsos staff; waiting till Ariane sleeps
+	Bibliographie:	Peters, W. J., Landscape in Romano-campanian Mural Painting (1963) 85; Blanckenhagen, P. H. von, RM 75 (1968) 128 pl. 37, 38 und 40; Croisille, J.-M., La peinture romaine (2005) 225 fig. 331; Kraus, Th./von Matt, L., Lebendiges Pompeji. Pompeji und Herculaneum (1977) 210 Farbtaf. 297; EAA PPM II 115. 117 Farbtaf. 121. 123; Merkelbach, R., Isis regina – Zeus Sarapis. Die griechisch-ägyptische Religion nach den Quellen dargestellt (1995) 530 f. Abb. 51.
+Datierung
+	Periode:	1 - 25 
+Epoche
+	Name:	3. pompejanischer Stil
+	Periode:	-15 - 63 
+	Sequenznummer:	1340
+Szene
+	ID:	12310
+	Beschreibung:	Young naked Bacchus with ivy crown; long hair; thyrsos staff; waiting till Ariane sleeps. At the left middle a temple at the base of which sits a woman. Striding away from her - toward the shore - a man. On the shore a woman reclines near an altar, another leans against a column. At the middle right a bronze statue of seated Poseidon on a rocky ledge. In the middle a ship sailing on the sea. Above it, small Daidalos flies left. The badly deteriorated upper section once included Helios in the quadriga and the falling Ikaros.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/12310X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/12310X206.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Poseidon/Neptunus
+	Katalognummer:	32
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Daidalos et Ikaros
+	Katalognummer:	40
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dirke
+	Katalognummer:	43
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	690
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Osiris
+	Katalognummer:	p. 116
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aktaion
+	Katalognummer:	95
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus, Add.
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	99841
+	Beschreibung:	In der Mitte der Ostwand des Cubiculums steht im Rahmen einer Gartenszene auf einem merkwürdig geformten Ständer ein Korb. In diesem liegt, umgeben von einem Rosenkranz, ein goldenes hydreion, auf dessen Wandung viereckige Edelsteine zu erkennen sind.
+	Stichwort:	basket sacrificial stand hydreion (cult of Isis) 
+Catalog Thes CRA
+	Indexnummer:	609
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	I 9,5-7
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa del Frutteto
+Inventar
+	Spezifikation:	3. Inv.
+	Nummer:	Casa dei Cubiculi floreali

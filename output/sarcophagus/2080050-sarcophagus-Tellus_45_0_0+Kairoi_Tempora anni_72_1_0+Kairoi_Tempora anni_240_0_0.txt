@@ -1,0 +1,64 @@
+http://ark.dasch.swiss/ark:/72163/080e-74298f49b973f-a
+Tellus_45_0_0
+Kairoi/Tempora anni_72_1_0
+Kairoi/Tempora anni_240_0_0
+
+
+
+Monument
+	ID:	9457
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kairoi/Tempora anni Tellus
+	Beschreibung:	Clipeus with the portrait of the deceased, below Ge and four winged putti, all wearing nebris and holding four kraters each as symbol of the Seasons. 
+	Bibliographie:	Sotheby's New York 7.6.2007 Nr. 75 Abb.
+Datierung
+	Periode:	180 
+Szene
+	ID:	9661
+	Beschreibung:	Clipeus with the portrait of the deceased, below Ge and four winged putti, all wearing nebris and holding four kraters each as symbol of the Seasons. 
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/new_york/albright-knox_art_gallery_once/9661X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Tellus
+	Katalognummer:	45
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	72
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	240
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	Ehem. A.O.
+	Nummer:	38.1
+Museum
+	Land:	US
+	Stadt:	Buffalo
+	Name:	Albright-Knox Art Gallery (once)
+	Rechteinhaber der Fotos:	© Albright-Knox Art Gallery (once)
+	Kommentar:	Das Museum hat alle Antiken bei Sotheby`s New York 7.06.2007 verkauft.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	7.6.2007, 75
+Museum
+	Land:	US
+	Stadt:	New York
+	Name:	Sotheby's
+	Adresse:	1334 York Avenue at 72nd St.
+	Postleitzahl:	USA-
+	Kontaktzenter:	Sotheby's
+	Stadt des Kontaktzenters:	New York NY 10021
+	Rechteinhaber der Fotos:	© Sotheby's, New York
+	Hat die Fotorechte:	1

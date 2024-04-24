@@ -1,0 +1,91 @@
+http://ark.dasch.swiss/ark:/72163/080e-740454dcce763-e
+Nymphai (S)_108_0_0
+Dionysos/Bacchus_123_1_0
+Mousa, Mousai/Musae (vol. VII)_226_1_0
+Olympos I_28b_0_0
+Mercurius_338_0_0
+Rhea_18_1_0
+Leto/Latona_26_0_0
+Artemis/Diana_293a_0_0
+
+
+
+Monument
+	ID:	6827
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Mousa, Mousai Olympos I Rhea Dionysos/Bacchus Artemis/Diana Leto/Latona Mercurius Nymphai
+	Beschreibung:	On the left a group consisting of Marsyas, Athena and Dionysos. Olympos (I) pleads for Marsyas' life: Olympos (I), kneeling at Apollon's feet. Rhea, seated, framed by lions; also present are Bacchus, Minerva, Mercurio, Latona, Ourania, a muse, nymphs etc.
+Szene
+	ID:	6972
+	Beschreibung:	On the left a group consisting of Marsyas, Athena and Dionysos. Olympos (I) pleads for Marsyas' life: Olympos (I), kneeling at Apollon's feet. Rhea, seated, framed by lions; also present are Bacchus, Minerva, Mercurio, Latona, Ourania, a muse, nymphs etc.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/6972X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/6972X204.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/6972X205.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Nymphai (S)
+	Katalognummer:	108
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	123
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	226
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Olympos I
+	Katalognummer:	28b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	338
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Rhea
+	Katalognummer:	18
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Leto/Latona
+	Katalognummer:	26
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	293a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 972
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	MR 704

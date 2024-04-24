@@ -1,0 +1,31 @@
+http://ark.dasch.swiss/ark:/72163/080e-73f664715ee18-e
+Victoria_239_0_0
+
+
+
+Monument
+	ID:	5842
+	Entdeckungsort:	Palmyra, Tadmur
+	Entdeckungsort Details:	tomb
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Victoria
+	Beschreibung:	Two Victorias standing on globe, holding garland and palm branch.
+Szene
+	ID:	5945
+	Beschreibung:	Two Victorias standing on globe, holding garland and palm branch.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Victoria
+	Katalognummer:	239
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	SY
+	Stadt:	Palmyre
+	Name:	Nécropoles
+	Rechteinhaber der Fotos:	© Palmyra
+	Hat die Fotorechte:	1

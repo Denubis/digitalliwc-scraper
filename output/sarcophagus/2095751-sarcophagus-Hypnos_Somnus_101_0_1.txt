@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-750a07a7872a8-3
+Hypnos/Somnus_101_0_1
+
+
+
+Monument
+	ID:	25288
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	tomb
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hypnos/Somnus
+Szene
+	ID:	26551
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	101
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 1, 59
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Direktor:	Soprintendente Prof. Adriano La Regina
+	Adresse:	Piazza S. Maria Nova 53
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza Archeologica di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	0

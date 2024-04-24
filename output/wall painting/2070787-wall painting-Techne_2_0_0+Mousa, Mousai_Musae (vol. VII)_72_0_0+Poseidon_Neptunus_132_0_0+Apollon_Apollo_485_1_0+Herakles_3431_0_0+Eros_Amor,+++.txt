@@ -1,0 +1,198 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a521789d414-3
+Techne_2_0_0
+Mousa, Mousai/Musae (vol. VII)_72_0_0
+Poseidon/Neptunus_132_0_0
+Apollon/Apollo_485_1_0
+Herakles_3431_0_0
+Eros/Amor, Cupido_616_1_0
+Vulcanus_89_0_0
+Omphale_27_0_0
+Ares/Mars_271a_0_0
+Hero et Leander (S)_9_0_0
+Ganymedes_208_0_0
+Artemis_1052_0_0
+Victoria_179_0_1
+Amazones_486_0_0
+Endymion_17_0_1
+Vulcanus_11_1_0
+Hestia/Vesta_16_0_0
+Lavinia_4_0_0
+
+
+
+Monument
+	ID:	89
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 47 (Casa di Sirico)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	altar sword fire (on altar) tree column libation sacrifice plate pine tree horse Amazon fight, battle
+	Name:	Apollon/Apollo Ares/Mars Artemis Endymion Eros/Amor, Cupido Ganymedes Herakles Hestia/Vesta Lavinia Mousa, Mousai Omphale Poseidon/Neptunus Techne Victoria Vulcanus Amazones Hero Leander
+	Beschreibung:	Various mural paintings.
+	Bibliographie:	Schefold, WP 164-166.
+	Monument-URL:	http://www.limc-france.fr/objet/14481
+Datierung
+	Periode:	70 
+Szene
+	ID:	6303
+	Szenerieangabe:	22
+	Sequenznummer:	320
+Szene
+	ID:	8684
+	Szenerieangabe:	10
+	Beschreibung:	Mehrere Bilder.Herakles und Omphale: Herakles vor Altar liegend; auf dem Altar drei Eroten und ein vierter auf daneben stehendem Baum, die den Köcher des Herakles hochheben.Mauerbau von Troia, Apollo, Neptunus: Vor der Mauer rechteckiger Altar mit diversen Verzierungen. Auf einem anderen Bild ein geflügeltes Wesen (Techne, Nyx oder Flügeldämonin) hinter Thetis in der Werkstatt des Hephaistos.
+	Bibliographie:	(Mauerbau:) Helbig, Wandgemälde Nr. 1266;HBr Taf. 193;PompPittMos VI (1996) 290, 113; 294-296, 117-119.(Omphale): PompPittMos VI (1996) 255-257, 54-56; 266, 71.
+	Kommentar:	Exedra.
+	Sequenznummer:	200
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/8684X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Techne
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	72
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Poseidon/Neptunus
+	Katalognummer:	132
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	485
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	3431
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	616
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Vulcanus
+	Katalognummer:	89
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Omphale
+	Katalognummer:	27
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ares/Mars
+	Katalognummer:	271a
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	25440
+	Szenerieangabe:	11
+	Beschreibung:	Swimming Leander. On the left shore a tower, on the right shore a house. In the background ships.
+	Sequenznummer:	210
+Catalog LIMC
+	Artikel:	Hero et Leander (S)
+	Katalognummer:	9
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	32248
+	Szenerieangabe:	31
+	Beschreibung:	Flying Victoria, holding shield and spear.
+	Bibliographie:	Helbig, Wandgemälde no. 1250b; schefold, WP 166 (31).
+	Sequenznummer:	410
+	Name:	Artemis Ganymedes Victoria Amazones
+	Stichwort:	sword horse Amazon fight, battle
+Catalog LIMC
+	Artikel:	Ganymedes
+	Katalognummer:	208
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis
+	Katalognummer:	1052
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Victoria
+	Katalognummer:	179
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	486
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	32869
+	Szenerieangabe:	34
+	Sequenznummer:	440
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	17
+	Asterix:	0
+	Dot:	1
+Szene
+	ID:	49426
+	Szenerieangabe:	12
+	Beschreibung:	Küche, Westwand: Lararium mit Nische, auf der Nischenrückwand Vesta (auf rechter Seitenwand Esel) rechts von Rundaltar mit Flamme, etwas ins Feuer haltend (rechte Hand verloren), in der Linken Opferschale. Rechts vom Altar Vulcanus (Pileus, Hammer, Zange). Hinter dem Altar Pinie.
+	Bibliographie:	Fröhlich, Lararien 282 L79 Taf. 40, 2.
+	Sequenznummer:	220
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49426X002.jpg
+Foto
+	Neues Foto:	1
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Catalog LIMC
+	Artikel:	Vulcanus
+	Katalognummer:	11
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hestia/Vesta
+	Katalognummer:	16
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49427
+	Szenerieangabe:	8
+	Beschreibung:	Lavinia between Turnus and Amata?
+	Sequenznummer:	180
+Catalog LIMC
+	Artikel:	Lavinia
+	Katalognummer:	4
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VII 1,25.47
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa di Sirico

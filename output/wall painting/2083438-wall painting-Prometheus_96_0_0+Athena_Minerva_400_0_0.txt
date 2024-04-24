@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-7459ff16bf26b-8
+Prometheus_96_0_0
+Athena/Minerva_400_0_0
+
+
+
+Monument
+	ID:	12870
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Basilica di Santo Stefano Rotondo
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Athena/Minerva Prometheus
+	Beschreibung:	Prometheus seated to the right, forming the first man; to the left Minerva, holding with her right a butterfly (symbolizing the psyché).
+Szene
+	ID:	13181
+	Beschreibung:	Prometheus seated to the right, forming the first man; to the left Minerva, holding with her right a butterfly (symbolizing the psyché).
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Prometheus
+	Katalognummer:	96
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	400
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Santo Stefano Rotondo
+	Rechteinhaber der Fotos:	© Soprindentenza SPSAE e Polo Museale della Città di Roma
+	Hat die Fotorechte:	0

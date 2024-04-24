@@ -1,0 +1,79 @@
+http://ark.dasch.swiss/ark:/72163/080e-73bfe12d4fedf-4
+Zeus/Iuppiter_329_0_0
+Zeus/Iuppiter_522_1_0
+Athena/Minerva_285_1_0
+Iuno_356_1_0
+Mousa, Mousai/Musae (vol. VII)_219_1_0
+Seirenes (S)_119a_0_0
+
+
+
+Monument
+	ID:	2007
+	Entdeckungsort:	Florence
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Athena/Minerva Iuno Mousa, Mousai Seirenes Zeus/Iuppiter
+	Beschreibung:	Sarcophagus with the contest between the Mousai and the Seirenes; on the left Minerva, Iuppiter and Iuno assisting.
+	Museums-URL:	http://www.metmuseum.org/art/collection/search/248205
+Szene
+	ID:	1959
+	Beschreibung:	Sarcophagus with the contest between the Mousai and the Seirenes; on the left Minerva, Iuppiter and Iuno assisting.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/new_york/metropolitan_museum_of_art/1959X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/new_york/metropolitan_museum_of_art/1959X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/new_york/metropolitan_museum_of_art/1959X003.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	329
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	522
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	285
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iuno
+	Katalognummer:	356
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	219
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Seirenes (S)
+	Katalognummer:	119a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	10.104
+Museum
+	Land:	US
+	Stadt:	New York
+	Name:	Metropolitan Museum of Art
+	Direktor:	Eileen Sullivan, Assistant Museum Librarian
+	Anrede:	Dear Ms Sullivan,
+	Adresse:	1000 Fifth Avenue at 82nd Street
+	Postleitzahl:	USA-
+	Kontaktzenter:	The Metropolitan Museum of Art                          The Photograph Library
+	Stadt des Kontaktzenters:	New York, NY 10028-0198
+	Rechteinhaber der Fotos:	© Metropolitan Museum of Art
+	Hat die Fotorechte:	1

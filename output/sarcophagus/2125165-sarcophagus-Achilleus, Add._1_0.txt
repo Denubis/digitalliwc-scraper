@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-76ae8c7895ba6-b
+Achilleus, Add._1_0
+
+
+
+Monument
+	ID:	201889
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	horse
+	Name:	Achilleus
+	Beschreibung:	sitting Achilleus looking away from kneeling Priamos
+	Bibliographie:	Rogge, S., Die attischen Sarkophage, 1. Achill und Hippolytos, SarkRel IX 1, 1 (1995) 142-143 no. 40A pl. 14, 2-3. 15, 1.
+Datierung
+	Periode:	233 - 266 
+Epoche
+	Name:	2. Drittel 3. Jh. n. Chr.
+	Periode:	233 - 266 
+	Sequenznummer:	3390
+Szene
+	ID:	98876
+	Beschreibung:	sitting Achilleus looking away from kneeling Priamos
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Achilleus, Add.
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	HR
+	Stadt:	Trogir
+	Name:	Monastère des Bénédictines
+	Direktor:	Directeur Prof. Ante Rendic-Miocevic
+	Adresse:	Trg N. Zrinskog, 19
+	Postleitzahl:	HR-10000
+	Kontaktzenter:	Musée Archéologique de Zagreb
+	Stadt des Kontaktzenters:	Zagreb
+	Rechteinhaber der Fotos:	© Monastère des Bénédictines, Trogir
+	Hat die Fotorechte:	1

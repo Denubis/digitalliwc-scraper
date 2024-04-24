@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-74febc51ca4ba-2
+Iason_43_1_0
+
+
+
+Monument
+	ID:	24493
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Iason
+	Beschreibung:	In the centre a snake-entwined tree. Iason grasps the fleece from the tree. Medeia seated at the left holds a golden cup to the mouth of the snake.
+Datierung
+	Periode:	100 
+Szene
+	ID:	25702
+	Beschreibung:	In the centre a snake-entwined tree. Iason grasps the fleece from the tree. Medeia seated at the left holds a golden cup to the mouth of the snake.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/trier/rheinisches_landesmuseum/25702X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Iason
+	Katalognummer:	43
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	DE
+	Stadt:	Trier
+	Name:	Rheinisches Landesmuseum
+	Direktor:	Stellv. Direktorin Dr. Karin Goethert
+	Adresse:	Weimarer Allee 1
+	Postleitzahl:	D-54290
+	Kontaktzenter:	Rheinisches Landesmuseum
+	Stadt des Kontaktzenters:	Trier
+	Rechteinhaber der Fotos:	© Rheinisches Landesmuseum
+	Hat die Fotorechte:	1

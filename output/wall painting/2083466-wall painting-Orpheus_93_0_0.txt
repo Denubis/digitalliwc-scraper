@@ -1,0 +1,27 @@
+http://ark.dasch.swiss/ark:/72163/080e-745a6591093f7-3
+Orpheus_93_0_0
+
+
+
+Monument
+	ID:	12900
+	Entdeckungsort:	Aquincum
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Orpheus
+Szene
+	ID:	13210
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Orpheus
+	Katalognummer:	93
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	HU
+	Stadt:	Aquincum
+	Rechteinhaber der Fotos:	© Aquincum
+	Hat die Fotorechte:	0

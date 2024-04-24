@@ -1,0 +1,49 @@
+http://ark.dasch.swiss/ark:/72163/080e-7407591aea8c2-a
+Persephone (S)_228_0_0
+Demeter/Ceres (vol. IV)_132_1_0
+
+
+
+Monument
+	ID:	7039
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Demeter/Ceres Persephone
+	Beschreibung:	Rape of Persephone, at the left Ceres on a chariot moving to the right, drawn by two horses, bearing a torch in her left, by her side Trepidatio, in front of her Caligo.
+	Museums-URL:	https://art.thewalters.org/detail/24938/sarcophagus-with-the-abduction-of-persephone-by-hades/ 
+Szene
+	ID:	7185
+	Beschreibung:	Rape of Persephone, at the left Ceres on a chariot moving to the right, drawn by two horses, bearing a torch in her left, by her side Trepidatio, in front of her Caligo. For additional images see Walters Art Museum: http://art.thewalters.org/detail/24938/sarcophagus-with-the-abduction-of-persephone-by-hades/.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/baltimore/walters_art_museum/7185X202.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Persephone (S)
+	Katalognummer:	228
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Demeter/Ceres (vol. IV)
+	Katalognummer:	132
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	23.219
+Museum
+	Land:	US
+	Stadt:	Baltimore
+	Name:	Walters Art Museum
+	Direktor:	Mrs. Kate Lau
+	Adresse:	600 North Charles Street
+	Postleitzahl:	USA-
+	Kontaktzenter:	Walters Art Museum - Photo Services
+	Stadt des Kontaktzenters:	Baltimore MD 21201-5185
+	Rechteinhaber der Fotos:	© Walters Art Museum, Baltimore
+	Kommentar:	Vorher Walters Art Gallery. Neuer Name vor 2003. Eingetragen 15.9.06.
+	Hat die Fotorechte:	1

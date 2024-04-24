@@ -1,0 +1,75 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d8b6743248c-6
+Apollon/Apollo_ad 420_0_0
+Kyparissos_2_0_0
+Perseus_219a_0_0
+Andromeda I_91_1_0
+Victoria_60_0_0
+
+
+
+Monument
+	ID:	3755
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	I 3,25
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	sword helmet gorgoneion chest, small box ketos, sea monster
+	Name:	Andromeda I Perseus Kyparissos Victoria
+	Beschreibung:	Kyparissos looking at the hurt stag. Perseus and Andromeda with dead Ketos. Victoria standing on a globe, holding cornucopia and wreath.
+	Bibliographie:	Schefold, WP 13; Schefold, Vergessenes Pompeji (1962) Taf. 168,2 2; Sogliano, A., Guida di Pompeji (1897) 519.
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	40616
+	Beschreibung:	Kyparissos looking at the hurt stag. Perseus and Andromeda with dead Ketos. Victoria standing on a globe, holding cornucopia and wreath.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/40616X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	ad 420
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kyparissos
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Perseus
+	Katalognummer:	219a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Andromeda I
+	Katalognummer:	91
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Victoria
+	Katalognummer:	60
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	I 3,25
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1

@@ -1,0 +1,30 @@
+http://ark.dasch.swiss/ark:/72163/080e-76609a99a7c2a-5
+
+
+
+Monument
+	ID:	52843
+	Entdeckungsort:	Knossos (Crete)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Fresco: sacred grove
+Szene
+	ID:	58172
+	Beschreibung:	Fresko aus Knossos.
+Catalog Thes CRA
+	Indexnummer:	54
+	Asterix:	0
+	Dot:	1
+Catalog Thes CRA Kapitel
+	Name:	III. 3.b. Konsekration
+	Sequenznummer:	3050
+	Bandnummer:	3
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Palais
+Museum
+	Land:	GR
+	Stadt:	Knossos
+	Rechteinhaber der Fotos:	© Knossos
+	Hat die Fotorechte:	1

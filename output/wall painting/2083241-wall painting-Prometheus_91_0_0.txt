@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-74572e15c81d2-a
+Prometheus_91_0_0
+
+
+
+Monument
+	ID:	12673
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	hypogeum
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Prometheus
+Szene
+	ID:	12981
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Prometheus
+	Katalognummer:	91
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Ipogeo presso Viale Manzoni (Ipogeo degli Aurelii)
+	Rechteinhaber der Fotos:	© Roma
+	Hat die Fotorechte:	0

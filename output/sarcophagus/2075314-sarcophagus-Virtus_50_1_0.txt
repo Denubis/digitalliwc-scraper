@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e5d9eb0dabf-f
+Virtus_50_1_0
+
+
+
+Monument
+	ID:	4677
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Virtus
+	Beschreibung:	Lion hunt in the presence of Virtus.
+Szene
+	ID:	4743
+	Beschreibung:	Lion hunt in the presence of Virtus.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/sant_elpidio_a_mare/collegiata/4743X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Virtus
+	Katalognummer:	50
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Sant'Elpidio a Mare
+	Name:	Collegiata
+	Rechteinhaber der Fotos:	© Collegiata Sant'Elpidio a Mare
+	Hat die Fotorechte:	0

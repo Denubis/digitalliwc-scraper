@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-74fe438ace655-3
+Kairoi/Tempora anni_243_1_0
+
+
+
+Monument
+	ID:	24460
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kairoi/Tempora anni
+	Beschreibung:	A wreath above a pedestal flanked by two kraters with symbols of the Seasons. 
+Datierung
+	Periode:	260 
+Szene
+	ID:	25663
+	Beschreibung:	A wreath above a pedestal flanked by two kraters with symbols of the Seasons. 
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_corsini_galleria_nazionale_d_arte_antica_di_palazzo_cors/25663X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	243
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Corsini (Galleria Nazionale d'Arte Antica di Palazzo Corsini)
+	Direktor:	Direttore Dr. Alloise Sivigliano
+	Adresse:	Via della Lungara, 10
+	Postleitzahl:	I-00165
+	Kontaktzenter:	Palazzo Corsini
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprindentenza SPSAE e Polo Museale della Città di Roma
+	Hat die Fotorechte:	0

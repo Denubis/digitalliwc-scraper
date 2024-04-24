@@ -1,0 +1,75 @@
+http://ark.dasch.swiss/ark:/72163/080e-73b0657c79678-c
+Triptolemos_10_0_0
+Tritones_91_0_0
+Venus_310_0_0
+Psyche_51_0_0
+Eros/Amor, Cupido_ad 533_0_0
+
+
+
+Monument
+	ID:	910
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	altar fire (on altar) cup incense offering
+	Name:	Eros/Amor, Cupido Triptolemos Venus Psyche Tritones
+	Beschreibung:	(n) Venus auf Triton ans Ufer reitend, dort bekränzter Altar und Mädchen, das eine Schale mit Ofergaben hält, von denen es eine (Weihrauch?) auf den Altar mit Flamme legt (zerstört; 4. Stil).
+	Bibliographie:	(Venus auf Triton:) Schefold, WP 193;HBr Taf. 191;PompPittMos VII (1997) 241, 21; PompPittMos, La documentazione ... (1995) 763 Abb. 235; Hodske, J., Mythologische Bildthemen in den Häusern Pompejis (2007) 257 Taf.174,4.
+Szene
+	ID:	820
+	Beschreibung:	Ceres sends out Triptolemos. Venus riding a Triton.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/820X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/820X301.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Triptolemos
+	Katalognummer:	10
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Tritones
+	Katalognummer:	91
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Venus
+	Katalognummer:	310
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	51
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 533
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VII 7,5
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa di Trittolemo

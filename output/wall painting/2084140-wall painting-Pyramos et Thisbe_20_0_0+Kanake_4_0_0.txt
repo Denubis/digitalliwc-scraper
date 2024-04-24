@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-74640859dc4a1-2
+Pyramos et Thisbe_20_0_0
+Kanake_4_0_0
+
+
+
+Monument
+	ID:	13578
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	IX 5,14-16
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Kanake Pyramos
+	Beschreibung:	Pyramos and Thisbe or Kanake and Makareus.
+Szene
+	ID:	13931
+	Beschreibung:	Pyramos and Thisbe or Kanake and Makareus.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Pyramos et Thisbe
+	Katalognummer:	20
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kanake
+	Katalognummer:	4
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	111483
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

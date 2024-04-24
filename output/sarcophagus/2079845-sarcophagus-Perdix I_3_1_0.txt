@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-7426a1013f87e-d
+Perdix I_3_1_0
+
+
+
+Monument
+	ID:	9247
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Perdix I
+	Beschreibung:	On the left a bearded man with exomis and pilos, wrestling with a youth. Daidalos and Perdix (I) or Talos?
+Szene
+	ID:	9449
+	Beschreibung:	On the left a bearded man with exomis and pilos, wrestling with a youth. Daidalos and Perdix (I) or Talos?
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/verona/museo_lapidario_maffeiano/9449X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Perdix I
+	Katalognummer:	3
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Verona
+	Name:	Museo Lapidario Maffeiano
+	Adresse:	PIazza Bra 28
+	Postleitzahl:	I-37121
+	Kontaktzenter:	Museo Lapidario Maffeiano
+	Stadt des Kontaktzenters:	Verona
+	Rechteinhaber der Fotos:	© Museo Lapidario Maffeiano, Verona
+	Hat die Fotorechte:	0

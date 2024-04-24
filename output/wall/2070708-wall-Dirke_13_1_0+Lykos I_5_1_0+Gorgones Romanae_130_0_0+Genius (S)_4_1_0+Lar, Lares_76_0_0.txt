@@ -1,0 +1,93 @@
+http://ark.dasch.swiss/ark:/72163/080e-73a4005670c49-2
+Dirke_13_1_0
+Lykos I_5_1_0
+Gorgones Romanae_130_0_0
+Genius (S)_4_1_0
+Lar, Lares_76_0_0
+
+
+
+Monument
+	ID:	4
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	IX 13, 1-3 (House of Giulio Polobio)
+	Objekt:	wall
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	altar lyre snake cornucopia fire (on altar) garland cult image, cult statue pipe, flute, aulos, tibiae sanctuary camillus plant gate musician (man) sacral-idyllic landscape cowherd, bukolos tabula ansata tray, lanx, catinus
+	Name:	Amphion Dionysos Dirke Genius Hera/Iuno Lar, Lares Lykos I Gorgo, Gorgones
+	Beschreibung:	Landscape, in the centre sanctuary of Dionysos. Amphion and Zethos seizing Dirke, Lykos (I) is too late to help her. On the ceiling aegis with gorgoneion.
+Szene
+	ID:	40
+	Beschreibung:	Dirkemythos: im Zentrum Dionysosheiligtum (zwei Säulen mit Architrav und Giebel, zwischen den Säulen Dionysosstatue bzw. Dionysos selbst; an den Säulen Lyra und andere Gegenstände; hindurchragender Ast eines Baumes; neben der rechten Säule kleines Idol auf Sockel); im Mittelgrund links Gefangennahme der Dirke, rechts Schleifung der Dirke; im Hintergrund Theben und Rinderherde mit Hirt.
+	Bibliographie:	De Caro, St., CronPomp 4 (1978) 231.
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/40X002.jpg
+Foto
+	Neues Foto:	1
+Datierung
+	Periode:	-15 - 63 
+	Kommentar:	spät
+Epoche
+	Name:	3. pompejanischer Stil
+	Periode:	-15 - 63 
+	Sequenznummer:	1340
+Catalog LIMC
+	Artikel:	Dirke
+	Katalognummer:	13
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Lykos I
+	Katalognummer:	5
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Gorgones Romanae
+	Katalognummer:	130
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	55067
+	Szenerieangabe:	atrium N, presso la porta della cucina
+	Beschreibung:	Westwand, Lararium: Genius (patris familias) und Iuno (matris familias, Hinterhaupt verschleiert), an gemauertem Rundaltar (Feuer) opfernd (was genau?). Um den Altar windet sich eine grosse Schlange, die schräg von links aus der unteren Bildzone emporkommt. Links kleiner Flötenspieler, rechts hinter Genius kleiner camillus mit Opfertablett, in der Linken Binden (?). Links und rechts Laren, über dem Altar tabula ansata, oben und beidseits Girlanden. In der unteren Zone verschieden Staudenpflanzen.
+	Bibliographie:	Fröhlich, Lararien 298 L 109 Taf. 14, 2
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/55067X001.jpg
+Foto
+	Neues Foto:	1
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Catalog LIMC
+	Artikel:	Genius (S)
+	Katalognummer:	4
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Lar, Lares
+	Katalognummer:	76
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	IX 13,1-3
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa di C. Iulius Polybius

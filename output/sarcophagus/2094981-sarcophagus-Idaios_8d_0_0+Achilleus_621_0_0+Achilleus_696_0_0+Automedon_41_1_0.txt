@@ -1,0 +1,56 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ff05849181e-d
+Idaios_8d_0_0
+Achilleus_621_0_0
+Achilleus_696_0_0
+Automedon_41_1_0
+
+
+
+Monument
+	ID:	24513
+	Objekt:	sarcophagus
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	throne war-chariot, harma, currus corpse
+	Name:	Achilleus Hektor Priamos Idaios
+	Beschreibung:	Three scenes: On the right kneeling Priamos asking Achilleus for the corpse of Hektor. In the centre Achilleus on his chariot dragging Hektor. On the left the chariot of Priamos from which Trojans are unloading goods.
+	Bibliographie:	Himmelmann, N., AbbhMainz 8, 1970, 23-24 Taf. 17b. 18 a-b; Wiegartz, H., Kleinasiatische Säulensakophage (1965) 42 Anm. 4.
+Szene
+	ID:	25724
+	Beschreibung:	Three scenes: On the right kneeling Priamos asking Achilleus for the corpse of Hektor. In the centre Achilleus on his chariot dragging Hektor. On the left the chariot of Priamos from which Trojans are unloading goods.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Idaios
+	Katalognummer:	8d
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	621
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	696
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Automedon
+	Katalognummer:	41
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2122-2124
+Museum
+	Land:	TR
+	Stadt:	Bursa
+	Name:	Musée Archéologique
+	Direktor:	Mme le Dr. Pascale Linant de Bellefonds
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-92023
+	Kontaktzenter:	Université Paris X - Nanterre Maison de l'Archéologie / Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Archaeological Museum Bursa
+	Hat die Fotorechte:	1

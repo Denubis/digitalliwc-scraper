@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-747be117f5c35-e
+Nereides_ad 187_0_0
+
+
+
+Monument
+	ID:	15260
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Nereides
+Szene
+	ID:	15744
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Nereides
+	Katalognummer:	ad 187
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	66.27
+Museum
+	Land:	US
+	Stadt:	Bloomington
+	Name:	Indiana University Art Museum
+	Rechteinhaber der Fotos:	© Indiana University Art Museum
+	Hat die Fotorechte:	1

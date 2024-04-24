@@ -1,0 +1,31 @@
+http://ark.dasch.swiss/ark:/72163/080e-74dbc42938474-3
+Horai/Horae_99_0_0
+
+
+
+Monument
+	ID:	22029
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Hadrians Villa
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Horai/Horae
+	Beschreibung:	Lost. The ceiling has in its centre a square with curved sides held by four winged figures who have been interpreted as Horae. Underneath wingless busts, also Seasons, framed on wreaths. In the centre of the vault a Victoria.
+Szene
+	ID:	23041
+	Beschreibung:	The ceiling has in its centre a square with curved sides held by four winged figures who have been interpreted as Horae. Underneath wingless busts, also Seasons, framed on wreaths. In the centre of the vault a Victoria.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	99
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Tivoli
+	Name:	Villa Hadriana
+	Rechteinhaber der Fotos:	© Villa Hadriana, Tivoli
+	Hat die Fotorechte:	1

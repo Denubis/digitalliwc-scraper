@@ -1,0 +1,63 @@
+http://ark.dasch.swiss/ark:/72163/080e-7406e7a5cf5e7-6
+Persephone (S)_219_0_0
+Hades_97_0_0
+Narkissos_7_0_0
+Pegai (S)_1_0_0
+Medeia_42_0_0
+
+
+
+Monument
+	ID:	7007
+	Entdeckungsort:	Massyaf (Syria)
+	Entdeckungsort Details:	hypogeum
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Pegai Narkissos Hades Medeia Persephone
+	Beschreibung:	Today lost. Narkissos reclining. On his right the inscription Pegai above a zone with lacunae. Head of a man looking upwards with inscription Eiason and remains of inscription Med[eia]. Other scene: Persephone in the chariot of Hades. In front of the chariot are Athena, Ge merging from the ground and Hermes.
+	Inschrift:	PHGH
+Szene
+	ID:	7154
+	Beschreibung:	Narkissos reclining. On his right the inscription Pegai above a zone with lacunae. Head of a man looking upwards with inscription Eiason and remains of inscription Med[eia]. Other scene: Persephone in the chariot of Hades. In front of the chariot are Athena, Ge merging from the ground and Hermes.
+	Inschrift:	PHGH
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/syrian_arab_republic/massyaf/hypogee/7154X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/syrian_arab_republic/massyaf/hypogee/7154X299.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Persephone (S)
+	Katalognummer:	219
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hades
+	Katalognummer:	97
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Narkissos
+	Katalognummer:	7
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Pegai (S)
+	Katalognummer:	1
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Medeia
+	Katalognummer:	42
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	SY
+	Stadt:	Massyaf
+	Name:	Hypogée
+	Rechteinhaber der Fotos:	© Massyaf
+	Hat die Fotorechte:	1

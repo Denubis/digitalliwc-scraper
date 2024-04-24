@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-74a81ce0f1723-a
+Mithras_562_0_0
+
+
+
+Monument
+	ID:	18395
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Mithras Cautopates
+	Beschreibung:	The torch bearer Cautopates.
+Szene
+	ID:	19228
+	Beschreibung:	The torch bearer Cautopates.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Mithras
+	Katalognummer:	562
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	III, I, 6
+Museum
+	Land:	IT
+	Stadt:	Ostia
+	Direktor:	Dott.ssa Elvira Angeloni, Archivio Fotografico
+	Adresse:	Viale dei Romagnoli 717
+	Postleitzahl:	I-00119
+	Kontaktzenter:	Soprintendenza archeologica di Ostia
+	Stadt des Kontaktzenters:	Ostia Antica - Roma
+	Rechteinhaber der Fotos:	© Soprintendenza archeologica di Ostia
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Mitreo delle Pareti dipinte

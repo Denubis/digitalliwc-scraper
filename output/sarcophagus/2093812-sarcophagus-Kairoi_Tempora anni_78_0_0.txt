@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ee4f12fbf89-e
+Kairoi/Tempora anni_78_0_0
+
+
+
+Monument
+	ID:	23331
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kairoi/Tempora anni
+	Beschreibung:	On the minor sides an Eros each, one foot on a rock. One of them holds corn ears (Summer), the other one fruit (Fall).
+Datierung
+	Periode:	250 
+Szene
+	ID:	24475
+	Beschreibung:	On the minor sides an Eros each, one foot on a rock. One of them holds corn ears (Summer), the other one fruit (Fall).
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Kairoi/Tempora anni
+	Katalognummer:	78
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Santo Stefano (Lucca)
+	Name:	Chiesa
+	Rechteinhaber der Fotos:	© Santo Stefano
+	Hat die Fotorechte:	0

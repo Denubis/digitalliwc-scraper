@@ -1,0 +1,48 @@
+http://ark.dasch.swiss/ark:/72163/080e-73db8ec70a0af-1
+Kentauroi et Kentaurides (S)_470a_0_0
+Dionysos/Bacchus (in per. occ.) (vol. IV)_169_1_0
+
+
+
+Monument
+	ID:	3954
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Name:	Dionysos/Bacchus Kentauroi and Kentaurides
+	Beschreibung:	Centaurs in front of bigas, holding clipeus.
+	Bibliographie:	Hüneke, S. u. a., Kurfürstliche und königliche Erwerbungen für die Schlösser und Gärten Brandenburg-Preussens vom 17. bis zum 19. Jahrhundert, Bestandskataloge der Kunstsammlungen, Stiftung Preussische Schlösser und Gärten Berlin-Brandenburg. Skulpturen, Antiken I (2009) Nr. 356
+Szene
+	ID:	3998
+	Beschreibung:	Centaurs in front of bigas, holding clipeus.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/potsdam/schloss_sanssouci/3998X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/potsdam/schloss_sanssouci/3998X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/potsdam/schloss_sanssouci/3998X203.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	470a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus (in per. occ.) (vol. IV)
+	Katalognummer:	169
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	64
+Museum
+	Land:	DE
+	Stadt:	Potsdam
+	Name:	Schloss Sanssouci
+	Rechteinhaber der Fotos:	© Schloss Sanssouci, Potsdam
+	Hat die Fotorechte:	0

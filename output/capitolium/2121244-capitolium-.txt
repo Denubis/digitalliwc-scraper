@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-76767def1fd51-8
+
+
+
+Monument
+	ID:	54439
+	Entdeckungsort:	Pompei
+	Objekt:	capitolium
+	Land:	CH
+	Kategorie:	cultual installations
+	Beschreibung:	Forum, Nord side. Jupiter temple
+Szene
+	ID:	59868
+	Beschreibung:	Forum, Nord side. Jupiter temple
+Catalog Thes CRA
+	Indexnummer:	8
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Capitolium
+	Lemata:	Capitolium
+	Sequenznummer:	3420
+	Bandnummer:	4
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Capitolium
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Foro
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

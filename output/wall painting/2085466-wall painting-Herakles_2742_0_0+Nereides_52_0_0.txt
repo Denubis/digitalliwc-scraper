@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-7476fd66da707-5
+Herakles_2742_0_0
+Nereides_52_0_0
+
+
+
+Monument
+	ID:	14914
+	Entdeckungsort:	Oplontis
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Herakles Nereides
+	Beschreibung:	Mural painting from the caldarium of the Villa Oplontis. In a rocky landscape with trees and bushes Herakles approaches a tree. On the rock at right are two apples.
+Szene
+	ID:	49118
+	Beschreibung:	In a rocky landscape with trees and bushes Herakles approaches a tree. On the rock at right are two apples.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2742
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Nereides
+	Katalognummer:	52
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Oplontis
+	Rechteinhaber der Fotos:	© Oplontis
+	Hat die Fotorechte:	1

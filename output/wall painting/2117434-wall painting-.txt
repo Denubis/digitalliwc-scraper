@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-764005a5e1f67-e
+
+
+
+Monument
+	ID:	50415
+	Entdeckungsort:	Tarquinia
+	Objekt:	wall painting
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Dancing Phersu wearing a bearded mask, tall striped cap, and short checkered garment.
+	Bibliographie:	Steingräber, St., Etruskische Malerei (1985) n. 104 pl. 137.
+Datierung
+	Periode:	-510 
+	Kommentar:	ca.
+Epoche
+	Name:	4. Viertel 6. Jh. v. Chr.
+	Periode:	-525 - -500 
+	Sequenznummer:	2240
+Szene
+	ID:	55570
+	Beschreibung:	Dancing Phersu wearing a bearded mask, tall striped cap, and short checkered garment.
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	342
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 4.b. Tanz
+	Sequenznummer:	1500
+	Bandnummer:	2
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba del Pulcinella
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Necropoli
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

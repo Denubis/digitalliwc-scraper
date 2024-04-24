@@ -1,0 +1,52 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ff7e4b8d683-3
+Idaios_8h_0_0
+Achilleus_703_0_0
+Automedon_45_0_0
+
+
+
+Monument
+	ID:	24546
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	chariot servant warrior, soldier
+	Name:	Achilleus Automedon Idaios
+	Beschreibung:	Three scenes: On the right kneeling Priamos asking Achilleus for the corpse of Hektor. In the centre Achilleus on his chariot dragging Hektor. On the left the chariot of Priamos from which Trojans are unloading goods.
+	Bibliographie:	SarkRel II Nr. 51; Kallipolitis, B., Chronologiki kataxis ton meta mythologokon parastaseon attikon sarkophagon tis romaikis epochis (1958) Nr. 88; Giuliano, A., Il commercio dei sarcofagi attici (1962) 35 Nr. 90.
+Szene
+	ID:	25760
+	Beschreibung:	Three scenes: On the right kneeling Priamos asking Achilleus for the corpse of Hektor. In the centre Achilleus on his chariot dragging Hektor. On the left the chariot of Priamos from which Trojans are unloading goods.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Idaios
+	Katalognummer:	8h
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	703
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Automedon
+	Katalognummer:	45
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	322 + 323
+Museum
+	Land:	GR
+	Stadt:	Sparte
+	Name:	Musée Archéologique
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Anrede:	Dear Director,
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athènes
+	Rechteinhaber der Fotos:	© Archaeological Museum of Sparta
+	Hat die Fotorechte:	0

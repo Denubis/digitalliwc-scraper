@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-7509afd0fe830-e
+Horai/Horae_22_0_0
+
+
+
+Monument
+	ID:	25264
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	I 6,7
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Horai/Horae
+	Beschreibung:	The Hora of Summer with ears of corn and sickle.
+Szene
+	ID:	26520
+	Beschreibung:	The Hora of Summer with ears of corn and sickle.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	22
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	I 6,7
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Fullonica Stephani

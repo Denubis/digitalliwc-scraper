@@ -1,0 +1,54 @@
+http://ark.dasch.swiss/ark:/72163/080e-76ad347053d50-f
+Dioskouroi, Add._0_0
+
+
+
+Monument
+	ID:	202054
+	Entdeckungsort:	Nymphaion, Nymphaeum
+	Entdeckungsort Details:	sanctuary
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	horse pilos stolos
+	Name:	Dioskouroi Isis
+	Beschreibung:	between the naval ram and the stolos of a ship named Isis are the heads of the Dioskouroi with pilos and protomes of horses
+	Bibliographie:	Grac, N. L., VDI 1984, 1, 81–88; id., Arheologia 1987, 81–93; Basch, L., Le musée imaginaire de la marine antique (1987) 493–496 fig. 1129; Grac, C. N., Ein neu entdecktes Freco aus hellenistischer Zeit im Nymphaion bei Kertsch, in: Galanina, L. et al., Skythika. Symposium München 1984 (1987) 87-95 pls. 26-39; Aus den Schatzkammern Eurasiens, cat. expos. Zürich (1993) 174–175 n° 85.
+	Monument-URL:	http://www.limc-france.fr/objet/14698
+Datierung
+	Periode:	-575 - -550 
+Epoche
+	Name:	2. Viertel 6. Jh. v. Chr.
+	Periode:	-575 - -550 
+	Sequenznummer:	2220
+Szene
+	ID:	99042
+	Beschreibung:	between the naval ram and the stolos of a ship named Isis are the heads of the Dioskouroi with pilos and protomes of horses
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	7
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VI. 2.e. Seereisen, gr./etr./röm.
+	Bandnummer:	6
+Catalog LIMC
+	Artikel:	Dioskouroi, Add.
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Нф 82.526
+Museum
+	Land:	RU
+	Stadt:	St. Petersburg
+	Name:	The State Hermitage Museum
+	Direktor:	Ms. Anastasia Mikliaeva, Head Rights & Reproductions
+	Adresse:	Dvortsovaya Nabereznaja 34
+	Postleitzahl:	190 000
+	Kontaktzenter:	The State Hermitage Museum
+	Stadt des Kontaktzenters:	St. Petersburg / Russia
+	Rechteinhaber der Fotos:	© The State Hermitage Museum, St. Petersburg
+	Kommentar:	Pour la céramique, les chiffres avec la lettre B se rapportent au catalogue d'O. Waldhauer (1914).
+	Hat die Fotorechte:	1

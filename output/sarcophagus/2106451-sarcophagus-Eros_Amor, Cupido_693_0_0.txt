@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-75a300c5d98a4-a
+Eros/Amor, Cupido_693_0_0
+
+
+
+Monument
+	ID:	36078
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido
+Szene
+	ID:	37930
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/battistero_san_giovanni/37930X101.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	693
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Firenze
+	Name:	Battistero San Giovanni
+	Rechteinhaber der Fotos:	© Firenze
+	Hat die Fotorechte:	0

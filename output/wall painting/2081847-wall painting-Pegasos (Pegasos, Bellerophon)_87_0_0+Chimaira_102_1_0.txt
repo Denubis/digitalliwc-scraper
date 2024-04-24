@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-74434028f1718-9
+Pegasos (Pegasos, Bellerophon)_87_0_0
+Chimaira_102_1_0
+
+
+
+Monument
+	ID:	11271
+	Entdeckungsort:	Cologne
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Chimaira Eros/Amor, Cupido Pegasos
+Szene
+	ID:	11545
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/koeln/roemisch-germanisches_museum/11545X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Pegasos (Pegasos, Bellerophon)
+	Katalognummer:	87
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Chimaira
+	Katalognummer:	102
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	DE
+	Stadt:	Köln
+	Name:	Römisch-Germanisches Museum
+	Direktor:	Direktor Prof. Dr. Hansgerd Hellenkemper
+	Adresse:	Roncallipl. 4
+	Postleitzahl:	D-50667
+	Kontaktzenter:	Römisch-Germanisches Museum
+	Stadt des Kontaktzenters:	Köln
+	Rechteinhaber der Fotos:	© Römisch-Germanisches Museum Köln
+	Hat die Fotorechte:	1

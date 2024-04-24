@@ -1,0 +1,109 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e5cb474c3ab-9
+Virtus_44_0_0
+Hippolytos I_58_1_0
+Hippolytos I_2_0_0
+Eros/Amor, Cupido_ad 47_0_0
+Artemis/Diana_65_1_0
+Hippolytos I_16_0_0
+
+
+
+Monument
+	ID:	4673
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Via Latina
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	altar phiale, phiale mesomphalos, patera pillar cult image, cult statue libation altar: round altar
+	Name:	Artemis/Diana Hippolytos I Eros/Amor, Cupido Virtus
+	Beschreibung:	Hippolytossarkophag (li. Nebenseite): Opferszene vor Diana-Statue (mit Bogen) auf hohem Pfeiler an Rund-Altar in Säulenform (Libation, Feuer auf Altar?). Hippolytos hunting in company of Virtus.
+	Bibliographie:	SarkRel III 2 Nr. 167 Taf. 54; Helbig4 I Nr. 1121; Sichtermann/Koch, MythSark Nr. 27 Taf. 58-61.
+Datierung
+	Periode:	200 - 210 
+Epoche
+	Name:	Anfang 3. Jh. n. Chr.
+	Periode:	200 - 210 
+	Sequenznummer:	3290
+Szene
+	ID:	4739
+	Beschreibung:	Hippolytossarkophag (li. Nebenseite): Opferszene vor Diana-Statue (mit Bogen) auf hohem Pfeiler an Rund-Altar in Säulenform (Libation, Feuer auf Altar?). Hippolytos hunting in company of Virtus.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/4739X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/4739X303.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/4739X304.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	99
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	IV. 1.b. Kultorte (Darstellungen)
+	Sequenznummer:	4500
+	Bandnummer:	4
+Catalog LIMC
+	Artikel:	Virtus
+	Katalognummer:	44
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	58
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 47
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	55063
+	Szenerieangabe:	côté dr.
+	Beschreibung:	Hippolytos, mit der Linken den Speer umfassend, steht vor einer Artemisstatuette auf Pfeiler; mit der Rechten giesst er aus einer Phiale auf einen schmalen, säulenartigen Rundaltar (mit Flammen?).
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/holy_see_vatican_city_state/vaticano/musei_vaticani/55063X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	65
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	16
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	10400
+Museum
+	Land:	VA
+	Stadt:	Vaticano
+	Name:	Musei Vaticani
+	Direktor:	Direttore Dott. Antonio Paolucci
+	Anrede:	Chiarissimo Direttore,
+	Postleitzahl:	I-00120
+	Kontaktzenter:	Monumenti, Musei e Gallerie Pontificie
+	Stadt des Kontaktzenters:	Città del Vaticano
+	Rechteinhaber der Fotos:	© Musei Vaticani
+	Kommentar:	Sont réunis sous cette dénomination générique - compte tenu à la fois de leur numérotation unique et de leurs déplacements à l'intérieur des musées - les monuments conservés dans le Museo Chiaramonti, le Museo Gregoriano Etrusco, le Museo Gregoriano Profano, le Museo Pio Clementino et le Museo Pio Cristiano.  En revanche, la localisation spécifique a été conservée dans les cas suivants: Basilica San Pietro, Biblioteca Apostolica Vaticana (et Museo Profano, Museo Sacro, Sala delle Nozze Aldobrandine), Camposanto Teutonico, Giardini, Medagliere Vaticano, Museo Gregoriano Egizio, Necropoli sotto San Pietro.
+	Hat die Fotorechte:	0

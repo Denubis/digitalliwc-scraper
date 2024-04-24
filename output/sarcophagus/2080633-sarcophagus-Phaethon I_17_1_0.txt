@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-7431e5051bae2-6
+Phaethon I_17_1_0
+
+
+
+Monument
+	ID:	10047
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Phaethon I
+	Beschreibung:	Phaethon (I) asking Helios for his chariot and the following fall of Phaethon (I) into Eridanos in the presence of one of the Dioskouroi, one Wind, Hesperos, three Heliades, Helios, a paidagogus and Kyknos.
+Szene
+	ID:	10265
+	Beschreibung:	Phaethon (I) asking Helios for his chariot and the following fall of Phaethon (I) into Eridanos in the presence of one of the Dioskouroi, one Wind, Hesperos, three Heliades, Helios, a paidagogus and Kyknos.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Phaethon I
+	Katalognummer:	17
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Benevento
+	Name:	Museo del Sannio
+	Direktor:	Al Direttore
+	Adresse:	Piazza Santa Sofia
+	Postleitzahl:	I-82100
+	Kontaktzenter:	Museo del Sannio
+	Stadt des Kontaktzenters:	Benevento
+	Rechteinhaber der Fotos:	© Museo del Sannio, Benevento
+	Hat die Fotorechte:	0

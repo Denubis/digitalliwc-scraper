@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-741f7010fa26b-d
+Penelope_43_0_0
+Mnesteres II_6_0_0
+
+
+
+Monument
+	ID:	8740
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	hypogeum
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Mnesteres II Penelope
+	Beschreibung:	The Mnesteres (II) with Penelope. Other interpretation: Kirke with the companions of Odysseus.
+Szene
+	ID:	8938
+	Beschreibung:	The Mnesteres (II) with Penelope. Other interpretation: Kirke with the companions of Odysseus.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Penelope
+	Katalognummer:	43
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mnesteres II
+	Katalognummer:	6
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Ipogeo presso Viale Manzoni (Ipogeo degli Aurelii)
+	Rechteinhaber der Fotos:	© Roma
+	Hat die Fotorechte:	0

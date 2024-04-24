@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-74515184d4450-1
+Poseidon/Neptunus_116_1_0
+
+
+
+Monument
+	ID:	12263
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Poseidon/Neptunus
+	Beschreibung:	In the centre nude Neptunus with trident in a biga drawn by hippocamps. Nereides riding Tritones.
+Szene
+	ID:	12561
+	Beschreibung:	In the centre nude Neptunus with trident in a biga drawn by hippocamps. Nereides riding Tritones.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ancona/museo_archeologico_nazionale_delle_marche/12561X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Poseidon/Neptunus
+	Katalognummer:	116
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Ancona
+	Name:	Museo Archeologico Nazionale delle Marche
+	Direktor:	Soprintendente Dott. Giuliano de Marinis
+	Adresse:	Via Birarelli 18
+	Postleitzahl:	I-60121
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici delle Marche
+	Stadt des Kontaktzenters:	Ancona
+	Rechteinhaber der Fotos:	© Polo Museale delle Marche
+	Hat die Fotorechte:	0

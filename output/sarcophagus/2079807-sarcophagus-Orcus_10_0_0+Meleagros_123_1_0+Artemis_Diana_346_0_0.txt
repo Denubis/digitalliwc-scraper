@@ -1,0 +1,73 @@
+http://ark.dasch.swiss/ark:/72163/080e-742615ed91d40-a
+Orcus_10_0_0
+Meleagros_123_1_0
+Artemis/Diana_346_0_0
+
+
+
+Monument
+	ID:	9209
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Meleagros Artemis/Diana Orcus
+	Beschreibung:	On the left Oineus by a gateway. Then a depiction of the boar hunt: Orcus with his double axe, Artemis with dog, the Dioskouroi with horses, Meleagros with dog, Atalante with dog, a man and a tree behind a cave. A fallen hunter and a wounded hunter.
+Datierung
+	Periode:	200 - 220 
+Szene
+	ID:	9410
+	Beschreibung:	On the left Oineus by a gateway. Then a depiction of the boar hunt: Orcus with his double axe, Artemis with dog, the Dioskouroi with horses, Meleagros with dog, Atalante with dog, a man and a tree behind a cave. A fallen hunter and a wounded hunter.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/9410X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/9410X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/9410X103.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/9410X104.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/9410X105.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/9410X201.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/galleria_degli_uffizi/9410X202.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Orcus
+	Katalognummer:	10
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	123
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Artemis/Diana
+	Katalognummer:	346
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	135
+Museum
+	Land:	IT
+	Stadt:	Firenze
+	Name:	Galleria degli Uffizi
+	Adresse:	Via della Ninna 5
+	Postleitzahl:	I-50122
+	Kontaktzenter:	Soprintendenza Speciale per il Polo Museale Fiorentino
+	Stadt des Kontaktzenters:	Firenze
+	Rechteinhaber der Fotos:	Su concessione del Ministero dei beni e delle attività culturali e del turismo
+	Hat die Fotorechte:	1

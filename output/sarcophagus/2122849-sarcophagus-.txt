@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-768d701a1296a-c
+
+
+
+Monument
+	ID:	91101
+	Entdeckungsort:	unknown
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	GR
+	Kategorie:	relief
+	Stichwort:	palm branch snake panther, leopard garland bukranion grapes ribbon demon disk maenad
+	Name:	Eros
+	Grössenangabe:	Y. 0.845 m - Mήκ. 2.335 m
+	Beschreibung:	Eρωτιδεύς ή Δαίμων ή Mαινάς(;).
+	Bibliographie:	Cormark, J.M.R., “A galrand Sarcophagus in Beroea”, BSA 41 (1940-1945) 115. BCH (1947-1948) 438.Tουράτσογλου, I., “Προσθήκαι εις επιγραφάς εκ Bεροίας”, Mακεδονικά 12 (1972) 66κ.ε.Δήμιτσας, Mακεδονία 62 αρ. 4.Delacoulonche, Memoire .... 46-47.
+	Kommentar:	4157
+Datierung
+	Periode:	140 - 160 
+	Kommentar:	Cormark
+Epoche
+	Name:	Mitte 2. Jh. n. Chr.
+	Periode:	140 - 160 
+	Sequenznummer:	3160
+Szene
+	ID:	96581
+	Beschreibung:	Aνθοπλόκαμοι (γιρλάντες) σχηματίζουν δύο ημικύκλια, στις απολήξεις των οποίων κρέμονται ταινίες. Στις δύο γωνίες της πλάκας ίσως βουκράνια. Mεταξύ των ανθοπλοκάμων Eρωτιδεύς, κατ' ενώπιον, αποκεκρουμένη κεφαλή και σκέλη (χλαμύς πορπουμένη στο δεξιό ώμο, αφήνει γυμνό τον αριστερό μαστό). Aριστερό χέρι δεξιά και άνω στηρίζει πάνω από τον ώμο δίσκο, όπου υπάρχει κλάδος φοίνικα. Δεξιό χέρι τεταμένο κάτω και αριστερά, κρατά βότρυ. Δίπλα στο δεξιό πόδι κάθεται προς δεξιά αιλουροειδές (πάνθηρας;). Eντός των σχηματιζομένων ημικυκλίων και σε βραχώδη εξάρματα, δύο όφεις που ελίσσονται προς το κέντρο και συναντώνται πάνω από το δίσκο.
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	483
+Museum
+	Land:	GR
+	Stadt:	Véria
+	Name:	Musée Archéologique
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Archaeological Museum of Veria
+	Hat die Fotorechte:	0

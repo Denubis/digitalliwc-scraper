@@ -1,0 +1,51 @@
+http://ark.dasch.swiss/ark:/72163/080e-76108b0fc46ca-f
+Amazones_252_1_0
+
+
+
+Monument
+	ID:	43805
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	lion shield chariot sanctuary satyr, silen maenad
+	Name:	Dionysos Pan Satyros Amazones
+	Bibliographie:	Turcan, R., Les sarcophages romains à représentations dionysiaques (1966) 337 no. 4 pl. 58a-c.
+Datierung
+	Periode:	250 - 275 
+Epoche
+	Name:	3. Viertel 3. Jh. n. Chr.
+	Periode:	250 - 275 
+	Sequenznummer:	3360
+Szene
+	ID:	46078
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/46078X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/46078X002.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	252
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 1040
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

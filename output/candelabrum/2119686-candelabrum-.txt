@@ -1,0 +1,56 @@
+http://ark.dasch.swiss/ark:/72163/080e-766037c84e063-a
+
+
+
+Monument
+	ID:	52812
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	Temple of Isis
+	Objekt:	candelabrum
+	Material:	bronze
+	Herkunft:	Latium
+	Land:	CH
+	Kategorie:	varia
+	Stichwort:	torch palmette candelabrum flower lion paw
+	Beschreibung:	Zwei Bronzekandelaber mit dreiseitiger Basis mit Löwenfüssen, dazwischen umgekehrte Palmetten. Der zylindrische Schaft ist durch horizontale Scheibchen und plastische Ringen gegliedert. Auf dem oberen Ende sitzt ein kelchförmiges Verzierungselement, darüber eine Blüte, in der sich eine Röhre zur Befestigung der Fackel befindet.
+	Bibliographie:	Cantilena, R. / Prisco, G. (ed.),  Alla ricerca di Iside. Analisi, Studi e restauri dell’Iseo pompeiano nel Museo di Napoli (1992) 74 Nr. 5.
+	Kommentar:	Zu anderen Darstellungen im Isistempel siehe ID: 10175; 21619; 28263; 45813; 50195; 52591; 52818; 52837. 
+Datierung
+	Periode:	41 - 54 
+Epoche
+	Name:	claudisch
+	Periode:	41 - 54 
+	Sequenznummer:	1160
+Szene
+	ID:	58130
+	Beschreibung:	Zwei Bronzekandelaber mit dreiseitiger Basis mit Löwenfüssen, dazwischen umgekehrte Palmetten. Der zylindrische Schaft ist durch horizontale Scheibchen und plastische Ringen gegliedert. Auf dem oberen Ende sitzt ein kelchförmiges Verzierungselement, darüber eine Blüte, in der sich eine Röhre zur Befestigung der Fackel befindet.
+Catalog Thes CRA
+	Indexnummer:	1379
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Catalog Thes CRA
+	Indexnummer:	1379
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	72192
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	72193

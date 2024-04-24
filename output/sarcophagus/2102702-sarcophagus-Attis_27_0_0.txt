@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-756d67bde1aab-3
+Attis_27_0_0
+
+
+
+Monument
+	ID:	32289
+	Entdeckungsort:	Lyon
+	Objekt:	sarcophagus
+	Material:	limestone
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	shield
+	Name:	Attis
+	Beschreibung:	Attis wearing tunica manicata, trousers and Phrygian cap, without wings. On the left a pelta.
+	Bibliographie:	Turcan, R., Les religions de l`Asie dans da Vallée du Rhône (1972) 137 pl. 37.
+Szene
+	ID:	33914
+	Beschreibung:	Attis wearing tunica manicata, trousers and Phrygian cap, without wings. On the left a pelta.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Attis
+	Katalognummer:	27
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	FR
+	Stadt:	Lyon
+	Name:	Collection Joseph Grange
+	Rechteinhaber der Fotos:	© Collection Joseph Grange
+	Hat die Fotorechte:	0

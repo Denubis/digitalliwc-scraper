@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-743f8c3dc40c9-7
+Patakoi, Pataikoi_3_0_0
+
+
+
+Monument
+	ID:	11010
+	Entdeckungsort:	Pompei
+	Objekt:	figurine
+	Material:	terracotta
+	Land:	CH
+	Kategorie:	sculpture in the round of terracotta
+	Name:	Patakoi, Pataikoi
+	Beschreibung:	Nude boy on a base, the hands on his hips.
+Szene
+	ID:	11258
+	Beschreibung:	Nude boy on a base, the hands on his hips.
+Catalog LIMC
+	Artikel:	Patakoi, Pataikoi
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	22607
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

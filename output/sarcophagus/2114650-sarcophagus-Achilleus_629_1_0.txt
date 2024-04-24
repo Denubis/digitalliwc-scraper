@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-7618386ff6107-e
+Achilleus_629_1_0
+
+
+
+Monument
+	ID:	44345
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	horse warrior, soldier war-chariot, harma, currus corpse
+	Name:	Achilleus Hektor Ilion
+	Bibliographie:	Robert, SarkRel II Nr. 46; Giuliano, A., Il commercio dei sarcofagi attici (1962) 36 Nr. 124.
+Szene
+	ID:	46632
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/tegee/musee_archeologique/46632X304.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	629
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	GR
+	Stadt:	Tégée
+	Name:	Musée Archéologique
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athènes
+	Rechteinhaber der Fotos:	© Archaeological Museum of Tegea
+	Hat die Fotorechte:	0

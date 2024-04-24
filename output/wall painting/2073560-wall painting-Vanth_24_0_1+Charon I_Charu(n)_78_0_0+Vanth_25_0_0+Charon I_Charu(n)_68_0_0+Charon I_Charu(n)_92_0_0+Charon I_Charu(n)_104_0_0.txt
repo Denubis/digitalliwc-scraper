@@ -1,0 +1,92 @@
+http://ark.dasch.swiss/ark:/72163/080e-73ccc66c352fd-4
+Vanth_24_0_1
+Charon I/Charu(n)_78_0_0
+Vanth_25_0_0
+Charon I/Charu(n)_68_0_0
+Charon I/Charu(n)_92_0_0
+Charon I/Charu(n)_104_0_0
+
+
+
+Monument
+	ID:	2917
+	Entdeckungsort:	Tarquinia
+	Entdeckungsort Details:	tomb
+	Objekt:	wall painting
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Charon I/Charu(n) Vanth
+	Beschreibung:	Vanth and Charun.
+Szene
+	ID:	2939
+	Beschreibung:	Vanth and Charun.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/necropoli/2939X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/necropoli/2939X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/necropoli/2939X103.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/necropoli/2939X104.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/necropoli/2939X105.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/necropoli/2939X106.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Vanth
+	Katalognummer:	24
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Charon I/Charu(n)
+	Katalognummer:	78
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Vanth
+	Katalognummer:	25
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Charon I/Charu(n)
+	Katalognummer:	68
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Charon I/Charu(n)
+	Katalognummer:	92
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Charon I/Charu(n)
+	Katalognummer:	104
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba del Cardinale
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Necropoli
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-75c77ce1f1c7c-6
+Apollon/Apollo_465_0_0
+
+
+
+Monument
+	ID:	38652
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+Szene
+	ID:	40656
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	465
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 2, 196
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Barberini
+	Rechteinhaber der Fotos:	© Palazzo Barberini, Roma
+	Hat die Fotorechte:	1

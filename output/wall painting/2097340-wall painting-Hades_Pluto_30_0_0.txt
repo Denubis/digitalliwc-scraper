@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-7520bf4374271-3
+Hades/Pluto_30_0_0
+
+
+
+Monument
+	ID:	26895
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	tomb
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Hades/Pluto
+Szene
+	ID:	28253
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	30
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	72a
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	British Museum
+	Direktor:	Dr. Charles Arnold
+	Adresse:	Great Russell Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	British Museum - Greek and Roman Antiquities
+	Stadt des Kontaktzenters:	London WC 1B 3DG
+	Rechteinhaber der Fotos:	© British Museum, London
+	Hat die Fotorechte:	1

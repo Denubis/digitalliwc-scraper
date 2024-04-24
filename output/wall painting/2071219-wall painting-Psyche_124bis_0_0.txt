@@ -1,0 +1,27 @@
+http://ark.dasch.swiss/ark:/72163/080e-73ab4e8e39084-5
+Psyche_124bis_0_0
+
+
+
+Monument
+	ID:	546
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Psyche
+Szene
+	ID:	29070
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	124bis
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Bâtiment XII
+Museum
+	Land:	IL
+	Stadt:	Mampsis-Kurnub
+	Rechteinhaber der Fotos:	© Mampsis-Kurnub
+	Hat die Fotorechte:	1

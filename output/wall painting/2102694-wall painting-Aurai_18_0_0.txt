@@ -1,0 +1,31 @@
+http://ark.dasch.swiss/ark:/72163/080e-756d4a765ec83-9
+Aurai_18_0_0
+
+
+
+Monument
+	ID:	32281
+	Entdeckungsort:	Kertch, Pantikapaion
+	Entdeckungsort Details:	tomb
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Aura Aurai
+	Beschreibung:	Floating female figures, perhaps the Aurai.
+Szene
+	ID:	33905
+	Beschreibung:	Floating female figures, perhaps the Aurai.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Aurai
+	Katalognummer:	18
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	UA
+	Stadt:	Kerch
+	Name:	Necropolis of Pantikapaion
+	Rechteinhaber der Fotos:	© Kerch
+	Hat die Fotorechte:	1

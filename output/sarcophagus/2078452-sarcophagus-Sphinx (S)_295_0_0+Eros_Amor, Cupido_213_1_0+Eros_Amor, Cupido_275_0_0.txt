@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-7412b6bd59389-f
+Sphinx (S)_295_0_0
+Eros/Amor, Cupido_213_1_0
+Eros/Amor, Cupido_275_0_0
+
+
+
+Monument
+	ID:	7840
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido Sphinx (Thebana)
+	Beschreibung:	Below the clipeus carried by two Erotes are two Sphinxes.
+Szene
+	ID:	8023
+	Beschreibung:	Below the clipeus carried by two Erotes are two Sphinxes.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Sphinx (S)
+	Katalognummer:	295
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	213
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	275
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	128578
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Romano
+	Direktor:	Soprintendente Dott. Giuseppe Proietti
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali - Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

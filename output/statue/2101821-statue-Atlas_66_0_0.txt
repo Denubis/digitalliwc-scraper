@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-7560cf5ab3fb6-f
+Atlas_66_0_0
+
+
+
+Monument
+	ID:	31404
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VIII 7,17-20 (Odeum)
+	Objekt:	statue
+	Material:	tufa
+	Land:	CH
+	Kategorie:	sculpture in the round
+	Stichwort:	Atlant
+	Name:	Atlas
+	Beschreibung:	Kneeling Atlante, bearded and with long hair, nude, taut musculature.
+	Bibliographie:	Rohden, H. von, Die Terrakotten von Pompeji (1880) 40 pl. 26, 1; Bieber, Theater (2) figs. 613. 615; Schaller 72 no. 190 b; Schmidt-Colinet 246 M 19.
+Datierung
+	Periode:	-100 - -75 
+Epoche
+	Name:	1. Viertel 1. Jh. v. Chr.
+	Periode:	-100 - -75 
+	Sequenznummer:	2910
+Szene
+	ID:	33006
+	Beschreibung:	Kneeling Atlante, bearded and with long hair, nude, taut musculature.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Atlas
+	Katalognummer:	66
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VIII 7,17-20
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Odeon

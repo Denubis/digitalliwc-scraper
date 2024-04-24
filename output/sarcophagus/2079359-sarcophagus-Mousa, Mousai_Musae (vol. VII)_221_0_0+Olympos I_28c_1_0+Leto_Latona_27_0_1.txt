@@ -1,0 +1,78 @@
+http://ark.dasch.swiss/ark:/72163/080e-741fae48f0480-5
+Mousa, Mousai/Musae (vol. VII)_221_0_0
+Olympos I_28c_1_0
+Leto/Latona_27_0_1
+
+
+
+Monument
+	ID:	8756
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Mousa, Mousai Olympos I Leto/Latona
+	Beschreibung:	Olympos (I) pleads for Marsyas' life: Olympos (I), kneeling at Apollon's feet. Latona and Kybele seated.
+Szene
+	ID:	8957
+	Beschreibung:	Olympos (I) pleads for Marsyas' life: Olympos (I), kneeling at Apollon's feet. Latona and Kybele seated.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/hever_castle_kent/8957X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/hever_castle_kent/8957X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/hever_castle_kent/8957X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/hever_castle_kent/8957X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/hever_castle_kent/8957X103.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/hever_castle_kent/8957X104.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/hever_castle_kent/8957X105.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	221
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Olympos I
+	Katalognummer:	28c
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Leto/Latona
+	Katalognummer:	27
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	Ehem. A.O.
+	Nummer:	Astor 78
+Museum
+	Land:	GB
+	Stadt:	Hever Castle (Kent)
+	Rechteinhaber der Fotos:	© Hever Castle
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	11./12.7.1983, 364
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	Sotheby's
+	Direktor:	Mr. Adam Levine
+	Adresse:	34-35 New Bond Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	Sotheby's
+	Stadt des Kontaktzenters:	London, W1A 2AA
+	Rechteinhaber der Fotos:	© Sotheby's, London
+	Hat die Fotorechte:	1

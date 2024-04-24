@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-747aebe10d9a6-4
+Priapos (S)_141_0_0
+
+
+
+Monument
+	ID:	15191
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Palatine
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Priapos
+	Beschreibung:	Herm of Priapos on a rock.
+Szene
+	ID:	39624
+	Beschreibung:	Herm of Priapos on a rock.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Priapos (S)
+	Katalognummer:	141
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palatino, Casa di Livia
+	Direktor:	Soprintendente Prof. Adriano La Regina
+	Adresse:	Piazza delle Finanze 1
+	Postleitzahl:	I-0015
+	Kontaktzenter:	Soprintendenza alle Antichità
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza alle Antichità, Roma
+	Hat die Fotorechte:	1

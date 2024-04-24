@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-7527f033b9884-3
+Herakles_112_0_0
+
+
+
+Monument
+	ID:	27398
+	Entdeckungsort:	Pompei
+	Objekt:	ring stone
+	Material:	glass
+	Land:	CH
+	Kategorie:	gem
+	Name:	Herakles
+	Beschreibung:	Herakles wearing the lionskin over head, the paws knotted in front.
+Szene
+	ID:	28781
+	Beschreibung:	Herakles wearing the lionskin over head, the paws knotted in front.
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/28781X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/28781X102.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	112
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	109581
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

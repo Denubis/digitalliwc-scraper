@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ecb529d3959-d
+Hypnos/Somnus_14_0_0
+Eros/Amor, Cupido_114_0_0
+
+
+
+Monument
+	ID:	23219
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido Hypnos/Somnus
+Szene
+	ID:	24360
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	14
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	114
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Primoli
+	Rechteinhaber der Fotos:	© Palazzo Primoli, Roma
+	Hat die Fotorechte:	1

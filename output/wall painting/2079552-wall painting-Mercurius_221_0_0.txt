@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-742270a625e05-9
+Mercurius_221_0_0
+
+
+
+Monument
+	ID:	8951
+	Entdeckungsort:	Rome
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Mercurius
+	Beschreibung:	Floating Mercurius with winged head, purse and caduceus.
+Szene
+	ID:	18832
+	Beschreibung:	Floating Mercurius with winged head, purse and caduceus.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	221
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	32362
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Antiquarium Comunale
+	Direktor:	Dirigente Dott. Claudio Parisi Presicce
+	Adresse:	Via delle Tre Pile, 1
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza ai Beni Culturali del Comune di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	Archivio fotografico dei Musei Capitolini
+	Hat die Fotorechte:	1

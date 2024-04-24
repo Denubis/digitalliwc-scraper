@@ -1,0 +1,88 @@
+http://ark.dasch.swiss/ark:/72163/080e-7496454d2f6c3-c
+Lykomedes I_3_0_0
+Achilleus_54_1_0
+Achilleus_108_0_0
+Agyrtes_3_1_0
+Odysseus_37_0_0
+
+
+
+Monument
+	ID:	17127
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	IX 5,2 (Domus Uboni)
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	helmet shield corselet trumpet, tuba, salpinx weapon door pilos wet-nurse palace
+	Name:	Achilleus Agyrtes Cheiron Diomedes I Lykomedes I Odysseus Thetys I Deidameia II
+	Beschreibung:	Discovery of Achilleus in front of the kings' palace in Skyros. In the open door the bearded Lykomedes (I) surrounded by soldiers watching the tumult.
+	Bibliographie:	HBr pl. 137; Rizzo, PER pl. 58; Bianchi-Bandinelli, R., Storicità dell'arte classica (1950) 177 pl. 88, 174; Schefold, WP 252; Croisille, J. M., Poésie et art figuré de Néron aux Flaviens (1982) 107-108 pl. 49; Ferrari, O. et al., Le Collezioni del Museo Nazionale di Napoli (1986) no. 206 with fig.
+Datierung
+	Periode:	1 - 100 
+	Kommentar:	(Odysseus, Agyrtes)
+Epoche
+	Name:	1. Jh. n. Chr.
+	Periode:	1 - 100 
+	Sequenznummer:	3000
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	17816
+	Beschreibung:	Discovery of Achilleus in front of the kings' palace in Skyros. In the open door the bearded Lykomedes (I) surrounded by soldiers watching the tumult.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/17816X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/17816X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/17816X302.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Lykomedes I
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	54
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	108
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Agyrtes
+	Katalognummer:	3
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Odysseus
+	Katalognummer:	37
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	116085
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-745de296213bb-c
+Sarnus_6_0_0
+
+
+
+Monument
+	ID:	13146
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Sarnus
+	Beschreibung:	Sarnus reclining below a tree.
+Szene
+	ID:	13477
+	Beschreibung:	Sarnus reclining below a tree.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Sarnus
+	Katalognummer:	6
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Fondo Bottaro
+Museum
+	Land:	IT
+	Stadt:	Torre Annunziata
+	Rechteinhaber der Fotos:	© Torre Annunziata
+	Hat die Fotorechte:	0

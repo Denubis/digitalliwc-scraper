@@ -1,0 +1,53 @@
+http://ark.dasch.swiss/ark:/72163/080e-73cd084d1bad7-9
+Vanth_36_1_0
+Charon I/Charu(n)_13_0_0
+
+
+
+Monument
+	ID:	2935
+	Entdeckungsort:	Bomarzo
+	Objekt:	sarcophagus
+	Material:	nenfro
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Charon I/Charu(n) Vanth
+	Beschreibung:	On the front and the back side a depiction of Vanth.
+	Museums-URL:	http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=466786&partId=1&searchText=d20&page=1
+Szene
+	ID:	2959
+	Beschreibung:	On the front and the back side a depiction of Vanth.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/british_museum/2959X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/british_museum/2959X003.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Vanth
+	Katalognummer:	36
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Charon I/Charu(n)
+	Katalognummer:	13
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	D 20
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	British Museum
+	Direktor:	Dr. Charles Arnold
+	Adresse:	Great Russell Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	British Museum - Greek and Roman Antiquities
+	Stadt des Kontaktzenters:	London WC 1B 3DG
+	Rechteinhaber der Fotos:	© British Museum, London
+	Hat die Fotorechte:	1

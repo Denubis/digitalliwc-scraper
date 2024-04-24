@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-751f29033c206-4
+Harpokrates_60_0_0
+
+
+
+Monument
+	ID:	26784
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Harpokrates
+Szene
+	ID:	28141
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Harpokrates
+	Katalognummer:	60
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	British Museum
+	Direktor:	Dr. Charles Arnold
+	Adresse:	Great Russell Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	British Museum - Greek and Roman Antiquities
+	Stadt des Kontaktzenters:	London WC 1B 3DG
+	Rechteinhaber der Fotos:	© British Museum, London
+	Hat die Fotorechte:	1

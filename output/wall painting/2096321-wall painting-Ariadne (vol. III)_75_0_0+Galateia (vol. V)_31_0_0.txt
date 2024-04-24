@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-75122dceb4b4a-0
+Ariadne (vol. III)_75_0_0
+Galateia (vol. V)_31_0_0
+
+
+
+Monument
+	ID:	25864
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	I 2,3
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Galateia Ariadne
+	Beschreibung:	Polyphemos and Galateia.
+Szene
+	ID:	49450
+	Beschreibung:	Polyphemos and Galateia.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Ariadne (vol. III)
+	Katalognummer:	75
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Galateia (vol. V)
+	Katalognummer:	31
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	I 2,3
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1

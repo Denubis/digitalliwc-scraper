@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-75970d14ec150-a
+Eros/Amor, Cupido_499_1_0
+
+
+
+Monument
+	ID:	35238
+	Entdeckungsort:	Cologne
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Eros/Amor, Cupido
+Szene
+	ID:	37070
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/koeln/roemisch-germanisches_museum/37070X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/koeln/roemisch-germanisches_museum/37070X102.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	499
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	DE
+	Stadt:	Köln
+	Name:	Römisch-Germanisches Museum
+	Direktor:	Direktor Prof. Dr. Hansgerd Hellenkemper
+	Adresse:	Roncallipl. 4
+	Postleitzahl:	D-50667
+	Kontaktzenter:	Römisch-Germanisches Museum
+	Stadt des Kontaktzenters:	Köln
+	Rechteinhaber der Fotos:	© Römisch-Germanisches Museum Köln
+	Hat die Fotorechte:	1

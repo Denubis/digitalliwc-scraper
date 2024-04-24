@@ -1,0 +1,70 @@
+http://ark.dasch.swiss/ark:/72163/080e-73fb1fe0263cf-6
+Apollon/Apollo_287_0_1
+Midas (S)_45_0_0
+Priamos_26_0_1
+Nymphai (S)_107b_0_0
+Endymion_21_0_1
+
+
+
+Monument
+	ID:	6179
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Endymion Priamos Midas Nymphai
+	Beschreibung:	Oriental king seated at left, facing an orietanl youth: Priamos and one of his sons? Or Midas?
+Szene
+	ID:	40474
+	Beschreibung:	Oriental king seated at left, facing an orietanl youth: Priamos and one of his sons? Or Midas?
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/40474X203.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/40474X303.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	287
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Midas (S)
+	Katalognummer:	45
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Priamos
+	Katalognummer:	26
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Nymphai (S)
+	Katalognummer:	107b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	21
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	I 4,5.25
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa del Citarista

@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-74cf3317eb509-9
+Herakles_ad 2144_0_0
+
+
+
+Monument
+	ID:	21141
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Herakles
+	Beschreibung:	Herakles and the Erymanthian Boar.
+Szene
+	ID:	22077
+	Beschreibung:	Herakles and the Erymanthian Boar.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	ad 2144
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	10./11.12.1984, 278
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	Sotheby's
+	Direktor:	Mr. Adam Levine
+	Adresse:	34-35 New Bond Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	Sotheby's
+	Stadt des Kontaktzenters:	London, W1A 2AA
+	Rechteinhaber der Fotos:	© Sotheby's, London
+	Hat die Fotorechte:	1

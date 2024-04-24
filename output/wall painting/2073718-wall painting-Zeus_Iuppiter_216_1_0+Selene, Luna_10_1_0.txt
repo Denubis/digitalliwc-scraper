@@ -1,0 +1,55 @@
+http://ark.dasch.swiss/ark:/72163/080e-73cf08b08e293-0
+Zeus/Iuppiter_216_1_0
+Selene, Luna_10_1_0
+
+
+
+Monument
+	ID:	3076
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	V 2,4 (Casa del Triclino)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Luna Selene Zeus/Iuppiter
+	Beschreibung:	Luna/Selene and stars above Iuppiter and his eagle.
+Szene
+	ID:	49457
+	Beschreibung:	Luna/Selene and stars above Iuppiter and his eagle.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49457X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49457X002.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	216
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Selene, Luna
+	Katalognummer:	10
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	V 2,4
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa del Triclinio

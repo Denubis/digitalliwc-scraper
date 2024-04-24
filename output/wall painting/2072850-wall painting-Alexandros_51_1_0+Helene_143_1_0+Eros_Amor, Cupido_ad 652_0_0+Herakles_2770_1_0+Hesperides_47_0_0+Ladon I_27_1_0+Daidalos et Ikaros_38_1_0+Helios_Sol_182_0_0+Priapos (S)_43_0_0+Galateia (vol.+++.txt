@@ -1,0 +1,192 @@
+http://ark.dasch.swiss/ark:/72163/080e-73c29fe19529f-a
+Alexandros_51_1_0
+Helene_143_1_0
+Eros/Amor, Cupido_ad 652_0_0
+Herakles_2770_1_0
+Hesperides_47_0_0
+Ladon I_27_1_0
+Daidalos et Ikaros_38_1_0
+Helios/Sol_182_0_0
+Priapos (S)_43_0_0
+Galateia (vol. V)_13_0_0
+Polyphemos I (S)_56_1_0
+Kassiepeia (S)_6_1_0
+Andromeda I_33_0_0
+Kepheus I_35_0_0
+Perseus_178b_1_0
+Echo_5b_0_0
+
+
+
+Monument
+	ID:	2201
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	I 7,7 (Casa del sacerdote Amandus)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	mirror column temple amphora rock, cliff woman winged figure Phrygian cap ketos, sea monster fight, battle captive
+	Name:	Alexandros Andromeda I Aphrodite Eros Helene Kepheus I Perseus Herakles Hesperides Helios/Sol Daidalos and Ikaros Galateia Eros/Amor, Cupido Priapos Ladon I Kassiepeia Polyphemos I
+	Beschreibung:	Mural painting.
+	Bibliographie:	Schefold, WP 31; Maiuri, A., in: Monumenti della Pittura Antica Scoperti in Italia Sez. III Pompeji Fasc. II Taf. B; NotSc (1927) Taf. 4.
+Datierung
+	Periode:	70 
+	Kommentar:	about
+Epoche
+	Name:	vespasianisch
+	Periode:	69 - 79 
+	Sequenznummer:	1185
+Szene
+	ID:	49622
+	Szenerieangabe:	cubiculum [c]
+	Sequenznummer:	966
+	Name:	Alexandros Aphrodite Eros Helene
+	Stichwort:	mirror winged figure Phrygian cap
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49622X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49622X102.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Alexandros
+	Katalognummer:	51
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helene
+	Katalognummer:	143
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	49623
+	Szenerieangabe:	peristylium [m]
+	Sequenznummer:	968
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 652
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49624
+	Szenerieangabe:	triclinium [b], parete nord
+	Beschreibung:	Herakles and three Hesperides before the tree with a snake coiled around it.
+	Sequenznummer:	962
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49624X002.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2770
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hesperides
+	Katalognummer:	47
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ladon I
+	Katalognummer:	27
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	49625
+	Szenerieangabe:	triclinium [b], parete est
+	Beschreibung:	At the top left Helios driving his quadriga to the right. At the top right, Ikaros with left wing detached, falling backward. At the centre only the wing tips of Daidalos are preserved. At the middle right a walles city. On the sea below two boats with oarsmen looking up and gesturing excitedly. At the lower left two women, one with raised arm and head. At the lower right on the beach, the corpse of Ikaros over which a figure leans.
+	Bibliographie:	Dawson, C.M., Romano-Campanian Mythological Landscape Painting (YaleClSt 9, 1944) 99 Nr. 39.
+	Sequenznummer:	965
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49625X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Daidalos et Ikaros
+	Katalognummer:	38
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	182
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49626
+	Szenerieangabe:	triclinium [b], parete sud
+	Beschreibung:	Polyphemos seated on a rock while his flock grazes around him. He looks at Galateia who is approaching on a dolphin. On the right an idol of Priapos on a high pillar.
+	Sequenznummer:	964
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49626X002.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Priapos (S)
+	Katalognummer:	43
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Galateia (vol. V)
+	Katalognummer:	13
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Polyphemos I (S)
+	Katalognummer:	56
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	49627
+	Szenerieangabe:	triclinium [b], parete ovest
+	Beschreibung:	Perseus arrives at the rock where Andromeda is tied. The woman sitting on a rock may be Echo. Perseus confers with Kepheus.
+	Sequenznummer:	963
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/49627X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kassiepeia (S)
+	Katalognummer:	6
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Andromeda I
+	Katalognummer:	33
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kepheus I
+	Katalognummer:	35
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Perseus
+	Katalognummer:	178b
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Echo
+	Katalognummer:	5b
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	I 7,7
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa del Sacerdos Amandus

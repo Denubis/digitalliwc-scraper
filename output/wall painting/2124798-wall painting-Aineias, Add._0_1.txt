@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-76a94d480163b-c
+Aineias, Add._0_1
+
+
+
+Monument
+	ID:	201864
+	Entdeckungsort:	Strasbourg, Argentoratum
+	Entdeckungsort Details:	Maison Rouge
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Aineias Askanios
+	Beschreibung:	Coin with representation of a head wearing a Phrygian cap
+	Bibliographie:	Forrer, R., Strassbourg - Argentorate II (1927) 433-447 pl. 63, 1a; Siebert, G., Aeneas' Flucht auf einer Beinschiene im Musée de la Ville de Haguenau, in: Praestant interna. FS U. Hausmann (1982) 292-294.
+Datierung
+	Periode:	-27 - 395 
+	Kommentar:	2nd. cent.-3rd. cent. A.D.
+Epoche
+	Name:	kaiserzeitlich
+	Periode:	-27 - 476 
+	Sequenznummer:	1100
+Szene
+	ID:	98845
+	Beschreibung:	Coin with representation of a head wearing a Phrygian cap; (Revers?) Aineias and his son; Anchises lost
+Catalog LIMC
+	Artikel:	Aineias, Add.
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	4701
+Museum
+	Land:	FR
+	Stadt:	Strasbourg
+	Name:	Musée Archéologique
+	Direktor:	Mme Christine Spéroni
+	Adresse:	5 Pl. du Château
+	Postleitzahl:	F-67000
+	Kontaktzenter:	Musées de Strasbourg
+	Stadt des Kontaktzenters:	Strasbourg
+	Rechteinhaber der Fotos:	© Musée Archéologique Strasbourg
+	Hat die Fotorechte:	1

@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-766de9fbc7799-3
+
+
+
+Monument
+	ID:	53827
+	Entdeckungsort:	Boscoreale
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	thymiaterion, turibulum, incense-burner candelabrum
+	Beschreibung:	Wandmalerei im Triclinium der Villa von Boscoreale: Prunktüre, gerahmt von zwei Räucherständern mit figürlichem Schmuck an Basis und Bekrönung.
+	Bibliographie:	Guida Ruesch Nr. 905; Lehmann, Ph. W., Roman Wall Paintings from Boscoreale (1953) Abb. 17 Taf. 18–19; Cain, Marmorkandelaber 15. 19. 25 Taf. 1, 1.
+Datierung
+	Periode:	-60 - -40 
+Epoche
+	Name:	Mitte 1. Jh. v. Chr.
+	Periode:	-60 - -40 
+	Sequenznummer:	2870
+Szene
+	ID:	59226
+	Szenerieangabe:	triclinium
+	Beschreibung:	Wandmalerei im Triclinium der Villa von Boscoreale: Prunktüre, gerahmt von zwei Räucherständern mit figürlichem Schmuck an Basis und Bekrönung.
+Catalog Thes CRA
+	Indexnummer:	472
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Villa di Boscoreale
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

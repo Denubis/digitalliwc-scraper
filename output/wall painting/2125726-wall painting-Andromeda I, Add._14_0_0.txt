@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-76b691af5005b-b
+Andromeda I, Add._14_0_0
+
+
+
+Monument
+	ID:	202640
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Andromeda (I) standing in front of a cave with outspread arms; bound to the rock; part of a frieze with different mythological figures
+	Bibliographie:	Barbet, A., La peinture murale en Gaule romaine (2008) 110 fig. 143-144.
+Szene
+	ID:	99659
+	Beschreibung:	Andromeda (I) standing in front of a cave with outspread arms; bound to the rock; part of a frieze with different mythological figures
+Catalog LIMC
+	Artikel:	Andromeda I, Add.
+	Katalognummer:	14
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	FR
+	Stadt:	Nîmes
+	Name:	Musée Archéologique
+	Direktor:	Mme le Conservateur Dominique Darde
+	Adresse:	13 Boulevard Amiral Courbet
+	Postleitzahl:	F-30000
+	Kontaktzenter:	Musée Archéologique
+	Stadt des Kontaktzenters:	Nîmes
+	Rechteinhaber der Fotos:	© Musée Archéologique Nîmes
+	Hat die Fotorechte:	0

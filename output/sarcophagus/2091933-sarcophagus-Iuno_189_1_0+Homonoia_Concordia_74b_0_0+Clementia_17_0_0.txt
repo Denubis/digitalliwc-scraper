@@ -1,0 +1,70 @@
+http://ark.dasch.swiss/ark:/72163/080e-74d37216c6696-2
+Iuno_189_1_0
+Homonoia/Concordia_74b_0_0
+Clementia_17_0_0
+
+
+
+Monument
+	ID:	21444
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Name:	Iuno Homonoia/Concordia
+	Beschreibung:	Feldherrensarkophag. Within different scenes from the life of a Roman a sacrificial scene; one of them a marriage, where Concordia (or Iuno Pronuba) stands behind the bridal pair.
+	Bibliographie:	Koch/Sichtermann, RömSark 99-101 nr. 94.
+Datierung
+	Periode:	138 - 161 
+Epoche
+	Name:	antoninisch
+	Periode:	138 - 192 
+	Sequenznummer:	1210
+Szene
+	ID:	22402
+	Beschreibung:	Feldherrensarkophag. Within different scenes from the life of a Roman a sacrificial scene; one of them a marriage, where Concordia (or Iuno Pronuba) stands behind the bridal pair.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/frascati/villa_taverna_oggi_parisi/22402X001.jpg
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	219
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 2.a. Opfer, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	220
+	Bandnummer:	1
+Catalog LIMC
+	Artikel:	Iuno
+	Katalognummer:	189
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Homonoia/Concordia
+	Katalognummer:	74b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Clementia
+	Katalognummer:	17
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Frascati
+	Name:	Villa Taverna (oggi Parisi)
+	Direktor:	Dr. Silvia Diebner
+	Anrede:	Sehr geehrte Frau Dr. Diebner,
+	Adresse:	Via Sardegna 79
+	Postleitzahl:	I-00187
+	Kontaktzenter:	Deutsches Archäologisches Institut Photothek
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Villa Taverna, Frascati
+	Hat die Fotorechte:	0

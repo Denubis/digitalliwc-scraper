@@ -1,0 +1,60 @@
+http://ark.dasch.swiss/ark:/72163/080e-74dac04e8ead1-1
+Herakles_2640_0_1
+Amazones_126_0_1
+Antaios I_48_0_1
+
+
+
+Monument
+	ID:	21957
+	Entdeckungsort:	Thespiai (Boeotia)
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	GR
+	Kategorie:	relief
+	Stichwort:	sword shield horse Amazon fight, battle
+	Name:	Antaios I Herakles Amazones
+	Beschreibung:	Hρακλής, Aνταίος(;), Aμαζών.
+	Bibliographie:	Robert, Die Antiken Sarkophagereliefs  III 1 Pl. 27 no. 99; Kαλλιπολίτης, B. G., Χρονολογικη κατα ταξις...(1958) 14 αρ. 7; Giuliano, A., Il commercio dei sarcofagi attici (1962) 37 no. 130.
+	Kommentar:	4400
+Datierung
+	Periode:	100 - 200 
+Epoche
+	Name:	2. Jh. n. Chr.
+	Periode:	100 - 200 
+	Sequenznummer:	3140
+Szene
+	ID:	22965
+	Beschreibung:	Herakles and Kerberos pulling in opposite directions.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2640
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	126
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Antaios I
+	Katalognummer:	48
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1182
+Museum
+	Land:	GR
+	Stadt:	Athens
+	Name:	National Archaeological Museum
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Anrede:	Dear Director,
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© National Archaeological Museum, Athens
+	Kommentar:	Pour les intailles de la collection Karapanos voir Musée Numismatique.  Inv. VS = ancienne collection Vlastos-Serpieri.
+	Hat die Fotorechte:	1

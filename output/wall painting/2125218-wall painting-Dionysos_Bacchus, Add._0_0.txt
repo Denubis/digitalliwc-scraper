@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-76af4e7258d6f-a
+Dionysos/Bacchus, Add._0_0
+
+
+
+Monument
+	ID:	202296
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	young Bacchus wearing a long tunic and holding a lyre
+	Bibliographie:	Barbet, A., Les cités enfouies du Vésuve (1999) 187.
+Szene
+	ID:	99293
+	Beschreibung:	young Bacchus wearing a long tunic and holding a lyre
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus, Add.
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	62543
+Museum
+	Land:	IT
+	Stadt:	Castellammare di Stabia
+	Name:	Antiquarium Stabiano
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

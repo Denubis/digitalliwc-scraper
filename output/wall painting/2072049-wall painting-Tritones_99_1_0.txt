@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-73b72c498453a-3
+Tritones_99_1_0
+
+
+
+Monument
+	ID:	1392
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Tritones
+	Museums-URL:	http://www.mfa.org/collections/object/fresco-with-eros-riding-on-triton-262113
+Szene
+	ID:	1300
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/boston/museum_of_fine_arts/1300X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Tritones
+	Katalognummer:	99
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1970.62
+Museum
+	Land:	US
+	Stadt:	Boston
+	Name:	Museum of Fine Arts
+	Direktor:	Digital Image Resources
+	Anrede:	Dear Curator,
+	Adresse:	465 Huntington Avenue
+	Postleitzahl:	USA-
+	Kontaktzenter:	Museum of Fine Arts, Classical Art
+	Stadt des Kontaktzenters:	Boston, MA 02115-5597
+	Rechteinhaber der Fotos:	© Museum of Fine Arts, Boston
+	Hat die Fotorechte:	1

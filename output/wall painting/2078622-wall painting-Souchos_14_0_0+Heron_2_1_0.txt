@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-741524ecf685b-e
+Souchos_14_0_0
+Heron_2_1_0
+
+
+
+Monument
+	ID:	8010
+	Entdeckungsort:	Theadelpheia (Batn Harit)
+	Entdeckungsort Details:	temple
+	Objekt:	wall painting
+	Herkunft:	Egypt
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Heron Souchos
+	Beschreibung:	Below Heron the mummy of a crocodile (Souchos). Dedicated to Souchos.
+Szene
+	ID:	8194
+	Beschreibung:	Below Heron the mummy of a crocodile (Souchos). Dedicated to Souchos.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/egypt/alexandrie/musee_greco-romain/8194X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Souchos
+	Katalognummer:	14
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Heron
+	Katalognummer:	2
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	20225
+Museum
+	Land:	EG
+	Stadt:	Alexandrie
+	Name:	Musée Gréco-Romain
+	Kontaktzenter:	Musée Gréco-Romain
+	Stadt des Kontaktzenters:	Alexandrie
+	Rechteinhaber der Fotos:	© Musée Gréco-Romain Alexandria
+	Hat die Fotorechte:	1

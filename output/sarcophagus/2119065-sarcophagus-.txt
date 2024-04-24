@@ -1,0 +1,52 @@
+http://ark.dasch.swiss/ark:/72163/080e-765756f93e182-b
+
+
+
+Monument
+	ID:	52136
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	phiale, phiale mesomphalos, patera garland bukranion thymiaterion, turibulum, incense-burner laurel-tree candelabrum guttus, gutus, guturnium, urceus
+	Beschreibung:	Sarkophag Caffarelli: Girlanden zwischen Bukranien aufgehängt, dazwischen gutus und patera; Nebenseiten: Großes Turibulum zwischen zwei Lorbeerbäumen.
+	Bibliographie:	Rodenwaldt, G., Der Sarkophag Caffarelli, 83. BerlWPr (1925); Koch / Sichtermann, Römische Sarkophage 38-39; H. Heres, in: B. Knittlmayer u.a. (Hrsg.), Die Antikensammlung Berlin (1998) 111-112 Nr.60 mit Abb..
+	Kommentar:	sog. Sarkophag Caffarelli
+Datierung
+	Periode:	20 - 40 
+	Kommentar:	~
+Epoche
+	Name:	2. Viertel 1. Jh. n. Chr.
+	Periode:	25 - 50 
+	Sequenznummer:	3070
+Szene
+	ID:	57374
+	Beschreibung:	Sarkophag Caffarelli: Girlanden zwischen Bukranien aufgehängt, dazwischen gutus und patera; Nebenseiten: Großes Turibulum zwischen zwei Lorbeerbäumen.
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	478
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Sk 843a
+Museum
+	Land:	DE
+	Stadt:	Berlin
+	Name:	Staatliche Museen zu Berlin, Antikensammlung
+	Direktor:	Dir. Prof. Dr. Andreas Scholl
+	Anrede:	Sehr geehrter Herr Professor,
+	Adresse:	Bodestrasse 1-3
+	Postleitzahl:	D-10178
+	E-Mail:	ant@smb.spk-berlin.de
+	Kontaktzenter:	Antikensammlung, Staatliche Museen zu Berlin - Preussischer Kulturbesitz
+	Stadt des Kontaktzenters:	Berlin
+	Rechteinhaber der Fotos:	© Staatliche Museen zu Berlin, Antikensammlung
+	Hat die Fotorechte:	1

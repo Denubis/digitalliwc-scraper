@@ -1,0 +1,201 @@
+http://ark.dasch.swiss/ark:/72163/080e-73cb96a64741e-c
+Vanth_3_0_0
+Achle_87_0_0
+Agamemnon_59_0_0
+Aias I_66_1_0
+Aias II_11_0_0
+Charon I/Charu(n)_34_1_0
+Nestor (vol. VII)_27_0_0
+Phoinix II (S)_5_1_0
+Kassandra I (vol. VII)_157_0_0
+Aias II_80_0_0
+Poine_6b_0_0
+Amphiaraos_50_1_0
+Sisyphos I_28_0_0
+Kerberos_45_0_0
+Gorgones (in Etruria)_66a_1_0
+Eteokles_18_1_0
+
+
+
+Monument
+	ID:	2832
+	Entdeckungsort:	Vulci
+	Entdeckungsort Details:	tomb
+	Objekt:	wall painting
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	sceptre sword spear corselet rock, cliff suppliant, supplication, hikesia xoanon greaves human sacrifice child murder winged figure captive
+	Name:	Achilleus/Achle Agamemnon Aias I Aias II Amphiaraos Charon I/Charu(n) Eteokles Gorgo, Gorgones Kassandra I Kerberos Nestor Phoinix II Poine Sisyphos I Vanth
+	Beschreibung:	Scene interpreted as the sacrifice of the Trojan captives to Patroclus' Dii Manes. Nestor on one wall and Phoinix on another, separated by an entrance. In the frieze of animals Kerberos, two heads facing ahead, one back. Sisyphos (Sisphe) with a large stone on his shoulders, a winged daemon (Poine?) perched on it. Amphiaraos stands on a lower level, foot propped on a rock. Vanth standing between Achilleus and Agamemnon.
+	Inschrift:	Nestur, Phuinis, Sisphe
+	Bibliographie:	Helbig(4) IV no. 3239A; Messerschmidt, F./ v. Gerkan, A., Nekropole von Vulci, JdI Erg.-H. 12 (1930) 158 Taf. 32.34;Pallottino, M., La peinture étrusque (1952) 115-118;Herbig, S./ Simon, E., Götter und Dämonen der Etrusker (1965) Taf. 39; Cristofani, M., Dialoghi di Archeologia (1967) 186-219; Bianchi Bandinelli, R./ Giuliano, A., Etruschi ed italici prima del dominio di Roma (1973) 257 Abb. 294; Buranellli, F., La Tomba François di Vulci (1987) 99-102 fig. 11; Jeannot, J.-R., Devins, dieux et démons. Regards sur la religion de l'Etrurie antique (1998) 43..
+Datierung
+	Periode:	-340 - -320 
+Epoche
+	Name:	Jahr 1
+	Periode:	1 
+Szene
+	ID:	2854
+	Beschreibung:	Scene interpreted as the sacrifice of the Trojan captives to Patroclus' Dii Manes. Nestor on one wall and Phoinix on another, separated by an entrance. In the frieze of animals Kerberos, two heads facing ahead, one back. Sisyphos (Sisphe) with a large stone on his shoulders, a winged daemon (Poine?) perched on it. Amphiaraos stands on a lower level, foot propped on a rock. Vanth standing between Achilleus and Agamemnon.
+	Inschrift:	Nestur, Phuinis, Sisphe
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_albani/2854X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_albani/2854X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_albani/2854X006.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_albani/2854X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_albani/2854X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_albani/2854X301.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_albani/2854X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_albani/2854X303.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_albani/2854X304.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_albani/2854X305.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_albani/2854X306.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	6
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VI. 1.b. Kindheit und Adoleszenz, etr.
+	Bandnummer:	6
+Catalog Thes CRA
+	Indexnummer:	3
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VIII. 4.e. Institutionen (inkl. Heerwesen), etr.
+	Bandnummer:	8
+Catalog Thes CRA
+	Indexnummer:	67
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VIII. Tiere und Pflanzen, etr.
+	Bandnummer:	8
+Catalog LIMC
+	Artikel:	Vanth
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achle
+	Katalognummer:	87
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Agamemnon
+	Katalognummer:	59
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aias I
+	Katalognummer:	66
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aias II
+	Katalognummer:	11
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Charon I/Charu(n)
+	Katalognummer:	34
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Nestor (vol. VII)
+	Katalognummer:	27
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Phoinix II (S)
+	Katalognummer:	5
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kassandra I (vol. VII)
+	Katalognummer:	157
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aias II
+	Katalognummer:	80
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Poine
+	Katalognummer:	6b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amphiaraos
+	Katalognummer:	50
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Sisyphos I
+	Katalognummer:	28
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kerberos
+	Katalognummer:	45
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Gorgones (in Etruria)
+	Katalognummer:	66a
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eteokles
+	Katalognummer:	18
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba François
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Albani
+	Adresse:	Via della Conciliazione 30
+	Postleitzahl:	I-00193
+	Kontaktzenter:	Amministrazione Torlonia
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Phot. proprietà Principe Torlonia
+	Hat die Fotorechte:	0

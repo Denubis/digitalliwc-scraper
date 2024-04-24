@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-752cf4d54819f-a
+Herakles_615_0_0
+
+
+
+Monument
+	ID:	27751
+	Entdeckungsort:	Pompei
+	Objekt:	statuette
+	Material:	marble
+	Land:	CH
+	Kategorie:	sculpture in the round of stone
+	Name:	Herakles
+	Beschreibung:	Herakles, lionskin pendent from left arm, weight on left leg.
+Szene
+	ID:	29156
+	Beschreibung:	Herakles, lionskin pendent from left arm, weight on left leg.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	615
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	10138
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Antiquarium
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via villa dei Misteri 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei (NA)
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

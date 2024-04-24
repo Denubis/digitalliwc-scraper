@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-756f13f3bbdb4-5
+Equus Troianus_11_0_0
+
+
+
+Monument
+	ID:	32407
+	Entdeckungsort:	Hermoupolis Magna (Egypt)
+	Objekt:	wall painting
+	Herkunft:	Egypt
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Equus Troianus
+Szene
+	ID:	34047
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Equus Troianus
+	Katalognummer:	11
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	JE 63611
+Museum
+	Land:	EG
+	Stadt:	Cairo
+	Name:	Egyptian Museum
+	Kontaktzenter:	Musée Egyptien
+	Stadt des Kontaktzenters:	Le Caire
+	Rechteinhaber der Fotos:	© Egyptian Museum Cairo
+	Hat die Fotorechte:	1

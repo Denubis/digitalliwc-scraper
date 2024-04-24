@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-75d8d45cd72ed-0
+Ares/Mars_270a_0_0
+
+
+
+Monument
+	ID:	39878
+	Entdeckungsort:	Naples
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+Szene
+	ID:	41937
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Ares/Mars
+	Katalognummer:	270a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

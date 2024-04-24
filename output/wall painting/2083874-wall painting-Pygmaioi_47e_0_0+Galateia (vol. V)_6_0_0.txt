@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-74603ad01c5ef-c
+Pygmaioi_47e_0_0
+Galateia (vol. V)_6_0_0
+
+
+
+Monument
+	ID:	13311
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 1,8
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Galateia Pygmaioi
+	Beschreibung:	Probably Galateia is represented.
+Szene
+	ID:	13653
+	Beschreibung:	Probably Galateia is represented.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Pygmaioi
+	Katalognummer:	47e
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Galateia (vol. V)
+	Katalognummer:	6
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VII 1,8
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Terme Stabiane

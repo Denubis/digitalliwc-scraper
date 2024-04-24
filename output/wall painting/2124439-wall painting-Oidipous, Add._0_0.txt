@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-76a42b5eefef8-d
+Oidipous, Add._0_0
+
+
+
+Monument
+	ID:	201582
+	Entdeckungsort:	Beit Tamer
+	Entdeckungsort Details:	tomb
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	rock, cliff sphinx
+	Name:	Oidipous
+	Beschreibung:	Oidipous wearing coat, with two spears, in front of the Sphinx on a high rock
+	Bibliographie:	Bacchielli, L., La tomba di Edipo a Beit Tamer in Cirenaica, ArchCl 49, 1997, 9 fig. 5. 
+Datierung
+	Periode:	300 - 400 
+Epoche
+	Name:	4. Jh. n. Chr.
+	Periode:	300 - 400 
+	Sequenznummer:	3420
+Szene
+	ID:	98555
+	Beschreibung:	Oidipous wearing coat, with two spears, in front of the Sphinx on a high rock
+Catalog LIMC
+	Artikel:	Oidipous, Add.
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	LY
+	Stadt:	Beit Tamer
+	Name:	Tombe
+	Direktor:	Prof. Patrizio Domenicucci
+	Adresse:	Via dei Vestini
+	Postleitzahl:	I-66013
+	Kontaktzenter:	Dipartimento Scienze dell'Antichità
+	Stadt des Kontaktzenters:	Chieti-Scalo
+	Rechteinhaber der Fotos:	© Beit Tamer
+	Hat die Fotorechte:	1

@@ -1,0 +1,119 @@
+http://ark.dasch.swiss/ark:/72163/080e-73bf8cffb7a2c-a
+Dionysos/Bacchus_245_1_0
+Aithiopes_41_1_0
+Semele_10c_1_0
+Zeus/Iuppiter_317_0_0
+Dionysos/Bacchus_133_1_0
+Dionysos/Bacchus_142_0_0
+Dionysos/Bacchus_245_1_0
+Eileithyia_68_0_0
+Daphnis_13_1_0
+
+
+
+Monument
+	ID:	1984
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	panther, leopard chariot youth satyr, silen elephant black (people) triumph
+	Name:	Aithiopes Daphnis Dionysos/Bacchus Eileithyia Semele Zeus/Iuppiter
+	Beschreibung:	On the front: A scene representing the Indian triumph of Bacchus, the god in his triumphal chariot drawn by two panthers, ridden by two black boys, watched by the protective eye of a young satyr; On the lid, on the left: Birth of Bacchus from Iuppiter, assisting him Mercurius and Eileithyia; In the centre: Mercurius carrying Bacchus away (to the nymphs at Nysa); On the right: Nude youth (Daphnis) with lagobolon and skin sending an old papposilen to the child Dionysos and the nymphs. To the right of Daphnis below a tree Pan sitting.
+	Bibliographie:	Lehmann-Hartleben, K./ Olsen, E. C., Dionysiac Sarcophagus in Baltimore (1942) 10. 12. 26-28. 72; Snowden, F. M. Jr., Blacks in Antiquity: Ethiopians in the Greco-Roman Experience (1970) 149-150 fig. 87.
+	Museums-URL:	https://art.thewalters.org/detail/33305/sarcophagus-with-the-triumph-of-dionysus/
+	Monument-URL:	
+Datierung
+	Periode:	190 - 200 
+Epoche
+	Name:	Ende 2. Jh. n. Chr.
+	Periode:	190 - 200 
+	Sequenznummer:	3170
+Szene
+	ID:	1924
+	Beschreibung:	A scene representing the Indian triumph of Bacchus, the god in his triumphal chariot drawn by two panthers, ridden by two black boys, watched by the protective eye of a young satyr.
+	Bibliographie:	Lehmann-Hartleben, K./ Olsen, E. C., Dionysiac Sarcophagus in Baltimore (1942) 10. 12. 26-28. 72; Snowden, F. M. Jr., Blacks in Antiquity: Ethiopians in the Greco-Roman Experience (1970) 149-150 fig. 87.
+	Sequenznummer:	10
+	Name:	Aithiopes Dionysos/Bacchus
+	Stichwort:	panther, leopard chariot youth satyr, silen elephant black (people) triumph
+	Monument-URL:	For additional images see Walters Art Museum: http://art.thewalters.org/detail/33305/sarcophagus-with-the-triumph-of-dionysus/.
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/baltimore/walters_art_museum/1924X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/baltimore/walters_art_museum/1924X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_states/baltimore/walters_art_museum/1924X102.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	245
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aithiopes
+	Katalognummer:	41
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	1925
+	Szenerieangabe:	couvercle
+	Beschreibung:	On the left: Birth of Bacchus from Iuppiter, assisting him Mercurius and Eileithyia; In the centre: Mercurius carrying Bacchus away (to the nymphs at Nysa); On the right: Nude youth (Daphnis) with lagobolon  and skin sending an old papposilen to the child Dionysos and the nymphs. To the right of Daphnis below a tree Pan sitting.
+	Sequenznummer:	20
+	Monument-URL:	Walters Art Museum: http://art.thewalters.org/detail/33305/sarcophagus-with-the-triumph-of-dionysus/
+Catalog LIMC
+	Artikel:	Semele
+	Katalognummer:	10c
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	317
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	133
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	142
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	245
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eileithyia
+	Katalognummer:	68
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Daphnis
+	Katalognummer:	13
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	23.31
+Museum
+	Land:	US
+	Stadt:	Baltimore
+	Name:	Walters Art Museum
+	Direktor:	Mrs. Kate Lau
+	Adresse:	600 North Charles Street
+	Postleitzahl:	USA-
+	Kontaktzenter:	Walters Art Museum - Photo Services
+	Stadt des Kontaktzenters:	Baltimore MD 21201-5185
+	Rechteinhaber der Fotos:	© Walters Art Museum, Baltimore
+	Kommentar:	Vorher Walters Art Gallery. Neuer Name vor 2003. Eingetragen 15.9.06.
+	Hat die Fotorechte:	1

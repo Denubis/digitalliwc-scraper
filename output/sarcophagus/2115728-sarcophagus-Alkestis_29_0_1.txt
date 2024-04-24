@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-7627a1d41ac95-e
+Alkestis_29_0_1
+
+
+
+Monument
+	ID:	45442
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	door
+	Name:	Alkestis
+	Bibliographie:	SarkRel III 1 pl. 7 no.31.
+Datierung
+	Periode:	138 - 192 
+Epoche
+	Name:	antoninisch
+	Periode:	138 - 192 
+	Sequenznummer:	1210
+Szene
+	ID:	47834
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	29
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	292
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Albani
+	Adresse:	Via della Conciliazione 30
+	Postleitzahl:	I-00193
+	Kontaktzenter:	Amministrazione Torlonia
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Phot. proprietà Principe Torlonia
+	Hat die Fotorechte:	0

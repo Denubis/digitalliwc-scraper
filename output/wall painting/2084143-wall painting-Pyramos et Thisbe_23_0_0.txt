@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-74641354ad5f0-a
+Pyramos et Thisbe_23_0_0
+
+
+
+Monument
+	ID:	13581
+	Entdeckungsort:	Ostia
+	Entdeckungsort Details:	necropolis
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Pyramos Thisbe
+	Beschreibung:	Mural painting from tomb 87 in the necropolis of d'Isola Sacra. The corpse of Pyramos lying at the feet of a tree. On the right Thisbe killing herself.
+Szene
+	ID:	13934
+	Beschreibung:	The corpse of Pyramos lying at the feet of a tree. On the right Thisbe killing herself.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Pyramos et Thisbe
+	Katalognummer:	23
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	10115
+Museum
+	Land:	IT
+	Stadt:	Ostia
+	Name:	Museo Ostiense
+	Direktor:	Dott.ssa Elvira Angeloni
+	Anrede:	Chiarissima Soprintendente,
+	Adresse:	Viale dei Romagnoli 717
+	Postleitzahl:	I-00119
+	Kontaktzenter:	Soprintendenza archeologica di Ostia
+	Stadt des Kontaktzenters:	Ostia Antica - Roma
+	Rechteinhaber der Fotos:	Archivio Fotografico della Soprintendenza Archeologica per i beni archeologici di Ostia
+	Hat die Fotorechte:	1

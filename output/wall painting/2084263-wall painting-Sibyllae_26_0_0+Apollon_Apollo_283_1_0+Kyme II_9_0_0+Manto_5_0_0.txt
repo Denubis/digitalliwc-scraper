@@ -1,0 +1,68 @@
+http://ark.dasch.swiss/ark:/72163/080e-7465ca8558a48-2
+Sibyllae_26_0_0
+Apollon/Apollo_283_1_0
+Kyme II_9_0_0
+Manto_5_0_0
+
+
+
+Monument
+	ID:	13701
+	Entdeckungsort:	Ercolano, Herculaneum, Herculanum
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Kyme II Apollon/Apollo Manto Sibyllae
+	Beschreibung:	The female prophet (Pythia, Manto or Kyme (II)) in company of Apollon.
+Szene
+	ID:	14055
+	Beschreibung:	The female prophet (Pythia, Manto or Kyme (II)) in company of Apollon.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/14055X302.jpg
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	160
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	III. 6.a. Divination, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	1920
+	Bandnummer:	3
+Catalog LIMC
+	Artikel:	Sibyllae
+	Katalognummer:	26
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	283
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kyme II
+	Katalognummer:	9
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Manto
+	Katalognummer:	5
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9530
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

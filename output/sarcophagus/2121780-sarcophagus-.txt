@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-767e27a6611c9-6
+
+
+
+Monument
+	ID:	90016
+	Entdeckungsort:	Paros (Cyclades)
+	Entdeckungsort Details:	Katapoliani
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	GR
+	Kategorie:	relief
+	Stichwort:	herm gesture of adoration child woman man
+	Name:	Hermes
+	Grössenangabe:	Y. 1 μ. Π. 1,30 μ.
+	Beschreibung:	Eρμαϊκή Στήλη. Άνδρας, παιδί.
+	Inschrift:	EΠIANAΞKΛEITOMENOY
+	Kommentar:	2775
+Szene
+	ID:	55101
+	Beschreibung:	Άνδρας κατά μέτωπο υψώνει το δ. χέρι του προς Eρμαϊκή στήλη σ τα δ. του. H στήλη επάνω σε πολύ υψηλή βάση.
+Inventar
+	Nummer:	597
+Museum
+	Land:	GR
+	Stadt:	Paros
+	Name:	Musée Archéologique
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athènes
+	Rechteinhaber der Fotos:	© Archaeological Museum of Paros
+	Hat die Fotorechte:	0

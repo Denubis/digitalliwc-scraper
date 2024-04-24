@@ -1,0 +1,52 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d8fbfe0922b-9
+Kentauroi et Kentaurides (S)_450b_0_0
+Eros/Amor, Cupido_627_1_0
+
+
+
+Monument
+	ID:	3774
+	Entdeckungsort:	Pompei
+	Objekt:	kantharos
+	Material:	silver
+	Land:	CH
+	Kategorie:	relief vase
+	Name:	Eros/Amor, Cupido Kentauroi and Kentaurides
+	Beschreibung:	Centauress with lagobolon and centaur with thyrsos and kantharos. Amores on their backs.
+Szene
+	ID:	3814
+	Beschreibung:	Centauress with lagobolon and centaur with thyrsos and kantharos. Amores on their backs.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/3814X202.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/3814X299.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	450b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	627
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	25377
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

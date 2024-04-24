@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-751b83bbd02cb-2
+Eteokles_p. 36_0_0
+
+
+
+Monument
+	ID:	26524
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eteokles
+Szene
+	ID:	27860
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Eteokles
+	Katalognummer:	p. 36
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1053
+Museum
+	Land:	IT
+	Stadt:	Chiusi
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Soprintendente Dott.ssa Fulvia Lo Schiavo
+	Adresse:	Via della Pergola 65
+	Postleitzahl:	I-50121
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici della Toscana
+	Stadt des Kontaktzenters:	Firenze
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici della Toscana
+	Hat die Fotorechte:	1

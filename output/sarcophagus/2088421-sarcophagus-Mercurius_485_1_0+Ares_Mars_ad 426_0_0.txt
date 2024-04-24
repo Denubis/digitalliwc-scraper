@@ -1,0 +1,51 @@
+http://ark.dasch.swiss/ark:/72163/080e-74a13c7553ffe-5
+Mercurius_485_1_0
+Ares/Mars_ad 426_0_0
+
+
+
+Monument
+	ID:	17904
+	Entdeckungsort:	Metz
+	Objekt:	sarcophagus
+	Material:	sandstone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Mercurius
+	Beschreibung:	Mercurius with caduceus and purse.
+Szene
+	ID:	18663
+	Beschreibung:	Mercurius with caduceus and purse.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/metz/musees_de_la_cour_d_or/18663X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/metz/musees_de_la_cour_d_or/18663X101.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	485
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ares/Mars
+	Katalognummer:	ad 426
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Espérandieu 4302
+Museum
+	Land:	FR
+	Stadt:	Metz
+	Name:	Musées de la Cour d'Or
+	Direktor:	M. le Directeur
+	Adresse:	2, Rue du Haut Poirier
+	Postleitzahl:	F-57000
+	Kontaktzenter:	Musée de la Cour d'Or, Musée d'Art et d'Histoire
+	Stadt des Kontaktzenters:	Metz
+	Rechteinhaber der Fotos:	©Musée de La Cour d'Or - Metz Métropole
+	Hat die Fotorechte:	1

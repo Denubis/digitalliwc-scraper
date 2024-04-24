@@ -1,0 +1,64 @@
+http://ark.dasch.swiss/ark:/72163/080e-7545047976fbe-4
+Hektor_113_0_1
+Achilleus_577_0_0
+Achilleus_631_0_0
+Andromache I_35_0_0
+
+
+
+Monument
+	ID:	29446
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	sword maid-servant wall, Town wall horse pilos warrior, soldier war-chariot, harma, currus
+	Name:	Achilleus Andromache I Athena Hektor Ilion Odysseus Priamos
+	Bibliographie:	Robert, SarkRel II Nr. 45; AA (1976) 103 fig. 4.
+	Monument-URL:	arachne.dainst.org/entity/1130359
+Szene
+	ID:	30894
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Hektor
+	Katalognummer:	113
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	577
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	631
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Andromache I
+	Katalognummer:	35
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel II 45
+Museum
+	Land:	IT
+	Stadt:	Firenze
+	Name:	Giardino di Boboli
+	Rechteinhaber der Fotos:	© Giardino di Boboli, Firenze
+	Hat die Fotorechte:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Cod. Coburgensis fol. 27, 205
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Direktor:	Soprintendente Prof. Adriano La Regina
+	Adresse:	Piazza S. Maria Nova 53
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza Archeologica di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	0

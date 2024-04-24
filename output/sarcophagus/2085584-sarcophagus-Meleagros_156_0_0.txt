@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-7478ad45a4fd5-4
+Meleagros_156_0_0
+
+
+
+Monument
+	ID:	15035
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Meleagros
+	Beschreibung:	Short side: Two sisters of Meleagros mourning at a garlanded tomb. Two bird fly towards the tomb.
+	Monument-URL:	http://www.limc-france.fr/objet/14444
+Szene
+	ID:	15511
+	Beschreibung:	Short side: Two sisters of Meleagros mourning at a garlanded tomb. Two bird fly towards the tomb.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/museo_archeologico/15511X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/firenze/museo_archeologico/15511X102.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	156
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1911
+Museum
+	Land:	IT
+	Stadt:	Firenze
+	Name:	Museo Archeologico
+	Direktor:	Soprintendente Dott.ssa Fulvia Lo Schiavo
+	Anrede:	Chiarissimo Soprintendente
+	Adresse:	Via della Pergola 65
+	Postleitzahl:	I-50121
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici della Toscana
+	Stadt des Kontaktzenters:	Firenze
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici della Toscana
+	Hat die Fotorechte:	1

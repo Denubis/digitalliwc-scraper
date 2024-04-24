@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-747149183a8fc-5
+Admetos I_19_1_0
+Alkestis_57_0_0
+
+
+
+Monument
+	ID:	14513
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Via Latina
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Admetos II Alkestis
+	Beschreibung:	Dying person on a kline surrounded by relatives. Not clear whether the defunct is male (Admetos I) or female (Alkestis).
+Szene
+	ID:	49169
+	Beschreibung:	Dying person on a kline surrounded by relatives. Not clear whether the defunct is male (Admetos I) or female (Alkestis).
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/via_latina/catacomba_di_via_latina/49169X202.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Admetos I
+	Katalognummer:	19
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Alkestis
+	Katalognummer:	57
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Cub. N, sin.
+Museum
+	Land:	IT
+	Stadt:	Roma, Via Latina
+	Name:	Catacomba di Via Latina
+	Rechteinhaber der Fotos:	© Catacomba di Via Latina, Roma
+	Hat die Fotorechte:	1

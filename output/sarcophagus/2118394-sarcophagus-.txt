@@ -1,0 +1,49 @@
+http://ark.dasch.swiss/ark:/72163/080e-764dbf2b3c227-6
+
+
+
+Monument
+	ID:	51405
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Beschreibung:	Sarkophag aus dem Cubiculum 47d.
+	Bibliographie:	Andreae, B., Die Sarkophage mit Darstellungen aus dem Menschenleben. die römische Jagdsarkophage (1980) n. 150 tav. 74, 2.77.
+Datierung
+	Periode:	290 - 300 
+Epoche
+	Name:	um 300 n. Chr.
+	Periode:	290 - 310 
+	Sequenznummer:	3410
+Szene
+	ID:	56580
+	Beschreibung:	Banquette scene
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	154
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 4.a. Bankett, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	1430
+	Bandnummer:	2
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	San Sebastiano, Museo II
+	Direktor:	Dott.ssa Barbara Mazzei
+	Adresse:	Via Napoleone III 1
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Pontificia Commissione di Archeologia Sacra
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Pontificia Commissione di Archeologia Sacra
+	Hat die Fotorechte:	0

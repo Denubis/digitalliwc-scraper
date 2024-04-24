@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-745be232aebff-4
+Psyche_48_1_0
+Herakles_ad 3263_0_0
+
+
+
+Monument
+	ID:	13004
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Herakles Psyche
+	Beschreibung:	Herakles with garland.
+Szene
+	ID:	13325
+	Beschreibung:	Herakles with garland.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/norway/oslo/nasjonalgalleriet/13325X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/norway/oslo/nasjonalgalleriet/13325X002.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Psyche
+	Katalognummer:	48
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	ad 3263
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1254
+Museum
+	Land:	NO
+	Stadt:	Oslo
+	Name:	Nasjonalgalleriet
+	Rechteinhaber der Fotos:	© Nasjonalgalleriet Oslo
+	Hat die Fotorechte:	1

@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-74676bc061c02-b
+Sarapis_122_0_0
+
+
+
+Monument
+	ID:	13817
+	Entdeckungsort:	Kertch, Pantikapaion
+	Entdeckungsort Details:	tomb
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Sarapis
+Szene
+	ID:	14174
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Sarapis
+	Katalognummer:	122
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	UA
+	Stadt:	Kerch
+	Name:	Necropolis of Pantikapaion
+	Rechteinhaber der Fotos:	© Kerch
+	Hat die Fotorechte:	1

@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-74febffabaa7f-0
+Iason_44_0_0
+
+
+
+Monument
+	ID:	24494
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Iason
+	Beschreibung:	Helmeted, nude, Iason seen from the back. Iason grasps the fleece with his right hand while Medeia at right feeds an apple to the snake.
+Datierung
+	Periode:	130 - 160 
+Szene
+	ID:	25701
+	Beschreibung:	Helmeted, nude, Iason seen from the back. Iason grasps the fleece with his right hand while Medeia at right feeds an apple to the snake.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/25701X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/museo_nazionale_romano/25701X399.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Iason
+	Katalognummer:	44
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8647
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Romano
+	Direktor:	Soprintendente Dott. Giuseppe Proietti
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali - Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

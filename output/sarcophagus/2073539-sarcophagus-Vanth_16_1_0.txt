@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-73cc79907d9d4-7
+Vanth_16_1_0
+
+
+
+Monument
+	ID:	2895
+	Entdeckungsort:	Orvieto
+	Objekt:	sarcophagus
+	Material:	tufa
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Vanth
+	Beschreibung:	Charun and Vanth.
+Szene
+	ID:	2916
+	Beschreibung:	Charun and Vanth.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/orvieto/museo_civico/2916X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Vanth
+	Katalognummer:	16
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Orvieto
+	Name:	Museo Civico
+	Direktor:	Egregio Presidente dell'Opera del Duomo
+	Adresse:	Piazza Duomo 26
+	Postleitzahl:	I-05018
+	Kontaktzenter:	Museo Civico (ex Museo dell'Opera del Duomo)
+	Stadt des Kontaktzenters:	Orvieto
+	Rechteinhaber der Fotos:	© Museo Civico Orvieto
+	Hat die Fotorechte:	1

@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-7620b66dac421-f
+Adonis_43_1_0
+
+
+
+Monument
+	ID:	44948
+	Entdeckungsort:	Pompei
+	Objekt:	slab
+	Material:	ivory
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	tree stick, cane seat, chair, sedes, sedile old man
+	Name:	Adonis Aphrodite/Venus
+	Bibliographie:	Lehmann, Ph. W., Roman Wall Paintings from Boscoreale (1953) 57-58 fig. 38.
+Datierung
+	Periode:	-50 
+	Kommentar:	about
+Epoche
+	Name:	Mitte 1. Jh. v. Chr.
+	Periode:	-60 - -40 
+	Sequenznummer:	2870
+Szene
+	ID:	47295
+Catalog LIMC
+	Artikel:	Adonis
+	Katalognummer:	43
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

@@ -1,0 +1,74 @@
+http://ark.dasch.swiss/ark:/72163/080e-7597da0980468-f
+Eros/Amor, Cupido_521_0_0
+Eros/Amor, Cupido_590_0_0
+Mousa, Mousai/Musae (vol. VII)_99_0_0
+Narkissos, Add._0_0
+Narkissos, Add._0_0
+
+
+
+Monument
+	ID:	35294
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 16,22 (House of M. Fabius Rufus)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	cup hydria
+	Name:	Eros Narkissos Eros/Amor, Cupido Mousa, Mousai
+	Beschreibung:	youth sitting on a rock; with two spears in his left hand; Narkissos?; in front of him Eros pouring water from a hydria into a bowl
+	Bibliographie:	PompPittMos VII (1997) 1072. 1102 fig. 249 (Narkissos, Add. 13). 306 (Narkissos, Add. 3); Hodske, J., Mythologische Bildthemen in den Häusern Pompejis. Die Bedeutung der zentralen Mythenbildern für die Bewohner Pompejis (2007) 167 cat. no. 566 pl. 42, 3 (Narkissos, Add. 3). 170 cat. no. 560 pl.47, 3 (Narkissos, Add. 13).
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	37127
+	Beschreibung:	youth sitting on a rock; with two spears in his left hand; Narkissos?; in front of him Eros pouring water from a hydria into a bowl
+	Sequenznummer:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	521
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	590
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	99
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Narkissos, Add.
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Narkissos, Add.
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa di M. Fabius Rufus
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VII 16,17.20-22 (già VII is.occ. 17.20-22)

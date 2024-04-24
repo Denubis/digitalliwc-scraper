@@ -1,0 +1,25 @@
+http://ark.dasch.swiss/ark:/72163/080e-76aec35eab231-6
+
+
+
+Monument
+	ID:	202290
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Bibliographie:	Scarani Ussani, V. (ed.), Moregine. Suburbio "portuale" di Pompei (2005) 133-134; D'Ambrosio, A. (ed.), Storia di un'eruzione. Pompei, Ercolano, Oplontis (2003)
+Szene
+	ID:	99287
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Triclinium C (parete Est)
+Museum
+	Land:	IT
+	Stadt:	Moregine - Pompei
+	Direktor:	Soprintendente Dott. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

@@ -1,0 +1,30 @@
+http://ark.dasch.swiss/ark:/72163/080e-7513a6c769d8d-4
+Gorgones Romanae_15_0_0
+
+
+
+Monument
+	ID:	25968
+	Entdeckungsort:	Kertch, Pantikapaion
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Gorgo, Gorgones
+	Beschreibung:	Gorgoneion in three-quarter view.
+Szene
+	ID:	27267
+	Beschreibung:	Gorgoneion in three-quarter view.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Gorgones Romanae
+	Katalognummer:	15
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	UA
+	Stadt:	Kerch
+	Name:	Necropolis of Pantikapaion
+	Rechteinhaber der Fotos:	© Kerch
+	Hat die Fotorechte:	1

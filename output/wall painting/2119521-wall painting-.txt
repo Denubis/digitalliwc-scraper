@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-765ddbe56286a-d
+
+
+
+Monument
+	ID:	52619
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Grössenangabe:	B 167 cm, H 176.8 cm
+	Beschreibung:	Thronende Isis und Osiris, umgeben von Schlangen und anderen Tieren.
+	Bibliographie:	Elia, O., Le pitture di Iside (1941) fig. 25-26; Tran tam Tinh, V., Essai sur le culte d’Isis à Pompe (1964) 142-145 tav. VII-X; Alla ricerca di Iside (1992) 59 Nr. 1.71.
+	Kommentar:	Neapel 8927 gehört dazu (Isis und Sarapis)
+Szene
+	ID:	57872
+Catalog Thes CRA
+	Indexnummer:	23
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Iseum et Serapeum
+	Lemata:	Iseum et Serapeum
+	Sequenznummer:	3680
+	Bandnummer:	4
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	unknown
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

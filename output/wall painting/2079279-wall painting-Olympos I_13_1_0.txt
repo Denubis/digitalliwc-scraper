@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-741e897dd36f0-a
+Olympos I_13_1_0
+
+
+
+Monument
+	ID:	8676
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Olympos I
+	Beschreibung:	Marsyas seated, fluting. Olympos (I) stands before him.
+Szene
+	ID:	8875
+	Beschreibung:	Marsyas seated, fluting. Olympos (I) stands before him.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/8875X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Olympos I
+	Katalognummer:	13
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9141
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-75827323f476b-e
+Diomedes I_70_1_0
+
+
+
+Monument
+	ID:	33782
+	Entdeckungsort:	Perge (Pamphylia)
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Diomedes I Odysseus
+	Beschreibung:	Diomedes (I) moves left, looking left, chlamys wrapped around his left arm. Odysseus with pilos stands looking slightly to his right, right hand to chin, chlamys over left arm and shoulder.
+Szene
+	ID:	35517
+	Beschreibung:	Diomedes (I) moves left, looking left, chlamys wrapped around his left arm. Odysseus with pilos stands looking slightly to his right, right hand to chin, chlamys over left arm and shoulder.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Diomedes I
+	Katalognummer:	70
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	668
+Museum
+	Land:	TR
+	Stadt:	Antalya
+	Name:	Musée Archéologique
+	Direktor:	Prof. Kutalmis Görkay
+	Adresse:	Dil ve Tarih, Cografya Fakültesi
+	Postleitzahl:	TR-06100
+	Kontaktzenter:	Ankara Üniversitesi
+	Stadt des Kontaktzenters:	Sihhiye Ankara / Türkei
+	Rechteinhaber der Fotos:	© Archaeological Museum Antalya
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	A 835-836

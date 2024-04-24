@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-749af5c125b2b-4
+Mercurius_215_0_1
+
+
+
+Monument
+	ID:	17457
+	Entdeckungsort:	Ostia
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Mercurius
+	Beschreibung:	Standing Mercurius with caduceus.
+Szene
+	ID:	18175
+	Beschreibung:	Standing Mercurius with caduceus.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	215
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	VA
+	Stadt:	Vaticano
+	Name:	Biblioteca Apostolica Vaticana, Sala delle Nozze Aldobrandine
+	Direktor:	Prefetto Raffaele Farina, S. D. B.
+	Anrede:	Reverendissimo Prefetto
+	Postleitzahl:	I-00120
+	Kontaktzenter:	Biblioteca Apostolica Vaticana
+	Stadt des Kontaktzenters:	Città del Vaticano
+	Rechteinhaber der Fotos:	© Biblioteca Apostolica Vaticana
+	Hat die Fotorechte:	1

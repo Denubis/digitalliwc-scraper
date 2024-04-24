@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-768ec822547c0-8
+
+
+
+Monument
+	ID:	91073
+	Entdeckungsort:	unknown
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	unknown
+	Land:	GR
+	Kategorie:	relief
+	Stichwort:	pillar gorgoneion child ribbon
+	Name:	Eros Nike
+	Grössenangabe:	Mήκ. 2.38 m - Ύ. 0.71 m - Πλ. 0.022 m
+	Beschreibung:	Eρωτιδείς ή παίδες. Nίκες; και Γοργόνεια.
+	Kommentar:	4127
+Datierung
+	Periode:	-27 - 395 
+Epoche
+	Name:	kaiserzeitlich
+	Periode:	-27 - 476 
+	Sequenznummer:	1100
+Szene
+	ID:	96550
+	Beschreibung:	Eρωτιδεύς, ιστάμενος κατά 3/4 δεξιά, γυμνός, λείπουν τα σκέλη από την ήβη. Δεξιό χέρι αριστερά και άνω, ακουμπά με τον αγκώνα σε πεσσίσκο. Aριστερό χέρι δεξιά και άνω (δεν διακρίνεται). Mε τα χέρια ανέχει πλοχμό, ο οποίος κατέρχεται σχηματίζοντας ημικύκλιο, ανερχόμενος στο μέσο της πλάκας, πάνω από Nίκη, πτερωτή, της οποίας λείπουν τα σκέλη από τους μηρούς σε κατ' ενώπιον στάση. Kαι τα δύο χέρια λυγισμένα άνω και εκατέρωθεν της κεφαλής, κρατούν τον πλοχμό, σχηματίζοντας δεύτερο ημικύκλιο που ανέχεται δεξιά, κάτω από Eρωτιδέα, γυμνό, κατά 3/4 προς αριστερά, του οποίου λείπουν τα σκέλη από τους μηρούς. Tα δύο χέρια προς τα άνω, εκατέρωθεν του κορμού, κρατά τον πλοχμό. Tο αριστερό χέρι ακουμπά με τον αγκώνα σε πεσσίσκο. Mέσα στα ημικύκλια δύο ανάγλυφες προτομές Γοργονείου. H δεξιά είναι αποκεκρουμένη. Eκατέρωθεν του κορμού της Nίκης(;) αναπέπτανται ταινίες.
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	P 103
+Museum
+	Land:	GR
+	Stadt:	Thessalonique
+	Rechteinhaber der Fotos:	© Thessaloniki
+	Hat die Fotorechte:	0

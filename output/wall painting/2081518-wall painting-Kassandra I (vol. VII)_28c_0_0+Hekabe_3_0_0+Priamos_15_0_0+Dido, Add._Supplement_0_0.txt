@@ -1,0 +1,69 @@
+http://ark.dasch.swiss/ark:/72163/080e-743e8c0c0aceb-3
+Kassandra I (vol. VII)_28c_0_0
+Hekabe_3_0_0
+Priamos_15_0_0
+Dido, Add._Supplement_0_0
+
+
+
+Monument
+	ID:	10939
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 3,7 (Accademia della Musica)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	sword ship, boat
+	Name:	Dido Hekate Kassandra I Priamos Anna Hekabe
+	Beschreibung:	group of women; behind them the leaving ship of Aineias; Dido with the sword of Aineias on her knees. In a sanctuary Hekabe with a baby while Kassandra stands prophesying before a table. Priamos depicted as warrior watches her.
+	Bibliographie:	EAA PPM IV (1993) 285-287 fig. 16.18; Strocka, V. M., Troja, Karthago, Rom. Ein vorvergilisches Bildprogramm in Terzigno bei Pompeji, RM 112, 2005/06, 100 fig. 19.
+Datierung
+	Periode:	-15 - 63 
+	Kommentar:	lateaugustan
+Epoche
+	Name:	3. pompejanischer Stil
+	Periode:	-15 - 63 
+	Sequenznummer:	1340
+Szene
+	ID:	11181
+	Beschreibung:	group of women; behind them the leaving ship of Aineias; Dido with the sword of Aineias on her knees. In a sanctuary Hekabe with a baby while Kassandra stands prophesying before a table. Priamos depicted as warrior watches her.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Kassandra I (vol. VII)
+	Katalognummer:	28c
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hekabe
+	Katalognummer:	3
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Priamos
+	Katalognummer:	15
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dido, Add.
+	Band:	Supplement
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VI 3,7
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Accademia della Musica

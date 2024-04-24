@@ -1,0 +1,183 @@
+http://ark.dasch.swiss/ark:/72163/080e-73cd3f3331162-2
+Vanth_48_0_1
+Hades/Aita, Calu_6_1_0
+Nekyia (S)_7b_0_0
+Agamemnon_101_1_0
+Geryoneus_25_1_0
+Peirithoos_86_0_0
+Persephone/Phersipnai_8_0_0
+Poine_6a_0_0
+Sisyphos I_27_1_1
+Theseus/These_39_1_1
+Tuchulcha_1_0_0
+Teiresias (S)_5_0_0
+Odysseus/Uthuze_58_0_0
+Kyklops, Kyklopes_26_1_0
+Achle_147_0_0
+
+
+
+Monument
+	ID:	2950
+	Entdeckungsort:	Tarquinia
+	Entdeckungsort Details:	Tomba dell'Orco II
+	Objekt:	wall painting
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	sceptre fillet, taenia, tainia plant
+	Name:	Achilleus/Achle Agamemnon Geryoneus Hades/Aita, Calu Kyklopes Odysseus/Uthuze Peirithoos Persephone/Phersipnai Poine Sisyphos I Teiresias Theseus/These Tuchulcha Vanth Nekyia
+	Beschreibung:	Aita and Persphnai on thrones; Achilleus in Hades. Above a rock carried by Sisyphos (I) the remains of a winged daemon with inscription Tupi Sispes (Poine?). Teiresias stands between Agamemnon and Aias (I). Peirithoos, Tuchulcha and These. On the back winged Vanth with snakes.
+	Bibliographie:	Weege, F., Etruskische Malerei (1921) 28-29 fig. 24 pl. 64; Messerschmidt, F., JdI Erg.-Heft 12, 1930, 155; Messerschmidt, F., JdI 45, 1930, 82-90 fig. 27-28; Bianchi Bandinelli, R./ Torelli, M., Etruria-Roma (1976) 150.
+Datierung
+	Periode:	-325 - -300 
+Epoche
+	Name:	4. Viertel 4. Jh. v. Chr.
+	Periode:	-325 - -300 
+	Sequenznummer:	2520
+Szene
+	ID:	2973
+	Beschreibung:	Aita and Persphnai on thrones; Achilleus in Hades. Above a rock carried by Sisyphos (I) the remains of a winged daemon with inscription Tupi Sispes (Poine?). Teiresias stands between Agamemnon and Aias (I). Peirithoos, Tuchulcha and These. On the back winged Vanth with snakes.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/necropoli/2973X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/necropoli/2973X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/necropoli/2973X005.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/necropoli/2973X006.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/necropoli/2973X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/necropoli/2973X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/necropoli/2973X103.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/necropoli/2973X104.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/necropoli/2973X105.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/necropoli/2973X106.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/necropoli/2973X107.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/necropoli/2973X397.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/tarquinia/necropoli/2973X399.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	15
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VIII. Tiere und Pflanzen, etr.
+	Bandnummer:	8
+Catalog LIMC
+	Artikel:	Vanth
+	Katalognummer:	48
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Hades/Aita, Calu
+	Katalognummer:	6
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Nekyia (S)
+	Katalognummer:	7b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Agamemnon
+	Katalognummer:	101
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Geryoneus
+	Katalognummer:	25
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Peirithoos
+	Katalognummer:	86
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Persephone/Phersipnai
+	Katalognummer:	8
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Poine
+	Katalognummer:	6a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Sisyphos I
+	Katalognummer:	27
+	Asterix:	1
+	Dot:	1
+Catalog LIMC
+	Artikel:	Theseus/These
+	Katalognummer:	39
+	Asterix:	1
+	Dot:	1
+Catalog LIMC
+	Artikel:	Tuchulcha
+	Katalognummer:	1
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Teiresias (S)
+	Katalognummer:	5
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Odysseus/Uthuze
+	Katalognummer:	58
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kyklops, Kyklopes
+	Katalognummer:	26
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achle
+	Katalognummer:	147
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba dell'Orco II
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Necropoli
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

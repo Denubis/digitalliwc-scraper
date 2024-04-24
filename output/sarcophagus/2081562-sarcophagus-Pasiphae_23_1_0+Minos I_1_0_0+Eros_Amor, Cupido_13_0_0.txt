@@ -1,0 +1,63 @@
+http://ark.dasch.swiss/ark:/72163/080e-743f2d155aac7-8
+Pasiphae_23_1_0
+Minos I_1_0_0
+Eros/Amor, Cupido_13_0_0
+
+
+
+Monument
+	ID:	10984
+	Entdeckungsort:	Italy
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido Minos I Pasiphae
+	Beschreibung:	The long side of the sarkophagus is divided into three vertical sections, each overlapping the next. The ends of the sarcophagus are framed by Erotes, one on either side. From left to right: 1) Pasiphae commissionong Daidalos. Pasiphae enthroned, Eros beside her, Daidalos in relaxed pose. 2) Daidalos and artisans building the mechanical cow. 3) Daidalos presenting the mechanical cow to Paisphae. The short side panels bear Minos standing in front of a temple or shrine of Poseidon. The old woman has been identified as Minos' mother Europa. On the other minor side three youths identified as Katreus, Deukalion and Androgeos (sons of Minos and Pasiphae).
+Datierung
+	Periode:	150 
+Szene
+	ID:	11232
+	Beschreibung:	The long side of the sarkophagus is divided into three vertical sections, each overlapping the next. The ends of the sarcophagus are framed by Erotes, one on either side. From left to right: 1) Pasiphae commissionong Daidalos. Pasiphae enthroned, Eros beside her, Daidalos in relaxed pose. 2) Daidalos and artisans building the mechanical cow. 3) Daidalos presenting the mechanical cow to Paisphae. The short side panels bear Minos standing in front of a temple or shrine of Poseidon. The old woman has been identified as Minos' mother Europa. On the other minor side three youths identified as Katreus, Deukalion and Androgeos (sons of Minos and Pasiphae).
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/11232X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/11232X201.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Pasiphae
+	Katalognummer:	23
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Minos I
+	Katalognummer:	1
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	13
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 1033
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	MA 1390

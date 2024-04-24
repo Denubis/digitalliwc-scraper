@@ -1,0 +1,76 @@
+http://ark.dasch.swiss/ark:/72163/080e-74531eab21b46-f
+Mousa, Mousai/Musae (vol. VII)_157_0_0
+Apollon/Apollo_399_0_0
+Mousa, Mousai/Musae (vol. VII)_182_0_0
+Mousa, Mousai/Musae (vol. VII)_218_0_0
+Mousa, Mousai/Musae (vol. VII)_231_0_0
+Mercurius_339_0_0
+
+
+
+Monument
+	ID:	12389
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Mercurius Mousa, Mousai
+	Beschreibung:	Minor side: Rape of Marsyas. Mercurius in the background.
+Szene
+	ID:	12689
+	Beschreibung:	Minor side: Rape of Marsyas. Mercurius in the background.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/san_paolo_fuori_le_mura/12689X301.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/san_paolo_fuori_le_mura/12689X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/san_paolo_fuori_le_mura/12689X303.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/san_paolo_fuori_le_mura/12689X304.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	157
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	399
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	182
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	218
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	231
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	339
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel V 3, 184
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	San Paolo fuori le Mura
+	Rechteinhaber der Fotos:	© Soprindentenza SPSAE e Polo Museale della Città di Roma
+	Hat die Fotorechte:	0

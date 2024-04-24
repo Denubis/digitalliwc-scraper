@@ -1,0 +1,56 @@
+http://ark.dasch.swiss/ark:/72163/080e-765c9d7bb3277-4
+
+
+
+Monument
+	ID:	52524
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	Triangular Forum
+	Objekt:	puteal
+	Land:	CH
+	Kategorie:	architecture
+	Beschreibung:	Doric temple, monopteros, in the centre a puteal (enclosure aroung a draw-well, a sacred place)
+	Bibliographie:	Verzar, M., L’Umbelicus Urbis. Il Mundus in età tardo-repubblicana, DdA 9-10 (1976-1977) 395-396; De Waele, J.A.K.E. (ed.), Il tempio dorico del  Foro Triangolare  di Pompei (2001) 322-325 fig. 425.
+Szene
+	ID:	57779
+	Beschreibung:	Doric temple, monopteros, in the centre a puteal (enclosure aroung a draw-well, a sacred place)
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	4
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Puteal
+	Lemata:	Puteal
+	Sequenznummer:	3960
+	Bandnummer:	4
+Catalog Thes CRA
+	Indexnummer:	8
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm. 
+	Kurzname:	Mundus
+	Lemata:	Mundus
+	Sequenznummer:	3800
+	Bandnummer:	4
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Monopteros
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Name:	Foro Triangolare
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

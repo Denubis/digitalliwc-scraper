@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d953d491ca3-c
+Kentauroi et Kentaurides (S)_457a_0_0
+Dionysos/Bacchus (in per. occ.) (vol. IV)_125_0_0
+Hypnos/Somnus_119_0_0
+
+
+
+Monument
+	ID:	3798
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dionysos/Bacchus Hypnos/Somnus Kentauroi and Kentaurides
+	Beschreibung:	Centaur playing the lyra. With Dionysos.
+Szene
+	ID:	3838
+	Beschreibung:	Centaur playing the lyra. With Dionysos.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	457a
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus (in per. occ.) (vol. IV)
+	Katalognummer:	125
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	119
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	FR
+	Stadt:	Cadenet
+	Name:	Eglise
+	Rechteinhaber der Fotos:	© Cadenet
+	Hat die Fotorechte:	1

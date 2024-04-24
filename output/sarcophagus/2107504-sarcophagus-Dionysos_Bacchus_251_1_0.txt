@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-75b20eaa853f5-c
+Dionysos/Bacchus_251_1_0
+
+
+
+Monument
+	ID:	37143
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dionysos/Bacchus Herakles
+	Beschreibung:	Bacchus enthroned on a chariot drawn by tigers, in front of him his thiasos and Herakles.
+Szene
+	ID:	39041
+	Beschreibung:	Bacchus enthroned on a chariot drawn by tigers, in front of him his thiasos and Herakles.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_savoia/39041X001.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	251
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel IV 2, 160
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Savoia
+	Rechteinhaber der Fotos:	© Roma
+	Hat die Fotorechte:	1

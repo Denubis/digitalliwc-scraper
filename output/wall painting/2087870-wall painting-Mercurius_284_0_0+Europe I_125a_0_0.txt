@@ -1,0 +1,45 @@
+http://ark.dasch.swiss/ark:/72163/080e-74995bd7fd4fb-b
+Mercurius_284_0_0
+Europe I_125a_0_0
+
+
+
+Monument
+	ID:	17344
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	I 8,8 (Thermopolium)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Europe I Mercurius
+	Beschreibung:	Europe (I), half naked, sitting on the bull, and three girls. Mercurius.
+	Kommentar:	= Fiche 51639; ausführliche Angaben siehe dort!
+Szene
+	ID:	18392
+	Beschreibung:	Europe (I), half naked, sitting on the bull, and three girls. Mercurius.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	284
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Europe I
+	Katalognummer:	125a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	I 8,8-9
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1

@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-73f21325d1fb2-0
+Pan (S)_156_0_0
+
+
+
+Monument
+	ID:	5540
+	Entdeckungsort:	Rome
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Pan
+	Beschreibung:	Girl with a hare seated before a dressed Pan herm.
+Szene
+	ID:	5632
+	Beschreibung:	Girl with a hare seated before a dressed Pan herm.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Pan (S)
+	Katalognummer:	156
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1188
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Museo Nazionale Romano
+	Direktor:	Soprintendente Dott. Giuseppe Proietti
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Piazza dei Cinquecento 67
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali - Soprintendenza Archeologica di Roma
+	Hat die Fotorechte:	1

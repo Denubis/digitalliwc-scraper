@@ -1,0 +1,65 @@
+http://ark.dasch.swiss/ark:/72163/080e-7512dd7bc603a-b
+Achilleus_759_0_0
+Amazones_193_0_0
+
+
+
+Monument
+	ID:	25912
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	horse pilos warrior, soldier fight, battle rider
+	Name:	Achilleus Odysseus Penthesileia Amazones
+	Bibliographie:	SarkRel II Nr. 76 Taf 31. 37; Redlich, R., Die Amazonensarkophage des 2. und 3. Jh. n. Chr. (1942) 15-17 Taf. 1.
+Datierung
+	Periode:	175 - 200 
+Epoche
+	Name:	4. Viertel 2. Jh. n. Chr.
+	Periode:	175 - 200 
+	Sequenznummer:	3230
+Szene
+	ID:	34870
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	759
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	193
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Sk 1878 + Roma, DAI
+Museum
+	Land:	DE
+	Stadt:	Berlin
+	Name:	Staatliche Museen zu Berlin, Antikensammlung
+	Direktor:	Dir. Prof. Dr. Andreas Scholl
+	Anrede:	Sehr geehrter Herr Professor,
+	Adresse:	Bodestrasse 1-3
+	Postleitzahl:	D-10178
+	E-Mail:	ant@smb.spk-berlin.de
+	Kontaktzenter:	Antikensammlung, Staatliche Museen zu Berlin - Preussischer Kulturbesitz
+	Stadt des Kontaktzenters:	Berlin
+	Rechteinhaber der Fotos:	© Staatliche Museen zu Berlin, Antikensammlung
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	+ Berlin, Staatliche Museen, Antikensammlung Sk 1878
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Deutsches Archäologisches Institut
+	Direktor:	Dr. Sylvia Diebner
+	Adresse:	Via Curtatone 4d
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Deutsches Archäologisches Institut  (DAI)
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Deutsches Archäologisches Institut (DAI)
+	Hat die Fotorechte:	1

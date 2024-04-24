@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-76ad6b56693db-e
+Demeter, Add._Supplement_0_0
+
+
+
+Monument
+	ID:	202183
+	Entdeckungsort:	Kertch, Pantikapaion
+	Entdeckungsort Details:	Crypt of Demeter
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	wreath, crown, stephane, corona garland branch pomegranate poppy fruit
+	Name:	Demeter Hades Hermes Kalypso Persephone Kore
+	Beschreibung:	Polychrome painting representing the bust of Demeter (inscribed) frontal, dressed in a chiton within a medaillon; other scenes in the crypt are the kidnapping of Kore/Persephone by Plouton (inscribed), a representation of Hermes and Kalypso (both inscribed), poppies, pomegranate branches, garlands of laurel
+	Bibliographie:	Rostovtsev, M. I., Antichnaya decorativnaya zhivopis na yuge Rossii (1914) 202. 205 Pl. 57. 59, 1; Rostovtev, M. I., Ancient decorative wall-painting, JHS 39, 1919, 144-153; Zinko, E. A., The crypt Demetra (1999).
+Datierung
+	Periode:	1 - 100 
+Epoche
+	Name:	1. Jh. n. Chr.
+	Periode:	1 - 100 
+	Sequenznummer:	3000
+Szene
+	ID:	99179
+	Beschreibung:	Polychrome painting representing the bust of Demeter (inscribed) frontal, dressed in a chiton within a medaillon; other scenes in the crypt are the kidnapping of Kore/Persephone by Plouton (inscribed), a representation of Hermes and Kalypso (both inscribed), poppies, pomegranate branches, garlands of laurel
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Demeter, Add.
+	Band:	Supplement
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Crypt of Demeter
+Museum
+	Land:	UA
+	Stadt:	Kerch
+	Name:	Necropolis of Pantikapaion
+	Rechteinhaber der Fotos:	© Kerch
+	Hat die Fotorechte:	1

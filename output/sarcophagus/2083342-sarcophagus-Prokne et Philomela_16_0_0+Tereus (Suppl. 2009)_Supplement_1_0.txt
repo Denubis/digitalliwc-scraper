@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-74589fbc9c88b-2
+Prokne et Philomela_16_0_0
+Tereus (Suppl. 2009)_Supplement_1_0
+
+
+
+Monument
+	ID:	12774
+	Entdeckungsort:	Intercisa
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Name:	Prokne Philomela
+	Beschreibung:	Tereus, bearded, nude, with Thracian coat (zeira) around his shoulders pursuing Prokne and Philomele; between Tereus and the women a tilted over table; head of Itys next to it
+Szene
+	ID:	13083
+	Beschreibung:	Tereus, bearded, nude, with Thracian coat (zeira) around his shoulders pursuing Prokne and Philomele; between Tereus and the women a tilted over table; head of Itys next to it
+	Sequenznummer:	10
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Prokne et Philomela
+	Katalognummer:	16
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Tereus (Suppl. 2009)
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	22.1905.26
+Museum
+	Land:	HU
+	Stadt:	Budapest
+	Name:	Musée National Hongrois (Magyar Nemzeti Múzeum)
+	Direktor:	Dir. Dr. Tibor Kovács
+	Anrede:	Dear Dr. Kovács
+	Adresse:	Múzeum Krt. 14-16
+	Postleitzahl:	H-1088
+	Kontaktzenter:	Musée National Hongrois (Magyar Nemzeti Múzeum)
+	Stadt des Kontaktzenters:	Budapest
+	Rechteinhaber der Fotos:	© Magyar Nemzeti Múzeum, Budapest
+	Hat die Fotorechte:	1

@@ -1,0 +1,69 @@
+http://ark.dasch.swiss/ark:/72163/080e-74d3b04ebc8ab-8
+Homonoia/Concordia_83_1_0
+
+
+
+Monument
+	ID:	21461
+	Entdeckungsort:	unknown
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Name:	Homonoia/Concordia
+	Grössenangabe:	B: 212 cm
+	Beschreibung:	Römischer Feldherrensarkophag mit der Darstellung
+	Bibliographie:	Antikenmuseum Berlin (1988), 16-17.
+	Kommentar:	Der Sarkophag stand schon im 16. Jahrhundert in Empoli und wurde 1987 bei Sotheby’s in New York versteigert.
+	Museums-URL:	http://www.smb-digital.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=677423&viewType=detailView
+Datierung
+	Periode:	190 - 210 
+Epoche
+	Name:	um 200 n. Chr.
+	Periode:	190 - 210 
+	Sequenznummer:	3270
+Szene
+	ID:	22419
+	Szenerieangabe:	face principale
+	Beschreibung:	Der Sarkophag wird durch eine schmale Säule in der Mitte in eine reale Welt (links) und eine mythologische Welt (rechts) aufgeteilt. In der linken Bildhälfte sieht man den Verstorbenen als Volstrecker der römischer Kardinaltugenden. Er uns seiner Frau beim Opfern als Sinnbild der Eintracht in der Ehe (Concordia) und als ein die Frömmigkeit (Pietas) verteidigender Feldherr. Die rechte Bildhälfte hingegen zeigt den Mythos des auf der Jagd tödlich verwundeten Adonis.
+	Sequenznummer:	10
+	Name:	Adonis
+	Stichwort:	boar sacrifice hunt
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/berlin/staatliche_museen_zu_berlin/antikensammlung/22419X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Homonoia/Concordia
+	Katalognummer:	83
+	Asterix:	1
+	Dot:	0
+Szene
+	ID:	56892
+	Szenerieangabe:	côté g.
+	Beschreibung:	Opferzug mit geschmücktem Stier
+	Sequenznummer:	10
+	Stichwort:	bull
+Szene
+	ID:	56893
+	Szenerieangabe:	côté dr.
+	Beschreibung:	Ein Jagdtreiber stöbert den Eber auf.
+	Sequenznummer:	10
+	Stichwort:	boar hunt
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Inv 1987.2
+Museum
+	Land:	DE
+	Stadt:	Berlin
+	Name:	Staatliche Museen zu Berlin, Antikensammlung
+	Direktor:	Dir. Prof. Dr. Andreas Scholl
+	Anrede:	Sehr geehrter Herr Professor,
+	Adresse:	Bodestrasse 1-3
+	Postleitzahl:	D-10178
+	E-Mail:	ant@smb.spk-berlin.de
+	Kontaktzenter:	Antikensammlung, Staatliche Museen zu Berlin - Preussischer Kulturbesitz
+	Stadt des Kontaktzenters:	Berlin
+	Rechteinhaber der Fotos:	© Staatliche Museen zu Berlin, Antikensammlung
+	Hat die Fotorechte:	1

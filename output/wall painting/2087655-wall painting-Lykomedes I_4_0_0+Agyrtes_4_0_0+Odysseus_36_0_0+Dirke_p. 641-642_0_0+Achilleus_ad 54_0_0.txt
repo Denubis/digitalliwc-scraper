@@ -1,0 +1,86 @@
+http://ark.dasch.swiss/ark:/72163/080e-749648f61fc88-7
+Lykomedes I_4_0_0
+Agyrtes_4_0_0
+Odysseus_36_0_0
+Dirke_p. 641-642_0_0
+Achilleus_ad 54_0_0
+
+
+
+Monument
+	ID:	17128
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 9,6 (House of the Dioskouroi)
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	lyre sceptre sword music trumpet, tuba, salpinx door palace
+	Name:	Achilleus Agyrtes Cheiron Dirke Lykomedes I Odysseus
+	Beschreibung:	Discovery of Achilleus in front of the kings' palace in Skyros. In the open door the bearded Lykomedes (I) surrounded by soldiers watching the tumult.
+	Bibliographie:	HBr pl. 5; Rizzo, PER pl.57; Schefold, WP 117; Schefold, K., Pompeianische Malerei (1952) pl. 39; CMV, GrH fig. 124-125; Ferrari, O., et al., Le Collezioni del Museo Nazionale di Napoili (1986) no. 205. 
+Datierung
+	Periode:	1 - 100 
+	Kommentar:	(Agyrtes, Odysseus)
+Epoche
+	Name:	1. Jh. n. Chr.
+	Periode:	1 - 100 
+	Sequenznummer:	3000
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	17817
+	Beschreibung:	Discovery of Achilleus in front of the kings' palace in Skyros. In the open door the bearded Lykomedes (I) surrounded by soldiers watching the tumult.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/17817X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/17817X205.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Lykomedes I
+	Katalognummer:	4
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Agyrtes
+	Katalognummer:	4
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Odysseus
+	Katalognummer:	36
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dirke
+	Katalognummer:	p. 641-642
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	ad 54
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9110
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

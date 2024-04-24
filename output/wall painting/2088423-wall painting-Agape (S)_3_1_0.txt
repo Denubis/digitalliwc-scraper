@@ -1,0 +1,48 @@
+http://ark.dasch.swiss/ark:/72163/080e-74a143c734b88-d
+Agape (S)_3_1_0
+
+
+
+Monument
+	ID:	17906
+	Entdeckungsort:	Rome
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Agape
+	Beschreibung:	Mural painting in the Catacombs of SS. Marcellino e Pietro. Four men reclining, in front of them a table with fish. On the right Agape standing.
+	Inschrift:	AGAPE MISCE
+Datierung
+	Periode:	300 - 350 
+Szene
+	ID:	18665
+	Beschreibung:	Mural painting in the Catacombs of SS. Marcellino e Pietro. Four men reclining, in front of them a table with fish. On the right Agape standing.
+	Inschrift:	AGAPE MISCE
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/catacombe_dei_ss_marcellino_e_pietro/18665X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/catacombe_dei_ss_marcellino_e_pietro/18665X302.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Agape (S)
+	Katalognummer:	3
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Cub. 78
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Catacombe dei SS. Marcellino e Pietro
+	Direktor:	Dott.ssa Barbara Mazzei
+	Adresse:	Via Napoleone III 1
+	Postleitzahl:	I-00185
+	Kontaktzenter:	Pontificia Commissione di Archeologia Sacra
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Pontificia Commissione di Archeologia Sacra
+	Hat die Fotorechte:	0

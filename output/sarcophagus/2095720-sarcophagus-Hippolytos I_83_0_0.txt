@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-750996326bfcd-0
+Hippolytos I_83_0_0
+
+
+
+Monument
+	ID:	25257
+	Entdeckungsort:	Hyères
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hippolytos I
+Szene
+	ID:	26510
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	83
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	FR
+	Stadt:	Bourgneuf-Val-d'Or (Saône-et-Loire)
+	Name:	collection privée
+	Rechteinhaber der Fotos:	© Private Collection
+	Hat die Fotorechte:	0

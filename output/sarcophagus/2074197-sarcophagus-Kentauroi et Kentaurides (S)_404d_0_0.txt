@@ -1,0 +1,31 @@
+http://ark.dasch.swiss/ark:/72163/080e-73d5e1ca4ae2e-a
+Kentauroi et Kentaurides (S)_404d_0_0
+
+
+
+Monument
+	ID:	3555
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kentauroi and Kentaurides
+	Beschreibung:	Several scenes of centaurs fighting Lapiths.
+	Monument-URL:	http://www.limc-france.fr/objet/7728
+Szene
+	ID:	3591
+	Beschreibung:	Several scenes of centaurs fighting Lapiths.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	404d
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	HR
+	Stadt:	Split
+	Name:	Maison Geremia-Zlendic (1, rue Cosmi)
+	Rechteinhaber der Fotos:	© Maison Geremia-Zlendic, Split
+	Hat die Fotorechte:	1

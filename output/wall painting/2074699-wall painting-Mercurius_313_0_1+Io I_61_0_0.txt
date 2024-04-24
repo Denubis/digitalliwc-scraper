@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-73dd0f119fe7c-0
+Mercurius_313_0_1
+Io I_61_0_0
+
+
+
+Monument
+	ID:	4059
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Palatine
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Io I Mercurius
+	Beschreibung:	Mercurius killing Argus to free Io.
+Szene
+	ID:	4103
+	Beschreibung:	Mercurius killing Argus to free Io.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palatino/casa_di_livia/4103X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mercurius
+	Katalognummer:	313
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Io I
+	Katalognummer:	61
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palatino, Casa di Livia
+	Direktor:	Soprintendente Prof. Adriano La Regina
+	Adresse:	Piazza delle Finanze 1
+	Postleitzahl:	I-0015
+	Kontaktzenter:	Soprintendenza alle Antichità
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza alle Antichità, Roma
+	Hat die Fotorechte:	1

@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-76a7e69bfe0d1-d
+Hippolytos I, Add._0_0
+
+
+
+Monument
+	ID:	201699
+	Entdeckungsort:	Stabiae
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Hippolytos (I) with coat covering his shoulders and arms; refuses offered nourishment of his nanny
+	Bibliographie:	Elia, O., Pitture di Stabia (1957) 65; Miniero Forte, P., Stabiae. Pitture e stucchi delle ville romane (1989) 36-37 fig.
+Datierung
+	Periode:	54 - 68 
+Epoche
+	Name:	neronisch
+	Periode:	54 - 68 
+	Sequenznummer:	1170
+Szene
+	ID:	98673
+	Beschreibung:	Hippolytos (I) with coat covering his shoulders and arms; refuses offered nourishment of his nanny
+Catalog LIMC
+	Artikel:	Hippolytos I, Add.
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2527
+Museum
+	Land:	IT
+	Stadt:	Castellammare di Stabia
+	Name:	Antiquarium Stabiano
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Hat die Fotorechte:	1

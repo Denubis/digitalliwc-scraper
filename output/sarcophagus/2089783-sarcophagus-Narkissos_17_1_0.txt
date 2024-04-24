@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-74b4b5441f218-e
+Narkissos_17_1_0
+
+
+
+Monument
+	ID:	19280
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Narkissos
+	Beschreibung:	Narkissos at the spring.
+Szene
+	ID:	20170
+	Beschreibung:	Narkissos at the spring.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/volterra/museo_diocesano_di_arte_sacra/20170X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Narkissos
+	Katalognummer:	17
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Volterra
+	Name:	Museo Diocesano di Arte Sacra
+	Rechteinhaber der Fotos:	© Museo Diocesano di Arte Sacra, Volterra
+	Hat die Fotorechte:	0

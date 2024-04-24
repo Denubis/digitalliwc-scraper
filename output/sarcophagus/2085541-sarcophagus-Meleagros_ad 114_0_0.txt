@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-74780fe5457be-e
+Meleagros_ad 114_0_0
+
+
+
+Monument
+	ID:	14993
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Meleagros
+	Beschreibung:	From left to right: corner figure, four hunters, Meleagros on horseback, Atalante, the boar, three hunters.
+Szene
+	ID:	15469
+	Beschreibung:	From left to right: corner figure, four hunters, Meleagros on horseback, Atalante, the boar, three hunters.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	ad 114
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	3329
+Museum
+	Land:	GR
+	Stadt:	Thessalonique
+	Name:	Musée Archéologique
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Archaeological Museum of Thessaloniki
+	Hat die Fotorechte:	0

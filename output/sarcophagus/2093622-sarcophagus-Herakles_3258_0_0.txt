@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-74eb97b097753-c
+Herakles_3258_0_0
+
+
+
+Monument
+	ID:	23140
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Herakles
+	Beschreibung:	Herakles supported by satyrs and Pan. At the right a herm.
+Datierung
+	Periode:	150 
+Szene
+	ID:	24276
+	Beschreibung:	Herakles supported by satyrs and Pan. At the right a herm.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	3258
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	277 (Ashmole 275)
+Museum
+	Land:	GB
+	Stadt:	Ince Blundell Hall
+	Direktor:	Director Dr. David Fleming
+	Adresse:	Williams Brown Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	Liverpool Museum, National Museums and Galleries on Merseyside
+	Stadt des Kontaktzenters:	Liverpool L3 8EN
+	Rechteinhaber der Fotos:	© Liverpool Museum, National Museums and Galleries on Merseyside
+	Kommentar:	La plupart des objets sont conservés aujourd'hui à Liverpool, National Museums and Galleries on Merseyside (inv. 1959.148.+).
+	Hat die Fotorechte:	1

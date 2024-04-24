@@ -1,0 +1,24 @@
+http://ark.dasch.swiss/ark:/72163/080e-76507ddf815e7-f
+
+
+
+Monument
+	ID:	51611
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+Szene
+	ID:	56791
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Synagoge
+Museum
+	Land:	SY
+	Stadt:	Dura-Europos
+	Direktor:	Mme le Dr. Pascale Linant de Bellefonds
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-92023
+	Kontaktzenter:	Université Paris X - Nanterre Maison de l'Archéologie / Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Dura-Europos
+	Hat die Fotorechte:	1

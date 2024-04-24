@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-75601fada2ac6-4
+Endymion_76_0_0
+
+
+
+Monument
+	ID:	31356
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Endymion
+Szene
+	ID:	32955
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	76
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Gl 93
+Museum
+	Land:	DE
+	Stadt:	Berlin
+	Name:	Schloss Klein-Glienicke
+	Rechteinhaber der Fotos:	© Schloss Klein-Glienicke
+	Hat die Fotorechte:	0

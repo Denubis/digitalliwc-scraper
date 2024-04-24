@@ -1,0 +1,72 @@
+http://ark.dasch.swiss/ark:/72163/080e-73bfaa473a854-7
+Zeus/Iuppiter_320_1_0
+Athena/Minerva_319_0_0
+Herakles_3402_0_1
+Dionysos/Bacchus_110_0_0
+
+
+
+Monument
+	ID:	1992
+	Objekt:	sarcophagus lid
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Name:	Athena/Minerva Dionysos/Bacchus Iuno Zeus/Iuppiter Herakles/Hercules
+	Beschreibung:	Juno, Jupiter and Minerva on a kline; in front of them a filled table; on another kline Bacchus; Herakles draped on the ground
+Datierung
+	Periode:	200 - 300 
+Szene
+	ID:	1936
+	Szenerieangabe:	couvercle
+	Beschreibung:	Juno, Jupiter and Minerva on a kline; in front of them a filled table; on another kline Bacchus; Herakles draped on the ground
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_mattei_di_giove/1936X004.jpg
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	3
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 4.a. Bankett, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	1430
+	Bandnummer:	2
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	320
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	319
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	3402
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	110
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	54
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Mattei di Giove
+	Direktor:	Soprintendente Arch. Costantino Centroni
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Cavalletti 2
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza per i Beni Ambientali Architettonici del Lazio
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Ambientali Architettonici del Lazio
+	Kommentar:	Numéros d'après Guerrini, L. (éd.), Palazzo Mattei di Giove. Le antichità (1982).
+	Hat die Fotorechte:	1

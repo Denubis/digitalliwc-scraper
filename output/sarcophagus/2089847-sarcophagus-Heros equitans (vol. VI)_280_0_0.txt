@@ -1,0 +1,30 @@
+http://ark.dasch.swiss/ark:/72163/080e-74b59f8036358-1
+Heros equitans (vol. VI)_280_0_0
+
+
+
+Monument
+	ID:	19344
+	Entdeckungsort:	Ratiaria
+	Objekt:	sarcophagus
+	Material:	limestone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Heros equitans
+Szene
+	ID:	20233
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Heros equitans (vol. VI)
+	Katalognummer:	280
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	1126
+Museum
+	Land:	BG
+	Stadt:	Vidin
+	Name:	Musée
+	Rechteinhaber der Fotos:	© Musée Vidin
+	Hat die Fotorechte:	1

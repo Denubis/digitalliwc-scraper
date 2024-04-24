@@ -1,0 +1,148 @@
+http://ark.dasch.swiss/ark:/72163/080e-73c65775b2eb3-f
+Zeus/Iuppiter_470_0_0
+Helios/Sol_350_1_0
+Iuno_82_0_0
+Athena/Minerva_283_1_0
+Dioskouroi/Castores_78_0_0
+Stellae (S)_25_0_0
+Clementia_17_0_0
+Homonoia/Concordia_74c_1_0
+Iuno_188_0_0
+
+
+
+Monument
+	ID:	2461
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	phiale, phiale mesomphalos, patera jug temple bull music libation axe, hatchet, pelekys, sacena, securis sacrifice pipe, flute, aulos, tibiae sacrificial animal thymiaterion, turibulum, incense-burner kalator (sacrificial assistant) sacrificial assistant (boy) gesture: one arm extended forward
+	Name:	Athena/Minerva Dioskouroi/Castores Helios/Sol Iuno Stellae Zeus/Iuppiter Luna Homonoia/Concordia Iuno
+	Beschreibung:	On the sarcophag itself marriage of a distinguished Roman in the presence of Concordia (or Iuno Pronuba?) and Hymenaios; bride with flammeum on her head; on the left bull sacrifice in the front of a temple. On the lid a cosmogonic composition: in the centre the Dioskouroi and the chariots of Sol and Luna, Iuppiter, Iuno, Fortuna and Minerva.
+	Bibliographie:	Levi, A., Sculture greche e romane del Palazzo ducale di Mantova (1931) 86 n. 186 tav. 95-100; Kampen, N. B., AJA 85, 1981,  51 ss. tav.  9; 12-13; Wrede, H., Senatorische Sarkophage Roms (2001) 21-24.27-28.30 tav. 2, 1-3.
+	Kommentar:	Sarcophage proche de celui-ci: Homonoia/Concordia 74b.
+Datierung
+	Periode:	138 - 161 
+Epoche
+	Name:	antoninisch
+	Periode:	138 - 192 
+	Sequenznummer:	1210
+Szene
+	ID:	2479
+	Szenerieangabe:	couvercle
+	Beschreibung:	On the lid a cosmogonic composition: in the centre the Dioskouroi and the chariots of Sol and Luna, Iuppiter, Iuno, Fortuna and Minerva.
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/mantova/galleria_e_museo_di_palazzo_ducale/2479X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/mantova/galleria_e_museo_di_palazzo_ducale/2479X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/mantova/galleria_e_museo_di_palazzo_ducale/2479X103.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/mantova/galleria_e_museo_di_palazzo_ducale/2479X104.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	470
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	350
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iuno
+	Katalognummer:	82
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	283
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dioskouroi/Castores
+	Katalognummer:	78
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Stellae (S)
+	Katalognummer:	25
+	Asterix:	0
+	Dot:	0
+Szene
+	ID:	49740
+	Beschreibung:	Trois scènes se suivent: supplicatio (des barbares suppliant le général vainqueur), sacrifice, dextrarum iunctio.Scène de sacrifice (au centre): un garçon accomplit une libation versant le contenu d'une patère sur un thymiatérion.  Derrière celui-ci, un jeune musicien joue de la double flûte, accompagnant le sacrifice qui va s'accomplir à côté de lui: deux hommes barbus s'apprêtent à immoler un taureau que l'un d'eux, agenouillé, tient par une corne alors que l'autre a déjà levé la hache sacrificielle pour le tuer. A l'arrière-plan la façade d'un temple.
+	Bibliographie:	Levi, A., Sculture greche e romane del Palazzo Ducale di Mantova (1931) 86 ss. n. 186 pl. 100; Sichtermann, H., AA 1974, 316 s.;Koch / Sichtermann, RömSark 100.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/mantova/galleria_e_museo_di_palazzo_ducale/49740X001.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Datierung
+	Periode:	138 - 161 
+Catalog Thes CRA
+	Indexnummer:	214
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	I. 2.a. Opfer, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	220
+	Bandnummer:	1
+Catalog Thes CRA
+	Indexnummer:	1
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VI. 1.c. Heirat, röm.
+	Bandnummer:	6
+Catalog LIMC
+	Artikel:	Clementia
+	Katalognummer:	17
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Homonoia/Concordia
+	Katalognummer:	74c
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Iuno
+	Katalognummer:	188
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	I.G. 6728
+Museum
+	Land:	IT
+	Stadt:	Mantova
+	Name:	Galleria e Museo di Palazzo Ducale
+	Direktor:	Soprintendente Dott.ssa Giuliana Algeri
+	Adresse:	Piazza Paccagnini 3
+	Postleitzahl:	I-46100
+	Kontaktzenter:	(All'attenzione del Dott. G. Rodella) Sopr. Patrimonio Storico ed Artistico Mantova, Cremona e Brescia
+	Stadt des Kontaktzenters:	Mantova
+	Rechteinhaber der Fotos:	su concessione del Ministero per i Beni e le Attività Culturali
+	Kommentar:	Levi: numeri di catalogo di Levi, A., Sculture greche e romane del Palazzo Ducale di Mantova (1930).
+	Hat die Fotorechte:	0
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Levi 186

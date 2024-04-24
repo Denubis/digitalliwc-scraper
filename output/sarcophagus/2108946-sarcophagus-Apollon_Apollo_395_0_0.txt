@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-75c6ac446d39f-4
+Apollon/Apollo_395_0_0
+
+
+
+Monument
+	ID:	38595
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+Szene
+	ID:	40595
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	395
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel V 3, 205
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Borghese (Museo e Galleria Borghese)
+	Direktor:	Soprintendente Prof. Claudio Strinati
+	Adresse:	Piazza San Marco 49
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza Speciale del Polo Museale Romano
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza Speciale del Polo Museale Romano
+	Hat die Fotorechte:	1

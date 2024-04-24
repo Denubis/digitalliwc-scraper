@@ -1,0 +1,66 @@
+http://ark.dasch.swiss/ark:/72163/080e-740617084ad0a-f
+Polyphemos I (S)_52_1_0
+Aineias_208_0_0
+Aineias (Suppl. 2009)_0_0
+
+
+
+Monument
+	ID:	6950
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 14,30
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	ship, boat
+	Name:	Aineias Polyphemos I
+	Beschreibung:	Wall painting showing several figures: in the foreground to the left Polyphemos, to his right several male figures, behind them other figures on a ship; perhaps Aineias and his companions?
+	Bibliographie:	Schefold, WP 135, 29; Galinsky, G. K., Aeneas, Sicily, and Rome (1969) fig. 24; Strocka, V. M., Aeneas, nicht Alexander, JdI 121, 2006, 290-291 fig. 18; Hodske, J., Mythologische Bildthemen in den Häusern Pompejis (2007) 247-248 pl. 162, 1-2.
+Datierung
+	Periode:	-15 - 63 
+Epoche
+	Name:	3. pompejanischer Stil
+	Periode:	-15 - 63 
+	Sequenznummer:	1340
+Szene
+	ID:	7096
+	Beschreibung:	Wall painting showing several figures: in the foreground to the left Polyphemos, to his right several male figures, behind them other figures on a ship; perhaps Aineias and his companions?
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/7096X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/7096X302.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Polyphemos I (S)
+	Katalognummer:	52
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aineias
+	Katalognummer:	208
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Aineias (Suppl. 2009)
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	111211
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

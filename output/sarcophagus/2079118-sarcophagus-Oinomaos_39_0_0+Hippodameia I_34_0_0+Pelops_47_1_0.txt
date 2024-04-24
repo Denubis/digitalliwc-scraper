@@ -1,0 +1,49 @@
+http://ark.dasch.swiss/ark:/72163/080e-741c3c3ea960b-3
+Oinomaos_39_0_0
+Hippodameia I_34_0_0
+Pelops_47_1_0
+
+
+
+Monument
+	ID:	8517
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hippodameia I Oinomaos Pelops
+	Beschreibung:	Pelops before Oinomaos. The chariot race. Pelops as winner in his chariot, a goddess reclining under his horses and two figures (Hippodameia (I) and her mother or nurse) watching from a window.
+Datierung
+	Periode:	225 - 250 
+Szene
+	ID:	8711
+	Beschreibung:	Pelops before Oinomaos. The chariot race. Pelops as winner in his chariot, a goddess reclining under his horses and two figures (Hippodameia (I) and her mother or nurse) watching from a window.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palazzo_massimo_alle_colonne/8711X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Oinomaos
+	Katalognummer:	39
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippodameia I
+	Katalognummer:	34
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Pelops
+	Katalognummer:	47
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Massimo alle Colonne
+	Rechteinhaber der Fotos:	© Palazzo Massimo alle Colonne, Roma
+	Hat die Fotorechte:	1

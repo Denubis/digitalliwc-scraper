@@ -1,0 +1,97 @@
+http://ark.dasch.swiss/ark:/72163/080e-73eec5b4eeaef-8
+Thestiadai_ad 2_0_0
+Meleagros_135_1_0
+Meleagros_151_0_0
+Atalante_58_1_0
+Erinys_103_1_0
+Moirai_47_0_0
+
+
+
+Monument
+	ID:	5303
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Atalante Meleagros Thestiadai Erinys Moirai
+	Beschreibung:	Atalante is seated beyond the foot of Meleager's bier, on a rock, her hand raised to her head in mourning. She wears a short chiton, boots, quiver. A dog is at her feet, Moira behind her.
+Datierung
+	Periode:	170 
+Szene
+	ID:	5395
+	Beschreibung:	Atalante is seated beyond the foot of Meleager's bier, on a rock, her hand raised to her head in mourning. She wears a short chiton, boots, quiver. A dog is at her feet, Moira behind her.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/5395X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/5395X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/5395X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/5395X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/5395X005.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/5395X301.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/musei_capitolini/5395X302.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Thestiadai
+	Katalognummer:	ad 2
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	135
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	151
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Atalante
+	Katalognummer:	58
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Erinys
+	Katalognummer:	103
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Moirai
+	Katalognummer:	47
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	623
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Musei Capitolini
+	Direktor:	Dirigente Dott. Claudio Parisi Presicce
+	Adresse:	Via delle Tre Pile, 1
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Sovraintendenza ai Beni Culturali                     del Comune di Roma
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Archivio fotografico Musei Capitolini
+	Hat die Fotorechte:	1

@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-76178519f4652-4
+Amazones_512_0_0
+
+
+
+Monument
+	ID:	44305
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	shield horse warrior, soldier Amazon
+	Name:	Amazones
+	Beschreibung:	Fragment.
+	Bibliographie:	Wiegertz, H., Kleinasiatische Säulensarkophage, IstForsch 26 (1965) 177 no. 3 pl. 9a; Koch, G., AA 89 (1974) 303 no. 2.
+Datierung
+	Periode:	160 - 170 
+	Kommentar:	about
+Epoche
+	Name:	3. Viertel 2. Jh. n. Chr.
+	Periode:	150 - 175 
+	Sequenznummer:	3220
+Szene
+	ID:	46592
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	512
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	760
+Museum
+	Land:	TR
+	Stadt:	Iznik
+	Name:	Musée
+	Direktor:	Mme le Dr. Pascale Linant de Bellefonds
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-92023
+	Kontaktzenter:	Université Paris X - Nanterre Maison de l'Archéologie / Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Iznik Museum
+	Hat die Fotorechte:	1

@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-744b5b554de6b-2
+Mousa, Mousai_298_0_0
+
+
+
+Monument
+	ID:	11841
+	Entdeckungsort:	Ephesos (Ionia)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Mousa, Mousai
+Szene
+	ID:	23884
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai
+	Katalognummer:	298
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SR 19/20
+Museum
+	Land:	TR
+	Stadt:	Ephèse
+	Name:	Hanghaus 2
+	Rechteinhaber der Fotos:	© Ephesos
+	Hat die Fotorechte:	1

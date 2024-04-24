@@ -1,0 +1,83 @@
+http://ark.dasch.swiss/ark:/72163/080e-73eb0a77e0916-5
+Ariadne/Ariatha (vol. III)_p. 1077_0_0
+Mainades (S)_114_1_0
+
+
+
+Monument
+	ID:	5042
+	Entdeckungsort:	Tarquinia
+	Objekt:	sarcophagus lid
+	Material:	nenfro
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	thyrsos krater fawn kantharos or krater in shape of kantharos
+	Name:	Mainades
+	Beschreibung:	Deckelfigur eines Sarkophags: Die Verstorbene trägt in der Linken einen Thyrsos, mit der Rechten hält sie einem Rehkitz einen Krateriskos mit kantharos-ähnlichen Henkeln hin. 
+	Bibliographie:	Herbig, EtrSark 37 Nr. 64; Colonna, G., in Dionysos. Mito e mistero. Atti Conv. Int., Comacchio 1989 (1991) 122. 130 Anm. 70 Nr. 1 Abb. 9; Gli Etruschi, Kat. Ausstell. Venedig (2000) 138 Abb.
+	Museums-URL:	http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=399499&partId=1&searchText=d22&from=bc&fromDate=800&to=ad&toDate=400&page=1
+Datierung
+	Periode:	-340 - -330 
+Epoche
+	Name:	2. Hälfte 4. Jh. v. Chr.
+	Periode:	-350 - -300 
+	Sequenznummer:	2480
+Szene
+	ID:	49572
+	Beschreibung:	Deckelfigur eines Sarkophags: Die Verstorbene trägt in der Linken einen Thyrsos, mit der Rechten hält sie einem Rehkitz einen Krateriskos mit kantharos-ähnlichen Henkeln hin. 
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/british_museum/49572X002.jpg
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	224
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Catalog Thes CRA
+	Indexnummer:	1516
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA
+	Indexnummer:	3
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VIII. 4.d. Assoziationen und Kollegien, etr.
+	Bandnummer:	8
+Catalog Thes CRA
+	Indexnummer:	32
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VIII. Tiere und Pflanzen, etr.
+	Bandnummer:	8
+Catalog LIMC
+	Artikel:	Ariadne/Ariatha (vol. III)
+	Katalognummer:	p. 1077
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Mainades (S)
+	Katalognummer:	114
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	D 22
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	British Museum
+	Direktor:	Dr. Charles Arnold
+	Adresse:	Great Russell Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	British Museum - Greek and Roman Antiquities
+	Stadt des Kontaktzenters:	London WC 1B 3DG
+	Rechteinhaber der Fotos:	© British Museum, London
+	Hat die Fotorechte:	1

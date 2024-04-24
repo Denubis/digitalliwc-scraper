@@ -1,0 +1,36 @@
+http://ark.dasch.swiss/ark:/72163/080e-74534e3f56647-2
+Mousa, Mousai/Musae (vol. VII)_166_1_0
+
+
+
+Monument
+	ID:	12402
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Mousa, Mousai
+Szene
+	ID:	12702
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/porto_torres_sardegna/san_gavino/12702X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/porto_torres_sardegna/san_gavino/12702X299.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	166
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Porto Torres (Sardegna)
+	Name:	San Gavino
+	Rechteinhaber der Fotos:	© Polo Museale della Sardegna
+	Hat die Fotorechte:	1

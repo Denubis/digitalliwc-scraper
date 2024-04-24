@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-74625fccf275d-d
+Senatus_9_0_0
+
+
+
+Monument
+	ID:	13461
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Senatus
+Szene
+	ID:	13808
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Senatus
+	Katalognummer:	9
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Savoia
+	Rechteinhaber der Fotos:	© Roma
+	Hat die Fotorechte:	1

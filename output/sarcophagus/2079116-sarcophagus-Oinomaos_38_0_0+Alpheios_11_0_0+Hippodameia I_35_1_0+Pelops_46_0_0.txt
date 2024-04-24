@@ -1,0 +1,69 @@
+http://ark.dasch.swiss/ark:/72163/080e-741c34ecc8a81-7
+Oinomaos_38_0_0
+Alpheios_11_0_0
+Hippodameia I_35_1_0
+Pelops_46_0_0
+
+
+
+Monument
+	ID:	8515
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Name:	Alpheios Hippodameia I Oinomaos Pelops
+	Beschreibung:	Pelops before Oinomaos seated on throne, servants, all looking at head of suitor hanging over the palace gate. Alpheios reclining unter Pelops' team, head and most of arms missing, left leg draped. Pelops and Hippodameia (I) as a wedded couple, accompanied by a njurse. On the narrow sides men with spears.
+	Bibliographie:	Helbig(4) IV no. 3319; SarkRel III 3 no. 325; Sichtermann/ Koch, MythSark 55-56 no. 57 pl. 144, 2.
+Datierung
+	Periode:	225 - 250 
+Epoche
+	Name:	2. Viertel 3. Jh. n. Chr.
+	Periode:	225 - 250 
+	Sequenznummer:	3350
+Szene
+	ID:	8709
+	Beschreibung:	Pelops before Oinomaos seated on throne, servants, all looking at head of suitor hanging over the palace gate. Alpheios reclining unter Pelops' team, head and most of arms missing, left leg draped. Pelops and Hippodameia (I) as a wedded couple, accompanied by a njurse. On the narrow sides men with spears.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_albani/8709X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_albani/8709X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_albani/8709X301.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Oinomaos
+	Katalognummer:	38
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Alpheios
+	Katalognummer:	11
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippodameia I
+	Katalognummer:	35
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Pelops
+	Katalognummer:	46
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	254
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Albani
+	Adresse:	Via della Conciliazione 30
+	Postleitzahl:	I-00193
+	Kontaktzenter:	Amministrazione Torlonia
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Phot. proprietà Principe Torlonia
+	Hat die Fotorechte:	0

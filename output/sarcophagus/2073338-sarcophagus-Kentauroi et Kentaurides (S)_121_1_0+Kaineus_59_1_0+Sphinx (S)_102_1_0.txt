@@ -1,0 +1,63 @@
+http://ark.dasch.swiss/ark:/72163/080e-73c999ebc5227-1
+Kentauroi et Kentaurides (S)_121_1_0
+Kaineus_59_1_0
+Sphinx (S)_102_1_0
+
+
+
+Monument
+	ID:	2692
+	Entdeckungsort:	Sidon, Saida, Sdn, Sidonia, Sidone, Colonia Aurelia Pia Metropolis Sidon
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Lycia
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Kaineus Kentauroi and Kentaurides Sphinx (Thebana)
+	Beschreibung:	In the pediment of the lid pairs of crouching Sphinxes, looking to the side. Minor side: Two fighting centaurs, between them a dead doe.
+Szene
+	ID:	2713
+	Beschreibung:	In the pediment of the lid pairs of crouching Sphinxes, looking to the side. Minor side: Two fighting centaurs, between them a dead doe.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/turkey/istanbul/musee_archeologique/2713X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/turkey/istanbul/musee_archeologique/2713X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/turkey/istanbul/musee_archeologique/2713X102.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	121
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kaineus
+	Katalognummer:	59
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Sphinx (S)
+	Katalognummer:	102
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	369
+Museum
+	Land:	TR
+	Stadt:	Istanbul
+	Name:	Musée Archéologique
+	Direktor:	Mme le Dr  Pascale Linant de Bellefonds
+	Anrede:	Sehr geehrter Herr Dr. Posamentir,
+	Adresse:	21, Allée de l'Université
+	Postleitzahl:	F-92023
+	Kontaktzenter:	Université Paris X - Nanterre Maison de l'Archéologie / Bureau LIMC
+	Stadt des Kontaktzenters:	Nanterre Cedex
+	Rechteinhaber der Fotos:	© Archaeological Museum Istanbul
+	Hat die Fotorechte:	1

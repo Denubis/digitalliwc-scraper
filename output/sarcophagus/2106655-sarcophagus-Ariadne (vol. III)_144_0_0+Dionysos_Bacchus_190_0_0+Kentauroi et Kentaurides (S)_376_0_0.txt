@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-75a5eb65631a0-9
+Ariadne (vol. III)_144_0_0
+Dionysos/Bacchus_190_0_0
+Kentauroi et Kentaurides (S)_376_0_0
+
+
+
+Monument
+	ID:	36286
+	Entdeckungsort:	Mirabella-Eclano, Aeclanum
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dionysos/Bacchus Ariadne Kentauroi and Kentaurides
+	Beschreibung:	Bacchus standing on a carriage drawn by centaurs, behind him his thiasos, reclining Ariadne. Minor side: Centaur playing double flutes.
+Szene
+	ID:	38158
+	Beschreibung:	Bacchus standing on a carriage drawn by centaurs, behind him his thiasos, reclining Ariadne. Minor side: Centaur playing double flutes.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Ariadne (vol. III)
+	Katalognummer:	144
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	190
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Kentauroi et Kentaurides (S)
+	Katalognummer:	376
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	marché de l'art
+	Rechteinhaber der Fotos:	© Art market
+	Hat die Fotorechte:	0

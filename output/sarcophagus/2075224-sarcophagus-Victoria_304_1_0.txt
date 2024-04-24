@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e490868d37d-8
+Victoria_304_1_0
+
+
+
+Monument
+	ID:	4585
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Victoria
+	Beschreibung:	Two standing Victories holding parapetasma with the bust of the deceased. Surrounded by Tempora anni.
+Szene
+	ID:	4643
+	Beschreibung:	Two standing Victories holding parapetasma with the bust of the deceased. Surrounded by Tempora anni.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_giustiniani_massimo/4643X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/villa_giustiniani_massimo/4643X302.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Victoria
+	Katalognummer:	304
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel V 4, 538
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Giustiniani Massimo
+	Rechteinhaber der Fotos:	© Villa Giustiniani Massimo, Roma
+	Hat die Fotorechte:	1

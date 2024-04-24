@@ -1,0 +1,49 @@
+http://ark.dasch.swiss/ark:/72163/080e-749971cd9f799-b
+Lykourgos I_44_0_0
+Dionysos/Bacchus_231_0_0
+Lyssa_14_0_0
+
+
+
+Monument
+	ID:	17350
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Dionysos/Bacchus Lykourgos I Lyssa
+	Beschreibung:	In the centre Lykourgos attacking Ambrosia, present is also a Furia (Lyssa); behind her Bacchus supported by a silen, a seated nymph, Pan, satyr and three Muses with a second Furia.
+Szene
+	ID:	18066
+	Beschreibung:	In the centre Lykourgos attacking Ambrosia, present is also a Furia (Lyssa); behind her Bacchus supported by a silen, a seated nymph, Pan, satyr and three Muses with a second Furia.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Lykourgos I
+	Katalognummer:	44
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	231
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Lyssa
+	Katalognummer:	14
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Frascati
+	Name:	Villa Taverna (oggi Parisi)
+	Direktor:	Dr. Silvia Diebner
+	Anrede:	Sehr geehrte Frau Dr. Diebner,
+	Adresse:	Via Sardegna 79
+	Postleitzahl:	I-00187
+	Kontaktzenter:	Deutsches Archäologisches Institut Photothek
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Villa Taverna, Frascati
+	Hat die Fotorechte:	0

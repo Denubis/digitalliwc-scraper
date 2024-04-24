@@ -1,0 +1,59 @@
+http://ark.dasch.swiss/ark:/72163/080e-747717056cf6a-3
+Meleagros_91_0_0
+Atalante_34_1_0
+
+
+
+Monument
+	ID:	14921
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 9,3-6 (House of the Centaur)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Atalante Meleagros
+	Beschreibung:	Atalante stands holding two spears, wearing petasos, chlamys, chitoniskos, boots and quiver. Meleager is seated by her and beyond him are two men. In the foreground two dogs and a dead boar.
+Szene
+	ID:	15394
+	Beschreibung:	Atalante stands holding two spears, wearing petasos, chlamys, chitoniskos, boots and quiver. Meleager is seated by her and beyond him are two men. In the foreground two dogs and a dead boar.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/15394X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/15394X302.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/15394X396.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/15394X397.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/15394X398.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Meleagros
+	Katalognummer:	91
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Atalante
+	Katalognummer:	34
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8980
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

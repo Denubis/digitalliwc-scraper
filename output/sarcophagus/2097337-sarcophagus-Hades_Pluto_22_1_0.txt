@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-7520b448a3122-8
+Hades/Pluto_22_1_0
+
+
+
+Monument
+	ID:	26892
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hades/Pluto
+Szene
+	ID:	28250
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/positano/chiesa_del_rosario/28250X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	22
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Positano
+	Name:	Chiesa del Rosario
+	Rechteinhaber der Fotos:	© Chiesa del Rosario, Positano
+	Hat die Fotorechte:	0

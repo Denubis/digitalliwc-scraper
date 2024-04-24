@@ -1,0 +1,44 @@
+http://ark.dasch.swiss/ark:/72163/080e-74eeaa9274fc6-0
+Herakles_ad 3277_0_0
+Dionysos/Bacchus_236_1_0
+
+
+
+Monument
+	ID:	23356
+	Entdeckungsort:	Salerno
+	Entdeckungsort Details:	cathedral
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Herakles Dionysos/Bacchus
+	Beschreibung:	A: Bacchus on a throne, in front of him the kneeling Indian king, from the left his court with the booty and Indian prisoners; B: Drunken Herakles supported by two satyrs.
+Szene
+	ID:	24506
+	Beschreibung:	A: Bacchus on a throne, in front of him the kneeling Indian king, from the left his court with the booty and Indian prisoners; B: Drunken Herakles supported by two satyrs.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/salerno/duomo/24506X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	ad 3277
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	236
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel IV 3, 244
+Museum
+	Land:	IT
+	Stadt:	Salerno
+	Name:	Duomo
+	Rechteinhaber der Fotos:	© Duomo Salerno
+	Hat die Fotorechte:	1

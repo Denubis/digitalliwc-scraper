@@ -1,0 +1,42 @@
+http://ark.dasch.swiss/ark:/72163/080e-754e8651d6c7b-7
+Herakles_1662_1_0
+
+
+
+Monument
+	ID:	30116
+	Entdeckungsort:	Aphrodisias, Geyre, Lelegonopolis, Megalopolis, Ninoe, Stavropolis, Caria
+	Entdeckungsort Details:	Temple of Aphrodite
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Herakles
+	Beschreibung:	Left panel: Herakles in the centre, kneeling to the right, snake to the right. Three adults stand close.
+Szene
+	ID:	31575
+	Beschreibung:	Left panel: Herakles in the centre, kneeling to the right, snake to the right. Three adults stand close.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/turkey/aphrodisias/musee/31575X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	1662
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	84-223
+Museum
+	Land:	TR
+	Stadt:	Aphrodisias
+	Name:	Musée
+	Direktor:	Prof. R. R. R. Smith
+	Adresse:	Beaumont Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	Ashmolean Museum of Art and Archaeology
+	Stadt des Kontaktzenters:	Oxford OX1 2PH
+	Rechteinhaber der Fotos:	© Phot. New York University, Aphrodisias Excavations
+	Hat die Fotorechte:	1

@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ab0b296b5e4-9
+Moirai_52_0_0
+
+
+
+Monument
+	ID:	18601
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Moirai
+Szene
+	ID:	19454
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Moirai
+	Katalognummer:	52
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 2, 226
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Borghese (Museo e Galleria Borghese)
+	Direktor:	Soprintendente Prof. Claudio Strinati
+	Adresse:	Piazza San Marco 49
+	Postleitzahl:	I-00186
+	Kontaktzenter:	Soprintendenza Speciale del Polo Museale Romano
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza Speciale del Polo Museale Romano
+	Hat die Fotorechte:	1

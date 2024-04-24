@@ -1,0 +1,86 @@
+http://ark.dasch.swiss/ark:/72163/080e-746a90eef114e-1
+Sarapis_153_0_0
+Harpokrates_377_1_0
+Isis_163_0_0
+Apollon/Apollo_ad 421b_0_0
+Amazones_592_0_0
+
+
+
+Monument
+	ID:	14041
+	Entdeckungsort:	Pompei
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	chiton snake cornucopia phiale, phiale mesomphalos, patera shield naiskos, aedicula cult image, cult statue sistrum situla, kados, bucket lotus Amazon
+	Name:	Harpokrates Isis Sarapis Amazones
+	Beschreibung:	Viridarium: Uferlandschaft mit “Wald” und Vögeln im Vordergrund, Bauten im Hintergrund; im Mittelgrund Naiskos (vermutlich nicht eigentlich zum Gesamtbild gehörig, sondern gemalte Kultnische darstellend), darin Isis und Sarapis, zwischen ihnen Harpokrates. Alle drei mit Füllhorn, diejenigen von Isis und Sarapis von Schlange umwunden; Isis hält Sistrum, Sarapis eine Situla und eine Phiale. Auf den Köpfen von Isis und Sarapis Lotosblüte (?).
+	Bibliographie:	Schefold, WP 94;Helbig, Wandgemälde, no.1249; Tran Tam Tinh, Sérapis debout, EPRO 94 (1983) 157 III 16 fig. 106.
+	Kommentar:	Zerstört.Neg. DAI Rom 73.2392 (Zeichnung).
+Datierung
+	Periode:	62 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Datierung
+	Periode:	69 - 79 
+Epoche
+	Name:	vespasianisch
+	Periode:	69 - 79 
+	Sequenznummer:	1185
+Szene
+	ID:	14433
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/pompei/14433X003.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Sarapis
+	Katalognummer:	153
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Harpokrates
+	Katalognummer:	377
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Isis
+	Katalognummer:	163
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	ad 421b
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	592
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VI 2,14
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa delle Amazzoni
+Inventar
+	Spezifikation:	3. Inv.
+	Nummer:	Casa di Iside e di Osiride

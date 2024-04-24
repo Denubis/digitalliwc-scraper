@@ -1,0 +1,107 @@
+http://ark.dasch.swiss/ark:/72163/080e-74209885075c0-6
+Penthesileia_ad 39_0_0
+Penthesileia_52a_1_0
+Achilleus_764_0_0
+Achilleus_765_0_0
+Amazones_194_1_0
+Amazones_195_1_0
+Penthesileia_56f_1_0
+Herakles_ad 1118_0_0
+
+
+
+Monument
+	ID:	8820
+	Entdeckungsort:	Thessalonica (Macedonia)
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Attica
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	helmet shield double-axe, bipennis, labrys axe, hatchet, pelekys, sacena, securis horse pilos Amazon fight, battle rider
+	Name:	Achilleus Herakles Odysseus Penthesileia Amazones
+	Beschreibung:	Herm of Herakles. Kneeling Penthesileia and Achilleus.
+	Bibliographie:	SarkRel II Nr. 69 Taf. 28-29; Redlich, R., Die Amazonensarkophage des 2. und 3. Jh. n. Chr. (1942) 9-21 Taf. 1; Charbonneaux, J., La sculpture grecque er romaine au Musée du Louvre (1963) 227-228; Giuliano, A./Palma, B., StudMisc 24, 1978, 22 V 1 Taf. 16, 37-39.
+Datierung
+	Periode:	166 - 200 
+Epoche
+	Name:	3. Drittel 2. Jh. n. Chr.
+	Periode:	166 - 200 
+	Sequenznummer:	3260
+Datierung
+	Periode:	175 
+	Kommentar:	about
+Epoche
+	Name:	4. Viertel 2. Jh. n. Chr.
+	Periode:	175 - 200 
+	Sequenznummer:	3230
+Szene
+	ID:	9021
+	Beschreibung:	Herm of Herakles. Kneeling Penthesileia and Achilleus.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/9021X004.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/9021X005.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/paris/musee_du_louvre/9021X006.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Penthesileia
+	Katalognummer:	ad 39
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Penthesileia
+	Katalognummer:	52a
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	764
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	765
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	194
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	195
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Penthesileia
+	Katalognummer:	56f
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	ad 1118
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	MA 2119
+Museum
+	Land:	FR
+	Stadt:	Paris
+	Name:	Musée du Louvre
+	Direktor:	N.N., Conservateur en chef
+	Adresse:	Porte des Arts
+	Postleitzahl:	F-75058
+	Kontaktzenter:	Dép. Antiquités grecques, étrusques et romaines         Musée du Louvre
+	Stadt des Kontaktzenters:	Paris Cedex 01
+	Rechteinhaber der Fotos:	© RMN
+	Hat die Fotorechte:	1

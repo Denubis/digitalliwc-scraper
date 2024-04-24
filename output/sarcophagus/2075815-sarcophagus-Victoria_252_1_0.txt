@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-73ed038972548-3
+Victoria_252_1_0
+
+
+
+Monument
+	ID:	5180
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Victoria
+	Beschreibung:	Two flying Victories holding a tabula.
+Szene
+	ID:	5268
+	Beschreibung:	Two flying Victories holding a tabula.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ravenna/santa_maria_maggiore/5268X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ravenna/santa_maria_maggiore/5268X203.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ravenna/santa_maria_maggiore/5268X204.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ravenna/santa_maria_maggiore/5268X205.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/ravenna/santa_maria_maggiore/5268X299.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Victoria
+	Katalognummer:	252
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Ravenna
+	Name:	Santa Maria Maggiore
+	Rechteinhaber der Fotos:	© Ravenna
+	Hat die Fotorechte:	1

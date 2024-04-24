@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-754307bef4dc7-8
+Hektor_42_1_0
+
+
+
+Monument
+	ID:	29306
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hektor
+Szene
+	ID:	30749
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Hektor
+	Katalognummer:	42
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	4035
+Museum
+	Land:	LB
+	Stadt:	Tyr
+	Rechteinhaber der Fotos:	© Tyr
+	Hat die Fotorechte:	1

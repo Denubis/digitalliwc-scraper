@@ -1,0 +1,65 @@
+http://ark.dasch.swiss/ark:/72163/080e-73c4a3edf8020-1
+Zeus/Iuppiter_453c_1_0
+Athena/Minerva_78_1_0
+
+
+
+Monument
+	ID:	2342
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	sanctuary
+	Objekt:	statue
+	Material:	terracotta
+	Land:	CH
+	Kategorie:	sculpture in the round
+	Name:	Athena/Minerva Zeus/Iuppiter
+	Beschreibung:	Terracotta bust of Athena/Minerva
+Szene
+	ID:	2356
+	Beschreibung:	Terracotta bust of Athena/Minerva
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/2356X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/2356X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/2356X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/2356X302.jpg
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	1
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Signum, Rom.
+	Lemata:	Signum, Rom.
+	Sequenznummer:	4084
+	Bandnummer:	4
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	453c
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Athena/Minerva
+	Katalognummer:	78
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	22573
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

@@ -1,0 +1,66 @@
+http://ark.dasch.swiss/ark:/72163/080e-74217f182e13b-e
+Omphale_37_0_0
+Horai/Horae_19_0_0
+Hypnos/Somnus_93_0_0
+Endymion_26_0_0
+Hippolytos I_47_0_1
+
+
+
+Monument
+	ID:	8885
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	III 4,34 (Strada d'Iside)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Omphale Horai/Horae Endymion Hippolytos I Hypnos/Somnus
+	Beschreibung:	Herakles seated on his lionskin on a rock, with club, dressed in headcloth, woman's dress and shoes, holding spindle and thread. At either side women - at the right one standing, one seated, both half-nude, and a satyr holding thyrsos and tympanon. On the left a seated dressen woman (Omphale?) who points at Herakles, a kalathos beside her.  In another scene three Horae: Summer with sheaf of corn and sickle. Autumn with basket and a bunch of grapes. Winter with a stick and two ducks. 
+Szene
+	ID:	9087
+	Beschreibung:	Herakles seated on his lionskin on a rock, with club, dressed in headcloth, woman's dress and shoes, holding spindle and thread. At either side women - at the right one standing, one seated, both half-nude, and a satyr holding thyrsos and tympanon. On the left a seated dressen woman (Omphale?) who points at Herakles, a kalathos beside her.  In another scene three Horae: Summer with sheaf of corn and sickle. Autumn with basket and a bunch of grapes. Winter with a stick and two ducks. 
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Omphale
+	Katalognummer:	37
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	19
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	93
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	26
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	47
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VIII 4,34
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa di Omfale

@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-76af4ac9687aa-d
+Dido, Add._Supplement_0_0
+
+
+
+Monument
+	ID:	201914
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 17,42-44 (Insula occidentalis)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	sceptre sword shield spear pillar
+	Name:	Aineias Alexandros Dido Eros/Amor, Cupido Stateira Roxane
+	Beschreibung:	arrival of Aineias at Dido; Aineias naked with coat on his back; shield in front of him with Eros; Dido 
+	Bibliographie:	Lago de Caro, A., in: Curtis, R. I. (ed.), Studia Pompeiana & classica. FS W. F. Jashemski (1988) 75-83 fig. 1-6; Aoyagi, M./Pappalardo, U., Pompei. Insula Occidentalis (2006) 137 col. plate; Strocka, V. M., Aeneas, nicht Alexander, JdI 121, 2006, 269-273 fig. 1 col. pl. 2; Hodske, J., Mythologische Bildthemen in den Häusern Pompejis (2007)264-265 pl. 183, 1 pl. 183, 1 col. pl. 8, 4.
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	98901
+	Beschreibung:	arrival of Aineias at Dido; Aineias naked with coat on his back; shield in front of him with Eros; Dido
+Catalog LIMC
+	Artikel:	Dido, Add.
+	Band:	Supplement
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VI 17,42-44
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1

@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-749f0c7dacd41-d
+Nyx_2_0_0
+Endymion_80_0_0
+Helios/Sol_165_0_0
+Hypnos/Somnus_72_1_0
+
+
+
+Monument
+	ID:	17750
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Endymion Helios/Sol Nyx Hypnos/Somnus
+	Beschreibung:	In the centre Helios/Sol on his chariot. Below Ge. Aura follows Selene's chariot. Nyx in long garment and veil billowing over her head escorts Selene. On the right Endymion reclining on the ground.
+Szene
+	ID:	18498
+	Beschreibung:	In the centre Helios/Sol on his chariot. Below Ge. Aura follows Selene's chariot. Nyx in long garment and veil billowing over her head escorts Selene. On the right Endymion reclining on the ground.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Nyx
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	80
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Helios/Sol
+	Katalognummer:	165
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	72
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 1, 81
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	San Paolo fuori le Mura
+	Rechteinhaber der Fotos:	© Soprindentenza SPSAE e Polo Museale della Città di Roma
+	Hat die Fotorechte:	0

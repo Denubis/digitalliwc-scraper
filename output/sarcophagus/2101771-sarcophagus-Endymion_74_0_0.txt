@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-7560185bc1f3c-7
+Endymion_74_0_0
+
+
+
+Monument
+	ID:	31354
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Endymion
+Szene
+	ID:	32952
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	74
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Catacomba di Domitilla
+	Rechteinhaber der Fotos:	© Catacomba di Domitilla, Roma
+	Hat die Fotorechte:	0

@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-74260e9bb11b6-1
+Orcus_8_0_0
+
+
+
+Monument
+	ID:	9207
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Orcus
+	Beschreibung:	Calydonian hunt, between Oineus and Artemis enters Orcus with his double axe.
+Szene
+	ID:	9408
+	Beschreibung:	Calydonian hunt, between Oineus and Artemis enters Orcus with his double axe.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Orcus
+	Katalognummer:	8
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Michaelis 21
+Museum
+	Land:	GB
+	Stadt:	Broadlands (Hampshire)
+	Rechteinhaber der Fotos:	© Broadlands 
+	Hat die Fotorechte:	0

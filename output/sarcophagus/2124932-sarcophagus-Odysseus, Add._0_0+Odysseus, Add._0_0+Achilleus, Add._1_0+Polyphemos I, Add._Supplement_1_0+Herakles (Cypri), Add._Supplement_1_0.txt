@@ -1,0 +1,82 @@
+http://ark.dasch.swiss/ark:/72163/080e-76ab37b5d1b59-2
+Odysseus, Add._0_0
+Odysseus, Add._0_0
+Achilleus, Add._1_0
+Polyphemos I, Add._Supplement_1_0
+Herakles (Cypri), Add._Supplement_1_0
+
+
+
+Monument
+	ID:	201939
+	Entdeckungsort:	Kouklia, Palaipaphos, Palaepaphos, Kouvouklia (Cyprus)
+	Entdeckungsort Details:	necropolis Kato Alonia
+	Objekt:	sarcophagus
+	Material:	limestone
+	Herkunft:	Cyprus
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	ram lion tree skin chariot bow arrow corpse
+	Name:	Achilleus Aias II Diomedes I Odysseus Polyphemos I Rhesos
+	Beschreibung:	Bearded Aias carrying the corps of Achilleus on his shoulder; person wearing a lionskin and holding a bow, warriors approaching him; main side: Diomedes and the chariot of Rhesos with horses; Odysseus with one knee on the ground, with quiver and holding bow and arrow; in front of him a chariot leaving the citadel of Troia and passing by the corpses of Rhesos and his companions; back part: Odysseus and three companions hidden under rams, escaping the cave of Polyphemos (I)
+	Bibliographie:	Flourentzos, P., The Sarcophagus of Palaipafos (2007); Raptou, E., in: FS Caubet, CCEC (forthcoming).
+Datierung
+	Periode:	-510 - -490 
+Epoche
+	Name:	um 500 v. Chr.
+	Periode:	-510 - -490 
+	Sequenznummer:	2280
+Datierung
+	Periode:	-500 - -450 
+	Kommentar:	Icard-Gianolio
+Epoche
+	Name:	1. Hälfte 5. Jh. v. Chr.
+	Periode:	-500 - -450 
+	Sequenznummer:	2330
+Szene
+	ID:	98926
+	Beschreibung:	Bearded Aias carrying the corps of Achilleus on his shoulder; person wearing a lionskin and holding a bow, warriors approaching himmain side: Diomedes and the chariot of Rhesos with horses; Odysseus with one knee on the ground, with quiver and holding bow and arrow; in front of him a chariot leaving the citadel of Troia and passing by the corpses of Rhesos and his companions; back part: Odysseus and three companions hidden under rams, escaping the cave of Polyphemos (I)
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Odysseus, Add.
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Odysseus, Add.
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus, Add.
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Polyphemos I, Add.
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles (Cypri), Add.
+	Band:	Supplement
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	RRKM 485
+Museum
+	Land:	CY
+	Stadt:	Kouklia
+	Name:	Musée de Palaipafos
+	Direktor:	Professor Demetrios Michaelides
+	Postfach:	PO Box 20537
+	Postleitzahl:	CY-1678
+	Kontaktzenter:	Department of History and Archaeology
+	Stadt des Kontaktzenters:	Nicosia, Cyprus
+	Rechteinhaber der Fotos:	© Musée de Palaipafos
+	Hat die Fotorechte:	0

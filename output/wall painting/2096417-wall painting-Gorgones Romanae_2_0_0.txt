@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-75138d28d752a-5
+Gorgones Romanae_2_0_0
+
+
+
+Monument
+	ID:	25961
+	Entdeckungsort:	Castellammare di Stabia
+	Entdeckungsort Details:	Villa in Campo Varano
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Gorgo, Gorgones
+	Beschreibung:	Gorgoneion in three-quart view.
+Szene
+	ID:	27260
+	Beschreibung:	Gorgoneion in three-quart view.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Gorgones Romanae
+	Katalognummer:	2
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9896
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

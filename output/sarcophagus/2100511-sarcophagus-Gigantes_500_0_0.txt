@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-754e14dcbb9a0-5
+Gigantes_500_0_0
+
+
+
+Monument
+	ID:	30084
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Gigantes
+Szene
+	ID:	31543
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/athens/acropolis_museum/31543X101.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Gigantes
+	Katalognummer:	500
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	3357-3359
+Museum
+	Land:	GR
+	Stadt:	Athens
+	Name:	Acropolis Museum
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Acropolis Museum, Athens
+	Hat die Fotorechte:	0

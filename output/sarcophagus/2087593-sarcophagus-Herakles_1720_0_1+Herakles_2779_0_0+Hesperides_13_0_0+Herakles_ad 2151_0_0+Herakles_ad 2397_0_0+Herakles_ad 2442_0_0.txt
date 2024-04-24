@@ -1,0 +1,69 @@
+http://ark.dasch.swiss/ark:/72163/080e-7495660be96d2-0
+Herakles_1720_0_1
+Herakles_2779_0_0
+Hesperides_13_0_0
+Herakles_ad 2151_0_0
+Herakles_ad 2397_0_0
+Herakles_ad 2442_0_0
+
+
+
+Monument
+	ID:	17066
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Herakles Hesperides
+	Beschreibung:	Labours of Herakles: Lion, Hydra, Boar, Deer, Birds, Amazon, Augeias, Bull, Horses of Diomedes, Kerberos and Hesperides. Geryoneus missing.
+Datierung
+	Periode:	180 - 200 
+Szene
+	ID:	17753
+	Beschreibung:	Labours of Herakles: Lion, Hydra, Boar, Deer, Birds, Amazon, Augeias, Bull, Horses of Diomedes, Kerberos and Hesperides. Geryoneus missing.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	1720
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	2779
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hesperides
+	Katalognummer:	13
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	ad 2151
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	ad 2397
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	ad 2442
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 1, 106
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Corsini (Galleria Nazionale d'Arte Antica di Palazzo Corsini)
+	Direktor:	Direttore Dr. Alloise Sivigliano
+	Adresse:	Via della Lungara, 10
+	Postleitzahl:	I-00165
+	Kontaktzenter:	Palazzo Corsini
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprindentenza SPSAE e Polo Museale della Città di Roma
+	Hat die Fotorechte:	0

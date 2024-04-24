@@ -1,0 +1,72 @@
+http://ark.dasch.swiss/ark:/72163/080e-74ebebde2fc06-7
+Herakles_3271_0_0
+Hypnos/Somnus_123_0_0
+Ariadne (vol. III)_132_0_1
+
+
+
+Monument
+	ID:	23163
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Name:	Herakles Ariadne Hypnos/Somnus
+	Beschreibung:	Herkules with a wreath of vine on his head, large crown of flowers and fruits around his neck, holding a skyphos and a third wreath in his hands
+	Bibliographie:	Robert, C. / Rodenwaldt, G. / Matz, F., et al., Die antiken Sarkophagreliefs IV 1, 149-150 no. 118 pl. 46, 1; 47, 1; Vermeule ,  C., AJA 60, 1956, 323 pl. 107, 14.
+Datierung
+	Periode:	200 - 225 
+Epoche
+	Name:	1. Viertel 3. Jh. n. Chr.
+	Periode:	200 - 225 
+	Sequenznummer:	3340
+Szene
+	ID:	24301
+	Beschreibung:	Herkules with a wreath of vine on his head, large crown of flowers and fruits around his neck, holding a skyphos and a third wreath in his hands
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/blenheim_palace_oxfordshire/24301X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/blenheim_palace_oxfordshire/24301X102.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/blenheim_palace_oxfordshire/24301X103.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	351
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 5. Kultbilder
+	Sequenznummer:	1800
+	Bandnummer:	2
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	3271
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	123
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Ariadne (vol. III)
+	Katalognummer:	132
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	627B-999
+Museum
+	Land:	GB
+	Stadt:	Blenheim Palace (Oxfordshire)
+	Direktor:	Deputy Administrator Helen Walch
+	Postleitzahl:	GB-
+	Kontaktzenter:	Administrator's Office Blenheim Palace
+	Stadt des Kontaktzenters:	Woodstock Oxfordshire OX20 1PX
+	Rechteinhaber der Fotos:	© Blenheim Palace
+	Hat die Fotorechte:	0

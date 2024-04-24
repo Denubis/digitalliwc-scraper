@@ -1,0 +1,51 @@
+http://ark.dasch.swiss/ark:/72163/080e-742ebfd68c596-3
+Thanatos_36_0_0
+Endymion_52_1_0
+Hypnos/Somnus_94_0_0
+
+
+
+Monument
+	ID:	9826
+	Entdeckungsort:	Ostia
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Endymion Thanatos Hypnos/Somnus
+	Beschreibung:	Hypnos pours a liquid over the sleeping Endymion in the presence of Selene. The scene is framed by funeral Erotes.
+Szene
+	ID:	10034
+	Beschreibung:	Hypnos pours a liquid over the sleeping Endymion in the presence of Selene. The scene is framed by funeral Erotes.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Thanatos
+	Katalognummer:	36
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	52
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	94
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	848
+Museum
+	Land:	DK
+	Stadt:	Copenhague
+	Name:	Glyptothèque Ny Carlsberg
+	Direktor:	Curator Claus Grønne
+	Anrede:	Dear Curator,
+	Adresse:	Dantes Pl. 7
+	Postleitzahl:	DK-1556
+	Kontaktzenter:	Archives and Library. Glyptothèque Ny Carlsberg
+	Stadt des Kontaktzenters:	Copenhague V
+	Rechteinhaber der Fotos:	© Ny Carlsberg Glyptothek
+	Hat die Fotorechte:	1

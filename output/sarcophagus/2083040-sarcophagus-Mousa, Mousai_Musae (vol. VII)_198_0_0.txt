@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-74544e710fa25-5
+Mousa, Mousai/Musae (vol. VII)_198_0_0
+
+
+
+Monument
+	ID:	12472
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Mousa, Mousai
+Szene
+	ID:	12773
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/amalfi/duomo/12773X102.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	198
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Amalfi
+	Name:	Duomo
+	Rechteinhaber der Fotos:	© Duomo, Amalfi
+	Hat die Fotorechte:	1

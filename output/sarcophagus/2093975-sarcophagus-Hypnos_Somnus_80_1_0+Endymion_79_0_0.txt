@@ -1,0 +1,50 @@
+http://ark.dasch.swiss/ark:/72163/080e-74f0a3a406bf8-b
+Hypnos/Somnus_80_1_0
+Endymion_79_0_0
+
+
+
+Monument
+	ID:	23497
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Endymion Hypnos/Somnus
+Szene
+	ID:	24665
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/assisi/duomo_san_rufino/24665X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/assisi/duomo_san_rufino/24665X103.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/assisi/duomo_san_rufino/24665X104.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/assisi/duomo_san_rufino/24665X105.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	80
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Endymion
+	Katalognummer:	79
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Assisi
+	Name:	Duomo San Rufino
+	Rechteinhaber der Fotos:	© Duomo San Rufino, Assisi
+	Hat die Fotorechte:	1

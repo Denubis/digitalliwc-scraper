@@ -1,0 +1,39 @@
+http://ark.dasch.swiss/ark:/72163/080e-73b8c9db9d12f-f
+Tritones (in Etruria)_48_1_0
+
+
+
+Monument
+	ID:	1508
+	Entdeckungsort:	Norchia
+	Objekt:	sarcophagus
+	Material:	stone
+	Herkunft:	Etruria
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Tritones
+	Museums-URL:	http://www.smb-digital.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=698138&viewType=detailView
+Szene
+	ID:	1418
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Tritones (in Etruria)
+	Katalognummer:	48
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Sk 1263
+Museum
+	Land:	DE
+	Stadt:	Berlin
+	Name:	Staatliche Museen zu Berlin, Antikensammlung
+	Direktor:	Dir. Prof. Dr. Andreas Scholl
+	Anrede:	Sehr geehrter Herr Professor,
+	Adresse:	Bodestrasse 1-3
+	Postleitzahl:	D-10178
+	E-Mail:	ant@smb.spk-berlin.de
+	Kontaktzenter:	Antikensammlung, Staatliche Museen zu Berlin - Preussischer Kulturbesitz
+	Stadt des Kontaktzenters:	Berlin
+	Rechteinhaber der Fotos:	© Staatliche Museen zu Berlin, Antikensammlung
+	Hat die Fotorechte:	1

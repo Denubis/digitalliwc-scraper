@@ -1,0 +1,30 @@
+http://ark.dasch.swiss/ark:/72163/080e-76ac8c15233ea-1
+
+
+
+Monument
+	ID:	202043
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	DE
+	Kategorie:	relief
+	Stichwort:	garland temple victimarius sacrifice Phrygian cap barbarian neat, cattle, bovine altar: round altar acroterion
+	Name:	Nike
+	Beschreibung:	Barbarenunterwerfung vor sitzendem Feldherrn. Eine Barbarenfamile (Kind, nach vorne gebeugte Frau, bärtiger Mann mit orientalischer Mütze) wird nach links zum Feldherrn geführt. Hinter diesem sitzt ein gefesselter Barbar und Viktoria schreibt den Sieg auf einem Schild auf. Rechts immolatio boum an einem Rundaltar (mit Girlanden geschmückt, Aschehaufen auf Deckplatte), neben dem Rind kniet ein victimarius; im Hintergrund ein Tempel in Schrägansicht, Giebeldach, Eckakrotere.
+	Bibliographie:	Gabelmann, H., Antike Audienz- und Tribunalszenen (1984) 184 Nr. 85; Fless, Opferdiener 74. 110 Kat 38 IV Taf. 39, 2.
+Datierung
+	Periode:	150 - 161 
+	Kommentar:	spät
+Epoche
+	Name:	antoninisch
+	Periode:	138 - 192 
+	Sequenznummer:	1210
+Szene
+	ID:	99031
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Poggio a Caiano
+	Rechteinhaber der Fotos:	© Poggio a Caiano
+	Hat die Fotorechte:	0

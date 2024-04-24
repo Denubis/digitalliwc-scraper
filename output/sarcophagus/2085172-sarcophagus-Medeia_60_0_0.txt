@@ -1,0 +1,35 @@
+http://ark.dasch.swiss/ark:/72163/080e-7472c962d06c9-2
+Medeia_60_0_0
+
+
+
+Monument
+	ID:	14618
+	Entdeckungsort:	Ostia
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Medeia
+	Beschreibung:	Medeia on her snake-drawn chariot.
+Szene
+	ID:	15059
+	Beschreibung:	Medeia on her snake-drawn chariot.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/porto_di_ostia/15059X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Medeia
+	Katalognummer:	60
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Episcopio
+Museum
+	Land:	IT
+	Stadt:	Porto (di Ostia)
+	Rechteinhaber der Fotos:	© Porto (di Ostia)
+	Hat die Fotorechte:	1

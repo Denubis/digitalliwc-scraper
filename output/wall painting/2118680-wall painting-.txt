@@ -1,0 +1,26 @@
+http://ark.dasch.swiss/ark:/72163/080e-7651d5e7c343d-5
+
+
+
+Monument
+	ID:	51710
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Bibliographie:	Steingräber, S., Catalogo ragionato della pittura etrusca (1984) n. 148 fig. 373.
+Szene
+	ID:	56926
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Tomba 3697
+Museum
+	Land:	IT
+	Stadt:	Tarquinia
+	Name:	Necropoli
+	Direktor:	Soprintendente Dott.ssa Anna Maria Moretti
+	Adresse:	Piazzale di Villa Giulia 9
+	Postleitzahl:	I-00196
+	Kontaktzenter:	Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Stadt des Kontaktzenters:	Roma
+	Rechteinhaber der Fotos:	© Soprintendenza per i Beni Archeologici dell'Etruria Meridionale
+	Hat die Fotorechte:	1

@@ -1,0 +1,57 @@
+http://ark.dasch.swiss/ark:/72163/080e-761630baa2dc1-7
+Achilleus_432_1_0
+Agamemnon_49_0_0
+
+
+
+Monument
+	ID:	44208
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 7,35 (Temple of Apollo)
+	Objekt:	mosaic
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	mosaic
+	Stichwort:	sceptre sword seat, chair, sedes, sedile
+	Name:	Achilleus Agamemnon Athena/Minerva
+	Bibliographie:	Schefold, WP 103; HBr I 73 pl. 142; Bianchi Bandinelli, R., Hellenistic Byzantine Miniatures of the Iliad (1955) 119 fig. 230; Sear, F. B., Roman Wall and Vault Mosaics, RM 23. Erg.-H. (1977) 70 no. 30 pl. 17, 2.
+Datierung
+	Periode:	45 - 79 
+Epoche
+	Name:	4. pompejanischer Stil
+	Periode:	45 - 79 
+	Sequenznummer:	1350
+Szene
+	ID:	46491
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/46491X101.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/46491X302.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	432
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Agamemnon
+	Katalognummer:	49
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	10006
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

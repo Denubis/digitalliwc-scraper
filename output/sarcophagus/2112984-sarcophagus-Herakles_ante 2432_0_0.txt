@@ -1,0 +1,32 @@
+http://ark.dasch.swiss/ark:/72163/080e-76006703bd4fd-a
+Herakles_ante 2432_0_0
+
+
+
+Monument
+	ID:	42658
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Herakles
+	Beschreibung:	Herakles attacks a Horse of Diomedes.
+Szene
+	ID:	49144
+	Beschreibung:	Herakles attacks a Horse of Diomedes.
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Herakles
+	Katalognummer:	ante 2432
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 1, 118
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Villa Wolkonsky
+	Rechteinhaber der Fotos:	© Villa Wolkonsky, Roma
+	Hat die Fotorechte:	1

@@ -1,0 +1,47 @@
+http://ark.dasch.swiss/ark:/72163/080e-73b1620542491-1
+Demeter/Ceres (vol. IV)_143_1_0
+Tellus_88_1_0
+Triptolemos_35_0_0
+
+
+
+Monument
+	ID:	983
+	Entdeckungsort:	Athens
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Demeter/Ceres Proserpina Triptolemos Dionysos/Bacchus Tellus
+	Beschreibung:	In the centre Ceres seated, depicted in profile view, wearing diadem and veil, in her left a sceptre, with her right shaking the hand of Proserpina; by Proserpina's side Triptolemos on a chariot drawn by two serpents, behind Ceres Dionysos.
+Szene
+	ID:	16293
+	Beschreibung:	In the centre Ceres seated, depicted in profile view, wearing diadem and veil, in her left a sceptre, with her right shaking the hand of Proserpina; by Proserpina's side Triptolemos on a chariot drawn by two serpents, behind Ceres Dionysos.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/wilton_house/16293X102.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Demeter/Ceres (vol. IV)
+	Katalognummer:	143
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Tellus
+	Katalognummer:	88
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Triptolemos
+	Katalognummer:	35
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Michaelis 137
+Museum
+	Land:	GB
+	Stadt:	Wilton House
+	Rechteinhaber der Fotos:	© Wilton House
+	Hat die Fotorechte:	1

@@ -1,0 +1,33 @@
+http://ark.dasch.swiss/ark:/72163/080e-76c13fa4ad632-9
+
+
+
+Monument
+	ID:	203497
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Figures from building 5046 in Karanis: east wall, from left to right - 1) a standing Kore; 2) a small unidentifiable nude figure on a cushion holding torches [Parlasca: Triptolemos]; 3) a standing Demeter; 4) Isis seated on a large throne; 5) Sarapis seated on a smaller throne extending his hand to a three-headed Cerberus; west wall from left to right - 1) Fragments of an unidentified standing figure; 2) unidentified enthroned male figure (the adult Harpocrates); 3) a small Harpocrates; 4) a winged- figure holding a torch (Erote); 5) a large standing female figure representing Isis-Fortuna or Hekate. This figure is flanked by two diminutive bulls, one with an altar
+	Bibliographie:	Parlaska, Kl., Mumienportraits und verwandte Denkmälern (1966) pl. 46, 1.
+Szene
+	ID:	100600
+	Beschreibung:	Figures from building 5046 in Karanis: east wall, from left to right - 1) a standing Kore; 2) a small unidentifiable nude figure on a cushion holding torches [Parlasca: Triptolemos]; 3) a standing Demeter; 4) Isis seated on a large throne; 5) Sarapis seated on a smaller throne extending his hand to a three-headed Cerberus; west wall from left to right - 1) Fragments of an unidentified standing figure; 2) unidentified enthroned male figure (the adult Harpocrates); 3) a small Harpocrates; 4) a winged- figure holding a torch (Erote); 5) a large standing female figure representing Isis-Fortuna or Hekate. This figure is flanked by two diminutive bulls, one with an altar
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	18
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VIII. 6.b. Religiöse Interaktionen, Ägypten
+	Bandnummer:	8
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	House 5046
+Museum
+	Land:	EG
+	Stadt:	Karanis
+	Rechteinhaber der Fotos:	© Karanis
+	Hat die Fotorechte:	0

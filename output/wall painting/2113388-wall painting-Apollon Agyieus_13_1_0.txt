@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-76062d9f0efe1-0
+Apollon Agyieus_13_1_0
+
+
+
+Monument
+	ID:	43062
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Haus of Augustus, Domus Augusti
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Augustus' house, so-called "Sala delle Maschere"; wall painting showing a pillar-like Agyieus, symbol of Apollon Agyieus
+Szene
+	ID:	45269
+	Beschreibung:	Augustus' house, so-called "Sala delle Maschere"; wall painting showing a pillar-like Agyieus, symbol of Apollon Agyieus
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/roma/palatino/casa_di_augusto/45269X001.jpg
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	346
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	II. 5. Kultbilder
+	Sequenznummer:	1800
+	Bandnummer:	2
+Catalog LIMC
+	Artikel:	Apollon Agyieus
+	Katalognummer:	13
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Sala delle Maschere
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palatino, Casa di Augusto
+	Rechteinhaber der Fotos:	© Roma
+	Hat die Fotorechte:	1

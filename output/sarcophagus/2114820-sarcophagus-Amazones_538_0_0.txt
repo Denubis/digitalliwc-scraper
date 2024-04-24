@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-761aa69f935d9-d
+Amazones_538_0_0
+
+
+
+Monument
+	ID:	44521
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	horse warrior, soldier Amazon
+	Name:	Amazones
+	Beschreibung:	Fragmente.
+	Bibliographie:	Kαλλιπολίτης, B. G., Χρονολογικη κατα ταξις...(1958) no.174; Giuliano, A., Il commercio dei sarcofagi attici (1962) 62 no. 387; Eichler,F., OeJh 35, 1946, 85 fig. 19 (B) fig. 20 (A).
+Datierung
+	Periode:	210 - 250 
+Epoche
+	Name:	1. Hälfte 3. Jh. n. Chr.
+	Periode:	200 - 250 
+	Sequenznummer:	3320
+Szene
+	ID:	46819
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Amazones
+	Katalognummer:	538
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	I 509
+Museum
+	Land:	AT
+	Stadt:	Wien
+	Name:	Kunsthistorisches Museum
+	Direktor:	Prof. Dr. Kurt Gschwantler
+	Anrede:	Sehr geehrter Herr Professor,
+	Adresse:	Burgring 5
+	Postleitzahl:	A-1010
+	Kontaktzenter:	Kunsthistorisches Museum
+	Stadt des Kontaktzenters:	Wien
+	Rechteinhaber der Fotos:	© Kunsthistorisches Museum Wien
+	Hat die Fotorechte:	1

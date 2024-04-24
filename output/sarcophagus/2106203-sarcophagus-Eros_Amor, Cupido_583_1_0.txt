@@ -1,0 +1,28 @@
+http://ark.dasch.swiss/ark:/72163/080e-759f751d001cc-c
+Eros/Amor, Cupido_583_1_0
+
+
+
+Monument
+	ID:	35827
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Eros/Amor, Cupido
+Szene
+	ID:	37663
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	583
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Cagliari
+	Name:	Cattedrale Santa Maria
+	Rechteinhaber der Fotos:	© Cagliari
+	Hat die Fotorechte:	0

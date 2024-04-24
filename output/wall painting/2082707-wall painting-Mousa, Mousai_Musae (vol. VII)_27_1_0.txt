@@ -1,0 +1,37 @@
+http://ark.dasch.swiss/ark:/72163/080e-744f8bb0678e4-4
+Mousa, Mousai/Musae (vol. VII)_27_1_0
+
+
+
+Monument
+	ID:	12138
+	Entdeckungsort:	Lyon
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Mousa, Mousai
+Szene
+	ID:	28337
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/france/lyon/musee_gallo-romain_de_lyon-fourviere/28337X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Mousa, Mousai/Musae (vol. VII)
+	Katalognummer:	27
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	FR
+	Stadt:	Lyon
+	Name:	Musée gallo-romain
+	Adresse:	17 Rue Cléberg
+	Postleitzahl:	F-69005
+	Kontaktzenter:	Musée Gallo-romain
+	Stadt des Kontaktzenters:	Lyon
+	Rechteinhaber der Fotos:	© Cliché Musée gallo-romain, Département du Rhône, Lyon
+	Kommentar:	Anciennement Musée de la Civilisation gallo-romaine.
+	Hat die Fotorechte:	1

@@ -1,0 +1,40 @@
+http://ark.dasch.swiss/ark:/72163/080e-765df1db04b08-d
+
+
+
+Monument
+	ID:	52624
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Beschreibung:	Sacred scribe (hierogrammateus) with a plumed headdress. He is reading a volumen. In the background a base with a cat crowned with a lotus.
+	Bibliographie:	Tran Tam Tinh, V., Essai sur le culte d’Isis à Pompéi (1964) 92.136  n. 30 tav. 5, 2; Sampaolo, V., La decorazione pittorica in: Alla ricerca di Iside. Analisi, studi e  restauri dell’Iseo pompeiano nel Museo di Napoli (1992) 49-50 n. 1.46.
+Szene
+	ID:	57877
+	Beschreibung:	Sacred scribe (hierogrammateus) with a plumed headdress. He is reading a volumen. In the background a base with a cat crowned with a lotus.
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	263
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.a. Kultpersonal, röm.
+	Kurzname:	Rom.
+	Sequenznummer:	4700
+	Bandnummer:	5
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8925
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

@@ -1,0 +1,64 @@
+http://ark.dasch.swiss/ark:/72163/080e-73f51763ee111-d
+Pan (S)_224_1_0
+Dionysos/Bacchus_214_1_0
+
+
+
+Monument
+	ID:	5751
+	Objekt:	sarcophagus
+	Material:	marble
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	altar tree garland fruit satyr, silen
+	Name:	Pan Dionysos/Bacchus Ariadne
+	Beschreibung:	Satyros transportant Pan ivre sur ses épaules. A droite arbre et autel chargé d’offrandes (fruits) et décoré par une guirlande. Der Altarkörper ist vieleckig (hexagonal?) und hat eine runde, profilierte Deckplatte. Old Bacchus and Ariadne on a carriage drawn by centaurs, in front of them satyrs and maenads.
+	Bibliographie:	SarkRel IV 1 n. 88 pl. 110, 2; 114.
+	Museums-URL:	http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1655873&partId=1&searchText=2298&from=bc&fromDate=800&to=ad&toDate=400&object=20589&page=1 http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1655875&partId=1&searchText=2298&from=bc&fromDate=800&to=ad&toDate=400&object=20589&page=1 http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1655882&partId=1&searchText=2298&from=bc&fromDate=800&to=ad&toDate=400&object=20589&page=1
+Datierung
+	Periode:	160 - 170 
+Epoche
+	Name:	3. Viertel 2. Jh. n. Chr.
+	Periode:	150 - 175 
+	Sequenznummer:	3220
+Szene
+	ID:	5851
+	Beschreibung:	Satyros transportant Pan ivre sur ses épaules. A droite arbre et autel chargé d’offrandes (fruits) et décoré par une guirlande. Der Altarkörper ist vieleckig (hexagonal?) und hat eine runde, profilierte Deckplatte. Old Bacchus and Ariadne on a carriage drawn by centaurs, in front of them satyrs and maenads.
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/british_museum/5851X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/british_museum/5851X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/london/british_museum/5851X101.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Pan (S)
+	Katalognummer:	224
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	214
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	2298
+Museum
+	Land:	GB
+	Stadt:	London
+	Name:	British Museum
+	Direktor:	Dr. Charles Arnold
+	Adresse:	Great Russell Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	British Museum - Greek and Roman Antiquities
+	Stadt des Kontaktzenters:	London WC 1B 3DG
+	Rechteinhaber der Fotos:	© British Museum, London
+	Hat die Fotorechte:	1

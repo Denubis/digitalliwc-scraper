@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-74417a5484bac-a
+Pegasos (Pegasos, Bellerophon)_31d_0_0
+Chimaira_113_0_0
+
+
+
+Monument
+	ID:	11145
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Chimaira Pegasos
+Szene
+	ID:	11416
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Pegasos (Pegasos, Bellerophon)
+	Katalognummer:	31d
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Chimaira
+	Katalognummer:	113
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	ES
+	Stadt:	Cordoue (Córdoba)
+	Name:	Alcázar de los Reyes Cristianos
+	Rechteinhaber der Fotos:	© Córdoba
+	Hat die Fotorechte:	0

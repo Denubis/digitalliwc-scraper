@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-74b23fc2a11bc-3
+Heros equitans (vol. VI)_34_1_0
+
+
+
+Monument
+	ID:	19108
+	Entdeckungsort:	Paros (Cyclades)
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Heros equitans
+Szene
+	ID:	19986
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/paros/musee_archeologique/19986X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Heros equitans (vol. VI)
+	Katalognummer:	34
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	GR
+	Stadt:	Paros
+	Name:	Musée Archéologique
+	Direktor:	Prof. Dr. Vassilis Lambrinoudakis
+	Adresse:	Christou Lada 6
+	Postleitzahl:	GR-10561
+	Kontaktzenter:	University of Athen - Special Account for Research Grants
+	Stadt des Kontaktzenters:	Athènes
+	Rechteinhaber der Fotos:	© Archaeological Museum of Paros
+	Hat die Fotorechte:	0

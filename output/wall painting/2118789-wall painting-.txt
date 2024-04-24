@@ -1,0 +1,64 @@
+http://ark.dasch.swiss/ark:/72163/080e-765364d61a91e-b
+
+
+
+Monument
+	ID:	51831
+	Entdeckungsort:	Oplontis
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	shield column cult image, cult statue round temple sanctuary thymiaterion, turibulum, incense-burner roofed colonade (stoa, porticus) propylaia, propylon, gateway, entrance architecture capital: Corinthian
+	Beschreibung:	Wandmalerei im Triclinium der Villa der Poppaea: Säulenarchitektur (Tornbau mit Scherwand, flankiert von mit filigranen goldenen Ranken verzierten Säulen, Thymiaterien, clipeus) mit Durchblick nach oben auf Monopteros (korinthische Säulen, mit Statue) in einem Säulenhof. Pagodendach.
+	Bibliographie:	Cain, Kandelaber 15. 19; Taf. 2, 4; De Franciscis, A., in Andreae, B./Kyrieleis, H. (Hsg.), Neue Forschungen in Pompeji (1975) 9–38 Abb. 4–5. 17. 23; Weber, M., Baldachine und Statuenschreine (1990) 108. 220 M 7 Taf. 54, 201; Cerulli Irelli, PWandmalerei Taf. 149; Guzzo, P.G./Fergola, L., Oplontis. La Villa di Poppea (2000) Farbabb. S. 42.
+Datierung
+	Kommentar:	~
+Epoche
+	Name:	2. pompejanischer Stil
+	Periode:	-80 - -1 
+	Sequenznummer:	1330
+Szene
+	ID:	57054
+	Beschreibung:	Wandmalerei im Triclinium der Villa der Poppaea: Säulenarchitektur (Tornbau mit Scherwand, flankiert von mit filigranen goldenen Ranken verzierten Säulen, Thymiaterien, clipeus) mit Durchblick nach oben auf Monopteros (korinthische Säulen, mit Statue) in einem Säulenhof. Pagodendach.
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	28
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	IV. 1.b. Kultorte (Darstellungen)
+	Sequenznummer:	4500
+	Bandnummer:	4
+Catalog Thes CRA
+	Indexnummer:	473
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Catalog Thes CRA
+	Indexnummer:	23
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	VIII. 4.i. Krieg, röm.
+	Bandnummer:	8
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Triclinio
+Museum
+	Land:	IT
+	Stadt:	Oplontis
+	Name:	Villa di Poppea
+	Direktor:	Soprintendente Prof.  Pietro Giovanni Guzzo
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archologica di Pompei
+	Hat die Fotorechte:	1

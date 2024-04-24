@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-74f0a74cf71bd-b
+Hypnos/Somnus_81_0_0
+
+
+
+Monument
+	ID:	23498
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hypnos/Somnus
+Szene
+	ID:	24666
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Hypnos/Somnus
+	Katalognummer:	81
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SarkRel III 1, 90
+Museum
+	Land:	IT
+	Stadt:	Roma
+	Name:	Palazzo Corsetti
+	Rechteinhaber der Fotos:	© Palazzo Corsetti, Roma
+	Hat die Fotorechte:	1

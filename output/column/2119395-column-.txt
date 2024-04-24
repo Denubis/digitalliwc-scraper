@@ -1,0 +1,48 @@
+http://ark.dasch.swiss/ark:/72163/080e-765c0ebf15174-4
+
+
+
+Monument
+	ID:	52482
+	Entdeckungsort:	Pompei
+	Objekt:	column
+	Land:	CH
+	Kategorie:	architecture
+	Beschreibung:	VI 5, 17-18; casa della Colonna Etrusca. Etruscan column with doric capital; originally a votive object, it was reused in the wall of the hellenistic house
+	Bibliographie:	Bonghi Jovino, M., Ricerche a Pompei. L’insula 5 della Regione VI, dalle origini al 79 d. C. (1984) 363-365 tav. 3.
+Szene
+	ID:	57736
+	Beschreibung:	VI 5, 17-18; casa della Colonna Etrusca. Etruscan column with doric capital; originally a votive object, it was reused in the wall of the hellenistic house
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog Thes CRA
+	Indexnummer:	2
+	Asterix:	1
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Hauptkapitel:	2
+	Name:	IV. 1.a. Kultorte, etr. ital. röm.
+	Kurzname:	Columna
+	Lemata:	Columna
+	Sequenznummer:	3480
+	Bandnummer:	4
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VI 5,17-18
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa della Colonna Etrusca

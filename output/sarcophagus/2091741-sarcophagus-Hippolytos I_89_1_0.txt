@@ -1,0 +1,38 @@
+http://ark.dasch.swiss/ark:/72163/080e-74d0b362812d6-6
+Hippolytos I_89_1_0
+
+
+
+Monument
+	ID:	21247
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hippolytos I
+Szene
+	ID:	22188
+	Sequenznummer:	10
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/trieste/civici_musei_di_storia_ed_arte_e_orto_lapidario/22188X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	89
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	3081
+Museum
+	Land:	IT
+	Stadt:	Trieste
+	Name:	Civici Musei di Storia ed Arte e Orto Lapidario
+	Direktor:	Direttore Dr. Adriano Dugulin
+	Adresse:	Via Rossini 4
+	Postleitzahl:	I-34121
+	Kontaktzenter:	Civici Musei di Storia ed Arte e Orto Lapidario
+	Stadt des Kontaktzenters:	Trieste
+	Rechteinhaber der Fotos:	© Civici Musei di Storia ed Arte
+	Hat die Fotorechte:	1

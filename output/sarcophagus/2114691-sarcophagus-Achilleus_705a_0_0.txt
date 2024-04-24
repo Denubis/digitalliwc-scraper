@@ -1,0 +1,27 @@
+http://ark.dasch.swiss/ark:/72163/080e-7618ce7e74d94-b
+Achilleus_705a_0_0
+
+
+
+Monument
+	ID:	44393
+	Objekt:	sarcophagus
+	Land:	CH
+	Kategorie:	relief
+	Name:	Achilleus
+	Bibliographie:	Wiegartz, H., Gnomon 37, 1965, 616 Nr. 16.
+Szene
+	ID:	46688
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	705a
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	TR
+	Stadt:	Termessos
+	Rechteinhaber der Fotos:	© Termessos
+	Hat die Fotorechte:	1

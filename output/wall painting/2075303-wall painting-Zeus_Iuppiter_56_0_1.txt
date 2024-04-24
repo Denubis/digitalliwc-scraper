@@ -1,0 +1,26 @@
+http://ark.dasch.swiss/ark:/72163/080e-73e5b1a8b9b48-6
+Zeus/Iuppiter_56_0_1
+
+
+
+Monument
+	ID:	4666
+	Entdeckungsort:	Urbisaglia
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	painting
+	Name:	Zeus/Iuppiter
+Szene
+	ID:	4731
+Catalog LIMC
+	Artikel:	Zeus/Iuppiter
+	Katalognummer:	56
+	Asterix:	0
+	Dot:	1
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	IT
+	Stadt:	Urbisaglia
+	Rechteinhaber der Fotos:	© Polo Museale delle Marche
+	Hat die Fotorechte:	0

@@ -1,0 +1,66 @@
+http://ark.dasch.swiss/ark:/72163/080e-743eca4400f00-6
+Kassandra I (vol. VII)_39_0_0
+Equus Troianus_13_1_0
+Achilleus_624_0_0
+
+
+
+Monument
+	ID:	10956
+	Entdeckungsort:	Rome
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	CH
+	Kategorie:	relief
+	Stichwort:	horse warrior, soldier war-chariot, harma, currus corpse Equus Troianus
+	Name:	Achilleus Hektor Equus Troianus Kassandra I
+	Bibliographie:	Robert, SarkRel II Nr. 64.
+Szene
+	ID:	11203
+	Szenerieangabe:	couvercle
+	Sequenznummer:	20
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/oxford/ashmolean_museum_of_art_and_archaeology/11203X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/oxford/ashmolean_museum_of_art_and_archaeology/11203X203.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/united_kingdom/oxford/ashmolean_museum_of_art_and_archaeology/11203X204.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Kassandra I (vol. VII)
+	Katalognummer:	39
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Equus Troianus
+	Katalognummer:	13
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	624
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	Michaelis 111
+Museum
+	Land:	GB
+	Stadt:	Oxford
+	Name:	Ashmolean Museum of Art and Archaeology
+	Direktor:	Ms. Katherine Wodehouse, Picture Library Manager
+	Anrede:	Dear Dr. Vickers,
+	Adresse:	Beaumont Street
+	Postleitzahl:	GB-
+	Kontaktzenter:	Ashmolean Museum of Art and Archaeology
+	Stadt des Kontaktzenters:	Oxford OX1 2PH
+	Rechteinhaber der Fotos:	© Ashmolean Museum of Art and Archaeology, Oxford
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Chandler 147

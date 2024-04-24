@@ -1,0 +1,63 @@
+http://ark.dasch.swiss/ark:/72163/080e-747eaac70c144-3
+Klytaimestra_45_0_0
+Achilleus_112_0_0
+Alkmaion_15_1_0
+Hippolytos I_76_0_0
+
+
+
+Monument
+	ID:	15455
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VII 1,25 (House of Siricus)
+	Objekt:	wall painting
+	Herkunft:	Roman
+	Land:	CH
+	Kategorie:	wall painting
+	Stichwort:	altar sword case wall, Town wall architecture
+	Name:	Achilleus Alkmaion Eriphyle I Hippolytos I Klytaimestra Orestes Phaidra Deidameia II
+	Bibliographie:	Robert, C., AZ 41 (1883) 259-260 pl. 9,1; Reinach, RépPeint 210, 6; Schefold, WP 166; Anti, C., ArchEph (1953/54) 282. 287-288 fig. 3;  Croisille, J.-M., Poésie et art figuré de Néron aux Flaviens (1982) 82. 86.  90-92 no. 38 pl. 30, 1.
+Datierung
+	Periode:	69 - 79 
+Epoche
+	Name:	vespasianisch
+	Periode:	69 - 79 
+	Sequenznummer:	1185
+Szene
+	ID:	15950
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Klytaimestra
+	Katalognummer:	45
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Achilleus
+	Katalognummer:	112
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Alkmaion
+	Katalognummer:	15
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Hippolytos I
+	Katalognummer:	76
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8994
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

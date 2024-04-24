@@ -1,0 +1,55 @@
+http://ark.dasch.swiss/ark:/72163/080e-7473631a3f91b-c
+Melampous_9_0_0
+Apollon/Apollo_286_1_0
+Cheiron_102_0_0
+
+
+
+Monument
+	ID:	14661
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VIII 3,13 (Casa d'Adonide)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Apollon/Apollo Cheiron Melampous
+	Beschreibung:	Apollon, Cheiron and Asklepios or Melampous.
+Szene
+	ID:	15105
+	Beschreibung:	Apollon, Cheiron and Asklepios or Melampous.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/15105X201.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Melampous
+	Katalognummer:	9
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	286
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Cheiron
+	Katalognummer:	102
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	8846
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

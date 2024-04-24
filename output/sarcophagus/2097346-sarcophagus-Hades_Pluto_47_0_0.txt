@@ -1,0 +1,34 @@
+http://ark.dasch.swiss/ark:/72163/080e-7520d5391650f-3
+Hades/Pluto_47_0_0
+
+
+
+Monument
+	ID:	26901
+	Objekt:	sarcophagus
+	Material:	stone
+	Land:	CH
+	Kategorie:	sarcophagus
+	Name:	Hades/Pluto
+Szene
+	ID:	28259
+	Sequenznummer:	10
+Catalog LIMC
+	Artikel:	Hades/Pluto
+	Katalognummer:	47
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	A 224
+Museum
+	Land:	IT
+	Stadt:	Messina
+	Name:	Museo Regionale
+	Direktor:	Dott.ssa Carmela Di Bartolo
+	Adresse:	Viale della Libertà 465
+	Postleitzahl:	I-98121
+	Kontaktzenter:	Museo Regionale - Archivio Fotografico e Documentazione
+	Stadt des Kontaktzenters:	Messina
+	Rechteinhaber der Fotos:	© Museo Regionale, Messina
+	Hat die Fotorechte:	0

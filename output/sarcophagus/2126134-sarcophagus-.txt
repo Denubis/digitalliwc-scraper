@@ -1,0 +1,56 @@
+http://ark.dasch.swiss/ark:/72163/080e-76bc66ee63253-8
+
+
+
+Monument
+	ID:	203109
+	Entdeckungsort:	Rome
+	Entdeckungsort Details:	Via Appia
+	Objekt:	sarcophagus
+	Material:	marble
+	Land:	DE
+	Kategorie:	relief
+	Stichwort:	kerykeion, caduceus snake lagobolon, pedum panther, leopard thyrsos rhyton tympanon (tambourine) pillar mask kantharos pipe, flute, aulos, tibiae cista mystica he-goat goatskin liknon, vannus, winnowing-fan krotalon, krotala cloth, textile cista, kiste wedding veil satyr, silen maenad
+	Name:	Ariadne Dionysos Eros Hermes Pan
+	Beschreibung:	l. NS: nur grob behauen. VS: Dionysos mit Thyrsos und Ariadne mit Kantharos und Tympanon sitzen zentral. Vor ihnen ein Agon zwischen zwei Eroten, einem kleinen Pan und einem kleinen Silen. Zwischen den Kämpfenden steht eine Ciste, aus der eine Schlange kriecht. Außerdem ein Panther und ein Bock. Unterhalb des linken Fußes von Dionysos steht ein Liknon, das noch zur Hälfte mit einem Tuch bedeckt ist. Links und rechts der Szene verschiedene "Zuschauer". So links des Dionysos etwa: Hermes mit caduceus, eine Mänade und ein Satyr. Rechts von Ariadne stehen ein Satyr mit Lagobolon und eine Mänade mit Thyrsos, die sich auf einen Pfeiler stützt, auf dem Dionysos mit Thyrsos dargestellt ist. Die gesamte Szene wird auf beiden Seiten von einem bärtigen Gott in Chiton mit Tympanon beschlossen. r. NS: Erot vor Panther. Dahinter Silensmaske.Deckel: Hochzeitsszene von Dionysos und Ariadne. Das Paar lagert zentral. Dionysos stützt sich auf seinen Thyrsos und hält in der gesenkten Rechten einen Kantharos. Ihm gegenüber ein Satyr, der Rhyton zum Mund führt und in der gesenkten Linken ein Lagobolon hält. Ariadne stützt sich ebenso wie Dionysos auf den Thyrsos. Hinter ihr sitzt eine Flötenspielerin, die mit dem Fup das Kroupezion tritt. Hinter ihr versuchen zwei  Mädchen den betrunkenen Pan aufzurichten, dahinter hebt ein weiteres Mädchen ein Tuch von einem Liknon. Hinter ihr bückt sich eine Frau über eine Ciste und hebt den Deckel an. Eine Schlange kriecht heraus. Ganz rechts befindet sich ein Satyr mit Bocksefell und Pedum in der Linken. Hinter Dionysos steht ein Mädchen, dass zu dem lagernden Paar hinüberschaut. Hinter ihr kommt eine Pantherbiga herbeigefahren. Auf dem rechten Panther sitzt ein leierspielender Eros. Auf den Wagen steigt Dionysos mit Thyrsos. 
+	Bibliographie:	SarkRel IV 2 Nr.75 Taf. 85-91.
+Datierung
+	Periode:	117 - 138 
+	Kommentar:	Sieveking
+Epoche
+	Name:	hadrianisch
+	Periode:	117 - 138 
+	Sequenznummer:	1200
+Datierung
+	Periode:	193 - 205 
+	Kommentar:	Lehmann, Lippold, Matz, Rodenwaldt, Van Essen
+Epoche
+	Name:	severisch
+	Periode:	193 - 235 
+	Sequenznummer:	1230
+Szene
+	ID:	100146
+	Beschreibung:	l. NS: nur grob behauen. VS: Dionysos mit Thyrsos und Ariadne mit Kantharos und Tympanon sitzen zentral. Vor ihnen ein Agon zwischen zwei Eroten, einem kleinen Pan und einem kleinen Silen. Zwischen den Kämpfenden steht eine Ciste, aus der eine Schlange kriecht. Außerdem ein Panther und ein Bock. Unterhalb des linken Fußes von Dionysos steht ein Liknon, das noch zur Hälfte mit einem Tuch bedeckt ist. Links und rechts der Szene verschiedene "Zuschauer". So links des Dionysos etwa: Hermes mit caduceus, eine Mänade und ein Satyr. Rechts von Ariadne stehen ein Satyr mit Lagobolon und eine Mänade mit Thyrsos, die sich auf einen Pfeiler stützt, auf dem Dionysos mit Thyrsos dargestellt ist. Die gesamte Szene wird auf beiden Seiten von einem bärtigen Gott in Chiton mit Tympanon beschlossen. r. NS: Erot vor Panther. Dahinter Silensmaske.Deckel: Hochzeitsszene von Dionysos und Ariadne. Das Paar lagert zentral. Dionysos stützt sich auf seinen Thyrsos und hält in der gesenkten Rechten einen Kantharos. Ihm gegenüber ein Satyr, der Rhyton zum Mund führt und in der gesenkten Linken ein Lagobolon hält. Ariadne stützt sich ebenso wie Dionysos auf den Thyrsos. Hinter ihr sitzt eine Flötenspielerin, die mit dem Fup das Kroupezion tritt. Hinter ihr versuchen zwei Mädchen den betrunkenen Pan aufzurichten, dahinter hebt ein weiteres Mädchen ein Tuch von einem Liknon. Hinter ihr bückt sich eine Frau über eine Ciste und hebt den Deckel an. Eine Schlange kriecht heraus. Ganz rechts befindet sich ein Satyr mit Bocksefell und Pedum in der Linken. Hinter Dionysos steht ein Mädchen, dass zu dem lagernden Paar hinüberschaut. Hinter ihr kommt eine Pantherbiga herbeigefahren. Auf dem rechten Panther sitzt ein leierspielender Eros. Auf den Wagen steigt Dionysos mit Thyrsos.
+Catalog Thes CRA
+	Indexnummer:	825
+	Asterix:	0
+	Dot:	0
+Catalog Thes CRA Kapitel
+	Name:	V. 2.b. Kultinstrumente
+	Sequenznummer:	4800
+	Bandnummer:	5
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	778
+Museum
+	Land:	DK
+	Stadt:	Copenhague
+	Name:	Glyptothèque Ny Carlsberg
+	Direktor:	Curator Claus Grønne
+	Anrede:	Dear Curator,
+	Adresse:	Dantes Pl. 7
+	Postleitzahl:	DK-1556
+	Kontaktzenter:	Archives and Library. Glyptothèque Ny Carlsberg
+	Stadt des Kontaktzenters:	Copenhague V
+	Rechteinhaber der Fotos:	© Ny Carlsberg Glyptothek
+	Hat die Fotorechte:	1

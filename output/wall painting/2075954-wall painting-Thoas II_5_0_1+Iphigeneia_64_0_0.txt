@@ -1,0 +1,43 @@
+http://ark.dasch.swiss/ark:/72163/080e-73ef0043f473f-f
+Thoas II_5_0_1
+Iphigeneia_64_0_0
+
+
+
+Monument
+	ID:	5320
+	Entdeckungsort:	Ephesos (Ionia)
+	Entdeckungsort Details:	Hanghaus 2
+	Objekt:	wall painting
+	Herkunft:	Asia Minor
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Iphigeneia Thoas II
+	Beschreibung:	At right a figure wearing a male tragic mask, turning his back to another person. Thoas (II) and Iphigeneia?
+	Inschrift:	...NEIA
+Datierung
+	Periode:	150 - 200 
+Szene
+	ID:	5411
+	Beschreibung:	At right a figure wearing a male tragic mask, turning his back to another person. Thoas (II) and Iphigeneia?
+	Inschrift:	...NEIA
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Thoas II
+	Katalognummer:	5
+	Asterix:	0
+	Dot:	1
+Catalog LIMC
+	Artikel:	Iphigeneia
+	Katalognummer:	64
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	SR 6
+Museum
+	Land:	TR
+	Stadt:	Ephèse
+	Name:	Hanghaus 2
+	Rechteinhaber der Fotos:	© Ephesos
+	Hat die Fotorechte:	1

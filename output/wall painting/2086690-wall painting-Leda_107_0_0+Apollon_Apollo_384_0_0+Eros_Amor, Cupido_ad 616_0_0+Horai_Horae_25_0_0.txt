@@ -1,0 +1,60 @@
+http://ark.dasch.swiss/ark:/72163/080e-74887d2413cef-1
+Leda_107_0_0
+Apollon/Apollo_384_0_0
+Eros/Amor, Cupido_ad 616_0_0
+Horai/Horae_25_0_0
+
+
+
+Monument
+	ID:	16147
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	VI 13,6 (Casa del Forno di Ferro)
+	Objekt:	wall painting
+	Herkunft:	Campania
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Horai/Horae Eros/Amor, Cupido Leda
+	Beschreibung:	The Hora of Autumn with a bunch of grapes.
+Szene
+	ID:	17386
+	Beschreibung:	The Hora of Autumn with a bunch of grapes.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Leda
+	Katalognummer:	107
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Apollon/Apollo
+	Katalognummer:	384
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 616
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Horai/Horae
+	Katalognummer:	25
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	VI 13,6
+Museum
+	Land:	IT
+	Stadt:	Pompei
+	Direktor:	Soprintendente Prof. Pietro Giovanni Guzzo
+	Anrede:	Chiarissimo Soprintendente,
+	Adresse:	Via Villa dei Misteri, 2
+	Postleitzahl:	I-80040
+	Kontaktzenter:	Soprintendenza Archeologica di Pompei
+	Stadt des Kontaktzenters:	Pompei
+	Rechteinhaber der Fotos:	© Soprintendenza Archeologica di Pompei
+	Kommentar:	Les mosaïques et peintures murales qui sont conservées au Musée National de Naples ne sont pas comprises dans la liste qui suit.
+	Hat die Fotorechte:	1
+Inventar
+	Spezifikation:	2. Inv.
+	Nummer:	Casa del Forno

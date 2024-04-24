@@ -1,0 +1,29 @@
+http://ark.dasch.swiss/ark:/72163/080e-73f5ef5353578-d
+Venus_345_1_0
+
+
+
+Monument
+	ID:	5810
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Venus
+	Beschreibung:	Venus with sceptre and Amor.
+Szene
+	ID:	5913
+	Beschreibung:	Venus with sceptre and Amor.
+	Sequenznummer:	1
+Catalog LIMC
+	Artikel:	Venus
+	Katalognummer:	345
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	AT
+	Stadt:	Magdalensberg
+	Name:	Archäologischer Park Magdalensberg
+	Rechteinhaber der Fotos:	© Archäologischer Park Magdalensberg
+	Hat die Fotorechte:	1

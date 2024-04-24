@@ -1,0 +1,64 @@
+http://ark.dasch.swiss/ark:/72163/080e-753daeefcdff9-e
+Hebe I/Iuventus_9_0_0
+Eros/Amor, Cupido_294_1_0
+Eros/Amor, Cupido_ad 691_0_0
+Eros/Amor, Cupido_692_0_0
+
+
+
+Monument
+	ID:	28930
+	Entdeckungsort:	Trier, Augusta Treverorum, Colonia Augusta Treverorum, Treveris
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Hebe I/Iuventus Eros/Amor, Cupido
+	Beschreibung:	The young woman with veil, stephane and kantharos was identified as personification of Tryphe or as Iuventus.
+Szene
+	ID:	30341
+	Beschreibung:	The young woman with veil, stephane and kantharos was identified as personification of Tryphe or as Iuventus.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/trier/bischoefliches_dom-_und_dioezesanmuseum/30341X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/trier/bischoefliches_dom-_und_dioezesanmuseum/30341X002.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/trier/bischoefliches_dom-_und_dioezesanmuseum/30341X003.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/germany/trier/bischoefliches_dom-_und_dioezesanmuseum/30341X303.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Hebe I/Iuventus
+	Katalognummer:	9
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	294
+	Asterix:	1
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	ad 691
+	Asterix:	0
+	Dot:	0
+Catalog LIMC
+	Artikel:	Eros/Amor, Cupido
+	Katalognummer:	692
+	Asterix:	0
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+Museum
+	Land:	DE
+	Stadt:	Trier
+	Name:	Bischöfliches Dom- und Diözesanmuseum
+	Rechteinhaber der Fotos:	© Bischöfliches Dom- und Diözesanmuseum Trier
+	Hat die Fotorechte:	1

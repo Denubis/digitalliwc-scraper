@@ -1,0 +1,46 @@
+http://ark.dasch.swiss/ark:/72163/080e-75b195e389590-a
+Dionysos/Bacchus_177_1_0
+
+
+
+Monument
+	ID:	37108
+	Entdeckungsort:	Pompei
+	Entdeckungsort Details:	V 4,11 (House of M. Lucretius Fronto)
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Dionysos/Bacchus
+	Beschreibung:	Bacchus in the arms of silen, who is seated on a chariot, around them satyrs, maenads, Pan.
+Szene
+	ID:	39006
+	Beschreibung:	Bacchus in the arms of silen, who is seated on a chariot, around them satyrs, maenads, Pan.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/39006X001.jpg
+Foto
+	Monument-URL:	http://www.limc.ch/Images/italy/napoli/museo_archeologico_nazionale/39006X302.jpg
+Foto
+	Neues Foto:	1
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Dionysos/Bacchus
+	Katalognummer:	177
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	9285
+Museum
+	Land:	IT
+	Stadt:	Napoli
+	Name:	Museo Archeologico Nazionale
+	Direktor:	Monsieur Jean-Pierre Brun
+	Adresse:	Via F. Crispi 86
+	Postleitzahl:	I-80121
+	Kontaktzenter:	Directeur du Centre Jean Bérard                         Institut français de Naples
+	Stadt des Kontaktzenters:	Napoli
+	Rechteinhaber der Fotos:	© Museo Archeologico Nazionale Napoli
+	Kommentar:	La collection Santangelo est abrégée ici Stg et non SA.
+	Hat die Fotorechte:	1

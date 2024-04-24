@@ -1,0 +1,41 @@
+http://ark.dasch.swiss/ark:/72163/080e-73b0239b92e9e-5
+Zeus_289_1_0
+
+
+
+Monument
+	ID:	892
+	Entdeckungsort:	Corinth, Korinthos, Colonia Laus Iulia Corinthiensis
+	Objekt:	wall painting
+	Land:	CH
+	Kategorie:	wall painting
+	Name:	Zeus
+	Beschreibung:	Nude bearded Zeus with sceptre and eagle.
+Szene
+	ID:	804
+	Beschreibung:	Nude bearded Zeus with sceptre and eagle.
+	Sequenznummer:	1
+Foto
+	Monument-URL:	http://www.limc.ch/Images/greece/corinthe/musee_archeologique/804X001.jpg
+Foto
+	Neues Foto:	1
+Catalog LIMC
+	Artikel:	Zeus
+	Katalognummer:	289
+	Asterix:	1
+	Dot:	0
+Inventar
+	Spezifikation:	1. Inv.
+	Nummer:	A-1988-6
+Museum
+	Land:	GR
+	Stadt:	Corinthe
+	Name:	Musée Archéologique
+	Direktor:	Director Dr. Guy Sanders
+	Anrede:	Dear Director,
+	Adresse:	Odos Souidias 54
+	Postleitzahl:	GR-106 76
+	Kontaktzenter:	American School of Classical Studies - Corinth Excavations
+	Stadt des Kontaktzenters:	Athens
+	Rechteinhaber der Fotos:	© Archaeological Museum of Corinth
+	Hat die Fotorechte:	1
